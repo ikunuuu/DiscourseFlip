@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Manchester United F.C.",
+    "wiki_title": "Manchester United F.C.",
+    "summary": "Manchester United is often invoked as both a symbol of English footballing greatness and a poster child for modern commercialization: supporters and traditionalists use its history, global brand and rivalries to defend legacy-driven choices, while critics point to the Glazer takeover, debt and post‑Ferguson decline to justify calls for fan ownership, stricter financial governance and limits on profiteering. Debates about the club therefore frame broader arguments about local identity, class, and how professional football should be run.",
+    "queries": [
+      "How do fans view Manchester United F.C.'s recent direction?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "sporting performance",
+    "wiki_title": "sport",
+    "summary": "In public debates about Manchester United F.C., appeals to “sport” serve as a moral and practical yardstick—critics invoke sporting values like meritocracy, competitive integrity and youth development to condemn perceived over-commercialization, mismanagement and owner interference, while defenders argue commercial and structural decisions are necessary to fund competitiveness and global growth. Those sport-based claims also drive policy positions on Financial Fair Play, opposition to breakaway competitions like the Super League, transfer strategy and player welfare, with each side claiming to uphold the true interests of the game.",
+    "queries": [
+      "How do fans view Manchester United’s sporting performance?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "erik ten hag",
+    "wiki_title": "erik ten hag",
+    "summary": "Erik ten Hag is frequently cited in debates about Manchester United as the managerial figure representing a return to discipline, tactical structure, and youth development—supporters use his appointment to argue the club should back a coherent long-term project and stronger coaching control. Conversely, critics invoke his name to justify calls for change, blaming him for tactical rigidity, inconsistent results and poor recruitment, and using his record to demand board-level overhaul or a different managerial profile.",
+    "queries": [
+      "Are Erik ten Hag's transfer decisions for Manchester United justified?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "ralf rangnick",
+    "wiki_title": "ralf rangnick",
+    "summary": "Ralf Rangnick is frequently cited in arguments about Manchester United’s ongoing managerial turmoil and footballing identity: supporters credit his interim tenure for bringing immediate tactical structure, pressing intensity and attention to youth, while critics use his short-term appointment to argue the club favors stopgap fixes over a coherent long-term plan, accusing his pragmatic style and behind-the-scenes role of producing uninspiring football and little sustained progress.",
+    "queries": [
+      "What impact has ralf rangnick had on Manchester United so far?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "high pressing",
+    "wiki_title": "high press",
+    "summary": "References to a high press are frequently used to judge Manchester United’s tactical identity—critics argue United’s inconsistent or absent high pressing under recent managers shows a lack of modern intensity and poor recruitment, while supporters point to periods of effective pressing (e.g., under Ten Hag) as evidence of progress. The concept also shapes transfer and managerial debates, being cited to demand press-capable players and coaches or, conversely, to warn that an ill-executed high press can leave United exposed defensively.",
+    "queries": [
+      "Is Manchester United's high pressing approach justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "antony (footballer)",
+    "wiki_title": "antony",
+    "summary": "Antony’s high-profile signing and uneven form are often invoked in debates about Manchester United’s transfer strategy and scouting — critics use his fee, perceived tactical mismatch and off-field controversies to argue the club purchases flair over fit and mishandles signings. Supporters and some analysts counter that Antony’s struggles reflect adaptation and coaching issues, using him to push for patience, better integration of foreign recruits, or changes in managerial development methods.",
+    "queries": [
+      "What impact has Antony had on Manchester United's attack?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "casemiro",
+    "wiki_title": "casemiro",
+    "summary": "Casemiro’s signing is frequently cited by supporters as proof United are serious about winning immediately—his experience, leadership and defensive presence are used to defend big spending and a shift toward a more pragmatic midfield. Critics use his age, cost and mobility limits to argue the club favors expensive short‑term fixes over long‑term rebuilding and to blame him when deeper structural or transitional problems persist.",
+    "queries": [
+      "How do fans view Casemiro's performances for Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "bruno fernandes",
+    "wiki_title": "bruno fernandes",
+    "summary": "Bruno Fernandes is often cited as proof that astute recruitment and on-field leadership can jump-start Manchester United’s fortunes, with fans using his impact to argue for backing managers and spending on creative midfield talent. Conversely, critics invoke dependence on Fernandes and his occasional high-profile errors to argue the club still lacks squad depth, tactical coherence, and effective transfer/ownership strategy.",
+    "queries": [
+      "Is bruno fernandes' influence at Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "sporting cp",
+    "wiki_title": "sporting cp",
+    "summary": "Sporting CP is often invoked in debates about Manchester United as the Portuguese academy that produced Cristiano Ronaldo (and later supplied Bruno Fernandes), used to justify smart recruitment from Portugal and to praise signings that revitalise the squad. At the same time Sporting’s steady output and transfer-driven model is used to criticize United’s decline in youth development and perceived overreliance on expensive, short-term transfers instead of producing homegrown talent.",
+    "queries": [
+      "How do fans view sporting cp’s dealings with Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "portugal national team",
+    "wiki_title": "portugal national football team",
+    "summary": "References to the Portugal national team—most notably through Cristiano Ronaldo and other Portuguese internationals—are frequently used by fans, pundits and club critics to argue that Manchester United should prioritize marquee, goal‑scoring talent and global marketing appeal; conversely, critics invoke Portugal-related episodes (e.g., Ronaldo’s exits/returns) to frame United’s leadership as short‑sighted, too focused on star power over coherent squad building and modern tactical identity. These Portugal‑linked narratives thus support signing and celebrating Portuguese players as quick fixes while criticizing club policy when such moves are seen to undermine long‑term planning.",
+    "queries": [
+      "Is Manchester United’s connection with the portugal national team justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "ole gunnar solskjær",
+    "wiki_title": "ole gunnar solskjær",
+    "summary": "Ole Gunnar Solskjær is often invoked as the embodiment of United’s tradition — a former club hero whose caretaker-era emotional lift and emphasis on youth are used to justify patient, continuity-focused policies and a return to the ‘Manchester United way.’ Conversely, his later managerial shortcomings are cited by critics to argue against sentimental appointments, to fault the board’s transfer and strategic judgment, and to demand more decisive, tactically astute leadership.",
+    "queries": [
+      "Is ole gunnar solskjær's managerial approach at Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "penalty (association football)",
+    "wiki_title": "penalty kick (association football)",
+    "summary": "Debates about penalty kicks frequently serve as flashpoints in discussions of Manchester United, with supporters and rivals using awarded or denied penalties to argue for refereeing bias, VAR failures, or the legitimacy of match outcomes and points that affect the club’s standing. Penalty incidents also shape narratives about players and managers—fueling praise when clutch spot-kicks win games, or criticism for perceived simulation, tactical ‘gamesmanship,’ or reliance on set-piece decisions rather than open-play quality.",
+    "queries": [
+      "Are Manchester United penalties awarded fairly or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "premier league",
+    "wiki_title": "premier league",
+    "summary": "The Premier League serves as the main yardstick for Manchester United’s reputation—fans cite historic league titles and global visibility to defend the club’s stature, while critics use recent league finishes, points and head-to-head results (especially versus Manchester City) to argue the owners’ mismanagement and broken sporting strategy. Commentators also invoke Premier League revenues, TV deals and competitive rules to justify calls for changes in United’s transfer policy, governance and accountability.",
+    "queries": [
+      "Is Manchester United's spending in the Premier League justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "manchester city f.c.",
+    "wiki_title": "manchester city f.c.",
+    "summary": "Manchester City is routinely invoked as Manchester United’s foil and benchmark—fans, pundits, and critics cite City’s recent on-field success under wealthy, data-driven ownership to lambaste United’s Glazer-era commercialization, poor recruitment and managerial instability or, conversely, to urge United to emulate City’s investment model. City is also used in debates over identity and policy—derby results and transfer spending feed arguments for takeover, structural change, or stricter financial regulation targeting United’s perceived failings.",
+    "queries": [
+      "Is criticism of manchester city f.c. by Manchester United fans justified?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "liverpool f.c.",
+    "wiki_title": "liverpool f.c.",
+    "summary": "Liverpool is repeatedly used as Manchester United’s chief foil—fans, pundits and rivals invoke Liverpool’s trophy hauls, managerial eras and cultural image to measure United’s success or failure, bolstering or undermining United’s claims to supremacy. Periods when Liverpool rise are deployed to criticize United’s ownership, commercial priorities and managerial decisions, while United supporters counter by citing their club’s historical dominance to defend legitimacy.",
+    "queries": [
+      "How do Manchester United fans view liverpool f.c.?"
+    ]
+  },
+  {
+    "id": "C1-3-8",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "var",
+    "wiki_title": "var",
+    "summary": "In debates about Manchester United, “VAR” is frequently invoked to explain or contest pivotal match moments—fans, pundits, and club figures often blame VAR rulings for overturned goals, penalties given or denied, and tight offside calls, portraying outcomes as products of technological error or perceived officiating bias. These disputes are used both to demand greater transparency and consistency in officiating protocols and to frame narratives about fairness, competence, or institutional treatment of the club.",
+    "queries": [
+      "How do fans view var use involving Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "uefa champions league",
+    "wiki_title": "uefa champions league",
+    "summary": "The Champions League functions as the chief yardstick for Manchester United’s ambitions—supporters, pundits and investors use qualification or deep runs to justify praise, big-money signings or managerial appointments, while failures to qualify are deployed to criticise the Glazer ownership, board decisions and perceived decline. It also frames comparisons with rivals (City, Liverpool, etc.), being cited to argue for either radical structural change or continued investment aimed at restoring United to elite European status.",
+    "queries": [
+      "Is Manchester United’s participation in the uefa champions league justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "cristiano ronaldo",
+    "wiki_title": "cristiano ronaldo",
+    "summary": "Ronaldo is invoked in debates about Manchester United as both proof of the club’s global pull and as a symbol of its recent problems — supporters point to his signings and commercial impact as evidence United can still attract elite stars, while critics use his high-profile return, disputes and underwhelming sporting outcomes to argue the club prioritises short‑term marketing over a coherent, youth‑centered rebuild. His presence is routinely used to criticise transfer strategy, managerial decisions and ownership priorities, or to justify calls for structural change.",
+    "queries": [
+      "What impact has cristiano ronaldo had on Manchester United recently?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "real madrid cf",
+    "wiki_title": "real madrid cf",
+    "summary": "Real Madrid is routinely invoked as Manchester United’s benchmark or foil — critics point to Real’s sustained elite success, superstar signings and member-centric image to argue United’s owners have mismanaged the club commercially and on the pitch, while supporters who favour big-money acquisitions cite Real’s ‘buy success’ model to justify heavy spending. High-profile moments like Cristiano Ronaldo’s move from United to Real are used to claim United are a selling club or to push for changes in ownership, transfer strategy, or youth development priorities.",
+    "queries": [
+      "Is real madrid cf reasonable in its approach to Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "old trafford",
+    "wiki_title": "old trafford",
+    "summary": "Old Trafford is invoked as a physical symbol of Manchester United’s prestige and history to justify ambitious commercial strategies, stadium expansion and the club’s global brand positioning; supporters and executives point to it when arguing the club should prioritize revenue and world-class facilities. Conversely, critics use the stadium to frame arguments against current ownership and commercialization—citing ticket prices, loss of atmosphere, underinvestment in fan experience or controversial relocation/expansion plans—to claim the club has strayed from its working-class roots.",
+    "queries": [
+      "How do people view Old Trafford's redevelopment plans for Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "manchester derby",
+    "wiki_title": "manchester derby",
+    "summary": "The Manchester derby is used as a short-hand barometer of Manchester United's health—a derby win is cited to validate managers, tactics, and transfer policy and to bolster club identity, while losses are deployed to criticize recruitment, coaching, or ownership and to demand change. Media and fans use derby outcomes to frame United’s status relative to City, shaping narratives about long-term strategy (invest vs. rebuild), legitimacy, and tribal pride.",
+    "queries": [
+      "What effects has the manchester derby had?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "etihad stadium",
+    "wiki_title": "city of manchester stadium",
+    "summary": "The City of Manchester (Etihad) Stadium is invoked in discussions about Manchester United as a visual shorthand for City's modern, corporate-backed rise—used by pundits and rivals to claim United have been eclipsed by a publicly-supported, wealthy neighbour—while United fans counterpose Old Trafford’s tradition; it also figures in critiques about public funding and competitive imbalances between the clubs.",
+    "queries": [
+      "Is criticism of the Etihad Stadium’s ticket pricing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "pep guardiola",
+    "wiki_title": "pep guardiola",
+    "summary": "Pep Guardiola is frequently invoked in debates about Manchester United as the benchmark for modern, possession-based coaching and successful club-building, with fans and pundits using his sustained success at Manchester City to criticize United's managerial churn, transfer strategy, and executive decisions. References to Guardiola often support arguments for long-term planning, data-driven recruitment, and structural change at United while being used by opponents to highlight perceived failings of ownership and sporting leadership.",
+    "queries": [
+      "Is Pep Guardiola the right benchmark for Manchester United's progress?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "wayne rooney",
+    "wiki_title": "wayne rooney",
+    "summary": "Rooney is regularly invoked as the embodiment of Manchester United’s traditional attacking, youth-driven identity—supporters cite his rise and iconic moments to argue for a return to home‑grown talent, attacking football and clearer club culture. Conversely, critics use his era as a benchmark to condemn post‑Ferguson decline, poor recruitment and managerial missteps that they say have eroded United’s standards.",
+    "queries": [
+      "Was Wayne Rooney's treatment by Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "glazer family",
+    "wiki_title": "malcolm glazer",
+    "summary": "Malcolm Glazer is routinely invoked by critics as the face of debt-financed, profit-driven ownership that alienated supporters, fuelled protests (e.g., “Love United, Hate Glazer”) and is used to argue against commercialisation and lack of fan influence at Manchester United. Conversely, supporters and club executives cite his takeover and subsequent family stewardship as the catalyst for the club’s modern commercial expansion and financial stability, framing his role as pragmatic modernisation necessary for competing at the highest level.",
+    "queries": [
+      "Is the Glazer family's ownership of Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "joel glazer",
+    "wiki_title": "joel glazer",
+    "summary": "Joel Glazer is widely cast by fans and commentators as the face of Manchester United’s unpopular, profit-first ownership—blamed for the debt from the leveraged buyout, perceived underinvestment in the squad, rising costs for supporters, and the Super League bid—which drives calls for a sale or greater fan control. Defenders argue his tenure has delivered major commercial growth and financial stability that underpin the club’s global profile.",
+    "queries": [
+      "What consequences has Joel Glazer's tenure brought to Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "avram glazer",
+    "wiki_title": "avram glazer",
+    "summary": "Avram Glazer is often invoked by critics as a symbol of the Glazer family's unpopular, profit-driven ownership—blamed for the leveraged-buyout debt, perceived absentee management, commercialization of the club, and backing of projects like the European Super League—used to justify fan protests and demands for fan ownership or change. Defenders, however, point to the commercial growth and global revenue under his tenure to argue the family strengthened Manchester United’s financial position and international profile.",
+    "queries": [
+      "How do supporters view Avram Glazer's decisions for Manchester United?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "red knights",
+    "wiki_title": "red knight",
+    "summary": "References to the \"Red Knights\" are invoked by opponents of the Glazer ownership to argue Manchester United should be rescued from debt-driven, profit-first stewardship and steered back toward fan-friendly governance and community values. Skeptics counter that the Red Knights narrative exemplifies unrealistic takeover nostalgia or elite-led solutions that could simply replace one distant owner with another self-interested consortium.",
+    "queries": [
+      "Are the red knights reasonable alternatives for Manchester United ownership?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "green and gold",
+    "wiki_title": "national colours of australia",
+    "summary": "Australia's national colours (green and gold) are often invoked in conversations about Manchester United's ties to the country—used by fans and promoters during tours, merchandise drops, and to celebrate Australian players as a marker of local pride. Critics use the colours to accuse the club of commodifying national identity for marketing and expansion, while supporters point to them to justify stronger recruitment, investment, and community engagement in Australia.",
+    "queries": [
+      "How do people view green and gold at Manchester United matches?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "elite player performance plan",
+    "wiki_title": "elite player performance plan",
+    "summary": "The Elite Player Performance Plan is frequently invoked in debates about Manchester United’s academy—club spokespeople and supporters cite it to justify investment in training, scouting and a long-term youth pipeline, while critics use it to explain why United lose or fail to monetise promising homegrown players and to blame regulatory rules for talent drainage to rival clubs. As a result it frames public arguments about whether United’s youth strategy is working, who is responsible for player departures, and whether policy or club mismanagement is to blame.",
+    "queries": [
+      "Is the elite player performance plan at Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "manchester city academy",
+    "wiki_title": "manchester academy",
+    "summary": "References to the Manchester academy are often used by supporters and pundits to defend Manchester United’s identity as a club that produces homegrown stars—invoked to justify pride in the club’s traditions (e.g., the Class of ’92), calls for continuity, and reluctance to rely solely on big-money transfers. Conversely, critics point to periods when few academy players reach United’s first team to argue the club has failed in coaching, recruitment or governance, pushing for more investment in youth infrastructure or a strategic shift toward buying established talent.",
+    "queries": [
+      "Are concerns about manchester city academy funding reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "ownership and governance",
+    "wiki_title": "corporate governance",
+    "summary": "Debates about Manchester United’s corporate governance are central to criticisms of the Glazer ownership and board — critics blame opaque decision‑making, heavy debt, dividend extraction and a commercial-first strategy for on-pitch decline and fan alienation. Supporters counter that strong commercial governance funds global growth and stability, while governance arguments fuel calls for fan representation, ownership reform or tighter regulation of club accountability.",
+    "queries": [
+      "What effects has Manchester United F.C.'s ownership and governance caused?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "ed woodward",
+    "wiki_title": "ed woodward",
+    "summary": "Ed Woodward is commonly invoked as the face of Manchester United’s boardroom era — critics cite his stewardship to argue the club prioritized commercial deals and corporate control over sporting decision-making, blaming him for poor transfers, managerial churn, and decline under Glazer ownership. Defenders point to the huge commercial growth and global branding achieved on his watch, framing him as a competent business operator constrained by ownership rather than the architect of footballing failure.",
+    "queries": [
+      "Is Ed Woodward's leadership at Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "chevrolet sponsorship",
+    "wiki_title": "chevrolet",
+    "summary": "Chevrolet’s prominent shirt sponsorship of Manchester United is routinely used in debates about the club’s commercialisation—critics invoke the Chevy logo as evidence that Glazer-era marketing and global branding are prioritised over tradition and proper footballing investment, while proponents point to the lucrative revenue the deal provides as necessary for competitiveness and transfer spending.",
+    "queries": [
+      "How do fans view the Chevrolet sponsorship for Manchester United?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "elliott management",
+    "wiki_title": "elliott investment management",
+    "summary": "Elliott Investment Management is cited in discussions about Manchester United as a credible financial buyer or activist alternative to the Glazer family, often used to argue for an end to debt-heavy ownership and more disciplined governance; at the same time critics invoke Elliott to warn that private equity-style stewardship could prioritize returns, cost-cutting, and commercialisation over long‑term sporting ambition.",
+    "queries": [
+      "How do fans view Elliott Management at Manchester United?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "paul singer",
+    "wiki_title": "paul singer",
+    "summary": "Paul Singer is invoked in Manchester United debates as the archetypal activist, profit-driven investor — supporters suggest an Elliott-style backer could force a sale of the Glazer family and impose financial discipline, while critics use his example to warn that activist ownership prioritizes returns, cost-cutting and asset strategies over club traditions and long-term sporting success.",
+    "queries": [
+      "Is paul singer’s involvement with Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "2023 takeover bid",
+    "wiki_title": "takeover bid",
+    "summary": "In debates about Manchester United, takeover bids are framed either as a way to end the Glazer era, reduce debt and bring fresh investment and fan-friendly governance, or as a risky move that could prioritize private profit, further commercialize the club or enable asset-stripping. How people portray specific bids drives support for protests, calls for regulatory/fit-and-proper-owner reforms, or pushes for fan-ownership models versus acceptance of wealthy investors.",
+    "queries": [
+      "What effects could the 2023 takeover bid have on Manchester United?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "jim ratcliffe",
+    "wiki_title": "jim ratcliffe",
+    "summary": "Ratcliffe is invoked in Manchester United debates as a potential “saviour” owner whose industrial, data‑driven approach and fresh capital are presented by supporters as the fix for the club’s sporting and commercial failures after the Glazer era. Opponents, however, frame him as an emblem of corporate takeover—warning his hands‑on, efficiency‑focused style could prioritize profit and centralized control over traditions, fan influence, and long‑term football culture.",
+    "queries": [
+      "Is Jim Ratcliffe's influence at Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "50+1 rule",
+    "wiki_title": "50+1 rule",
+    "summary": "Supporters and critics invoke the 50+1 rule as a shorthand to criticize the Glazer-era, arguing Manchester United should have member-controlled governance to curb perceived profit-driven mismanagement and restore fan influence. Opponents counter it’s impractical under UK law and would scare off investors, so the rule mainly functions as a rallying cry for governance reform rather than a ready-made policy solution for the club.",
+    "queries": [
+      "How do fans view the 50+1 rule at Manchester United?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "football supporters' association",
+    "wiki_title": "football supporters' association",
+    "summary": "Supporters' associations serve as organized representatives of fan opinion in public debates about Manchester United, legitimizing criticism of the Glazer ownership, high ticket prices, excessive commercialization and attempts like the European Super League while lobbying for fan representation on the club’s board. Their statements and campaigns frame disputes as fights over club identity and supporter rights, pressure executives and politicians for governance reforms, and are often cited by media to validate broader fan anger or approval.",
+    "queries": [
+      "Is Manchester United’s football supporters' association influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "european club association",
+    "wiki_title": "european multisport club association",
+    "summary": "Commentators invoke the European Multisport Club Association when contrasting Manchester United with continental clubs that embed multiple sports and community ties, using it to criticize United’s owner-driven, single-sport, hyper-commercial model and to argue for more community-oriented governance and solidarity measures. Conversely, defenders of United’s current structure dismiss the EMCA model as impractical for the Premier League, framing its multisport priorities as irrelevant to modern revenue-driven competitiveness.",
+    "queries": [
+      "Is the european club association membership justified for Manchester United?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "financial and commercial",
+    "wiki_title": "commercial bank",
+    "summary": "Commercial banks are often invoked in debates about Manchester United as the financiers behind leveraged buyouts, credit lines and sponsorship deals, used to argue that institutional lending enables owner leverage, debt extraction and the club’s corporate commercialization. Conversely, references to bank support are also used to justify the club’s global expansion and liquidity—arguing that institutional finance brings legitimacy, cashflow and competitive spending power.",
+    "queries": [
+      "Is Manchester United F.C.'s financial and commercial strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "leveraged buyout",
+    "wiki_title": "leveraged buyout",
+    "summary": "Talk of leveraged buyouts is used to cast the Glazer takeover and any future private-equity interest in Manchester United as debt-driven deals that prioritize investor returns over club stability, fueling criticism that owners saddled the club with risky liabilities and bolstering calls for fan ownership or regulation; proponents sometimes counter that debt financing made the purchase possible and can enforce fiscal discipline.",
+    "queries": [
+      "How do people view a leveraged buyout of Manchester United?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "high-yield bonds",
+    "wiki_title": "high-yield debt",
+    "summary": "Critics point to Manchester United’s use of high-yield debt to portray the club as burdened by risky, owner-driven financing that prioritizes dividend extraction and leverage over long-term sporting investment, fueling calls for fan-oriented ownership or stricter regulation of club borrowing. Some analysts and defenders counter that such debt is a market mechanism to fund buyouts or capital projects, framing high yields as the cost of accessing capital rather than proof of mismanagement.",
+    "queries": [
+      "Is Manchester United’s use of high-yield bonds reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "ineos",
+    "wiki_title": "ineos",
+    "summary": "In debates about Manchester United, Ineos (and Jim Ratcliffe) is cast either as a credible, pragmatic saviour whose industrial discipline and deep pockets could end perceived mismanagement by the club’s current owners, or as a corporate buyer whose profit-driven, top-down approach and further commercialization would risk alienating fans and eroding supporter influence.",
+    "queries": [
+      "Is ineos’s takeover of Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "ogc nice",
+    "wiki_title": "ogc nice",
+    "summary": "OGC Nice is often invoked in debates about Manchester United’s transfer and recruitment strategy — used as an example of a smaller European club that develops and sells talent United are accused of overlooking, or alternatively as a benchmark for data-driven scouting United should emulate. References to Nice (in transfer links or head-to-head results) are used to criticize United’s competitiveness in Europe and to argue for prioritizing smart youth development over expensive marquee signings.",
+    "queries": [
+      "How do fans view ogc nice as an opponent to Manchester United?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "manchester united takeover",
+    "wiki_title": "glazer ownership of manchester united",
+    "summary": "The Glazer ownership is frequently invoked by critics as the symbol of absentee, debt-fuelled, profit-driven governance—used to blame boardroom decisions for on-field decline, rising prices, and to justify fan protests and calls for fan or community ownership. Defenders cite the Glazers’ commercial growth and revenue generation to argue that private ownership provides financial stability and the funds needed to compete globally.",
+    "queries": [
+      "Is the Manchester United takeover justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "new york stock exchange",
+    "wiki_title": "new york stock exchange",
+    "summary": "References to Manchester United’s listing on the New York Stock Exchange are routinely invoked as proof of the club’s status as a global commercial enterprise: strong share performance is used by owners and commercial proponents to justify aggressive monetization and investment strategies, while falls in valuation or trading metrics are used by fans and critics to condemn the Glazer era, argue for changes in governance or ownership, and gauge the financial impact of protests and poor sporting results.",
+    "queries": [
+      "How do fans view Manchester United’s new york stock exchange listing?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "sponsorship in sport",
+    "wiki_title": "sponsor",
+    "summary": "Manchester United's corporate sponsorships are a frequent focal point in debates about the club’s priorities—praised by some as vital revenue that funds transfers and global expansion and criticized by others as evidence of excessive commercialization and erosion of club identity. Disputes over the ethics of particular sponsors (e.g., ties to gambling, fossil fuels, or politically controversial actors) often spark fan protests and boycott calls, framing sponsorship choices as moral and political statements about the club and its owners.",
+    "queries": [
+      "How do fans view sponsorship in sport linked to Manchester United?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "merchandising",
+    "wiki_title": "merchandising",
+    "summary": "Merchandising is used to portray Manchester United as a lucrative global brand—supporters point to strong kit, replica and licensing sales to justify big transfers, global reach and commercial success. Conversely critics invoke aggressive merchandising, high prices and reliance on merchandise/image-rights revenue (often tied to ownership concerns) to argue the club puts profit and branding ahead of fans, tradition and affordable access, fuelling protests and policy debates on commercialization and ticketing.",
+    "queries": [
+      "Is Manchester United F.C.'s merchandising strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "kit supplier switch",
+    "wiki_title": "switch",
+    "summary": "In discussions about Manchester United, 'switch' is used metaphorically to criticize perceived instability—commentators blame frequent 'switches' of manager, tactics or transfer policy for inconsistent results—while supporters defend tactical 'switches' as necessary adjustments. It also appears in debates over ownership, sponsorship or fan loyalty (fans 'switching' allegiances), framing arguments about short-term fixes versus long-term direction for the club.",
+    "queries": [
+      "What effects might the kit supplier switch have on Manchester United?"
+    ]
+  },
+  {
+    "id": "C3-7-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "brand valuation",
+    "wiki_title": "brand valuation",
+    "summary": "Brand valuation figures are repeatedly used in debates about Manchester United to justify aggressive commercial strategies, sponsorship deals and high ticket prices—supporters cite strong valuations to argue the club should be managed as a global commercial asset, while critics say those same valuations enable owners to extract profit and prioritise branding over on-field success and fan interests.  Conversely, drops or disputes over valuation are deployed by opponents to call for ownership change, greater transparency, or governance reforms.",
+    "queries": [
+      "How do fans and analysts view Manchester United's brand valuation?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and regulatory issues",
+    "wiki_title": "regulation",
+    "summary": "Arguments about regulation shape debates over Manchester United by framing ownership, finance and competition as problems that need external rules (stricter governance, ownership tests, FFP enforcement, ticketing and stadium safety protections) or as areas where regulation unfairly limits ambition (against salary caps or transfer restrictions). Critics invoke regulatory failure to justify calls for intervention or fan representation, while club defenders use calls for deregulation or industry self-regulation to oppose constraints they say harm competitiveness.",
+    "queries": [
+      "How do fans view Manchester United F.C.'s legal and regulatory issues?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "financial fair play",
+    "wiki_title": "uefa financial fair play regulations",
+    "summary": "UEFA’s Financial Fair Play rules are frequently cited in debates over Manchester United’s spending and ownership, with critics arguing the Glazer debt structure and commercial accounting let the club flout the spirit of FFP and should curb transfers, while defenders point to United’s vast sponsorship and revenue streams to justify heavy spending as compliant or deserving of leeway. The regulations therefore serve both as a cudgel to demand greater financial discipline and as a shield used to defend the club’s transfer ambitions and business model in public arguments.",
+    "queries": [
+      "Is financial fair play for Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "teamviewer",
+    "wiki_title": "teamviewer",
+    "summary": "As Manchester United's principal shirt sponsor since 2021, TeamViewer is invoked in debates about the club's commercialization and global branding—supporters portray the deal as evidence of modern, tech‑savvy revenue growth that funds transfers, while critics use it to argue the club prioritizes corporate partnerships and profit over tradition and fan identity. Opponents also point to the sponsorship as symptomatic of ownership treating the club as a marketing vehicle, highlighting brand mismatches and frequent sponsor churn as signs of short‑term commercialism.",
+    "queries": [
+      "How do fans view teamviewer's role at Manchester United?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "uk takeover panel",
+    "wiki_title": "the takeover panel",
+    "summary": "Commentators and fans invoke the Takeover Panel when explaining or disputing why bids for Manchester United F.C. move forward, stall, or are constrained, using its rulings as a regulatory justification for protecting minority shareholders and enforcing orderly bid procedures. Supporters of the Panel argue it prevents rushed or covert deals, while critics say its procedures can entrench existing owners (notably the Glazers) and obstruct fan-backed or quick sales. ",
+    "queries": [
+      "Is the uk takeover panel's role in Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "sheikh jassim",
+    "wiki_title": "sheikh jassim cup",
+    "summary": "References to the Sheikh Jassim Cup are used in arguments about Manchester United’s commercial and political priorities: critics cite involvement in Qatari-hosted fixtures as evidence the club will accept lucrative Middle East ties despite human-rights and ‘sportswashing’ concerns, while supporters frame such matches as routine global-branding and pre-season preparation. The tournament thus feeds broader debates about United’s commercialization, ethical sponsorship choices, and scheduling policies under modern ownership.",
+    "queries": [
+      "How do fans view sheikh jassim's potential influence at Manchester United?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "takeover code",
+    "wiki_title": "the takeover code",
+    "summary": "The takeover code is frequently invoked in debates about Manchester United to judge whether bids and owner behaviour meet standards of transparency and fair treatment of shareholders, shaping arguments over the legitimacy of takeover attempts. Supporters of stronger oversight cite it to demand greater shareholder/fan protections and regulatory reform, while defenders of existing ownership use it to argue that legal rules — not fans’ preferences — should determine outcomes.",
+    "queries": [
+      "Is the takeover code for Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "financial conduct authority",
+    "wiki_title": "financial conduct authority",
+    "summary": "Campaigners, pundits, and potential bidders invoke the Financial Conduct Authority when disputing Manchester United’s ownership, share disclosures, or takeover processes—calling on the regulator to probe insider dealing, misleading shareholder communications, or failures in prospectus transparency. These appeals frame the FCA as the instrument for investor protection and accountability (supporting stricter financial transparency and vetting of owners), while critics note its remit is limited to securities conduct rather than broader club governance or sporting issues.",
+    "queries": [
+      "Is the financial conduct authority’s scrutiny of Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-8",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "qatar investment authority",
+    "wiki_title": "qatar investment authority",
+    "summary": "The Qatar Investment Authority is cited in discussions about Manchester United as a potential deep‑pocketed buyer or backer—portrayed by some supporters as a way to revive the club’s competitiveness and by critics as a state‑linked takeover that would amount to sportswashing, raise human‑rights and sovereignty concerns, and prompt calls for stricter ownership rules.",
+    "queries": [
+      "What consequences has Qatar Investment Authority involvement with Manchester United caused?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "broadcasting rights",
+    "wiki_title": "broadcasting rights",
+    "summary": "Broadcasting rights are invoked to explain and justify Manchester United’s global commercial dominance and transfer spending — they’re presented as a key revenue stream that underpins the club’s brand and financial strategy. Conversely, critics point to lucrative TV deals, pay‑per‑view matches and fixture changes as evidence the club and leagues prioritize broadcaster revenue over local fan access and competitive fairness, driving calls for price controls, revenue redistribution, or regulatory intervention.",
+    "queries": [
+      "Are Manchester United's broadcasting rights pricing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "tnt sports",
+    "wiki_title": "tnt sports",
+    "summary": "As a major broadcaster and pundit platform, TNT Sports shapes public debate about Manchester United by amplifying match narratives, tactical analysis and outspoken criticism of managers, players or ownership—its commentary and highlight packages often frame results as evidence of mismanagement, tactical failings, or referee/VAR controversies. It also crops up in debates about commercial issues (broadcasting rights, fixture scheduling and fan access), where its coverage can bolster calls for greater club accountability or policy changes affecting supporters.",
+    "queries": [
+      "Is tnt sports' coverage of Manchester United fair or not?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "nbc sports",
+    "wiki_title": "nbc sports",
+    "summary": "Through its Premier League broadcasts, studio analysis, and features, NBC Sports shapes American debate about Manchester United by highlighting managerial decisions, transfer strategy, and ownership controversies. Its pundits and editorial choices often swing between criticizing the club’s perceived decline and commercialism (e.g., Glazer-era critiques, ESL fallout) and defending high‑profile signings and global marketing moves, which helps set U.S. fan sentiment and sponsor narratives.",
+    "queries": [
+      "Is nbc sports’ coverage of Manchester United fair or not?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "dazn",
+    "wiki_title": "dazn",
+    "summary": "DAZN is often cited in discussions about Manchester United’s commercialization and global reach—used to illustrate how lucrative streaming and broadcast deals expand the club’s revenues and international brand, or conversely to criticize it for prioritizing monetization and fragmenting fan access through paywalled platforms. DAZN’s exclusive interviews, documentaries and punditry also shape narratives about United’s ownership, management and players, either bolstering official spin or fueling public criticism.",
+    "queries": [
+      "Is dazn's coverage of Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "mutv",
+    "wiki_title": "mutv",
+    "summary": "As Manchester United's official channel, MUTV is frequently invoked in debates as a mouthpiece that amplifies the club's preferred narratives—promoting player/manager stories, justifying transfers and board decisions, and bolstering fan loyalty—while critics use its content to argue the club controls information and whitewashes controversies (ownership, ticketing, poor performances). It therefore tends to support pro-club, commercial and PR positions and is cited by opponents as evidence of bias and lack of independent scrutiny.",
+    "queries": [
+      "How do fans view mutv’s role in Manchester United’s media?"
+    ]
+  },
+  {
+    "id": "C6-7-8",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "ofcom",
+    "wiki_title": "ofcom",
+    "summary": "Ofcom is frequently invoked by fans, pundits and campaigners to demand investigations or sanctions when broadcasters or online platforms are accused of biased, misleading or offensive coverage of Manchester United, framing such complaints as failures of impartiality or protection from harmful content. It is also cited in debates over live-match streaming and broadcast competition—used to argue for consumer-friendly access against exclusive club-controlled feeds or, conversely, to challenge perceived unfair commercial advantages.",
+    "queries": [
+      "Is ofcom action against Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-8",
+    "parent": "C6",
+    "level": 3,
+    "topic": "transfer window",
+    "wiki_title": "transfer window",
+    "summary": "Debates about Manchester United frequently center on how the club performs in transfer windows, with strong signings heralded as proof of competent ownership and sporting strategy while missed targets, overpriced or last-minute deals are used to accuse the board and recruitment team of mismanagement, short-termism, or failure to rebuild; commentators also invoke transfer-window outcomes to argue for policy shifts (more youth development, different recruitment structure, or new ownership).",
+    "queries": [
+      "What impacts has the transfer window had on United’s season?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6",
+    "level": 3,
+    "topic": "uefa europa league",
+    "wiki_title": "uefa europa league",
+    "summary": "Fans, pundits and boardroom critics use Manchester United’s involvement and results in the UEFA Europa League as a barometer of the club’s decline from elite status—portraying qualification as failure, victories as consolation or a pragmatic route back to the Champions League, and defeats (e.g., the 2025 final) as proof of poor recruitment, management or mentality. Debates over whether to prioritise the competition feed broader arguments about squad rotation, transfer policy and the legitimacy of the club’s long‑term project.",
+    "queries": [
+      "How do fans view Manchester United’s uefa europa league involvement?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "uefa super cup",
+    "wiki_title": "uefa super cup",
+    "summary": "The UEFA Super Cup is often treated as a quick litmus test of Manchester United’s continental relevance—supporters cite appearances or wins as proof of a return to elite European form, while rivals and critics use absence or defeats to argue the club has fallen behind. Consequently it features in arguments over recruitment, coaching and ownership, deployed to justify calls for investment or to criticize decisions that allegedly prevent United competing at the highest level.",
+    "queries": [
+      "What impact has the uefa super cup had on Manchester United?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "uefa club coefficient",
+    "wiki_title": "uefa coefficient",
+    "summary": "Manchester United’s UEFA club coefficient is often invoked in public debates as a concrete yardstick of the club’s recent European relevance—supporters use a strong coefficient to defend seedings and prestige, while critics point to falling coefficients to argue the team has declined, been mismanaged, or needs overhaul in transfers and coaching. It also frames practical arguments about Champions League qualification, draw difficulty and financial entitlement, shaping calls for changes in ownership strategy or sporting policy.",
+    "queries": [
+      "What effects has Manchester United's UEFA club coefficient had?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "aleksander čeferin",
+    "wiki_title": "aleksander čeferin",
+    "summary": "As UEFA president, Čeferin is frequently invoked in debates over Manchester United’s involvement in the proposed European Super League — his public condemnation and threats of sanctions are used by fans and pundits to justify criticism of the club’s owners and to defend UEFA governance. Conversely, opponents sometimes cite Čeferin’s stance as evidence of UEFA protecting its own commercial model and resisting club-driven reform, framing United’s actions as a clash with entrenched European authorities.",
+    "queries": [
+      "How do people view Aleksander Čeferin's actions affecting Manchester United?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "community and social impact",
+    "wiki_title": "social impact theory",
+    "summary": "Commentators and fans invoke social impact theory to explain why high‑status voices (owners, star players, ex-players, celebrity pundits) and dramatic, immediate events (big defeats, marquee signings) disproportionately shape public attitudes about Manchester United, while diffuse, individual fan complaints are seen as less influential unless highly coordinated. Supporters of heavy spending and media management use this logic to justify recruiting big names and PR campaigns to steer narratives, whereas critics cite it to argue that ownership and elite insiders can dominate club direction and evade grassroots accountability.",
+    "queries": [
+      "Is Manchester United F.C.'s community and social impact justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "manchester united supporters' trust",
+    "wiki_title": "manchester united supporters' trust",
+    "summary": "The Manchester United Supporters' Trust is routinely cited as an organized fan voice pushing for greater supporter influence over club governance—used to justify demands for transparency, affordable tickets, shareholder rights, and opposition to the Glazer ownership model and over‑commercialisation. In public debates it frames reforms as pro‑democratic, community‑focused solutions and is often presented as a moderate, practical alternative to more confrontational fan activism (though critics sometimes argue it is not radical enough).",
+    "queries": [
+      "What influence does manchester united supporters' trust have on the club?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "supporters direct",
+    "wiki_title": "supporters direct",
+    "summary": "Supporters Direct is often invoked by critics of Manchester United’s ownership and governance to argue for greater fan representation and democratic control, framing the Glazer takeover and commercial, debt-driven priorities as problems that supporter trusts or co-ownership could fix. It is used to justify policies like supporter seats on boards, limits on leveraged buyouts and ticket-price controls, and to oppose purely profit-driven or distant investor-led models of club management.",
+    "queries": [
+      "How do fans view Supporters Direct’s involvement with Manchester United?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "kick it out",
+    "wiki_title": "kick it out",
+    "summary": "References to Kick It Out are used in debates about Manchester United to spotlight alleged racist incidents by supporters, players, or staff and to pressure the club for stronger accountability, sanctions, and anti-discrimination measures. Invoking the campaign typically supports critiques of United’s past handling of racism and demands institutional reform, while opponents may use it to challenge the severity of accusations or the club’s responses.",
+    "queries": [
+      "How do fans view kick it out's involvement with Manchester United?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "taking the knee",
+    "wiki_title": "taking the knee",
+    "summary": "At Manchester United matches and in media coverage, taking the knee is often used as a visible test of the club’s anti-racism commitments—praised by players, campaigners and many fans as solidarity that justifies demands for tougher anti-discrimination policies and education, while critics (including some supporters) frame it as performative or an unwelcome politicisation of sport and use booing or accusations of virtue-signalling to challenge the club’s sincerity.",
+    "queries": [
+      "How do fans view taking the knee by Manchester United?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "twitter/x",
+    "wiki_title": "twitter",
+    "summary": "On Twitter, fans, journalists, players and club accounts rapidly amplify and contest narratives about Manchester United—fueling viral criticism of owners and managers, spreading transfer rumours and memes, coordinating protests or sponsor pressure, and framing club decisions as evidence of mismanagement or decline; the platform’s speed and influencer-driven dynamics often legitimize polarized takes and fan-led campaigns while also enabling misinformation that intensifies disputes.",
+    "queries": [
+      "Is Manchester United’s use of twitter/x justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "equality act 2010",
+    "wiki_title": "equality act 2010",
+    "summary": "Campaigners, fans, and commentators invoke the Equality Act 2010 to press Manchester United to tackle discrimination — citing it when demanding action on racism, sexism, disability access, religious accommodations, and fair treatment of staff and supporters — and to justify calls for disciplinary measures, accessibility improvements, and more inclusive hiring and pay practices. Opponents sometimes frame use of the Act as legalistic or performative, arguing the club leans on compliance and PR rather than delivering deep cultural change.",
+    "queries": [
+      "How do fans view equality act 2010 influencing Manchester United?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "stretford end",
+    "wiki_title": "stretford end",
+    "summary": "The Stretford End is invoked as the club’s grassroots mouthpiece — commentators and fans cite its chants, boos, and banners to legitimize criticism of owners, boards, managers or players and to claim a mandate for change. It also frames debates about identity and commercialization, used to argue for preserving United’s traditions and opposing decisions seen as eroding fan influence or the club’s historic values.",
+    "queries": [
+      "Is the Stretford End's influence at Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "safe standing",
+    "wiki_title": "safe standing",
+    "summary": "Fans and supporter groups invoke safe standing to pressure Manchester United to prioritize atmosphere and fan influence at Old Trafford, framing the club as either out-of-touch when it resists or pro-supporter when it engages; conversely, club executives, safety advocates and some policymakers cite regulatory, safety and commercial concerns to oppose or temper such proposals, using safe-standing debates to justify maintaining all-seater arrangements.",
+    "queries": [
+      "Would introducing safe standing at Old Trafford be reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "football foundation",
+    "wiki_title": "football foundation",
+    "summary": "The Football Foundation is often invoked in debates about Manchester United’s civic role and youth development—supporters cite Foundation grants and partnerships to bolster the club’s charitable credentials and community outreach, while critics point to reliance on such funding to argue United underinvests its own local infrastructure relative to its wealth. It also surfaces in policy and planning arguments (academy upgrades, community pitches, stadium-area regeneration), where proponents use Foundation backing to justify projects and opponents insist the club should directly finance them.",
+    "queries": [
+      "How do fans view Manchester United’s football foundation?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "charity commission",
+    "wiki_title": "charities commission",
+    "summary": "References to the Charity Commission are used to bolster or undermine Manchester United’s community-minded image—club spokespeople and fans point to charity registration and oversight to justify its foundations’ programmes, while critics invoke the Commission to demand investigations into transparency, governance, or alleged diversion of charitable resources amid disputes over ownership and commercial priorities.",
+    "queries": [
+      "Are charity commission investigations into Manchester United F.C. justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "mason greenwood",
+    "wiki_title": "mason greenwood",
+    "summary": "Mason Greenwood is a polarizing touchstone in debates about Manchester United's ethical standards and risk management, with critics citing his situation to demand tougher safeguarding, clearer disciplinary and commercial policies, and greater accountability from the club. Supporters or pragmatists counter by invoking due process and the value of protecting and rehabilitating talented youth players, framing United's choices as a balance between moral leadership and preserving sporting assets.",
+    "queries": [
+      "Is Mason Greenwood's return to Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "the cliff",
+    "wiki_title": "cliff",
+    "summary": "Commentators and fans often invoke 'cliff' imagery (falling off a cliff, cliff-edge) to dramatize Manchester United's post‑Ferguson decline, using it to justify urgent managerial changes, ownership challenges, or radical rebuilds; conversely the same imagery is sometimes criticized as alarmist by those who argue for patient, commercially driven strategies or limited tactical fixes.",
+    "queries": [
+      "Is the cliff for Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "globalization and international relations",
+    "wiki_title": "globalization",
+    "summary": "In debates about Manchester United, globalization is invoked by critics to condemn the club’s transformation into a multinational commercial brand—pointing to overseas ownership, global merchandising, preseason tours and TV deals as evidence that profit and international reach have displaced local identity, affordable access, and supporter influence; proponents counter that global expansion and international revenue streams are necessary to remain financially competitive, attract talent, and sustain on-field success, informing calls either for regulatory limits on ownership/financial practices or for policies that redistribute broadcast/competition revenues to protect local fans.",
+    "queries": [
+      "Is Manchester United's globalization and international relations approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "european super league",
+    "wiki_title": "european super league",
+    "summary": "The European Super League is repeatedly invoked to paint Manchester United’s Glazer ownership as putting commercial gain ahead of fans and sporting merit, fuelling protests, boycotts and calls for fan-led governance reforms; conversely, proponents of the club’s leadership sometimes use the proposal to justify aggressive revenue-seeking strategies as necessary to keep United competitive internationally.",
+    "queries": [
+      "Is Manchester United backing the european super league reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "florentino pérez",
+    "wiki_title": "florentino pérez",
+    "summary": "Florentino Pérez is invoked in Manchester United debates as the archetype of the billionaire, commercial-first football executive—used to justify profit-driven, star-focused strategies and inclusion in elite competitions (like the proposed Super League) or to criticize similar moves by United’s owners as eroding fan power and club identity. His stance on breakaway competitions and global branding is cited both to support aggressive revenue-maximizing policies and to warn against alienating supporters and provoking regulatory backlash.",
+    "queries": [
+      "Is florentino pérez's involvement in Manchester United discussions justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "international champions cup",
+    "wiki_title": "international champions cup",
+    "summary": "Manchester United’s participation in the International Champions Cup is frequently invoked in debates as proof of the club prioritizing global branding and commercial revenue (US tours, sponsorships) over competitive preparation, with critics blaming long flights, congested pre-seasons and player fatigue for poor early-season form. Supporters counter that the ICC provides high-quality match practice, expands the club’s international fanbase, and generates commercial income argued to fund transfers and long-term competitiveness.",
+    "queries": [
+      "What effects does the international champions cup have on Manchester United?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "fc barcelona",
+    "wiki_title": "fc barcelona",
+    "summary": "FC Barcelona is frequently invoked as the ideal of attractive, academy-driven football and member-owned governance when critics attack Manchester United’s post‑Ferguson decline — used to argue United should rebuild a coherent playing philosophy, invest in youth and reduce reliance on short‑term spending and executive churn. Conversely, commentators sometimes point to Barcelona’s financial and managerial problems to caution that United’s commercial, debt‑financed model also has trade‑offs and can be defended as more sustainable.",
+    "queries": [
+      "Is Manchester United's rivalry with fc barcelona exaggerated or justified?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "josé mourinho",
+    "wiki_title": "josé mourinho",
+    "summary": "José Mourinho is frequently invoked in debates about Manchester United as an example of a high-profile manager who delivered short-term trophies and discipline but clashed with the club’s culture and players; supporters point to his silverware and structure, while critics use his tenure to justify concerns about poor recruitment, boardroom interference, and a drift away from United’s traditional attacking identity. His appointment and dismissal are often cited in arguments over whether United should prioritize instant results with charismatic hires or pursue long-term coherent sporting leadership.",
+    "queries": [
+      "Are criticisms of josé mourinho during his United tenure justified?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "pre-season friendly",
+    "wiki_title": "exhibition game",
+    "summary": "Pre-season exhibition games are frequently cited in debates about Manchester United as evidence of the club’s commercial priorities and global brand-building—supporters frame them as useful for tactical experiments, squad rotation and fan engagement, while critics argue long, lucrative tours sacrifice player welfare and competitive readiness. They’re also used to defend or dismiss poor early-season performances and to justify transfer or rotation decisions based on fitness rather than form.",
+    "queries": [
+      "Is Manchester United’s pre-season friendly schedule reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "espn",
+    "wiki_title": "espn",
+    "summary": "ESPN’s match coverage, transfer reporting and pundit analysis are often cited to frame Manchester United as either a declining legacy club or a resurgent global brand—used by critics to justify managerial or ownership change and by supporters to emphasize commercial strength and marquee signings. Its high-profile pundits and data-driven features frequently set the terms of fan and media debate, though critics accuse ESPN of sensationalizing or reflecting bias that amplifies polarizing narratives about the club.",
+    "queries": [
+      "Is espn's coverage of Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "adidas",
+    "wiki_title": "adidas",
+    "summary": "Adidas is routinely cited in debates about Manchester United to justify the club’s global, revenue‑first strategy—its lucrative kit deals and merchandising are used to argue that commercial partnerships fund transfers and brand growth—while opponents invoke the same partnership to criticize over‑commercialisation, frequent kit changes, high shirt prices and an erosion of club tradition; Adidas’ design choices and sustainability claims also shape arguments about United’s image and ethics.",
+    "queries": [
+      "What impacts has adidas had on Manchester United’s image?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "paul pogba",
+    "wiki_title": "paul pogba",
+    "summary": "Paul Pogba is frequently invoked in arguments about Manchester United’s transfer strategy and commercial priorities — his expensive return, high wages and agent-driven moves are used as evidence of mismanagement and poor recruitment decisions. His inconsistent performances and reported dressing-room influence are also cited by critics to justify calls for stronger managerial control, clearer club culture, and different spending priorities.",
+    "queries": [
+      "How do fans view paul pogba's impact at Manchester United?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "sweatshop allegations",
+    "wiki_title": "nike sweatshops",
+    "summary": "Critics invoke Nike’s sweatshop controversies to argue that Manchester United is complicit when it signs lucrative kit deals, using the issue to mobilize boycotts, protests, and demands that the club leverage its commercial relationships to enforce better labour standards; defenders counter that oversight rests with multinational suppliers, framing the debate around corporate responsibility versus sporting commercialization.",
+    "queries": [
+      "How do fans view Manchester United's sweatshop allegations?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "commercial revenue",
+    "wiki_title": "revenue",
+    "summary": "Revenue numbers are frequently invoked to highlight Manchester United's enormous commercial success and justify its high valuation, lucrative sponsorships and the Glazer owners' extraction of dividends as a business decision. Critics counter that those same revenues are used to excuse underinvestment in playing staff, high ticket prices and fan alienation, driving arguments for fan ownership, caps on payouts, or stricter financial rules and revenue-sharing reforms.",
+    "queries": [
+      "How do fans view Manchester United's commercial revenue strategies?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "china",
+    "wiki_title": "china",
+    "summary": "References to China are often used to frame Manchester United as a global commercial brand — defenders point to Chinese fans, broadcast and sponsorship opportunities and potential investors as vital revenue sources — while critics use the club’s eagerness to court the Chinese market to condemn it for prioritizing profit over sporting integrity and human-rights or free-speech concerns (e.g., avoiding political stances to protect business ties).",
+    "queries": [
+      "What effects has Manchester United's China involvement brought?"
+    ]
+  },
+  {
+    "id": "C8-5-1",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "tencent",
+    "wiki_title": "tencent",
+    "summary": "Tencent is commonly cited to justify Manchester United’s push into the Chinese market and digital monetization — presented by supporters as a pragmatic commercial move to grow revenue and global fandom.  Critics, however, use the club’s ties to Tencent as evidence that United prioritizes profit over tradition and may be susceptible to political or ethical compromises stemming from close links with large Chinese tech firms.",
+    "queries": [
+      "What effects has Tencent’s partnership brought to Manchester United?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "sina weibo",
+    "wiki_title": "weibo",
+    "summary": "On Weibo, Chinese fans, influencers and official club/partner accounts amplify Manchester United’s marketing, transfer rumors and celebratory narratives—mobilizing consumer support and national pride—while user threads also host criticism of team performance, management and ownership; politically sensitive angles, however, are often downplayed or curtailed by platform moderation, shaping which criticisms gain traction.",
+    "queries": [
+      "Is Manchester United’s presence on sina weibo beneficial or not?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "alibaba group",
+    "wiki_title": "alibaba group",
+    "summary": "Alibaba is often cited in discussions about Manchester United as the model Chinese tech partner that legitimizes the club’s push into China — used by the club and pundits to justify global merchandising, digital retail deals and revenue-driven strategies. Critics and supporters invoke the Alibaba tie to argue, respectively, that such partnerships deepen harmful over‑commercialization and owner‑led profit priorities or that they are necessary to secure international growth and financial competitiveness.",
+    "queries": [
+      "What impact has Alibaba Group had on Manchester United’s global brand?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "dalian wanda group",
+    "wiki_title": "wanda group",
+    "summary": "Wanda Group is often invoked in discussions about Manchester United as a shorthand for Chinese corporate investment in elite football — proponents cite such firms as evidence that foreign capital and sponsorship can expand the club’s global brand and finances, while critics use it to warn about over‑commercialisation, loss of club identity, and potential geopolitical or political influence over club decisions.",
+    "queries": [
+      "How do fans view Dalian Wanda Group and its Manchester United links?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "chinese super league",
+    "wiki_title": "chinese super league",
+    "summary": "Mentions of the Chinese Super League are used in debates about Manchester United to highlight commercial and transfer pressures—portraying CSL clubs as a financial threat when they tempt players with large wages and as a missed revenue/market opportunity when United’s China strategy is questioned. Commentators also invoke CSL ties to argue for caution over political and reputational risks from Chinese investors or sponsorships, while proponents see deeper engagement with China as essential to the club’s global growth.",
+    "queries": [
+      "How do fans view the Chinese Super League's influence on Manchester United?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "wang jianlin",
+    "wiki_title": "wang jianlin",
+    "summary": "Wang Jianlin is invoked in debates about Manchester United as an archetypal Chinese billionaire investor whose interest in European football is used to show that United’s global brand attracts lucrative foreign capital. His name figures both in pro-sale arguments about the benefits of big-money investment and in critiques warning that foreign takeovers drive commercialization and can erode club identity and fan influence.",
+    "queries": [
+      "Would wang jianlin's involvement with Manchester United be welcomed?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "brexit",
+    "wiki_title": "brexit",
+    "summary": "Brexit is frequently invoked in debates about Manchester United to explain post-2016 transfer and squad-building problems — with commentators blaming tighter work-permit rules, reduced access to young EU talent and added logistical/financial friction for the club’s perceived decline in European competitiveness. Proponents use it to justify cautious recruitment and revenue pressures, while critics say citing Brexit is a convenient scapegoat that masks deeper mismanagement and ownership failures.",
+    "queries": [
+      "What consequences has brexit caused for Manchester United recruitment?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "uk work permits",
+    "wiki_title": "work permit",
+    "summary": "Work permit rules are often cited in debates over Manchester United’s transfer strategy and youth policy—critics use denied or delayed permits to argue the club wastes money on foreign signings or lacks foresight, while defenders point to restrictions to justify prioritizing academy graduates or lobbying for looser post‑Brexit immigration rules to keep United globally competitive.",
+    "queries": [
+      "What impact do uk work permits have on Manchester United recruitment?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "points-based immigration",
+    "wiki_title": "points-based immigration system",
+    "summary": "Arguments about the UK’s points‑based immigration system are frequently invoked to explain and critique Manchester United’s transfer and recruitment strategy—critics say stricter visa rules since Brexit have hampered the club’s ability to sign young overseas prospects and international staff, weakening its competitiveness and academy pipeline, while supporters use the system to justify a shift toward developing homegrown talent and limiting foreign signings.",
+    "queries": [
+      "How do fans view points-based immigration affecting Manchester United transfers?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "freedom of movement",
+    "wiki_title": "freedom of movement",
+    "summary": "Freedom of movement figures in debates about Manchester United chiefly around player and fan mobility: advocates of liberal transfer rules invoke EU/Bosman-era mobility to justify open recruitment and stronger player bargaining power, while critics and club voices argue post‑Brexit work‑permit changes and pandemic travel restrictions have constrained United’s ability to sign European talent and limited supporters’ ability to follow the team, framing those limits as harms to competitiveness and fan culture.",
+    "queries": [
+      "What effects has freedom of movement had on Manchester United’s squad?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sky sports",
+    "wiki_title": "sky sports",
+    "summary": "As the UK’s leading televised football broadcaster, Sky Sports shapes public debate about Manchester United by setting narratives through its match coverage, pundit commentary and transfer reporting—amplifying critiques of managerial decisions, recruitment and ownership while legitimizing performance-focused, commercially framed arguments. Its high-profile pundits and headlines often justify calls for sackings, signings or ownership change and can cast United alternately as a failing giant in need of overhaul or a lucrative brand succeeding despite on-field issues.",
+    "queries": [
+      "Is Sky Sports' Manchester United coverage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "video assistant referee",
+    "wiki_title": "video assistant referee",
+    "summary": "VAR decisions in matches involving Manchester United are frequently invoked by fans, pundits and the club to allege bias or inconsistency by referees, fueling narratives that United are unfairly targeted and underpinning calls for greater transparency and appeals in officiating. Critics conversely use VAR interventions to highlight United’s defensive errors, simulation or poor discipline, bolstering arguments for stricter enforcement, faster protocols and technical reforms to ensure consistent outcomes.",
+    "queries": [
+      "Is video assistant referee usage for Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-7",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "gary neville",
+    "wiki_title": "gary neville",
+    "summary": "As a respected ex-player-turned-pundit, Neville's forceful critiques of Manchester United's board, recruitment and loss of identity are frequently cited to argue for greater accountability, strategic clarity, and fan influence at the club. At the same time, his defense of traditional United values and emphasis on youth development bolster nostalgic narratives that oppose purely commercial or short-term managerial fixes.",
+    "queries": [
+      "Is Gary Neville’s criticism of Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "youth development and academy",
+    "wiki_title": "u.s. soccer development academy",
+    "summary": "References to the U.S. Soccer Development Academy surface in debates about Manchester United’s recruitment and commercial strategy: advocates point to the Academy as proof of a growing U.S. talent pipeline worth scouting and signing to both improve the squad and grow the club’s American fanbase, while critics use it to argue that United either overvalues underprepared American prospects or prioritizes marketing and work‑permit opportunism over genuine player development.",
+    "queries": [
+      "How do fans view youth development and academy at Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "class of '92",
+    "wiki_title": "class of '92",
+    "summary": "The 'Class of '92' is frequently invoked as a touchstone of Manchester United’s identity to argue that sustained success stems from homegrown talent, managerial continuity and club culture—used to criticize modern ownership, heavy transfer spending and perceived neglect of the academy. It also appears in debates as a nostalgic benchmark that some say should guide youth-focused policies, while others warn it unfairly ignores today's financial realities.",
+    "queries": [
+      "Is praising class of '92 reasonable or excessive among Manchester United fans?"
+    ]
+  },
+  {
+    "id": "C9-1-1",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "david beckham",
+    "wiki_title": "david beckham",
+    "summary": "David Beckham is often invoked as the archetypal product of United’s youth-driven ’Class of ’92’ era, used nostalgically to argue that the club’s identity and success came from homegrown talent and strong managerial stewardship. At the same time his high-profile exit and global-branding trajectory are cited in debates over whether Manchester United sold its soul to commercialization—fueling both critiques of modern ownership/transfer policy and defenses of aggressive global marketing.",
+    "queries": [
+      "Is David Beckham's Manchester United legacy overrated or not?"
+    ]
+  },
+  {
+    "id": "C9-1-2",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "paul scholes",
+    "wiki_title": "paul scholes",
+    "summary": "Paul Scholes is deployed as a moral touchstone for Manchester United’s traditions—his status as a one‑club legend and blunt pundit is often cited to criticize modern ownership, recruitment and managerial choices and to argue for a return to youth development and principled, attacking play. Commentators and fans use his outspoken critiques to justify calls for cultural restoration at the club rather than short‑term, big‑money fixes.",
+    "queries": [
+      "How do people view Paul Scholes's contributions to Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-1-5",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "salford city f.c.",
+    "wiki_title": "salford city f.c.",
+    "summary": "Salford City is frequently invoked in discussions about Manchester United as proof that the club’s ex-players (the Class of '92) can deliver community-focused, effective stewardship — a narrative used to criticize United’s Glazer-era commercialization and perceived mismanagement. It also figures in debates over player pathways and nepotism, alternately praised as a constructive development project and dismissed as a vanity vehicle that highlights unequal access and influence in the English game.",
+    "queries": [
+      "What impacts has salford city f.c. had on local football?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "1999 treble",
+    "wiki_title": "treble (association football)",
+    "summary": "Manchester United’s 1998–99 treble is invoked as the club’s lodestar—used by fans and defenders to justify the club’s elite status and Sir Alex Ferguson’s legacy and by commentators as the benchmark for managerial success. Conversely, the club’s failure to repeat a treble under later owners and managers is routinely used to criticize post‑Ferguson leadership, ownership decisions, and perceived lack of ambition or coherent strategy.",
+    "queries": [
+      "Was the praise for Manchester United’s 1999 treble justified?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "sir alex ferguson",
+    "wiki_title": "alex ferguson",
+    "summary": "Sir Alex Ferguson is the yardstick in debates about Manchester United, invoked by fans and pundits to justify demands for managerial stability, youth development and a club-first culture while critics use his era to highlight the club’s post-Ferguson decline and blame the board or owners for poor governance. His reputation also frames arguments over transfer policy, managerial autonomy and whether commercial expansion has eroded United’s traditional identity.",
+    "queries": [
+      "Is sir alex ferguson’s legacy at Manchester United overrated or not?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "eric cantona",
+    "wiki_title": "eric cantona",
+    "summary": "Eric Cantona is invoked as the archetypal symbol of Manchester United’s charismatic, risk-taking identity — fans and pundits cite him when arguing the club should prioritize bold leadership, attacking flair and a distinct club culture over cautious, corporate management. Conversely, his rebelliousness and disciplinary controversies are used to warn against romanticising past heroes and to justify stricter standards of conduct or recruitment policies today.",
+    "queries": [
+      "Is eric cantona's influence on Manchester United overstated or not?"
+    ]
+  },
+  {
+    "id": "C9-2-5",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "david moyes",
+    "wiki_title": "david moyes",
+    "summary": "David Moyes is often cited in debates about Manchester United as the emblematic failed post‑Ferguson appointment, used to criticize the club’s succession planning, transfer policy and executive decision‑making; critics point to his tenure as proof of mismanagement, while defenders use it to argue that structural issues (ownership, recruitment, unrealistic expectations) made his job untenable.",
+    "queries": [
+      "Is david moyes at Manchester United a reasonable appointment or not?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "busby babes",
+    "wiki_title": "busby babes",
+    "summary": "References to the 'Busby Babes' are often used by fans and pundits as a moral benchmark for Manchester United, arguing the club should prioritize homegrown youth development, tradition, and long-term team-building and thereby criticizing modern owners/managers for commercialization, short-term transfers, or neglect of the academy. The phrase also anchors narratives of resilience and the Munich tragedy to demand respectful remembrance and principled stewardship of the club's identity.",
+    "queries": [
+      "Is the busby babes legacy honored appropriately at Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-3-1",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "matt busby",
+    "wiki_title": "matt busby",
+    "summary": "Matt Busby is often invoked as the archetypal Manchester United manager whose emphasis on youth, attacking football and club continuity is used to justify prioritizing the academy, long-term managerial appointments and a community-focused identity; opponents of modern ownership or short-termism cite Busby nostalgically to criticize commercialization, frequent managerial turnover, and perceived departures from the club’s traditional values.",
+    "queries": [
+      "Is Matt Busby's legacy at Manchester United justified or not?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "bobby charlton",
+    "wiki_title": "bobby charlton",
+    "summary": "Bobby Charlton is invoked as the embodiment of Manchester United’s golden-era values — excellence, loyalty and youth development — and his legacy is used to argue for a return to homegrown talent and club-first priorities. Critics likewise point to the gap between Charlton’s symbolic standards and contemporary ownership/board decisions to frame complaints about commercialisation, poor governance, or a lost identity.",
+    "queries": [
+      "Is criticism of bobby charlton regarding Manchester United fair or not?"
+    ]
+  },
+  {
+    "id": "C9-3-4",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "duncan edwards",
+    "wiki_title": "duncan edwards",
+    "summary": "Duncan Edwards is often evoked as the archetypal Busby Babe whose talent and tragic death embody Manchester United’s heritage of youth, resilience, and bravery; fans and commentators invoke him to argue for renewed investment in the academy and a return to club values. Conversely, his memory is also used to criticize modern United — charging that commercialization, short-term signings, and loss of identity have strayed from the spirit Edwards symbolizes.",
+    "queries": [
+      "How do people view Duncan Edwards' contribution to Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "jimmy murphy",
+    "wiki_title": "jimmy murphy",
+    "summary": "Jimmy Murphy is invoked as the archetypal youth developer and loyal deputy whose role after the Munich air disaster is used to symbolize Manchester United’s tradition of nurturing young talent and institutional resilience; commentators cite him to argue for prioritizing academy investment, managerial continuity, and club identity over short‑term spending. His example is also used to criticize modern regimes that rely heavily on expensive transfers and rapid managerial turnover as departures from the club’s historical values.",
+    "queries": [
+      "Was Jimmy Murphy’s role in United’s post-Munich recovery reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "munich air disaster",
+    "wiki_title": "munich air disaster",
+    "summary": "The Munich air disaster is invoked as Manchester United’s foundational tragedy that legitimizes the club’s identity and resilience, providing moral authority and emotional weight that fans and officials use to demand reverence, defend continuity, and blunt critics during crises. It is also mobilized in debates to reproach past management choices or to condemn the commercialization of memory, serving both as a call for responsible leadership and proper memorialization and as a touchstone for critiquing exploitation of the club’s history.",
+    "queries": [
+      "Has the munich air disaster shaped Manchester United’s modern reputation fairly?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "british european airways flight 609",
+    "wiki_title": "british european airways",
+    "summary": "British European Airways is most often mentioned in Manchester United discourse as the operator of Flight 609—the Munich air disaster flight in 1958—and is invoked to frame the club’s defining tragedy and subsequent resilience. References to BEA are used both to assign responsibility or critique mid-century airline practices and safety, and to underscore the human cost that shaped Manchester United’s identity and commemorations.",
+    "queries": [
+      "What do fans think about british european airways flight 609's legacy?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "united (2011 film)",
+    "wiki_title": "united (2011 film)",
+    "summary": "United (2011) is often cited in debates about Manchester United as a touchstone that humanizes the club’s post‑Munich resilience, reinforcing narratives of tradition and communal identity that supporters use to justify loyalty and insist the club honor its heritage. Critics and pundits also invoke the film to contrast that revered past with modern commercialization and ownership decisions, framing contemporary management as a betrayal of the Busby era’s values.",
+    "queries": [
+      "How do people view united (2011 film) as commentary on Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-4-7",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "1957–58 european cup",
+    "wiki_title": "1957–58 european cup",
+    "summary": "The 1957–58 European Cup—and the Munich tragedy tied to it—is frequently invoked to frame Manchester United as a club defined by heroic youth, resilience and a moral legacy, used by fans and commentators to justify reverence for tradition, youth development policies, and the club’s claim to elite European identity. Critics and pragmatists counter that continual appeals to that moment let the club rest on past martyrdom to excuse current failings, commercial priorities, or inconsistent European ambitions.",
+    "queries": [
+      "What impact has the 1957–58 european cup had on Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "fa youth cup",
+    "wiki_title": "fa youth cup",
+    "summary": "The FA Youth Cup is frequently invoked as evidence of Manchester United’s historical strength in developing homegrown talent and is used to justify policies that prioritize academy promotion and a club identity rooted in youth. Conversely, pundits and fans also use the club’s recent performances in the competition as a benchmark to criticize United for failing to convert academy promise into consistent first‑team success or for underinvesting in youth development.",
+    "queries": [
+      "Is Manchester United's FA Youth Cup emphasis reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-3",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "paul mcguinness",
+    "wiki_title": "paul mcguinness",
+    "summary": "Paul McGuinness is often invoked in discussions about Manchester United as a symbol of the club’s youth-development pedigree; supporters point to his era to argue for renewed investment in the academy and homegrown coaching, while critics use the contrast with his tenure to accuse recent regimes of abandoning long-term player development and continuity.",
+    "queries": [
+      "How do fans view Paul McGuinness’s youth work at Manchester United?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "aon training complex",
+    "wiki_title": "aon",
+    "summary": "Aon is frequently cited in debates about Manchester United as a visible symbol of the club’s commercial strategy—supporters point to its high‑value partnerships and training‑ground branding to argue UNited’s global appeal and financial clout, while critics use Aon’s prominent corporate presence to criticize over‑commercialisation and the prioritisation of sponsorship revenue and brand deals over club tradition and on‑pitch investment.",
+    "queries": [
+      "Has the Aon Training Complex improved Manchester United’s performance, in your view?"
+    ]
+  },
+  {
+    "id": "C9-6-4",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "sports science",
+    "wiki_title": "sports science",
+    "summary": "In public debates about Manchester United, sports science is often used to explain or blame the club’s persistent injury problems, poor match fitness and recovery strategies—critics argue inadequate sports-science staff or facilities cause recurring fitness dips, while defenders point to congested schedules and workload as mitigating factors. It also frames policy arguments for investing in performance teams, individualized conditioning and data-driven medicals for transfers, even as some warn against substituting metrics for coaching and man‑management.",
+    "queries": [
+      "How do fans view Manchester United’s sports science strategies?"
+    ]
+  },
+  {
+    "id": "C9-6-5",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "carrington, greater manchester",
+    "wiki_title": "carrington, greater manchester",
+    "summary": "Carrington is often invoked to argue that Manchester United’s world‑class training facilities prove the club’s professional ambition and commitment to youth development and player welfare, a point supporters cite to justify investment and long‑term strategy. Critics, however, use it to highlight disparities between elite infrastructure and community access or to argue that high spending on facilities masks poor on‑field performance or a widening gap between the club and its local fanbase.",
+    "queries": [
+      "How do people view Carrington, Greater Manchester as United’s training ground?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "manchester evening news",
+    "wiki_title": "manchester evening news",
+    "summary": "The Manchester Evening News is often used as a local authority on Manchester United, supplying match reporting, analysis, fan reaction and opinion pieces that shape public debate—frequently amplifying supporter grievances about ownership, ticketing and managerial decisions or legitimizing criticism of the board and transfers. Commentators and fans cite its coverage to justify calls for accountability or to frame narratives about the club’s direction, while its tone can also be invoked to defend club actions or defuse criticism.",
+    "queries": [
+      "Is manchester evening news coverage of Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-7",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "the athletic",
+    "wiki_title": "the athletic",
+    "summary": "The Athletic’s investigative reporting and long-form analysis is frequently cited in debates over Manchester United’s ownership, transfer policy and managerial competence, providing evidence that bolsters criticism of the Glazers and recruitment failures or, alternately, defends proposed rebuild strategies. Its insider sources and data-driven pieces shape public narratives by lending perceived credibility to arguments about the club’s structural problems or progress.",
+    "queries": [
+      "Is the athletic’s Manchester United coverage fair or biased?"
+    ]
+  },
+  {
+    "id": "C9-7",
+    "parent": "C9",
+    "level": 2,
+    "topic": "homegrown player rule",
+    "wiki_title": "homegrown player rule",
+    "summary": "At Manchester United the homegrown player rule is often invoked to defend the club’s tradition of promoting academy graduates, arguing that meeting homegrown quotas should justify prioritising youth development and restoring club identity. Critics, however, cite the rule to fault recent transfer policies and underinvestment in the academy, claiming United either fail to produce enough homegrown talent or rely on foreign signings to work around squad limits.",
+    "queries": [
+      "Is the homegrown player rule fair for Manchester United or not?"
+    ]
+  },
+  {
+    "id": "C9-7-6",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "uefa squad regulations",
+    "wiki_title": "uefa euro 2016 squads",
+    "summary": "The makeup of UEFA Euro 2016 squads is frequently invoked to argue for or against Manchester United’s standing: a high number of United players selected is used to bolster claims that the club develops and attracts top international talent, while a paucity of picks is deployed as evidence of decline or poor recruitment. It’s also used to frame debates about player management and transfers—blaming international duty or tournament fatigue for dips in club form, or citing Euro exposure to justify higher transfer fees and wage demands.",
+    "queries": [
+      "Are uefa squad regulations fair for Manchester United or not?"
+    ]
+  },
+  {
+    "id": "C9-8",
+    "parent": "C9",
+    "level": 2,
+    "topic": "marcus rashford",
+    "wiki_title": "marcus rashford",
+    "summary": "Marcus Rashford is frequently invoked as Manchester United’s emblematic homegrown talent whose form, selection and development are used to justify or condemn the club’s youth policy, managerial tactics and transfer spending; sustained good form is touted as proof United should back academy players, while dips or perceived mistreatment are cited to criticize coaching, recruitment and contract priorities. His high-profile social activism and marketability are also used to frame the club’s public image—supporters point to him as evidence of United’s values and leadership production, whereas critics argue the club exploits his stature for commercial gain while failing to build a consistently competitive team around him.",
+    "queries": [
+      "Are expectations for Marcus Rashford at Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-1",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "england national team",
+    "wiki_title": "england team",
+    "summary": "References to England teams are often used to judge Manchester United’s contribution to English football—supporters point to United players called into England squads as proof of the club’s academy and stature, while critics use the absence or underperformance of England internationals from United to argue the club prioritises foreign recruitment or suffers from poor coaching. The club-vs-country narrative also frames debates over player availability and injury risk on international duty, driving calls for calendar reform or compensation for clubs.",
+    "queries": [
+      "Is prioritizing the england national team over Manchester United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-2",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "free school meals",
+    "wiki_title": "school meal",
+    "summary": "References to school meals—most prominently Marcus Rashford’s campaign—are used to cast Manchester United as a force for local social good and to highlight the club’s community role through player-led advocacy and foundation work. Conversely, they’re also invoked to pressure or criticize the club and its owners for not matching that social commitment institutionally, framing outreach as either genuine responsibility or performative PR.",
+    "queries": [
+      "Is Manchester United's support for free school meals reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-3",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "food poverty",
+    "wiki_title": "poverty",
+    "summary": "Debates about poverty are used to criticize Manchester United’s commercialisation and high ticket prices for pricing out local, working‑class supporters and to question wealthy owners’ profiteering, while supporters point to the club’s foundation and community programs as proof of social responsibility — activists thus invoke local poverty to push for more affordable access, community investment and accountable ownership.",
+    "queries": [
+      "How do people view Manchester United's efforts on food poverty?"
+    ]
+  },
+  {
+    "id": "C9-8-4",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "fareshare",
+    "wiki_title": "fareshare",
+    "summary": "When Manchester United partners with FareShare, supporters point to the charity work as proof of the club’s positive local impact and commitment to tackling food poverty and waste, while skeptics use the same association to accuse the club of tokenistic PR that distracts from critiques of ownership, commercial priorities, and inequalities affecting fans.",
+    "queries": [
+      "What effects has Manchester United’s fareshare involvement had?"
+    ]
+  },
+  {
+    "id": "C9-8-6",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "mbe",
+    "wiki_title": "mbe",
+    "summary": "Mentions of MBEs awarded to Manchester United players, managers, or staff are often used by supporters to legitimize the club’s historic stature and celebrate individual contributions, portraying the club as nationally honored. Conversely, critics invoke those same honours to argue the club’s closeness to establishment power, question whether footballers should receive state awards, or to highlight perceived moral inconsistencies when recipients’ behavior is controversial.",
+    "queries": [
+      "Is awarding an mbe to Manchester United figures reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-7",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "racism in football",
+    "wiki_title": "racism in association football",
+    "summary": "Claims about racism in football are frequently used to judge Manchester United’s culture and leadership—critics cite episodes of racist abuse aimed at United players or chants by some fans to argue the club tolerates or inadequately addresses bigotry, while defenders point to club statements, education initiatives, and sanctions to cast United as committed to combating discrimination and pushing for stronger anti-racism policies.",
+    "queries": [
+      "What consequences has racism in football had for Manchester United?"
+    ]
+  }
+]

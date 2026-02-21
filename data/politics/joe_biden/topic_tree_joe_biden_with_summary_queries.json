@@ -1,0 +1,2631 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Joe Biden",
+    "wiki_title": "Joe Biden",
+    "summary": "Biden is used as a living symbol in arguments about experience versus decline: supporters invoke his long record, pragmatic centrism and steady multilateral leadership to justify moderate policy compromises, while critics spotlight his age, public gaffes, and perceived policy failures (e.g., inflation, Afghanistan exit) to argue he is out of touch, cognitively diminished, or insufficiently progressive.",
+    "queries": [
+      "How do people view Joe Biden’s policy decisions?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral politics",
+    "wiki_title": "electoral system",
+    "summary": "References to the electoral system are often used to dispute or defend Biden’s mandate—opponents invoke alleged 2020 irregularities, Electoral College quirks, or state certification disputes to delegitimize him, while supporters point to certified results and court rulings to affirm his legitimacy. The concept also frames policy fights over his agenda: advocates cite electoral rules to justify Biden’s push for federal voting-rights protections and expanded mail-in/early voting, while critics use it to argue for stricter voter-ID and election controls.",
+    "queries": [
+      "Is Joe Biden's approach to electoral politics justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Trump is the primary foil in debates about Biden: Democrats invoke the threat of a Trump return to justify Biden’s centrist, norm-restoring and sometimes emergency measures and to portray him as the safer, stabilizing choice against authoritarianism and hardline immigration/trade policies; Republicans and critics instead use Trump as a benchmark to argue Biden is weak or ineffective—blaming him for poor economic or border outcomes and saying he has failed to undo or confront problems associated with the Trump era.",
+    "queries": [
+      "Is Donald Trump’s criticism of Joe Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "2020 presidential election",
+    "wiki_title": "2020 national electoral calendar",
+    "summary": "Observers and partisans point to the 2020 national electoral calendar — with its pandemic-driven shifts to expanded mail‑in and early voting and altered state deadlines — to argue that those changes enabled high turnout that helped elect Joe Biden and therefore justify calls for permanent voting‑access reforms he supports. Conversely, critics seize on the calendar’s staggered deadlines and delayed counts across states to cast doubt on the timing and legitimacy of Biden’s victory and to argue for tighter election‑integrity laws.",
+    "queries": [
+      "What consequences has the 2020 presidential election had for Biden's presidency?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "january 6 attack",
+    "wiki_title": "january 6 united states capitol attack",
+    "summary": "The January 6 attack is frequently invoked to validate Joe Biden’s portrayal of his presidency as defending democratic norms and to justify his push for tougher domestic-security measures, accountability for extremists, and voting-rights and rule-of-law reforms. Critics, however, argue Biden and his allies politicize the event to delegitimize opponents, expand federal authority, and mobilize voters against former President Trump.",
+    "queries": [
+      "Is the january 6 attack relevant to Joe Biden’s presidency?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "maga movement",
+    "wiki_title": "trumpism",
+    "summary": "Proponents of Trumpism cast Joe Biden as an out-of-touch, globalist establishment figure whose trade, immigration, and climate policies betray American workers and national sovereignty, using that frame to justify opposition and sometimes to question his electoral legitimacy. Critics of Trumpism invoke the label to argue Biden must resist authoritarian, populist pressures and defend democratic norms against nationalist tactics.",
+    "queries": [
+      "How do people view the MAGA movement’s stance toward Joe Biden?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "2024 u.s. presidential election",
+    "wiki_title": "2024 united states presidential election",
+    "summary": "The 2024 election is frequently invoked to argue about Biden’s competence and political viability—critics point to perceived age‑and performance issues to justify replacing or blaming him for Democratic losses, while opponents use the result to fault his economic and immigration record. Supporters counter that the campaign and its outcome should be read as a defense of Biden’s policy legacy and a warning about the stakes of a Trump return, framing his actions as responsible stewardship of the party.",
+    "queries": [
+      "How do people view Biden’s role in the 2024 u.s. presidential election?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "age and fitness",
+    "wiki_title": "physical fitness",
+    "summary": "Physical fitness is used as a visible shorthand in debates about Biden’s age and stamina: critics point to his gait, pauses, and endurance during long events to argue he lacks the physical capacity for rigorous presidential duties and press for medical transparency or succession plans, while supporters highlight his active routine and favorable doctor reports to rebut those claims. It also functions as a proxy for broader concerns about cognitive and executive fitness, and occasionally informs discussions about healthcare and elder-care policy but mainly serves rhetorical weight in arguments over his fitness to serve.",
+    "queries": [
+      "What concerns does Joe Biden's age and fitness raise?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "hunter biden",
+    "wiki_title": "hunter biden",
+    "summary": "Opponents seize on Hunter Biden’s business ties and scandals to portray Joe Biden as corrupt or compromised, using the association to justify investigations, campaign attacks, and skepticism about his foreign‑policy decisions (especially on Ukraine and China). Supporters counter that Hunter’s actions are personal and being weaponized for partisan gain, arguing the allegations are politicized and should not be allowed to delegitimize or dictate evaluations of Joe Biden’s fitness or policies.",
+    "queries": [
+      "Is Hunter Biden’s media treatment justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "burisma holdings",
+    "wiki_title": "burisma",
+    "summary": "Burisma is frequently invoked by Biden critics to allege nepotism and corruption—claiming his actions as vice president were influenced by his son’s paid board role and using this to justify investigations or to portray Biden as ethically compromised—while supporters counter that there is no evidence Joe Biden acted improperly, describe the allegations as politically motivated or disinformation, and point to his public anti‑corruption stance and Ukraine policy as exculpatory context.",
+    "queries": [
+      "How do people view Burisma Holdings in relation to Joe Biden?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "References to the ministry of justice (in U.S. practice, the Department of Justice) are used to frame debates about Joe Biden by pointing to DOJ decisions—such as handling of classified documents, investigations into his family, or appointment of special counsels—as evidence his administration either upholds the rule of law or shields allies. Critics invoke alleged DOJ bias and selective enforcement to argue Biden benefits from political protection, while defenders cite DOJ independence and prosecutorial restraint to justify his integrity and policy choices.",
+    "queries": [
+      "What consequences has the department of justice under Biden caused?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "plea agreement",
+    "wiki_title": "plea bargain",
+    "summary": "Plea bargains are invoked in Biden-related debates chiefly to allege unequal justice—critics point to plea negotiations (especially around Hunter Biden) as evidence of favoritism or corruption—while defenders and policy analysts use the ubiquity of plea deals to critique Biden’s earlier ‘tough-on-crime’ record or to frame his proposals as attempts to reform prosecutorial discretion and reduce coercive plea practices.",
+    "queries": [
+      "What effects could Joe Biden's plea agreement have politically?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "rudy giuliani",
+    "wiki_title": "rudy giuliani",
+    "summary": "Rudy Giuliani has repeatedly promoted allegations and selective leaks purporting to show corruption by Joe Biden and his family, framing Biden as ethically compromised and reinforcing Republican attacks. His legal troubles and reliance on disputed evidence also let Biden supporters portray those accusations as politically motivated misinformation rather than credible proof.",
+    "queries": [
+      "Is Rudy Giuliani's conduct toward Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "democratic party",
+    "wiki_title": "democratic party",
+    "summary": "The Democratic Party is invoked by Biden supporters and party leaders to justify his centrist, pro-labor, climate and social‑safety‑net agenda and to present him as the experienced steward of Democratic priorities and the party’s nominee. Conversely, opponents and intra‑party critics use the label to frame him either as an establishment moderate beholden to party elites who compromises on progressive goals or as the face of a “radical” Democratic agenda, blaming the party for policy failures, political missteps, or undue influence over his decisions.",
+    "queries": [
+      "What consequences has the democratic party had for Biden's agenda?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "democratic national committee",
+    "wiki_title": "democratic national committee",
+    "summary": "The Democratic National Committee functions as Biden’s chief party backer, coordinating fundraising, messaging, and ad campaigns to cast him as the Democratic establishment’s pragmatic leader and to amplify his accomplishments while rebutting Republican attacks. It also shapes internal narratives—endorsing and mobilizing support for Biden, discouraging primary challenges, and steering policy debates toward centrist party positions, which draws praise from allies and criticism from progressives who see the DNC as protecting the incumbent.",
+    "queries": [
+      "Is the democratic national committee's support for Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "progressive caucus",
+    "wiki_title": "progressive caucus",
+    "summary": "Progressive caucuses function in public debates as the left-pressure wing on Biden, criticizing his centrist compromises and pushing him toward bolder climate, health‑care, student‑debt and economic‑justice policies while praising any moves that align with progressive priorities. Their framing—portraying Biden as either a pragmatic compromiser or insufficiently progressive—shapes progressive voter expectations and can translate into public rebukes, primary threats, or demands for tougher stances on domestic and some foreign‑policy issues.",
+    "queries": [
+      "How do people view the progressive caucus in Biden's administration?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "bernie sanders",
+    "wiki_title": "bernie sanders",
+    "summary": "Sanders is used as the progressive benchmark and pressure point for Biden—Democrats invoke his critiques and endorsements to push Biden toward bolder economic and climate policies, while critics use Sanders to paint Biden as either too influenced by ‘socialist’ ideas or as insufficiently progressive. His post‑2020 alliance with Biden helps legitimize Biden with left‑leaning voters even as Sanders’ public calls for more radical change frame Biden as a centrist compromise figure.",
+    "queries": [
+      "Is Bernie Sanders' criticism of Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "nancy pelosi",
+    "wiki_title": "nancy pelosi",
+    "summary": "Pelosi is used as a shorthand for Biden’s establishment credibility and legislative muscle — supporters point to her ability to marshal House votes to justify Biden’s policy wins, while critics portray her as proof that Biden is beholden to party elites and too centrist or managerial for progressive reformers (and a convenient foil for conservatives who attack Democratic leadership).",
+    "queries": [
+      "Is Nancy Pelosi's influence on Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "united states presidential debates",
+    "wiki_title": "united states presidential debates",
+    "summary": "Presidential debates are treated as high-stakes evidence about Biden’s fitness and competence: critics point to pauses, gaffes, or halting exchanges as proof of cognitive decline and unfitness for office, while allies emphasize his experience, steadiness, and policy knowledge in debates to justify his leadership and electability. Debate moments are also used to frame or refute specific policy claims—portraying Biden either as a knowledgeable moderate or as vague and out of step, depending on partisan aims.",
+    "queries": [
+      "How do people view Joe Biden in united states presidential debates?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "commission on presidential debates",
+    "wiki_title": "commission on presidential debates",
+    "summary": "The CPD is cited in arguments about Biden to argue he and his campaign either tried to avoid standard, neutral debate rules—feeding narratives that he is evasive or protected by the political establishment—or legitimately sought alternative formats for safety and fairness; opponents point to the CPD bypass as evidence of favoritism or rule‑gaming, while supporters portray it as a pragmatic move to control debate conditions.",
+    "queries": [
+      "How do people view the commission on presidential debates?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "fact-checking",
+    "wiki_title": "fact-checking",
+    "summary": "Fact-checking is used in debates over Joe Biden to validate or rebut claims about his record, competence, and policy outcomes—supporters point to favorable fact-checks to counter attacks about his age, cognitive fitness, or administration errors, while opponents amplify unfavorable rulings to allege dishonesty or ineptitude. Because parties frequently accuse fact-checkers of bias or opinion journalism, fact-checks shape but do not fully settle partisan narratives about Biden and can influence short-term perceptions more than entrenched views.",
+    "queries": [
+      "Is fact-checking of Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "cognitive decline",
+    "wiki_title": "cognitive impairment",
+    "summary": "Allegations about Joe Biden's cognitive impairment are a frequent partisan tool: critics point to lapses or slowed speech to argue he is too old or mentally unfit for the presidency, justify calls for removal, 25th Amendment action, or mandatory cognitive testing, while supporters portray such claims as politically motivated ageism, point to medical clearances and job performance to defend his competence, and warn that the rhetoric distracts from policy debates.",
+    "queries": [
+      "How do people view Biden's cognitive decline?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "gaffe",
+    "wiki_title": "political gaffe",
+    "summary": "Political gaffes by Joe Biden are routinely seized on by opponents to portray him as cognitively declining, out of touch, or unfit for office—shaping narratives that undermine his credibility and Democratic policy priorities—while supporters and sympathetic outlets frame them as benign verbal slips or signs of authenticity to minimize political damage. These moments shift public debate from substantive policy to questions of competence and age, amplified by social media and partisan media strategies.",
+    "queries": [
+      "What consequences has Joe Biden's gaffe caused?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "swing voters",
+    "wiki_title": "swing vote",
+    "summary": "Commentators invoke the concept of a 'swing vote' to argue that Biden must appeal to independents and suburban moderates — a rationale used to justify his centrist, pragmatic policies during campaigns and governing, and to credit his electability. Opponents counter that catering to swing voters explains his retreat from progressive priorities, and the same framing is used to explain his compromises with centrist senators when seeking pivotal congressional support.",
+    "queries": [
+      "What impact do swing voters have on Biden's policy priorities?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "town hall meeting",
+    "wiki_title": "town hall meeting",
+    "summary": "Town halls function as public stages where Biden’s supporters point to his direct engagement and detailed policy answers to portray him as empathetic and responsive on issues like COVID, the economy, and Social Security, while critics amplify any halting responses or gaffes from these events to argue he is too old, out of touch, or unclear on key policies; activists and opponents also use town halls to pressure or publicly shame him on specific policy choices.",
+    "queries": [
+      "How do people view Joe Biden’s town hall meeting conduct?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "opinion polling",
+    "wiki_title": "opinion poll",
+    "summary": "Opinion polls are frequently invoked to frame Biden as either politically vulnerable or vindicated—supporters cite favorable numbers to justify his policy agenda and re‑election viability, while critics highlight low approval, age/fitness metrics, or negative ratings on issues (economy, inflation, immigration, foreign policy) to argue he is ineffective or unelectable. Selective use and framing of poll results drive media narratives, pressure on Democratic strategy (calls for messaging changes or primary challenges), and public perceptions of his competence and mandate.",
+    "queries": [
+      "How do people view opinion polling about Joe Biden?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "gallup",
+    "wiki_title": "gallup",
+    "summary": "Gallup's presidential approval and issue-tracking polls are frequently cited in debates about Joe Biden as a barometer of his popularity and policy performance. Critics point to Gallup figures on low job approval or economic confidence to argue he is failing and press for change, while supporters highlight improved or favorable Gallup results to defend his record and justify his agenda.",
+    "queries": [
+      "Is gallup's polling on Joe Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "independent voters",
+    "wiki_title": "independent voter",
+    "summary": "Independent voters are invoked as the decisive swing bloc whose support or disaffection is used to judge Biden’s electability, with Democrats pointing to independents to justify his moderate, pragmatic messaging and Republicans or critics citing independent disapproval to argue he should change course or be replaced. Debates over independents’ concerns—especially on the economy, inflation, and crisis management—are amplified to either defend Biden’s centrist policy moves or to criticize his performance and fitness to lead.",
+    "queries": [
+      "Is Joe Biden’s appeal to independent voters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "campaign finance",
+    "wiki_title": "campaign finance",
+    "summary": "Campaign finance is used by Biden's critics to argue he is beholden to wealthy donors, PACs, or special interests—citing fundraising records or big-donor access to question his integrity and policy choices—while his supporters point to small‑donor fundraising, fundraising prowess, and calls for disclosure or reform to portray him as accountable, electable, and committed to limiting big‑money influence.",
+    "queries": [
+      "What effects has Joe Biden’s campaign finance strategy caused?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "actblue",
+    "wiki_title": "actblue",
+    "summary": "Supporters point to ActBlue–driven small‑donor totals as evidence of broad grassroots backing for Biden and his policy agenda, using its fundraising numbers to argue he can claim popular democratic legitimacy. Critics frame ActBlue as a partisan fundraising engine that both entrenches Democratic establishment power and amplifies progressive activist pressure on Biden, suggesting he is beholden to organized donor networks rather than independent judgment.",
+    "queries": [
+      "Is actblue’s role in Biden fundraising reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "super pacs",
+    "wiki_title": "super pac",
+    "summary": "Pro-Biden super PACs bankroll large ad campaigns and rapid-response messaging that portray Biden as experienced, steady, and capable of delivering moderate, pragmatic policies to reassure swing voters; conversely, Republican and independent adversary super PACs fund negative ads and investigative hits that emphasize alleged corruption, cognitive decline, or policy failures to frame him as unfit or beholden to special interests, fueling arguments about donor influence and campaign coordination on both sides.",
+    "queries": [
+      "How do people view super pacs linked to Joe Biden?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "citizens united",
+    "wiki_title": "citizens united v. fec",
+    "summary": "Critics invoke Citizens United to claim Biden’s campaigns and allied outside groups are powered by corporate and billionaire money, arguing that leaves him beholden to Wall Street and in need of aggressive campaign‑finance reform. Biden’s supporters, and Biden himself at times, point to the decision to justify pushes for public financing, disclosure rules, and a constitutional remedy, while opponents frame those proposals as attacks on political speech.",
+    "queries": [
+      "How do people view citizens united in Biden's presidency?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "federal election commission",
+    "wiki_title": "federal election commission",
+    "summary": "Opponents routinely cite FEC complaints, filings and enforcement decisions to accuse Biden of improper coordination with PACs, disclosure gaps, or campaign finance violations, while allies point to FEC rulings or inaction to argue there’s no wrongdoing. FEC records and enforcement (or perceived partisan bias) therefore shape competing narratives about Biden’s transparency, corruption risk, and whether outside “dark money” advantages or unfairly targets his campaign.",
+    "queries": [
+      "What consequences has the federal election commission had for Biden's reelection prospects?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "small-dollar donations",
+    "wiki_title": "small-dollar donation",
+    "summary": "Supporters point to Biden’s small‑donor fundraising to argue he retains grassroots legitimacy and isn’t purely beholden to big-money interests, while critics and rivals cite weak or falling small‑dollar totals as evidence of waning enthusiasm, establishment dependence, and reduced primary viability (often influencing debate qualification narratives).",
+    "queries": [
+      "How do people view Joe Biden’s small-dollar donations?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News routinely frames Joe Biden as weak, out of touch, or corrupt—highlighting gaffes, age, Hunter Biden-related allegations, and policy setbacks (inflation, immigration, energy) to justify conservative critiques and Republican political attacks. Its opinion shows and commentary often amplify skeptical or negative interpretations of his actions and sometimes spread claims that undermine his competence and credibility.",
+    "queries": [
+      "Are Fox News’s portrayals of Joe Biden reasonable or unjustified?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "border crisis",
+    "wiki_title": "mexico–united states border crisis",
+    "summary": "Opponents seize the Mexico–United States border crisis to blame Biden for lax enforcement and an “open borders” approach, using it to paint him as weak on immigration and to justify tougher enforcement, asylum restrictions, and Republican electoral attacks. Supporters counter that the crisis reflects structural problems and prior administrations’ policies, framing Biden as pursuing humanitarian management, targeted foreign aid, and legislative reform rather than the punitive measures his critics demand.",
+    "queries": [
+      "What consequences has the border crisis had during Biden’s presidency?"
+    ]
+  },
+  {
+    "id": "C1-8-5",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "2024 election",
+    "wiki_title": "list of elections in 2024",
+    "summary": "Lists of 2024 elections are deployed in debates about Biden to portray him either as a casualty of a global anti‑incumbent wave—used by critics to blame his leadership or policies for shrinking Democratic support—or by allies to contextualize U.S. setbacks as part of broader international trends and argue for continuity or strategic adjustments rather than a repudiation of his agenda.",
+    "queries": [
+      "Is Joe Biden's handling of the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "ukraine aid",
+    "wiki_title": "aid to ukraine during the russo-ukrainian war",
+    "summary": "Supporters point to Biden’s provision of military and economic aid to Ukraine as evidence of steady leadership, commitment to NATO and defending democracy against authoritarian aggression; opponents cast the aid as proof of an interventionist, costly agenda that overextends U.S. resources, fuels inflation, and reflects misplaced priorities, using it to argue against his competence or to push isolationist alternatives.",
+    "queries": [
+      "What effects has Joe Biden’s ukraine aid caused?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "administration & governance",
+    "wiki_title": "governance",
+    "summary": "Debates about Joe Biden use “governance” to frame him either as a restorer of institutional norms and technocratic competence—defending his regulatory, public‑health, and multilateral policies—or as a bureaucratic, ineffective manager whose administration enables administrative overreach, porous border enforcement, and slow economic responsiveness, critiques used to justify electoral opposition or tougher, more populist remedies.",
+    "queries": [
+      "How do people view Joe Biden's administration & governance?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "kamala harris",
+    "wiki_title": "kamala harris",
+    "summary": "Supporters invoke Harris to frame Biden as committed to diversity, generational renewal, and Democratic policy continuity, while critics cite her tenure and campaign performance to question Biden’s judgment, succession planning, and the administration’s effectiveness on issues like immigration and party unity.",
+    "queries": [
+      "How do people view Kamala Harris's influence within Biden's team?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "vice president",
+    "wiki_title": "vice president",
+    "summary": "References to the vice presidency around Joe Biden are used to justify or criticize his leadership choices—his selection of Kamala Harris is cited by supporters to demonstrate commitments to diversity, experience, and succession planning, while critics use the VP role to argue ideological concessions or political calculation. Discussions of the vice president also become a proxy for debates about Biden’s age and fitness, with allies pointing to a competent second-in-command for continuity and critics claiming excessive delegation or a potential de facto president.",
+    "queries": [
+      "Are concerns about the vice president under Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "running mate",
+    "wiki_title": "running mate",
+    "summary": "Joe Biden’s choice of running mate (most prominently Kamala Harris in 2020) is frequently invoked to signal his priorities and shore up electability — supporters cast the pick as evidence of commitment to racial and gender representation and coalition-building, while critics portray it as tokenistic identity politics or as a practical hedge against Biden’s age by suggesting the vice president will shape policy or assume the presidency if needed.",
+    "queries": [
+      "Is Joe Biden's running mate choice reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "presidential line of succession",
+    "wiki_title": "presidential line of succession",
+    "summary": "In debates about Biden’s age, health, or fitness to serve, opponents invoke the presidential line of succession to warn that invoking the 25th Amendment or an involuntary transition would hand power to specific figures (most prominently Vice President Kamala Harris), framing those successors as a policy shift or democratic risk; supporters, by contrast, point to the same succession rules as proof of constitutional stability and orderly continuity, reassuring voters that governance would remain legitimate and functioning if Biden were incapacitated.",
+    "queries": [
+      "Is the presidential line of succession adequate for Biden's administration?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "climate policy",
+    "wiki_title": "politics of climate change",
+    "summary": "The politics of climate change is invoked to portray Joe Biden as either a climate-action leader—citing his re‑entry to the Paris Agreement, clean‑energy investments and “green recovery” agenda—or as a target of critique: progressives argue his policies are compromised by fossil‑fuel concessions, while conservatives frame them as economically damaging overreach. Those competing frames shape public judgments of Biden’s priorities, competence, and authenticity on energy, jobs, and climate policy.",
+    "queries": [
+      "What consequences has Biden’s climate policy had?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "executive orders",
+    "wiki_title": "executive order",
+    "summary": "In debates about Joe Biden, executive orders are presented by supporters as a necessary way to deliver climate, immigration, COVID, and equity policies when Congress is gridlocked, while critics portray them as evidence of executive overreach that circumvents legislative authority and invites court challenges. Commentary also emphasizes their reversibility—Biden’s undoing of Trump-era orders is framed by allies as corrective and by opponents as proof that such actions lack permanence, and some progressives fault him for not using them more aggressively.",
+    "queries": [
+      "Is Joe Biden's use of executive orders reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "daca",
+    "wiki_title": "deferred action for childhood arrivals",
+    "summary": "DACA is invoked by supporters to cast Biden as a defender of 'Dreamers,' pointing to his executive actions and campaign promises to justify his pro-immigrant credentials and push for a pathway to citizenship; opponents use the same issue to criticize him for failing to secure legislative permanence, for perceived inaction or continued deportations under his administration, and to portray him as weak on border enforcement.",
+    "queries": [
+      "Is Biden's DACA policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "keystone xl",
+    "wiki_title": "keystone pipeline",
+    "summary": "The Keystone XL controversy is invoked as a shorthand for Biden’s climate-first priorities: critics portray his blocking of the project as evidence he betrays energy workers and rural interests and weakens U.S. energy independence, while supporters use it to justify his commitment to reducing fossil fuels and fulfilling campaign promises on climate action, often highlighting the tradeoff between environmental goals and union/job concerns.",
+    "queries": [
+      "Is cancelling Keystone XL reasonable for Biden's climate agenda?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "covid-19 vaccine mandate",
+    "wiki_title": "covid-19 vaccination mandates in the united states",
+    "summary": "COVID-19 vaccination mandates in the United States are frequently invoked in debates about Joe Biden, with supporters portraying them as evidence of his commitment to public health and decisive federal leadership, and critics using them to accuse his administration of authoritarian overreach and infringement on personal liberty. They thus serve both to bolster praise for Biden’s pandemic response and to fuel political attacks, lawsuits, and mobilization among opponents.",
+    "queries": [
+      "Is Joe Biden's covid-19 vaccine mandate reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "congressional review act",
+    "wiki_title": "congressional review act",
+    "summary": "The Congressional Review Act is invoked in debates about Biden as a shorthand threat that his regulatory agenda can be quickly undone by a future Republican-controlled Congress, bolstering arguments that his policies are fragile and transient. Supporters counter that this risk justifies prioritizing durable legislation over rulemaking, while critics use the CRA’s specter to attack Biden for relying on executive actions that can be easily reversed.",
+    "queries": [
+      "Is the Congressional Review Act justified against Biden administration rules?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "supreme court",
+    "wiki_title": "supreme court",
+    "summary": "Arguments about the Supreme Court are often deployed to judge Biden’s effectiveness and legacy—critics blame a conservative court for striking down or limiting his administration’s priorities (on abortion, immigration, regulatory authority), while supporters highlight his ability to reshape the judiciary through appointments and back proposals (court expansion, term limits) to counteract conservative decisions and protect Democratic policies.",
+    "queries": [
+      "How do people view the supreme court appointments under Joe Biden?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "texas v. biden",
+    "wiki_title": "texas v. pennsylvania",
+    "summary": "Texas v. Pennsylvania is often invoked by Biden’s critics as a legal pretext to claim his 2020 victory was illegitimate and to justify efforts to contest his mandate, while Biden’s supporters point to the suit’s dismissal and lack of standing to argue those claims were baseless and to frame attacks on his win as anti‑democratic and a misuse of the courts.",
+    "queries": [
+      "Is Texas v. Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "inflation reduction act",
+    "wiki_title": "inflation reduction act",
+    "summary": "Supporters cite the Inflation Reduction Act as a concrete legislative achievement that showcases Biden’s ability to deliver climate, energy, and drug‑pricing reforms and to claim responsible economic stewardship, using it to justify his agenda and competence. Opponents invoke it to argue he has pursued costly or compromised policies that either fail to tame inflation or reward industry, framing his economic leadership as ineffective or misguided.",
+    "queries": [
+      "What consequences has the inflation reduction act caused?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "drug price negotiation",
+    "wiki_title": "medicare prescription drug price negotiation act",
+    "summary": "The Medicare prescription drug price negotiation act is used to portray Biden as a president tackling high prescription costs—supporters cite it to argue he is taking on Big Pharma and delivering concrete relief for seniors and families—while opponents cast it as government overreach that could harm innovation or as an insufficiently bold reform that leaves industry power intact.",
+    "queries": [
+      "How do people view drug price negotiation under Biden?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "clean energy tax credits",
+    "wiki_title": "renewable energy credit",
+    "summary": "Debate over renewable energy credits is used to shape views of Biden’s climate agenda: critics say reliance on RECs lets utilities and corporations claim emissions cuts without real reductions, portraying his policies as symbolic or enabling greenwashing, while supporters argue that expanding credit and incentive mechanisms under his administration is a pragmatic way to drive private investment in renewables and meet emissions targets.",
+    "queries": [
+      "What effects have Biden’s clean energy tax credits caused?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "senate reconciliation",
+    "wiki_title": "reconciliation (united states congress)",
+    "summary": "Reconciliation is cited in arguments about Biden as the parliamentary tool Democrats rely on to advance major parts of his domestic agenda without Republican votes—framed by supporters as necessary to deliver COVID relief, climate action, and tax changes, and by opponents as partisan overreach that circumvents Senate norms and enables large spending. Disputes over whether and how reconciliation can pass (including holdouts among Democrats) are also used to argue either that Biden can achieve bold change or that he must compromise and has failed to unite his party.",
+    "queries": [
+      "Is Biden’s use of senate reconciliation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "infrastructure investment and jobs act",
+    "wiki_title": "infrastructure investment and jobs act",
+    "summary": "Supporters cite the Infrastructure Investment and Jobs Act as proof that Joe Biden can produce bipartisan, tangible results—modernizing roads, bridges and broadband while claiming credit for job creation and economic stimulus—to burnish his competence and pragmatic governing image. Critics use it to portray Biden as presiding over excessive, inflationary federal spending or as having compromised too much to win support, framing the law as wasteful or insufficiently progressive.",
+    "queries": [
+      "What long term effects will the infrastructure investment and jobs act produce?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "buy american",
+    "wiki_title": "buy american act",
+    "summary": "Supporters point to the Buy American Act to cast Biden as committed to domestic jobs and industrial revival, using it to justify his infrastructure, climate, and supply‑chain policies. Critics counter by highlighting waivers, foreign procurement, or trade impacts to accuse his administration of hypocrisy, protectionism, or inefficiency.",
+    "queries": [
+      "Is Joe Biden's buy american policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "rural broadband",
+    "wiki_title": "ntca - the rural broadband association",
+    "summary": "NTCA is frequently cited in discussions of Biden’s broadband agenda as the leading voice for small rural carriers that generally welcomes his infusion of federal funds but lobbies for grant criteria and regulations that favor incumbent rural providers. Supporters use NTCA’s endorsements to justify Biden’s rural-investment priorities, while critics point to its advocacy to argue his policies may entrench existing providers rather than maximize competition or consumer-centric outcomes.",
+    "queries": [
+      "Is Biden’s rural broadband policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "student loan forgiveness",
+    "wiki_title": "student loans in the united states",
+    "summary": "In debates about Joe Biden, student loans are invoked both to praise him for pandemic-era pauses and attempted forgiveness as evidence of empathy for younger and working-class voters, and to criticize him from the right as fiscally irresponsible and from the left as offering insufficient reform. References to his executive actions and court battles over loan relief are used to contest his use of presidential power and shape perceptions of his priorities and competence.",
+    "queries": [
+      "How do people view student loan forgiveness under Joe Biden?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "department of education",
+    "wiki_title": "list of education ministries",
+    "summary": "Lists of education ministries are used in debates about Joe Biden as international benchmarks to justify or critique his education agenda—supporters cite successful foreign ministries to endorse his pushes for federal investment, standards, and equity-focused reforms, while critics point to other countries’ centralized systems to argue he favors over‑centralization or foreign influence in U.S. curricula and policy.",
+    "queries": [
+      "Is Joe Biden’s department of education policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "public service loan forgiveness",
+    "wiki_title": "public service loan forgiveness",
+    "summary": "Advocates cite Biden’s administrative fixes and temporary waivers for Public Service Loan Forgiveness to frame him as a defender of public-sector workers and a committed champion of student-debt relief, while opponents point to longstanding rejection rates, bureaucratic delays, and the program’s limited, executive-driven changes to criticize his competence, fairness, or reliance on unilateral relief instead of legislation.",
+    "queries": [
+      "Is Joe Biden's public service loan forgiveness reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "income-driven repayment",
+    "wiki_title": "income-driven repayment",
+    "summary": "Arguments about income-driven repayment are used to portray Biden as a president trying to deliver targeted student-relief and fairness for low- and middle-income borrowers, while critics seize on program complexity, legal challenges (e.g., freezes and lawsuits) and fiscal cost to argue his approach is administratively chaotic, legally overreaching, or amounts to an unfair taxpayer-funded bailout.",
+    "queries": [
+      "What consequences has Biden's income-driven repayment caused?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "house republicans",
+    "wiki_title": "house republican conference",
+    "summary": "The House Republican Conference routinely frames Joe Biden as fiscally irresponsible, weak on border security and inflation, and out of touch with voters, using coordinated messaging, investigative hearings, and legislative opposition to justify spending cuts and political attacks. Its leaders and spokespeople promote narratives of corruption, economic mismanagement, and permissive immigration policy to mobilize GOP voters and pressure moderates toward oversight, subpoenas, or other punitive measures.",
+    "queries": [
+      "What effects have House Republicans' investigations into Joe Biden produced?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "navient",
+    "wiki_title": "navient",
+    "summary": "Navient is often cited in arguments about Biden's student‑loan agenda: critics use its record of borrower complaints to claim Biden has failed to protect students or is too sympathetic to financial interests, while supporters point to the administration’s enforcement and tighter oversight of loan servicers as evidence that Biden is taking concrete steps to strengthen borrower protections and justify loan-relief policies.",
+    "queries": [
+      "Are criticisms of Navient justified or overblown under Biden?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "afghanistan withdrawal",
+    "wiki_title": "afghanistan withdrawal",
+    "summary": "The Afghanistan withdrawal—especially the chaotic 2021 exit and Kabul evacuation—is used by critics to attack Biden’s competence and judgment, arguing it damaged U.S. credibility, endangered Afghan allies, and reflected poor operational planning. Supporters cast the same withdrawal as a deliberate fulfillment of his promise to end “forever wars,” defending it as a necessary strategic pivot to avoid endless counterinsurgency and refocus on domestic priorities.",
+    "queries": [
+      "What effects has the afghanistan withdrawal had?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "taliban",
+    "wiki_title": "taliban",
+    "summary": "The Taliban's 2021 takeover is frequently invoked by Biden critics to portray his presidency as marked by a chaotic, incompetent withdrawal that abandoned Afghan allies, weakened U.S. credibility, and warrants tougher national-security and immigration stances; defenders argue it reflects the end of a long, unsustainable war and blame systemic failures predating Biden, using the episode to justify ending nation‑building while emphasizing evacuations, refugee resettlement, and humanitarian support rather than renewed large-scale military intervention.",
+    "queries": [
+      "Is Biden’s approach to the taliban reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "kabul airport",
+    "wiki_title": "kabul international airport",
+    "summary": "Kabul International Airport is a focal symbol in arguments about Joe Biden’s presidency—critics point to the chaotic 2021 evacuations and airport violence to portray his Afghanistan withdrawal as a botched, irresponsible failure of leadership, while defenders argue the airport scenes reflect the messy but necessary end to a long U.S. military engagement. Debates invoking the airport thus tend to push opposing policy conclusions: calls for tougher, longer military commitments and accountability versus arguments for ending nation‑building and prioritizing measured exits and evacuations.",
+    "queries": [
+      "What consequences did the Kabul airport operations under Biden cause?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "afghan interpreters",
+    "wiki_title": "afghan americans",
+    "summary": "Afghan Americans are frequently invoked in debates over Biden’s Afghanistan withdrawal: survivors and evacuees have been used by critics to portray his administration as incompetent and morally negligent for the chaotic 2021 pullout, while advocates leverage Afghan‑American stories to press Biden for expedited Special Immigrant Visas, resettlement and humanitarian aid. Their experiences are thus used to frame Biden either as failing U.S. obligations to allies and refugees or as a leader working to end a costly war and fulfill rescue and resettlement commitments.",
+    "queries": [
+      "What consequences has Joe Biden's handling of Afghan interpreters caused?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "operation allies refuge",
+    "wiki_title": "operation allies refuge",
+    "summary": "Operation Allies Refuge is cited by Biden supporters as proof he honored a moral obligation to evacuate Afghan allies and mitigated the humanitarian fallout of the withdrawal, while critics use the chaotic, incomplete evacuation to argue his administration showed poor planning, weakened national security, and mishandled foreign policy — shaping arguments about his competence, leadership, and immigration/vetting policies.",
+    "queries": [
+      "What consequences has Operation Allies Refuge caused for Biden’s administration?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "fall of saigon",
+    "wiki_title": "fall of saigon",
+    "summary": "Critics invoke the fall of Saigon as shorthand to attack Biden’s competency and foreign-policy judgment—especially after the 2021 Afghanistan withdrawal—framing his decision as a chaotic, avoidable U.S. retreat that endangers allies and national credibility. Supporters counter that the analogy is misleading, arguing Biden responsibly ended a long, unpopular war and that historical circumstances differ, using the comparison to defend his choice to withdraw rather than extend open-ended military commitments.",
+    "queries": [
+      "Is Joe Biden’s reference to the fall of Saigon reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-8",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "pentagon",
+    "wiki_title": "pentagon",
+    "summary": "References to the Pentagon are often invoked to frame Biden’s record on national security—supporters point to Pentagon assessments and military planning to justify his cautious, expert-driven decisions on troop withdrawals and foreign military aid, while critics use Pentagon failures or perceived overreliance on military advisers to portray him as either weak on defense or insufficiently accountable for chaotic outcomes (e.g., Afghanistan) and to argue for different policy priorities.",
+    "queries": [
+      "Is Biden’s pentagon funding level reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "title 42",
+    "wiki_title": "title 42 of the united states code",
+    "summary": "Title 42 is frequently invoked in debates over Biden's border policy: Republicans point to its suspension or continued use to portray Biden as responsible for a ‘border crisis’ and weak on enforcement, while Democrats and immigrant‑rights advocates criticize the administration for relying on a pandemic‑era public‑health expulsion tool to block asylum and press him to adopt more humane immigration practices.",
+    "queries": [
+      "What effects has Title 42 had on border policy under Biden?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "cdc",
+    "wiki_title": "centers for disease control and prevention",
+    "summary": "The CDC is frequently cited in debates over Biden’s pandemic response: supporters point to its vaccine, masking, and safety guidance to justify his public‑health mandates and cautious reopening policies, while critics highlight changing guidance or alleged politicization to portray his administration as incompetent, alarmist, or overreaching. Proposals to reorganize the agency are similarly framed by opponents as political control and by defenders as needed reform of federal public‑health leadership.",
+    "queries": [
+      "What impacts has the cdc had during Biden's presidency?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "dhs",
+    "wiki_title": "united states department of homeland security",
+    "summary": "Critics often cite DHS enforcement numbers, border operations, and policy choices (e.g., Title 42, migrant processing) to argue that Biden has mismanaged the southern border and weakened national security, while supporters point to DHS actions and guidance to justify his administration’s attempts to balance enforcement with humanitarian reforms and pragmatic responses to migration, public-safety, and cybersecurity threats.",
+    "queries": [
+      "What consequences has dhs caused during Biden's tenure?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "cbp",
+    "wiki_title": "cbp",
+    "summary": "Customs and Border Protection statistics, field reports, and images of processing facilities are frequently invoked by critics to portray Biden as weak on border security and responsible for spikes in illegal crossings, while supporters and some officials point to CBP resource shortfalls, legal constraints, and an inherited backlog to defend his policies or argue for more funding rather than a change in administration. Union statements and high-profile CBP encounters also shape narratives about Biden’s humanitarian record and enforcement priorities, feeding both calls for tougher measures and for reforms to protect migrants’ rights.",
+    "queries": [
+      "How do people view cbp policies during Biden's administration?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "aclu",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is frequently cited in debates about Joe Biden, using public statements and lawsuits to pressure or praise him on immigration enforcement, surveillance, criminal-justice reform, voting access, and reproductive and LGBTQ rights. Critics point to ACLU rebukes to argue Biden has fallen short on civil liberties, while supporters invoke its endorsements or legal victories to justify pushing his administration toward stronger rights protections.",
+    "queries": [
+      "How do people view the ACLU's legal challenges to Biden policies?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "asylum seekers",
+    "wiki_title": "asylum seeker",
+    "summary": "Asylum seekers are invoked by Biden’s critics to argue that his immigration enforcement and messaging have encouraged border crossings and created a crisis—used to justify calls for stricter asylum rules and expulsions—while supporters cast his approach as a restoration of humane, legally grounded asylum processing and expansion of legal pathways. Debates over asylum seekers therefore frame Biden either as weak on border control and public safety or as a compassionate, law‑respecting leader, shaping pressure for tougher restrictions or expanded protections.",
+    "queries": [
+      "Are restrictions on asylum seekers justified or excessive?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "biden immigration policy",
+    "wiki_title": "immigration policy of the biden administration",
+    "summary": "Biden’s immigration policy is frequently used to judge his competence and values: critics cast it as lax border enforcement that fuels illegal migration and electoral vulnerability, while supporters use it to portray him as restoring humane, rules-based asylum and legal pathways after Trump’s hardline approach, emphasizing empathy and reform over punitive measures.",
+    "queries": [
+      "How do people view biden immigration policy?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic policy",
+    "wiki_title": "economic policy",
+    "summary": "References to Biden's economic policy are used by supporters to credit his COVID-era stimulus, infrastructure and labor-focused agenda for strong job growth and wage gains, while opponents invoke the same spending and tax proposals to blame him for inflation, larger deficits, and regulatory burdens—framing the debate as a choice between progressive investment and fiscal restraint.",
+    "queries": [
+      "What consequences has Joe Biden’s economic policy caused?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3",
+    "level": 3,
+    "topic": "jerome powell",
+    "wiki_title": "jerome powell",
+    "summary": "Jerome Powell is invoked in arguments about Joe Biden as the face of monetary policy whose interest-rate moves and inflation statements are used to either blame Biden for rising prices and economic pain (arguing his fiscal choices forced Fed tightening) or to defend him by emphasizing the Fed’s independence and the limits it places on the administration; Powell’s nomination/reappointment has also been used to frame Biden as pragmatic continuity or as out of step with progressive critics.",
+    "queries": [
+      "Is Jerome Powell's Fed leadership under Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "american rescue plan",
+    "wiki_title": "american rescue plan act of 2021",
+    "summary": "Supporters cite the American Rescue Plan as evidence that Biden prioritized rapid pandemic relief and economic recovery—framing him as an effective, compassionate manager who delivered direct aid to families, boosted vaccinations, and enacted progressive priorities like expanded child benefits. Critics use it to portray Biden as presiding over excessive, partisan spending that inflates deficits and prices, arguing it demonstrates a preference for Big Government solutions over fiscal restraint.",
+    "queries": [
+      "How do people view the American Rescue Plan?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "gasoline prices",
+    "wiki_title": "gasoline and diesel usage and pricing",
+    "summary": "Gasoline and diesel prices are a frequent political cudgel in debates about Joe Biden—opponents blame his regulatory and climate-focused policies for higher pump prices and inflation, while supporters argue price swings reflect global shocks (pandemic demand, Russia’s war) and point to his Strategic Petroleum Reserve releases and clean‑energy investments as actions to ease supply pressures and reduce long‑term dependence on fossil fuels.",
+    "queries": [
+      "What effects have gasoline prices had on everyday people?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "interest rates",
+    "wiki_title": "interest rate",
+    "summary": "Interest rates are often used as a yardstick for Biden’s economic stewardship: critics blame his administration’s large spending and stimulus for higher interest and mortgage costs that squeeze voters, while defenders counter that rate moves reflect Federal Reserve actions and global inflation shocks beyond his control. Debates over rising or falling rates are therefore deployed to argue for or against Biden’s competence on the economy and to justify opposing or supporting his fiscal priorities.",
+    "queries": [
+      "How do people view interest rates under Biden’s administration?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "federal reserve",
+    "wiki_title": "federal reserve",
+    "summary": "Political opponents frequently cite the Fed’s interest-rate hikes and inflation data to blame Biden’s spending and economic stewardship for higher prices and slower growth, while supporters point to the Fed’s independence, pandemic-era supply shocks, and Biden’s choices of Fed leaders (e.g., reappointing Powell) to argue monetary policy — not the president alone — drove inflation outcomes and that his fiscal policies supported recovery.",
+    "queries": [
+      "Is Joe Biden’s influence on the federal reserve justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "federal open market committee",
+    "wiki_title": "federal open market committee",
+    "summary": "The Federal Open Market Committee is often cited in partisan debates about Biden's economic stewardship: critics link its interest-rate hikes and the inflation those hikes respond to back to Biden-era fiscal policies to argue he caused higher borrowing costs and economic pain, while defenders stress the Fed's independence and point to global supply shocks and pandemic factors to deflect responsibility from the president. Debates over FOMC actions therefore shape narratives that either blame Biden for rising mortgage rates and recession risk or portray him as constrained by an autonomous central bank.",
+    "queries": [
+      "Are the Federal Open Market Committee's actions justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "build back better",
+    "wiki_title": "build back better",
+    "summary": "Supporters invoke \"Build Back Better\" to frame Biden as a president committed to large-scale investments in childcare, climate action, and social safety nets, using it to defend his progressive priorities and economic-justice agenda. Critics deploy the phrase to portray him as prone to big-government spending, inflationary policies, or legislative weakness—especially after the failure to pass the full package—to undercut his leadership and effectiveness.",
+    "queries": [
+      "What consequences could build back better produce?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "kyrsten sinema",
+    "wiki_title": "kyrsten sinema",
+    "summary": "Kyrsten Sinema is cited in debates about Joe Biden as a pivotal centrist whose independence and refusal to back filibuster changes or parts of Democratic reconciliation bills have complicated Biden’s legislative agenda — progressives use her as evidence Biden can’t unite his party, while moderates and Republicans point to her stance to justify a more bipartisan, incremental approach to his policies.",
+    "queries": [
+      "What consequences has Kyrsten Sinema's independence had for Biden?"
+    ]
+  },
+  {
+    "id": "C3-3-4",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "child tax credit",
+    "wiki_title": "child tax credit",
+    "summary": "Biden’s expansion of the child tax credit is invoked by supporters to portray him as prioritizing working families and reducing child poverty through direct cash assistance, strengthening his progressive economic credentials; opponents use it to criticize his fiscal choices, alleging inflationary effects, work disincentives, and poorly targeted government spending.",
+    "queries": [
+      "What effects has Biden's child tax credit had?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "green new deal",
+    "wiki_title": "green new deal",
+    "summary": "The Green New Deal is used by both allies and opponents to define Biden’s climate stance: progressives invoke it to pressure him toward sweeping federal investment, emissions cuts, and labor/equity measures and to accuse him of betraying the left when he opts for incremental, market‑oriented policies, while conservatives and Republican campaigns use its expansive language to portray Biden as economically irresponsible or too radical when he embraces ambitious climate actions.",
+    "queries": [
+      "Is Joe Biden's stance on the Green New Deal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "joe manchin",
+    "wiki_title": "joe manchin",
+    "summary": "Joe Manchin is often invoked as the centrist brake on Biden’s agenda—progressives use him to criticize Biden for failing to deliver ambitious priorities, while moderates and Republicans point to his positions to argue Biden must compromise or is politically weak. His swing‑vote role is routinely cited to justify scaling back Biden proposals toward the center or to scapegoat stalled legislation as a consequence of intra‑party opposition rather than Biden’s leadership.",
+    "queries": [
+      "Are joe manchin’s compromises with Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "filibuster",
+    "wiki_title": "filibuster",
+    "summary": "Debates over the filibuster are used to frame Biden as either a cautious institutionalist who should pursue bipartisan compromise (he has historically defended Senate norms and urged restraint on changing rules) or as a leader failing to mobilize Democrats to abolish or reform the filibuster to pass progressive priorities like voting rights and major spending packages; Republicans, meanwhile, invoke the filibuster to justify blocking his agenda and portray him as overreaching when he seeks rule changes.",
+    "queries": [
+      "What consequences has the filibuster had for Biden's agenda?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "west virginia",
+    "wiki_title": "west virginia",
+    "summary": "West Virginia is frequently invoked by critics to depict Biden as out of touch with Appalachian, coal-dependent voters—using his climate and energy policies to blame him for job losses, higher costs, and the state’s swing to Republicans. Supporters, conversely, point to West Virginia’s poor health and economic metrics to justify Biden’s investments in infrastructure, social programs, and job retraining as necessary to help struggling rural communities transition to cleaner industries.",
+    "queries": [
+      "Is Joe Biden’s handling of West Virginia concerns reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "coal industry",
+    "wiki_title": "coal",
+    "summary": "Coal is often invoked by Biden’s critics to portray him as harming working-class and Appalachian communities—arguing his climate-oriented regulations and reduced fossil-fuel support cost jobs, raise energy bills, and betray energy independence. Supporters counter that Biden’s coal-related policies reflect necessary climate leadership paired with investments to retrain workers and fund coal-region transitions, framing his approach as pragmatic balance rather than anti-coal ideology.",
+    "queries": [
+      "Is Joe Biden’s coal industry policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "biden v. nebraska",
+    "wiki_title": "biden v. nebraska",
+    "summary": "Biden v. Nebraska is often invoked by critics to portray Joe Biden as an executive overreacher who promised student-relief he could not lawfully deliver, feeding narratives that he governs ineffectively and should face tighter limits on presidential authority; defenders use the ruling to argue that an ideologically conservative Supreme Court blocked his policy, urging Congress to act and framing the case as evidence of structural obstacles to Biden's domestic agenda.",
+    "queries": [
+      "What consequences has biden v. nebraska caused?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "progressive democrats",
+    "wiki_title": "progressive democrats",
+    "summary": "Progressive Democrats are often used to frame Joe Biden as too centrist and beholden to establishment interests, criticizing him for not pursuing bolder climate, health-care, and economic reforms and pressing him to adopt policies like a Green New Deal, debt relief, and Medicare-for-All–adjacent measures. Conversely, allies invoke this faction to justify pushing Biden leftward through primary pressure and legislative demands while still positioning him as the pragmatic alternative to more conservative opponents.",
+    "queries": [
+      "How do people view progressive democrats within Biden's coalition?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "state attorneys general",
+    "wiki_title": "state attorney general",
+    "summary": "State attorneys general are used as partisan legal weapons in debates about Biden—Republican AGs bring high‑profile lawsuits or investigations (e.g., over student loan forgiveness, immigration rules, or Biden-family probes) to portray him as overreaching or corrupt, while Democratic AGs defend his policies and counter GOP litigation to frame him as lawfully pursuing progressive priorities.",
+    "queries": [
+      "Are Joe Biden's state attorneys general actions reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "pete buttigieg",
+    "wiki_title": "pete buttigieg",
+    "summary": "Buttigieg is often invoked by Biden supporters as evidence that Biden can attract younger, moderate and LGBTQ+ voters and that his team represents a generational, technocratic refresh. Conversely, progressives and critics point to Buttigieg’s centrist, managerial image (and corporate consulting background) to argue Biden favors establishment, market-friendly policies over bold progressive change.",
+    "queries": [
+      "How do people view Pete Buttigieg’s effectiveness under Joe Biden?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "corporate tax",
+    "wiki_title": "corporate tax",
+    "summary": "Biden's corporate-tax stance is cited by supporters as a tool to make large firms \"pay their fair share\"—raising rates, closing loopholes and backing a global minimum tax to fund infrastructure, climate and social programs—while critics (Republicans, business groups) frame his proposals as anti-growth, claiming they raise prices, deter investment and cost jobs, and some progressives argue he has not gone far enough.",
+    "queries": [
+      "How do people view corporate tax under Joe Biden?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "15% minimum tax",
+    "wiki_title": "alternative minimum tax",
+    "summary": "In debates over Biden's tax agenda the AMT is invoked as a test of tax‑fairness — supporters argue tightening AMT rules or similar measures would prevent wealthy taxpayers from dodging higher rates under Biden and raise revenue for his priorities, while critics use the AMT (and its interaction with SALT limits) to portray Biden's proposals as punitive toward high‑earning households, professionals, and taxpayers in high‑tax states.",
+    "queries": [
+      "How do people view Biden’s 15% minimum tax proposal?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "tax cuts and jobs act",
+    "wiki_title": "tax cuts and jobs act",
+    "summary": "Opponents invoke the Tax Cuts and Jobs Act to portray Biden as a tax‑raiser who would reverse Trump‑era relief, harm businesses and cost jobs, using the law to warn voters about his economic agenda. Supporters frame Biden’s proposals to roll back TCJA benefits for corporations and the wealthy as a necessary correction to finance infrastructure and social programs and to address inequality.",
+    "queries": [
+      "Is Joe Biden's tax cuts and jobs act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "stock buybacks",
+    "wiki_title": "share repurchase",
+    "summary": "Progressives and labor advocates invoke corporate share repurchases to criticize Biden for not doing enough to curb firms prioritizing shareholder payouts over worker pay and investment, pressing him to back taxes or regulatory limits on buybacks; conversely, business-friendly commentators and conservatives frame attacks on buybacks under Biden as anti-growth or punitive toward capital, arguing such restrictions would harm investment and markets.",
+    "queries": [
+      "How do people view stock buybacks under Biden?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "us chamber of commerce",
+    "wiki_title": "united states chamber of commerce",
+    "summary": "The U.S. Chamber of Commerce is frequently invoked by commentators and lobbyists to portray Biden’s economic agenda through a pro‑business lens, arguing his tax, labor, and regulatory proposals threaten investment, jobs, and competitiveness. It also lobbies the administration and public for more market‑friendly alternatives, using critiques of Biden policies to justify opposition or pressure him toward business‑oriented compromises.",
+    "queries": [
+      "What impact has the us chamber of commerce had on Biden policies?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "business roundtable",
+    "wiki_title": "business roundtable",
+    "summary": "The Business Roundtable is often invoked in debates about Biden as the organized voice of big corporations pressing him toward business-friendly tax, regulatory, and workforce policies and away from higher corporate taxes or aggressive antitrust/labor reforms. Supporters point to its engagement with the administration as pragmatic collaboration on infrastructure and supply-chain priorities, while critics use its influence to argue Biden is too receptive to corporate interests and may water down progressive reforms.",
+    "queries": [
+      "Is Joe Biden’s relationship with the business roundtable justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-7",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "wall street journal",
+    "wiki_title": "the wall street journal",
+    "summary": "Conservative and business-oriented commentators invoke The Wall Street Journal—especially its opinion pages—to criticize Joe Biden’s economic and regulatory agenda, arguing his policies fuel inflation, burden businesses, and expand government overreach. Its reporting is also treated as authoritative in debates over Biden’s handling of the economy, foreign policy, and corporate regulation, often amplifying narratives that support those critiques.",
+    "queries": [
+      "Is wall street journal coverage of Joe Biden fair or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign policy",
+    "wiki_title": "foreign policy",
+    "summary": "Debates about Biden’s foreign policy are used to cast him as restoring traditional U.S. alliances and multilateral leadership—cited by supporters for actions like NATO coordination and backing Ukraine—while critics seize episodes like the Afghanistan withdrawal to argue incompetence or weakness. Opponents on both the right and left also use foreign-policy choices to paint him as either too soft on rivals like China and Russia or too interventionist and costly in military and aid commitments.",
+    "queries": [
+      "Is Biden’s foreign policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "russia",
+    "wiki_title": "russia",
+    "summary": "Russia is used by Biden’s critics to portray him as weak, compromised, or ineffectual—blamed for mishandling Putin, for economic fallout from sanctions or energy policies, and targeted with allegations about corruption tied to Biden family members—while his supporters invoke Russian aggression to justify his sanctions, military aid to Ukraine, and claims that he’s restoring deterrence and alliances after Trump. ",
+    "queries": [
+      "Is Biden’s policy toward russia reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "vladimir putin",
+    "wiki_title": "vladimir putin",
+    "summary": "Putin is frequently invoked in discussions of Biden to argue either that Biden has been too weak or naive—cited by critics as enabling Russian aggression and election meddling—or that Biden’s sanctions, diplomacy, and support for Ukraine demonstrate necessary, steady leadership. Opponents use Putin to attack Biden’s competence and judgment on national security, while supporters point to Putin’s malign actions to justify Biden’s multilateral, sanctions‑focused policies and military assistance.",
+    "queries": [
+      "Is Vladimir Putin’s stance toward Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "nord stream 2",
+    "wiki_title": "nord stream 2",
+    "summary": "Nord Stream 2 is frequently invoked by Biden’s critics to portray him as soft on Russia and ineffective at blocking European energy dependence—framing his policies as weak or indecisive—while defenders argue the project was mostly inherited and point to his later sanctions and support for Ukraine as evidence of a firmer stance.",
+    "queries": [
+      "What effects has Nord Stream 2 had on Biden's relations with Europe?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "2016 election interference",
+    "wiki_title": "election interference",
+    "summary": "Allegations of election interference are often invoked by Biden’s critics to argue that his campaign or the broader Democratic apparatus illegitimately benefited from foreign or domestic actions (for example disputes over social‑media moderation of the Hunter Biden story or purported DOJ bias), framing him as compromised or illegitimate; Biden’s supporters and policy backers, by contrast, point to documented foreign meddling and historical foreign influence to justify tougher election‑security measures, sanctions, and efforts to counter misinformation under his administration.",
+    "queries": [
+      "How do people view 2016 election interference in relation to Biden?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "ukraine war",
+    "wiki_title": "list of wars involving ukraine",
+    "summary": "References to wars involving Ukraine are used to evaluate Joe Biden’s foreign‑policy record—supporters point to his administration’s military and economic backing as evidence of principled leadership defending democracy and NATO unity, while critics use the conflicts to argue Biden risks dragging the U.S. into a proxy war, misallocating resources, stoking inflation, or failing to deter escalation.",
+    "queries": [
+      "Is Joe Biden’s approach to the ukraine war reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "volodymyr zelenskyy",
+    "wiki_title": "volodymyr zelenskyy",
+    "summary": "Supporters cite Zelenskyy’s public appeals and praise to justify Biden’s military and economic aid to Ukraine and to frame him as a defender of democracy and transatlantic leadership. Critics invoke Zelenskyy’s interactions and requests to argue Biden is overly interventionist, has mismanaged the war or aid, or to fuel claims of political entanglement over U.S.–Ukraine policy.",
+    "queries": [
+      "Is Joe Biden’s support for volodymyr zelenskyy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "military aid",
+    "wiki_title": "military aid",
+    "summary": "References to military aid are used to portray Biden as a leader who bolsters allies and projects U.S. power—cited by supporters to justify arms to Ukraine, Israel, and NATO as defense and deterrence—while critics argue his aid escalates conflicts, diverts resources from domestic priorities, or enables abuses, prompting demands for tighter conditions and congressional oversight.",
+    "queries": [
+      "How do people view Biden's military aid?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "economic sanctions",
+    "wiki_title": "economic sanctions",
+    "summary": "References to economic sanctions are used to portray Biden’s foreign policy as principled and measured—citing targeted sanctions on Russia, Iran, or human-rights abusers as non‑military tools of deterrence and moral pressure—while critics use sanctions to accuse him of weakness, hypocrisy, economic harm, or overreliance on coercive measures that are slow, ineffective, or hurt civilians and U.S. interests.",
+    "queries": [
+      "Are Joe Biden's economic sanctions justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-8",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "ukraine counteroffensive",
+    "wiki_title": "ukrainian counteroffensive",
+    "summary": "Supporters cite the Ukrainian counteroffensive as evidence that Biden’s sustained military aid, sanctions strategy, and diplomatic coalition-building are producing tangible results, portraying him as a steady leader protecting democracy without direct U.S. combat involvement. Critics, however, use slow progress, battlefield setbacks, or high casualties to argue Biden is mismanaging policy—either escalating U.S. risk, wasting American resources, or appearing weak—which opponents exploit to attack his competence on national security and foreign policy.",
+    "queries": [
+      "How do people view the ukraine counteroffensive under Biden?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "nato",
+    "wiki_title": "nato",
+    "summary": "Supporters use NATO to frame Biden as a steady, alliance‑minded leader whose backing of Ukraine, sanctions on Russia, and push for reinforced European defenses restores U.S. credibility; critics use NATO to argue he is needlessly provoking conflict, overcommitting American resources through NATO obligations and expansion, or prioritizing allies over domestic concerns.",
+    "queries": [
+      "How do people view Biden’s stance on nato?"
+    ]
+  },
+  {
+    "id": "C4-3-1",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "jens stoltenberg",
+    "wiki_title": "jens stoltenberg",
+    "summary": "Supporters invoke Jens Stoltenberg as an authoritative European endorsement of Biden’s stewardship of NATO and his policies on Ukraine and alliance unity to justify continued U.S. leadership and defense spending; critics point to Stoltenberg’s pro‑alliance, interventionist stance to argue Biden pursues elite‑driven, interventionist foreign policy or defers too readily to allied demands.",
+    "queries": [
+      "How do people view jens stoltenberg’s influence on Joe Biden policy?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "article 5",
+    "wiki_title": "article five",
+    "summary": "Political opponents and advocates invoke Article Five to argue for structural responses to Joe Biden’s presidency—calling for an Article V convention to impose term limits, fiscal restraints, or state-led checks on federal policies to constrain or overturn his agenda—while critics warn such measures could be abused to erode rights. Commentators also reference NATO’s Article 5 in debates over Biden’s foreign-policy leadership, using it to either praise his defense commitments to allies or to critique perceived hesitancy in collective-security crises.",
+    "queries": [
+      "What effects has Article 5 had on Biden-era alliances?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "defense spending",
+    "wiki_title": "military budget",
+    "summary": "Debates about the military budget are used to argue for and against Biden’s foreign‑policy priorities: critics say his backing of larger defense spending (and funding for Ukraine, Israel, and modernization) shows deference to the military‑industrial complex, fuels deficits, or misdirects domestic resources, while supporters portray those expenditures as necessary deterrence against Russia and China and proof of his commitment to NATO and allied security; progressive opponents specifically use budget numbers to push for reallocating funds to social programs.",
+    "queries": [
+      "Is Biden's defense spending justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "china",
+    "wiki_title": "china",
+    "summary": "China is a frequent foil in debates about Biden, with critics accusing him of being weak on Beijing—arguing his trade, technology and border policies cede economic and security advantages to China and demanding tougher tariffs, military postures, or unilateral actions. Supporters respond that the Biden administration frames China as a strategic competitor but pursues alliance-driven deterrence, targeted export controls, supply‑chain resilience and human‑rights pressure rather than escalatory confrontation.",
+    "queries": [
+      "How do people view Biden’s stance on china?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "xi jinping",
+    "wiki_title": "xi jinping",
+    "summary": "Xi Jinping is frequently invoked as the foil in debates over Biden: critics point to Xi’s assertiveness to argue that Biden is weak on national security and needs a much tougher, more hawkish China policy. Supporters and many foreign-policy officials cite Xi’s conduct to justify Biden’s emphasis on strengthening alliances, export controls, economic competition, and military support for Taiwan.",
+    "queries": [
+      "Is Xi Jinping’s influence on Joe Biden’s China policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "us–china trade war",
+    "wiki_title": "trade war",
+    "summary": "Critics invoke the idea of a \"trade war\" to blame Biden for protectionist measures—arguing his tariffs, subsidies, or tough stance on China raise consumer prices and risk diplomatic/economic escalation—while supporters frame similar policies as calibrated pushback to unfair practices that protect U.S. industry and jobs without wanting a full-blown conflict.",
+    "queries": [
+      "Is Joe Biden’s approach to the us–china trade war reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "chips act",
+    "wiki_title": "chips act",
+    "summary": "Supporters point to the CHIPS Act as a signature Biden accomplishment that demonstrates his commitment to rebuilding U.S. manufacturing, securing semiconductor supply chains, creating high-tech jobs, and confronting China—framing him as an active industrial-policy president focused on economic and national-security resilience. Critics use the law to argue Biden pursues costly, top-down industrial intervention and corporate subsidies, portraying it as government overreach, fiscal waste, or evidence of misplaced priorities that can worsen inflation.",
+    "queries": [
+      "What consequences has Biden’s chips act produced?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "xinjiang re-education camps",
+    "wiki_title": "xinjiang internment camps",
+    "summary": "Critics—especially political opponents—invoke the Xinjiang internment camps to accuse Biden of being either too soft on China or ineffective at defending human rights, using the issue to demand tougher sanctions, export controls, and a harder-line China policy; supporters point to his administration's sanctions and diplomatic pressure as evidence of measured, multilateral action, while progressives argue those steps are insufficient and press for stronger accountability and refugee protections.",
+    "queries": [
+      "Is Joe Biden's response to xinjiang re-education camps reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "chinese spy balloon",
+    "wiki_title": "2023 chinese balloon incident",
+    "summary": "Critics use the 2023 Chinese balloon incident to portray Biden as weak, slow to act, and soft on China—framing it as evidence of failures in airspace defense and intelligence that justify tougher national-security and China policies. Supporters counter that Biden’s measured response prioritized safety and avoided escalation, using the episode to defend cautious, intelligence-led decision-making and diplomatic restraint.",
+    "queries": [
+      "Is the chinese spy balloon controversy politically damaging to Biden or not?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "taiwan",
+    "wiki_title": "taiwan",
+    "summary": "Taiwan is invoked to portray Biden as a defender of democratic allies and a steadying force in the Indo-Pacific—citing his support for arms sales, diplomatic backing, and multilateral deterrence against Chinese pressure. Critics, however, use Taiwan to argue he either provokes Beijing unnecessarily or has weakened U.S. deterrence (especially after Afghanistan), turning Taiwan policy into a measure of Biden’s competence on China and national security.",
+    "queries": [
+      "What consequences has Biden’s stance on Taiwan caused?"
+    ]
+  },
+  {
+    "id": "C4-5-1",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "tsai ing-wen",
+    "wiki_title": "tsai ing-wen",
+    "summary": "Tsai Ing-wen is often invoked in debates over Biden’s China and Taiwan policy—her interactions with U.S. officials and Taiwan’s reception of U.S. support are used to argue that Biden is a defender of democracy who justifies arms sales and stronger deterrence, while critics use the same signals to claim his approach either needlessly provokes Beijing or reveals ambiguity about whether the U.S. would militarily defend Taiwan.",
+    "queries": [
+      "How do people view Tsai Ing-wen's relationship with Biden?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "tsmc",
+    "wiki_title": "tsmc",
+    "summary": "References to TSMC are used by Biden supporters to showcase his industrial-policy wins—arguing that CHIPS-era incentives and diplomacy persuaded a key chip maker to invest in U.S. capacity and strengthen supply‑chain resilience against China. Opponents counter that TSMC-related moves either risk escalating tech confrontation with Beijing or fall short of securing true U.S. technological independence, using TSMC’s decisions and export controls to criticize Biden’s China and economic policies.",
+    "queries": [
+      "How do people view tsmc’s role in Biden’s tech strategy?"
+    ]
+  },
+  {
+    "id": "C4-5-8",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "cross-strait relations",
+    "wiki_title": "cross-strait relations",
+    "summary": "Debates over cross-strait relations are used to judge Biden’s China policy—supporters praise his steady, status‑quo approach (arms sales, diplomatic backing for Taiwan) as responsible deterrence, while critics portray his wording or restraint as ambiguity or weakness that could encourage PRC aggression. Hawks and opponents on both left and right also invoke Taiwan to argue Biden is either risking unwanted escalation through provocative moves or failing to protect U.S. interests, using his Taiwan stance to question his competence and leadership on great‑power competition.",
+    "queries": [
+      "What effects has Joe Biden’s cross-strait relations policy caused?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "kabul airlift",
+    "wiki_title": "kabul airlift",
+    "summary": "The 2021 Kabul airlift is frequently invoked by Biden critics to portray him as incompetent and reckless on national security—citing the chaotic evacuation, casualties, and stranded Afghans to justify calls for investigations, tougher foreign-policy stances, or reversal of his withdrawal approach. Supporters counter that the evacuation shows he honored a necessary end to America’s longest war and did as much as possible to evacuate allies under collapsing conditions, framing criticism as politically motivated rather than reflective of feasible alternatives.",
+    "queries": [
+      "How do people view the Kabul airlift under Biden?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "2021 kabul airport attack",
+    "wiki_title": "2021 kabul airport attack",
+    "summary": "The 2021 Kabul airport attack is invoked by critics to depict Biden as having mismanaged the withdrawal—blaming his planning and timing for chaotic evacuations, American and Afghan deaths, and a weakened national-security standing, often to justify tougher, more hawkish policies. Supporters counter that the attack reflected Taliban aggression and the unavoidable risks of ending a long war, using it to defend Biden’s decision to withdraw while arguing for better intelligence, contingency planning, and focused counterterrorism rather than reversing policy.",
+    "queries": [
+      "Is the 2021 kabul airport attack response by Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "bagram airfield",
+    "wiki_title": "bagram airfield",
+    "summary": "Bagram Airfield is often invoked in debates over Biden’s 2021 Afghanistan withdrawal — critics use the base’s rapid fall and detainee releases to argue his administration presided over a chaotic, dangerous retreat and failed to protect allies, while defenders say the drawdown reflected earlier agreements and Afghan collapse rather than solely Biden’s decisions.",
+    "queries": [
+      "What impacts has closing Bagram Airfield had during Biden's tenure?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "doha agreement",
+    "wiki_title": "doha agreement",
+    "summary": "The 2020 Doha Agreement is repeatedly raised in debates over Biden’s Afghanistan withdrawal: critics use it to blame his administration for the chaotic 2021 exit and alleged negligence in implementing security guarantees, while defenders argue Biden was obliged to follow a Trump-era deal and frame his choice as a pragmatic end to a costly war — a touchstone in arguments about his competence, accountability, and foreign‑policy realism versus ally protection.",
+    "queries": [
+      "What effects has the doha agreement had on Biden's foreign policy?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "jcpoa",
+    "wiki_title": "joint comprehensive plan of action",
+    "summary": "In debates about Joe Biden, the JCPOA is cited to highlight his preference for multilateral diplomacy and arms‑control tools—supporters argue reviving or building on the deal shows pragmatic risk reduction and alliance restoration. Critics counter that it evidences naivety or weakness on national security, arguing the pact undermines sanctions, empowers Iran, and strains U.S.–Israel relations, using it to attack Biden’s toughness on Iran.",
+    "queries": [
+      "What consequences has Biden’s JCPOA policy caused?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "iran",
+    "wiki_title": "iran",
+    "summary": "Iran is a frequent cudgel in debates over Biden’s foreign policy: critics (especially Republicans and hawks, plus Israeli hardliners) use Iran’s nuclear program, regional proxies, and the JCPOA negotiations to argue Biden is too soft or rewarding Tehran and thereby endangering U.S. and allied security, while supporters portray his diplomatic engagement and sanctions strategy as pragmatic efforts to curb nuclear proliferation and avoid costly wars—with Iranian human‑rights abuses and Israel‑Iran escalations further pressuring him toward either stronger deterrence or tougher sanctions.",
+    "queries": [
+      "What consequences has Biden’s policy toward iran caused?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "benjamin netanyahu",
+    "wiki_title": "benjamin netanyahu",
+    "summary": "Netanyahu is used as a political foil in U.S. debates to shape views of Biden — conservatives invoke Netanyahu’s close ties with Trump to paint Biden as weak on Israel and insufficiently protective against Iran/Hamas, while progressives point to Netanyahu’s hard‑line policies and alleged rights abuses to pressure or criticize Biden for enabling Israeli actions or failing to hold Israel accountable.",
+    "queries": [
+      "Is benjamin netanyahu's approach to diplomacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "international atomic energy agency",
+    "wiki_title": "international atomic energy agency",
+    "summary": "The IAEA’s reports on nuclear inspections—especially regarding Iran—are routinely cited in debates about Biden: supporters use IAEA verification to justify his diplomatic, multilateral approach and claim it demonstrates responsible non‑proliferation policy, while critics highlight any reported access gaps or concerning findings to argue his administration is too lenient or ineffective and to push for tougher measures.",
+    "queries": [
+      "How do people view the International Atomic Energy Agency’s role under Biden?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "vienna talks",
+    "wiki_title": "vienna",
+    "summary": "References to Vienna usually invoke the city as the site of high‑stakes international diplomacy (notably the Vienna talks on the Iran nuclear deal) and are used to portray Biden as committed to multilateral engagement. Supporters cite Vienna negotiations as proof of his preference for diplomacy and restoring international agreements, while critics use the same Vienna framing to argue he is conciliatory or making dangerous concessions.",
+    "queries": [
+      "Are the vienna talks a reasonable approach by Biden?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and ethics",
+    "wiki_title": "ethics",
+    "summary": "Ethics is invoked in debates about Joe Biden to question or defend his personal integrity and decision‑making — critics emphasize alleged conflicts of interest, Hunter Biden’s business ties, and concerns about transparency or cognitive fitness, while supporters stress his empathy, public‑service ethos, and moral rationale for policies like public‑health measures and foreign aid. It also frames policy disputes (climate, criminal justice, immigration, etc.), with some using consequentialist arguments to justify compromises as pragmatic moral choices and others using duty‑based language to argue he betrays progressive principles.",
+    "queries": [
+      "Is Joe Biden's legal and ethics conduct justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "conflict of interest",
+    "wiki_title": "conflict of interest",
+    "summary": "Claims of conflicts of interest—chiefly alleging that Joe Biden could be influenced by his son Hunter’s foreign business ties or by family financial entanglements—are deployed by critics to question his impartiality, justify investigations, and press for recusals or tighter ethics rules. Defenders counter that evidence of improper influence is lacking and portray such charges as partisan smears, so the term is used both to demand greater transparency and to delegitimize political attacks.",
+    "queries": [
+      "What impacts has Joe Biden's conflict of interest had?"
+    ]
+  },
+  {
+    "id": "C5-2-1",
+    "parent": "C5",
+    "level": 3,
+    "topic": "robert k. hur",
+    "wiki_title": "robert hur",
+    "summary": "As a former U.S. attorney and federal prosecutor, Robert Hur is invoked in debates about Joe Biden when his DOJ role or involvement in matters touching the Biden family is used by critics to allege partisan or politically motivated law enforcement and by defenders to argue that investigations were handled by independent, professional authorities.",
+    "queries": [
+      "Is robert k. hur’s role in Biden’s administration justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "national archives",
+    "wiki_title": "national archives",
+    "summary": "The National Archives appears in debates over Biden primarily through its handling and public statements about presidential and classified records, with opponents using its findings to allege negligence or concealment and supporters pointing to NARA cooperation as evidence of transparency and compliance. How archivists' searches, document transfers, and disclosures are portrayed therefore helps shape narratives about Biden’s competence, legal risk, and whether he should face further investigation or be defended.",
+    "queries": [
+      "How do people view the national archives' role in Biden document reviews?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "fbi",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "The FBI is invoked in public debates over Joe Biden as the arbiter of criminal and national‑security claims—critics cite FBI probes (e.g., into Hunter Biden’s laptop and classified documents) to argue either that the bureau protects Biden or that it rightly implicates him, while supporters point to FBI procedures as evidence that allegations should be handled through impartial law‑enforcement channels and oversight rather than partisan attacks.",
+    "queries": [
+      "What consequences has the fbi's scrutiny of Biden caused?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "penn biden center",
+    "wiki_title": "penn biden center for diplomacy and global engagement",
+    "summary": "The Penn Biden Center is often invoked to portray Biden as an establishment foreign-policy elder statesman—used by supporters to legitimize his internationalist, diplomat-first approach and policy continuity—while critics point to its elite donors and insider networks to argue he is beholden to corporate and Washington establishment interests that sustain the status quo.",
+    "queries": [
+      "Are criticisms of the penn biden center fair or unwarranted?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "presidential records act",
+    "wiki_title": "presidential records act",
+    "summary": "The Presidential Records Act is frequently invoked in coverage of Biden to argue over whether his handling of archived or classified materials reflects negligence or lawful compliance—opponents use it to demand investigations and to allege misconduct, while defenders emphasize timely transfers to the archives and intent to frame the incidents as compliant or politically driven. As a result it shapes competing narratives about Biden’s transparency, accountability, and whether record-keeping rules require reform or are being selectively enforced for partisan advantage.",
+    "queries": [
+      "What consequences has the presidential records act had for Biden's administration?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "david weiss",
+    "wiki_title": "david weiss",
+    "summary": "As the federal prosecutor leading the probe into Hunter Biden (and later named special counsel), David Weiss is invoked by Biden defenders as evidence that Joe Biden was not implicated and received independent scrutiny, while critics portray Weiss’s charging decisions and timetable as proof of undue deference or a politically constrained investigation that protected the president. Debates over Weiss’s actions and whether he was permitted to pursue charges shape partisan claims about Biden’s integrity, accountability, and fitness for office.",
+    "queries": [
+      "Is Joe Biden’s selection of david weiss justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "united states department of justice",
+    "wiki_title": "united states department of justice",
+    "summary": "The Department of Justice is frequently invoked in debates about Biden because its choices to investigate, prosecute, or decline cases—such as decisions around classified documents, Hunter Biden, and January 6 prosecutions—are presented as evidence that Biden either enforces the rule of law or benefits from preferential treatment. Critics use perceived DOJ leniency or selective enforcement to accuse Biden of political protectionism, while supporters point to independent prosecutions and recusals to argue he respects judicial independence and accountability.",
+    "queries": [
+      "Is the united states department of justice under Biden acting appropriately?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "special counsel",
+    "wiki_title": "special counsel",
+    "summary": "Calls for a special counsel in matters tied to Joe Biden (e.g., classified documents, Hunter Biden) are used by critics to demand an independent, politically insulated probe and to frame Biden as potentially culpable, while supporters either welcome a special counsel as a way to demonstrate impartiality or dismiss such appointments as partisan “witch hunts” meant to delegitimize his presidency.",
+    "queries": [
+      "Is Biden’s special counsel appointment reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "merrick garland",
+    "wiki_title": "merrick garland",
+    "summary": "Merrick Garland is frequently invoked in debates about Biden’s leadership to signal Biden’s preference for institutional, law‑focused stewardship of the Justice Department; supporters point to his appointment as evidence Biden values independence and competence. Opponents, however, point to Garland’s measured prosecution strategy—especially around cases tied to Donald Trump—to argue that Biden is cautious or ineffective at delivering swift accountability and political risk‑taking.",
+    "queries": [
+      "Is merrick garland's approach to prosecutions under Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "jack smith",
+    "wiki_title": "jack smith",
+    "summary": "As the special counsel who led high-profile prosecutions of Donald Trump, Jack Smith is used in debates over Biden's presidency to signal either the administration’s commitment to independent rule-of-law accountability (a point made by Biden supporters) or, conversely, to accuse the DOJ under Biden of partisan weaponization and election interference (a point made by critics).",
+    "queries": [
+      "Is Jack Smith’s investigation of Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "house judiciary committee",
+    "wiki_title": "united states house committee on the judiciary",
+    "summary": "Republican-led House Judiciary Committee hearings and subpoenas are routinely used to allege corruption, improper influence, or legal misconduct connected to Joe Biden (often via probes of Hunter Biden or handling of classified documents), framing him as ethically compromised and justifying calls for oversight or impeachment. Democrats and Biden allies portray the committee’s actions as partisan weaponization of oversight designed to undermine his legitimacy and to challenge DOJ independence.",
+    "queries": [
+      "What consequences has the House Judiciary Committee had for Joe Biden?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "contempt of congress",
+    "wiki_title": "contempt of congress",
+    "summary": "Allegations or threats of contempt of Congress are invoked by Biden critics to portray him or his administration as obstructing oversight—used to justify subpoenas, investigations, and calls for legal consequences—while his defenders cast contempt claims as partisan tools that overreach executive privilege and impede governance.",
+    "queries": [
+      "Is Joe Biden’s contempt of congress justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "recusal",
+    "wiki_title": "recusal",
+    "summary": "In discussions about Joe Biden, recusal is often invoked by critics who argue he or administration officials should be excluded from decisions or investigations involving his family (notably Hunter Biden) or his past roles to prevent real or perceived conflicts and to justify calls for a special counsel or expanded oversight. Supporters use evidence of recusals and DOJ independence to counter claims of favoritism and frame demands for recusal as politically motivated.",
+    "queries": [
+      "How do people view Biden's recusal?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "financial disclosures",
+    "wiki_title": "financial disclosure of public servants",
+    "summary": "Opponents use financial disclosures and questions about the Biden family’s declared income and business ties—especially Hunter Biden’s foreign deals—to allege conflicts of interest, demand investigations, and portray Joe Biden as ethically compromised. Supporters point to his filed disclosures and tax returns to argue compliance with the law, framing the issue as politically driven and using the records to push for clearer disclosure rules rather than guilt by association.",
+    "queries": [
+      "What consequences have Joe Biden's financial disclosures caused?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "emoluments clause",
+    "wiki_title": "emoluments clause",
+    "summary": "Political opponents sometimes invoke the emoluments clause to allege that Joe Biden or his family have accepted improper foreign benefits—especially in arguments tied to Hunter Biden—to portray potential conflicts of interest or corruption, while supporters and ethics reformers cite the clause to push for transparency, recusals, and stricter rules and to argue that Biden’s conduct contrasts favorably with prior administrations accused of emoluments violations.",
+    "queries": [
+      "Is scrutiny of Joe Biden’s emoluments clause justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "white house counsel",
+    "wiki_title": "white house counsel",
+    "summary": "In debates about Joe Biden, the White House Counsel is invoked as the administration’s legal voice that frames and justifies disputed decisions—ranging from claims of executive privilege and handling of classified materials to ethical vetting and staffing choices—thereby shaping whether those actions appear lawful or improvised. Opponents portray the counsel as a protective shield that narrows accountability with technical legal defenses, while supporters point to its opinions and procedures as evidence Biden is following norms and seeking lawful outcomes.",
+    "queries": [
+      "How do people view Biden's white house counsel?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and information",
+    "wiki_title": "information",
+    "summary": "Opponents and supporters alike invoke specific pieces of information—official statistics, intelligence briefings, leaked or classified documents, media reports, and social‑media posts—to frame Biden as either competent and evidence‑based (citing economic, health, and security data) or as secretive, misleading, or compromised (pointing to alleged document mishandling, selective use of statistics, or disinformation). These information claims are used to justify policy assessments, attack his credibility, and shape public perceptions of his fitness to govern.",
+    "queries": [
+      "What effects has Joe Biden’s media and information had?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "cnn",
+    "wiki_title": "cnn",
+    "summary": "CNN’s coverage typically frames Biden as an establishment, policy-focused president—highlighting his legislative priorities, experience, and fact-checked responses while also scrutinizing gaffes, policy setbacks, and ethical concerns. Supporters point to CNN to legitimize Biden’s agenda and competence, whereas critics cite the network’s perceived center-left tilt to allege favorable bias or, when CNN runs critical stories, to bolster claims of administrative failures.",
+    "queries": [
+      "How do people view cnn's coverage of Joe Biden?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "Twitter/X functions as a real‑time battleground shaping Biden’s image: conservative accounts, influencers, and coordinated campaigns use tweets, memes and trending hashtags to amplify gaffes, age/cognition and corruption narratives (e.g., Hunter Biden), while Democrats, journalists and fact‑checkers use the platform to promote his policy achievements, rebut attacks, and mobilize voters; changes in moderation and the rise of viral misinformation on the platform have tended to make negative, fast‑spreading portrayals of Biden easier to amplify.",
+    "queries": [
+      "Is Biden's use of twitter reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Public debates invoke Elon Musk as an emblem of billionaire influence and tech-media power to criticize Biden—arguing that the administration has been too timid in reining in wealthy owners who amplify misinformation and partisan messaging. Biden supporters counter by citing Musk’s partisan interventions and platform changes to justify tougher oversight of big tech, antitrust enforcement, and stricter campaign‑finance and disinformation policies.",
+    "queries": [
+      "How do people view Elon Musk’s interactions with the Biden administration?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "content moderation",
+    "wiki_title": "content moderation",
+    "summary": "In public arguments about Joe Biden, critics—particularly conservatives—portray content moderation as biased censorship that suppressed negative coverage (e.g., Hunter Biden-related material) and use it to demand stronger free‑speech protections and changes to Section 230. Supporters frame moderation as a necessary tool to limit disinformation and online attacks against Biden and to justify regulatory or enforcement actions against big tech.",
+    "queries": [
+      "How do people view Biden's content moderation?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "new york post",
+    "wiki_title": "new york post",
+    "summary": "The New York Post is often used by conservative commentators and opponents to amplify allegations of corruption or scandal about Joe Biden and his family, deploying sensational headlines and selective reporting to portray him as compromised, ineffectual, or untrustworthy and to justify investigations or political attacks. Critics counter that the Post’s tabloid style and partisan tilt make its coverage unreliable and weaponized, citing its stories as examples of media-driven narratives meant to shape negative public opinion of Biden.",
+    "queries": [
+      "What influence does the new york post have on Biden’s public image?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "politifact",
+    "wiki_title": "politifact",
+    "summary": "PolitiFact’s fact-checks and Biden Promise Tracker are commonly cited in debates over Biden’s honesty and effectiveness—opponents lean on negative ratings to argue he misleads or fails to deliver, while supporters point to ‘True’ or favorable rulings to defend his record. Disputes about its selection and ratings also fuel competing narratives about media bias toward or against Biden, shaping whether critics frame him as dishonest or defenders portray critiques as politically motivated.",
+    "queries": [
+      "How do people view Politifact’s fact-checks about Biden?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "covid-19 vaccines",
+    "wiki_title": "covid-19 vaccine",
+    "summary": "Discussions of the COVID‑19 vaccine are used to both defend and attack Biden: supporters point to his administration's mass distribution, booster campaigns, mandate policies, and international donations as evidence of competent pandemic leadership and life‑saving public health action, while critics seize on vaccine mandates, “vaccine passport” proposals, and mixed messaging about boosters/variants to portray his presidency as overreaching, ineffective, or politically opportunistic.",
+    "queries": [
+      "How do people view Joe Biden's covid-19 vaccines efforts?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "disinformation",
+    "wiki_title": "disinformation",
+    "summary": "False or misleading claims about Joe Biden—ranging from exaggerated claims of cognitive decline and corruption to fabricated stories about election fraud or policy failures—are deployed by opponents to undermine his legitimacy, mobilize voters, and justify investigations or punitive policies; meanwhile, Biden supporters label such narratives as disinformation to delegitimize criticism, defend his record, and argue for fact‑checking or content moderation.",
+    "queries": [
+      "What effects has disinformation had on perceptions of Joe Biden?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "2020 election fraud",
+    "wiki_title": "electoral fraud",
+    "summary": "Claims of electoral fraud have been used by Biden’s critics to portray his 2020 win as illegitimate—driving court challenges, conspiracy narratives, and calls for stricter voting rules—while his supporters use the absence of credible fraud to defend his mandate and argue for policies that protect ballot access and public confidence in elections.",
+    "queries": [
+      "Is 2020 election fraud regarding Joe Biden credible or not?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "QAnon narratives portray Joe Biden as part of a corrupt “deep state” or elite conspiracy, using lurid allegations and election‑fraud claims to delegitimize his victory and mobilize opposition to his policies; opponents of QAnon similarly invoke the movement to dismiss such attacks as extremist misinformation and warn that they fuel political violence.",
+    "queries": [
+      "Is QAnon's criticism of Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "project veritas",
+    "wiki_title": "project veritas",
+    "summary": "Project Veritas is used by Biden critics to publicize undercover videos and selective edits that allege corruption, staff misconduct, or cognitive decline, helping to frame Biden as unfit or dishonest; opponents and fact-checkers argue these partisan tactics and deceptive editing undermine the credibility of such charges and portray the outlet as a source of politically motivated attacks rather than reliable evidence.",
+    "queries": [
+      "How do people view Project Veritas’s investigations into Biden’s administration?"
+    ]
+  },
+  {
+    "id": "C6-6-8",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "deepfakes",
+    "wiki_title": "deepfake",
+    "summary": "Deepfakes are frequently cited in discussions about Joe Biden as both a weapon (used by opponents to create convincing but fabricated videos alleging cognitive decline, corruption, or misconduct) and as a defense (with allies claiming damaging footage is manipulated), shaping calls for stricter platform moderation, legal limits on synthetic political content, and broader anxieties about election misinformation and credibility.",
+    "queries": [
+      "Is using deepfakes involving Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "white house press briefings",
+    "wiki_title": "white house press corps",
+    "summary": "The White House press corps serves as the public forum that either amplifies Biden administration messaging on issues like the economy, COVID response, and Ukraine or exposes and magnifies gaffes and policy shortfalls, shaping whether voters see him as an effective elder statesman or a diminished leader. Conservatives frequently point to the press corps to argue media softness toward Biden, while progressives and accountability-focused journalists use its scrutiny to press for transparency and tougher policy commitments, making its tone and lines central to public judgments of his competence and priorities.",
+    "queries": [
+      "Are Joe Biden's white house press briefings justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-1",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "karine jean-pierre",
+    "wiki_title": "karine jean-pierre",
+    "summary": "As Biden’s principal public messenger, she shapes how his decisions, priorities, and responses are presented to journalists and the public—supporters use her briefings to justify his policies and humanize his leadership, while critics point to her wording, omissions, or perceived evasiveness to argue his administration is poorly communicated or out of touch.",
+    "queries": [
+      "Are criticisms of Karine Jean-Pierre justified or overblown?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "peter doocy",
+    "wiki_title": "peter doocy",
+    "summary": "As Fox News’s combative White House correspondent, Peter Doocy’s frequent, pointed questioning is often used by critics to highlight alleged gaffes, cognitive decline, or policy failings under Joe Biden and to support narratives that he is ineffectual or too old for office. Supporters of Biden, by contrast, point to Doocy’s adversarial style as evidence of partisan media bias and use his exchanges to argue that the president is unfairly targeted by leading or hostile reporters.",
+    "queries": [
+      "How do people view peter doocy’s questions to Joe Biden?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "covid-19 response",
+    "wiki_title": "covid-19 pandemic in japan",
+    "summary": "Japan’s pandemic experience is often invoked in debates about Biden to contrast outcomes and policy choices: critics point to Japan’s early containment and mask-compliant culture as evidence the U.S. under Biden could have achieved better control, while defenders note Japan’s later vaccine rollout problems and unique social factors to argue Biden’s trade-offs (vaccine diplomacy, reopening timing, and reliance on vaccination) were pragmatic and required international coordination.",
+    "queries": [
+      "Is Biden’s covid-19 response reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "ideology and values",
+    "wiki_title": "ideology",
+    "summary": "In debates about Joe Biden, 'ideology' is often used to frame him as a pragmatic, centrist/establishment Democrat whose moderate, incremental liberalism is invoked to justify compromise-driven, market-friendly policies; progressives use that framing to fault him for not pursuing bolder structural change while conservatives sometimes recast his beliefs as dangerously left-wing to mobilize opposition.",
+    "queries": [
+      "What effects have Joe Biden's ideology and values produced?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "progressivism",
+    "wiki_title": "progressivism",
+    "summary": "Progressivism is used by Biden’s critics on the left to argue he is too centrist and compromised by corporate ties, pressing him to embrace bolder climate, health-care, and inequality reforms, while his allies frame selective progressive wins (e.g., ARP, IRA, expanded ACA) as pragmatic, incremental progress; opponents on the right weaponize the label “progressive” to portray his policies as radical big-government change.",
+    "queries": [
+      "How do people view Biden's progressivism?"
+    ]
+  },
+  {
+    "id": "C7-1-2",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "alexandria ocasio-cortez",
+    "wiki_title": "alexandria ocasio-cortez",
+    "summary": "As a leading progressive voice, Alexandria Ocasio-Cortez is used to pressure and critique Joe Biden for not embracing bolder climate, economic-justice, and reformist policies, framing him as too centrist or insufficiently ambitious. Opponents conversely invoke her as evidence that Biden is or could be beholden to the “far left,” using her positions as a foil to argue his agenda would be too radical or divisive.",
+    "queries": [
+      "Is Alexandria Ocasio-Cortez working with Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "medicare for all",
+    "wiki_title": "single-payer healthcare",
+    "summary": "Single-payer healthcare is wielded by progressives to criticize Biden for rejecting transformative reform—arguing his support for a public option and incremental expansion of the ACA is insufficient—while conservatives use the single-payer label to portray him as pushing government control of medicine; Biden and his defenders counter by framing his stance as pragmatic, politically achievable compromise.",
+    "queries": [
+      "What impacts has medicare for all had?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "moderate democrats",
+    "wiki_title": "moderate party",
+    "summary": "Commentators and political strategists invoke Sweden’s Moderate Party as an example when urging Joe Biden to pursue more market-friendly, centrist policies—arguing that pragmatic fiscal moderation and limited-government messaging can win back swing voters—while opponents use the Moderates’ later rightward shift and cooperation with the Sweden Democrats to criticize any Biden move toward the center as potentially empowering illiberal or anti-immigrant forces.",
+    "queries": [
+      "Are Joe Biden's moderate Democrats reasonable or out of step?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "blue dog coalition",
+    "wiki_title": "blue dog coalition",
+    "summary": "The Blue Dog Coalition is invoked in debates over Biden to underscore and pressure his centrist, fiscally cautious instincts—supporters cite their alignment to defend his bipartisan compromises and moderate stewardship, while critics, particularly progressives, use their influence to argue Biden is too willing to temper or abandon ambitious Democratic priorities in favor of austerity and deal-making.",
+    "queries": [
+      "Is the blue dog coalition’s role in Biden’s agenda reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "new democrat coalition",
+    "wiki_title": "new democrat coalition",
+    "summary": "References to the New Democrat Coalition are used to cast Biden as a pragmatic, center-left manager whose policies favor pro-growth, pro-business and fiscally moderate solutions, legitimizing compromises on taxes, regulation, and trade; progressives invoke the coalition to criticize Biden for abandoning bold reforms, while moderates cite it to justify his incremental, market-friendly approach.",
+    "queries": [
+      "Is the new democrat coalition around Joe Biden realistic or not?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "infrastructure bill",
+    "wiki_title": "planning and infrastructure bill",
+    "summary": "References to Biden’s planning and infrastructure bill are often used by supporters to portray him as a pragmatic, results-oriented leader who can broker bipartisan investment in roads, broadband and jobs; opponents use it to argue he is fiscally reckless and inflationary or, from the left, that the package is too limited and fails to meet ambitious climate and social-policy goals.",
+    "queries": [
+      "How do people view the infrastructure bill’s priorities?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "abortion rights",
+    "wiki_title": "abortion-rights movement",
+    "summary": "Abortion-rights advocates portray Joe Biden as a key defender of reproductive access—citing his public support for legal abortion, post-Dobbs executive steps, and pro-choice judicial picks—while using protests and endorsements to push him toward stronger federal protections and criticize perceived compromises. Conversely, opponents invoke the movement to cast Biden as too permissive on abortion, using the issue to mobilize conservative voters and attack his record.",
+    "queries": [
+      "Are abortion rights protections justified or not in Biden’s policies?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "texas heartbeat act",
+    "wiki_title": "texas heartbeat act",
+    "summary": "The Texas Heartbeat Act is invoked in public debates about Biden as a concrete example of aggressive state-level limits on abortion that Democrats use to press him to take stronger federal action to protect reproductive rights, while Republicans and critics point to it as evidence that his administration has failed to stop innovative conservative legal strategies, framing him as either too passive or as out of step with conservative legal momentum.",
+    "queries": [
+      "How do people view the Texas Heartbeat Act?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "planned parenthood",
+    "wiki_title": "planned parenthood",
+    "summary": "Planned Parenthood is used to signal and justify Biden's pro‑choice credentials—supporters point to his defense of federal funding and reproductive‑rights policies to mobilize women, young and progressive voters. Opponents highlight his ties to Planned Parenthood and its abortion services to portray him as extreme on social/moral issues and to argue against public funding.",
+    "queries": [
+      "Is Joe Biden’s support for Planned Parenthood reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "hyde amendment",
+    "wiki_title": "hyde amendment",
+    "summary": "Biden’s long association with the Hyde Amendment is often used by critics on the left to argue he is insufficiently committed to abortion access and to pressure him to support repeal and expand Medicaid-funded care; conversely, opponents and centrists point to his past acceptance of Hyde as evidence he will accept limits on federal abortion funding and appeal to moderate voters.",
+    "queries": [
+      "How do people view the Hyde Amendment under Biden?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "mifepristone",
+    "wiki_title": "mifepristone",
+    "summary": "Mifepristone has become a focal point in debates about Biden’s record on reproductive health — his administration’s efforts to preserve FDA approval and federal access are touted by supporters as defending science-based, pro‑choice policy, while critics seize on the drug to portray his regulatory decisions as overreach and to push restrictive, anti‑abortion agendas.",
+    "queries": [
+      "Is restricting mifepristone politically justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Anti-abortion movements portray Joe Biden as a leading defender of abortion rights—criticizing his support for federal protections, executive actions, and judicial nominees that they say expand abortion access—and use that framing to mobilize conservative and religious voters, press legal challenges, and attack his electability among Catholics and swing constituencies. They pressure opponents and policymakers to oppose his appointments and legislation and to push Democrats toward restrictions or concessions on abortion policy.",
+    "queries": [
+      "What effects has the pro-life movement had on Biden’s policies?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "labor unions",
+    "wiki_title": "trade union",
+    "summary": "Trade unions are invoked both to bolster and to critique Biden: their endorsements, voter mobilization, and praise for his pro-labor appointments and infrastructure and worker-protection measures are used to justify his credentials as a pro‑worker president, while their complaints about trade positions, slow labor‑law reform, or perceived deference to corporations are used to portray him as too centrist or insufficiently transformative.",
+    "queries": [
+      "How do people view Biden's relationship with labor unions?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "seiu",
+    "wiki_title": "seiu 775",
+    "summary": "SEIU 775 is often cited in political discussion to show that Biden has strong backing from home‑care and long‑term care workers, bolstering claims he supports pro‑labor policies (higher wages, stronger collective bargaining, increased Medicaid/care funding). Critics use the union’s endorsements and mobilization to argue Biden is closely tied to union interests and susceptible to special‑interest influence on labor and health‑care policy.",
+    "queries": [
+      "Is seiu’s support for Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "united auto workers",
+    "wiki_title": "united auto workers",
+    "summary": "The United Auto Workers is invoked to bolster or challenge Biden’s labor credentials—union endorsements, bargaining wins, and support for ‘Buy American’ and EV supply-chain policies are used to portray him as a protector of manufacturing and working-class jobs. Opponents and some workers use UAW strikes or complaints to argue he’s either beholden to union influence or failing to shield autoworkers from plant closures and economic disruption tied to trade and the green transition.",
+    "queries": [
+      "Is Joe Biden's support for the United Auto Workers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "pro act",
+    "wiki_title": "pro-ip act",
+    "summary": "References to a “pro‑IP” stance or the Pro‑IP Act are used to cast Joe Biden as aligned with strong intellectual‑property enforcement and industry interests—portraying his administration as protective of patents and copyright protections favored by Hollywood, pharma, and tech. Conversely, critics invoke pro‑IP framing to argue Biden is beholden to corporate lobbyists and resists IP flexibilities (e.g., vaccine waivers) that proponents say would advance public health and access.",
+    "queries": [
+      "What effects has Joe Biden's pro act had?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "marty walsh",
+    "wiki_title": "marty walsh",
+    "summary": "As Biden’s Labor Secretary pick, Marty Walsh is often cited by supporters to show Biden’s pro-union, working‑class credentials and his commitment to labor outreach. Critics, however, point to Walsh’s pragmatic, business‑facing record to argue that Biden’s labor agenda is moderate and too willing to accommodate corporate interests rather than pursue bold progressive reform.",
+    "queries": [
+      "Are Marty Walsh’s actions aligned with Biden’s agenda or not?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "national labor relations board",
+    "wiki_title": "national labor relations board",
+    "summary": "The National Labor Relations Board is cited as tangible proof of Biden’s pro-union agenda—supporters highlight his appointments and NLRB rulings that strengthen collective bargaining, challenge employer anti-union tactics, and target gig-economy classifications as evidence he’s delivering for labor. Critics use the board to argue Biden is politicizing labor law and imposing regulatory overreach that harms employers and tilts the playing field toward unions.",
+    "queries": [
+      "Are Biden’s national labor relations board decisions justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "bipartisanship",
+    "wiki_title": "bipartisanship",
+    "summary": "Bipartisanship is invoked to cast Biden as a pragmatic, consensus‑seeking leader—used by supporters to justify his focus on incremental, cross‑aisle deals (e.g., infrastructure) and appeals to national unity. Opponents and some progressives use the concept to criticize him for conceding too much to Republicans or for failing to secure GOP cooperation, framing his compromises as either necessary realism or a betrayal of bolder reform.",
+    "queries": [
+      "Is Joe Biden’s bipartisanship reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-1",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "mitch mcconnell",
+    "wiki_title": "mitch mcconnell",
+    "summary": "Conservative critics point to McConnell as the Republican power-broker who resists and reshapes Biden’s agenda, using his history of procedural tactics and confirmations to argue Biden must compromise or will be blocked. Biden’s supporters cast McConnell as an obstructionist whose court-packing and agenda‑blocking justify stronger executive action and mobilization to protect Biden’s policies and democratic norms.",
+    "queries": [
+      "Is Mitch McConnell's opposition to Joe Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "debt ceiling",
+    "wiki_title": "debt limit",
+    "summary": "The debt limit is a recurring battleground used to assess Biden’s economic stewardship: opponents cite rising deficits under his administration to demand spending cuts and fiscal restraint, while Biden and supporters frame raising the ceiling as a necessary step to pay obligations, protect the recovery, and avoid economic chaos. It also functions as leverage in partisan negotiations, with critics portraying him as fiscally irresponsible and allies accusing opponents of reckless brinkmanship when they threaten default to extract concessions.",
+    "queries": [
+      "How do people view Biden's approach to the debt ceiling?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "problem solvers caucus",
+    "wiki_title": "problem solvers caucus",
+    "summary": "The Problem Solvers Caucus is invoked in discussions of Biden as a symbol of bipartisan, centrist compromise — used to argue his agenda can and should be negotiated across the aisle on items like infrastructure and budget deals. Supporters point to the caucus to justify Biden moving toward pragmatic, deal‑making positions, while critics say reliance on such cross‑party deals either dilutes progressive priorities or rewards Republican obstruction.",
+    "queries": [
+      "Is the problem solvers caucus influence on Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "evangelical christians",
+    "wiki_title": "list of evangelical christians",
+    "summary": "Lists of evangelical Christians are invoked in coverage of Joe Biden to signal whether influential faith leaders and voters endorse or reject him — proponents point to evangelical supporters to bolster his moral credibility and appeal to religious constituencies, while critics highlight lists of evangelical opponents to portray him as misaligned with conservative Christian positions on abortion, LGBTQ rights, religious liberty, and related policy debates.",
+    "queries": [
+      "Is evangelical christians' support for Joe Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7-2",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "dobbs decision",
+    "wiki_title": "dobbs v. jackson women's health organization",
+    "summary": "After Dobbs, critics use the decision to fault Biden for failing to protect abortion rights and portray his response as weak, pressing him to pursue court reform or stronger federal measures. Supporters invoke Dobbs to cast Biden as the defender of reproductive freedom, justify his executive and legislative efforts to protect abortion access, and mobilize pro‑choice voters.",
+    "queries": [
+      "How do people view the Dobbs decision's impact on Biden?"
+    ]
+  },
+  {
+    "id": "C7-7-3",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "religious liberty",
+    "wiki_title": "freedom of religion",
+    "summary": "Debates about religious freedom are used to attack Biden domestically—critics cite tension between his Catholic faith and support for abortion rights or accuse his administration of eroding religious exemptions when enforcing LGBTQ nondiscrimination and public-health rules—while his supporters frame religious liberty as consistent with his policies that balance protecting faith communities, civil‑rights protections, and defending persecuted religious minorities abroad.",
+    "queries": [
+      "What consequences has religious liberty policy under Biden caused?"
+    ]
+  },
+  {
+    "id": "C7-7-4",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "family research council",
+    "wiki_title": "family research council",
+    "summary": "Conservative activists and commentators invoke the Family Research Council to portray Joe Biden as advancing policies that undermine ‘traditional’ family and religious liberty—critiquing his support for abortion rights, LGBTQ equality, and transgender-inclusive rules and using the group's analyses to justify opposition to his nominees and executive actions. Biden supporters, in turn, point to the FRC to frame those critiques as driven by socially conservative ideology rather than neutral policy concerns.",
+    "queries": [
+      "Is Joe Biden’s engagement with the Family Research Council reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7-5",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "franklin graham",
+    "wiki_title": "franklin graham",
+    "summary": "Franklin Graham routinely frames Joe Biden as antagonistic to evangelical Christian values—publicly criticizing his positions on abortion, LGBT rights, and religious freedom—and uses his platform to mobilize conservative Christians and justify political opposition to Biden’s policies.",
+    "queries": [
+      "Is Franklin Graham's stance toward Joe Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "southern baptist convention",
+    "wiki_title": "southern baptist convention",
+    "summary": "Leaders and members of the Southern Baptist Convention frequently frame Joe Biden as out of step with evangelical Christian values—criticizing his pro‑choice stance, support for LGBTQ rights, and positions on religious liberty—and use sermons, official statements, and voter mobilization to justify opposition to his policies and candidacy.",
+    "queries": [
+      "How do people view the southern baptist convention’s stance toward Biden?"
+    ]
+  },
+  {
+    "id": "C7-7-7",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "national association of evangelicals",
+    "wiki_title": "national association of evangelicals",
+    "summary": "In public debates about Joe Biden, the National Association of Evangelicals is often invoked to judge his record on religious freedom and social policy—portraying him favorably when his administration backs faith‑based humanitarian or immigration initiatives and criticizing or mobilizing evangelical opposition when his policies expand abortion access or LGBTQ protections that many evangelicals view as conflicting with their beliefs.",
+    "queries": [
+      "How do people view the national association of evangelicals' influence?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "social movements & advocacy",
+    "wiki_title": "social movement",
+    "summary": "Activists and commentators invoke social movements when debating Biden to either bolster his legitimacy as a defender of civil rights, climate action, and democratic norms or to pressure him for bolder reforms; opponents use movement labels to portray him as either insufficiently responsive to progressive demands or as being pushed by 'radical' agendas, shaping critiques of his policy choices on issues like climate, immigration, and economic justice.",
+    "queries": [
+      "What effects has social movements & advocacy had on Biden’s agenda?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter is used both to bolster and to critique Joe Biden—supporters point to his endorsements of police-reform measures and outreach to Black constituencies as evidence of a commitment to racial justice, while progressive activists fault him for past 'tough-on-crime' stances and push him for bolder criminal-justice changes. Conversely, conservatives invoke BLM-linked protests to portray Biden as weak on law-and-order, framing his presidency as permissive of unrest and shaping voter concerns about public safety and leadership.",
+    "queries": [
+      "Is black lives matter’s criticism of Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C9-1-1",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "george floyd",
+    "wiki_title": "george floyd",
+    "summary": "George Floyd's murder and the ensuing protests are frequently invoked to frame Joe Biden as the national leader responsible for addressing systemic racism and policing — supporters cite his support for federal policing reforms and civil-rights enforcement as proof of commitment and as a contrast to Trump's law-and-order posture.  At the same time, progressives use Floyd's legacy to press Biden for bolder change (arguing he hasn’t gone far enough), while conservatives use it to depict his agenda as politically divisive or soft on crime, shaping critiques of his policies and rhetoric.",
+    "queries": [
+      "How do people view george floyd’s impact on Biden policies?"
+    ]
+  },
+  {
+    "id": "C9-1-3",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "defund the police",
+    "wiki_title": "defund the police",
+    "summary": "During Biden’s presidency and campaigns, opponents invoke “defund the police” to link him to crime-soft policies and galvanize conservative and swing voters, while progressive critics use the slogan to argue his moderate, reform-focused stance falls short and to pressure him toward more transformative public-safety changes.",
+    "queries": [
+      "How do people view defund the police policies nationwide?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "naacp",
+    "wiki_title": "naacp",
+    "summary": "The NAACP's endorsements, public praise, and policy statements are frequently cited to bolster Biden’s civil‑rights credentials on voting rights, anti‑discrimination measures, and economic equity; conversely, the NAACP’s criticisms or demands for stronger policing, criminal‑justice, and economic reforms are used by progressives and opponents to argue Biden has not gone far enough on racial justice.",
+    "queries": [
+      "What effects has naacp's relationship with Biden produced?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "reproductive rights",
+    "wiki_title": "reproductive rights",
+    "summary": "Reproductive rights are a central lens for judging Biden: supporters credit him as a defender of abortion access after Dobbs—pointing to executive steps, appointments and calls to codify protections—while progressives criticize his past support for limits (e.g., the Hyde Amendment) and argue he hasn’t pursued bold enough federal remedies. Conservative opponents, conversely, use the issue to portray Biden as enabling permissive abortion policy and to mobilize voters for restrictions.",
+    "queries": [
+      "How do people view Biden's position on reproductive rights?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "my body my choice",
+    "wiki_title": "my body, my choice",
+    "summary": "Progressive and reproductive-rights advocates use 'my body, my choice' to pressure Biden to defend abortion access and adopt stronger federal protections, framing his record as supportive but sometimes insufficient. Conversely, opponents (especially conservatives and some libertarians) invoke the phrase to criticize Biden's COVID-19 vaccine and mask mandates as hypocrisy or government overreach.",
+    "queries": [
+      "How do people view my body my choice in politics?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "trigger laws",
+    "wiki_title": "trigger law",
+    "summary": "In debates about Joe Biden, \"trigger laws\" are cited as a political cudgel—supporters point to them as a reason Biden must push for federal abortion protections or executive measures, while critics use them to argue his options are limited and that he has failed to prevent state bans. The term frames Biden either as a necessary protector of reproductive rights (if he acts) or an ineffective leader constrained by federalism and Congress, shaping campaign messaging and voter mobilization.",
+    "queries": [
+      "What effects have trigger laws caused during Biden's presidency?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "sunrise movement",
+    "wiki_title": "sunrise movement",
+    "summary": "Sunrise Movement is often deployed in public debates to argue that Joe Biden’s climate agenda is too timid, using protests and pressure campaigns to push him toward Green New Deal–style commitments and to criticize ties to fossil-fuel interests; it frames Biden as the target for progressive demands, alternately pressuring him to adopt bolder policy or supporting primary challengers when he is seen as falling short.",
+    "queries": [
+      "Is the Sunrise Movement's pressure on Joe Biden justified or not?"
+    ]
+  },
+  {
+    "id": "C9-3-4",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "big oil",
+    "wiki_title": "big oil",
+    "summary": "References to “Big Oil” are used by critics to shape Biden’s image both ways: conservatives claim his climate policies and regulatory actions hurt energy producers and raise prices, while progressives use Big Oil to argue Biden has been too accommodating to fossil‑fuel companies—approving leases and pipelines and failing to impose tougher limits—framing his record as compromised by industry influence or insufficiently ambitious on climate.",
+    "queries": [
+      "How do people view big oil's influence under Biden?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "climate justice",
+    "wiki_title": "climate justice",
+    "summary": "Climate justice is used by progressives and frontline advocates to pressure Biden to center equity in his climate agenda—demanding targeted investments, job guarantees, pollution cleanups and reparative measures for low‑income, Indigenous and communities of color—and to criticize him when he compromises with fossil‑fuel interests. Conversely, opponents frame climate‑justice demands as costly redistribution and regulatory overreach, using the term to attack Biden’s policies as economically harmful or politically motivated.",
+    "queries": [
+      "How do people view climate justice under Joe Biden?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "youth climate movement",
+    "wiki_title": "fridays for future",
+    "summary": "Fridays for Future is often cited by progressive activists and critics to pressure Biden to adopt far more ambitious emissions cuts and to cancel fossil‑fuel projects, framing his administration as too moderate or beholden to industry if it pursues incremental policies; conversely, allies sometimes invoke the movement to justify stronger climate proposals within Biden’s agenda while opponents dismiss youth strikes as unrealistic or politically driven.",
+    "queries": [
+      "How do people view the youth climate movement?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "afl-cio",
+    "wiki_title": "afl-cio",
+    "summary": "The AFL-CIO frames Joe Biden as the labor movement’s preferred, pro-union leader—endorsing and mobilizing members to defend and promote his worker-friendly agenda (organizing rights, higher wages, pro-labor legislation) and using political spending and field operations to boost his appeal with working-class voters. It also publicly pressures and criticizes Biden when his policies or appointments fall short of union priorities, while opponents use AFL-CIO support to portray him as beholden to organized labor.",
+    "queries": [
+      "Is Joe Biden’s relationship with afl-cio reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-3",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "richard trumka",
+    "wiki_title": "richard trumka",
+    "summary": "As a prominent labor leader whose endorsements and pressure helped mobilize union support for Biden, Richard Trumka’s name is often invoked to frame Biden as pro-worker and to justify his labor-friendly policy claims; opponents, however, use Trumka’s influence to argue Biden is beholden to union interests or to criticize him when he falls short of delivering stronger pro-labor reforms.",
+    "queries": [
+      "Is Richard Trumka's influence on Biden-era labor policy justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "collective bargaining",
+    "wiki_title": "collective bargaining",
+    "summary": "Collective bargaining is used to cast Biden as a pro‑labor president—supporters point to his backing of stronger union rights, NLRB appointments, and legislation like the PRO Act to justify his worker‑centered agenda and efforts to raise wages and reduce inequality. Critics counter that his emphasis on collective bargaining privileges unions over employers, risks higher labor costs, weaker competitiveness, and regulatory overreach, making it a focal point for debates over inflation and economic policy.",
+    "queries": [
+      "How do people view collective bargaining under Joe Biden?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "democratic socialists of america",
+    "wiki_title": "democratic socialists of america",
+    "summary": "Progressive activists and critics invoke the Democratic Socialists of America to portray Biden as a centrist or corporatist who falls short on priorities like Medicare for All, a Green New Deal, stronger labor protections, and a non‑interventionist Middle East policy, using grassroots pressure and endorsements to push or shame his administration into bolder reforms (while occasionally tempering criticism tactically to block more conservative alternatives).",
+    "queries": [
+      "Is Joe Biden’s response to the democratic socialists of america reasonable?"
+    ]
+  },
+  {
+    "id": "C9-5-6",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "israel-palestine conflict",
+    "wiki_title": "israeli–palestinian conflict",
+    "summary": "The Israeli–Palestinian conflict is used to cast Biden either as a reliable backer of Israel—pointing to his steady military and diplomatic support—or as insufficiently forceful on Palestinian rights, with progressives demanding conditioning of aid or a push for ceasefires while allies praise his alliance-building. Coverage of his responses to Gaza and West Bank crises is often leveraged to challenge his moral leadership, foreign-policy judgment, and responsiveness to human-rights concerns.",
+    "queries": [
+      "Is Joe Biden's approach to the israel-palestine conflict justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "dreamers (daca)",
+    "wiki_title": "the dreamers",
+    "summary": "Supporters portray Dreamers as a moral and political litmus test for Biden, using their plight to pressure him to enact a permanent pathway to citizenship and to praise executive or legislative actions that protect DACA recipients. Critics on the left fault Biden for not delivering full legalization, while opponents on the right use Dreamers to argue his immigration stance is too lenient, making the issue central to debates over his credibility and priorities on immigration.",
+    "queries": [
+      "Is prioritizing dreamers (daca) in Biden’s agenda justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-1",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "dream act",
+    "wiki_title": "dream act",
+    "summary": "The Dream Act is invoked in discussions of Joe Biden to signal whether he is a defender of immigrant youth or merely a cautious, centrist manager on immigration. Supporters point to his backing for Dreamers to frame him as compassionate and pro–pathway to citizenship, while critics highlight reliance on executive actions or lack of enacted legislation to argue he has underdelivered or favored incremental politics over bold reform.",
+    "queries": [
+      "Is Biden’s Dream Act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-2",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "path to citizenship",
+    "wiki_title": "path to citizenship",
+    "summary": "Supporters present Biden's advocacy for a path to citizenship as proof of his commitment to humane, comprehensive immigration reform and use it to rally Latino and progressive voters by promising legalization for Dreamers and long‑term undocumented residents. Opponents and Republican critics portray the same policy as 'amnesty' that weakens border enforcement and use it to attack Biden's competence on immigration and national security.",
+    "queries": [
+      "Is Biden's path to citizenship reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-5",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "uscis",
+    "wiki_title": "kazarian v. uscis",
+    "summary": "Kazarian v. USCIS is often invoked in arguments about the Biden administration’s immigration and administrative practices; critics cite it to claim courts can and should limit USCIS discretion—framing Biden’s policies as unlawful overreach—while supporters use the case to argue for deference to agency procedures and against judicial interference in implementing Biden-era immigration priorities.",
+    "queries": [
+      "Is Biden's USCIS policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "trump daca rescission",
+    "wiki_title": "new york v. trump (daca)",
+    "summary": "The litigation over Trump-era challenges to DACA is frequently invoked in debates about Biden to test whether his administration will meaningfully protect Dreamers or merely rhetorically support them; critics say cases like New York v. Trump expose Biden’s reliance on courts and slow push for a legislative fix, while supporters use the dispute to contrast his pro‑Dreamer stance with Republican efforts to roll back protections.",
+    "queries": [
+      "Is Trump DACA rescission justified or not under Biden?"
+    ]
+  },
+  {
+    "id": "C9-7",
+    "parent": "C9",
+    "level": 2,
+    "topic": "gun control movement",
+    "wiki_title": "gun control in germany",
+    "summary": "References to gun control in Germany are used in debates about Joe Biden as a comparative example: supporters cite Germany’s stricter regulations and lower gun-death rates to justify and promote Biden’s proposals for tougher U.S. gun laws, while critics invoke the same comparison to argue that European-style rules are either ineffective or an overreach that threatens American gun rights and personal liberty.",
+    "queries": [
+      "What impacts has the gun control movement had under Biden?"
+    ]
+  },
+  {
+    "id": "C9-7-1",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "assault weapons ban",
+    "wiki_title": "assault weapons ban",
+    "summary": "Calls for an assault weapons ban are used to frame Biden as a pro-gun-control leader whose post–mass-shooting policy agenda emphasizes public-safety measures and restoring or strengthening federal restrictions. Critics weaponize the issue to paint him as anti–Second Amendment and politically extreme, arguing the proposals are overreach that will alienate gun owners and swing voters.",
+    "queries": [
+      "What impacts has Biden’s assault weapons ban caused?"
+    ]
+  },
+  {
+    "id": "C9-7-2",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "universal background checks",
+    "wiki_title": "universal background check",
+    "summary": "Supporters cite Biden’s push for universal background checks as proof of his commitment to reducing gun violence and advancing pragmatic gun-safety reforms, using it to solidify support among progressives and suburban voters; critics use the proposal to paint Biden as encroaching on Second Amendment rights and out of touch with rural or pro-gun constituencies, arguing it represents ineffective or overreaching gun-control policy.",
+    "queries": [
+      "Is Biden’s support for universal background checks reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-7-3",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "red flag laws",
+    "wiki_title": "red flag law",
+    "summary": "Supporters cite Biden’s push for red‑flag/ERPO measures as a central part of his gun‑safety agenda—using them to portray him as prioritizing prevention of mass shootings and public health‑oriented reforms—while critics use them to cast him as hostile to gun rights and prone to government overreach, arguing they threaten due process and enable confiscation of firearms.",
+    "queries": [
+      "How do people view red flag laws under Biden?"
+    ]
+  },
+  {
+    "id": "C9-7-4",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "national rifle association",
+    "wiki_title": "national rifle association",
+    "summary": "The National Rifle Association is invoked in debates about Joe Biden to portray him as hostile to gun rights and to mobilize opposition to his gun-control proposals, with critics using the NRA to frame his policies as infringements on the Second Amendment. Biden supporters, conversely, cast the NRA as a powerful lobby that blocks common‑sense gun safety reforms and as a foil to justify stronger federal action on gun violence.",
+    "queries": [
+      "How do people view the national rifle association in Biden's America?"
+    ]
+  },
+  {
+    "id": "C9-7-5",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "everytown for gun safety",
+    "wiki_title": "everytown for gun safety",
+    "summary": "Everytown for Gun Safety is invoked by Biden supporters to validate and amplify his pro‑gun‑safety credentials—pointing to his backing of expanded background checks, red‑flag laws, and executive steps to curb gun violence—and to push him toward tougher legislation. Opponents, however, use Everytown’s endorsements and messaging to portray Biden as either beholden to anti‑gun activists or as having fallen short when shootings continue.",
+    "queries": [
+      "Is everytown for gun safety's influence on Biden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-7-6",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "uvalde shooting",
+    "wiki_title": "uvalde school shooting",
+    "summary": "Supporters point to the Uvalde shooting to bolster Biden’s push for federal gun‑safety measures—citing his role in signing the Bipartisan Safer Communities Act—as evidence he responds to mass‑shooting crises; critics counter that he politicizes tragedies, that his policies are insufficient, or that attention should focus on law‑enforcement failures, mental‑health supports, or other causes rather than federal gun restrictions.",
+    "queries": [
+      "How do people view the uvalde shooting’s role in national debate?"
+    ]
+  },
+  {
+    "id": "C9-8",
+    "parent": "C9",
+    "level": 2,
+    "topic": "lgbt rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Lists comparing LGBTQ rights by country are invoked to frame Biden as either a defender who is aligning the U.S. with progressive peers through federal nondiscrimination protections and pro‑trans policies, or as insufficiently bold compared with countries that have stronger legal protections. Conversely, critics point to international examples of both more permissive and more restrictive regimes to either demand further action from his administration or to link his policies to perceived threats to religious liberty and parental rights in domestic culture‑war debates.",
+    "queries": [
+      "Is Biden's stance on lgbt rights reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-1",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "equality act",
+    "wiki_title": "equality act",
+    "summary": "Supporters cite Biden’s backing of the Equality Act to portray him as a civil‑rights–oriented, pro‑LGBTQ president committed to expanding federal non‑discrimination protections, while opponents invoke the bill to argue he advances a divisive progressive social agenda that threatens religious liberty, women’s sports, and parental rights.",
+    "queries": [
+      "How do people view the equality act under Biden?"
+    ]
+  },
+  {
+    "id": "C9-8-2",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "gender-affirming care",
+    "wiki_title": "transgender health care",
+    "summary": "Debates about transgender health care are deployed to portray Biden either as a protector of LGBTQ+ rights — with allies pointing to his administration’s moves to restore nondiscrimination protections and expand access to gender‑affirming care — or as a target of cultural backlash, with opponents framing those policies as executive overreach and as controversial or inappropriate for minors, bolstering attacks on his judgment and appeal to parents and religious voters.",
+    "queries": [
+      "How do people view gender-affirming care under Biden’s administration?"
+    ]
+  },
+  {
+    "id": "C9-8-3",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "transgender military service",
+    "wiki_title": "transgender people and military service",
+    "summary": "Arguments about transgender people serving in the military are often deployed to criticize or defend Joe Biden’s leadership: opponents use it to portray him as prioritizing progressive identity politics over military readiness and traditional values, while supporters cite his pro‑inclusion stance as evidence of his commitment to civil rights, nondiscrimination, and modernizing the armed forces.",
+    "queries": [
+      "What consequences has transgender military service had for the armed forces?"
+    ]
+  },
+  {
+    "id": "C9-8-4",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "human rights campaign",
+    "wiki_title": "human rights campaign",
+    "summary": "The Human Rights Campaign is often cited by supporters to portray Joe Biden as a leading advocate for LGBTQ rights—pointing to its endorsements and praise for his executive actions and support for measures like the Equality Act to bolster his civil‑rights credibility. Critics, meanwhile, invoke HRC either to claim Biden is pandering to special interests or to highlight when HRC says his administration has fallen short on transgender protections, using that criticism to argue his policies are insufficient or inconsistent.",
+    "queries": [
+      "What effects has Joe Biden’s human rights campaign produced?"
+    ]
+  },
+  {
+    "id": "C9-8-5",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "rachel levine",
+    "wiki_title": "rachel levine",
+    "summary": "Supporters cite Rachel Levine’s appointment to Biden administration posts as evidence that he values public‑health expertise and LGBTQ+ inclusion, using her role to frame his presidency as committed to diversity and competent health policy. Critics, especially on the right, use Levine as a symbol to argue Biden prioritizes identity politics and a controversial “transgender agenda,” leveraging her visibility to attack his judgment on education, health care for minors, and pandemic guidance.",
+    "queries": [
+      "Are criticisms of Rachel Levine reasonable or not within Biden’s presidency?"
+    ]
+  },
+  {
+    "id": "C9-8-7",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "alliance defending freedom",
+    "wiki_title": "alliance defending freedom",
+    "summary": "Conservative legal group Alliance Defending Freedom is often invoked by Biden opponents to argue that his administration’s LGBTQ, reproductive-health, and nondiscrimination policies threaten religious liberty and justify broad exemptions from federal rules; conversely, Biden supporters and civil‑rights advocates point to ADF’s litigation history opposing LGBTQ and abortion rights to portray anyone aligned with the group as opposing equality and to criticize attempts to roll back Biden-era protections.",
+    "queries": [
+      "How do people view Joe Biden’s alliance defending freedom?"
+    ]
+  }
+]

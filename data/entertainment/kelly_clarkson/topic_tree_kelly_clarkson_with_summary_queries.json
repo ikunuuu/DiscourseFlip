@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Kelly Clarkson",
+    "wiki_title": "Kelly Clarkson",
+    "summary": "Kelly Clarkson is frequently invoked in public debates as proof that reality-TV can create a durable, 'authentic' star—supporters point to her vocal reputation, cross‑format success, and media presence to argue for artist empowerment and longevity, while critics use shifts in her style, label disputes, and mainstream crossover to frame arguments about commercialization, industry control of female artists, and the limits of reality‑TV credibility.",
+    "queries": [
+      "How do people view Kelly Clarkson’s role in pop culture?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "music career and industry",
+    "wiki_title": "music industry",
+    "summary": "Commentators invoke the music industry to explain and judge Kelly Clarkson’s career path—portraying her as a product of American Idol and major-label marketing when defending her commercial success, or as constrained by label decisions when arguing she’s been denied full artistic control or pigeonholed into certain genres. Debates about streaming revenue, touring economics, and gendered promotional practices are frequently used to justify calls for her greater autonomy, criticize how labels shape her image and earnings, or to frame her authenticity versus “manufactured” pop stardom.",
+    "queries": [
+      "What consequences has Kelly Clarkson’s music career and industry brought?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "american idol",
+    "wiki_title": "american idol",
+    "summary": "American Idol is often invoked to frame Kelly Clarkson as the archetypal reality-show success story—supporters point to her inaugural win and sustained mainstream career to justify her vocal credibility and the democratizing power of viewer-driven stardom, while critics dismiss the 'Idol' label to question her artistic legitimacy or label her a manufactured pop product. Her Idol origins also surface in debates about industry gatekeeping, gendered expectations of fame, and whether television talent shows produce lasting artistry.",
+    "queries": [
+      "Is Kelly Clarkson's role on American Idol reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "ryan seacrest",
+    "wiki_title": "ryan seacrest",
+    "summary": "Ryan Seacrest is often used as a benchmark of mainstream, polished TV hosting in debates about Kelly Clarkson—supporters invoke comparisons to show she can achieve equal commercial success or offer a fresh, more authentic alternative, while critics point to Seacrest’s conventional, ratings-driven persona to argue Clarkson is a poor fit for traditional daytime formats or network priorities.",
+    "queries": [
+      "What impact has ryan seacrest had on Kelly Clarkson's public image?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "paula abdul",
+    "wiki_title": "paula abdul",
+    "summary": "Paula Abdul is often invoked when discussing Kelly Clarkson to highlight contrasts between TV-crafted pop stardom and perceived artistic authenticity: supporters of talent-show pathways point to Abdul’s pop-chart and judging pedigree to legitimize Clarkson’s mainstream origins, while critics use Abdul’s glossy, choreography-driven image and judge persona to frame Clarkson as either a more genuine vocalist or as another product of the reality‑TV machine.",
+    "queries": [
+      "Is Paula Abdul's presence alongside Kelly Clarkson appropriate or not?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "randy jackson",
+    "wiki_title": "randy jackson",
+    "summary": "As a fellow original American Idol judge and industry insider, Randy Jackson is often invoked to validate Kelly Clarkson’s talent and mainstream credibility—his praise and behind-the-scenes perspective are used to support narratives of her as a legitimately launched star. Conversely, critics point to his Idol-era role to frame her as a product of the reality-TV/music-industry machine rather than an entirely independent breakout artist.",
+    "queries": [
+      "Is Randy Jackson's criticism of Kelly Clarkson justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "simon cowell",
+    "wiki_title": "simon cowell",
+    "summary": "Simon Cowell is often deployed as a foil in discussions about Kelly Clarkson—his image as a blunt, commercially driven talent arbiter is used to cast Clarkson as the warmer, artist-focused judge and to argue she offers more empathetic and musical credibility. Conversely, critics sometimes invoke Cowell’s market-oriented authority to question Clarkson’s commercial instincts or to frame her approach as less effective at creating mainstream pop stars.",
+    "queries": [
+      "What effects has Simon Cowell had on Kelly Clarkson's public image?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "rca records",
+    "wiki_title": "rca records",
+    "summary": "RCA Records is frequently cited in debates about Kelly Clarkson as the corporate gatekeeper blamed for steering her toward radio-friendly, label-approved singles and producers, with fans and critics using the label to explain periods when her creative choices seemed constrained.  At the same time, defenders point to RCA as the engine behind her mainstream success, framing the label’s marketing and A&R decisions as key to her commercial prominence rather than evidence of artistic failure.",
+    "queries": [
+      "How do people view rca records’ influence on Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "19 recordings",
+    "wiki_title": "19 recordings",
+    "summary": "Commentators and fans cite Kelly Clarkson’s 19 recordings as proof of her longevity, work ethic, and artistic range to bolster narratives that she’s a durable, influential pop star; critics use the same count to question consistency, accuse her of formulaic or commercially driven output, or to downplay her legacy in comparisons with peers.",
+    "queries": [
+      "Is Kelly Clarkson’s 19 recordings reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "atlantic records",
+    "wiki_title": "atlantic records",
+    "summary": "Clarkson’s association with Atlantic is often cited to argue she gained greater artistic freedom and a push toward a more soulful, adult-pop image—critics and fans use the label’s reputation to justify praise for her vocal credibility—while opponents frame the move as typical major-label repositioning, claiming Atlantic steered her toward safer, commercially driven material.",
+    "queries": [
+      "How do people view Atlantic Records' role in Kelly Clarkson's career?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "warner music group",
+    "wiki_title": "warner music group",
+    "summary": "Warner Music Group is often invoked in conversations about Kelly Clarkson as a stand-in for major-label power—used to credit the promotional reach and resources behind mainstream hits or to criticize corporate influence over artistic decisions, catalog ownership, and streaming compensation. Mentions of WMG in these debates typically bolster calls for stronger artist rights and transparency or, conversely, defend the commercial infrastructure that helps sustain her mainstream visibility.",
+    "queries": [
+      "How do people view Warner Music Group’s treatment of Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "record deal",
+    "wiki_title": "recording contract",
+    "summary": "Kelly Clarkson’s recording contracts are frequently used to explain or critique the gap between her commercial pop image and her artistic autonomy—critics argue label-driven song selection and marketing shaped her public output, while defenders point to contractual constraints as pragmatic business choices. Discussions of her deals also feed broader debates about artists’ rights and ownership, with supporters using her case to argue for fairer contracts and skeptics invoking them to question how much of her catalog reflects her true creative voice.",
+    "queries": [
+      "What effects has Kelly Clarkson’s record deal produced?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "masters ownership",
+    "wiki_title": "common ownership",
+    "summary": "In discussions about Kelly Clarkson’s music and business dealings, proponents of common ownership invoke the idea to argue her recordings and performance rights should be artist- or community-controlled—framing her catalog as a cultural good that deserves fairer pay and democratic stewardship. Opponents counter that collective ownership would deter industry investment and is impractical or unnecessary for high-profile artists like Clarkson who can often secure private ownership or favorable contracts.",
+    "queries": [
+      "How do people view Kelly Clarkson's masters ownership?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "chemistry (kelly clarkson album)",
+    "wiki_title": "chemistry (kelly clarkson album)",
+    "summary": "The album 'Chemistry' is often cited to portray Kelly Clarkson as a candid, confessional artist who turned her divorce and personal struggles into empowering, adult-pop songwriting; supporters use it to argue she’s authentic and emotionally evolved. Detractors invoke the same record to accuse her of commodifying private pain for publicity or to argue she’s shifting away from mainstream pop toward a niche, more mature persona.",
+    "queries": [
+      "Is chemistry (kelly clarkson album) a strong artistic evolution or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "max martin",
+    "wiki_title": "max martin",
+    "summary": "Max Martin is often invoked as the hit-making architect behind Clarkson's pop breakthrough—used by supporters to justify her commercial legitimacy and mainstream success (crediting his sleek, radio-ready songwriting for hits like \"Since U Been Gone\"), while critics use his involvement to argue she was packaged into a formulaic, producer-driven pop star and to question her artistic autonomy. Debates invoking Martin thus tend to frame Clarkson either as a savvy collaborator who gained credibility and longevity through elite pop craftsmanship or as a victim of industry homogenization that prioritizes hitmaking over individual expression.",
+    "queries": [
+      "How do people view Kelly Clarkson working with Max Martin?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "behind these hazel eyes",
+    "wiki_title": "behind these hazel eyes",
+    "summary": "Fans and commentators point to \"Behind These Hazel Eyes\" as a signature example of how Clarkson pairs confessional, emotionally resonant storytelling with radio-ready pop-rock, using it to argue for her authenticity and mainstream impact. Critics, however, cite the song's polished production and catchy hooks to frame debates that she prioritizes commercial formula over artistic experimentation, fueling discussions about her credibility as an artist.",
+    "queries": [
+      "How do people view behind these hazel eyes in Clarkson’s catalog?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "cheiron studios",
+    "wiki_title": "cheiron studios",
+    "summary": "The Cheiron Studios legacy (via Max Martin and his songwriting/production lineage) is often invoked in discussions about Kelly Clarkson to explain the polished, chart-friendly sound of her biggest hits—supporters credit that Swedish pop craft with launching her mainstream success, while critics use the Cheiron connection to argue her early music was shaped by commercial pop formulas that limited artistic control.",
+    "queries": [
+      "How do people view Kelly Clarkson’s collaborations with cheiron studios?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "power pop",
+    "wiki_title": "power pop",
+    "summary": "Invoking power pop around Kelly Clarkson frames her either as a legitimate pop-rock songwriter—emphasizing her knack for catchy hooks, vocal harmonies, and emotionally direct anthems to argue for artistic credibility and a return to guitar-driven, band-centered projects—or as evidence that her work is formulaic and overly polished, used by critics to question her authenticity and indie/rock bona fides.",
+    "queries": [
+      "Is Kelly Clarkson's use of power pop justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "dr. luke",
+    "wiki_title": "dr. luke",
+    "summary": "Dr. Luke's name is often invoked in discussions of Kelly Clarkson to question whether her pop success is shaped by hit-making industry producers or to defend her professional choices as standard practice in mainstream pop. He is also used in ethical debates—critics cite her collaborations to argue industry complicity with accused abusers, while defenders frame those collaborations as pragmatic career decisions rather than moral endorsements.",
+    "queries": [
+      "How do people view dr. luke's role in Kelly Clarkson's career?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "kesha",
+    "wiki_title": "kesha",
+    "summary": "Kesha is often invoked in conversations about Kelly Clarkson to draw contrasts between a raw, rebellious pop persona and Clarkson’s polished, powerhouse singer-songwriter image, shaping arguments about authenticity, commercialism, and artistic credibility. Kesha’s very public fight over industry abuse is also used to assess whether Clarkson is perceived as a committed ally to feminist and artist-rights causes, with commentators citing Clarkson’s responses (or lack thereof) to support praise or criticism of her social values.",
+    "queries": [
+      "Is kesha’s musical style compatible with Kelly Clarkson’s audience?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "kemosabe records",
+    "wiki_title": "kemosabe records",
+    "summary": "References to Kemosabe Records are used in debates about Kelly Clarkson to signal broader industry politics—critics point to Kemosabe-linked producers and label practices when questioning artists’ ethical choices and commercial pressures, while supporters frame any avoidance of Kemosabe-affiliated collaborators as evidence of Clarkson’s artistic independence and integrity.",
+    "queries": [
+      "What impact has kemosabe records had on Kelly Clarkson's music?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "sony music entertainment",
+    "wiki_title": "sony music",
+    "summary": "Commentators use Kelly Clarkson’s ties to Sony Music to frame debates about whether major-label backing enabled her mainstream success or constrained her artistic autonomy — citing label-driven single choices, promotion strategies, and rights/ownership issues. References to Sony usually surface in critiques of music-industry power, arguing either that the company provided necessary resources or that commercial pressures and control harmed artistic integrity and fair compensation.",
+    "queries": [
+      "Is Sony Music Entertainment’s treatment of Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "me too movement",
+    "wiki_title": "metoo movement",
+    "summary": "The #MeToo movement is often used to frame Kelly Clarkson as a pro-survivor, empowerment figure—when she comments on workplace treatment, gendered power dynamics, or misconduct her words are read as supporting accountability and solidarity with victims. At the same time, #MeToo-related debates about due process and performative allyship are sometimes marshaled by critics to question whether her public stances are nuanced or opportunistic.",
+    "queries": [
+      "How do people view the me too movement in Kelly Clarkson’s context?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "References to the Grammys are often used as shorthand for industry validation of Kelly Clarkson—her wins are cited to bolster claims about her talent, longevity, and mainstream legitimacy—while her omissions or perceived snubs are deployed to criticize the Recording Academy for genre, age, or popularity biases and to argue for reforms in how artists like her are recognized.",
+    "queries": [
+      "Are the Grammy Awards' decisions about Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "recording academy",
+    "wiki_title": "the recording academy",
+    "summary": "The Recording Academy's nominations and Grammy wins are often invoked as a measure of Kelly Clarkson’s industry legitimacy—supporters cite her awards to argue she’s a bona fide artist beyond reality‑TV origins, while critics point to snubs or category placements to claim the Academy undervalues her genre versatility and vocals, reflecting broader biases in how mainstream institutions recognize pop and crossover performers.",
+    "queries": [
+      "Is the Recording Academy’s treatment of Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "best pop vocal album",
+    "wiki_title": "grammy award for best pop vocal album",
+    "summary": "The Grammy Award for Best Pop Vocal Album is often invoked to bolster Kelly Clarkson’s mainstream legitimacy and vocal credibility—supporters point to her wins and nominations to argue she transcended her “reality-TV” origins and belongs among elite pop performers. Critics, however, use the award to question industry politics and genre labels, arguing Grammys don’t necessarily prove artistic depth or settle debates over how her work should be categorized.",
+    "queries": [
+      "How do people view Kelly Clarkson’s best pop vocal album selection?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1",
+    "level": 3,
+    "topic": "kellyoke",
+    "wiki_title": "kellyoke",
+    "summary": "Fans and commentators use \"Kellyoke\" to underscore Clarkson's versatility, vocal credibility, and approachable, fan‑centered persona—arguing it proves she honors musical influences and can handle diverse genres beyond her pop hits. Critics sometimes frame it as a publicity tool or point to frequent covers to argue she leans on nostalgia and others' material rather than spotlighting new original work.",
+    "queries": [
+      "How do people view kellyoke’s role in Kelly Clarkson’s career?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "daytime emmy awards",
+    "wiki_title": "daytime emmy awards",
+    "summary": "Daytime Emmy Awards are often cited to justify framing Kelly Clarkson as a legitimate, multi‑talented entertainer whose daytime talk show earned industry recognition, bolstering claims that she successfully transitioned from pop star to respected TV host. Critics, however, use the awards to question the cultural weight of such honors—arguing they reflect popularity or industry politics rather than artistic merit—and to frame her as emblematic of mainstream, awards‑favored celebrities.",
+    "queries": [
+      "Is Kelly Clarkson’s daytime emmy awards recognition reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "tv syndication",
+    "wiki_title": "broadcast syndication",
+    "summary": "In debates about Kelly Clarkson, broadcast syndication is invoked mainly around her daytime talk show: advocates point to its national syndication as evidence of her broad mainstream appeal and success beyond music, while critics use the syndication model to argue that commercial, ratings-driven formats can constrain her authenticity and incentivize sensationalized content over substantive moments.",
+    "queries": [
+      "How do people view tv syndication for Kelly Clarkson's show?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "variety (magazine)",
+    "wiki_title": "variety (magazine)",
+    "summary": "Variety’s reporting on Kelly Clarkson is often invoked to settle debates about her artistic credibility and commercial standing, citing reviews, chart and ratings data, and award recognition to argue she’s either a mainstream-success crossover or overly commercialized. Its feature stories and industry-focused takes also frame her TV and career moves (e.g., The Voice, her talk show, album pivots) with insider authority, amplifying praise or criticism about her marketability and professional choices.",
+    "queries": [
+      "Are Variety (magazine)'s opinions about Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "television and broadcasting",
+    "wiki_title": "broadcasting",
+    "summary": "People point to Kelly Clarkson’s prominence across television, radio and streaming broadcasts (e.g., American Idol, awards performances, and her syndicated talk show) to argue she is a mainstream, influential entertainer whose opinions and music reach mass audiences. Critics and commentators counter that broadcast-driven editing, ratings strategies and syndication can manufacture or overexpose her persona, and debates about shifting broadcast platforms are used to question her ongoing cultural relevance and negotiating power in the industry.",
+    "queries": [
+      "What impacts has television and broadcasting with Kelly Clarkson caused?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "the voice (u.s. tv series)",
+    "wiki_title": "the voice (american tv series)",
+    "summary": "As a long‑time coach on The Voice, Clarkson is often framed as a warm, relatable mentor whose TV role is used to justify her mainstream appeal and continued relevance beyond recording music. Opponents and critics, however, cite her on‑air theatrics, perceived favoritism, and makeover‑style coaching as evidence she has embraced television celebrity at the expense of artistic authenticity.",
+    "queries": [
+      "Is Kelly Clarkson's involvement in the voice (u.s. tv series) justified?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "john legend",
+    "wiki_title": "john legend",
+    "summary": "John Legend is often invoked in conversations about Kelly Clarkson as a benchmark of soulful credibility and crossover artistry—supporters point to his reputation to bolster claims that Clarkson is a serious, respected vocalist. Conversely, critics contrast Legend’s R&B/soul image with Clarkson’s pop-oriented persona to frame her as more commercial than artistically pure.",
+    "queries": [
+      "Is john legend's collaboration with Kelly Clarkson beneficial or not?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "gwen stefani",
+    "wiki_title": "gwen stefani",
+    "summary": "Gwen Stefani is often invoked as a peer or foil to frame Kelly Clarkson’s public image—fans and commentators contrast Stefani’s glamorous pop‑star persona with Clarkson’s down‑to‑earth authenticity and powerhouse vocals. Those comparisons are used to defend Clarkson as more relatable and vocally credible or to argue she lacks Stefani’s pop‑style edge, especially in debates about coaching style and mainstream appeal.",
+    "queries": [
+      "Is Gwen Stefani's influence comparable to Kelly Clarkson's?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "carson daly",
+    "wiki_title": "carson daly",
+    "summary": "As a high-profile NBC colleague and fellow Voice/TODAY presence, Carson Daly is often invoked in media coverage to legitimize Kelly Clarkson’s mainstream TV credentials—supporters point to his friendly interviews and public praise to bolster her professionalism and appeal, while critics argue his industry-friendly framing can soften or obscure sharper critiques of her behavior or creative choices.",
+    "queries": [
+      "Is carson daly's presence alongside Kelly Clarkson appropriate or not?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "television ratings",
+    "wiki_title": "television ratings",
+    "summary": "Media outlets, networks, and advertisers point to television ratings for shows like The Kelly Clarkson Show and her runs on The Voice to argue for her continued relevance, justify renewals, salary and ad deals, or to claim she commands a broad, family-friendly audience; conversely, falling ratings or unfavorable demographic breakdowns are used by critics to argue she’s losing mainstream appeal or isn’t the right fit for certain time slots or brand partnerships.",
+    "queries": [
+      "What consequences have television ratings had for Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "nbc",
+    "wiki_title": "nbc",
+    "summary": "NBC is frequently invoked to frame Kelly Clarkson as a mainstream, mainstream-TV-success story — her high-profile roles on NBC programs (e.g., The Voice) and NBCUniversal-backed distribution of her talk show are used to justify her crossover appeal, family-friendly brand, and credibility as a TV personality. Critics use NBC’s promotional power to argue the network sanitizes or commercializes her image, pointing to editorial choices and heavy exposure as reasons to question how authentically the public sees her as an artist.",
+    "queries": [
+      "Is nbc’s portrayal of Kelly Clarkson fair or not?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "peacock",
+    "wiki_title": "peafowl",
+    "summary": "Peacock/peafowl imagery is used in commentary about Kelly Clarkson to characterize her stage presence and fashion—supporters cast her showy outfits and powerful performances as confident, empowering flair, while critics use the peacock metaphor to suggest vanity or self-promotion. This framing typically appears in pop-culture reviews and fan debates about her public persona and branding rather than in policy arguments.",
+    "queries": [
+      "What consequences has Kelly Clarkson's Peacock partnership had?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "today",
+    "wiki_title": "today",
+    "summary": "Invoking “today” in coverage of Kelly Clarkson is used to foreground her current relevance and public persona—phrases like “today’s Kelly Clarkson” steer debates about whether she’s an evolving, multi‑platform entertainer or has drifted from her musical roots, supporting praise for reinvention or critiques of career change. Media and fans also use “today” to timestamp announcements and appearances, shaping immediate judgments about her priorities, authenticity, and cultural impact.",
+    "queries": [
+      "What impacts has Kelly Clarkson today had on her career?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "daytime television",
+    "wiki_title": "daytime television",
+    "summary": "References to daytime television frame Kelly Clarkson’s move from pop star to talk-show host as a mainstream, family-friendly reinvention that expands her influence with largely female, daytime audiences and supports narratives of relatability and celebrity entrepreneurship. Critics, meanwhile, use the daytime-TV label to question the depth or seriousness of her platform, portraying her show as shaped by commercialized, sentimental programming norms rather than hard-hitting cultural influence.",
+    "queries": [
+      "Is Kelly Clarkson’s move to daytime television reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "ellen degeneres",
+    "wiki_title": "ellen degeneres",
+    "summary": "Ellen DeGeneres is often used as a foil in conversations about Kelly Clarkson’s public persona and hosting style: fans and commentators cast Clarkson as a more genuine, down-to-earth alternative to Ellen’s post-scandal reputation to praise Clarkson’s warmth and ethical leadership, while critics warn that such comparisons can oversimplify or weaponize ‘kindness’ narratives and distract from broader workplace and industry issues.",
+    "queries": [
+      "Is Ellen DeGeneres's conduct toward Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "talk show host",
+    "wiki_title": "list of talk show hosts",
+    "summary": "Curated lists of talk show hosts are used to position Kelly Clarkson within the daytime-TV landscape—supporters cite her inclusion alongside established hosts to argue she successfully transitioned from singer to credible, empathetic presenter, while critics invoke comparisons with more sensational or controversial hosts to question her editorial choices and whether her show prioritizes ratings over substance. Her placement on such lists also fuels debates about representation, awards/renewals, and perceived gendered double standards in how hosts are evaluated by networks and the public.",
+    "queries": [
+      "What consequences has Kelly Clarkson's talk show host role caused?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "nielsen ratings",
+    "wiki_title": "nielsen media research",
+    "summary": "Nielsen ratings are cited in debates about Kelly Clarkson to prove or disprove her mainstream TV appeal—high Nielsen numbers are used to justify renewals, advertising dollars, and claims she remains a ratings draw, while declines are invoked by critics to argue waning relevance or poor programming decisions. Commentators also contrast Nielsen viewership with social-streaming metrics to support different interpretations of her commercial impact and audience demographics.",
+    "queries": [
+      "Are Nielsen ratings a fair measure for Kelly Clarkson’s viewership?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "blake shelton",
+    "wiki_title": "blake shelton",
+    "summary": "Blake Shelton is frequently used as a foil in debates about Kelly Clarkson—commentators and fans compare his long-running country-coach persona and perceived network favoritism to critique or bolster views of her coaching style, genre authenticity, and influence on The Voice. Such comparisons are also deployed to argue about gendered double standards and whether Clarkson received equal support or credit from producers and audiences.",
+    "queries": [
+      "Is Blake Shelton’s relationship with Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "adam levine",
+    "wiki_title": "adam levine",
+    "summary": "Adam Levine is often invoked as a foil in discussions about Kelly Clarkson, with commentators and fans using his pop‑star, industry‑savvy image to highlight tensions between marketability and the empathetic, artist‑first coaching style Clarkson is praised for. Supporters of Levine sometimes counter by citing his commercial success to challenge claims that Clarkson’s approach is more effective or valuable in the music business.",
+    "queries": [
+      "Are Adam Levine’s comments about Kelly Clarkson justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "miranda lambert",
+    "wiki_title": "miranda lambert",
+    "summary": "Miranda Lambert is often invoked as a benchmark of country authenticity in debates about Kelly Clarkson—critics use Lambert’s strong country credentials to question Clarkson’s country bona fides when she crosses genres, while supporters point to Lambert’s own crossover collaborations to legitimize Clarkson’s stylistic versatility. In short, Lambert’s stature is used both to criticize Clarkson’s ‘country’ credibility and to justify praise for her genre-blending and vocal legitimacy.",
+    "queries": [
+      "Is Miranda Lambert’s musical crossover comparable to Kelly Clarkson’s?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "justin guarini",
+    "wiki_title": "justin guarini",
+    "summary": "Justin Guarini is commonly invoked as Kelly Clarkson’s original American Idol rival to frame debates about her legitimacy and enduring success, with comparisons of their post‑Idol careers used to celebrate Clarkson as the contest’s definitive success story. Commentators also use Guarini’s more modest commercial arc to argue about talent versus industry support, reinforcing narratives of Clarkson’s authenticity, work ethic, and cultural impact.",
+    "queries": [
+      "Is Justin Guarini's presence on Kelly Clarkson's show justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "popular culture",
+    "wiki_title": "popular culture",
+    "summary": "In public debates, popular culture frames Kelly Clarkson as a quintessential mainstream pop figure—an American Idol success story whose mass-media visibility and chart hits are cited to justify her broad influence, relatability, and status as a role model for working-class or feminist audiences. Conversely, critics invoke pop-culture tropes of commercialization and manufactured stardom to question her artistic credibility and accuse industry marketing of shaping her image, while conversations about authenticity, body image, and media representation use these popular-culture arguments to defend or challenge her choices.",
+    "queries": [
+      "How do people view Kelly Clarkson’s role in popular culture?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "breakaway",
+    "wiki_title": "breakaway",
+    "summary": "The Breakaway era is routinely cited to frame Kelly Clarkson’s shift from American Idol contestant to a mainstream, Grammy-winning pop artist, used by supporters to justify claims of artistic growth, vocal maturity, and feminist-empowerment credentials. Opponents or skeptics invoke Breakaway to argue she moved toward polished, industry-driven pop—fueling debates about authenticity, commercial compromise, and the music industry’s shaping of female stars.",
+    "queries": [
+      "Is Kelly Clarkson's breakaway reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "miss independent",
+    "wiki_title": "miss independent",
+    "summary": "The song 'Miss Independent' is often used to frame Kelly Clarkson as a self-reliant, empowered pop figure—invoked by supporters as proof of her feminist persona and artistic agency after American Idol, and by skeptics as evidence of an industry-crafted image. Public debates about the track thus both bolster her role-model status for female autonomy and fuel critiques that her independence was packaged by labels rather than purely organic.",
+    "queries": [
+      "Is miss independent's message from Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "since u been gone",
+    "wiki_title": "since u been gone",
+    "summary": "Fans and commentators invoke \"Since U Been Gone\" as the definitive Kelly Clarkson moment to justify narratives of her as a powerhouse pop-rock vocalist and mainstream hitmaker, using it to argue for her cultural impact and commercial credibility; conversely, critics cite the song to frame her as typecast into radio-friendly breakup anthems and to question her artistic evolution and authenticity.",
+    "queries": [
+      "What impact has 'since u been gone' had on Kelly Clarkson's popularity?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "billboard hot 100",
+    "wiki_title": "billboard hot 100",
+    "summary": "The Billboard Hot 100 is frequently cited in public debates about Kelly Clarkson’s career: supporters point to her Hot 100 hits to defend her status as a mainstream hitmaker and legacy artist, while critics highlight low or absent chart placements to argue she’s less relevant today. Commentators also invoke Hot 100 metrics (radio vs. streaming) to contend the chart may over- or under-represent her adult‑contemporary audience, shaping arguments about promotion, fairness, and how best to measure her impact.",
+    "queries": [
+      "Is Kelly Clarkson’s presence on the billboard hot 100 justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "glee (tv series)",
+    "wiki_title": "glee (tv series)",
+    "summary": "References to the TV series Glee are often used in discussions of Kelly Clarkson to argue that her songs are broadly adaptable, choir-friendly pop anthems that bolster her image as a mainstream, empowerment-oriented artist; conversely, critics invoke a \"Glee-ified\" reading to suggest her music can be sanitized and flattened when removed from her raw vocal style and personal authenticity.",
+    "queries": [
+      "How do people view glee (tv series) covers of Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "pop rock",
+    "wiki_title": "pop rock",
+    "summary": "Calling Kelly Clarkson a pop-rock artist frames her as a radio-friendly, commercially successful crossover whose polished songwriting and production legitimize her mainstream appeal and award recognition. At the same time critics use the pop-rock label to challenge her rock authenticity, portraying her as overly polished or manufactured compared with ‘true’ rock artists and arguing this affects genre credibility and category placement.",
+    "queries": [
+      "How do people view pop rock in Kelly Clarkson’s music?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "carrie underwood",
+    "wiki_title": "carrie underwood",
+    "summary": "Carrie Underwood is frequently used as a benchmark in discussions about Kelly Clarkson’s stature and genre credibility—critics invoke Underwood’s country dominance and awards to question Clarkson’s country forays or to portray her as less 'authentic' to that market, while defenders contrast Underwood’s country-focused image with Clarkson’s pop-soul versatility to argue Clarkson is equally or more broadly successful and artistically versatile. These comparisons shape narratives about which post‑Idol path is more legitimate, who represents female commercial success in country versus pop, and who deserves cultural authority or industry recognition.",
+    "queries": [
+      "How do people view carrie underwood’s musical evolution?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "country pop",
+    "wiki_title": "country pop",
+    "summary": "Commentators invoke “country pop” when talking about Clarkson’s country-tinged songs and collaborations (e.g., her duet with Jason Aldean) to frame her either as a versatile crossover who expands country’s audience or as a pop star who waters down country authenticity; the label is also used strategically in debates over marketing, radio formats, and award/genre credibility for her work.",
+    "queries": [
+      "Is Kelly Clarkson’s country pop direction reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "cma awards",
+    "wiki_title": "country music association awards",
+    "summary": "Mentions of the Country Music Association Awards are often used to measure Kelly Clarkson’s acceptance into the country world—supporters point to her CMA appearances and collaborations with country artists as evidence of legitimate crossover success. Conversely, critics cite her CMA spotlight to argue that mainstream pop influence is being elevated for ratings, fueling debates about authenticity, commercialism, and genre gatekeeping.",
+    "queries": [
+      "How do people view Kelly Clarkson's cma awards performances?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "billboard charts",
+    "wiki_title": "billboard charts",
+    "summary": "Billboard chart performance is regularly invoked to prove or contest Kelly Clarkson’s commercial standing and legacy—supporters point to high album peaks, chart‑topping singles and long chart runs to justify awards, credibility, and continued relevance, while critics highlight a relative paucity of recent Hot 100 pop hits to argue she’s shifted toward adult‑contemporary or lost mainstream clout. Genre‑specific placements and disputes over streaming versus radio airplay are also used to shape attitudes about her marketability and whether industry gatekeepers (playlists, radio formats) should prioritize her work.",
+    "queries": [
+      "What effects have Kelly Clarkson's billboard charts placements had?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "telepictures",
+    "wiki_title": "telepictures",
+    "summary": "As the corporate producer behind Kelly Clarkson’s daytime talk show, Telepictures is frequently invoked in debates about how her public image is curated—supporters credit the company’s production choices and high-profile bookings for polishing her relatable, mainstream persona, while critics argue its commercial priorities sanitize controversies and prioritize ratings over authenticity.",
+    "queries": [
+      "How do people view telepictures' handling of Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "personal life and relationships",
+    "wiki_title": "personal relationships of elvis presley",
+    "summary": "Commentators sometimes invoke Elvis Presley’s high‑profile relationships as a historical parallel when discussing Kelly Clarkson’s public divorce and custody battle, using it to argue that fame and the music industry strain personal life and to justify sympathy for her choices. It’s also used in debates about media double standards—contrasting Presley’s romanticized treatment as a male icon with the harsher scrutiny women like Clarkson face to criticize biased coverage of celebrity relationships.",
+    "queries": [
+      "Is scrutiny of Kelly Clarkson's personal life and relationships justified?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "brandon blackstock",
+    "wiki_title": "shelby blackstock",
+    "summary": "Shelby Blackstock, by virtue of sharing the Blackstock name, is sometimes invoked in media and online discussion about Kelly Clarkson to stand in for the wider Blackstock family surrounding her marriage and divorce. References to him are typically used to frame debates about celebrity privacy and family dynamics—either to defend Clarkson against tabloid scrutiny or to criticize perceived family opportunism during her public legal disputes.",
+    "queries": [
+      "How do people view brandon blackstock's public involvement with Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "divorce",
+    "wiki_title": "divorce",
+    "summary": "In public discussions of Kelly Clarkson, divorce is often invoked to portray her as a high-profile working mother navigating custody, spousal support and privacy under intense media scrutiny, reinforcing narratives of resilience and boundary-setting. Critics and commentators meanwhile use her divorce to question celebrity privilege and the fairness of divorce outcomes, feeding debates about family-law treatment of public figures and gendered expectations.",
+    "queries": [
+      "What consequences has Kelly Clarkson's divorce caused?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "narvel blackstock",
+    "wiki_title": "narvel",
+    "summary": "References to Narvel (i.e., Narvel Blackstock and his family) crop up in coverage of Kelly Clarkson’s marriage and divorce, used to frame her as either a sympathetic victim of in‑law financial/managerial pressure or as someone whose personal choices invited scrutiny. Those invocations tend to support narratives calling for sympathy and contractual transparency on Clarkson’s behalf, or conversely to justify criticism of her judgment in marrying into a music‑industry family.",
+    "queries": [
+      "Are Narvel Blackstock’s actions related to Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "spousal support",
+    "wiki_title": "alimony",
+    "summary": "Alimony figures prominently in public debates around Kelly Clarkson’s divorce, deployed to portray her either as being hit with excessive financial demands or as a wealthy celebrity resisting rightful support; it fuels broader arguments about prenups, celebrity privilege, fairness in high‑profile separations, and gendered expectations of financial responsibility.",
+    "queries": [
+      "Is Kelly Clarkson's spousal support arrangement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "child custody",
+    "wiki_title": "child custody",
+    "summary": "In coverage of Kelly Clarkson's divorce, child custody disputes have been used to portray her as a protective, career-conscious mother whose legal choices were framed as prioritizing her children’s stability, garnering public sympathy and support for her actions. Conversely, critics have pointed to the high-profile custody fight as an example of celebrity privilege in family courts and used it to question whether her legal strategy served personal or public interests versus her children’s best interests.",
+    "queries": [
+      "How do people view Kelly Clarkson’s child custody situation?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "child support",
+    "wiki_title": "child support",
+    "summary": "Disputes over child support in Kelly Clarkson’s widely publicized divorce and custody fight are invoked by media, critics, and fans to portray her either as a wealthy parent rightly responsible for her children’s needs or as a target of alleged financial opportunism by an ex‑partner. These arguments are used to justify calls for stricter enforcement of parental obligations in celebrity cases or, conversely, to criticize the perceived weaponization of support and spousal claims in high‑value separations.",
+    "queries": [
+      "How do people view child support in Kelly Clarkson’s custody situation?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "los angeles county superior court",
+    "wiki_title": "los angeles county superior court",
+    "summary": "When Kelly Clarkson’s divorce and custody filings were handled in the Los Angeles County Superior Court, journalists and commentators repeatedly cited the court records and rulings to bolster competing narratives about her parenting, finances, and character — supporters pointing to filings to depict her as seeking fair treatment and critics using the same documents to question her motives or decisions. The court’s involvement supplies legal weight and perceived neutrality to those debates, turning private disputes into documentary evidence that shapes public opinion about her.",
+    "queries": [
+      "Is the los angeles county superior court handling Kelly Clarkson reasonably?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "joint custody",
+    "wiki_title": "joint custody",
+    "summary": "In coverage of Kelly Clarkson’s divorce, joint custody is invoked to frame debates about what parenting arrangement best serves her children versus what outcomes are realistic in high-profile splits. Supporters present joint custody as promoting stability and fairness, while critics use the custody question to argue for limiting the other parent’s access or to critique perceived advantages celebrities have in settlements.",
+    "queries": [
+      "What consequences has Kelly Clarkson's joint custody caused?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "prenuptial agreement",
+    "wiki_title": "prenuptial agreement",
+    "summary": "In media and public debate about Kelly Clarkson’s divorce, prenuptial agreements are often invoked to explain and justify settlement outcomes and to portray her as financially prudent and business‑savvy. They also fuel critiques about power imbalances in celebrity marriages—framing prenups as either protection for a high‑earning partner (and therefore potentially cold or unfair) or as sensible financial autonomy that normalizes protection for women in high‑asset relationships.",
+    "queries": [
+      "What effects has Kelly Clarkson's prenuptial agreement had?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "motherhood",
+    "wiki_title": "mother",
+    "summary": "Clarkson’s role as a mother is frequently invoked to portray her as relatable, grounded, and emotionally authentic—supporting narratives that justify family-oriented career choices (TV hosting, reduced touring) and giving resonance to songs and on-air parenting conversations. Critics and opponents sometimes use her motherhood to question her professional ambition or accuse her of leveraging a maternal image for branding or to deflect scrutiny in personal disputes such as her divorce and custody battles.",
+    "queries": [
+      "How do people view Kelly Clarkson’s motherhood?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "river rose",
+    "wiki_title": "river rose and the magical christmas",
+    "summary": "The children's book River Rose and the Magical Christmas is frequently used to frame Kelly Clarkson as a family-focused, wholesome celebrity who successfully extends her brand into kid-friendly media, supporting narratives of relatability and versatility; opponents seize on it to argue she is commercializing her child and trading on motherhood for profit, fueling debates about celebrity authenticity and the ethics of monetizing family life.",
+    "queries": [
+      "What effects has River Rose had on Kelly Clarkson's public image?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "co-parenting",
+    "wiki_title": "coparenting",
+    "summary": "References to co-parenting in coverage of Kelly Clarkson are used to evaluate her post-divorce choices, with supporters framing her as a devoted mother who balances career demands while protecting her children’s stability and critics arguing that her decisions complicate equitable parenting arrangements. Discussion of co-parenting also colors public debates about her custody and financial disputes, shaping judgments of her character, responsibility, and suitability as a role model for modern family arrangements.",
+    "queries": [
+      "How do people view co-parenting in Kelly Clarkson's situation?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "social media and fans",
+    "wiki_title": "social media",
+    "summary": "On social media, fans and influencers amplify Kelly Clarkson’s performances, personality, and promotional campaigns (streaming pushes, trending hashtags, defensive fandom) to build her image as relatable and talented, while critics and gossip accounts use the same platforms to highlight missteps or controversies, producing polarized narratives; algorithms and viral formats often reward sensational clips, shaping public opinion and prompting debates over moderation, fandom mobilization, and celebrity accountability.",
+    "queries": [
+      "How do people view Kelly Clarkson's social media and fans interactions?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "twitter/x",
+    "wiki_title": "twitter",
+    "summary": "On Twitter/X, fans, critics, and media quickly amplify clips, reactions, and commentary about Kelly Clarkson’s music, TV appearances, and personal life, helping to frame her as either relatable and beloved or controversial and scrutinized. The platform fuels both supportive mobilization (praise, viral fandom) and hostile critique or trolling, shaping headlines and public debates about her authenticity, professionalism, and privacy.",
+    "queries": [
+      "What impacts has Kelly Clarkson's twitter/x presence caused?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "body positivity",
+    "wiki_title": "body positivity",
+    "summary": "In public debates about Kelly Clarkson, body positivity is invoked to defend her from media and fan scrutiny—portraying her wardrobe choices, weight changes, and candidness as expressions of self‑acceptance and resistance to diet culture. Opponents, however, use concerns about health, professionalism, or image to challenge that framing and continue policing her body.",
+    "queries": [
+      "How do people view Kelly Clarkson's body positivity?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok amplifies short clips of Kelly Clarkson’s performances, talk-show bits, and song snippets to drive viral renewed interest in her music and portray her as relatable and authentic to younger audiences; at the same time its remix-and-clip culture can magnify taken‑out‑of‑context moments or appearance/ageist criticisms, fueling polarized online debates and mobilizing both defenders (fan campaigns to boost streams) and critics.",
+    "queries": [
+      "What consequences has TikTok brought for Kelly Clarkson’s public image?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "because of you",
+    "wiki_title": "because of you",
+    "summary": "The song \"Because of You\" is frequently invoked in public discussions about Kelly Clarkson to emphasize her emotional authenticity and songwriting credibility—fans and commentators point to its intimate, autobiographical tone and vocal intensity as evidence she outgrew her reality‑TV origins and is a serious artist. Detractors, however, sometimes use the track to frame her as primarily a mainstream balladeer, arguing it reinforces a safe, sentimental image rather than a risk‑taking, genre‑defying musician.",
+    "queries": [
+      "Is Kelly Clarkson's 'because of you' relatable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "instagram",
+    "wiki_title": "instagram",
+    "summary": "Kelly Clarkson’s Instagram is often treated as the primary source for shaping her public image—her behind-the-scenes photos, family moments and promotional posts are used by supporters to frame her as authentic and relatable and by media to rebut tabloid narratives. At the same time the same posts and comment threads are weaponized by critics or trolls to attack her appearance, choices, or statements, so the platform both humanizes her and amplifies controversies about her personal and professional life.",
+    "queries": [
+      "Is Kelly Clarkson’s Instagram content reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "people magazine",
+    "wiki_title": "people (magazine)",
+    "summary": "People often frames Kelly Clarkson through human-interest and career-milestone coverage—highlighting her talent, motherhood, personal resilience, and mainstream appeal—which steers public debate toward sympathy, relatability, and celebrity-success narratives. By privileging interviews, quotes, and lifestyle angles, it tends to reinforce an image of Clarkson as an authentic, empowered figure while sidelining deeper industry or artistic critiques.",
+    "queries": [
+      "How do audiences view People magazine's coverage of Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "tmz",
+    "wiki_title": "tmz",
+    "summary": "TMZ frequently surfaces and amplifies sensational details about Kelly Clarkson’s personal life and career (e.g., divorce, custody disputes, on‑air controversies), framing stories as conflict or scandal; its tabloid framing is often cited in public debates to justify quick criticism or to inflame sympathy depending on the angle, shaping instant popular perceptions more than nuanced discussion.",
+    "queries": [
+      "How do people view tmz’s reporting about Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "reddit",
+    "wiki_title": "reddit",
+    "summary": "On Reddit, fans and critics trade clips, reviews and hot takes that frame Kelly Clarkson as either an authentic, relatable pop-star and outspoken female role model or as a product of the music/TV industry, with upvoted threads amplifying praise for her vocals and personality while downvoted threads highlight perceived industry favoritism or media missteps. Subreddit activity also organizes streaming/support campaigns and rapid critique or conspiracy-style threads, so Reddit visibility often intensifies public perceptions and short-term controversies around her.",
+    "queries": [
+      "How do people view reddit discussions about Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "fan fiction",
+    "wiki_title": "fan fiction",
+    "summary": "Fan fiction about Kelly Clarkson often recasts her public persona into romanticized or alternate-life narratives that strengthen parasocial bonds and mobilize fan defenses against negative media portrayals. Critics use such stories to argue they can invade privacy, contribute to objectification, and highlight tensions over celebrity consent and the boundaries of fan creativity.",
+    "queries": [
+      "What effects has fan fiction about Kelly Clarkson had?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In debates about Kelly Clarkson, claims about \"cancel culture\" are often deployed by her supporters to cast social-media backlash or calls for punishment over her comments or creative decisions as unfair mobbing that threatens her career and free expression; conversely, detractors use the term to dismiss such defenses and argue that public criticism or boycotts are legitimate forms of accountability rather than unjust cancellation.",
+    "queries": [
+      "Is cancel culture targeting Kelly Clarkson justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "fox",
+    "wiki_title": "fox",
+    "summary": "Commentators and fans sometimes use “fox” as a compliment to emphasize Kelly Clarkson’s attractiveness and stage charisma, reinforcing narratives that visual appeal contributes to her popularity; conversely, calling her a “sly fox” appears in criticism to frame her as strategically shrewd or overly calculated in career and branding decisions, feeding debates about authenticity versus image management.",
+    "queries": [
+      "What impact has Fox had on Kelly Clarkson’s career?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "a moment like this",
+    "wiki_title": "a moment like this",
+    "summary": "The song \"A Moment Like This\" is often invoked as the origin myth that legitimizes Kelly Clarkson — used by fans and media to portray her as an emotional, authentic breakout star and proof of American Idol’s ability to create mainstream success. Critics and skeptics, however, cite the song’s manufactured balladry to argue she initially fit an industry-imposed mold, using it to contrast with her later, more assertive work and to question how much her early image was shaped by the show and labels.",
+    "queries": [
+      "Is Kelly Clarkson’s a moment like this reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "simon fuller",
+    "wiki_title": "simon fuller",
+    "summary": "Simon Fuller is often invoked in discussions of Kelly Clarkson as the archetypal 'Idol' impresario whose creation and industry machinery are used to explain her rapid mainstream launch and commercial polish; supporters cite that link to credit the show’s infrastructure for her success. Critics likewise use Fuller as shorthand for the manufactured pop system that supposedly constrained her artistic autonomy, framing debates about authenticity versus industry-driven branding and career control.",
+    "queries": [
+      "What impact has Simon Fuller had on Kelly Clarkson’s public image?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "business and branding",
+    "wiki_title": "business",
+    "summary": "Public discussion of 'business' around Kelly Clarkson frames her career moves—record deals, TV hosting, endorsements and brand partnerships—as strategic entrepreneurship that supports narratives of artist empowerment, fair compensation and ownership. Conversely, opponents invoke business logic to criticize perceived commercialization or justify corporate control of music, using economic pragmatism to question her artistic authenticity.",
+    "queries": [
+      "What effects has Kelly Clarkson's business and branding had?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "nbcuniversal",
+    "wiki_title": "nbcuniversal",
+    "summary": "NBCUniversal is often cited as the corporate platform that elevated and legitimized Kelly Clarkson’s TV career—supporters credit the network’s promotion of her roles on The Voice and her syndicated talk show for expanding her mainstream appeal, while critics invoke NBCUniversal to argue her persona has been commercialized or constrained by network branding and corporate interests.",
+    "queries": [
+      "Is nbcuniversal’s treatment of Kelly Clarkson reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "music royalties",
+    "wiki_title": "music royalties",
+    "summary": "Music royalties are invoked in conversations about Kelly Clarkson to frame her financial and artistic standing—commentators cite songwriting, performance, streaming and sync income to argue either that she’s a well-compensated, savvy artist or that the streaming era and industry contracts shortchange performers. These appeals tend to support pro-artist positions emphasizing ownership and fair pay, while critics or industry defenders use royalty figures to question her commercial choices and to debate the economics of mainstream pop success.",
+    "queries": [
+      "What impact do Kelly Clarkson's music royalties have on artists?"
+    ]
+  },
+  {
+    "id": "C8-5-1",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "ascap",
+    "wiki_title": "ascap boycott",
+    "summary": "References to an ASCAP boycott are invoked in arguments about Kelly Clarkson to signal whether she is aligned with songwriter/performers fighting for fair royalties or with industry/licensing interests; supporters cite any sympathy or participation in boycotts as evidence she champions artists’ pay, while opponents use her absence or cooperation with licensing groups to criticize her priorities. As a framing device it’s used to press her to take public stances on royalty reform and industry labor disputes or to question her credibility as an advocate for songwriters.",
+    "queries": [
+      "How do people view ASCAP’s influence on Kelly Clarkson’s music?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "soundexchange",
+    "wiki_title": "soundexchange",
+    "summary": "In discussions about Kelly Clarkson’s earnings from streaming and digital radio, journalists and advocates cite SoundExchange payout data to argue that major recording artists deserve stronger digital-performance royalties. Critics counter that SoundExchange’s distribution rules and licensing framework often advantage labels and rights‑holders over individual performers, used to downplay claims about how much Clarkson personally benefits from digital plays.",
+    "queries": [
+      "How do people view soundexchange's role in Kelly Clarkson's earnings?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "spotify",
+    "wiki_title": "spotify",
+    "summary": "People use Kelly Clarkson’s Spotify streaming numbers and playlist placements as evidence of her continued popularity and commercial relevance, while critics invoke Spotify’s royalty model and algorithmic curation to argue that streaming underpays or unfairly gatekeeps established artists like her.",
+    "queries": [
+      "How do people view Kelly Clarkson on spotify?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "music publishing",
+    "wiki_title": "music publisher",
+    "summary": "Discussions of Kelly Clarkson often invoke music publishers to explain who controls and profits from the songs she records or licenses (affecting royalties from hits, covers and sync deals for her TV and commercials) and to interpret disputes over songwriting credits or catalog control. Critics use publishers to argue the industry skews revenue away from artists and writers, while supporters point to publishers’ role in securing placements and reliable royalty collection that boost Clarkson’s exposure and income.",
+    "queries": [
+      "Is Kelly Clarkson's music publishing strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "mechanical royalties",
+    "wiki_title": "royalty payment",
+    "summary": "Discussions of royalty payments are used to argue for or against how fairly Kelly Clarkson — as a recording and songwriting artist — is compensated by labels, streaming services, and sync/licensing deals, shaping whether she is portrayed as underpaid or savvy in business. They also fuel broader calls for copyright and streaming-reform policies when commentators cite her earnings (or lack thereof) as emblematic of artist treatment in the music industry.",
+    "queries": [
+      "Are Kelly Clarkson's mechanical royalties reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "music modernization act",
+    "wiki_title": "music modernization act",
+    "summary": "The Music Modernization Act is cited in debates about Kelly Clarkson to frame whether streaming-era royalty reforms adequately protect high-profile artists and songwriters like her—supporters use it to argue she now receives clearer, fairer mechanical payments for digital streams and licensed covers, while critics invoke it to claim the law still favors major labels and industry insiders over smaller creators, portraying Clarkson as either a beneficiary of necessary reform or as aligned with entrenched music-industry interests.",
+    "queries": [
+      "How do people view the Music Modernization Act’s impact on Kelly Clarkson?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube is the main forum where Kelly Clarkson’s live performances, talk-show moments, and fan covers are amplified into narratives that emphasize her vocal talent, relatability, and broad fan support, often through viral clips and reaction videos. At the same time, algorithmic promotion, monetization/copyright disputes, and out-of-context uploads on the platform are frequently invoked in criticisms that reshape or politicize her public image and media coverage.",
+    "queries": [
+      "Is Kelly Clarkson's youtube presence justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "vevo",
+    "wiki_title": "vevo",
+    "summary": "Vevo's hosting of Kelly Clarkson's official videos and view metrics is frequently used as a shorthand for her commercial relevance—supporters highlight high premiere views and polished Vevo/live performance uploads to argue she remains a major, influential artist, while critics point to lower viewcounts or limited Vevo promotion to claim declining mainstream appeal or label/streaming-era neglect.",
+    "queries": [
+      "Is Kelly Clarkson’s use of Vevo effective or not?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "reaction videos",
+    "wiki_title": "reaction video",
+    "summary": "Reaction videos of Kelly Clarkson’s performances, interviews, or talk-show moments are often used to amplify narratives about her vocal prowess and relatable authenticity or, alternatively, to spotlight mistakes or perceived abrasiveness; creators use these clips to bolster fandom and defend her artistry or to criticize her TV persona and career choices, shaping public debate about her relevance and character.",
+    "queries": [
+      "What effects have Kelly Clarkson's reaction videos had?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "content id",
+    "wiki_title": "content id",
+    "summary": "Content ID systems come up in debates about Kelly Clarkson when clips of her performances, studio tracks, or fan covers are flagged or monetized; proponents frame these tools as necessary to protect her copyright and ensure she (and her label) get paid, while critics use Content ID as evidence that digital rights enforcement can overreach—silencing fan creativity and fair use and painting Clarkson either as a beneficiary of rightful compensation or as part of restrictive industry policing.",
+    "queries": [
+      "Is Kelly Clarkson's content id justified or not?"
+    ]
+  }
+]

@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "John Cena",
+    "wiki_title": "John Cena",
+    "summary": "John Cena is frequently invoked in public debates as the archetypal WWE-era franchise star—supporters point to his work ethic, mainstream crossover and charitable persona to justify WWE’s celebrity-driven booking and family-friendly direction, while critics use him to argue that corporate favoritism and overexposure harmed creative variety and blocked other talent; he’s also a meme-friendly symbol in broader conversations about modern masculinity and the wrestler-to-Hollywood career path.",
+    "queries": [
+      "Is John Cena's celebrity activism justified or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "professional wrestling",
+    "wiki_title": "professional wrestling",
+    "summary": "Professional wrestling is invoked to legitimize John Cena’s fame and crossover success—supporters point to his WWE career, character work, and mass appeal to justify his acting roles, merchandising, and charitable prominence. Conversely, critics use wrestling’s scripted, promotional nature to argue Cena’s clean-cut, corporate persona is manufactured and inauthentic, framing debates about his artistic credibility and cultural significance.",
+    "queries": [
+      "How do fans view John Cena’s professional wrestling persona?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "wwe",
+    "wiki_title": "wwe",
+    "summary": "WWE is routinely invoked to cast John Cena as the company’s flagship, family‑friendly star—supporters point to WWE’s marketing, booking and cross‑media promotion to explain his mainstream fame and charitable image, while critics use WWE’s creative control and ‘company man’ reputation to argue his persona, pushing to Hollywood, and perceived overexposure are corporate constructions rather than purely individual achievements.",
+    "queries": [
+      "Is John Cena’s role in WWE still justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "roman reigns",
+    "wiki_title": "roman reigns",
+    "summary": "Roman Reigns is often invoked in discussions about John Cena as a foil—used to argue that Cena’s old-school, heavily pushed ‘face of the company’ image was overexposed or outmoded, while Reigns’ long-term booking and heel work are presented as evidence of a more subtly crafted, modern top star; proponents of Cena counter by pointing to Cena’s broader mainstream visibility and cultural impact to dispute claims that Reigns has definitively surpassed him.",
+    "queries": [
+      "How do fans view roman reigns’s current role?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "acting career",
+    "wiki_title": "acting",
+    "summary": "Claims about Cena’s acting are central to debates over his legitimacy beyond wrestling: fans and industry supporters point to his comedic timing, box-office success, and charismatic screen presence as evidence he’s a viable mainstream actor, while critics argue he leans on his wrestling persona and lacks serious dramatic range. Those arguments also feed broader disputes about casting and training—whether celebrity athletes deserve major roles over classically trained actors—and shape narratives about Cena’s versatility and career trajectory.",
+    "queries": [
+      "Is John Cena's acting career taken seriously or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "wrestlemania",
+    "wiki_title": "wrestlemania",
+    "summary": "WrestleMania is routinely cited in debates about John Cena as the proving ground that established him as WWE’s flagship, mainstream star—supporters point to his recurring high‑profile WrestleMania matches and celebrity exposure to justify claims about his drawing power, longevity, and cultural relevance. Critics, meanwhile, use his WrestleMania booking to argue he was overprotected or repeatedly prioritized at the expense of elevating newer talent.",
+    "queries": [
+      "Is John Cena’s WrestleMania role justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "the rock",
+    "wiki_title": "the rock",
+    "summary": "The Rock is used as the dominant benchmark when people assess John Cena’s career, with critics invoking The Rock’s blockbuster charisma to argue Cena never achieved true mainstream stardom and supporters citing Cena’s steady, family-friendly film work as evidence he successfully followed a similar crossover path. References to The Rock also shape debates about authenticity and legacy—framing Cena either as less naturally charismatic or as a different, workmanlike kind of star who broadened WWE’s cultural footprint.",
+    "queries": [
+      "Are The Rock’s career choices reasonable in contrast to Cena’s?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "vince mcmahon",
+    "wiki_title": "vince mcmahon",
+    "summary": "Vince McMahon is frequently invoked as the kingmaker behind John Cena — defenders cite McMahon’s sustained promotion to explain Cena’s megastar status and role‑model branding, while critics point to McMahon’s top‑down creative control and later scandals to argue Cena was a corporately manufactured, protected star and to question his complicity or distance from WWE’s problematic culture.",
+    "queries": [
+      "What effects has Vince McMahon had on John Cena’s career?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "film career",
+    "wiki_title": "career opportunities (film)",
+    "summary": "Commentators and fans sometimes invoke the film title Career Opportunities as a rhetorical shorthand in debates about John Cena’s shift from wrestling to Hollywood—framing his move as one of expanding mainstream prospects. Supporters use the phrase to highlight his growing, bankable film roles, while critics flip it to suggest his filmography is limited or populated by lightweight, typecast projects.",
+    "queries": [
+      "How do people view John Cena’s film career?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "box office",
+    "wiki_title": "box office",
+    "summary": "Box-office receipts for John Cena’s films are used as proof points in arguments about his legitimacy and marketability as a mainstream movie star—supporters cite strong grosses to justify casting him in leading, crossover roles, while detractors point to weak or inconsistent box-office results to argue his wrestling fame doesn’t guarantee bankability. These box-office narratives also guide debates over the types of roles he should be given (action vs. comedy), how much studios should invest in him, and whether he is a sustainable headline draw.",
+    "queries": [
+      "What consequences has John Cena’s box office presence caused?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "brock lesnar",
+    "wiki_title": "brock lesnar",
+    "summary": "Brock Lesnar is often used as the ultimate \"monster/legitimacy\" foil when discussing John Cena—losses to Lesnar are cited to argue Cena is overrated or poorly booked, while victories over him are framed as proof of Cena’s star power and resilience. Commentators also invoke Lesnar’s part‑time, legitimate‑fighter image to critique or defend Cena’s credibility, work ethic, and WWE booking decisions (especially around who deserves top billing and the value of championships).",
+    "queries": [
+      "Is Brock Lesnar’s booking against John Cena justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "paul heyman",
+    "wiki_title": "paul heyman",
+    "summary": "Paul Heyman often functions as the articulate antagonist in narratives about John Cena, using scathing promos and managerial positioning to portray Cena as the establishment’s manufactured, overprotected hero and to legitimize opponents’ attacks. His rhetoric amplifies criticisms that Cena is a crowd-pleasing but formulaic figure, shaping debates about Cena’s credibility, toughness, and role as the company’s face.",
+    "queries": [
+      "Is paul heyman's role with John Cena justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "summerslam 2014",
+    "wiki_title": "summerslam (2014)",
+    "summary": "Cena’s 2014 SummerSlam appearance is often invoked in discussions about his booking and star credibility: critics use it to argue that overexposure and poor creative choices diminished his aura against more ‘legitimate’ opponents, while defenders frame his role there as an example of him taking high-profile losses to put other stars over and keep the product evolving.",
+    "queries": [
+      "How do people view John Cena's role at summerslam 2014?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "suplex city",
+    "wiki_title": "suplex",
+    "summary": "Fans and commentators point to Cena’s regular use of suplexes to emphasize his powerhouse, reliable in‑ring persona—framing him as a safe, strong main‑eventer who embodies WWE’s crowd‑pleasing style. Critics use the same tendency to argue he relies on a narrow, formulaic move set rather than technical versatility, casting him as manufactured and predictable rather than a nuanced wrestler.",
+    "queries": [
+      "How do fans view suplex city in Cena’s career?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "f-5",
+    "wiki_title": "f5",
+    "summary": "References to the F‑5 (Brock Lesnar’s finishing move) are often used in debates about John Cena to dramatize occasions when Cena is portrayed as genuinely outmatched, bolstering arguments that Lesnar (or ‘legit’ heavyweight competitors) decisively erase Cena’s heroic invulnerability. Citing the F‑5 supports critiques of WWE booking that cast Cena as overrated or as a protected figure whose losses to more dominant moves are treated as rare but telling evidence of his vulnerability.",
+    "queries": [
+      "How do fans view John Cena using the f-5?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "ufc",
+    "wiki_title": "ultimate fighting championship",
+    "summary": "References to the Ultimate Fighting Championship are often invoked to contrast John Cena’s scripted, entertainment-oriented persona with ‘real’ combat sports, using the UFC as a benchmark to criticize his legitimacy as a fighter or to downplay his toughness. Conversely, when Cena interacts with MMA figures or trains in mixed martial arts contexts, mentions of the UFC are used to bolster his crossover credibility and portray him as athletically versatile rather than merely a performer.",
+    "queries": [
+      "What consequences might John Cena's ufc involvement have?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "cm punk",
+    "wiki_title": "cm punk",
+    "summary": "CM Punk is often used as a foil in debates about John Cena: critics invoke Punk’s anti‑establishment, authentic persona and cutting promos to portray Cena as an over‑protected, company‑favored performer lacking credibility, while Cena’s defenders point to Punk’s confrontational baggage and backstage controversies to argue Cena’s mainstream, dependable image is more professional and marketable.",
+    "queries": [
+      "How do fans view cm punk compared to John Cena?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "money in the bank 2011",
+    "wiki_title": "money in the bank (2011)",
+    "summary": "Money in the Bank (2011) is frequently cited in debates about John Cena’s booking and star status — proponents point to his prominent role at the event as evidence of his drawing power and reliability, while critics use the event’s outcomes to argue he was overprotected or insulated by WWE, fueling broader complaints about Cena’s perceived lack of meaningful creative risk and the promotion’s favoritism.",
+    "queries": [
+      "Was money in the bank 2011 for John Cena justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "straight edge",
+    "wiki_title": "straight edge",
+    "summary": "Commentators and fans invoke straight edge to cast Cena’s clean-cut, abstinent, family-friendly persona either as evidence of admirable discipline and role-model behavior or — more often in wrestling debates — as a foil to suggest he is a corporate, inauthentic opposite to genuinely rebellious straight-edge figures (notably CM Punk), using the label to justify preference for edgier wrestlers and to criticize Cena’s manufactured morality.",
+    "queries": [
+      "What effects has straight edge association had for John Cena?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "chicago fans",
+    "wiki_title": "chicago tribune fans' poll",
+    "summary": "Chicago Tribune fans' poll is invoked in debates about John Cena to signal popular sentiment—supporters cite strong poll placement to argue he remains a mainstream favorite, while critics point to weak or mixed results to portray him as divisive, overexposed, or past his peak.",
+    "queries": [
+      "Are chicago fans' reactions to John Cena reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "you can't see me",
+    "wiki_title": "you can't see me",
+    "summary": "The phrase and album 'You Can't See Me' serve as shorthand for Cena's crossover-branding — advocates point to it as evidence he translated wrestling fame into mainstream entertainment and entrepreneurial success, while critics use it to paint him as an overly marketed, gimmick-driven performer. In public debates it therefore frames positions about whether wrestlers should diversify into music/celebrities (supporting commercial expansion) or remain true to sporting/authentic roots (opposing perceived commodification).",
+    "queries": [
+      "What impact has John Cena's you can't see me had?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "make-a-wish",
+    "wiki_title": "make a wish",
+    "summary": "John Cena’s long history of granting Make‑A‑Wish requests is routinely cited by supporters to portray him as compassionate, family‑friendly, and deserving of goodwill beyond his wrestling persona. Critics and skeptics, however, sometimes invoke his Make‑A‑Wish work to argue that celebrity charity is used as image management or to deflect scrutiny of his actions or public positions.",
+    "queries": [
+      "Is John Cena’s make-a-wish involvement justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "never give up",
+    "wiki_title": "never give up",
+    "summary": "The slogan \"Never give up\" is routinely invoked by fans, commentators, and marketers to frame John Cena as a model of perseverance and virtue, bolstering arguments that his wrestling success, charity work, and mainstream career reflect authentic hard work and inspirational role-model status. Detractors use the phrase to criticize his image as packaged or simplistic corporate branding—sometimes sarcastically online—to argue his persona is manufactured or overexposed rather than deeply authentic.",
+    "queries": [
+      "How do people view the 'never give up' message from John Cena?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "attitude adjustment",
+    "wiki_title": "attitude adjustment",
+    "summary": "The Attitude Adjustment is frequently invoked in discussions of Cena's legacy as a symbol of his reliable, heroic finishing move that bolsters his family‑friendly, company‑approved image and mainstream appeal. Critics, however, point to its repetitive use to argue Cena's booking was formulaic and protective, using the move to lampoon his in‑ring predictability and to question his legitimacy as a top-tier wrestler.",
+    "queries": [
+      "What consequences has John Cena’s attitude adjustment produced?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "make‑a‑wish foundation",
+    "wiki_title": "make-a-wish foundation",
+    "summary": "Make-A-Wish involvement is routinely cited by supporters and the media to frame Cena as genuinely compassionate, family‑friendly, and deserving of mainstream praise or roles, serving as a key piece of evidence in defenses of his public character. Critics may acknowledge the generosity while dismissing it as savvy image management or insufficient to answer substantive criticisms of his career or persona, but it nonetheless bolsters positive narratives about him in public debates.",
+    "queries": [
+      "How do people view the make-a-wish foundation support from John Cena?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "philanthropy",
+    "wiki_title": "philanthropy",
+    "summary": "John Cena's philanthropy — especially his high‑profile Make‑A‑Wish work and charity appearances — is frequently invoked by supporters to frame him as a selfless, family‑friendly role model and to justify endorsements and honors; critics counter that such giving can be framed as strategic image‑management or performative PR used to deflect scrutiny and boost commercial value.",
+    "queries": [
+      "How do people view John Cena's philanthropy?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "pediatric cancer",
+    "wiki_title": "childhood cancer",
+    "summary": "References to childhood cancer are often used to highlight John Cena’s philanthropy—his long record of granting wishes and supporting pediatric cancer causes is invoked to portray him as compassionate and to bolster his public image. Critics, however, sometimes frame such celebrity charity as PR that deflects scrutiny or as attention that can overshadow calls for systemic policy solutions for childhood cancer care.",
+    "queries": [
+      "How do people view John Cena's involvement with pediatric cancer?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "people (magazine)",
+    "wiki_title": "people (magazine)",
+    "summary": "People magazine typically frames John Cena as a mainstream, family‑friendly celebrity by emphasizing his film roles, charitable work, and wholesome persona, which helps legitimize his crossover appeal; its celebrity‑focused, PR‑friendly coverage often amplifies promotional narratives and humanizes Cena, tending to soften or sidestep harsher critiques rather than advance adversarial analysis.",
+    "queries": [
+      "How do people view people (magazine)’s reporting on John Cena?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "celebrity culture",
+    "wiki_title": "celebrity culture",
+    "summary": "Celebrity culture amplifies John Cena's status as a marketable brand and moral exemplar—every charitable act, endorsement or political misstep (e.g., his Mandarin apology over Taiwan) becomes fodder in debates about authenticity, corporate pandering, and what duties celebrities owe the public. Supporters use this visibility to justify family-friendly branding and commercial partnerships, while critics invoke celebrity culture to argue he is performative, overly corporatized, or shielded from accountability.",
+    "queries": [
+      "How do people view celebrity culture connected to John Cena?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "film and television",
+    "wiki_title": "satire (film and television)",
+    "summary": "Satirical TV and film pieces often exaggerate John Cena’s wrestler-turned-Hollywood persona and memeified catchphrases to lampoon celebrity branding, corporate PR, and performative patriotism, thereby undermining heroic fan narratives and highlighting the commodification of masculinity. They’re also deployed to mock moral panics and ‘cancel culture’ overreactions, framing controversies involving Cena as media theater rather than substantive political or ethical failures.",
+    "queries": [
+      "What effects has John Cena's film and television exposure had?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "the suicide squad",
+    "wiki_title": "suicide squad",
+    "summary": "References to Suicide Squad—notably Cena’s role as Peacemaker in James Gunn’s film and its TV spin‑off—are used to argue he has credibly transitioned from wrestler to mainstream Hollywood star and can headline franchise material; conversely, critics invoke the same association to portray him as narrowly typecast in broad, cartoonish, action‑comedy parts and to question his range.",
+    "queries": [
+      "What consequences might John Cena joining the suicide squad cause?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "warner bros. pictures",
+    "wiki_title": "warner bros. pictures",
+    "summary": "Warner Bros. Pictures' casting of John Cena in high-profile franchise projects (most visibly The Suicide Squad and the Peacemaker spin‑off) is often cited to argue he has legitimately crossed over from wrestling into mainstream acting, supporting claims about his commercial bankability and on‑screen credibility. Critics, however, invoke the studio's corporate casting and marketing decisions to frame him as a manufactured, studio‑driven commodity or to question whether his roles reflect genuine artistic growth versus stunt casting.",
+    "queries": [
+      "Are Warner Bros. Pictures' John Cena roles well-received or not?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "dc extended universe",
+    "wiki_title": "dc extended universe",
+    "summary": "Mentions of the DC Extended Universe—most notably Cena’s turn as Peacemaker in The Suicide Squad and its spin‑off—are often used to argue that he’s made a credible transition from wrestler to mainstream actor, with supporters citing his unexpected comic timing and complexity. Opponents invoke his DCEU casting to criticize Hollywood celebrity stunt‑casting or to debate the franchise’s tonal and political choices, using Peacemaker’s satirical nationalism to either lampoon or indict Cena’s on‑screen persona.",
+    "queries": [
+      "Is John Cena joining the dc extended universe reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "james gunn",
+    "wiki_title": "james gunn",
+    "summary": "James Gunn's high-profile collaboration with John Cena (casting and promoting him in The Suicide Squad and Peacemaker) is often cited by supporters to argue that Cena can successfully transition from wrestling to complex, comedic/dramatic roles, while critics invoke the Gunn–Cena partnership to claim such casting decisions are driven more by franchise marketing and star power than by artistic merit.",
+    "queries": [
+      "Is james gunn's involvement with John Cena projects reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-7",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "dc universe reboot",
+    "wiki_title": "dc universe (franchise)",
+    "summary": "Fans and commentators invoke the DC Universe—notably Cena’s Peacemaker in DCEU projects—to argue he’s successfully transitioned from wrestler to credible action star and broadened his mainstream appeal. Opponents use the franchise to frame his casting as corporate stunt-casting that masks limited dramatic range and to highlight how the jingoistic, violent antihero persona complicates his previously wholesome WWE image.",
+    "queries": [
+      "How do people view the dc universe reboot?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "hbo max",
+    "wiki_title": "hbo max",
+    "summary": "Commentators point to HBO Max (now Max) when arguing John Cena’s successful crossover from wrestling to mainstream acting—his lead in the Max original Peacemaker is repeatedly used to justify claims about his range and bankability—while critics invoke the platform’s release strategies and rebranding/content migration to blame corporate streaming decisions for limiting access to, reshaping, or commodifying his TV and film work.",
+    "queries": [
+      "Is HBO Max hosting John Cena content justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "day-and-date release",
+    "wiki_title": "simultaneous release",
+    "summary": "Debates over simultaneous releases are invoked when assessing John Cena’s transition from wrestler to movie star: proponents argue day-and-date availability helps expand his mainstream and family audiences by making his films instantly accessible, while critics use simultaneous releases to suggest studios lack confidence in his theatrical box‑office draw and to fault distribution choices that may undercut cinema revenue and the prestige of his film projects.",
+    "queries": [
+      "Is John Cena’s day-and-date release strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "amc theatres",
+    "wiki_title": "amc theatres",
+    "summary": "AMC Theatres is often used as a real-world gauge of John Cena's movie-star status: strong box-office results, wide AMC bookings, or lively audience reactions are cited to argue he has successfully crossed over from wrestling, while low turnout or limited screenings at AMC are pointed to as evidence that his mainstream bankability is overstated. AMC's programming and promotional support (or lack thereof) thus become talking points in debates over Cena's commercial appeal and cultural relevance.",
+    "queries": [
+      "Is John Cena's connection to amc theatres reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "blockers",
+    "wiki_title": "blocker",
+    "summary": "In wrestling discourse, calling someone a “blocker” is used to criticize John Cena as a performer who allegedly monopolizes top spots and prevents younger talent from rising, framing him as a gatekeeper of the status quo; supporters flip the term to justify his role as protecting the brand and only allowing proven performers into headline positions.",
+    "queries": [
+      "How do people view John Cena's blockers?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "action comedy",
+    "wiki_title": "action comedy",
+    "summary": "References to action comedy are often used to justify John Cena’s mainstream appeal—portraying him as a self-aware, physical performer who can blend stunts with broad humor and therefore anchor franchise or family-friendly projects—while critics invoke the same genre label to argue he’s pigeonholed as a comic muscleman who lacks dramatic range and is being cast for persona rather than nuance.",
+    "queries": [
+      "How do people view John Cena in action comedy roles?"
+    ]
+  },
+  {
+    "id": "C2-8-6",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "playing with fire",
+    "wiki_title": "playing with fire",
+    "summary": "Commentators point to Cena’s lead in the family comedy Playing with Fire to argue he’s deliberately recast himself from tough wrestler into a broadly palatable, family‑friendly star, using the film as evidence of mainstream marketability; critics, however, cite its safe, formulaic nature to argue he’s being typecast and lacks dramatic range, using it to question claims about his credentials as a serious actor.",
+    "queries": [
+      "How do people view playing with fire by John Cena?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "charlize theron",
+    "wiki_title": "charlize theron",
+    "summary": "Charlize Theron is often invoked as an A‑list benchmark when people debate John Cena’s move from wrestling to mainstream film — critics contrast her Oscar‑level credibility with Cena’s perceived limited dramatic range, while supporters point to his appearing in the same franchises as evidence of his mainstream acceptance. Her star status and action‑hero credentials are also used in arguments about casting and gender dynamics, either to legitimize projects Cena joins or to highlight how he is typically cast in macho, less nuanced roles.",
+    "queries": [
+      "How do people view Charlize Theron appearing alongside John Cena?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "critical reception",
+    "wiki_title": "review",
+    "summary": "Critical reviews of Cena’s films, WWE matches, and public appearances are frequently cited in arguments about his credibility as an actor and the soundness of WWE’s creative choices. Positive reviews are used to justify his star power and casting, while negative reviews fuel claims that he’s overexposed, uneven as a performer, or a product of corporate, formulaic promotion.",
+    "queries": [
+      "Is John Cena’s critical reception deserved or not?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "danielle brooks",
+    "wiki_title": "danielle brooks",
+    "summary": "Danielle Brooks is rarely central to conversations about John Cena, but when referenced she is used as a contrastive example — invoked to question or defend Cena’s acting credibility, casting choices, and the entertainment industry’s handling of typecasting and representation by comparing his wrestler-turned-actor trajectory to performers with more traditional dramatic backgrounds.",
+    "queries": [
+      "Is Danielle Brooks's involvement with John Cena's projects reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "jennifer holland",
+    "wiki_title": "jennifer holland",
+    "summary": "As a recurring co-star in Cena’s DC projects, Holland is often invoked in discussions about Cena’s legitimacy as a mainstream actor: supporters point to their on‑screen chemistry and her strong turns as proof Cena can handle nuanced, ensemble drama, while critics use her presence to argue the shows’ successes rely more on supporting talent than on Cena’s range.",
+    "queries": [
+      "How do people view Jennifer Holland’s influence on Cena’s projects?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "warner bros. discovery",
+    "wiki_title": "warner bros. discovery",
+    "summary": "Warner Bros. Discovery is frequently invoked in discussions of John Cena as the corporate backer that helped legitimate his shift from wrestling to mainstream acting—most notably by putting him in DC films and a high-profile HBO Max series—used by supporters to point to his crossover success. Critics, however, cite WBD’s casting, marketing and streaming/cancellation decisions to argue that Cena’s screen prominence is driven more by studio branding and business strategy than by acting merit, and to highlight how corporate policy can rapidly boost or blunt a performer’s visibility.",
+    "queries": [
+      "How do people view warner bros. discovery’s deals with John Cena?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "social media and memes",
+    "wiki_title": "meme stock",
+    "summary": "Critics liken John Cena to a \"meme stock\" to argue his sustained prominence is fueled more by viral fandom and nostalgia than by substantive acting or box‑office fundamentals, framing him as overvalued by hype; supporters use the same analogy positively to claim his internet-driven momentum makes him an unusually resilient and marketable cultural asset.",
+    "queries": [
+      "Is John Cena's social media and memes presence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "the time is now",
+    "wiki_title": "the time is now",
+    "summary": "The phrase “The Time Is Now,” best known as Cena’s entrance theme/slogan, is used by fans and promoters to frame moments as Cena’s decisive, heroic turning points and to justify pushes, merchandise and claims that it’s his moment to headline or reclaim status. Critics and detractors deploy the line sarcastically to argue Cena is overexposed or overrated, using it to lampoon repetitive booking or to oppose narratives that hype him beyond his recent merits.",
+    "queries": [
+      "How do people view John Cena's 'the time is now' slogan?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok amplifies short clips, memes, and edits that both celebrate John Cena’s charisma and charity work and fuel criticism of him as a corporate or overly cautious celebrity; viral posts—especially around his Mandarin apology over Taiwan—are frequently used to frame him as either pragmatic and apologetic or as complicit with Chinese influence, shaping debates about celebrity responsibility, free speech, and geopolitics.",
+    "queries": [
+      "Is John Cena using tiktok reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube hosts match highlights, movie trailers, interviews, memes and fan edits that are repeatedly used to build competing narratives about John Cena — supporters upload highlight and charity montages to bolster his image as a versatile, likable star, while critics amplify awkward interviews, bad acting clips or staged promos to argue he’s overrated or overly manufactured. The platform’s recommendation algorithms, copyright takedowns and monetization rules also shape which portrayals gain visibility, influencing public debate over his legacy, credibility and commercial value.",
+    "queries": [
+      "What impacts has John Cena’s YouTube channel produced?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "pewdiepie",
+    "wiki_title": "pewdiepie",
+    "summary": "Commentators invoke PewDiePie as an internet-native contrast to frame debates about John Cena’s authenticity and crisis management—using PewDiePie’s run-ins with media and brand fallout to argue Cena’s Mandarin apology and corporate-aligned statements reveal sell‑out or overmanaged image. Others point to PewDiePie’s platform pressures to defend Cena, saying both face different public and commercial constraints, so Cena’s choices are pragmatic rather than purely ideological.",
+    "queries": [
+      "What consequences has PewDiePie's commentary on John Cena caused?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "reaction videos",
+    "wiki_title": "reaction video",
+    "summary": "Reaction videos of John Cena’s entrances, promos, surprise returns, matches and film/TV performances are frequently used to amplify fan sentiment—either to justify praise of his charisma and star power or to mock him as overexposed and overly scripted. They also drive debate about copyright and corporate control when creators reuse WWE/Cena footage, reinforcing arguments for fan expression versus rights-holder enforcement.",
+    "queries": [
+      "What consequences have John Cena’s reaction videos caused?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On X/Twitter, fans, journalists, and critics amplify John Cena’s promotional posts, memes, and charity work to build a wholesome, marketable image while simultaneously replaying controversies—most notably his Mandarin apology over a Taiwan remark—to cast him as either pragmatic and internationally savvy or as unprincipled and pandering to China; those debates on the platform are routinely leveraged to argue broader points about celebrity accountability, commercial ties to authoritarian markets, and cancel-culture politics.",
+    "queries": [
+      "What impact has John Cena's twitter had on his public image?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "china-taiwan relations",
+    "wiki_title": "singapore–taiwan relations",
+    "summary": "Commentators invoke Singapore–Taiwan relations as an analogy for the kind of diplomatic balancing John Cena appeared to perform when he apologized in Mandarin about Taiwan, using it to criticize him as pandering to Beijing or to justify his actions as pragmatic realpolitik. Defenders point to Singaporean-style neutrality to argue Cena’s response was a commonplace attempt to avoid political fallout and protect commercial ties in a region where China’s sensitivities are routinely accommodated.",
+    "queries": [
+      "What impacts do china-taiwan relations have on John Cena’s image?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In discussions about John Cena, “cancel culture” is often invoked to frame controversies—most notably his apology over remarks about Taiwan—as either legitimate accountability for an offensive act or as coercive online/social-media pressure and market-driven censorship. Supporters use the term to defend Cena as a victim of mobbing and geopolitical pressure, while critics use it to justify calls for consequences and boycotts.",
+    "queries": [
+      "Is cancel culture justified regarding John Cena or not?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5",
+    "level": 3,
+    "topic": "five knuckle shuffle",
+    "wiki_title": "five knuckle shuffle",
+    "summary": "References to the “five knuckle shuffle” are often used as shorthand in debates about John Cena’s career—supporters invoke it to celebrate his crowd-pleasing, family-friendly persona and iconic showmanship, while critics cite it to argue his in-ring style is simplistic and gimmicky, reinforcing broader critiques about his booking and mainstream appeal. In meme and pop-culture commentary the move also helps frame Cena as ubiquitous and corporate, which opponents use to question his wrestling credibility.",
+    "queries": [
+      "How do people view John Cena’s five knuckle shuffle?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "tha trademarc",
+    "wiki_title": "trademarc",
+    "summary": "Trademarc is invoked in debates about Cena’s cultural persona and music career: supporters point to their collaborations to argue Cena genuinely engaged with hip‑hop and broadened his entertainment brand, while critics use the family partnership and Trademarc’s modest profile to frame Cena’s musical ventures as promotional, nepotistic, or lacking authentic rap credibility.",
+    "queries": [
+      "Is John Cena’s use of tha trademarc justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "vine",
+    "wiki_title": "vine",
+    "summary": "Vine is often invoked in discussions of John Cena because short looping videos—most famously the “Unexpected John Cena” meme—recast him as an omnipresent, comedic pop‑culture figure, boosting mainstream recognition while also allowing critics to dismiss him as a running joke or symbol of overexposure.",
+    "queries": [
+      "How do people view John Cena's vine appearances?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "rickroll",
+    "wiki_title": "rickrolling",
+    "summary": "Rickrolling-style bait-and-switches that replace expected content with John Cena’s entrance (the “Unexpected John Cena” meme) are used to interrupt and derail conversations, casting Cena as an omnipresent, comic pop‑culture interruptor. This framing both celebrates his meme-friendly ubiquity and undermines portrayals of him as a serious athlete or actor, often deployed to lampoon or trivialize moments in online debates or media coverage.",
+    "queries": [
+      "Is using a rickroll in John Cena’s branding reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "united states championship",
+    "wiki_title": "united states championships",
+    "summary": "In debates about John Cena, the United States Championship is often invoked to argue about his status and legacy—supporters claim his holding of the title reinforces his patriotic, company-standard persona and can elevate the belt, while critics use it to suggest he’s been shifted out of main‑event contention into a gatekeeper or mid‑card role that shields newer stars. As a result the US title is treated as a proxy for broader arguments over Cena’s continued prominence, overexposure, and WWE’s booking priorities.",
+    "queries": [
+      "What impact did John Cena's united states championship have?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "endorsements and branding",
+    "wiki_title": "celebrity branding",
+    "summary": "Supporters and marketers invoke Cena’s wholesome, hardworking, and patriotic persona to justify product tie‑ins, family‑friendly films, and charity partnerships, framing him as a trustworthy, noncontroversial public figure; critics counter that those same endorsements are used to accuse him of commercial overexposure, inauthenticity, or of helping depoliticize celebrity influence and obscure controversial industry practices around WWE.",
+    "queries": [
+      "How do people view John Cena's endorsements and branding?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "peacemaker",
+    "wiki_title": "peacemaker",
+    "summary": "Cena's portrayal of Peacemaker is often invoked to recast him from family‑friendly WWE star into a morally ambiguous, comic antihero and to argue he has serious dramatic range. Conversely, critics use the character to condemn perceived glamorization of violent vigilantism, jingoism, and elements of toxic masculinity in his screen persona.",
+    "queries": [
+      "How do people view John Cena as a peacemaker?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "dc comics",
+    "wiki_title": "dc comics",
+    "summary": "DC’s use of John Cena as Peacemaker in its films and TV series is frequently cited to argue that he’s made a successful transition from wrestler to mainstream Hollywood superhero—boosting his legitimacy, marketability, and family-friendly crossover appeal—while critics counter that DC’s casting and treatment typecast or commodify his WWE persona and spark debate over whether the Peacemaker material endorses or satirizes aggressive patriotism.",
+    "queries": [
+      "What effects could John Cena in DC Comics have?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "antihero",
+    "wiki_title": "antihero",
+    "summary": "Calling John Cena an “antihero” reframes him from WWE’s straight-arrow role model into a morally ambiguous, self-interested protagonist—a narrative defenders use to legitimize his darker, complex roles (e.g., Peacemaker) and critics use to argue his longstanding squeaky‑clean persona was manufactured or outdated. This label thus bolsters arguments for marketing Cena as a mature, flawed leading man while undercutting expectations that he must always serve as a kid‑friendly exemplar.",
+    "queries": [
+      "What impacts has John Cena's antihero image had?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "internet meme",
+    "wiki_title": "internet meme",
+    "summary": "Internet memes about John Cena—most famously the “You can’t see me” invisibility gag and countless remixes—are used to both celebrate his catchphrases and lampoon his public image, turning moments (from career highlights to PR controversies) into instant, shareable judgments. By reframing serious disputes as punchlines, memes amplify fan support or ridicule opponents and often shift public debate toward humor and viral momentum rather than nuanced critique.",
+    "queries": [
+      "What effects has the internet meme around John Cena produced?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "fast & furious 9",
+    "wiki_title": "fast & furious",
+    "summary": "References to the Fast & Furious films are used to argue both that John Cena has successfully crossed over from wrestling to mainstream action stardom—citing his role in the franchise as proof of box‑office appeal and cultural relevance—and to criticize him as little more than stunt casting, with detractors using the part to question his acting range and whether WWE fame alone justifies high‑profile Hollywood roles.",
+    "queries": [
+      "What do fans think about fast & furious 9 action scenes?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "justin lin",
+    "wiki_title": "justin lin",
+    "summary": "As the director who helmed F9, Justin Lin is often cited to legitimize John Cena’s jump from wrestler/comedian into mainstream action roles—supporters argue Lin’s pedigree validates Cena’s casting and box‑office credibility. Conversely, critics invoke Lin’s involvement to claim Cena’s role is studio stunt‑casting that relies on celebrity appeal more than proven dramatic ability.",
+    "queries": [
+      "Are concerns about Justin Lin and John Cena justified?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "rotten tomatoes",
+    "wiki_title": "rotten tomatoes",
+    "summary": "Rotten Tomatoes scores are often invoked in arguments about John Cena’s legitimacy as an actor — high critic ratings for projects like Peacemaker are used to claim he can carry mainstream and prestige work, while low Tomatometer scores for other films are used to question his range and box‑office credibility. Fans and detractors also point to critic vs. audience splits and alleged score manipulation to bolster or dismiss those claims.",
+    "queries": [
+      "How do people view John Cena’s rotten tomatoes ratings?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "action figures",
+    "wiki_title": "action figure",
+    "summary": "John Cena action figures are frequently cited in debates as proof of his mainstream marketability and cross-generational appeal—toy releases marketed to kids alongside premium collector editions are used to argue he’s both a pop‑culture icon and a tightly managed commercial brand; conversely, fans and critics point to limited editions, altered likenesses, or price gouging of Cena figures to criticize WWE’s commodification and sanitization of his image.",
+    "queries": [
+      "What effects have John Cena action figures had?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "jakks pacific",
+    "wiki_title": "jakks pacific",
+    "summary": "Jakks Pacific’s long-running John Cena action-figure lines are often cited as tangible proof of Cena’s mainstream, kid-friendly marketability and the corporate branding that underpins his status as WWE’s flagship star. Collectors and critics also use Jakks’ production choices, saturation of figures, and licensing practices to argue that Cena’s image is over-commercialized and to raise questions about wrestler likeness control and compensation.",
+    "queries": [
+      "Is jakks pacific’s John Cena merchandise strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "ebay",
+    "wiki_title": "ebay",
+    "summary": "Buyers, sellers and journalists cite eBay listing volumes and final sale prices for John Cena action figures, autographs and memorabilia to argue empirically about his popularity, cultural relevance or commercial value—high prices are used to justify claims of enduring star power, while low demand or presence of cheap bootlegs is used to criticize over‑commercialization, waning appeal, or authenticity issues.",
+    "queries": [
+      "Is buying John Cena merchandise on eBay reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "san diego comic-con",
+    "wiki_title": "san diego comic-con",
+    "summary": "John Cena’s appearances at San Diego Comic-Con are often used to portray him as a mainstream pop‑culture and franchise actor—supporters point to panels and promotions there as evidence of his successful crossover and family‑friendly branding, while critics invoke the same events to argue he’s shifted focus from wrestling authenticity to Hollywood commercialization.",
+    "queries": [
+      "What impact does San Diego Comic-Con have on John Cena’s public image?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "funko pop",
+    "wiki_title": "funko",
+    "summary": "Funko’s John Cena collectibles are often used by fans to demonstrate his mainstream cultural reach and enduring appeal, with Pop figures serving as visible tokens of fandom and iconic status. Critics, however, point to the ubiquity of Cena Funko merchandise as evidence of WWE-driven commodification and manufactured popularity rather than organic cultural significance.",
+    "queries": [
+      "How do collectors view funko pop John Cena variants?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "mattel",
+    "wiki_title": "mattel",
+    "summary": "Mattel’s production, promotion, or withholding of John Cena action figures and WWE toy lines is often invoked to argue about his mainstream commercial appeal and family‑friendly image—strong toy sales and high‑profile releases are used to justify claims that Cena is a marketable, kid‑safe cultural icon, while limited runs, poor likenesses, or corporate commodification are cited by critics to argue his relevance has waned or that merchandising exploits his persona.",
+    "queries": [
+      "How do people view Mattel’s portrayal of John Cena?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6",
+    "level": 3,
+    "topic": "guinness world records",
+    "wiki_title": "guinness world records",
+    "summary": "Guinness World Records is frequently invoked to bolster John Cena’s wholesome, philanthropic image—most notably by citing his Guinness-recognized total for granting Make‑A‑Wish requests—to portray him as unusually charitable and family-friendly. Detractors, however, sometimes point to Guinness’s promotional tendencies to argue such records can be publicity-driven and therefore less persuasive as proof of character than they appear.",
+    "queries": [
+      "How do people view Guinness World Records tied to John Cena?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "children's hospitals",
+    "wiki_title": "children's hospital",
+    "summary": "Mentions of children's hospitals—especially Cena’s many Make‑A‑Wish visits and bedside appearances—are invoked to frame him as a compassionate, family‑friendly public figure and to justify praise or family‑oriented casting. Skeptics counter that such hospital goodwill is sometimes PR, using it to argue charity doesn’t automatically absolve a celebrity of criticism or broader accountability.",
+    "queries": [
+      "Is John Cena's support for children's hospitals reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "meet-and-greets",
+    "wiki_title": "meet, greet & bye",
+    "summary": "References to \"meet, greet & bye\" are used to argue about Cena's accessibility and sincerity—supporters cite his frequent fan interactions as evidence he's humble, family-friendly, and authentic, while critics dismiss such staged meet-and-greets as PR-managed appearances that mask corporate control and limited access. Discussions about VIP packages, canceled signings, or rushed goodbyes also feed critiques of celebrity entitlement, WWE ticketing practices, and whether Cena’s public persona matches his off-stage behavior.",
+    "queries": [
+      "Are John Cena meet-and-greets reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "international controversies",
+    "wiki_title": "cnn controversies",
+    "summary": "Controversies tied to CNN’s coverage of John Cena—notably its reporting on his Mandarin apology over Taiwan/China remarks—are often used to frame him as either politically compromised and pandering to foreign markets or as a victim of sensationalist mainstream-media bias; critics point to CNN to argue he prioritizes corporate interests over principles, while defenders cite CNN’s tone to claim the outlet exaggerated and politicized an entertainer’s comments.",
+    "queries": [
+      "Are John Cena's international controversies justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "one-china policy",
+    "wiki_title": "one china",
+    "summary": "The One China stance is invoked to explain and polarizingly frame John Cena’s 2021 Mandarin apology for calling Taiwan a country—critics use it to argue he bowed to PRC pressure and prioritized access to the Chinese market over free speech and democratic values, while supporters present his comments as a pragmatic show of respect for Chinese sovereignty and business realities.",
+    "queries": [
+      "Is John Cena's stance on the one-china policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-7",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "censorship in china",
+    "wiki_title": "censorship in china",
+    "summary": "Chinese censorship is used both to defend and to attack John Cena: critics cite CCP-driven media controls to argue he capitulated and self-censored (e.g., over his Taiwan remarks) to preserve access to China’s lucrative market, while pro-CCP outlets suppress or reframe the controversy to present him as a cooperative, apolitical partner — a narrative that supports market-oriented concessions and discourages public criticism of his China-related decisions.",
+    "queries": [
+      "What impact does censorship in China have on John Cena's image?"
+    ]
+  },
+  {
+    "id": "C7-1-8",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "china–united states relations",
+    "wiki_title": "china–united states relations",
+    "summary": "U.S.–China relations are invoked when people interpret John Cena’s Mandarin apology and China-facing publicity — critics portray him as kowtowing to Chinese censorship and market pressure at the expense of American values, while supporters argue he was pragmatically navigating sensitive geopolitics and showing cultural respect; the episode is used to fuel broader debates about corporate influence, celebrity diplomacy, and free speech in the China–U.S. context.",
+    "queries": [
+      "Is criticism of china–united states relations tied to celebrities justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "taiwan independence movement",
+    "wiki_title": "taiwan independence movement",
+    "summary": "References to the Taiwan independence movement and Taiwan’s status are used to politicize John Cena’s statements—supporters of Taiwanese independence and democracy cite his 2021 Mandarin apology for calling Taiwan a country as evidence he capitulated to PRC pressure and commercial self‑interest, while pro‑Beijing voices frame his remarks as appropriate deference to China’s One China claim. The episode is frequently invoked to argue about celebrity responsibility, censorship, and whether entertainers should prioritize ethical stances over market access.",
+    "queries": [
+      "How has John Cena's stance affected views on the taiwan independence movement?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "taiwanese nationalism",
+    "wiki_title": "taiwanese nationalism",
+    "summary": "Taiwanese nationalism casts John Cena’s 2021 “Taiwan is a country” remark and his later Mandarin apology as a litmus test for whether global celebrities will defend a distinct Taiwanese identity or bow to Chinese government pressure. Activists and commentators use the episode to criticize Cena as having betrayed Taiwanese identity and to demand public solidarity with Taiwan, while others cite his apology as evidence of Beijing’s influence over international stars.",
+    "queries": [
+      "Is John Cena’s handling of taiwanese nationalism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "chinese communist party",
+    "wiki_title": "chinese communist party",
+    "summary": "The CCP is invoked to argue that Cena’s Mandarin apology and 'I love China' remark reflected pressure or market-driven pandering to Beijing, framing him as complicit with or conciliatory toward Chinese government positions; state-aligned outlets and nationalists used his comments to validate China’s sovereignty claims, while critics cite CCP influence to accuse him of capitulating to authoritarian censorship and undermining Taiwan.",
+    "queries": [
+      "Is John Cena's association with chinese communist party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3-7",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "united front work department",
+    "wiki_title": "united front work department",
+    "summary": "Commentators invoke the United Front Work Department when framing John Cena’s Mandarin apology and other China-facing statements as the result of CCP influence operations, using it to criticize him for ‘capitulating’ to authoritarian pressure and to argue for boycotts or limits on China-driven self‑censorship; defenders counter that such moves reflect commercial market forces rather than direct UFWD control.",
+    "queries": [
+      "Is John Cena’s relationship with united front work department reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "chinese box office",
+    "wiki_title": "cinema of china",
+    "summary": "China’s massive film market and industry are often invoked to explain or condemn John Cena’s Mandarin apology and behavior toward Chinese political sensitivities: defenders cast his actions as pragmatic business realism given Hollywood’s reliance on Chinese box office, while critics use the prominence of China’s cinema to argue he’s complicit in pandering to censorship and sacrificing principles for market access.",
+    "queries": [
+      "What effects has John Cena had on the chinese box office results?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "china film administration",
+    "wiki_title": "china film administration",
+    "summary": "References to the China Film Administration are used to explain why John Cena and other foreign stars publicly apologize or adjust statements on politically sensitive issues like Taiwan: commentators frame the Administration as the state regulator that conditions market access and distribution on compliance with PRC positions. This framing is deployed both to criticize Cena as pandering to Chinese censorship and to defend such concessions as pragmatic responses to a powerful national regulator.",
+    "queries": [
+      "What consequences has china film administration had for John Cena’s career?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "weibo",
+    "wiki_title": "weibo",
+    "summary": "Weibo has been a primary battleground for nationalist reactions to John Cena—amplifying outrage over his comments about Taiwan and promoting his Mandarin apology as evidence of capitulation or contrition while driving calls for boycotts. Coordinated and censored conversations on the platform tend to privilege pro-state interpretations and pressure studios and celebrities to align with Chinese public sentiment.",
+    "queries": [
+      "How do people view John Cena's presence on Weibo?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "douban",
+    "wiki_title": "douban",
+    "summary": "On Douban Chinese users use film ratings, reviews and discussion threads to judge John Cena’s public statements and roles, turning the site into a barometer and battleground after his controversies; collective ratings and threads have often amplified nationalist criticism and boycott pressure (portraying him as politically problematic) while also giving fans a platform to defend him.",
+    "queries": [
+      "How do people view John Cena on douban?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "chinese nationalism",
+    "wiki_title": "chinese nationalism",
+    "summary": "Chinese nationalism was invoked heavily after John Cena’s 2021 Mandarin apology about Taiwan: Chinese nationalists praised and used it to validate foreign celebrities’ adherence to PRC sovereignty claims and to justify market‑driven self‑censorship, while critics framed the apology as capitulation to nationalist pressure and a betrayal of free‑speech or pro‑Taiwan stances.",
+    "queries": [
+      "Is Chinese nationalism's response to John Cena reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "global times",
+    "wiki_title": "global times",
+    "summary": "Global Times frames episodes involving John Cena—most prominently his Mandarin apology over calling Taiwan a country—as proof that foreign celebrities must affirm China’s sovereignty, often praising corrective statements as responsible behavior. The paper uses his case to criticize Western hypocrisy and to justify public and commercial pressure on entertainers to conform to Chinese political sensitivities.",
+    "queries": [
+      "Is Global Times' criticism of John Cena justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "f9 (film)",
+    "wiki_title": "f9 (film)",
+    "summary": "F9 is frequently invoked in debates over John Cena’s legitimacy as a mainstream actor—supporters highlight his physicality, comedic beats and visibility in a big‑budget franchise as evidence he can transition from WWE to Hollywood, while critics point to the character’s thin writing and mixed reviews to argue his acting range and box‑office draw remain limited. The film is also used in discussions about franchise politics, with some framing Cena as a viable successor to absent stars and others claiming his casting was more symbolic than a true elevation of his status.",
+    "queries": [
+      "What effects has John Cena’s role in f9 (film) had?"
+    ]
+  },
+  {
+    "id": "C7-6-1",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "vin diesel",
+    "wiki_title": "vin diesel",
+    "summary": "Vin Diesel is frequently invoked as the established franchise action star against whom John Cena’s transition from wrestling to Hollywood is measured; commentators cite Diesel’s casting decisions, public stance, or perceived ‘franchise authority’ to either bolster Cena’s legitimacy in big‑budget action series or to argue he lacks Diesel’s bankability and cultural fit for Fast & Furious–style stardom.",
+    "queries": [
+      "Is Vin Diesel’s public rivalry with John Cena justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6-2",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "jakob toretto",
+    "wiki_title": "dominic toretto",
+    "summary": "Critics and fans invoke Dominic Toretto as the archetypal hyper-masculine, family-first action hero to judge John Cena’s credibility in serious action roles—praising Cena when he demonstrates similar toughness and lambasting him when his comedic or wholesome persona is seen as at odds with that image. Such comparisons are used to argue for or against casting Cena in franchise fare and to frame debates about his authenticity, masculinity, and box‑office viability.",
+    "queries": [
+      "What effects has Jakob Toretto had on John Cena’s reputation?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "universal pictures",
+    "wiki_title": "universal pictures",
+    "summary": "When Universal Pictures attaches Cena to a project or publicizes his involvement, supporters point to that major-studio backing as proof he’s successfully crossed from pro-wrestling into mainstream, bankable family/action-comedy stardom. Critics, however, use Universal’s casting and marketing choices to argue he’s often typecast or hired for name recognition—reinforcing a sanitized ‘good guy’ image and limiting claims about his dramatic range.",
+    "queries": [
+      "Is Universal Pictures’ use of John Cena in films reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "dwayne johnson",
+    "wiki_title": "dwayne johnson",
+    "summary": "Dwayne Johnson is routinely invoked as the benchmark for a wrestler-turned-global movie star when arguing about John Cena’s career—critics cite The Rock to portray Cena as less charismatic or commercially dominant, while supporters use the comparison to frame Cena as a different, family-friendly kind of success and to emphasize his distinct wrestling legacy.",
+    "queries": [
+      "Is Dwayne Johnson’s portrayal alongside John Cena reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "covid-19 pandemic",
+    "wiki_title": "covid-19 pandemic",
+    "summary": "References to the COVID‑19 pandemic are used to judge John Cena’s public responsibility: supporters point to his pandemic‑era charity or morale‑boosting appearances to portray him as a caring, civic‑minded celebrity, while critics invoke pandemic restrictions and celebrity privilege to argue he is out‑of‑touch or benefited from special treatment. In broader culture‑war or policy debates, his pandemic‑era actions or silence are also deployed as shorthand for positions on public‑health mandates and celebrity accountability.",
+    "queries": [
+      "Is John Cena's stance on the covid-19 pandemic reasonable or not?"
+    ]
+  }
+]

@@ -1,0 +1,2455 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Barack Obama",
+    "wiki_title": "Barack Obama",
+    "summary": "Supporters invoke Obama as a model of moderate-progressive leadership, citing his presidency to defend health-care reform, climate action, multilateral diplomacy, and advances in racial inclusion. Opponents frame him as evidence of executive overreach, intrusive surveillance and drone policies, centrist economic compromises, and what they portray as identity-driven or elitist politics.",
+    "queries": [
+      "Is Barack Obama's presidency viewed as broadly successful or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral politics",
+    "wiki_title": "electoral system",
+    "summary": "In public debates about Barack Obama, 'electoral system' is invoked to assess the legitimacy and strength of his mandate by comparing Electoral College and popular vote outcomes and by focusing on the turnout and demographic coalitions that produced his victories. It is also used to argue whether institutional rules (primaries and superdelegates, caucuses, gerrymandering, voter‑ID and ballot access laws) helped or hindered his nomination and presidency, with supporters praising his ground‑game and campaign innovations and critics blaming systemic biases for limiting his agenda.",
+    "queries": [
+      "How do people view Obama's electoral politics tactics?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "2008 presidential election",
+    "wiki_title": "2008 presidential election",
+    "summary": "The 2008 presidential election is invoked as the defining origin of Barack Obama’s mandate and rhetorical authority—supporters point to his sweeping victory, grassroots mobilization, and campaign themes of 'hope' and 'change' to justify progressive policies like the ACA and stimulus. Opponents, however, cite the same election to argue he overpromised, lacked experience, or relied on identity-based appeals, framing later policy choices as betrayals of campaign promises or examples of executive overreach.",
+    "queries": [
+      "What political consequences did the 2008 presidential election produce?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "john mccain",
+    "wiki_title": "john mccain",
+    "summary": "John McCain is often used as a foil in arguments about Barack Obama: critics invoke McCain’s hawkish credibility and reputation for toughness to portray Obama as weak on national security and insufficiently assertive, while supporters point to McCain’s maverick/bipartisan image or his critiques of both parties to frame Obama as a unifier or as subject to principled oversight. McCain’s post‑campaign opposition to key Obama policies (notably on foreign policy and health‑care reform) is frequently cited to justify tougher stances or to argue that Obama’s positions deserved bipartisan scrutiny.",
+    "queries": [
+      "Was john mccain’s opposition to Obama’s agenda justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "sarah palin",
+    "wiki_title": "sarah palin",
+    "summary": "Conservative commentators and Palin herself have used her populist, anti-elitist rhetoric to cast Obama as an inexperienced, out-of-touch liberal who favors big-government solutions, environmental regulation over domestic energy development, and weak foreign-policy instincts. Democratic critics, however, invoke Palin as a foil to portray Republican attacks on Obama as culturally driven and anti-expertise rather than policy-based.",
+    "queries": [
+      "How do people view Sarah Palin’s role during Obama’s presidency?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "financial crisis of 2007–2008",
+    "wiki_title": "2008 financial crisis",
+    "summary": "The 2008 financial crisis is frequently invoked in debates about Obama to justify his administration’s stimulus, auto rescues, and financial reforms (like Dodd–Frank) as necessary interventions that rescued the economy and reined in Wall Street. Critics use the crisis to charge Obama with either prolonging economic weakness through overreach or failing to adequately punish financial elites, making it a focal point for arguing both for stronger regulation and for opposition to his economic agenda.",
+    "queries": [
+      "How do people view the financial crisis of 2007–2008’s effect on Obama?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "african american voters",
+    "wiki_title": "african americans",
+    "summary": "African Americans are invoked both to celebrate Obama’s symbolic milestone as the first Black president and to judge his record—supporters point to his appointments, outreach and policies on criminal justice, healthcare and economic disparities, while critics argue he didn’t deliver enough for Black communities. Racialized attacks and identity debates (e.g., birtherism, questions of authenticity) have also been used by opponents to discredit him and frame expectations about his obligations to African-American voters.",
+    "queries": [
+      "Are Barack Obama's appeals to african american voters justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "2012 presidential election",
+    "wiki_title": "2012 national electoral calendar",
+    "summary": "Commentators use the 2012 national electoral calendar to situate Obama’s 2012 re‑election within global electoral patterns—portraying it as part of an incumbency or democratic trend that bolsters claims of mandate for his policies. Critics, however, point to comparisons in turnout, timing, or concurrent contested elections elsewhere that year to question the strength or legitimacy of his mandate and to argue against the policy agenda it purportedly endorsed.",
+    "queries": [
+      "How do people view the 2012 presidential election outcome for Obama?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "mitt romney",
+    "wiki_title": "mitt romney",
+    "summary": "Mitt Romney is frequently invoked as a foil in debates about Barack Obama—conservatives point to his business credentials and hawkish foreign‑policy stance to argue Obama weakened the economy and national security, while Democrats highlight Romney’s prior support for state‑level health mandates and his presidential challenge to portray Obama’s health‑care reforms as centrist and to blunt GOP attacks.",
+    "queries": [
+      "Is Mitt Romney's criticism of Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "paul ryan",
+    "wiki_title": "paul ryan",
+    "summary": "Conservatives invoke Paul Ryan as a foil to Barack Obama, using his deficit-focused, pro-privatization agenda to justify tax cuts and entitlement restructuring as corrective to Obama’s spending and regulatory approach; progressives likewise invoke Ryan to criticize Republican alternatives, arguing his plans would dismantle Obama-era protections (Medicare/Medicaid/ACA) and shift policy toward wealthy interests.",
+    "queries": [
+      "Are Paul Ryan’s budget priorities reasonable compared with Obama’s?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "hurricane sandy",
+    "wiki_title": "hurricane sandy",
+    "summary": "Hurricane Sandy is often invoked in debates about Barack Obama to showcase his crisis leadership—supporters point to the federal response and his public demeanor as evidence of competence during emergencies, while critics accuse the administration of politicizing relief or gaining electoral advantage in 2012. The storm is also cited in arguments over Obama’s climate and infrastructure policies, with proponents using Sandy to justify stronger climate action and resilience spending and opponents rejecting disaster-driven policy expansions.",
+    "queries": [
+      "Was Barack Obama’s response to Hurricane Sandy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "restore our future",
+    "wiki_title": "restore our future",
+    "summary": "As a pro-Romney super PAC, Restore Our Future ran attack ads and messaging that framed Barack Obama’s economic stewardship as a failure—blaming his policies for slow growth, high unemployment, and rising deficits—to justify voting against him. Its campaign supported conservative policy alternatives (tax cuts, smaller government) and was often cited by critics and fact-checkers as promoting misleading negative portrayals of Obama.",
+    "queries": [
+      "How do people view Obama’s \"restore our future\" proposal?"
+    ]
+  },
+  {
+    "id": "C1-2-8",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "2012 presidential debates",
+    "wiki_title": "2012 united states presidential debates",
+    "summary": "The 2012 presidential debates are often cited in arguments about Obama’s competence and electoral appeal: supporters emphasize moments where he calmly defended policies like the Affordable Care Act to portray him as steady and experienced, while critics point to his uneven debate showing—especially the first debate—to argue he lacked persuasive energy and effective communication. Post-debate polling shifts are used by both sides to justify claims about his political strength or vulnerability and to frame broader debates over his economic and foreign-policy leadership.",
+    "queries": [
+      "Was Obama’s performance in the 2012 presidential debates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "joe biden",
+    "wiki_title": "joe biden",
+    "summary": "Biden is frequently invoked to bolster or extend Obama’s pragmatic, centrist legacy—supporters point to Biden’s continuity and public defense of Obama-era policies to validate and defend Obama’s record. Critics use Biden’s later controversies, policy choices, or perceived missteps to cast doubt on Obama’s judgment and to reframe Obama-era compromises as failures rather than prudent pragmatism.",
+    "queries": [
+      "How do people view Joe Biden’s political alignment with Barack Obama?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "vice president",
+    "wiki_title": "vice president",
+    "summary": "Debates over Obama’s vice-presidential choices (notably Joe Biden) are used to signal his political judgment and priorities—supporters argue the pick provided experience, credibility, and ticket balance, while critics portray it as evidence of centrist, establishment instincts and a preference for stability over transformation. References to the vice presidency also feature in assessments of Obama’s legacy, with defenders crediting the VP’s role in securing legislation and opponents blaming the partnership for policy compromises.",
+    "queries": [
+      "What impact did Obama's vice president have on his presidency?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "2020 presidential campaign",
+    "wiki_title": "donald trump 2020 presidential campaign",
+    "summary": "The Trump 2020 campaign repeatedly used Barack Obama as a foil, blaming his administration for economic weakness, perceived foreign-policy softness, and immigration 'open borders' to justify rolling back Obama's policies and rally conservative voters against the liberal establishment. Democrats counter-framed Trump as actively dismantling Obama's legacy—on health care, climate, and international agreements—to defend Obama's record and portray Trump as undoing progress.",
+    "queries": [
+      "Are Barack Obama's 2020 presidential campaign efforts justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "hillary clinton",
+    "wiki_title": "hillary clinton",
+    "summary": "Clinton is used as both a foil and a touchstone in arguments about Obama: opponents invoke her controversies and hawkish foreign-policy record to argue the Obama administration was either beholden to establishment, interventionist tendencies or lacked accountability, while supporters point to her endorsement and shared Democrat establishment credentials to justify Obama’s pragmatic, continuity-driven choices.",
+    "queries": [
+      "Is Hillary Clinton’s influence on Barack Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "2008 democratic primary",
+    "wiki_title": "2008 democratic party presidential primaries",
+    "summary": "The 2008 Democratic primaries are frequently used to frame Obama as a transformational, grassroots-driven candidate whose message of change and coalition-building proved his electability and mandate; opponents, however, point to the bitter Clinton fight, media momentum, and superdelegate dynamics to challenge his experience, authenticity, or progressive bona fides.",
+    "queries": [
+      "Is the 2008 democratic primary's outcome reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "clinton foundation",
+    "wiki_title": "clinton foundation",
+    "summary": "Critics of Barack Obama often invoke controversies around the Clinton Foundation to portray the broader Democratic establishment—including Obama’s allies—as ethically compromised, using those claims to discredit his administration and justify opposition to his policies. Supporters counter that such attacks are partisan smears that do not demonstrate wrongdoing by Obama himself and should not be used to negate his record.",
+    "queries": [
+      "How do people view the Clinton Foundation in Obama-era politics?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "superdelegate",
+    "wiki_title": "superdelegate",
+    "summary": "During Obama’s 2008 nomination fight and in subsequent elections, appeals to superdelegates have been used to validate his electability and establishment support—his campaign’s courting of party insiders was framed as proof of broad party legitimacy—while critics have invoked superdelegate influence to accuse Obama or his backers of benefiting from undemocratic, elite-driven power; later references to his ability to move party leaders are used to justify centrist policy choices or portray him as a gatekeeper of the Democratic establishment.",
+    "queries": [
+      "What effects did superdelegate backing have on Obama's political support?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1",
+    "level": 3,
+    "topic": "orly taitz",
+    "wiki_title": "orly taitz",
+    "summary": "Orly Taitz was a high-profile promoter of claims questioning Barack Obama’s presidential eligibility; her lawsuits and public allegations have been used to lend apparent legal weight to efforts to delegitimize his presidency and rally opponents. Critics, however, cite her repeated courtroom failures and fringe tactics to dismiss the birth-certificate controversy as baseless, politically motivated, and often racially charged.",
+    "queries": [
+      "Is Orly Taitz’s criticism of Barack Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "joe arpaio",
+    "wiki_title": "joe arpaio",
+    "summary": "Joe Arpaio is often invoked in debates about Barack Obama—his promotion of a ‘birther’ investigation and hardline immigration posture have been used by critics to question Obama’s legitimacy and push for tougher immigration enforcement, while supporters and civil‑rights advocates cite Arpaio’s record of racial profiling and legal sanctions as evidence that Obama’s administration and the DOJ needed to more forcefully defend civil rights against discriminatory local policing.",
+    "queries": [
+      "Were Joe Arpaio’s practices during Obama’s presidency justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "long-form birth certificate",
+    "wiki_title": "birth certificate",
+    "summary": "Claims about Barack Obama’s birth certificate were central to the 'birther' movement, used by critics to challenge his constitutional eligibility and malign his legitimacy as president, while supporters pointed to the released documents to refute conspiracy theories. Debates over the certificate also became a proxy for wider disputes about trust in institutions, race, and partisan polarization in U.S. politics.",
+    "queries": [
+      "How do people view Obama's long-form birth certificate?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "hawaii department of health",
+    "wiki_title": "hawaii department of health",
+    "summary": "The Hawaii Department of Health’s vital records and officials are frequently cited in debates over Obama’s legitimacy: supporters point to its confirmation of his Honolulu birth and certified birth records to rebut “birther” claims, while skeptics and critics use alleged irregularities or delays in access to those records to cast doubt on his eligibility and demand greater transparency.",
+    "queries": [
+      "Is the hawaii department of health under Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "natural-born citizen",
+    "wiki_title": "natural-born-citizen clause",
+    "summary": "Opponents used the natural-born-citizen clause in the 'birther' movement to argue that Obama was constitutionally ineligible, framing his presidency as illegitimate and justifying legal challenges and conspiratorial attacks; supporters and legal scholars invoked prevailing interpretations and his birth documentation to rebut those claims and condemn the clause's deployment as an exclusionary, often racially charged tactic.",
+    "queries": [
+      "How do people view the natural-born citizen claims about Obama?"
+    ]
+  },
+  {
+    "id": "C1-5-8",
+    "parent": "C1",
+    "level": 3,
+    "topic": "worldnetdaily",
+    "wiki_title": "worldnetdaily",
+    "summary": "WND has amplified conspiratorial and highly critical narratives about Barack Obama to cast doubt on his legitimacy and character, mobilizing conservative audiences and justifying opposition to his presidency. Its coverage frames Obama as untrustworthy and an ideological threat, bolstering resistance to his domestic and foreign-policy initiatives.",
+    "queries": [
+      "What impact does worldnetdaily have on perceptions of Barack Obama?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "affordable care act",
+    "wiki_title": "affordable care act",
+    "summary": "The Affordable Care Act is treated as Barack Obama's signature domestic achievement—supporters cite it as proof of his commitment to expanding health coverage and pragmatic reform, while opponents use the label “Obamacare” to portray him as endorsing costly government overreach and to attack his competence and ideology. It is repeatedly invoked in campaigns, court battles, and legacy debates to frame whether Obama’s presidency advanced progressive social policy or represented flawed, intrusive governance.",
+    "queries": [
+      "What consequences has the Affordable Care Act caused for healthcare?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "healthcare.gov",
+    "wiki_title": "healthcare.gov",
+    "summary": "Healthcare.gov's bungled rollout and cost overruns are often cited by critics to portray Barack Obama as an ineffectual manager and to argue that his signature Affordable Care Act was wasteful and poorly implemented; defenders acknowledge the technical failures but argue the site’s fixes and the law’s coverage gains bolster claims that Obama delivered meaningful healthcare reform despite implementation challenges.",
+    "queries": [
+      "How do people view healthcare.gov in Obama's legacy?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "individual mandate",
+    "wiki_title": "individual mandate",
+    "summary": "The individual mandate is a recurring political symbol in discussions of Barack Obama’s presidency: opponents use it to paint him as favoring coercive, \"big government\" solutions and to argue against his healthcare agenda, while supporters present it as a pragmatic mechanism central to the Affordable Care Act that reflects his commitment to expanding coverage and managing costs; the mandate also anchors constitutional critiques and defenses (e.g., NFIB v. Sebelius) that shape views of his administration’s legitimacy and scope.",
+    "queries": [
+      "Is Obama's individual mandate reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "medicaid expansion",
+    "wiki_title": "medicaid coverage gap",
+    "summary": "Supporters of Obama point to the Medicaid coverage gap to defend his signature health law, saying the ACA greatly expanded eligibility and that the remaining uninsured are mainly the result of GOP-controlled states refusing to adopt expansion. Critics use the gap to argue the law—and by extension Obama—overreached or fell short, casting the ACA as a policy failure that left vulnerable low-income people without coverage and fueling attacks on his leadership and federal policy design.",
+    "queries": [
+      "What consequences has Obama’s medicaid expansion produced?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "nfib v. sebelius",
+    "wiki_title": "national federation of independent business v. sebelius",
+    "summary": "NFIB v. Sebelius is often cited in discussions of Barack Obama because the Supreme Court largely upheld his signature Affordable Care Act, which supporters use to legitimize his achievement in expanding healthcare; opponents, however, point to the Court’s limiting of Medicaid coercion and insistence on narrowly construed federal power to argue the law represented overreach and a compromised or judicially salvaged legacy.",
+    "queries": [
+      "What consequences has nfib v. sebelius had for Obama's legacy?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "john roberts",
+    "wiki_title": "john roberts",
+    "summary": "Roberts is frequently cited in debates about Obama because his pivotal vote to uphold the Affordable Care Act is used by supporters as judicial validation of Obama’s domestic legacy, while critics cast that same decision as a betrayal of conservative principles and point to later conservative rulings by the Roberts Court (especially on voting and administrative power) to argue that Obama’s reforms were ultimately constrained by the judiciary. His image as an institutionalist swing-voter is therefore deployed both to credit Obama with a lasting achievement and to frame limits or compromises in Obama’s policy agenda.",
+    "queries": [
+      "Is John Roberts’ approach to Obama-era issues reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "premium subsidies",
+    "wiki_title": "premium tax credit",
+    "summary": "The premium tax credit is often deployed as tangible evidence in debates about Barack Obama’s presidency—supporters point to it as proof he meaningfully expanded affordable coverage for middle- and lower-income Americans, while critics use the subsidies to argue he expanded government spending, fostered reliance on federal aid, and left health insurance markets distorted under “Obamacare.”",
+    "queries": [
+      "What consequences have Barack Obama's premium subsidies caused?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "republican opposition",
+    "wiki_title": "opposition to francoism",
+    "summary": "In debates about Barack Obama, opposition to Francoism is invoked—particularly by Spanish and European commentators—to cast him as aligned with liberal, anti‑authoritarian values or, conversely, to criticize his pragmatic dealings with allies that appear to downplay historical injustices; it’s used to bolster portrayals of Obama as pro‑democracy or to fault him for insufficiently confronting authoritarianism.",
+    "queries": [
+      "Is republican opposition to Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "yes we can",
+    "wiki_title": "yes we can",
+    "summary": "Supporters invoke “Yes We Can” to frame Obama's political identity as hopeful, activist, and change-oriented, using the slogan to justify expectations for progressive reform and grassroots empowerment tied to his leadership. Critics deploy the phrase to cast his presidency as rhetorical flourish—arguing the slogan masked pragmatic compromises or unfulfilled promises and to criticize him as more symbolic than substantively transformative.",
+    "queries": [
+      "How do people view Barack Obama's yes we can slogan?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "david axelrod",
+    "wiki_title": "david axelrod",
+    "summary": "As Barack Obama’s longtime campaign chief and political consigliere, David Axelrod is often invoked to credit Obama’s electoral messaging, coalition-building, and pragmatic, disciplined approach to politics; opponents, however, cite Axelrod to argue that Obama’s team prioritized image-management and electoral calculation over ideological boldness or substantive policy risk-taking.",
+    "queries": [
+      "Is David Axelrod’s role with Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "organizing for america",
+    "wiki_title": "organizing for america",
+    "summary": "Supporters cite Organizing for America as evidence that Barack Obama transformed his campaign energy into organized grassroots pressure to advance his policy agenda, especially on health care; critics use it to argue he blurred the line between governing and partisan campaigning, portraying his administration as operating an ongoing political machine.",
+    "queries": [
+      "What effects has organizing for america had?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "will.i.am",
+    "wiki_title": "will.i.am",
+    "summary": "Will.i.am is often cited as a celebrity endorser whose public support, campaign appearances and tech-entrepreneur image are used to frame Obama as culturally hip, youth-oriented and pro-innovation, helping mobilize younger and urban voters; opponents, however, point to such star backing to argue Obama relied on celebrity cachet rather than substantive policy debate.",
+    "queries": [
+      "Is will.i.am’s support for Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "citizens united",
+    "wiki_title": "citizens united v. fec",
+    "summary": "Citizens United is often invoked in arguments about Obama’s record on money in politics: progressives cite the ruling to criticize him for not doing more to curb corporate and dark‑money influence that funds Super PAC attacks on his agenda, while defenders point to the decision as protecting independent political speech and as a structural constraint that limited what he could accomplish on campaign‑finance reform.",
+    "queries": [
+      "How do people view Citizens United during Barack Obama's presidency?"
+    ]
+  },
+  {
+    "id": "C1-8-1",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "super pacs",
+    "wiki_title": "super pac",
+    "summary": "In debates about Barack Obama, super PACs are portrayed both as the independent funding engines that amplify pro‑Obama messaging (e.g., Priorities USA Action) and as the means by which wealthy opponents pour millions into attack ads that paint him as radical or beholden to elite interests; critics say their influence undermines his grassroots/ reformist credibility, while defenders argue they merely enable outside groups to defend his policies.",
+    "queries": [
+      "What consequences have super pacs had for Obama's campaigns?"
+    ]
+  },
+  {
+    "id": "C1-8-2",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "dark money",
+    "wiki_title": "dark money",
+    "summary": "Opponents frequently invoke \"dark money\" to accuse Barack Obama, his campaigns, or his allies of being influenced by hidden special‑interest donors and to challenge his commitment to transparency and campaign‑finance reform. Supporters and Democratic strategists, meanwhile, have sometimes relied on undisclosed spending to defend or advance Obama‑aligned policies, provoking accusations of hypocrisy when he decried secret political money.",
+    "queries": [
+      "Is Obama’s use of dark money reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-3",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "priorities usa action",
+    "wiki_title": "priorities usa action",
+    "summary": "Priorities USA Action is often invoked in arguments about Obama as the Democratic super‑PAC that amplified pro‑Obama messaging and defended his policy record, especially on health care and the economy. Opponents use its spending as a critique that Obama benefited from big‑money outside groups and negative outside advertising, framing him as tied to establishment fundraising and outside influence.",
+    "queries": [
+      "Is Priorities USA Action’s influence on Obama-era politics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "crossroads gps",
+    "wiki_title": "american crossroads",
+    "summary": "American Crossroads is often cited as a conservative outside-spending vehicle that bankrolls negative ad campaigns and talking points portraying Barack Obama as fiscally irresponsible, weak on security, or a failed policymaker, shaping public perceptions of his record. Critics point to its ads as evidence of dark‑money efforts to delegitimize Obama’s agenda, while allies of his opponents use its messaging to justify opposition to his policies.",
+    "queries": [
+      "Are Crossroads GPS's campaign tactics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-5",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "constitutional amendment",
+    "wiki_title": "constitutional amendment",
+    "summary": "During and after Barack Obama’s presidency, advocates and critics invoked constitutional amendments as tools to respond to his policies or perceived overreach — for example conservatives pushed proposals to alter birthright citizenship and to curb executive power or impose term limits in reaction to his immigration and administrative actions, while social conservatives sought an amendment to ban same‑sex marriage. Supporters and reformers, by contrast, framed amendment efforts (such as a post‑Citizens United push on campaign finance or voting‑rights amendments) as corrective measures to structural problems that became salient during the Obama years.",
+    "queries": [
+      "Is Barack Obama’s support for a constitutional amendment reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-6",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "501(c)(4) nonprofits",
+    "wiki_title": "501(c)(3) organization",
+    "summary": "Obama-associated 501(c)(3) charities and foundations are invoked by supporters as legitimate, apolitical vehicles to preserve his legacy, fund civic programs, and educate the public about his policy priorities; by critics they are depicted as a way to channel donor money and maintain political influence behind the scenes. Debates over these organizations therefore shape arguments about transparency, ethical distance from active politics, and whether Obama’s agenda is continued through philanthropy rather than electoral politics.",
+    "queries": [
+      "Is Barack Obama's use of 501(c)(4) nonprofits justified or not?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "opensecrets",
+    "wiki_title": "opensecrets",
+    "summary": "OpenSecrets’ donor and lobbying data are frequently cited in debates about Barack Obama to support claims that his campaigns or administration were shaped by corporate donors and “revolving‑door” influence, fueling critiques that policy choices reflected special‑interest ties. Supporters and independent analysts also use its comparative transparency metrics to contextualize or rebut those accusations by showing fundraising patterns, disclosure levels, or differences from other politicians.",
+    "queries": [
+      "How do people view opensecrets' reporting on Obama?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "policy and governance",
+    "wiki_title": "governance",
+    "summary": "In debates about Obama, “governance” is used to cast him either as a pragmatic, institution-strengthening technocrat who repaired norms, built coalitions, and used regulatory tools and multilateral institutions to achieve complex reforms (e.g., Obamacare, Dodd‑Frank, Paris Agreement), or as the architect of an expanded administrative state whose reliance on executive actions, agency rule‑making and incremental, bureaucratic solutions is criticized as overreach, insufficiently democratic, or obstructive of more transformative change.",
+    "queries": [
+      "How do people view Obama's policy and governance record?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "kathleen sebelius",
+    "wiki_title": "kathleen sebelius",
+    "summary": "As Barack Obama’s Secretary of Health and Human Services, Kathleen Sebelius is frequently invoked in arguments about Obama’s health-care agenda: critics cite the troubled HealthCare.gov rollout and regulatory controversies to portray the administration as inept or intrusive, while supporters point to her role in implementing and defending the Affordable Care Act as evidence that Obama expanded access and followed through on reform.",
+    "queries": [
+      "How do people view Kathleen Sebelius’s tenure in the Obama administration?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "iran nuclear deal",
+    "wiki_title": "joint comprehensive plan of action",
+    "summary": "Supporters point to the JCPOA as evidence of Obama’s preference for multilateral diplomacy and non‑military solutions, using it to praise his legacy on nonproliferation and pragmatic risk reduction. Critics invoke the deal to portray Obama as naive or weak on national security—accusing him of appeasing Iran, jeopardizing allies, and prioritizing negotiation over U.S. strategic interests.",
+    "queries": [
+      "Is Barack Obama's Iran nuclear deal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "benjamin netanyahu",
+    "wiki_title": "benjamin netanyahu",
+    "summary": "Benjamin Netanyahu is often used as a foil in discussions of Barack Obama’s foreign policy: critics point to Netanyahu’s disputes with Obama over settlements and the Iran nuclear deal to portray Obama as weak on Israel and overly conciliatory toward regional adversaries, while Obama defenders contrast Netanyahu’s hardline, partisan approach to argue that Obama prioritized diplomacy and multilateral agreements over unilateral security posturing.",
+    "queries": [
+      "What consequences did Barack Obama’s dealings with benjamin netanyahu cause?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "mohammad javad zarif",
+    "wiki_title": "mohammad javad zarif",
+    "summary": "As Iran’s chief negotiator during the 2015 nuclear talks, Mohammad Javad Zarif is used in discussions about Obama to validate the administration’s outreach—supporters point to his cooperation and public praise as proof diplomacy worked, while critics cite his demands and later rhetoric to claim Obama was overly conciliatory and gave Iran unwanted concessions.",
+    "queries": [
+      "How do people view Mohammad Javad Zarif’s role in talks with Obama?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "p5+1",
+    "wiki_title": "p5+1",
+    "summary": "In debates over Obama's Iran policy, the P5+1 is invoked by supporters as evidence of his coalition‑building, multilateral diplomacy and pragmatic restraint in negotiating limits on Iran's nuclear program. Critics use the P5+1 to portray Obama as weak or overly conciliatory—arguing the process conceded too much, sidelined Congress, and amounted to appeasement rather than strong security policy.",
+    "queries": [
+      "Is Obama's p5+1 diplomacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "iaea",
+    "wiki_title": "international atomic energy agency",
+    "summary": "The IAEA is frequently invoked in debates over Obama’s Iran strategy: defenders point to its verification reports as evidence that the JCPOA successfully constrained Iran and validated Obama’s multilateral, inspection‑based approach, while critics argue his reliance on IAEA assessments understated ongoing risks and reflected excessive trust in international bodies. References to the agency therefore help frame Obama either as a successful, diplomacy‑first leader or as too willing to defer to international institutions instead of using tougher enforcement.",
+    "queries": [
+      "How do people view Obama’s relationship with the iaea?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "sanctions relief",
+    "wiki_title": "sanctions during the venezuelan crisis",
+    "summary": "Sanctions during the Venezuelan crisis are invoked in debates about Barack Obama to argue over his foreign‑policy temperament—critics use them to say he was either complicit or ineffective (failing to stop Maduro or having enabled covert regime‑change rhetoric), while defenders portray his targeted, multilateral measures as cautious pressure that avoided military intervention. They thus serve to cast Obama either as too weak and morally compromised or as prudently restrained compared with later, harder‑line approaches.",
+    "queries": [
+      "How do people view Obama’s sanctions relief policies?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "u.s. withdrawal (2018)",
+    "wiki_title": "2020–2021 u.s. troop withdrawal from afghanistan",
+    "summary": "The 2020–2021 U.S. withdrawal from Afghanistan is invoked to judge Obama’s Afghanistan legacy—critics claim his earlier drawdowns and nation‑building limits set the stage for the eventual collapse and portray his strategy as strategic failure, while defenders argue he responsibly reduced large‑scale combat operations and that later chaotic outcomes reflect decisions and constraints after his administration rather than his own policies.",
+    "queries": [
+      "What consequences has the u.s. withdrawal (2018) caused?"
+    ]
+  },
+  {
+    "id": "C2-2-8",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "islamic revolutionary guard corps",
+    "wiki_title": "islamic revolutionary guard corps",
+    "summary": "The Islamic Revolutionary Guard Corps is often invoked by critics to portray Barack Obama as weak or appeasing toward Iran—arguing his outreach and the JCPOA failed to constrain Iran’s regional militancy and empowered the IRGC and its proxy networks. Conversely, defenders use the IRGC to justify Obama’s emphasis on diplomacy and sanctions, saying his policies reduced the risk of nuclear escalation and managed Iranian behavior without resorting to war.",
+    "queries": [
+      "What impacts has the Islamic Revolutionary Guard Corps had internationally?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "tea party movement",
+    "wiki_title": "tea party movement",
+    "summary": "Tea Party activists portrayed Barack Obama as a symbol of big‑government overreach and fiscal irresponsibility, using populist and constitutionalist rhetoric to justify intense opposition to his agenda. They galvanized electoral and grassroots challenges to his signature policies—most notably health‑care and stimulus measures—shaping public debate to cast him as a polarizing liberal and a target for sustained Republican resistance.",
+    "queries": [
+      "Is the tea party movement’s opposition to Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "freedomworks",
+    "wiki_title": "freedomworks",
+    "summary": "FreedomWorks helped shape anti-Obama narratives by portraying him as a big‑government, high‑taxing 'socialist' whose healthcare, stimulus and regulatory agenda threatened economic freedom and individual liberty. It channeled messaging, ads and grassroots pressure to oppose the Affordable Care Act, stimulus spending and Obama-era regulations while promoting tax cuts and deregulation as the preferred policy alternatives.",
+    "queries": [
+      "What effects has freedomworks had on debates about Obama's agenda?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "tea party patriots",
+    "wiki_title": "tea party patriots",
+    "summary": "Tea Party Patriots have been used to portray Barack Obama as a symbol of federal overreach and fiscal irresponsibility, organizing protests and grassroots campaigns to oppose his stimulus, Affordable Care Act, and executive actions. Their messaging frames Obama’s agenda as a threat to limited government and lower taxes, bolstering Republican challengers and arguments for rolling back his policies.",
+    "queries": [
+      "Is Tea Party Patriots' opposition to Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "2010 midterm elections",
+    "wiki_title": "2010 united states elections",
+    "summary": "The 2010 United States elections are invoked as a public rebuke of Barack Obama's first-term agenda—especially the Affordable Care Act—and are used by critics to argue his policies, messaging, and leadership precipitated Democratic losses and a loss of political mandate. Supporters counter that the results reflect normal midterm backlash and turnout dynamics, using them to justify tactical course-corrections rather than a wholesale indictment of Obama’s presidency.",
+    "queries": [
+      "How do people view the 2010 midterm elections for Obama's presidency?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "glenn beck",
+    "wiki_title": "glenn beck",
+    "summary": "Beck framed Barack Obama as a radical, un-American threat to liberty and traditional values, using alarmist rhetoric and conspiratorial narratives to delegitimize his presidency. His broadcasts and campaigns helped mobilize conservative opposition to Obama-era policies (e.g., the Affordable Care Act and expanded federal programs) by casting them as steps toward centralized, unaccountable power.",
+    "queries": [
+      "Is Glenn Beck’s criticism of Barack Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "fiscal conservatism",
+    "wiki_title": "fiscal conservatism",
+    "summary": "Fiscal conservatives routinely portray Obama's stimulus, Affordable Care Act, and expanded regulatory/entitlement spending as examples of big‑government overreach and unsustainable deficits, using those charges to justify tax cuts, spending caps, and austerity measures (e.g., debt‑ceiling fights and the 2011 sequester). They deploy this framing to oppose his agenda, press for smaller-government alternatives, and label his economic stewardship as fiscally irresponsible.",
+    "queries": [
+      "What effects has Obama's fiscal conservatism produced?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "supreme court",
+    "wiki_title": "supreme court",
+    "summary": "References to the Supreme Court are often used to judge and politicize Obama’s legacy: supporters argue his nominees and favorable rulings defended Obamacare, civil‑rights and immigration initiatives, while critics cite adverse decisions and alleged judicial overreach to challenge his policies. Debates over confirmations (including the blocking of Merrick Garland) and high‑profile rulings are deployed to justify Senate obstruction or aggressive confirmation strategies and to frame broader arguments about constitutional limits and partisan control.",
+    "queries": [
+      "How do people view Obama’s Supreme Court nominations?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "elena kagan",
+    "wiki_title": "elena kagan",
+    "summary": "Kagan is invoked as evidence of Obama’s judicial strategy—supporters cite her confirmation and pragmatic, consensus‑oriented record to argue he prioritized competence, diversity, and confirmable nominees, while critics use her moderate or institutionalist decisions to claim his appointments failed to produce a reliably progressive Court.",
+    "queries": [
+      "How do people view Elena Kagan’s judicial philosophy?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "merrick garland",
+    "wiki_title": "merrick garland",
+    "summary": "Garland’s blocked 2016 Supreme Court nomination is invoked by Obama’s defenders to highlight that Obama picked a qualified, moderate consensus nominee and to indict Republican obstruction as unfairly limiting his ability to shape the judiciary; opponents use the episode to argue Obama settled for an establishment choice instead of pushing a more progressive nominee, framing it as a missed opportunity in his judicial legacy.",
+    "queries": [
+      "What effects has Merrick Garland had on public trust in justice?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "antonin scalia",
+    "wiki_title": "antonin scalia",
+    "summary": "Conservative commentators invoke Justice Antonin Scalia’s originalist rulings and blunt critiques of expansive executive or statutory readings to argue that Barack Obama’s legal theories and judicial nominees were unconstitutional or illegitimate; conversely, Democrats and Obama allies point to Scalia’s opinions and the GOP’s refusal to fill his 2016 vacancy as evidence that a conservative Supreme Court and partisan obstruction constrained and blocked much of Obama’s policy agenda.",
+    "queries": [
+      "How do people view Antonin Scalia’s judicial influence during Obama’s presidency?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "daca",
+    "wiki_title": "deferred action for childhood arrivals",
+    "summary": "Supporters cite Obama's implementation of Deferred Action for Childhood Arrivals as evidence of compassionate, pragmatic leadership that protected undocumented youth when Congress failed to act, framing it as a key part of his immigration legacy. Critics use DACA to attack Obama for alleged executive overreach, portraying him as bypassing lawmakers and enabling ‘amnesty’ for unlawful immigrants.",
+    "queries": [
+      "How do people view daca under Obama's administration?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "dreamers",
+    "wiki_title": "the dreamers",
+    "summary": "References to the Dreamers are used to portray Obama either as a compassionate, pragmatic leader who protected vulnerable undocumented youth via DACA and pushed a humane immigration agenda, or as a target of criticism for overstepping executive authority and for deportation totals and failed comprehensive reform; thus the term is deployed both to defend his immigration legacy and to argue he fell short or abused power.",
+    "queries": [
+      "How do people view policies affecting dreamers?"
+    ]
+  },
+  {
+    "id": "C2-5-2",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "executive action",
+    "wiki_title": "executive action (film)",
+    "summary": "References to the film Executive Action are occasionally used in discussions about Barack Obama to evoke conspiratorial or covert-manipulation themes, framing his decisions as driven by hidden elite interests or secretive executive power. Such invocations tend to support skeptical, anti-establishment critiques of Obama’s motives and unilateral use of authority rather than neutral policy analysis.",
+    "queries": [
+      "What effects has Barack Obama's executive action had?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "american civil liberties union",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is frequently cited in debates over Obama’s civil‑liberties record: critics lean on ACLU lawsuits and reports to argue his administration expanded surveillance, detention, and targeted‑killing powers, while supporters point to the ACLU’s advocacy on LGBT, reproductive, and immigrant rights to portray Obama as advancing individual liberties. In short, the ACLU serves both as an authoritative critic used to charge Obama with eroding constitutional protections and as a validation source when his policies are framed as protecting civil liberties.",
+    "queries": [
+      "Was the american civil liberties union’s criticism of Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "drone strikes",
+    "wiki_title": "drone warfare",
+    "summary": "Drone warfare is central to debates over Obama’s legacy: supporters frame his expanded drone program as an effective, low-risk counterterrorism tool that protected U.S. forces, while critics use it to condemn his administration for secrecy, questionable legal justifications, civilian casualties, and an expanded executive war-making authority.",
+    "queries": [
+      "What consequences have Barack Obama's drone strikes caused?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "central intelligence agency",
+    "wiki_title": "central intelligence agency",
+    "summary": "In debates about Obama the CIA is often invoked to justify or condemn his counterterrorism record: defenders point to agency intelligence and covert actions (including drone targeting) as necessary security tools, while critics use CIA secrecy, civilian‑casualty and rendition controversies to attack his human‑rights record and claim his administration either over‑relied on or politicized intelligence in episodes like Benghazi and the 2016 Russia assessments.",
+    "queries": [
+      "How do people view the Central Intelligence Agency under Obama?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "signature strikes",
+    "wiki_title": "targeted killing",
+    "summary": "Debates about Obama's use of targeted killing—especially drone strikes—are central to narratives that portray him either as a pragmatic leader who used precise force to protect Americans and degrade terrorist networks or as an executive who expanded secretive, extra-judicial power, caused civilian casualties, and undermined legal and moral norms. These arguments are used to justify praise for his counterterrorism record or to condemn his legacy on civil liberties, accountability, and international law.",
+    "queries": [
+      "How do people view signature strikes under Obama?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "disposition matrix",
+    "wiki_title": "disposition matrix",
+    "summary": "The 'disposition matrix' is often invoked by critics to argue that Obama's counterterrorism strategy relied on a secretive, algorithmic \"kill list\" that expanded executive power, normalized drone strikes, and sidestepped due process, undermining his human-rights credentials. Supporters use it to frame Obama as a pragmatic commander-in-chief who used targeted lethal tools to protect Americans and disrupt terrorist networks.",
+    "queries": [
+      "How do people view Obama’s disposition matrix?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "anwar al-awlaki",
+    "wiki_title": "anwar al-awlaki",
+    "summary": "Al-Awlaki’s killing is frequently invoked to criticize Obama for expanding executive war powers and authorizing the extrajudicial targeting of a U.S. citizen, fueling arguments about violations of civil liberties and due process; conversely, supporters point to the strike as proof of Obama’s decisive, pragmatic counterterrorism leadership and willingness to take harsh measures to protect national security.",
+    "queries": [
+      "How do people view the targeting of anwar al-awlaki under Obama?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "civilian casualties",
+    "wiki_title": "civilian casualty",
+    "summary": "References to civilian casualties are central to critiques of Obama’s counterterrorism and military record—opponents point to deaths from drone strikes, airstrikes and special operations to accuse his administration of moral indifference, secrecy, or violations of international law. Supporters counter that some civilian harm was an unavoidable byproduct of targeting extremists, emphasizing stricter targeting rules, transparency measures, and efforts to reduce collateral damage to defend his policies and legacy.",
+    "queries": [
+      "Are Obama’s policies on civilian casualties justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "human rights watch",
+    "wiki_title": "human rights watch",
+    "summary": "Human Rights Watch is frequently invoked in debates about Barack Obama to document and criticize his administration’s national-security practices—especially drone strikes, targeted killings, detention at Guantánamo and surveillance—arguing they undermined U.S. human-rights and international-law commitments. Its critical reports are used to portray Obama as inconsistent with human-rights rhetoric and to demand accountability, while its occasional praise for specific reforms is cited by defenders to bolster his record.",
+    "queries": [
+      "What impact has human rights watch had on perceptions of Barack Obama?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "executive power",
+    "wiki_title": "executive (government)",
+    "summary": "The scope and use of the executive is a common lens for evaluating Barack Obama: critics portray his reliance on executive orders, DACA, regulatory action and national-security authorities as unlawful overreach and evidence of an \"imperial\" presidency, while supporters cast those same actions as legitimate, pragmatic uses of executive power to advance policy amid Congressional gridlock and protect public safety and climate/health goals.",
+    "queries": [
+      "How do people view Barack Obama's executive power?"
+    ]
+  },
+  {
+    "id": "C2-6-8",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "the new york times",
+    "wiki_title": "the new york times",
+    "summary": "The New York Times often frames Barack Obama as a pragmatic, intellectual liberal—highlighting his policy achievements and measured leadership in editorials and endorsements, which supporters cite to legitimize his competence and centrist accomplishments. At the same time, its reporting and opinion pages have documented and criticized administration failures (e.g., drone policy, surveillance, immigration enforcement), and both allies and critics use NYT coverage to bolster defenses or attacks on his record.",
+    "queries": [
+      "Are criticisms of the new york times about Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "2012 benghazi attack",
+    "wiki_title": "2012 benghazi attack",
+    "summary": "Critics used the 2012 Benghazi attack to portray Obama’s leadership as weak, negligent on diplomatic security, and dishonest about the causes and response—fueling investigations and long-term political attacks on his competence in counterterrorism and crisis management. Supporters counter that those arguments are partisan politicization of a chaotic, intelligence-driven incident and defend Obama’s broader national security record while framing calls for blame as unfair.",
+    "queries": [
+      "How do people view the handling of the 2012 Benghazi attack?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "susan rice",
+    "wiki_title": "susan rice",
+    "summary": "Susan Rice is frequently invoked in debates over Obama’s foreign‑policy competence and the administration’s handling of national security: supporters highlight her expertise and role defending Obama’s diplomatic and counterterrorism choices, while critics use the Benghazi and ‘unmasking’ controversies to argue the White House mishandled intelligence, politicized security matters, or sought to deflect blame.",
+    "queries": [
+      "Is Susan Rice’s role in Obama’s administration justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "trey gowdy",
+    "wiki_title": "trey gowdy",
+    "summary": "Conservative critics invoke Trey Gowdy’s hard‑nosed, televised investigations (notably the Benghazi hearings) to portray the Obama administration as secretive, inept, or engaged in cover‑ups, while Obama supporters use Gowdy as an example of partisan grandstanding and politically motivated oversight to dismiss those allegations.",
+    "queries": [
+      "How do people view Trey Gowdy’s role in Obama-era investigations?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "house select committee on benghazi",
+    "wiki_title": "united states house select committee on benghazi",
+    "summary": "Republicans used the House Select Committee on Benghazi to attack Barack Obama’s leadership and national-security record, arguing the administration mishandled the 2012 attack and concealed information to avoid blame. Democrats and allies countered that the committee was a partisan weapon aimed at damaging Obama’s (and Hillary Clinton’s) reputation, shaping public debate as one about political motives versus genuine accountability.",
+    "queries": [
+      "How do people view the House Select Committee on Benghazi?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "ansar al-sharia",
+    "wiki_title": "ansar al-sharia",
+    "summary": "References to Ansar al‑Sharia are often used in debates over Obama’s counterterrorism and Middle East policy—critics invoke the group (especially in narratives about the 2012 Benghazi attack and post‑intervention instability) to argue he was weak or negligent, while defenders point to Obama administration strikes and intelligence operations against similar militias to justify his approach and accuse opponents of politicizing terrorism.",
+    "queries": [
+      "How do people view ansar al-sharia's activities?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign policy and diplomacy",
+    "wiki_title": "foreign policy",
+    "summary": "In debates about Obama, foreign policy is invoked to cast him as a pragmatic diplomat who favored multilateral tools and negotiated agreements—examples cited by supporters include the Iran nuclear deal, the Paris Agreement, and the pivot to Asia. Critics use foreign-policy arguments to portray him as overly cautious or weakening U.S. deterrence by avoiding large-scale military commitments (Syria chemical-weapons response, Libya aftermath, withdrawals from Iraq and Afghanistan) and by relying on drones and sanctions instead.",
+    "queries": [
+      "How do people view Barack Obama's foreign policy and diplomacy?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "bin laden raid",
+    "wiki_title": "killing of osama bin laden",
+    "summary": "The killing of Osama bin Laden is often cited to portray Obama as a decisive, effective commander‑in‑chief who achieved a signature national‑security victory that bolstered his leadership and foreign‑policy credibility; critics use the operation to argue about credit (pointing to long‑term intelligence work and the military) and to question the raid’s timing, secrecy, and what it reveals about his broader counterterrorism and transparency record.",
+    "queries": [
+      "Was Barack Obama's bin laden raid justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "seal team six",
+    "wiki_title": "seal team six",
+    "summary": "References to SEAL Team Six are often invoked to portray Obama as a decisive commander‑in‑chief whose authorization of the raid that killed Osama bin Laden validates his national-security judgment and bolsters claims of successful counterterrorism policy; conversely, critics use the operation to downplay presidential credit, emphasize military initiative over civilian leadership, or allege politicization and secrecy in how the administration handled intelligence and publicity.",
+    "queries": [
+      "Was Obama’s use of Seal Team Six justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "abbottabad compound",
+    "wiki_title": "osama bin laden's compound in abbottabad",
+    "summary": "The Abbottabad compound is often cited by supporters as the tangible proof of Barack Obama’s effectiveness as commander-in-chief and the success of his counterterrorism strategy, bolstering narratives of decisive leadership. Opponents invoke the compound to criticize his administration’s intelligence oversight, alleged political timing and secrecy around the operation, and to raise questions about U.S.–Pakistan relations and transparency.",
+    "queries": [
+      "Was Obama’s raid on the Abbottabad compound justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "burial at sea",
+    "wiki_title": "burial at sea",
+    "summary": "Debates about Barack Obama invoke burial at sea chiefly in reference to his administration’s decision to inter Osama bin Laden’s remains at sea — supporters frame it as a lawful, pragmatic choice that avoided creating a shrine and respected Islamic customs, while critics and conspiracy theorists portray it as hasty, opaque, and evidence of a cover-up or cultural disrespect.",
+    "queries": [
+      "What consequences would Barack Obama’s burial at sea cause?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "zero dark thirty",
+    "wiki_title": "zero dark thirty",
+    "summary": "Zero Dark Thirty is often invoked in debates about Barack Obama’s counterterrorism legacy—supporters cite its dramatization of the bin Laden raid to portray him as a decisive, effective commander-in-chief, while critics use the film’s depiction of torture to attack his human-rights record and argue his administration tolerated or relied on abusive interrogation tactics.",
+    "queries": [
+      "Is Zero Dark Thirty’s portrayal of the Obama administration reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "inter-services intelligence",
+    "wiki_title": "inter-services intelligence",
+    "summary": "The ISI is often invoked in arguments about Obama’s South Asia policy: critics cite its alleged links to militants to portray his administration as either naive, ineffective, or compromising U.S. security, while defenders argue Obama had to pragmatically work with Pakistan’s intelligence services to obtain cooperation for drone strikes, intelligence sharing, and counterterrorism operations such as the bin Laden raid.",
+    "queries": [
+      "Is inter-services intelligence's cooperation with the Obama administration justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "sanctions against iran",
+    "wiki_title": "international sanctions against iran",
+    "summary": "International sanctions against Iran are frequently invoked in assessments of Barack Obama’s foreign policy: supporters credit his administration’s multilateral sanctions strategy with pressuring Tehran into negotiations and justifying the 2015 nuclear deal as pragmatic diplomacy, while critics argue that sanction relief under Obama rewarded Iran, weakened deterrence, and exemplified appeasement. Political opponents also use sanctions relief to portray Obama as soft on national security and insufficiently tough on hostile regimes.",
+    "queries": [
+      "Are Obama's sanctions against Iran justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "ali khamenei",
+    "wiki_title": "ali khamenei",
+    "summary": "Khamenei is frequently invoked in debates over Obama’s Iran policy — opponents cite the Supreme Leader’s hostility and anti‑American rhetoric to portray Obama as naïve or appeasing for negotiating with Tehran, while supporters argue that engaging Iran under Obama’s terms constrained Khamenei’s options and reduced nuclear risk. His public threats to Israel and backing of regional proxies are also used to blame Obama for insufficiently defending U.S. allies and to justify tougher stances.",
+    "queries": [
+      "Is ali khamenei’s response to Obama’s Iran outreach justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "iranian nuclear program",
+    "wiki_title": "nuclear program of iran",
+    "summary": "Critics use Iran’s nuclear program to argue that Obama’s 2015 JCPOA and engagement strategy were naive appeasement that failed to prevent enrichment and endangered U.S. allies, justifying tougher, unilateral policies; supporters counter that the deal exemplified pragmatic multilateral diplomacy that delayed Iran’s ability to build a bomb and averted war, shaping his legacy as either weak on security or a skilled negotiator.",
+    "queries": [
+      "What consequences did Barack Obama’s policies on the iranian nuclear program have?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "john o. brennan",
+    "wiki_title": "john o. brennan",
+    "summary": "As Obama's longtime intelligence adviser and CIA director, John O. Brennan is frequently invoked by supporters to legitimize the administration's counterterrorism, drone strike, and surveillance decisions as expert-driven and legally justified; opponents use his involvement in targeted killings, secrecy, and expanded surveillance to criticize Obama for perpetuating post‑9/11 executive overreach and eroding civil liberties.",
+    "queries": [
+      "Are concerns about john o. brennan's surveillance practices reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "drone strikes in pakistan",
+    "wiki_title": "american drone strikes in pakistan",
+    "summary": "Arguments about American drone strikes in Pakistan are used to cast Obama either as a pragmatic counterterrorism leader who used remote strikes to remove high-value targets and limit U.S. troop exposure, or as a secretive, militaristic president whose administration relied on legally ambiguous programs that caused civilian casualties, violated sovereignty, and weakened transparency and oversight.",
+    "queries": [
+      "What impact do drone strikes in Pakistan under Obama have?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "trans-pacific partnership",
+    "wiki_title": "trans-pacific partnership",
+    "summary": "The Trans‑Pacific Partnership is often invoked in debates about Obama as evidence of his commitment to multilateral free‑trade and an Asian pivot—used by supporters to frame him as a pragmatic globalist seeking economic growth and U.S. influence. Opponents and populists used the TPP to criticize Obama as prioritizing corporate and investor interests over workers, sovereignty, and domestic jobs, a critique that helped fuel anti‑establishment backlash and tarnish parts of his economic legacy.",
+    "queries": [
+      "How do people view the trans-pacific partnership under Obama?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "south china sea disputes",
+    "wiki_title": "south china sea",
+    "summary": "The South China Sea disputes were often used by critics to argue Obama’s ‘pivot to Asia’ was weak—claiming his emphasis on diplomacy and cautious use of force allowed Chinese island‑building and left U.S. allies feeling underprotected. Supporters portray his approach (diplomatic backing for legal rulings, targeted freedom‑of‑navigation operations, and alliance-building) as a deliberate attempt to uphold international law and deter escalation without provoking direct conflict.",
+    "queries": [
+      "How do people view Obama's handling of south china sea disputes?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "xi jinping",
+    "wiki_title": "xi jinping",
+    "summary": "In U.S. debates Xi Jinping is used as a foil for assessing Obama’s China policy: critics argue Obama’s engagement and restraint allowed Xi’s more assertive, centralized and authoritarian posture to grow, while defenders say Xi’s hardline consolidation vindicates Obama’s focus on alliances, economic tools (e.g., the TPP) and measured diplomacy rather than confrontation.",
+    "queries": [
+      "Is xi jinping’s diplomacy toward Barack Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "asean",
+    "wiki_title": "asean",
+    "summary": "ASEAN is frequently cited in debates over Obama’s 'pivot to Asia'—supporters use his expanded summit diplomacy and trade initiatives (like pushing the TPP and elevating multilateral ties) to argue he strengthened U.S. influence and regional institutions, while critics use ASEAN to contend his approach relied on soft power and multilateralism that failed to check China’s rising influence or produce sufficiently robust security commitments to Southeast Asian states.",
+    "queries": [
+      "What effects did Obama’s ASEAN policies have?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "united states pacific command",
+    "wiki_title": "united states indo-pacific command",
+    "summary": "Supporters cite the U.S. Indo-Pacific Command as proof that Obama’s “pivot to Asia” responsibly bolstered deterrence, alliance-building, and regional stability, framing his administration as strategically reorienting U.S. defense priorities to counterbalance China. Critics invoke the command to argue Obama militarized the region, provoked Beijing, or overcommitted resources abroad, portraying the pivot as expensive, contradictory to his diplomacy-oriented rhetoric, or a neglect of other threats.",
+    "queries": [
+      "Was Barack Obama’s use of united states pacific command reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "cuban thaw",
+    "wiki_title": "cuban thaw",
+    "summary": "The Cuban thaw is often invoked to highlight Obama’s legacy as a pragmatic, engagement-minded diplomat who broke with Cold War orthodoxy to modernize U.S. policy toward adversaries; supporters cite it as evidence of successful soft‑power and practical statecraft. Critics counter that it exemplifies his naiveté or executive overreach—arguing he rewarded an authoritarian regime, weakened leverage on human‑rights reforms, and bypassed Congress—using the policy to attack his judgment on national security and sanctions strategy.",
+    "queries": [
+      "How do people view the Cuban thaw under Obama?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "raúl castro",
+    "wiki_title": "raúl castro",
+    "summary": "Obama's engagement with Raúl Castro—culminating in restored diplomatic ties and high-profile meetings—is cited by supporters as evidence of pragmatic, post-Cold War diplomacy that advances U.S. interests and people-to-people exchange, while opponents invoke Castro's authoritarian record to accuse Obama of rewarding a repressive regime and failing to prioritize Cuban dissidents and human-rights pressure.",
+    "queries": [
+      "How do people view Raúl Castro’s role in U.S.-Cuba relations?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "alan gross",
+    "wiki_title": "alan gross",
+    "summary": "Alan Gross’s imprisonment and eventual release during the 2014 U.S.–Cuba thaw is often invoked by critics to portray Barack Obama as either weak on human-rights advocacy or willing to compromise U.S. principles and citizens in pursuit of rapprochement, while supporters point to the negotiated release as evidence of effective, pragmatic diplomacy that justified normalization with Cuba.",
+    "queries": [
+      "What impacts did Alan Gross's case have on Obama's Cuba policy?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "u.s. embargo",
+    "wiki_title": "united states embargo against cuba",
+    "summary": "Debates over the U.S. embargo against Cuba are used to praise or condemn Barack Obama’s approach to foreign policy: supporters point to his 2014–16 rapprochement and easing of sanctions as pragmatic, humanitarian modernization of Cold War policy, while critics (especially conservatives and some human‑rights advocates) argue he weakened leverage on the Castro regime, failed to secure democratic concessions, or improperly used executive action to roll back congressional embargo measures.",
+    "queries": [
+      "How do people view Obama's u.s. embargo approach?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "prisoner exchange",
+    "wiki_title": "prisoner exchange",
+    "summary": "Prisoner exchanges—most notably Obama’s 2014 trade returning Sgt. Bowe Bergdahl for five Guantánamo detainees—are invoked by critics to portray his leadership as naïve or willing to make dangerous concessions to militants, while supporters frame such swaps as a moral and pragmatic choice to bring Americans home, reduce Guantánamo’s detainee burden, and pursue diplomacy despite political backlash.",
+    "queries": [
+      "How do people view prisoner exchange under Barack Obama?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "cuban americans",
+    "wiki_title": "cuban americans",
+    "summary": "Cuban Americans are often invoked in debates over Obama’s Cuba policies: anti‑Castro, largely conservative members of the community were used to criticize his 2014 rapprochement and easing of embargo/travel rules as naïve or a betrayal of dissidents. Their relative reluctance to back Democrats is also cited to argue Obama alienated a key Hispanic voting bloc and complicated broader Latino outreach.",
+    "queries": [
+      "What consequences did Obama's Cuba policy have for Cuban Americans?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "paris agreement",
+    "wiki_title": "paris agreement",
+    "summary": "Supporters point to Obama’s role in securing U.S. participation in the Paris Agreement as proof of his climate leadership, multilateralism, and commitment to science-based policy. Critics invoke the deal’s voluntary, nonbinding nature and alleged economic costs to portray his climate agenda as symbolic, executive overreach, or harmful to American jobs and sovereignty.",
+    "queries": [
+      "Is Obama's Paris Agreement decision justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "clean power plan",
+    "wiki_title": "clean power plan",
+    "summary": "The Clean Power Plan is often invoked to portray Obama as a proactive climate leader who used executive regulatory power to reduce carbon emissions and leave an environmental legacy; conversely, critics use it to argue he overstepped federal authority, damaged the coal industry and raised energy costs, framing him as a regulator who prioritized climate goals over economic and states’ interests.",
+    "queries": [
+      "Is Barack Obama's clean power plan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "epa",
+    "wiki_title": "epa (disambiguation)",
+    "summary": "References to the EPA in debates about Barack Obama are used to portray his administration as prioritizing climate action and public-health regulation—citing rules like the Clean Power Plan and tighter emissions standards to justify progressive environmental policy. Opponents deploy EPA actions to accuse Obama of regulatory overreach, harming coal and manufacturing jobs, and using federal agencies to circumvent Congress and states.",
+    "queries": [
+      "What impacts did Obama-era EPA policies have?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "nationally determined contributions",
+    "wiki_title": "nationally determined contribution",
+    "summary": "Obama's U.S. NDC is often invoked by supporters as proof of his climate leadership and international legacy, used to justify his executive regulations and diplomatic push for ambitious emissions cuts; opponents cite the same commitments to accuse him of executive overreach, economic harm from regulatory targets, or of promising goals that were politically or practically difficult to meet.",
+    "queries": [
+      "How do people view Obama's nationally determined contributions?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "guantanamo bay",
+    "wiki_title": "guantánamo bay",
+    "summary": "Guantánamo Bay is often invoked to judge Obama’s record on civil liberties and national security: critics highlight his failure to close the detention facility and continued use of indefinite detention to argue he compromised campaign promises and human-rights principles, while defenders point to reduced detainee numbers, policy reforms, and congressional obstacles to argue he prudently balanced counterterrorism needs with legal constraints.",
+    "queries": [
+      "How do people view Guantanamo Bay under Barack Obama?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "hunger strike",
+    "wiki_title": "hunger strike",
+    "summary": "Hunger strikes—most notably those by Guantánamo and immigration detainees—have been used by activists to shame and pressure the Obama administration into closing Guantánamo and changing detention/immigration practices, framing him as morally responsible for detainees’ treatment. Critics seize these episodes (and controversies over force‑feeding) to argue Obama prioritized national‑security/legal constraints over human‑rights obligations, while defenders counter that his responses reflected complex legal and security limits rather than indifference.",
+    "queries": [
+      "Is a hunger strike in response to Obama's policies justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "military commissions",
+    "wiki_title": "military justice",
+    "summary": "References to military justice in debates about Barack Obama are used to defend his national‑security choices—arguing that military commissions, courts‑martial, and special rules were necessary to discipline forces and try terrorism suspects without jeopardizing intelligence or battlefield operations. Critics counter that his reliance on military justice (and refusal to fully civilianize trials or prosecute officials over detainee abuse and drone policies) betrayed promises of greater transparency and accountability and effectively insulated the administration from ordinary legal scrutiny.",
+    "queries": [
+      "What effects did Obama's military commissions have?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "national defense authorization act",
+    "wiki_title": "national defense authorization act",
+    "summary": "The National Defense Authorization Act—especially controversy over the 2012 detention provisions—is invoked to criticize Obama for allegedly enabling indefinite military detention and executive overreach, portraying him as compromising civil liberties in the name of security. Supporters, by contrast, point to his signing statements and selective enforcement to frame his actions as a pragmatic balancing of counterterrorism needs and legal protections rather than a hardline expansion of power.",
+    "queries": [
+      "What effects has the national defense authorization act under Obama caused?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "khalid sheikh mohammed",
+    "wiki_title": "khalid sheikh mohammed",
+    "summary": "Khalid Sheikh Mohammed is invoked in debates about Obama’s counterterrorism record: critics cite his handling of KSM (delays over Guantánamo closure, a scrapped civilian trial, and refusal to employ harsh interrogations) to portray Obama as weak or inconsistent on terrorism, while supporters point to Obama’s rejection of torture and emphasis on legal/targeted operations to frame his approach as principled and rule-of-law–oriented.",
+    "queries": [
+      "How do people view Khalid Sheikh Mohammed’s detention under Obama?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "force-feeding",
+    "wiki_title": "force-feeding",
+    "summary": "References to force‑feeding—most often in coverage of hunger strikes at Guantánamo during his administration—are used to criticize Obama for perpetuating harsh detention policies and failing to fulfill promises to close the facility, framing him as hypocritical on human‑rights. Supporters counter that discussions of force‑feeding justify his pragmatic stance that preventing deaths and protecting national security required difficult medical and legal choices.",
+    "queries": [
+      "How do people view force-feeding during Obama’s presidency?"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "parent": "C3",
+    "level": 2,
+    "topic": "john kerry",
+    "wiki_title": "john kerry",
+    "summary": "John Kerry is frequently invoked in debates about Barack Obama’s legacy as proof of Obama’s commitment to multilateral diplomacy and climate action—supporters point to Kerry’s stewardship of high-profile negotiations to justify Obama’s pragmatic, negotiation-first approach, while critics use Kerry-backed compromises (notably on Iran and peace talks) to argue that Obama’s foreign policy was overly conciliatory and aligned with establishment Democratic elites.",
+    "queries": [
+      "How do people view john kerry’s role in Obama’s foreign policy?"
+    ]
+  },
+  {
+    "id": "C3-8-1",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "secretary of state",
+    "wiki_title": "secretary of state",
+    "summary": "Observers use Obama’s secretaries of state (notably Hillary Clinton and John Kerry) as a shorthand for his foreign‑policy approach: critics cite perceived failures tied to the secretary of state — Benghazi, Syria, ISIS — to argue Obama was weak or ineffectual, while supporters point to diplomatic successes led by his secretaries (for example, the Iran negotiations) to justify his emphasis on multilateral diplomacy and negotiation.",
+    "queries": [
+      "Was Obama's choice for secretary of state justified or not?"
+    ]
+  },
+  {
+    "id": "C3-8-3",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "2004 dnc keynote",
+    "wiki_title": "2004 democratic national convention",
+    "summary": "Supporters point to the 2004 Democratic National Convention as the defining moment that demonstrated Obama’s rhetorical skill, national appeal, and message of unity and hope—used to justify his electability and leadership narrative—while critics invoke it as media-crafted momentum that emphasizes charisma and symbolism over experience or policy depth. It is also deployed in debates about race and generational change, either as evidence of his ability to bridge divides or as political theater that masks substantive questions about his record.",
+    "queries": [
+      "Is Barack Obama's 2004 dnc keynote justified or not?"
+    ]
+  },
+  {
+    "id": "C3-8-6",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "syrian chemical weapons",
+    "wiki_title": "syrian chemical weapons program",
+    "summary": "Debates about Syria's chemical weapons program are frequently used to judge Obama's foreign-policy credibility: critics point to the 2013 ‘red line’ episode and subsequent chemical attacks as evidence he was weak and that diplomacy failed to deter Assad, while supporters argue the OPCW-mediated removal demonstrated prudent restraint, effective multilateralism and avoided an unnecessary U.S. strike. The episode is also invoked in broader fights over presidential war powers and deterrence—cited to justify tougher interventionist policies by opponents and to defend diplomatic, limited use-of-force approaches by allies.",
+    "queries": [
+      "Is Obama’s response to Syrian chemical weapons justified or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "partisan and ideological debate",
+    "wiki_title": "bipartisanship",
+    "summary": "Obama repeatedly invoked bipartisanship to cast himself as a consensus-builder—arguing that initiatives like the 2009 stimulus and health-care reform sought cross-party cooperation and pragmatic compromise—while supporters used this framing to justify moderate policies and appeals to unity. Critics, however, used bipartisanship to fault him either for failing to win Republican support (e.g., GOP opposition to the Affordable Care Act) or for compromising progressive goals in the name of accommodation.",
+    "queries": [
+      "What consequences has the partisan and ideological debate over Obama caused?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "2013 government shutdown",
+    "wiki_title": "2013 united states federal government shutdown",
+    "summary": "The 2013 government shutdown is invoked by critics to portray Barack Obama as either a stubborn or ineffective negotiator whose leadership failed to prevent a self-inflicted fiscal crisis, while supporters use it to cast him as a principled defender of the Affordable Care Act who refused to yield to political hostage-taking—shaping debates about his crisis management, commitment to healthcare, and partisan responsibility. These competing framings underpin broader arguments about his use of executive authority, willingness to compromise, and the political blame for budgetary dysfunction.",
+    "queries": [
+      "Was the 2013 government shutdown justified under Barack Obama’s administration?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "irs targeting controversy",
+    "wiki_title": "irs targeting controversy",
+    "summary": "The IRS targeting controversy is commonly invoked by Obama's critics to portray his administration as politically vindictive and to argue he abused executive power, bolstering calls for oversight and framing him as hostile to conservative voices. Supporters counter that it reflected bureaucratic mismanagement rather than presidential intent, using the debate to defend Obama's record and minimize claims of partisan wrongdoing.",
+    "queries": [
+      "How do people view the irs targeting controversy?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "ted cruz",
+    "wiki_title": "ted cruz",
+    "summary": "Conservatives invoke Ted Cruz as a template for confrontational resistance to Barack Obama—framing opposition to Obama’s policies (especially on healthcare and executive authority) as principled, uncompromising defense of limited government—while critics use Cruz to portray anti‑Obama forces as ideologically extreme and willing to obstruct governance for political ends.",
+    "queries": [
+      "What impact has ted cruz had on Barack Obama’s policies?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News has been a key conservative forum for criticizing Barack Obama, routinely portraying his policies as overly liberal or even radical, questioning his competence and legitimacy (at times amplifying birther and delegitimizing narratives) and highlighting supposed failures of the Obama administration. By repeatedly framing his agenda as harmful to national security, the economy, or American values, the network helped mobilize Republican opposition and shape skeptical public attitudes toward his domestic and foreign-policy initiatives.",
+    "queries": [
+      "How do people view Fox News's portrayal of Barack Obama?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "operation fast and furious",
+    "wiki_title": "fast & furious",
+    "summary": "Conservatives and critics frequently invoke the Fast and Furious scandal to depict Barack Obama’s administration as careless and evasive—arguing the episode shows political mismanagement, weak oversight of law enforcement, and a lack of transparency that undermines his credibility on crime and border security. Defenders counter that it was a DOJ/ATF operational failure exploited by opponents to politicize and discredit Obama rather than evidence of direct presidential misconduct.",
+    "queries": [
+      "Was Operation Fast and Furious handled appropriately during Obama’s administration?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "executive orders",
+    "wiki_title": "executive order",
+    "summary": "References to Obama’s use of executive orders are a focal point in debates where supporters cast them as necessary, pragmatic tools to enact immigration relief (e.g., DACA), climate and regulatory priorities when Congress stalled, while critics frame the same actions as unlawful overreach that expands presidential power and circumvents legislators. Those competing narratives are used to justify praise for decisive governance or to attack Obama as undermining separation of powers and democratic accountability.",
+    "queries": [
+      "Are Barack Obama's executive orders justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "republican party",
+    "wiki_title": "republican party",
+    "summary": "Republican Party leaders and conservative commentators repeatedly framed Obama as a liberal, big‑government president whose Obamacare, stimulus, regulatory and immigration initiatives represented executive overreach and harmful economic interference. They used narratives about weak national security, excessive spending, and cultural opposition to mobilize voters, justify repeal or rollback of his policies, and challenge his legitimacy on fiscal and foreign‑policy grounds.",
+    "queries": [
+      "What consequences has the Republican Party’s opposition to Barack Obama caused?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "race and identity",
+    "wiki_title": "the madness of crowds: gender, race and identity",
+    "summary": "Critics invoke The Madness of Crowds to frame Barack Obama’s presidency as a turning point that normalized identity-based politics, arguing his outreach and emphasis on race and diversity helped foster the tribal, victimhood-driven agendas (e.g., affirmative action, diversity programs) the book opposes. Conservatives use it to justify skepticism of Obama-era policies and to cast his legacy as complicit in rising identity politics, while defenders call this a reductive critique of his record.",
+    "queries": [
+      "How do people view Barack Obama's race and identity influencing his policies?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "michelle obama",
+    "wiki_title": "michelle obama",
+    "summary": "Michelle Obama is often deployed to humanize and bolster Barack Obama’s image—her popularity, moral authority, and focus on education, health, and civic engagement are used to defend his character, explain his priorities, and shore up his legacy. Opponents, meanwhile, portray her activism and cultural influence as evidence of elite progressive influence on his policies or as a foil to intensify partisan critiques of his record.",
+    "queries": [
+      "Is Michelle Obama's public advocacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "first lady of the united states",
+    "wiki_title": "first lady of the united states",
+    "summary": "Michelle Obama’s tenure as First Lady was routinely invoked to humanize and politically bolster Barack Obama—her visible advocacy (education, health, military families) and high-profile campaigning were used to justify his progressive priorities and electability. Conversely, critics seized on her outspoken style, public influence and fashion to portray Obama as elitist or overly activist, sometimes using racially charged rhetoric to undermine his legitimacy.",
+    "queries": [
+      "How do people view Obama’s first lady of the United States role?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "let's move!",
+    "wiki_title": "let's move!",
+    "summary": "The Let’s Move! initiative is often invoked in discussions of Barack Obama to showcase the Obama administration’s emphasis on preventive public‑health policies for children and its willingness to use federal influence and public campaigns to change school nutrition and industry practices. Supporters point to it as evidence of the Obamas’ family‑focused, bipartisan problem‑solving; critics use it to frame the presidency as paternalistic or symbolic, arguing it exemplifies ‘nanny‑state’ overreach and misplaced priorities.",
+    "queries": [
+      "What consequences has Barack Obama's let's move! caused?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "black women voters",
+    "wiki_title": "black voters matter",
+    "summary": "The phrase/organizing frame \"black voters matter\" is deployed in debates about Obama to emphasize that Black turnout was decisive to his electoral success and to hold him accountable when critics see his policies as falling short on racial justice. It is used both to laud his symbolic breakthroughs for Black representation and to press or criticize him for not translating electoral support into stronger, systemic reforms for Black communities.",
+    "queries": [
+      "Is it reasonable to expect black women voters to support Barack Obama?"
+    ]
+  },
+  {
+    "id": "C5-2-1",
+    "parent": "C5",
+    "level": 3,
+    "topic": "stanley ann dunham",
+    "wiki_title": "ann dunham",
+    "summary": "Obama’s mother, Ann Dunham, is frequently invoked to portray him as shaped by a multicultural, working‑class and international upbringing—used by supporters to humanize him and justify his emphasis on diplomacy, social mobility, and global development. Opponents have at times weaponized her Indonesian ties and nontraditional background to question his American identity or loyalty, feeding narratives that challenge his patriotism or cultural belonging.",
+    "queries": [
+      "How do people view Stanley Ann Dunham's influence on Barack Obama?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "auma obama",
+    "wiki_title": "auma obama",
+    "summary": "Auma Obama is frequently cited in discussions about Barack Obama to humanize his Kenyan family background and underscore his international, multicultural roots; allies use her anecdotes and public commentary to bolster narratives of empathy and global perspective, while critics sometimes invoke her Kenyan ties to question his cultural authenticity or foreign-policy orientations regarding Africa.",
+    "queries": [
+      "Is Auma Obama's influence on Barack Obama's image reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "luo people",
+    "wiki_title": "luo people",
+    "summary": "Obama’s Luo ancestry is often invoked in public debates: critics have weaponized his Kenyan roots to question his ‘Americanness’ or stoke birther/foreign-origin narratives, while supporters and Luo/Kenyan communities celebrate it as diasporic pride and evidence of a multicultural, globally informed identity. In Kenyan discourse it can be used symbolically to claim sway or ethnic pride, though in U.S. policy discussions it’s rarely treated as substantive evidence of bias.",
+    "queries": [
+      "Is Obama's relationship with the luo people significant or not?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "university of hawaii",
+    "wiki_title": "university of hawaiʻi",
+    "summary": "Supporters point to Obama’s ties to Hawaii and visible links with local institutions like the University of Hawaiʻi to underline his native Hawaiian roots and multicultural, mainstream American upbringing as a rebuttal to claims he is foreign or unconnected to the mainland. Critics, meanwhile, sometimes invoke Hawaii’s liberal reputation and local institutions to frame his worldview as shaped by progressive island culture or to cast doubt on aspects of his backstory during attacks on his legitimacy.",
+    "queries": [
+      "Is criticism of the university of hawaii over Obama's ties reasonable?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "interracial marriage",
+    "wiki_title": "interracial marriage",
+    "summary": "References to interracial marriage—most notably that Obama’s father was Black and his mother white—are used by supporters to cast him as a living symbol of racial progress and a bridge between communities, while critics and racially charged attacks invoke it to question his racial authenticity, emphasize his ‘otherness,’ or undermine his standing in debates over race and identity.",
+    "queries": [
+      "Is Barack Obama's support for interracial marriage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "government of kenya",
+    "wiki_title": "government of kenya",
+    "summary": "References to the Government of Kenya are often invoked in public debates about Obama: critics have mined Kenyan records or official comments to promote birther-style claims or question his loyalties, while supporters point to Kenyan leaders' praise of his visits and policies to portray him as a champion of Africa and international development.",
+    "queries": [
+      "What consequences has the government of kenya had for Barack Obama's image?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "right-wing media",
+    "wiki_title": "right-wing alternative media in the united states",
+    "summary": "Right-wing alternative media repeatedly framed Barack Obama as illegitimate, anti-American, or secretly Muslim and used conspiracy narratives (like birtherism) to delegitimize him and mobilize opposition. They portrayed his signature policies—Obamacare, immigration actions, climate and regulatory efforts—as evidence of a socialist or authoritarian agenda, amplifying distrust in mainstream institutions and promoting hardline conservative resistance.",
+    "queries": [
+      "How do people view right-wing media coverage of Barack Obama?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "jeremiah wright",
+    "wiki_title": "jeremiah wright",
+    "summary": "Jeremiah Wright, Barack Obama’s former pastor, was invoked by critics during the 2008 campaign to question Obama’s patriotism, judgment, and alleged sympathy for radical or anti-American views based on Wright’s controversial sermons. Obama and his supporters used the controversy to frame his candidacy as confronting racial injustice and to distance him from Wright’s most extreme statements while arguing that association did not define his policy positions.",
+    "queries": [
+      "Is jeremiah wright's influence on Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-1",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "trinity united church of christ",
+    "wiki_title": "trinity united church of christ",
+    "summary": "Critics seized on Obama’s past association with Trinity United Church of Christ — especially controversial sermons by its pastor Jeremiah Wright — to depict him as sympathetic to racially divisive or anti‑American rhetoric and to question his judgment and patriotism during the 2008 campaign. Supporters countered that the church represents Obama’s roots in Black liberation theology and community organizing, framing his ties as evidence of a commitment to racial justice and economic equality rather than extremist views.",
+    "queries": [
+      "How do people view Trinity United Church of Christ's influence on Obama?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "a more perfect union",
+    "wiki_title": "a more perfect union",
+    "summary": "Opponents and supporters alike invoke “A More Perfect Union” around Obama mainly because of his 2008 race speech: supporters use the phrase to frame him as a unifier and constitutional-minded reformer who seeks to address racial and social divisions, while critics deploy it to argue his appeals are rhetorical identity‑politics or a cover for progressive policies and expanded federal action.",
+    "queries": [
+      "Is Obama's \"a more perfect union\" speech justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "race relations",
+    "wiki_title": "race relations",
+    "summary": "Discussions of race relations around Barack Obama are used by supporters to portray his election and policies as progress against systemic racism and to justify race-conscious remedies (criminal-justice reform, affirmative action, health disparities), while opponents use the same framing to accuse him of privileging racial identity, sowing division, or engaging in identity politics; the concept also figures centrally in explanations for the racially coded backlash he faced (birtherism, racialized attacks) and in debates over policing, welfare, and education policy.",
+    "queries": [
+      "How do people view Obama's influence on race relations?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": " Activists invoke Black Lives Matter to argue that Barack Obama’s administration and public stances were too cautious and incremental—framing him as a pragmatic leader who failed to push bold police-reform and structural anti‑racism policies. Conversely, critics, especially on the right, use BLM demonstrations to portray Obama as either sympathetic to anti‑police unrest or as promoting divisive identity politics, justifying tougher “law-and-order” positions in opposition to his legacy.",
+    "queries": [
+      "Is Black Lives Matter justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "trayvon martin",
+    "wiki_title": "trayvon martin",
+    "summary": "Trayvon Martin’s killing and Obama’s remark ('If I had a son…') are frequently invoked by supporters to portray Obama as a racially attuned, empathetic leader who validated concerns about racial profiling and pressed for criminal-justice and gun-law scrutiny. Opponents, however, use the episode to accuse him of politicizing race or of offering moral rhetoric without producing meaningful policy changes on policing and gun laws.",
+    "queries": [
+      "How do people view Trayvon Martin in relation to Obama?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "eric garner",
+    "wiki_title": "killing of eric garner",
+    "summary": "The killing of Eric Garner is frequently invoked by critics to argue that Barack Obama was rhetorically sympathetic but institutionally constrained or insufficiently forceful on police violence and racial justice, undermining his credibility as a transformative leader for Black communities. Supporters counter that his administration pursued limited reforms and federal reviews within legal constraints, using the case to frame debates about the limits of presidential power versus the need for systemic policing and criminal-justice change.",
+    "queries": [
+      "Is Barack Obama’s response to Eric Garner reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "ferguson unrest",
+    "wiki_title": "ferguson unrest",
+    "summary": "The Ferguson unrest is frequently cited in debates about Obama’s record on race and policing: supporters point to his administration’s DOJ investigations and calls for criminal-justice reform as evidence he confronted systemic racism and used federal power to pursue accountability, while critics use the events to argue he either politicized racial tensions, failed to maintain law-and-order, or overreached federal authority in local policing matters.",
+    "queries": [
+      "How do people view the Ferguson unrest?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "hands up don't shoot",
+    "wiki_title": "hands up, don't shoot",
+    "summary": "Protesters invoked “hands up, don’t shoot” to pressure Obama to treat Ferguson and wider police violence as a federal civil‑rights priority, using the slogan to demand DOJ investigations, policing reforms, and presidential moral leadership on race; opponents and some commentators used the phrase to fault Obama for either stoking racial divisions or for failing to translate rhetoric into concrete policy, shaping debates over his criminal‑justice legacy.",
+    "queries": [
+      "Is 'hands up don't shoot' a justified protest tactic?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "qualified immunity",
+    "wiki_title": "qualified immunity",
+    "summary": "Critics invoke qualified immunity to argue that Obama’s DOJ and incrementalist approach helped preserve legal shields for police, portraying him as too cautious or complicit in limiting accountability for police misconduct. Supporters counter that his positions reflected a pragmatic, law‑and‑order stance favoring modest reform while protecting officials from frivolous suits.",
+    "queries": [
+      "How do people view qualified immunity under Obama?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "References to a justice ministry/Department of Justice in debates about Barack Obama are often marshaled by critics to argue his administration politicized prosecutors, failed to hold Wall Street and powerful actors accountable, and expanded surveillance and executive power. Supporters invoke DOJ actions under Obama to justify his record on civil‑rights enforcement, sentencing reform, consumer protections, and legal defenses of his policies, framing him as upholding justice and the rule of law.",
+    "queries": [
+      "What consequences did Barack Obama’s Department of Justice decisions cause?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "criminal justice reform",
+    "wiki_title": "criminal justice reform",
+    "summary": "Debates over criminal justice reform are used to cast Obama as a pragmatic reformer—citing his clemency initiatives, support for sentencing changes, and federal police-review actions as evidence of commitment to reducing mass incarceration and racial disparities. Critics on the right use reform-minded policies to portray him as soft on crime, while progressives argue his actions were too limited and failed to fully overturn punitive laws from the 1990s.",
+    "queries": [
+      "How do people view Obama's criminal justice reform?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "stimulus package",
+    "wiki_title": "stimulus package",
+    "summary": "Obama’s 2009 stimulus is frequently cited by supporters as evidence he acted decisively to prevent a deeper Great Recession—saving jobs and investing in infrastructure and clean energy—framing him as a pragmatic, Keynesian crisis manager. Critics, however, use the stimulus to portray him as an expansive spender who worsened deficits, pursued wasteful or ineffective projects, and favored government intervention over market solutions.",
+    "queries": [
+      "Is Barack Obama's stimulus package justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "affirmative action",
+    "wiki_title": "affirmative action",
+    "summary": "Affirmative action is often invoked in discussions about Obama to cast him as either a defender of race‑conscious policies—used by supporters to justify his diversity‑focused appointments, education and civil‑rights priorities and to frame his presidency as advancing racial equity—or by critics to accuse him of endorsing racial preferences, identity‑based politics, or benefiting from and promoting reverse discrimination.",
+    "queries": [
+      "How do people view Barack Obama's affirmative action?"
+    ]
+  },
+  {
+    "id": "C5-7-1",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "fisher v. university of texas",
+    "wiki_title": "fisher v. university of texas",
+    "summary": "Fisher v. University of Texas is often used in debates about Barack Obama to signal his administration’s defense of race-conscious admissions—supporters frame it as evidence of his commitment to civil‑rights and equal opportunity, while opponents use it to portray him as endorsing racial preferences over merit-based policies and to criticize his judicial and DOJ choices.",
+    "queries": [
+      "Was Obama's response to Fisher v. University of Texas reasonable?"
+    ]
+  },
+  {
+    "id": "C5-7-2",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "students for fair admissions",
+    "wiki_title": "students for fair admissions",
+    "summary": "Opponents of Barack Obama cite Students for Fair Admissions to portray his administration and allied Democrats as defenders of race-conscious college admissions and alleged preferential treatment, using the group to criticize his record on merit and equality. Supporters point to SFFA’s legal challenges as evidence of a conservative judicial rollback of policies Obama defended and to rally defense of his civil‑rights and affirmative‑action positions.",
+    "queries": [
+      "How do people view students for fair admissions' impact on college diversity?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "naacp legal defense fund",
+    "wiki_title": "naacp legal defense and educational fund",
+    "summary": "The NAACP Legal Defense and Educational Fund is often invoked in discussions of Barack Obama to frame his civil‑rights credentials—supporters cite its shared emphasis on voting rights, affirmative action, and criminal‑justice reforms as evidence of his commitment to racial justice, while critics use LDF endorsements or critiques to argue he either relied on establishment legal strategies or failed to pursue sufficiently bold policy change.",
+    "queries": [
+      "Is Obama's support for the naacp legal defense fund reasonable?"
+    ]
+  },
+  {
+    "id": "C5-8",
+    "parent": "C5",
+    "level": 2,
+    "topic": "first african american president",
+    "wiki_title": "timeline of african-american firsts",
+    "summary": "The timeline of African-American firsts is often cited to portray Barack Obama’s election as a landmark achievement that validates narratives of racial progress and supports calls for inclusion and diversity in politics and policy. Opponents or skeptics, however, use the same framing to argue his presidency was primarily symbolic—pointing to his “first” status to claim enduring structural inequalities remained unaddressed or to fault him for not delivering transformational racial policy.",
+    "queries": [
+      "What impacts has the first african american president had on racial politics?"
+    ]
+  },
+  {
+    "id": "C5-8-2",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "civil rights movement",
+    "wiki_title": "civil rights movement",
+    "summary": "Supporters invoke the civil rights movement to cast Obama as the symbolic culmination of racial progress and to legitimize policies framed as extensions of that struggle (e.g., voting protections, affirmative‑action or equity measures). Critics use the movement both to attack him—arguing his ascent embodies problematic identity politics or downplays ongoing racism—and to press him from the left for bolder, less incremental action on systemic racial justice.",
+    "queries": [
+      "Is Obama’s emphasis on the civil rights movement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and information environment",
+    "wiki_title": "joint information environment",
+    "summary": "In discussions of Barack Obama’s national-security and cyber policies, the Pentagon’s “joint information environment” is often invoked to justify his administration’s push for integrated communications and stronger cyber defenses, with supporters arguing it improved coordination and battlefield situational awareness. Critics, however, use it to argue that Obama centralized control over information flows—feeding narratives about increased surveillance, government messaging control, or the military’s ability to shape public perception.",
+    "queries": [
+      "What consequences has the media and information environment had for Obama?"
+    ]
+  },
+  {
+    "id": "C6-2-1",
+    "parent": "C6",
+    "level": 3,
+    "topic": "fbi",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "Critics invoke the FBI—citing high‑profile episodes like Comey’s 2016 disclosures and the Russia probe—to argue that Obama mishandled national security, presided over politicized law‑enforcement, or was weak on counterterrorism. Supporters point to FBI findings and the absence of indictments to rebut scandal claims and to legitimize his surveillance, counterintelligence, and drone policies.",
+    "queries": [
+      "How do people view the FBI's actions regarding Barack Obama?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "crossfire hurricane",
+    "wiki_title": "crossfire hurricane",
+    "summary": "The Crossfire Hurricane probe is often cited by critics to argue that the Obama administration — through the FBI and DOJ — authorized politicized surveillance and weaponized intelligence against Donald Trump, casting Obama as complicit in partisan abuse of power. Supporters push the opposite narrative, arguing the investigation was a legitimate, intelligence-driven response to Russian election interference and that Obama’s officials acted lawfully and appropriately.",
+    "queries": [
+      "How do people view crossfire hurricane today?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "christopher steele dossier",
+    "wiki_title": "steele dossier",
+    "summary": "Conservative critics cite the Steele dossier to argue that Obama-era intelligence and law‑enforcement officials politicized surveillance and improperly targeted the Trump campaign, using it to cast Barack Obama as responsible for alleged abuses of power. Supporters of Obama counter that the dossier’s problems don’t implicate his administration, framing it instead as a flawed piece of opposition research that shouldn’t undermine the legitimacy of Obama‑era responses to Russian election interference.",
+    "queries": [
+      "How do people view the christopher steele dossier?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "fisa warrant",
+    "wiki_title": "foreign intelligence surveillance act",
+    "summary": "References to the Foreign Intelligence Surveillance Act are often used to criticize Obama for continuing or expanding post‑9/11 surveillance programs—portraying him as failing civil‑libertarian promises and enabling mass collection—while his defenders invoke FISA and related reforms (e.g., USA FREEDOM Act) to justify his counterterrorism choices as lawful compromises between security and privacy.",
+    "queries": [
+      "How do people view fisa warrant actions under Barack Obama?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "deep state",
+    "wiki_title": "deep state",
+    "summary": "Conservative critics and conspiracy-minded commentators have portrayed Obama as either the architect or beneficiary of an entrenched “deep state” that quietly advanced liberal policies, using that claim to cast suspicion on his motives and justify opposing his agenda; defenders sometimes flip the frame, saying Obama’s initiatives were blocked by career officials, portraying the “deep state” as undemocratic obstruction to his reforms.",
+    "queries": [
+      "Is the deep state claim during Obama’s presidency reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On Twitter/X, supporters amplify pro-Obama narratives—highlighting his achievements, defending policies like the ACA, and mobilizing praise—while critics use the platform to spread criticisms, memes and conspiracy-driven attacks (e.g., birtherism, claims of ‘socialism’ or executive overreach) aimed at delegitimizing him. Algorithmic trends, influencer campaigns, and bot-amplified content on the site accelerate polarized frames, making rapid viral reframing a central tool for both defending and attacking Obama’s record and legacy.",
+    "queries": [
+      "How do people view Obama's twitter engagement?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "politifact",
+    "wiki_title": "politifact",
+    "summary": "PolitiFact’s fact-checks and its “Obameter” are frequently cited in debates over Barack Obama’s credibility and performance—supporters point to favorable rulings to defend his honesty and policy achievements, while critics highlight low ratings or unmet promises to argue he misled voters or failed to deliver, and disputes over PolitiFact’s selection and impartiality are themselves used to bolster partisan narratives about his legacy.",
+    "queries": [
+      "How do people view politifact’s fact-checking on Obama?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "fake news",
+    "wiki_title": "fake news",
+    "summary": "Fake news about Barack Obama was widely used to promote conspiracies (most famously the birther claims and fabricated scandals) that sought to delegitimize his background, erode trust in his administration, and mobilize partisan opposition to policies like the Affordable Care Act and immigration reform. Over time the term and accusations of fake news were also weaponized to dismiss unfavorable but accurate reporting about him.",
+    "queries": [
+      "Is Barack Obama's use of 'fake news' reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "wiretapping allegations",
+    "wiki_title": "trump tower wiretapping allegations",
+    "summary": "Opponents of Barack Obama have invoked the Trump Tower wiretapping allegations to cast him as someone who weaponizes intelligence for partisan surveillance, using the claim to attack his integrity and justify stricter oversight or political retaliation. Supporters of Obama portray the accusations as baseless partisan smears aimed at deflecting from Trump's controversies, framing them as further evidence of polarized conspiracy-mongering rather than legitimate critique of Obama’s conduct.",
+    "queries": [
+      "What impacts have the wiretapping allegations had on Obama?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "alex jones",
+    "wiki_title": "alex jones",
+    "summary": "Alex Jones framed Barack Obama as part of a covert ‘globalist’/radical elite and an illegitimate, secretive threat to American liberty, using inflammatory claims about his ideology and loyalties to cast Obama-era policies (healthcare, immigration, surveillance) as steps toward authoritarian control; this rhetoric has been used to justify intense distrust, grassroots opposition, and extra‑institutional activism against Obama and his agenda.",
+    "queries": [
+      "Is Alex Jones's criticism of Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "breitbart news",
+    "wiki_title": "breitbart news",
+    "summary": "Breitbart News is frequently used to attack and delegitimize Barack Obama by portraying him as an elitist, left-wing or anti‑American figure whose policies (e.g., health care, immigration, executive actions) threaten traditional values and national sovereignty; its coverage amplifies conservative and populist critiques and helps justify opposition to his agenda through provocative headlines and grievance-focused narratives.",
+    "queries": [
+      "How do people view Breitbart News’s reporting on Barack Obama?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "snopes",
+    "wiki_title": "snopes",
+    "summary": "Snopes is frequently cited in arguments about Barack Obama to debunk viral falsehoods and misleading claims about his background, religion, and policies (e.g., birther rumors, ACA myths), thereby supporting corrective narratives used by his defenders and journalists; critics and partisan opponents, however, often attack Snopes’ impartiality to dismiss fact‑checks and preserve conspiratorial or politically damaging interpretations.",
+    "queries": [
+      "Is Snopes' fact-checking of Barack Obama claims reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "fact-checking",
+    "wiki_title": "fact-checking",
+    "summary": "Fact-checking is often invoked in debates about Barack Obama to verify or discredit claims about his record and policies—used by supporters to rebut myths (from birtherism to ACA impacts) and by critics to highlight alleged inaccuracies. Disputes over the neutrality of fact-checkers also shape narratives, with corrections sometimes portrayed as partisan attacks rather than impartial adjudication.",
+    "queries": [
+      "Is fact-checking of Barack Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "white house press corps",
+    "wiki_title": "white house press corps",
+    "summary": "During Obama's presidency the White House press corps functioned as the primary arena where his rhetoric, policy achievements (like the Affordable Care Act and the bin Laden operation), and perceived competence were amplified or challenged; commentators used press coverage to argue either that the media was too deferential and helped sell his agenda or that it was an essential watchdog exposing shortcomings on transparency and controversies.",
+    "queries": [
+      "Is the white house press corps’ scrutiny of Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-1",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "jay carney",
+    "wiki_title": "jay carney",
+    "summary": "As Barack Obama’s White House press secretary, Jay Carney served as the administration’s chief explainer and defender, framing the president’s policy choices and crisis responses in ways supporters use to legitimize Obama’s decisions while critics invoke him as a symbol of administration spin and evasiveness to challenge transparency and accountability.",
+    "queries": [
+      "How do people view Jay Carney’s role in Obama’s communications?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "robert gibbs",
+    "wiki_title": "robert gibbs",
+    "summary": "As Barack Obama's chief spokesman and communications strategist, Robert Gibbs is often cited in debates to justify and humanize Obama's policy choices and political style by framing them as pragmatic, disciplined, and consistent with Democratic priorities; opponents, conversely, point to his defensive messaging and occasional evasiveness to criticize the administration's transparency and accuse it of political spin over substance.",
+    "queries": [
+      "Is robert gibbs's role in Obama communications reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "white house press briefing",
+    "wiki_title": "white house press secretary",
+    "summary": "The White House Press Secretary is often invoked to shape narratives about Barack Obama by publicly defending and justifying his policy choices (from the Affordable Care Act to immigration and economic measures) and by packaging his tone and intentions to portray competence and empathy. Critics, conversely, point to press briefings or evasive answers to argue the administration lacked transparency or was engaging in political spin, using the press secretary’s statements as evidence against Obama’s credibility.",
+    "queries": [
+      "How do people view the white house press briefing under Obama?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "white house correspondents' association",
+    "wiki_title": "white house correspondents' association",
+    "summary": "The White House Correspondents' Association is often invoked in debates over Barack Obama as the institutional vehicle through which the press either holds his administration to account in briefings and critical coverage or, critics argue, cushions it through access and social rituals like the Correspondents' Dinner; conservatives use the WHCA as evidence of mainstream-media friendliness toward Obama, while transparency advocates point to WHCA-organized access battles and questions to the president as moments of necessary scrutiny.",
+    "queries": [
+      "Is the white house correspondents' association fair in covering Obama?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "white house correspondents' dinner",
+    "wiki_title": "not the white house correspondents' dinner",
+    "summary": "Observers invoked the distinction “not the White House Correspondents’ Dinner” to frame debates about Barack Obama’s tone and media-savvy style — critics used it to argue his joking, personable moments reflected a celebrity-focused, unserious presidency, while supporters used the same point to defend those moments as appropriate to informal contexts rather than evidence of policy laxity.",
+    "queries": [
+      "Is the white house correspondents' dinner reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "cnn",
+    "wiki_title": "cnn",
+    "summary": "In public debates about Barack Obama, CNN often acts as a mainstream interpreter that spotlights his policy achievements (healthcare, climate, diplomacy) and personal narrative through expert commentary and fact-checking, thereby helping legitimize and explain his centrist-progressive record. Conservatives commonly cite CNN as evidence of sympathetic media framing, while some progressives criticize it for false balance or centrist coverage that softens critiques of Obama’s more incremental policies.",
+    "queries": [
+      "Are criticisms of cnn's Obama coverage justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and constitutional issues",
+    "wiki_title": "all-party parliamentary group for legal and constitutional affairs",
+    "summary": "UK all‑party parliamentary group for legal and constitutional affairs is cited in debates about Barack Obama to scrutinize his record on executive power, surveillance and targeted killing; its hearings and reports are used to frame him either as upholding legal norms and human rights or, conversely, as an executive who bypassed democratic oversight. By emphasizing oversight, civil liberties and constitutional limits, the group’s interventions tend to support critiques of Obama’s use of surveillance and drone policy and to endorse calls for greater legal accountability.",
+    "queries": [
+      "Is Barack Obama's handling of legal and constitutional issues reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "death panels",
+    "wiki_title": "death panel",
+    "summary": "Opponents of Barack Obama used the “death panel” trope to cast his health-care reforms as government-imposed rationing that would let bureaucrats decide life-or-death care, stoking fear to mobilize opposition and justify dismantling or weakening his policy agenda. Supporters and fact-checkers treated the charge as a politically driven smear that eroded trust in Obama’s proposals and pressured his administration to drop contested provisions.",
+    "queries": [
+      "What consequences have debates over death panels during Obama produced?"
+    ]
+  },
+  {
+    "id": "C7-1-8",
+    "parent": "C7",
+    "level": 3,
+    "topic": "cms",
+    "wiki_title": "cms",
+    "summary": "CMS is frequently cited in debates over Obama’s healthcare agenda: supporters point to CMS enrollment and coverage data and regulatory actions to justify the success and necessity of the Affordable Care Act, while critics highlight CMS rule changes and early implementation problems (notably the Healthcare.gov rollout) to argue administrative incompetence and executive overreach.",
+    "queries": [
+      "Is Obama's use of cms reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "dapa",
+    "wiki_title": "dapa",
+    "summary": "DAPA is frequently invoked in debates over Obama’s legacy to cast him in opposing lights: critics use it to accuse him of executive overreach and lawmaking by the presidency, while supporters present it as a compassionate, pragmatic use of prosecutorial discretion to shield immigrant families and highlight Congress’s failure on immigration reform.",
+    "queries": [
+      "What effects has Obama’s DAPA policy produced?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "department of homeland security",
+    "wiki_title": "united states department of homeland security",
+    "summary": "In discussions about Barack Obama, DHS policies and actions—for example DACA, immigration-enforcement priorities, and counterterrorism/border operations—are invoked by supporters to depict him as balancing security with humane, pragmatic immigration and national-security policy, while critics point to those same DHS actions to allege executive overreach, insufficient border control, or threats to civil liberties.",
+    "queries": [
+      "Did the Department of Homeland Security under Obama act appropriately?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "dream act",
+    "wiki_title": "dream act",
+    "summary": "References to the Dream Act and Obama’s executive-era protections for young undocumented immigrants are used to cast Barack Obama as a compassionate, pro-immigrant leader who stepped in when Congress failed, bolstering his progressive credentials. Conversely, critics invoke the same issue to accuse him of executive overreach, hypocrisy (citing high deportation totals), or of failing to secure permanent legislative reform.",
+    "queries": [
+      "What consequences has the dream act produced?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "texas v. united states",
+    "wiki_title": "texas v. united states",
+    "summary": "Conservative critics invoke Texas v. United States to argue that Obama exceeded his constitutional authority—framing his immigration actions (DACA/DAPA) as unlawful executive overreach and a reason to distrust his use of unilateral power. Supporters counter that the case represents partisan legal obstruction that thwarted Obama’s humanitarian immigration reforms and highlights the limits of executive action rather than misconduct.",
+    "queries": [
+      "How do people view texas v. united states, especially under Obama?"
+    ]
+  },
+  {
+    "id": "C7-3-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "united we dream",
+    "wiki_title": "united we dream",
+    "summary": "United We Dream has shaped debates about Barack Obama by pressuring his administration to protect undocumented youth—celebrating initiatives like DACA while staging protests and campaigns that criticize his record on deportations and broken promises on comprehensive immigration reform. Its messaging frames Obama as a partial ally whose policies both advanced and failed immigrant communities, influencing how activists and the public evaluate his immigration legacy.",
+    "queries": [
+      "What consequences did united we dream have on Obama-era immigration debates?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "nsa surveillance",
+    "wiki_title": "mass surveillance in the united states",
+    "summary": "Mass surveillance is often invoked to criticize Barack Obama as a leader who presided over expanded NSA spying—Snowden-era revelations are used to allege hypocrisy and constitutional overreach despite reform promises—while supporters argue his administration balanced privacy concerns with legitimate national-security needs and that any changes were pragmatic and constrained by threats.",
+    "queries": [
+      "What consequences has Barack Obama’s nsa surveillance caused?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "edward snowden",
+    "wiki_title": "edward snowden",
+    "summary": "Snowden’s leaks are frequently invoked to criticize Obama’s record on civil liberties, framing his administration as complicit in expansive surveillance and willing to prosecute whistleblowers rather than defend transparency. Defenders argue the administration inherited and had to manage complex security programs and that prosecuting Snowden upheld the rule of law, while critics—especially civil libertarians and some progressives—use Snowden to portray Obama as prioritizing national security over privacy and press freedom.",
+    "queries": [
+      "Was Barack Obama's response to edward snowden justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "prism",
+    "wiki_title": "prism",
+    "summary": "References to 'PRISM' often appear in critiques of Obama’s national-security record—opponents cite the NSA’s PRISM surveillance program revealed during his presidency to claim he prioritized security over civil liberties, while defenders argue it was a necessary, overseen tool for counterterrorism. More broadly, commentators use 'prism' metaphorically (e.g., 'through the prism of race' or 'through the prism of partisanship') to frame his actions as driven primarily by racial identity or political allegiance.",
+    "queries": [
+      "Is Obama's use of prism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "patriot act",
+    "wiki_title": "patriot act",
+    "summary": "Critics cite Obama’s signing of PATRIOT Act extensions as proof he abandoned campaign promises to restore civil liberties and instead perpetuated Bush-era surveillance, using it to portray him as hypocritical or overly security-focused; defenders counter that his later support for reforms (e.g., the USA Freedom Act) shows a pragmatic, incremental approach balancing national security and privacy rather than ideological opposition to surveillance.",
+    "queries": [
+      "How do people view Obama's Patriot Act decisions?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "telephone metadata",
+    "wiki_title": "metadata",
+    "summary": "Metadata is frequently used to authenticate or impugn records about Obama—most notably forensic analyses of birth‑certificate or document metadata were cited by birther critics and rebutted by journalists and technical experts. Discussion of government‑held metadata (phone, email, social media logs) under the Obama administration also became a focal point in debates about national security versus privacy, with civil‑liberties advocates criticizing mass collection and officials defending its utility for counterterrorism and oversight.",
+    "queries": [
+      "How do people view Obama-era telephone metadata programs?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "james clapper",
+    "wiki_title": "james clapper",
+    "summary": "As Barack Obama’s top intelligence official, James Clapper is frequently invoked to justify the administration’s hard-edged national-security choices—surveillance programs, drone strikes, and intelligence-based responses to Russia—by presenting them as expert-driven necessities. Conversely, opponents point to Clapper’s disputed congressional testimony and the Snowden disclosures to portray Obama as presiding over secrecy and civil‑liberties erosion, arguing the administration misled the public and Congress about surveillance practices.",
+    "queries": [
+      "Are criticisms of James Clapper reasonable in Obama's administration?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "usa freedom act",
+    "wiki_title": "usa freedom act",
+    "summary": "In discussions of Barack Obama, the USA Freedom Act is invoked to portray him as a president who sought a compromise between privacy and security—used by supporters to show he reined in NSA bulk collection through measured reform, and by critics to argue he settled for insufficient change and left key surveillance powers intact.",
+    "queries": [
+      "Was Barack Obama’s support for the usa freedom act justified?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "military commissions act",
+    "wiki_title": "military commissions act",
+    "summary": "The Military Commissions Act is often used as a yardstick in arguments about Obama’s national-security record—critics claim his administration’s retention or limited reform of MCA-era practices (Guantánamo detentions, military trials, restrictions on habeas) shows continuity with Bush’s erosion of civil liberties, while supporters argue Obama tempered and reformed the system when possible to balance civil rights with counterterrorism needs.",
+    "queries": [
+      "How do people view the military commissions act during Obama’s presidency?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "enhanced interrogation techniques",
+    "wiki_title": "enhanced interrogation techniques",
+    "summary": "References to enhanced interrogation techniques are used to both credit Obama for repudiating and curbing post-9/11 torture practices and restoring legal norms, and to criticize him for political compromise—accusing him of refusing to prosecute Bush-era officials and prioritizing stability over accountability.",
+    "queries": [
+      "How do people view enhanced interrogation techniques used under Obama?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "omar khadr",
+    "wiki_title": "omar khadr",
+    "summary": "Omar Khadr’s case is frequently invoked in debates over Barack Obama’s national‑security record: critics (especially conservatives) point to his repatriation/plea and calls to transfer detainees to portray Obama as soft on terrorism, while human‑rights advocates use Khadr to argue Obama failed to close Guantanamo or remediate alleged mistreatment of a child combatant, exposing contradictions in his counterterrorism and civil‑liberties promises.",
+    "queries": [
+      "Was Obama’s treatment of Omar Khadr reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "guantanamo hunger strikes",
+    "wiki_title": "guantanamo bay hunger strikes",
+    "summary": "Reports of Guantanamo Bay hunger strikes are commonly used to attack Obama for failing to close the facility and to depict his administration as complicit in or indifferent to detainee human-rights abuses, framing him as hypocritical on civil liberties. Supporters counter that the strikes are cited to justify his cautious, security-focused approach—arguing legal, political and national-security constraints forced compromises like prolonged detention and force-feeding.",
+    "queries": [
+      "How do people view guantanamo hunger strikes under Obama?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "sonia sotomayor",
+    "wiki_title": "sonia sotomayor",
+    "summary": "Supporters cite Sotomayor’s nomination and rulings as evidence that Obama prioritized diversifying the federal bench and advancing a pragmatic liberal approach to criminal-justice and civil-rights issues. Critics point to her dissents and the confirmation battles to portray Obama as favoring ideological or identity-based judicial picks and to question his judgment and long-term legacy through lifetime appointments.",
+    "queries": [
+      "How do people view sonia sotomayor’s role under Barack Obama?"
+    ]
+  },
+  {
+    "id": "C7-7-2",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "confirmation hearings",
+    "wiki_title": "united states congressional hearing",
+    "summary": "United States congressional hearings are often cited in debates about Barack Obama as a means of public accountability or partisan attack: opponents highlight hearings to allege mismanagement, policy failures, or alleged misconduct by his administration, while supporters point to exonerations, legal justifications, or selective questioning to defend his record and portray hearings as politicized. As a result, hearings are used both to justify opposing policy proposals and to frame Obama’s actions as either responsible governance or the target of a partisan spectacle.",
+    "queries": [
+      "Were Obama's confirmation hearings fair and reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7-4",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "unidosus",
+    "wiki_title": "unidosus",
+    "summary": "Advocacy group UnidosUS is cited by Obama supporters to portray him as an ally of Latino communities—used to highlight his outreach, support for immigration reform and DACA, and to justify progressive, Latino-focused policy priorities. Critics, however, invoke UnidosUS to argue he either catered to special-interest groups or fell short on immigration enforcement and deportation relief, framing his record as insufficient.",
+    "queries": [
+      "What impacts has unidosus had on Obama's Latino outreach?"
+    ]
+  },
+  {
+    "id": "C7-7-5",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "senate republicans",
+    "wiki_title": "senate republicans",
+    "summary": "Senate Republicans are frequently invoked in debates about Obama to explain why his legislative agenda stalled—portraying him as a partisan liberal whose priorities were thwarted by conservative filibusters, confirmation fights, and refusal to cooperate. Critics use their opposition to argue Obama was ineffective or ideologically extreme, while defenders cite Republican obstruction to justify his use of executive actions and to blame GOP obstruction for policy failures.",
+    "queries": [
+      "Is Senate Republicans' criticism of Obama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "social movements and activism",
+    "wiki_title": "activism",
+    "summary": "Activism is used to cast Obama either as a grassroots organizer and champion of social movements—underscoring his Chicago community-organizer roots, volunteer-driven campaigns, and responsiveness to civil-rights, climate, and immigrant-rights advocates—or as an \"activist\" president whose agenda is driven by partisan pressure rather than broad consensus. Supporters invoke activism to justify progressive policies and democratic engagement, while critics use it to portray his policies as radical, ideologically motivated, or the product of special-interest influence.",
+    "queries": [
+      "How do people view social movements and activism during Obama's presidency?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "community organizing",
+    "wiki_title": "community organizing",
+    "summary": "Obama’s years as a community organizer are often invoked by supporters to portray him as a grassroots, pragmatic coalition‑builder who understands working‑class concerns and civic empowerment, bolstering his credibility on democratic engagement and progressive policies; critics, however, use the same background to paint him as an ideologically driven activist or agitator lacking traditional executive experience and biased toward labor/left‑wing agendas.",
+    "queries": [
+      "Is Obama's community organizing background relevant to his presidency or not?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "acorn",
+    "wiki_title": "acorn",
+    "summary": "The activist group ACORN has been cited by Obama's critics to link his community-organizing past to alleged voter-registration fraud and radical grassroots politics, using the association to question his judgment and justify tougher voting restrictions. Defenders counter that ties were indirect and the ACORN controversies were politicized attacks rather than evidence of Obama's policy positions or conduct.",
+    "queries": [
+      "Is Obama's connection to acorn justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-2",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "saul alinsky",
+    "wiki_title": "saul alinsky",
+    "summary": "Conservative critics invoke Saul Alinsky to cast Obama as a radical “community organizer” who uses confrontational grassroots tactics and a manipulative activist playbook, using that label to justify opposition to his policies; defenders counter that any Alinsky influence is overstated and point to pragmatic, non-ideological aspects of community organizing rather than a dangerous radical agenda.",
+    "queries": [
+      "Is Obama’s connection to saul alinsky reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "altgeld gardens",
+    "wiki_title": "altgeld gardens homes",
+    "summary": "Mention of Altgeld Gardens Homes is used to frame Barack Obama’s relationship to Chicago’s working-class and public-housing communities: supporters point to his local roots and connections to community organizing as evidence he understands urban poverty and environmental-justice issues, while critics invoke the development to question whether he and his allies adequately addressed public-housing neglect or to tie him to problematic Chicago political networks.",
+    "queries": [
+      "What consequences did Barack Obama's actions cause at Altgeld Gardens?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "south side, chicago",
+    "wiki_title": "south side, chicago",
+    "summary": "Barack Obama's long association with Chicago's South Side is frequently invoked by supporters to emphasize his roots as a community organizer, his empathy for urban African‑American communities, and his credibility on issues like poverty, segregation, and economic opportunity. Critics, however, use the South Side connection to portray him as enmeshed in Chicago machine politics and tied to controversial local figures, framing him as beholden to special interests or radical networks.",
+    "queries": [
+      "What influence has Obama's south side, chicago background had?"
+    ]
+  },
+  {
+    "id": "C8-1-6",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "chicago annenberg challenge",
+    "wiki_title": "chicago annenberg challenge",
+    "summary": "References to the Chicago Annenberg Challenge are used to frame Obama as having practical experience in Chicago education reform and nonprofit coalition-building, bolstering claims that he can translate community organizing into policy partnerships; critics, however, invoke his involvement to argue he was aligned with philanthropic, top‑down school‑reform efforts and too close to elite funders rather than grassroots educators.",
+    "queries": [
+      "What impacts did the Chicago Annenberg Challenge have on Chicago schools?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "black liberation theology",
+    "wiki_title": "black theology",
+    "summary": "Supporters and commentators draw on black theology to cast Obama’s racial rhetoric and policy agenda (civil‑rights, economic and criminal‑justice reforms) as morally grounded efforts to confront systemic oppression, while critics invoke black liberation theology—sometimes citing his associations with figures like Jeremiah Wright—to depict him either as influenced by radical anti‑establishment ideas or conversely as a sellout who hasn’t delivered true liberation for Black communities.",
+    "queries": [
+      "What influence does black liberation theology have on Obama-era policy debates?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "racism in the united states",
+    "wiki_title": "racism in the united states",
+    "summary": "Discussions of racism in the United States shape views of Barack Obama by casting him either as a milestone for racial progress and a target of racially motivated opposition—used to defend his policies addressing inequality—or by being invoked by opponents to argue his agenda unfairly favored minorities or to delegitimize him through racially charged attacks (e.g., birtherism, coded criticism). This framing thus underpins both defenses of his legacy and criticisms that he either failed to solve or exacerbated racial tensions.",
+    "queries": [
+      "Is Obama's approach to racism in the united states reasonable?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8",
+    "level": 3,
+    "topic": "2011 united states debt-ceiling crisis",
+    "wiki_title": "2011 united states debt-ceiling crisis",
+    "summary": "Opponents seize on the 2011 debt‑ceiling crisis to portray Obama as fiscally irresponsible or politically weak—arguing his budget priorities and negotiating style precipitated dangerous brinkmanship and therefore justify spending cuts and fiscal restraint. Supporters use the episode to frame him as defending social programs and resisting austerity, casting his stance as protecting middle‑ and lower‑income Americans and highlighting Republican obstructionism, while the crisis is repeatedly invoked to debate his leadership on deficit reduction versus social investment.",
+    "queries": [
+      "What impacts did the 2011 united states debt-ceiling crisis have?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "occupy wall street",
+    "wiki_title": "occupy wall street",
+    "summary": "Occupy Wall Street is frequently cited by left-wing critics to portray Barack Obama as too close to Wall Street and insufficiently responsive to economic inequality—used to justify demands for stronger financial reform and to cast his bailouts, regulatory choices, and appointments as evidence of establishment capture. Defenders counter that references to OWS reflect grassroots pressure on Obama to adopt bolder progressive policies while arguing his administration prioritized economic stabilization and faced political constraints.",
+    "queries": [
+      "Is Occupy Wall Street’s criticism of Obama justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "income inequality",
+    "wiki_title": "income distribution",
+    "summary": "Income distribution is a central talking point used to assess Obama’s record and proposals—supporters argue his tax, health-care, and stimulus policies responsibly reduce inequality and expand opportunity, while critics portray them as punitive redistribution that penalizes success and expands government. Debates about income distribution are therefore used to justify progressive reforms (higher taxes on the wealthy, social programs, minimum wage increases) or to attack Obama as engaging in class-based politics and economic mismanagement.",
+    "queries": [
+      "What consequences has Barack Obama's stance on income inequality brought?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "we are the 99%",
+    "wiki_title": "we are the 99%",
+    "summary": "During and after his presidency, activists and critics invoked “We are the 99%” to argue that Obama’s bailouts, modest regulatory reforms, and tax compromises left the wealthy largely insulated and proved him too close to Wall Street, using the slogan to press for stronger redistribution and tougher financial regulation. Supporters and Obama himself countered with middle‑class rhetoric to frame his agenda as defending ordinary Americans, even as opponents used the slogan to portray his compromises as betrayals of economic justice.",
+    "queries": [
+      "What effects did we are the 99% have on Obama's support?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "goldman sachs",
+    "wiki_title": "goldman sachs",
+    "summary": "Goldman Sachs is often invoked as shorthand in debates about Obama’s priorities—critics argue his administration’s ties to Wall Street, hires from the financial sector, and bailout-era choices show regulatory capture and favoritism toward big banks, undermining his populist/progressive claims. Defenders respond that engaging industry experts was necessary to stabilize markets and design complex reforms, while opponents use the connection to portray Obama as beholden to elite financial interests rather than ordinary voters.",
+    "queries": [
+      "How do people view Obama's ties to Goldman Sachs?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "zuccotti park",
+    "wiki_title": "zuccotti park",
+    "summary": "Zuccotti Park, as the epicenter of Occupy Wall Street, became a shorthand in debates about Barack Obama—used by critics to argue his administration was too close to Wall Street and failed to tackle income inequality, and by sympathetic observers to press him toward bolder progressive economic reforms; opponents also invoked the park to portray him as hostile to business and social order while his responses tried to acknowledge grievances without embracing radical policy shifts.",
+    "queries": [
+      "How do people view protests at Zuccotti Park during Obama's presidency?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "police brutality",
+    "wiki_title": "police brutality",
+    "summary": "In debates about Barack Obama, incidents of police brutality are used to judge his record on race and criminal justice — activists and Black Lives Matter supporters argue such cases exposed limits of his willingness to confront systemic racism and demanded stronger federal action, while conservatives accused his rhetoric and policies of weakening law-and-order. His administration’s DOJ investigations, consent decrees, task-force recommendations and modest reforms (e.g., body-camera advocacy) are invoked both to defend his commitment to reform and to criticize those steps as too incremental.",
+    "queries": [
+      "Is Barack Obama's response to police brutality reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "my brother's keeper",
+    "wiki_title": "my brother's keeper",
+    "summary": "Barack Obama's 'My Brother's Keeper' initiative is often cited by supporters as evidence he prioritized racial equity and opportunity for young men of color, framing him as a compassionate, pragmatic reformer working to close achievement and opportunity gaps. Critics use it to cast his approach as identity-based politics or symbolic and underfunded rather than structural reform, or as an example of federal overreach into community and family matters.",
+    "queries": [
+      "Is Barack Obama's my brother's keeper initiative reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "michael brown",
+    "wiki_title": "michael brown",
+    "summary": "The killing of Michael Brown and the Ferguson protests are often invoked to judge Barack Obama’s handling of race: critics argue his measured, legalistic responses revealed moral timidity and a failure to push for bold police reform, while defenders point to DOJ investigations and his calls for dialogue as evidence he responsibly addressed systemic policing issues within the constraints of the presidency.",
+    "queries": [
+      "How do people view michael brown's impact on Obama's policies?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "jeh johnson",
+    "wiki_title": "jeh johnson",
+    "summary": "As Barack Obama’s Secretary of Homeland Security and senior national-security lawyer, Jeh Johnson is often cited by supporters to justify the administration’s counterterrorism, surveillance, and immigration policies as legally grounded efforts to balance security and civil liberties; critics, however, invoke Johnson to argue that Obama presided over expanded executive power, permissive surveillance/drone/detention practices, or insufficiently aggressive border enforcement.",
+    "queries": [
+      "How do people view Jeh Johnson’s immigration policies?"
+    ]
+  }
+]

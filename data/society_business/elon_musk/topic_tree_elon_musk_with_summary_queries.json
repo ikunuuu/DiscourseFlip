@@ -1,0 +1,1905 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Elon Musk",
+    "wiki_title": "Elon Musk",
+    "summary": "Musk is wielded by defenders as the archetypal tech visionary and libertarian problem‑solver whose success supposedly validates market-driven innovation, deregulation, and permissive ‘free speech’ approaches to platform governance; conversely, critics cite him as proof of billionaire overreach, platform capture, and political influence that necessitates stronger regulation, antitrust action, content-moderation rules, and limits on concentrated wealth and misinformation.",
+    "queries": [
+      "What impact does Elon Musk have on public discourse?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "technology and innovation",
+    "wiki_title": "innovation",
+    "summary": "Innovation is invoked to portray Musk as a bold technological visionary whose disruptive projects justify aggressive risk-taking, deregulation, and investor tolerance of missed deadlines; conversely, critics argue it’s used to overstate breakthroughs, excuse safety and labor lapses, and solicit subsidies. Debates about innovation around Musk therefore drive policy splits between calls for fast‑tracking and subsidizing high‑risk tech versus demands for stronger regulation, oversight, and consumer/worker protections.",
+    "queries": [
+      "Is Elon Musk's technology and innovation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "tesla",
+    "wiki_title": "tesla",
+    "summary": "Tesla is frequently deployed by Musk's supporters as tangible proof of his visionary entrepreneurship and market-making prowess, used to justify permissive regulatory approaches, tax incentives for clean-tech, and deference to charismatic CEOs. Conversely, critics point to Tesla's safety controversies, labor disputes, environmental trade-offs, and volatile stock/PR behavior to argue for stronger oversight, tougher corporate governance, and skepticism about Musk's claims and influence.",
+    "queries": [
+      "How do people view Tesla's business decisions?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "full self-driving",
+    "wiki_title": "full self-driving",
+    "summary": "Musk's 'full self-driving' is frequently invoked as emblematic of his entrepreneurial bravado—advocates hail it as evidence he can accelerate AI and automotive progress, while critics use it to accuse him of overpromising, marketing unfinished technology, and risking public safety. The project shapes arguments about corporate accountability, the ethics of beta-testing on public roads, and whether stricter regulation is needed to constrain Musk's rapid productization of AI.",
+    "queries": [
+      "Is Elon Musk’s full self-driving justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "gigafactory",
+    "wiki_title": "gigafactory",
+    "summary": "Supporters point to Musk’s gigafactories as concrete proof of his ability to industrialize electric vehicles and green energy at scale—framing him as a visionary who justifies government incentives and industrial policy to create jobs and decarbonize manufacturing. Critics use gigafactories to attack Musk’s hubris and business model, arguing they rely on heavy public subsidies, centralize supply chains, and raise environmental and labor concerns that complicate his ‘disruptor’ reputation.",
+    "queries": [
+      "What impacts has the gigafactory had on local communities?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "solarcity acquisition",
+    "wiki_title": "solarcity",
+    "summary": "SolarCity is often invoked to bolster the image of Musk as a clean‑energy visionary pursuing vertical integration of cars, batteries and solar to accelerate decarbonization. Conversely, critics point to its family ties, debt‑heavy business model and the contested Tesla acquisition to argue Musk favors insiders, engages in risky corporate engineering, and warrants stronger governance and regulatory scrutiny.",
+    "queries": [
+      "Is Elon Musk’s solarcity acquisition justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "spacex",
+    "wiki_title": "spacex",
+    "summary": "SpaceX is frequently deployed as evidence that Elon Musk is a visionary, results-driven entrepreneur whose technological victories justify deference, pro-market policies, and relaxed regulation; supporters point to its launch successes and commercial wins to defend Musk’s leadership and privatized approaches to space. Critics, however, use SpaceX’s market dominance, heavy government contracting, worker and safety complaints, and control over critical infrastructure (Starlink) to argue for stronger oversight, antitrust scrutiny, and to challenge the portrayal of Musk as an unalloyed public good.",
+    "queries": [
+      "How do people view Elon Musk's SpaceX priorities?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "starship",
+    "wiki_title": "starship",
+    "summary": "Musk’s Starship program is often cited by supporters as proof of his visionary ambition and technical prowess, used to justify large private investment, aggressive timelines for Mars colonization, and calls for regulatory flexibility to accelerate innovation. Critics, however, point to Starship as evidence of overpromising and spectacle—arguing it prioritizes risky private agendas, environmental harm, and the privatization of space policy over safety, accountability, and realistic public-interest priorities.",
+    "queries": [
+      "Is Elon Musk's Starship program justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "falcon 9",
+    "wiki_title": "falcon 9",
+    "summary": "Supporters cite Falcon 9’s repeated landings, high launch cadence and crewed flights as proof of Musk’s visionary engineering, cost-savvy disruption, and worthiness of public and commercial trust; critics use the same achievements to argue he concentrates private power in space, benefits from government subsidies and lax oversight, and leverages technical triumphs to distract from safety, environmental and labor concerns.",
+    "queries": [
+      "Is Elon Musk’s Falcon 9 reusability strategy justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "nasa",
+    "wiki_title": "nasa",
+    "summary": "NASA is invoked as both a credential and a foil in debates about Elon Musk: supporters point to NASA contracts and joint missions with SpaceX as proof of Musk’s technical competence and public‑benefit role, while critics cite NASA’s safety standards, oversight, and reliance on government funding to challenge his timelines, risk‑taking, and the privatization of formerly public space functions.",
+    "queries": [
+      "What consequences has Elon Musk’s involvement with nasa caused?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "faa",
+    "wiki_title": "faa (disambiguation)",
+    "summary": "References to the FAA often appear in debates about Elon Musk to signal regulatory scrutiny of SpaceX — citing FAA investigations, licensing delays, and launch restrictions as tangible evidence of safety or compliance issues. Supporters of Musk frame FAA action as bureaucratic obstruction to innovation, while critics use FAA findings to argue for stricter oversight and to portray Musk as recklessly prioritizing speed over public safety and environmental concerns.",
+    "queries": [
+      "What consequences have FAA decisions involving Elon Musk caused?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "boca chica",
+    "wiki_title": "boca chica",
+    "summary": "Boca Chica is frequently cited as a concrete example of Musk’s bold, pioneering entrepreneurship—supporters point to SpaceX’s Starbase there as proof of job creation, technological progress, and audacious plans for space exploration. Critics use Boca Chica to frame Musk as environmentally reckless and politically privileged, arguing the site shows regulatory favoritism, local disruption, and the problematic privatization of public land and space infrastructure.",
+    "queries": [
+      "Are environmental concerns about Boca Chica reasonable or overstated?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "jeff bezos",
+    "wiki_title": "jeff bezos",
+    "summary": "Jeff Bezos is frequently invoked as a foil to Elon Musk — commentators and supporters use him to highlight contrasts in wealth, leadership style, and motives, framing Musk as the bolder, risk-taking, more media-visible innovator while depicting Bezos as a traditional, corporate, profit-driven billionaire. Critics and policymakers also compare the two to justify calls for stronger antitrust, labor, or wealth-tax measures, using Bezos’s Amazon record and media influence to argue that Musk’s businesses and power deserve similar scrutiny or regulation.",
+    "queries": [
+      "Is Jeff Bezos’s rivalry with Elon Musk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "neuralink",
+    "wiki_title": "neuralink",
+    "summary": "Supporters point to Neuralink as evidence of Musk’s visionary, boundary‑pushing entrepreneurship — proof he’s driving transformative human‑tech advances — while critics use it to portray him as reckless and publicity‑driven, highlighting ethical lapses, animal‑welfare and safety concerns, and the need for stronger regulatory oversight of his ventures.",
+    "queries": [
+      "How do people view Elon Musk’s Neuralink?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "brain-computer interface",
+    "wiki_title": "brain–computer interface",
+    "summary": "Talk of brain–computer interfaces—most visibly Neuralink—frames Elon Musk as either a bold futurist pursuing human enhancement and an AI-safety hedge, or as a reckless techno-optimist whose invasive neurotechnology risks privacy violations, medical harm, and corporate control of minds, prompting debates over ethics, regulation, and inequality.",
+    "queries": [
+      "Is Elon Musk's brain-computer interface reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "food and drug administration",
+    "wiki_title": "food and drug administration",
+    "summary": "The FDA figures in debates about Musk mainly around his biotech ventures (notably Neuralink) where FDA clearance is cited as validation by supporters or as evidence of necessary caution by critics who say he overpromises or pressures regulators. It also appears when Musk comments on vaccines/COVID — opponents invoke FDA authority to rebut his claims, while allies frame the agency as stifling innovation or overly cautious.",
+    "queries": [
+      "How do people view Elon Musk and the food and drug administration?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "animal testing",
+    "wiki_title": "animal testing",
+    "summary": "Animal testing is commonly invoked to criticize Elon Musk—particularly Neuralink—where footage and regulatory complaints about primate and pig experiments are used to argue he prioritizes rapid innovation over animal welfare and ethical oversight. Supporters counter that such animal research is a necessary (if regrettable) step toward potentially life‑saving brain–computer technologies and use that argument to defend regulatory flexibility and continued funding.",
+    "queries": [
+      "Is Elon Musk's use of animal testing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "clinical trials",
+    "wiki_title": "clinical trial",
+    "summary": "References to clinical trials are often used to challenge Elon Musk’s medical and neurotechnology claims—most notably around Neuralink—arguing that his devices and public health pronouncements lack rigorous, ethically reviewed human testing and therefore warrant caution. Conversely, supporters invoke the slowness of clinical trials to justify Musk’s calls for faster regulatory pathways and rapid innovation, framing trial requirements as bureaucratic obstacles to beneficial breakthrough technologies.",
+    "queries": [
+      "How do people view Elon Musk's clinical trials?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "peta",
+    "wiki_title": "peta",
+    "summary": "PETA appears in debates about Elon Musk mainly when his companies' work or his personal choices touch animal welfare—for example by publicly criticizing Neuralink’s use of animal testing and urging Musk to adopt cruelty‑free, vegan-friendly practices across his ventures. Their messaging frames Musk as ethically responsible for animals affected by his technologies, while critics often dismiss PETA as opportunistic or alarmist in those critiques.",
+    "queries": [
+      "What impact does peta have on Elon Musk's reputation?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "brain implant",
+    "wiki_title": "brain implant",
+    "summary": "References to brain implants—especially via Musk’s Neuralink—are used by supporters to cast him as a visionary accelerating cures and human enhancement, while critics portray the technology as proof of his techno‑utopian hubris, ethical recklessness (animal testing, consent), and risks of surveillance or militarization, fueling calls either for tighter regulation or for skepticism about his priorities and credibility.",
+    "queries": [
+      "Is Elon Musk's brain implant project reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "openai",
+    "wiki_title": "openai",
+    "summary": "OpenAI is frequently cited in arguments about Elon Musk: supporters point to his role in founding and warning about AI as evidence of his foresight and justification for his calls for stricter regulation, while critics invoke OpenAI’s commercialization, leadership controversies, and later divergence from his vision to portray him as inconsistent or opportunistic for distancing himself and launching rival projects.",
+    "queries": [
+      "Is Elon Musk’s criticism of openai justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "sam altman",
+    "wiki_title": "sam altman",
+    "summary": "Altman is frequently used as Elon Musk’s public foil in AI debates: supporters of Altman point to his industry-first, innovation-friendly approach to argue against Musk’s more alarmist, precautionary stance, while Musk and critics invoke Altman’s corporate ties and OpenAI’s commercial pivots to justify warnings about centralization, lack of oversight, and the need for stronger AI governance.",
+    "queries": [
+      "Is Elon Musk’s criticism of Sam Altman justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "microsoft investment",
+    "wiki_title": "microsoft",
+    "summary": "Microsoft is frequently used as the archetypal incumbent Big Tech rival in debates about Elon Musk—its corporate stability, antitrust history, and deep financial ties to OpenAI are invoked to portray Musk either as a reckless, chaotic outsider in contrast to Microsoft’s disciplined stewardship or as a deserved critic warning about concentration of AI power. Commentators point to Microsoft’s OpenAI/Azure partnerships to frame Musk as sidelined or hypocritical in AI debates and to argue for antitrust or regulatory scrutiny of platform consolidation that Musk himself both challenges and embodies.",
+    "queries": [
+      "What consequences might Elon Musk's microsoft investment have?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "ai safety",
+    "wiki_title": "ai safety",
+    "summary": "AI safety is invoked in discussions of Elon Musk to justify his high-profile warnings and calls for regulation, portraying him as a prescient advocate for oversight, research funding, and moratoria on risky AI development; conversely, critics use the same theme to label him alarmist or hypocritical—arguing he weaponizes safety rhetoric to influence policy, shape markets, or shield his own AI ventures from competition.",
+    "queries": [
+      "How do people view Elon Musk’s ai safety warnings?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "anthropic",
+    "wiki_title": "anthropic",
+    "summary": "Anthropic is often invoked in debates about Elon Musk as evidence in both directions: supporters cite its safety-first rhetoric to bolster Musk’s warnings and regulatory demands, while critics point to its big-tech funding and mainstream success to argue Musk’s alarmism or independent AI efforts are out of step with the industry.",
+    "queries": [
+      "How do people see Anthropic’s role in the AI industry?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "gpt-4",
+    "wiki_title": "gpt-4",
+    "summary": "GPT-4 is frequently invoked in public debates about Elon Musk as a concrete example of advanced AI that supporters cite to validate his warnings and calls for regulation, while critics use GPT-4 to argue he overstates risks or that mainstream models are controllable and undercut his claims. It is also used to generate Musk-style text and analyses that shape perceptions of his companies (Tesla, xAI) and his credibility on AI policy and technology.",
+    "queries": [
+      "Are concerns about gpt-4 raised by Musk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "starlink",
+    "wiki_title": "starlink",
+    "summary": "Supporters point to Starlink as proof that Elon Musk is a visionary entrepreneur who builds large-scale, geopolitically powerful infrastructure that can deliver connectivity and help in crises, while critics invoke it to argue he exercises outsized private power—overhyping financials, contributing to orbital congestion and light‑pollution, enabling militarization, and evading adequate regulation or public accountability.",
+    "queries": [
+      "What consequences has Starlink brought to global internet access?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "federal communications commission",
+    "wiki_title": "federal communications commission",
+    "summary": "The FCC is invoked in debates about Musk as the regulator whose spectrum licenses and platform-related rules (e.g., for Starlink and X/Twitter) either legitimize and enable his businesses or serve as the lever critics call on to curb his power; supporters point to FCC approvals as validation of his projects and argue for light-touch treatment, while opponents cite FCC oversight to press concerns about competition, public safety, misinformation, and concentration of communications power.",
+    "queries": [
+      "What consequences has the federal communications commission had for Elon Musk?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "oneweb",
+    "wiki_title": "eutelsat oneweb",
+    "summary": "References to Eutelsat/OneWeb are commonly used in debates about Elon Musk to frame Starlink as either part of a competitive market (so Musk isn’t a telecom monopoly) or as an outsized winner that elbowed out legacy and government-backed rivals; critics cite regulatory favors, spectrum fights, and national‑security contracting to argue Musk’s dominance risks market capture, while defenders point to OneWeb’s slower rollout or government ties to praise Musk’s superior execution and innovation.",
+    "queries": [
+      "What impacts might oneweb have on Elon Musk’s space ambitions?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "space debris",
+    "wiki_title": "space debris",
+    "summary": "Critics use space debris to attack Elon Musk’s SpaceX, arguing his rapid launch cadence, large Starlink constellation and mishaps (notably the Starship Flight 7 breakup) create externalized collision and reentry risks that strain regulators and aviation and demand stricter oversight. Supporters counter that SpaceX invests in collision-avoidance and deorbiting measures and warn that overly burdensome rules would stifle commercial innovation in space.",
+    "queries": [
+      "What consequences has Musk’s space debris created for orbital safety?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "russian invasion of ukraine",
+    "wiki_title": "2022 russian invasion of ukraine",
+    "summary": "The invasion is frequently invoked to judge Musk's geopolitical role: supporters cite his donation of Starlink service as decisive private-sector aid to Ukraine, while critics point to his public comments, polls and intermittent service limits as evidence he wields unilateral, unpredictable power that can undercut Western policy, amplify controversial narratives, or enable circumvention of sanctions.",
+    "queries": [
+      "Is Elon Musk’s view on the russian invasion of ukraine reasonable?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "united states department of defense",
+    "wiki_title": "united states department of defense",
+    "summary": "In public debates about Elon Musk, the U.S. Department of Defense is invoked as both a major customer and a source of legitimacy—Pointing to SpaceX launch contracts and Pentagon use of Starlink (e.g., in Ukraine) frames Musk as an essential provider of military and strategic capabilities. That relationship is used to justify praise for his technological contributions while opponents cite DoD scrutiny and national-security concerns to argue for tighter oversight, conflict-of-interest limits, or reduced reliance on a powerful private contractor.",
+    "queries": [
+      "Are Elon Musk's ties to the united states department of defense justified?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "digital divide",
+    "wiki_title": "digital divide",
+    "summary": "In debates about Elon Musk, advocates invoke the digital divide to praise ventures like Starlink as closing gaps in rural or disaster-area connectivity and to justify government contracts or subsidies, while critics use it to argue his privatized, profit-driven solutions, deregulatory lobbying, and platform governance entrench structural inequality, fail to provide affordable, equitable access, and sideline diverse content producers.",
+    "queries": [
+      "How do people view Elon Musk’s impact on the digital divide?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "mars colonization",
+    "wiki_title": "colonization of mars",
+    "summary": "Musk’s public push to colonize Mars is invoked by supporters to portray him as a visionary risk‑taker offering an ‘insurance policy’ for humanity and a rationale for massive private investment in SpaceX and related tech; critics use the same theme to accuse him of techno‑utopian hubris, space‑colonialist framing, and prioritizing grand projects over Earthly risks and the need for stricter regulation of private space activity.",
+    "queries": [
+      "Is Elon Musk's mars colonization goal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "mars society",
+    "wiki_title": "mars society",
+    "summary": "References to the Mars Society are often used to legitimize Elon Musk’s Mars ambitions—portraying him as part of a respected pro‑colonization movement and grounding SpaceX’s goals in an established advocacy tradition—while critics point to that same association to cast him as a techno‑utopian or profit‑driven actor who amplifies colonialist or risky settlement narratives.",
+    "queries": [
+      "What consequences might Elon Musk’s Mars Society backing cause?"
+    ]
+  },
+  {
+    "id": "C1-8-5",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "outer space treaty",
+    "wiki_title": "outer space treaty",
+    "summary": "The Outer Space Treaty is frequently invoked in debates over Musk’s Mars colonization, asteroid/lunar mining, and large-scale satellite/launch operations: critics use it to argue his plans risk violating non-appropriation and peaceful-use norms and therefore need stronger national or international controls, while supporters point to the treaty’s gaps on private commercial activity to justify SpaceX’s business-driven expansion and to push for treaty modernization rather than outright prohibition.",
+    "queries": [
+      "What consequences has the outer space treaty had for Elon Musk?"
+    ]
+  },
+  {
+    "id": "C1-8-6",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "terraforming of mars",
+    "wiki_title": "terraforming of mars",
+    "summary": "Mars terraforming is invoked in debates about Elon Musk to cast him as a bold visionary—using SpaceX’s goal of making humanity multiplanetary to justify massive technological ambition and long-term survival arguments—or as a techno-utopian whose plans are impractical, ethically questionable, and distract from Earth's problems. That framing drives disputes over policy priorities (space investment vs climate and social needs), regulatory oversight, and whether Musk’s Mars rhetoric is genuine risk mitigation or legacy-seeking spectacle.",
+    "queries": [
+      "How do people view terraforming of Mars led by Elon Musk?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "planetary protection",
+    "wiki_title": "planetary protection",
+    "summary": "Critics invoke planetary protection to portray Elon Musk as recklessly rushing Mars colonization and potentially endangering scientific integrity and Earth's biosphere, calling for stricter international oversight and delays until contamination risks are addressed. Supporters counter that human missions make complete sterilization impractical and use the principle to justify prioritizing rapid settlement and technological progress over conservative protection measures.",
+    "queries": [
+      "What consequences could Elon Musk’s planetary protection choices have?"
+    ]
+  },
+  {
+    "id": "C1-8-8",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "mars one",
+    "wiki_title": "mars one",
+    "summary": "Critics invoke Mars One’s failure to cast doubt on Elon Musk’s Mars ambitions, using it as evidence that media-driven, underfunded private colonization projects underestimate technical and human risks and can become exploitative. Supporters cite the contrast with Mars One to argue Musk and SpaceX are more credible and engineering-focused—framing his plans as realistic and better financed rather than naive hype.",
+    "queries": [
+      "How do people view mars one compared with Elon Musk’s projects?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "driver monitoring",
+    "wiki_title": "driver monitoring system",
+    "summary": "Driver monitoring systems are central to critiques of Elon Musk’s stewardship of Tesla — opponents argue that Tesla’s lighter, non-camera-based monitoring combined with Musk’s bullish claims about Autopilot encourages driver misuse and regulatory scrutiny, framing him as prioritizing growth over safety. Supporters counter that Tesla’s fleet-data approach and minimalist monitoring are adequate and that mandatory camera-based DMS rules would stifle innovation.",
+    "queries": [
+      "How do people view driver monitoring in Elon Musk’s vehicles?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "consumer reports",
+    "wiki_title": "consumer reports",
+    "summary": "Consumer Reports' tests and reliability ratings are frequently cited in debates about Elon Musk and Tesla, used to challenge Musk's public claims about vehicle safety, Autopilot performance, and build quality and to justify calls for stricter oversight or regulation. Its negative findings bolster critics who say Musk overhypes technology and downplays risks, while positive reviews are invoked by defenders to counterbalance those criticisms.",
+    "queries": [
+      "Are consumer reports about Elon Musk’s products fair or reasonable?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "business and corporate governance",
+    "wiki_title": "corporate governance",
+    "summary": "Discussions of corporate governance around Elon Musk spotlight his concentrated control (dual‑class shares, pliant boards, and limited oversight) to argue he exposes shareholders and the public to accountability, conflict‑of‑interest, and safety risks and to push for stronger board independence, fiduciary duties, or regulatory constraint; conversely, defenders invoke governance trade‑offs to justify his autonomy as necessary for decisive, long‑horizon leadership and rapid innovation.",
+    "queries": [
+      "What impacts has Elon Musk’s business and corporate governance had?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "tesla board",
+    "wiki_title": "tesla, inc.",
+    "summary": "Tesla is frequently held up as tangible evidence of Musk’s visionary entrepreneurship and ability to disrupt entrenched industries, a narrative supporters use to justify praise for his risk-taking, technological ambition, and market-friendly policies. Conversely, critics cite Tesla’s safety controversies, labor disputes, missed timelines, and governance issues to portray Musk as reckless, overhyped, and in need of stronger regulation and corporate accountability.",
+    "queries": [
+      "What consequences has the Tesla board had for Elon Musk's leadership?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "robyn denholm",
+    "wiki_title": "robyn denholm",
+    "summary": "Robyn Denholm is invoked in debates about Elon Musk as the corporate “brake” or token overseer—used by critics to argue there is at least nominal board oversight of Musk’s risky behavior and by defenders to claim his actions are constrained by governance. Conversely, skeptics portray her as largely symbolic or ineffective, using her role to argue that Musk still wields outsized, unchecked power at Tesla and similar ventures.",
+    "queries": [
+      "Are Robyn Denholm's decisions regarding Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "kimbal musk",
+    "wiki_title": "kimbal musk",
+    "summary": "Kimbal Musk is often invoked in debates about Elon Musk to illustrate family influence and potential nepotism—critics use relatives’ corporate roles and shared wealth to argue for insider privilege and weak governance. Conversely, supporters cite Kimbal’s charitable and community-focused image to humanize Elon and frame the family as socially minded entrepreneurs rather than purely profit-driven.",
+    "queries": [
+      "Is Kimbal Musk's public advocacy reasonable or is it controversial?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "institutional investors",
+    "wiki_title": "institutional investor",
+    "summary": "Commentators invoke institutional investors to explain why Elon Musk retains outsized control—arguing that large passive asset managers’ big stakes in Tesla have legitimized his influence and shielded him from consequences for erratic behavior and generous pay packages—while activist institutions are framed as the key means to discipline him and push governance reforms when shareholders balk.",
+    "queries": [
+      "How do people view institutional investors’ influence on Elon Musk?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "dual-class shares",
+    "wiki_title": "class b share",
+    "summary": "References to Class B shares are often used to explain how Elon Musk maintains outsized, durable voting control over companies like Tesla and SpaceX; proponents invoke this structure to defend his autonomy and long-term risk-taking, while critics use it to argue he can act with insufficient accountability, undermining shareholder rights and fueling calls for tighter corporate-governance or regulatory limits.",
+    "queries": [
+      "What consequences have Elon Musk's dual-class shares caused?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "supervoting shares",
+    "wiki_title": "super-voting stock",
+    "summary": "Arguments about super-voting stock are used to explain and contest Elon Musk’s concentrated corporate authority—critics invoke founder-friendly voting power (and his takeover of Twitter/X) to warn that he can unilaterally shape strategy and content moderation, while defenders argue such control enables risky, long-term vision. This framing fuels calls for governance reforms (sunset clauses, one-share–one-vote) aimed at limiting Musk-style dominance or protecting his ability to steer companies free of activist interference.",
+    "queries": [
+      "How do people view supervoting shares in Musk-led companies?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "one share, one vote",
+    "wiki_title": "one share, one vote",
+    "summary": "Critics invoke “one share, one vote” to argue that Musk’s outsized control of companies (and his unilateral decisions at Twitter/X) reflects founder entrenchment that would be checked by stronger shareholder voting rights; proponents counter that relaxing that norm enables Musk to pursue long‑term, risky projects without short‑term shareholder pressure, so the concept is used to justify either calls for more accountability or for protective founder control.",
+    "queries": [
+      "Is one share, one vote reasonable for Musk's governance model?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "blackrock",
+    "wiki_title": "black rock",
+    "summary": "BlackRock is often invoked in debates about Elon Musk to frame him either as a populist outsider fighting entrenched Wall Street power or as a CEO whose decisions are constrained by large institutional shareholders and passive-ownership dynamics that shape corporate governance and ESG norms. Critics on the right use BlackRock to allege a ‘woke’ financial elite working against Musk’s free‑speech and business aims, while analysts cite BlackRock’s holdings when debating how investor concentration affects Musk’s companies and policy choices.",
+    "queries": [
+      "What effects has blackrock had on Elon Musk’s companies?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "say-on-pay",
+    "wiki_title": "say on pay",
+    "summary": "Debates over say on pay are used by critics to argue that Tesla shareholders and a board beholden to Elon Musk failed to check his outsized 2018 compensation package, framing it as evidence of weak governance and conflicts of interest. Supporters point to shareholder approval and Musk's performance to justify the award, but the controversy fuels calls for stronger or binding say-on-pay rules to curb future excessive CEO pay.",
+    "queries": [
+      "What effects has Elon Musk’s say-on-pay had?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "glass lewis",
+    "wiki_title": "glass lewis",
+    "summary": "Glass Lewis' proxy-voting recommendations on shareholder matters involving Elon Musk — particularly executive pay, board structure, and governance changes at Tesla and Twitter/X — are often cited in investor and media debates to justify support for or criticism of his control and compensation arrangements. Opponents lean on negative Glass Lewis reports to argue Musk concentrates power and receives excessive pay, while supporters cite favorable recommendations to legitimize his strategic decisions and push back against calls for stronger shareholder oversight.",
+    "queries": [
+      "How do people view Glass Lewis’s influence over Elon Musk's decisions?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "dodd-frank act",
+    "wiki_title": "dodd–frank wall street reform and consumer protection act",
+    "summary": "Supporters of tighter oversight invoke Dodd–Frank’s disclosure, executive-pay and whistleblower provisions to argue regulators should rein in or sanction Elon Musk for market‑moving statements and concentrated control at Tesla. Opponents portray using Dodd‑Frank against him as regulatory overreach that would stifle the aggressive decision‑making and innovation they credit for Tesla and SpaceX.",
+    "queries": [
+      "Is Elon Musk’s stance on the dodd-frank act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-8",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "pay-for-performance debate",
+    "wiki_title": "pay-for-performance (federal government)",
+    "summary": "Arguments about federal pay-for-performance are used to defend or attack Elon Musk’s outsized compensation and his companies’ government contracts: proponents say performance-linked pay justifies large equity awards and rewards the milestone-driven successes of Tesla and SpaceX, while critics use the federal pay-for-performance debate to demand tighter oversight, clawbacks, and to argue such schemes enable windfalls, wealth concentration, and insufficient accountability when public funds or subsidies are involved.",
+    "queries": [
+      "Is Elon Musk's pay-for-performance debate reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-8",
+    "parent": "C2",
+    "level": 3,
+    "topic": "mass layoffs",
+    "wiki_title": "layoff",
+    "summary": "Supporters invoke Musk’s use of layoffs as evidence of decisive, pro-market cost‑cutting and necessary restructuring to boost efficiency and shareholder value; critics point to his high‑volume firings (notably at Twitter/X and Tesla) to portray him as callous, anti‑union, and reckless about worker safety and content moderation, bolstering calls for stronger labor protections and regulation.",
+    "queries": [
+      "How do people view Elon Musk's mass layoffs?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "derivative action",
+    "wiki_title": "derivative suit",
+    "summary": "Derivative suits are invoked by critics to portray Musk as prone to self-dealing and governance failures—used to challenge his mega-compensation deals, board approvals, or controversial transactions (e.g., the Twitter buyout) as breaches of fiduciary duty. Defenders counter that such litigation is opportunistic and can chill bold, risk-taking leadership, so the suits feed debates over shareholder power versus managerial freedom.",
+    "queries": [
+      "What consequences has Elon Musk’s derivative action caused?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and free speech",
+    "wiki_title": "free speech week",
+    "summary": "References to “free speech week” are used by Musk supporters to cast him as a principled defender of open discourse and to justify his takeover and rollback of content-moderation practices at Twitter/X; critics counter that the free‑speech framing is a rhetorical cover for permissive moderation policies that enable misinformation, harassment, and corporate cost‑cutting, and it thus anchors policy debates about platform responsibility versus laissez‑faire speech norms.",
+    "queries": [
+      "Is Elon Musk's approach to media and free speech reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "first amendment",
+    "wiki_title": "first amendment to the united states constitution",
+    "summary": "Advocates and Musk himself invoke the First Amendment to frame his takeover of X and relaxed content-moderation policies as a principled ‘free speech’ stance against censorship and government regulation, while critics point out the constitutional protection applies to state actors and use that contrast to argue he’s weaponizing free‑speech rhetoric to justify corporate decisions that amplify misinformation, harassment, or partisan voices.",
+    "queries": [
+      "What impacts could Musk’s actions have on the first amendment?"
+    ]
+  },
+  {
+    "id": "C3-3-7",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "freedom of the press",
+    "wiki_title": "freedom of the press",
+    "summary": "Invocations of “freedom of the press” are used by Musk and his supporters to justify loosening content moderation on Twitter/X and frame his actions (including the platform purchase) as defending open expression. Critics reply that he uses free‑speech rhetoric to shield harassment or misinformation, to attack journalists and limit critical coverage, and thus to oppose stronger transparency, accountability or regulation of platform power.",
+    "queries": [
+      "How do people view freedom of the press changes under Musk?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "content moderation",
+    "wiki_title": "content moderation",
+    "summary": "Debates over content moderation are used to cast Elon Musk either as a free-speech defender—cited when he cuts moderation staff, relaxes rules, or reinstates banned accounts—or as a reckless platform owner whose loosening of rules allegedly fuels misinformation, harassment, ad flight and regulatory scrutiny, bolstering opposing calls for greater transparency and stricter oversight (including Section 230 reform).",
+    "queries": [
+      "How do people view Elon Musk's content moderation?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "advertiser boycotts",
+    "wiki_title": "boycott",
+    "summary": "Calls to boycott Musk-controlled companies (Tesla, SpaceX, X/Twitter) are often deployed by critics to punish or pressure him for political comments, platform moderation and content decisions, labor practices, or controversial hires and to withdraw financial support for his ventures. Supporters of Musk portray these boycotts as performative, censorious, or economically ineffectual, while opponents cast them as a legitimate accountability tool to compel behavioral or policy changes.",
+    "queries": [
+      "Are advertiser boycotts aimed at Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "sleeping giants",
+    "wiki_title": "sleeping giants",
+    "summary": "Critics of Elon Musk cite Sleeping Giants as a playbook for using advertiser pressure to punish his platform’s perceived tolerance of misinformation and hate speech, framing ad boycotts as a legitimate accountability tool for his moderation decisions; supporters of Musk counter that Sleeping Giants exemplifies partisan ‘censorship-by-commerce,’ portraying such campaigns as illegitimate, politically motivated efforts to silence dissent on his platform.",
+    "queries": [
+      "Is Elon Musk's sleeping giants strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "brand safety",
+    "wiki_title": "brand safety",
+    "summary": "Brand safety is frequently cited to criticize Elon Musk’s stewardship of X/Twitter—advertisers and critics argue that his relaxed moderation creates an unsafe environment for brands and justify ad boycotts to pressure policy reversals. Supporters counter that such brand-safety actions are politically motivated censorship or economic coercion, framing advertiser pullbacks as attacks on Musk’s free‑speech vision.",
+    "queries": [
+      "How do people view brand safety under Elon Musk’s leadership?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "general motors",
+    "wiki_title": "general motors",
+    "summary": "General Motors is often used as a foil in debates about Elon Musk: Musk supporters point to GM’s late, cautious moves into EVs to argue he forced the entire auto industry to innovate, while critics invoke GM’s scale, unionized workforce, government ties and different regulatory relationships to portray Musk as a brash disruptor whose promises are either unfairly amplified or enabled by special treatment. GM’s policy reversals and lobbying are also cited on both sides — defenders say they prove incumbents can’t match Musk’s pace, detractors say they highlight the risks and hypocrisy of Silicon Valley-style disruption in auto manufacturing.",
+    "queries": [
+      "Is Elon Musk's criticism of general motors justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "unilever",
+    "wiki_title": "unilever",
+    "summary": "Unilever is often invoked in discussions about Elon Musk as a high-profile advertiser that paused spending on Twitter after his takeover, used to support critiques that Musk’s content-moderation and managerial choices drive away mainstream brands and imperil platform revenue. Conversely, Musk supporters cite Unilever as an example of ‘woke’ corporate activism, framing its ad pulls as politically motivated opposition rather than legitimate brand‑safety decisions.",
+    "queries": [
+      "How do people view Elon Musk’s actions regarding Unilever?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "glaad",
+    "wiki_title": "glaad",
+    "summary": "GLAAD frequently voices concern about Elon Musk’s platform decisions and public comments, framing them as threats to LGBTQ safety and visibility and urging advertisers, regulators, and users to hold him accountable for rises in harassment or rollback of protections. It is cited in debates to justify calls for stronger moderation, corporate responsibility, and policy responses, and occasionally to praise actions that restore safeguards for queer communities.",
+    "queries": [
+      "What effects has GLAAD’s actions regarding Elon Musk caused?"
+    ]
+  },
+  {
+    "id": "C3-1-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "blue check verification",
+    "wiki_title": "account verification",
+    "summary": "Debates over account verification on Twitter/X under Elon Musk are frequently used to criticize him for monetizing credibility, enabling impersonation and misinformation, and eroding trust and content moderation standards. Supporters counter that his changes democratize verification and reduce centralized gatekeeping, so verification policy becomes a proxy fight over his stewardship, free‑speech claims, and platform safety priorities.",
+    "queries": [
+      "How do people view blue check verification under Elon Musk?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "x rebrand",
+    "wiki_title": "x corp.",
+    "summary": "X Corp. is often invoked as the emblem of Musk’s drive to remake social media into an “everything app,” used by supporters to justify his image as a bold, innovation-first disruptor and a self-styled advocate of freer speech online. Critics point to X Corp. to argue he centralizes power, mismanages platforms through mass layoffs and rapid policy changes, and increases risks from misinformation, commercial exploitation of users, and regulatory conflict.",
+    "queries": [
+      "What consequences has the x rebrand caused for Musk's ventures?"
+    ]
+  },
+  {
+    "id": "C3-4-1",
+    "parent": "C3",
+    "level": 3,
+    "topic": "matt taibbi",
+    "wiki_title": "matt taibbi",
+    "summary": "Matt Taibbi’s media-critique and investigative commentary is often invoked in debates about Elon Musk to argue that mainstream outlets unfairly demonize him and to legitimize Musk’s free-speech, anti-establishment posture; conversely, critics also cite Taibbi’s reporting to underscore legitimate worries about concentrated billionaire power, content-moderation risks, and business recklessness.",
+    "queries": [
+      "What influence does matt taibbi have on perceptions of Elon Musk?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "bari weiss",
+    "wiki_title": "bari weiss",
+    "summary": "As a high-profile former New York Times editor and free-speech commentator, Bari Weiss often frames Elon Musk as a principled defender of free expression and a necessary disruptor of tech censorship, using her platform to justify his takeover of Twitter/X and argue for looser content moderation. Critics point to her endorsements to argue she downplays the dangers of misinformation, harassment, and Musk’s unpredictable governance, casting her stance as legitimizing libertarian or right-leaning narratives about platform power.",
+    "queries": [
+      "What impacts has Bari Weiss had on conversations about Elon Musk?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "fbi",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "The FBI is frequently invoked as the official watchdog in debates about Musk—critics point to FBI/DOJ probes (e.g., safety, export-control or national-security concerns) to argue for stricter oversight of his companies, while Musk and his allies portray FBI involvement as political targeting, censorship collusion with platforms, or regulatory overreach used to constrain his influence and innovations.",
+    "queries": [
+      "How do people view Elon Musk's interactions with the fbi?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "hunter biden laptop",
+    "wiki_title": "hunter biden laptop letter",
+    "summary": "Supporters cite the Hunter Biden laptop controversy as evidence that legacy platforms suppressed politically inconvenient news, a narrative Elon Musk invokes to justify his free-speech-driven takeover of Twitter and to roll back moderation policies. Critics argue he weaponizes the episode to legitimize amplifying partisan or unverified claims, framing his actions as enabling misinformation and eroding platform trust.",
+    "queries": [
+      "How do people view Elon Musk’s comments on hunter biden laptop?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "shadow banning",
+    "wiki_title": "shadow banning",
+    "summary": "Accusations of 'shadow banning' feature heavily in debates over Musk's stewardship of Twitter/X—supporters cited claims that the platform covertly suppressed conservative voices to justify his takeover and push for 'free speech' reforms, while critics warn that Musk's changes enable similarly opaque visibility controls that can silence dissent or favor allies. The term is thus used to argue for or against his approach to moderation, algorithmic transparency, and the balance between content moderation and perceived bias.",
+    "queries": [
+      "What effects has Elon Musk’s shadow banning produced?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "senate judiciary committee",
+    "wiki_title": "united states senate committee on the judiciary",
+    "summary": "The Senate Judiciary Committee is frequently invoked in debates about Elon Musk’s control of major platforms and potential legal risks, with hearings and rhetorical pressure used to push for Section 230 reform, antitrust scrutiny, or investigations into content moderation and civil‑rights implications of his ownership of X. Critics point to Judiciary actions to argue Musk’s acquisitions concentrate dangerous power and evade accountability, while his supporters portray the committee’s scrutiny as partisan overreach that risks chilling innovation and speech.",
+    "queries": [
+      "Is the senate judiciary committee scrutiny of Elon Musk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "subscription business model",
+    "wiki_title": "subscription business model",
+    "summary": "Musk’s adoption of subscription features (notably paid verification on Twitter/X) is framed by critics as a revenue-first tactic that shifts costs onto users, undermines trust signals, and enables scams, while supporters claim subscriptions are a pragmatic way to diversify income and fund platform improvements. Debates over his subscription push are used to criticize or defend his governance style—portraying him either as opportunistic and negligent of public-interest harms or as a market-driven problem-solver reducing reliance on advertising.",
+    "queries": [
+      "Is Elon Musk’s subscription business model reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "account impersonation",
+    "wiki_title": "impersonator",
+    "summary": "People point to impersonators posing as Elon Musk—especially on social media—to explain scams, market-moving false statements, and reputational harm, using those incidents to criticize Musk’s ownership of platforms and his approach to verification and moderation; defenders counter that impersonation is inevitable and warn against heavy-handed regulation of speech and platforms.",
+    "queries": [
+      "How do people view account impersonation on Elon Musk’s platforms?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "misinformation",
+    "wiki_title": "misinformation",
+    "summary": "Accusations of misinformation are central to debates about Musk: critics argue his tweets and control of X amplify falsehoods and erode trust in news and public-health information, while supporters counter that media and political opponents spread misleading claims to tarnish him and justify restrictions. This clash frames competing policy positions — calls for stricter moderation and regulation to limit harms versus Musk-aligned free-speech arguments that oppose such controls as censorship.",
+    "queries": [
+      "How do people view Elon Musk's misinformation?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "politics and influence",
+    "wiki_title": "influence",
+    "summary": "Claims about Musk’s influence are central to debates that either vilify his outsized ability to shape public opinion, markets, platform norms and technology policy—used by critics to argue for regulation, antitrust scrutiny, tighter content moderation, and limits on corporate power—or celebrate it as the force behind rapid EV adoption, space and AI progress and a needed counterweight to perceived establishment control, used by supporters to justify minimal oversight and praise his leadership style.",
+    "queries": [
+      "What impacts has Elon Musk's politics and influence produced?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "Musk's ownership and overhaul of X/Twitter is frequently used by supporters to justify his image as a free-speech champion and bold disruptor of tech incumbents, while critics point to his management choices, moderation rollbacks and rebrand as evidence of erratic, power-concentrating leadership that amplifies misinformation and prompts calls for tighter regulation.",
+    "queries": [
+      "How do people view Elon Musk’s Twitter changes?"
+    ]
+  },
+  {
+    "id": "C4-1-7",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "jack dorsey",
+    "wiki_title": "jack dorsey",
+    "summary": "Jack Dorsey is often deployed as a contrasting tech-billionaire voice who uses his advocacy for decentralized social media and Bitcoin to critique Elon Musk’s centralized control of Twitter and his market-moving crypto commentary. Journalists and commentators cite Dorsey to bolster arguments for decentralization, greater checks on platform owners, and caution about the outsized influence of individual billionaires like Musk.",
+    "queries": [
+      "How do people view jack dorsey in relation to Elon Musk?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "freedom of speech",
+    "wiki_title": "freedom of speech",
+    "summary": "Supporters cast Musk as a free-speech champion, using that frame to justify loosening moderation on X, reinstating controversial figures, and opposing government or platform regulation; critics counter that he weaponizes ‘freedom of speech’ to excuse spikes in misinformation, hate speech, and uneven enforcement that serve his personal or business priorities.",
+    "queries": [
+      "How do people view freedom of speech under Elon Musk?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "Debates about deplatforming are central to assessments of Musk’s tenure at Twitter/X: he and supporters invoke opposition to deplatforming to justify reinstating banned accounts and promote a free‑speech‑first, minimal‑moderation policy. Critics use the term to argue his approach enables harassment, misinformation and political bias, calling for stronger moderation rules and regulatory oversight while accusing him of selective application when decisions favor allies.",
+    "queries": [
+      "What consequences has deplatforming caused for platforms Musk controls?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Donald Trump is routinely invoked as a political analogue when discussing Elon Musk: supporters portray Musk as a Trump‑style, pro‑business disruptor whose defiance of norms justifies deregulation and broad ‘free speech’ claims, while critics liken Musk to Trump to underscore concerns about concentrated media power, norm‑breaking rhetoric, amplification of misinformation, and authoritarian tendencies.",
+    "queries": [
+      "Is Elon Musk's support for Donald Trump reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "2024 presidential election",
+    "wiki_title": "list of elections in 2024",
+    "summary": "The global 2024 elections list is frequently invoked in debates about Elon Musk to suggest that, during a historic year of voting, his ownership of X and public endorsements had outsized influence—used by critics as evidence that his platform amplified misinformation and warrants regulation, and by supporters as proof that his interventions promoted free speech and corrected media bias.",
+    "queries": [
+      "What effects might Elon Musk have on the 2024 presidential election?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "maga movement",
+    "wiki_title": "trumpism",
+    "summary": "In public debates Trumpism frames Elon Musk either as a desirable anti‑establishment ally—praised for deregulatory, pro‑business moves and for championing “free speech” on platforms like X that fit a MAGA‑friendly media posture—or as a problematic enabler of populist, authoritarian media dynamics accused of amplifying right‑wing messaging and weakening content moderation. Conversely, some Trumpists will also criticize Musk when his corporate choices clash with nationalist economic priorities (e.g., trade or supply‑chain decisions), using Trumpist rhetoric to pressure him toward America‑First policies.",
+    "queries": [
+      "How do people view Elon Musk’s ties to the maga movement?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "mar-a-lago",
+    "wiki_title": "mar-a-lago",
+    "summary": "Mar-a-Lago is used as a shorthand for wealthy private venues where business and state power mix: critics invoke it to argue Elon Musk likewise uses informal, behind‑the‑scenes access and elite networks to secure influence, contracts, and lax oversight, while defenders point to the comparison to normalize Musk’s dealmaker, outsider approach. The reference therefore fuels calls for stricter transparency and ethics rules or, conversely, frames Musk as an effective entrepreneur operating outside stifling bureaucracy.",
+    "queries": [
+      "Is Elon Musk's association with mar-a-lago reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News frequently casts Elon Musk as a free‑market, anti‑“woke” innovator and defender of free speech—defending his corporate moves (like the Twitter/X takeover) and portraying media or regulatory scrutiny as politically motivated. Its hosts and guests use Musk to argue for deregulation and skepticism of Big Tech/mainstream media, often minimizing ethical or factual criticisms while amplifying narratives that he’s being unfairly targeted by the left.",
+    "queries": [
+      "What impacts has fox news coverage of Elon Musk had?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "campaign finance",
+    "wiki_title": "campaign finance",
+    "summary": "Campaign finance is invoked to criticize Musk as a billionaire who uses large donations, PAC funding, and ad spending to shape regulation, media norms, and candidate viability—feeding narratives that he can buy influence over policy affecting his companies. Supporters and some commentators use his giving to justify his political influence as legitimate advocacy for deregulation, free speech, or technological progress, while opponents call for greater transparency and stricter limits to prevent perceived conflicts of interest.",
+    "queries": [
+      "How do people view Elon Musk's campaign finance actions?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "peter thiel",
+    "wiki_title": "peter thiel",
+    "summary": "Peter Thiel is often invoked in debates about Elon Musk as either a model or a warning: supporters point to him as a fellow Silicon Valley mogul who legitimizes market‑first, anti‑regulatory approaches and aggressive private funding of risky technological projects, while critics use Thiel to frame Musk as part of an elitist, democracy‑skeptic tech elite that leverages wealth to influence media, law, and public policy in illiberal or authoritarian directions.",
+    "queries": [
+      "What consequences has Peter Thiel's relationship with Elon Musk caused?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "super pac",
+    "wiki_title": "super pac",
+    "summary": "In public debates, super PACs bankroll advertising and messaging that either cast Musk as a visionary entrepreneur whose interests (free speech on X/Twitter, space/AI deregulation, pro‑business policies) deserve political protection, or depict him as a dangerous concentration of wealth and influence that warps democracy. Critics use anti‑Musk super PACs to justify calls for stricter campaign‑finance and regulatory limits, while supporters use pro‑Musk independent spending to normalize his policy preferences and blunt regulation.",
+    "queries": [
+      "Is Elon Musk's super pac justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "dark money",
+    "wiki_title": "dark money",
+    "summary": "Accusations of \"dark money\" are used to portray Elon Musk as a billionaire who channels undisclosed political spending to shape elections, local zoning and regulatory decisions, and policy debates that benefit Tesla, SpaceX and his other ventures, with critics using this to demand disclosure and limits on elite influence. Supporters counter that such spending is protected political speech or routine advocacy for pro-innovation, pro-business candidates and policies, framing transparency attacks as partisan smears.",
+    "queries": [
+      "How do people view dark money connected to Elon Musk?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "opensecrets",
+    "wiki_title": "opensecrets",
+    "summary": "Journalists, researchers, and activists cite OpenSecrets’ campaign‑finance and lobbying data to document Elon Musk’s donations, PAC activity, corporate lobbying, and revolving‑door ties as evidence that he wields outsized political influence—an argument used to justify calls for greater disclosure and limits on corporate political spending—while his defenders counter that the records simply show routine corporate advocacy rather than illicit influence.",
+    "queries": [
+      "What impacts has opensecrets’ reporting had on Elon Musk?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "federal election commission",
+    "wiki_title": "federal election commission",
+    "summary": "Critics invoke the Federal Election Commission to argue that Elon Musk’s large political donations, platform policy changes at X, and potential in‑kind influence over campaigns warrant FEC scrutiny or tighter campaign‑finance enforcement; supporters counter that aggressive enforcement risks chilling his free speech and business decisions and is sometimes framed as politically motivated.",
+    "queries": [
+      "Is Elon Musk's interaction with the federal election commission justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "antitrust law",
+    "wiki_title": "competition law",
+    "summary": "Critics invoke competition law to argue that Musk’s constellation of businesses (Tesla, SpaceX/Starlink, X) use market dominance, vertical integration, and exclusive deals to squeeze rivals and consumers and therefore merit antitrust scrutiny or structural remedies. Supporters counter that aggressive antitrust intervention would penalize innovation and economies of scale, framing enforcement as political interference rather than necessary market protection.",
+    "queries": [
+      "What consequences could antitrust law enforcement have for Elon Musk?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "federal trade commission",
+    "wiki_title": "federal trade commission",
+    "summary": "Critics invoke the Federal Trade Commission to argue that Musk’s expanding control of major platforms and consumer products merits antitrust scrutiny and consumer‑protection enforcement—using the FTC as the authority that should investigate deceptive safety claims, privacy practices, or monopolistic deals. Supporters, meanwhile, frame FTC actions as regulatory overreach or politically motivated interference and use that claim to defend Musk against breakups, sanctions, or tighter tech rules.",
+    "queries": [
+      "How do people view the federal trade commission’s actions toward Elon Musk?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "doj antitrust division",
+    "wiki_title": "united states department of justice antitrust division",
+    "summary": "Critics invoke the DOJ Antitrust Division to argue that Musk’s acquisitions and the market power of his firms (notably in electric vehicles, digital platforms, and aerospace) deserve investigation, remedies, or blocked deals as potentially monopolistic or exclusionary. Supporters counter that DOJ scrutiny represents regulatory overreach that would stifle innovation, framing antitrust enforcement as politically motivated intervention rather than necessary market protection.",
+    "queries": [
+      "What impact might the doj antitrust division have on Elon Musk’s businesses?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "european commission",
+    "wiki_title": "european commission",
+    "summary": "The European Commission is often invoked by critics to justify calls for oversight of Musk—pointing to antitrust/state‑aid scrutiny of Tesla, enforcement of the Digital Services and upcoming AI rules against X/Twitter, and demands that his platforms meet EU content, privacy and safety standards—framing him as a powerful tech actor who must be reined in. Supporters, by contrast, use the Commission as a foil, arguing its regulations are protectionist bureaucratic overreach that can stifle innovation and unfairly target his companies.",
+    "queries": [
+      "Are the european commission’s measures toward Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "digital advertising market",
+    "wiki_title": "digital marketing",
+    "summary": "Digital marketing is often portrayed as the toolkit behind Elon Musk’s outsized personal brand — from viral memes, influencer amplification, and targeted digital ads to direct social posts that promote Tesla, SpaceX and his views and mobilize supporters. Advocates frame this as savvy disruption of traditional PR and media gatekeepers, while critics argue it cultivates a cult-like persona, enables market-moving manipulation and helps evade regulatory or journalistic scrutiny.",
+    "queries": [
+      "What impacts has Elon Musk had on the digital advertising market?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "merger review",
+    "wiki_title": "merger control",
+    "summary": "Merger control is invoked in debates about Musk—especially around his acquisition of Twitter/X—as the regulatory mechanism critics call on to block or condition deals that would concentrate his influence over key communications and tech markets, arguing it’s necessary to protect competition, consumer welfare, and public discourse. Musk and his supporters, by contrast, portray merger reviews as regulatory overreach that unfairly hinders innovation and entrepreneurial activity.",
+    "queries": [
+      "Is Elon Musk's merger review justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "securities and exchange commission",
+    "wiki_title": "united states securities and exchange commission",
+    "summary": "The SEC is often invoked in discussions of Musk as the regulatory authority that enforces market rules against his outspoken behavior — critics point to the 2018 \"funding secured\" tweet settlement and later investigations as evidence he is reckless, market-manipulative, and in need of stronger oversight. Defenders counter that SEC actions are burdensome or politicized, arguing enforcement limits his willingness to speak publicly and undermines his risk-taking approach to innovation.",
+    "queries": [
+      "How do people view the securities and exchange commission?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "schedule 13d",
+    "wiki_title": "schedule 13d",
+    "summary": "In discussions of Musk’s major stock moves (notably his Twitter stake), opponents point to his choice of filings as evidence he concealed activist intentions or skirted disclosure rules to surprise markets, while supporters argue the filings reflect technicalities or deliberate strategy, fueling debates about transparency, market manipulation, and whether SEC disclosure regimes adequately police powerful investors.",
+    "queries": [
+      "How do people view Elon Musk’s schedule 13d?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "short selling",
+    "wiki_title": "short (finance)",
+    "summary": "Short-selling of Tesla stock is frequently invoked in debates about Elon Musk: supporters portray his public attacks on short sellers and pro-retail rhetoric as defending long-term shareholders against predatory speculators, while critics say he weaponizes tweets and corporate actions to punish detractors, skirt rules, and amplify market-manipulation concerns—fueling calls for tighter trading oversight or protections against abusive shorting.",
+    "queries": [
+      "What impact has short selling had on Elon Musk’s reputation?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "labor unions",
+    "wiki_title": "trade union",
+    "summary": "Trade unions are often used to criticize Elon Musk as an employer—highlighting alleged safety lapses, low pay, anti-union tactics at Tesla and calling for union drives, legal enforcement, and stronger worker protections—while his defenders invoke opposition to unions as necessary to preserve managerial flexibility, rapid innovation, and merit-based workplaces.",
+    "queries": [
+      "What impacts has Elon Musk’s stance on labor unions caused?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "right-to-work law",
+    "wiki_title": "right-to-work law",
+    "summary": "Supporters invoke right-to-work laws to defend Musk’s anti-union actions and his decisions to locate factories in states like Texas, framing him as a pro-growth entrepreneur who benefits from more flexible labor rules. Opponents use the same laws to criticize Musk for exploiting legal protections to suppress organizing, avoid collective bargaining, and prioritize shareholder returns over worker rights.",
+    "queries": [
+      "How do people view right-to-work law in Elon Musk's companies?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "communications workers of america",
+    "wiki_title": "communications workers of america",
+    "summary": "The Communications Workers of America has used Musk’s takeover and management of Twitter/X and other workplace actions to frame him as a threat to communications workers and newsroom integrity, publicly criticizing mass layoffs and alleged anti-union tactics; it leverages those episodes to argue for stronger labor protections, regulatory oversight of platforms, and organized unionization of tech and media employees.",
+    "queries": [
+      "Is Elon Musk’s treatment of communications workers of america reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "labor and employment",
+    "wiki_title": "ministry of labor and employment",
+    "summary": "Ministries of Labor and Employment are invoked as authoritative evidence when critics accuse Elon Musk of unsafe working conditions, union‑busting, or unlawful layoffs at Tesla and other ventures—using inspections, fines, and official rulings to portray him as a labor violator and to justify calls for tougher regulation. Supporters, by contrast, sometimes frame those same ministry actions as politically motivated or regulatory overreach, defending Musk as a job‑creator unfairly targeted by labor authorities.",
+    "queries": [
+      "Is Elon Musk’s labor and employment approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "occupational safety and health administration",
+    "wiki_title": "occupational safety and health administration",
+    "summary": "OSHA reports, citations, and injury statistics are often invoked by critics to argue that Elon Musk’s firms—particularly Tesla—have a pattern of unsafe workplaces and to justify demands for stronger enforcement, accountability, and unionization. Defenders or Musk himself typically dispute the interpretation of OSHA findings or emphasize corrective actions, framing enforcement as either bureaucratic overreach or evidence that issues are being resolved.",
+    "queries": [
+      "How do people view the occupational safety and health administration under Musk?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "whistleblower complaints",
+    "wiki_title": "whistleblowing",
+    "summary": "Allegations and internal disclosures from Tesla, SpaceX, and X employees are frequently invoked by critics to portray Musk as presiding over unsafe, retaliatory, or legally dubious workplaces—bolstering calls for regulatory investigations, stronger whistleblower protections, and corporate accountability. Supporters often counter by questioning whistleblowers’ credibility or motives, framing disclosures as politically motivated or harmful to innovation.",
+    "queries": [
+      "What consequences have whistleblower complaints about Elon Musk caused?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "union-busting",
+    "wiki_title": "union busting",
+    "summary": "Critics point to alleged union-busting at Tesla and other Musk companies to portray him as hostile to worker organizing and to justify calls for stronger labor enforcement and corporate accountability. Supporters frame his anti-union stance as protecting company agility, merit-based pay and innovation, arguing unions would impede competitiveness.",
+    "queries": [
+      "How do people view Elon Musk's union-busting?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "newsguild (cwa)",
+    "wiki_title": "newsguild-cwa",
+    "summary": "Journalists' union NewsGuild‑CWA is often invoked to criticize Elon Musk’s takeover and management of Twitter/X, framing him as hostile to press freedom and labor rights by highlighting mass layoffs, attacks on staff and resistance to unionization. It pushes for rehiring, stronger workplace protections, editorial independence and regulatory scrutiny, and is used to justify calls for limits on Musk’s power over major public-information platforms.",
+    "queries": [
+      "Is Elon Musk’s approach to newsguild (cwa) justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "automation",
+    "wiki_title": "automation",
+    "summary": "Automation is used to cast Musk either as a visionary builder who leverages robots, AI and factory automation to push fast innovation (Tesla, SpaceX) and justify efficiency-driven decisions, or as a force that accelerates job loss, unsafe/overhyped autonomous tech, and surveillance—arguments that drive calls for stricter regulation, worker protections, and policies like universal basic income.",
+    "queries": [
+      "How do people view Elon Musk's automation in his companies?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "optimus robot",
+    "wiki_title": "optimus",
+    "summary": "Optimus is often cited by supporters as tangible proof of Musk’s ambition to lead robotics and AI-driven automation, bolstering arguments in favor of rapid innovation and investment in transformative tech; conversely, critics use it to portray Musk as prone to overpromising and tech theater, arguing it exposes safety, credibility, and labor-displacement concerns and strengthens calls for closer oversight and regulatory limits.",
+    "queries": [
+      "Is Elon Musk's Optimus robot project justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "robotaxi",
+    "wiki_title": "robotaxi",
+    "summary": "Supporters point to Musk's repeated promises of a Tesla robotaxi fleet to frame him as a transformational visionary whose autonomous, electric taxis will decarbonize transport and justify aggressive investment and light-touch regulation. Critics seize on missed deadlines, safety controversies and the unprofitable reality of robotaxi services to portray him as an overpromising CEO who downplays risks, arguing for stricter oversight and questioning his management and credibility.",
+    "queries": [
+      "Is Elon Musk's robotaxi concept reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "universal basic income",
+    "wiki_title": "universal basic income",
+    "summary": "Musk frequently invokes universal basic income as a policy response to job losses from AI and automation, and supporters cite his endorsement to legitimize calls for direct cash transfers to soften technological disruption. Critics argue his advocacy sanitizes automation-driven business models and deflects demands for stronger redistribution or corporate taxation, framing UBI as a technocratic stopgap that can protect elite profits more than working people.",
+    "queries": [
+      "Is Elon Musk’s support for universal basic income reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "big three automakers",
+    "wiki_title": "big three (automobile manufacturers)",
+    "summary": "The \"big three\" are routinely invoked to contrast Tesla’s Silicon Valley, software-first approach with the scale, unions, and legacy production methods of GM/Ford/Chrysler, framing Musk either as a visionary disruptor who corrected their slow EV pivot or as an outsider who undercuts traditional labor and manufacturing norms. Supporters point to the big three’s sluggishness to justify pro-innovation policies and praise Musk, while critics use the comparison to spotlight Tesla’s reliance on subsidies, safety/labor controversies, and perceived market overvaluation relative to established automakers.",
+    "queries": [
+      "Is Elon Musk's criticism of the big three automakers justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "national labor relations act",
+    "wiki_title": "national labor relations act of 1935",
+    "summary": "The National Labor Relations Act is frequently cited by critics to portray Elon Musk as an anti-union employer — used to justify NLRB complaints and rulings against Tesla and his actions at Twitter/X for alleged unlawful tweets, firings, and failure to bargain. Supporters, meanwhile, invoke debates over the NLRA to defend Musk’s communications and restructuring as permissible managerial speech and necessary business flexibility rather than illegal labor interference.",
+    "queries": [
+      "What consequences has Elon Musk’s stance on the national labor relations act?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5",
+    "level": 3,
+    "topic": "parag agrawal",
+    "wiki_title": "parag agrawal",
+    "summary": "Parag Agrawal is often cited in arguments about Musk’s takeover of Twitter: opponents use Musk’s removal of Agrawal and ensuing management shake-ups to argue Musk dismantled experienced leadership and destabilized the platform, while supporters cast Agrawal as representative of an entrenched, moderation-first establishment that Musk claimed needed replacing to restore free speech. Agrawal’s public defenses of content-moderation practices are also used to contrast and critique Musk’s free-speech absolutism and its regulatory or operational risks.",
+    "queries": [
+      "Is Parag Agrawal's leadership defensible amid Elon Musk's takeover?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "law and regulation",
+    "wiki_title": "regulation",
+    "summary": "Debates about regulation are used to criticize Musk when his companies are accused of safety lapses, market manipulation, worker or consumer harms, or platform content moderation failures—prompting calls from regulators and critics for tighter oversight of Tesla, SpaceX, X, AI and financial dealings. Defenders counter by framing regulation as stifling innovation or politically biased, arguing deregulation or lighter touch oversight is needed to allow Musk’s companies to move fast and compete globally.",
+    "queries": [
+      "Is Elon Musk’s approach to law and regulation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "section 230",
+    "wiki_title": "section 230",
+    "summary": "Section 230 figures centrally in arguments about Musk’s ownership of Twitter/X: supporters invoke its protections to justify his push for looser moderation as a defense of free speech, while critics cite Section 230 reform or repeal as a way to hold his platform accountable for alleged increases in misinformation, harassment, and bias after he changed content policies. Policymakers and commentators therefore use the law to either shield Musk’s content decisions or to argue for regulatory constraints on the harms his platform may amplify.",
+    "queries": [
+      "How do people view section 230's role in online moderation?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "netchoice",
+    "wiki_title": "netchoice",
+    "summary": "NetChoice is frequently invoked in arguments about Elon Musk’s ownership of X/Twitter — supporters lean on its industry-backed defense of platform editorial discretion and Section 230 protections to justify Musk’s free‑speech framing and policy changes, while critics use NetChoice’s trade-group credentials to argue that its advocacy shields Musk and other platforms from accountability for increased harms or deregulatory moves.",
+    "queries": [
+      "Is netchoice’s stance on Elon Musk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "lindsey graham",
+    "wiki_title": "lindsey graham",
+    "summary": "Senator Lindsey Graham is often invoked in discussions about Elon Musk as a national‑security‑focused Republican voice who frames Musk’s control of major platforms and infrastructure (e.g., X, satellite services) as a matter needing congressional scrutiny and possible regulation. He typically emphasizes risks to public safety and U.S. interests when criticizing Musk’s decisions, using hawkish, bipartisan credibility to argue for oversight or consequences while occasionally invoking free‑speech themes when politically useful.",
+    "queries": [
+      "How do people view Lindsey Graham's stance toward Elon Musk?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "aclu",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is often cited as a civil‑liberties critic of Elon Musk’s ownership and policy changes at Twitter/X, arguing his rollback of moderation and opaque rules disproportionately endanger marginalized groups and amplify hate and disinformation. Critics use ACLU statements to frame Musk’s free‑speech rhetoric as a cover for reduced accountability and to push for stronger transparency, safety protections, and regulatory oversight of his platform decisions.",
+    "queries": [
+      "Are concerns about Elon Musk and the ACLU justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "national labor relations board",
+    "wiki_title": "national labor relations board",
+    "summary": "The National Labor Relations Board is routinely invoked by critics to document and publicize alleged anti‑union tactics by Elon Musk—especially at Tesla—using NLRB complaints and rulings to argue for penalties, reinstatements, and stronger enforcement of labor rights. Defenders counter that NLRB actions are sometimes politicized or constrain managerial prerogative, framing rulings either as warranted checks on Musk’s behavior or as undue interference that risks harming innovation and competitiveness.",
+    "queries": [
+      "Are the national labor relations board's rulings about Elon Musk justified?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "unfair labor practice",
+    "wiki_title": "unfair labor practice",
+    "summary": "Allegations of unfair labor practices at Tesla and other Musk companies are frequently used to portray him as anti-union and hostile to worker organizing, strengthening arguments for stronger NLRB enforcement, union drives, and regulatory penalties. Opponents of those positions counter by framing ULP claims as politicized or routine managerial behavior, using the disputes to defend managerial prerogatives and oppose expanded labor power.",
+    "queries": [
+      "Is Elon Musk's unfair labor practice justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "antitrust investigations",
+    "wiki_title": "antitrust cases against google by the european union",
+    "summary": "EU antitrust cases against Google are often invoked by Musk and his supporters to validate claims that 'Big Tech' (and Google in particular) abusively controls search and ad markets, bolstering his calls for breaking up or regulating dominant platforms and framing him as a defender of competition and free expression. Opponents counter that citing these cases is selective: they argue Musk weaponizes regulatory action against rivals while downplaying his own companies' market power, using the prosecutions to question his consistency and motives rather than as neutral evidence of market failure.",
+    "queries": [
+      "What consequences have Elon Musk's antitrust investigations caused?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "Ministries of justice are often invoked by critics to demand formal investigations, prosecutions, or regulatory enforcement against Elon Musk and his companies (for issues like workplace safety, securities disclosures, content moderation on X, or alleged national-security concerns), using prosecutorial authority to push for accountability. Conversely, supporters frame actions by justice ministries as politically motivated overreach that stifles innovation and free speech, arguing for restraint or reform rather than criminalization.",
+    "queries": [
+      "Is the Department of Justice's scrutiny of Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "competition and markets authority",
+    "wiki_title": "competition and markets authority",
+    "summary": "In UK and international debates the Competition and Markets Authority is invoked to argue that Elon Musk’s acquisitions and market positions deserve antitrust scrutiny — critics use the CMA to justify blocking deals or imposing remedies to protect consumers and rivals, while defenders portray such oversight as regulatory overreach. As a result the CMA functions as a shorthand in public arguments for either reining in Musk’s perceived market power or for warning that enforcement could stifle innovation.",
+    "queries": [
+      "How do people view the Competition and Markets Authority's actions regarding Musk?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "shareholder lawsuits",
+    "wiki_title": "shareholder",
+    "summary": "Shareholders are invoked as the yardstick of Musk’s legitimacy: defenders point to investor returns and board-approved compensation as proof that shareholders back his risky, visionary moves (notably at Tesla), while critics point to shareholder lawsuits, stock volatility tied to his tweets, dilution and concentrated voting power to argue for stronger governance and limits on his influence.",
+    "queries": [
+      "Is Elon Musk's use of shareholder lawsuits reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "delaware court of chancery",
+    "wiki_title": "delaware court of chancery",
+    "summary": "The Delaware Court of Chancery is often the legal battleground for high‑profile disputes involving Musk—e.g., the Twitter acquisition and Tesla shareholder suits—where critics use Chancery filings and rulings to portray him as breaching fiduciary duties or flouting governance norms. Its decisions are then cited to support opposing policy views: reformers invoke Chancery findings to argue for tighter oversight of founder power and executive pay, while defenders point to the court’s deference to business judgment to justify broad managerial autonomy.",
+    "queries": [
+      "What consequences has delaware court of chancery had for Elon Musk?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "class action lawsuit",
+    "wiki_title": "class action",
+    "summary": "Class actions are frequently invoked to portray Musk as legally and ethically accountable—shareholders and consumers use them to argue that his statements, business decisions (e.g., Tesla autopilot claims, SEC disclosures, executive pay, and the Twitter/X acquisition) have caused widespread harm and demand corporate or regulatory remedies. Supporters counter that many suits are opportunistic or politically motivated, framing class actions as overreach that would chill entrepreneurship and arguing against stricter oversight.",
+    "queries": [
+      "How do people view Elon Musk’s class action lawsuit?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "federal aviation administration",
+    "wiki_title": "federal aviation administration",
+    "summary": "The FAA is invoked in discussions of Elon Musk mainly as the aviation regulator whose investigations, launch licenses, and restrictions (for example after Starship incidents) are used to justify either criticism of Musk’s risk-taking and calls for stricter oversight or defenses that federal bureaucracy is needlessly delaying SpaceX innovation. References to FAA actions thus help frame policy debates over safety, community impact, and how aggressively regulators should rein in or enable Musk’s aerospace ambitions.",
+    "queries": [
+      "How do people view the federal aviation administration's actions regarding Elon Musk?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "office of commercial space transportation",
+    "wiki_title": "office of commercial space transportation",
+    "summary": "Advocates cite the FAA Office of Commercial Space Transportation’s licensing and approvals for SpaceX launches to portray Elon Musk as a law‑abiding pioneer whose rapid commercial launch cadence is validated by regulators. Critics invoke AST constraints, safety warnings, or alleged regulatory leniency to argue Musk’s pace and risk‑taking either endanger the public or benefit from sympathetic oversight, feeding debates about oversight, environmental impact, and regulatory capture.",
+    "queries": [
+      "Are the office of commercial space transportation's regulations on Elon Musk justified?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "national environmental policy act",
+    "wiki_title": "national environmental policy act",
+    "summary": "NEPA often appears in debates over Musk’s projects — opponents invoke NEPA-based lawsuits and demands for full environmental impact statements to block or delay SpaceX launch sites (e.g., Starbase/Boca Chica), arguing his operations harm wildlife, wetlands, and local communities; supporters and Musk-aligned voices frame NEPA review processes as obstructive regulatory red tape that should be streamlined or waived to avoid delaying innovation, jobs, and commercial launches.",
+    "queries": [
+      "Is the national environmental policy act reasonable for Elon Musk projects?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "commercial space launch act",
+    "wiki_title": "commercial space launch competitiveness act of 2015",
+    "summary": "Supporters invoke the Commercial Space Launch Competitiveness Act of 2015 to legitimize and justify Elon Musk’s aggressive commercialization of space—arguing it gives SpaceX legal certainty for investment, resource extraction, and rapid private-sector innovation—while critics use the same law to portray him as a principal beneficiary of deregulatory, pro-privatization policy that risks privatizing common extraterrestrial resources and weakening oversight and international norms.",
+    "queries": [
+      "How do people view the commercial space launch act regarding Musk?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "gary gensler",
+    "wiki_title": "gary gensler",
+    "summary": "As SEC Chair, Gary Gensler is invoked in debates about Musk to justify regulatory scrutiny of Musk’s market‑moving behavior—citing SEC enforcement and crypto oversight to argue Musk must face stricter disclosure, market‑manipulation and investor‑protection rules. Conversely, Musk’s defenders cast Gensler as an activist, partisan regulator whose enforcement posture is overreach used to constrain Musk’s business decisions and speech.",
+    "queries": [
+      "Is Gary Gensler’s scrutiny of Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "rule 10b-5",
+    "wiki_title": "sec rule 10b-5",
+    "summary": "SEC Rule 10b-5 is frequently cited in arguments about Musk’s public statements—especially his high-profile tweets about Tesla—to accuse him of securities fraud or market manipulation and justify SEC enforcement, shareholder suits, and calls for stricter governance. Critics use it to demand accountability and penalties, while defenders portray reliance on the rule as regulatory overreach that threatens executives’ freewheeling communication and distracts from corporate strategy.",
+    "queries": [
+      "How do people view rule 10b-5 claims involving Elon Musk?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "form 8-k",
+    "wiki_title": "form 8-k",
+    "summary": "Form 8-K filings by Tesla are often cited in debates about Elon Musk because they provide official, time-stamped records of material events (board changes, executive departures, securities actions, compensation approvals, regulatory probes and disclosures tied to Musk’s tweets or conduct). Critics use 8-Ks to argue he circumvents governance or misleads investors—bolstering calls for stricter SEC enforcement—while defenders point to those same disclosures to show formal compliance and to frame controversies as handled within legal channels.",
+    "queries": [
+      "Is Elon Musk’s form 8-k reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "market manipulation",
+    "wiki_title": "market manipulation",
+    "summary": "Allegations of market manipulation are used to cast Elon Musk as a CEO who abuses his outsized platform to move markets—fueling calls for stricter SEC enforcement, fines, or even criminal penalties—while his defenders frame such claims as overreach that would chill outspoken leadership and conflate ordinary corporate communication with illicit behavior.",
+    "queries": [
+      "What consequences has Elon Musk’s market manipulation caused?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "international relations",
+    "wiki_title": "international relations",
+    "summary": "International relations discourse treats Musk as a quasi-state actor whose control of SpaceX, Starlink, supply chains, and dealings with foreign governments shapes debates about national security, techno-diplomacy, and geopolitical competition; critics invoke IR arguments to push for export controls, regulation, and limits on private power, while supporters use IR frames to praise him for enhancing national competitiveness, providing diplomatic leverage, and accelerating strategic capabilities.",
+    "queries": [
+      "How do people view Elon Musk's role in international relations?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "russo-ukrainian war",
+    "wiki_title": "russo-ukrainian war",
+    "summary": "In debates about Elon Musk, the Russo‑Ukrainian war is invoked both to hail him as a humanitarian tech savior — chiefly for providing Starlink to keep Ukrainian communications alive — and to condemn him as a unilateral, geopolitically influential actor who can undermine Western policy, restrict or enable Ukrainian military actions by controlling key infrastructure, and amplify or legitimize pro‑Russian narratives through his statements and platform moderation.",
+    "queries": [
+      "How do people view the russo-ukrainian war comments by Elon Musk?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "mykhailo fedorov",
+    "wiki_title": "mykhailo fedorov",
+    "summary": "As Ukraine's digital minister, Mykhailo Fedorov is often invoked in discussions of Elon Musk for publicly lobbying, praising, or shaming him over Starlink access during the Russia–Ukraine war, using Musk's choices as proof that his corporate tech decisions have geopolitical and humanitarian consequences. His interventions are deployed to argue that Musk bears responsibility to support democratic states in crisis and to criticize perceived political neutrality or retrenchment by his companies.",
+    "queries": [
+      "Is mykhailo fedorov working with Elon Musk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "china–united states relations",
+    "wiki_title": "china–united states relations",
+    "summary": "Debates about China–U.S. relations frame Musk as either a pragmatic global entrepreneur whose Gigafactory Shanghai and China-dependent supply chains advance Tesla and U.S. competitiveness, or as a risky actor whose cozy ties, technology transfers, and praise of Chinese efficiency expose national-security vulnerabilities and justify calls for stricter export controls and political scrutiny.",
+    "queries": [
+      "Is china–united states relations stance toward Musk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "byd",
+    "wiki_title": "byd",
+    "summary": "In debates about Elon Musk, BYD is frequently cited by critics as proof that Tesla’s technological and market leadership is waning — BYD’s low-cost models, rapid sales growth, and Chinese battery supply chain are used to argue Musk’s hype, valuation, and US-centric strategy are overblown and to justify calls for industrial policy or trade measures. Conversely, defenders sometimes frame BYD’s rise as evidence that Musk catalyzed global EV adoption or stress Tesla’s strengths in software and autonomy to push back against claims that BYD undercuts him.",
+    "queries": [
+      "Is it reasonable for Elon Musk to downplay byd's technology?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "catl",
+    "wiki_title": "catl",
+    "summary": "CATL is often cited in arguments about Musk's supply‑chain and technological choices: critics use Tesla’s reliance on CATL’s Chinese-made cells to argue Musk creates geopolitical and national‑security exposure and shirks domestic manufacturing, while supporters frame his partnerships as pragmatic cost‑cutting that helps lower EV prices. Observers also point to CATL’s rapid battery innovation to argue that Musk faces growing competitive pressure to match or outpace advances in cell chemistry and scale.",
+    "queries": [
+      "What consequences might catl ties bring to Elon Musk’s companies?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "u.s. export controls",
+    "wiki_title": "export control",
+    "summary": "Export control figures in arguments about Musk by giving critics a legal and security rationale to push for stricter oversight of SpaceX, Starlink and Tesla—warning that sensitive rocket, satellite or vehicle technologies could be transferred to rivals or used in conflicts (debates around Starlink’s role in Ukraine and China-facing business raise such concerns). Supporters and Musk often frame export controls as overbroad regulatory barriers that impede innovation, commercial expansion, and rapid humanitarian uses of his technologies.",
+    "queries": [
+      "Are u.s. export controls on Elon Musk’s companies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "cfius",
+    "wiki_title": "committee on foreign investment in the united states",
+    "summary": "CFIUS is often invoked in discussions of Musk to justify close scrutiny or potential blocking of deals involving his companies when foreign capital, suppliers, or partners (especially Chinese or sovereign investors) are seen as posing national-security risks. Critics use CFIUS to argue Musk’s ventures threaten sensitive tech or data, while his supporters claim CFIUS reviews can be politicized and used to impede his business expansion and innovation.",
+    "queries": [
+      "How do people view cfius involvement in Elon Musk’s transactions?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "data localization",
+    "wiki_title": "data localization",
+    "summary": "In debates about Musk’s ownership of Twitter/X and his global tech ventures, calls for data localization are used both to criticize him for allegedly flouting local laws and enabling state surveillance or regulatory evasion, and to justify opposition to government control—supporters argue his resistance protects cross‑border free expression, while critics say it irresponsibly undermines national privacy and security rules.",
+    "queries": [
+      "Is Elon Musk's push for data localization justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "xi jinping",
+    "wiki_title": "xi jinping",
+    "summary": "Commentators invoke Xi Jinping as the archetype of state-led tech power to frame Elon Musk either as a pragmatic capitalist who must engage with Beijing to scale Tesla/SpaceX/Starlink, or as a cautionary example whose business ties risk legitimizing authoritarian surveillance and strategic competition; debates about Musk’s China dealings, AI cooperation, and supply chains are often cast as a choice between commercial opportunity and national-security/values concerns tied to Xi’s policies.",
+    "queries": [
+      "Is Elon Musk’s criticism of xi jinping reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "saudi public investment fund",
+    "wiki_title": "public investment fund",
+    "summary": "Public investment funds are often invoked in discussions of Elon Musk to suggest his companies benefit from government-backed capital, subsidies, or contracts—used by critics to argue he profits from corporate welfare and special treatment and by supporters as evidence of public endorsement and job-creating value. Mentions of such funds typically drive calls either for stricter oversight and conditional public support or for industrial-policy-style backing of Musk’s projects as socially valuable investments.",
+    "queries": [
+      "Is Elon Musk’s involvement with saudi public investment fund reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "mohammed bin salman",
+    "wiki_title": "mohammed bin salman",
+    "summary": "Mohammed bin Salman is often invoked in discussions of Elon Musk to flag the ethical and geopolitical stakes when Musk courts or accepts money from wealthy autocratic backers—critics argue ties to MBS normalize authoritarian influence and jeopardize platform independence, while defenders frame such dealings as pragmatic capital-seeking. References to MBS therefore shape narratives about Musk’s judgment, hypocrisy on free-speech and human-rights claims, and the broader risks of foreign political influence over his companies.",
+    "queries": [
+      "How do people view Mohammed bin Salman’s interactions with Elon Musk?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "lucid motors",
+    "wiki_title": "lucid motors",
+    "summary": "Lucid Motors is frequently invoked in arguments about Elon Musk as a foil to Tesla — critics cite Lucid’s high‑end engineering and investor backing to argue that Tesla’s technological supremacy and sky‑high valuation are overstated, while supporters say Lucid’s rise proves Musk’s competitive push expanded the EV market. It also appears in policy debates used to justify targeted subsidies or regulation for emerging EV makers rather than privileging Tesla or its CEO.",
+    "queries": [
+      "How do people view Lucid Motors in relation to Elon Musk?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "jamal khashoggi",
+    "wiki_title": "jamal khashoggi",
+    "summary": "References to Jamal Khashoggi are invoked to criticize Musk when he courts Saudi money or praises/engages with Saudi leaders—arguing that such ties reveal hypocrisy in his free‑speech rhetoric and a willingness to tolerate or enable authoritarian abuses for financial or strategic gain; proponents typically dismiss these references as unfair guilt‑by‑association.",
+    "queries": [
+      "What consequences has Elon Musk’s involvement with jamal khashoggi sparked?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "vision 2030",
+    "wiki_title": "vision 2030",
+    "summary": "References to various “Vision 2030” plans are used in debates about Musk to cast him either as a private-sector agent of national modernization—whose rockets, EVs and AI are framed as tools for achieving states’ 2030 economic and technological goals—or as a problematic partner whose close ties to regimes pursuing Vision 2030 expose ethical compromises, elite capture, and the risks of outsourcing public development to a billionaire. Supporters cite these visions to justify privatization and rapid tech-led change; critics invoke them to challenge accountability, inequality, and the moral costs of Musk’s cross-border alliances.",
+    "queries": [
+      "What impacts has Elon Musk's vision 2030 had?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "the new york times",
+    "wiki_title": "the new york times",
+    "summary": "Critics and policy advocates cite The New York Times’ investigative reporting and opinion pieces to portray Elon Musk as a volatile, often reckless tech titan—highlighting workplace-safety issues, regulatory clashes, misinformation on X, and his political influence—to justify calls for accountability and tighter regulation. Conversely, Musk’s supporters point to the Times’ critical tone as evidence of media bias and use its coverage to rally against what they call unfair scrutiny.",
+    "queries": [
+      "Is Elon Musk’s criticism of the new york times justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "blue origin",
+    "wiki_title": "blue origin",
+    "summary": "Blue Origin is repeatedly invoked as Elon Musk’s chief private-space rival, and is used to frame him as either a scrappy, fast-moving innovator (by contrast to Blue Origin’s slower, methodical approach) or as reckless and risk-tolerant compared with Bezos’s emphasis on caution and litigation; this rivalry is also deployed in debates over NASA contracts, commercial-space policy, and whether billionaire competition is driving space priorities.",
+    "queries": [
+      "Is Elon Musk's criticism of Blue Origin justified?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "rural broadband",
+    "wiki_title": "ntca - the rural broadband association",
+    "summary": "NTCA shows up in debates about Elon Musk largely to push back on Starlink gaining special regulatory or subsidy advantages, framing Musk as a powerful entrant who could undercut small rural ISPs and arguing for a level playing field, strict performance/accountability requirements, and skepticism about relying on satellite-only solutions for long-term rural broadband policy.",
+    "queries": [
+      "What impacts has Elon Musk's rural broadband had?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "kessler syndrome",
+    "wiki_title": "kessler syndrome",
+    "summary": "The Kessler syndrome is frequently cited by critics to argue that Elon Musk’s rapid deployment of Starlink and high launch cadence could precipitate an orbital debris cascade, bolstering calls for stricter regulation, limits on mega-constellations, and tighter deorbiting requirements. Proponents and Musk defenders use counterarguments—pointing to SpaceX’s mitigation measures and the economic benefits of connectivity—to frame warnings as overstated risks that should not unduly hinder commercial space innovation.",
+    "queries": [
+      "What consequences might kessler syndrome concerns involving Elon Musk have?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "social movements and activism",
+    "wiki_title": "activism",
+    "summary": "Activism is invoked on both sides of debates about Elon Musk—labor, environmental and left‑leaning digital activists use protests, boycotts and ad/pressure campaigns to criticize his companies’ practices and push for stricter regulation and corporate accountability, while free‑speech and conservative activists mobilize to defend him, promote platform migration and advance deregulation or anti‑censorship arguments. These activist narratives help frame Musk either as a dangerous concentration of wealth and power that needs oversight or as a corrective force against perceived establishment censorship and regulation.",
+    "queries": [
+      "What impacts have Elon Musk's interactions with social movements and activism caused?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "Claims of 'cancel culture' are frequently used by Musk and his supporters to portray criticism, media scrutiny, or platform moderation as illegitimate attempts to silence him, legitimizing his free-speech rhetoric and policy changes at Twitter/X and resisting calls for accountability. Critics counter that invoking cancel culture lets him deflect responsibility, oppose content moderation, and protect controversial speech or business decisions from consequences.",
+    "queries": [
+      "What effects has cancel culture around Elon Musk caused?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "joe rogan",
+    "wiki_title": "joe rogan",
+    "summary": "Rogan’s high-profile, informal interviews with Musk are frequently used by supporters to humanize him, amplify his contrarian free‑speech and techno‑visionary persona, and justify admiration for his ideas and leadership style. Critics counter that Rogan’s sympathetic platforming helps normalize and shield Musk from scrutiny—downplaying regulatory, labor, and misinformation concerns while contributing to uncritical celebrity worship of a powerful billionaire.",
+    "queries": [
+      "Is Elon Musk’s association with joe rogan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-7",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "wokeness",
+    "wiki_title": "woke",
+    "summary": "In debates about Elon Musk, ‘woke’ is invoked by his supporters to cast him as a defender of free speech who opposes diversity initiatives, campus/tech “cancel culture,” and moderation policies labeled as overly progressive, while critics use the term to argue his anti‑woke rhetoric rationalizes mass layoffs, rollback of content moderation, amplification of misinformation, and a tilt toward right‑wing audiences that harms marginalized groups.",
+    "queries": [
+      "How do people view Elon Musk's wokeness?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "united auto workers",
+    "wiki_title": "united auto workers",
+    "summary": "The United Auto Workers often portrays Elon Musk as an anti-union, pro-wealth employer whose companies (notably Tesla) suppress organizing and compromise worker safety, using that narrative to push for unionization, stronger labor protections, and to paint Musk’s progressive/innovator image as hypocritical. Critics counter that UAW campaigns against Musk depict unions as protectionist obstacles to innovation, reinforcing a polarized debate over regulation vs. market-driven disruption.",
+    "queries": [
+      "Is Elon Musk’s stance toward the united auto workers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "sean o'brien",
+    "wiki_title": "sean o'brien",
+    "summary": "Sean O'Brien is often invoked in debates over Elon Musk as a representative of organized‑labor opposition—critics cite his statements or union actions to portray Musk as hostile to workers and to push for stronger labor protections and regulatory oversight of Tesla and other Musk ventures. Supporters of Musk, by contrast, typically dismiss O’Brien’s critiques as ideological resistance to innovation and private‑sector management, using his stance to frame pro‑Musk arguments about competitiveness and entrepreneurship.",
+    "queries": [
+      "Is sean o'brien's role with Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "QAnon narratives often cast Elon Musk as an anti‑establishment ally—pointing to his free‑speech rhetoric, attacks on legacy media, and moves like buying Twitter/X—to justify opposition to tech regulation, public‑health mandates, and other perceived elite institutions. When he disappoints them, QAnon can pivot to portray him as part of the global elite, using that framing to either lionize or delegitimize his actions within broader ‘deep state’ rhetoric.",
+    "queries": [
+      "How do people view Elon Musk’s interactions with qanon?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "infowars",
+    "wiki_title": "infowars",
+    "summary": "Infowars often casts Elon Musk as a free‑speech, anti‑establishment tech hero — highlighting his Twitter takeover and platform decisions to attack 'Big Tech' censorship and push for deregulation — while simultaneously using his actions to bolster culture‑war and anti‑globalist narratives. If Musk disappoints its audience, the site pivots to criticize him as compromised or promote fringe theories that tie him to elite or conspiratorial interests.",
+    "queries": [
+      "Is Infowars association with Elon Musk justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "deep state",
+    "wiki_title": "deep state",
+    "summary": "Supporters often invoke the 'deep state' narrative to cast Musk as an outsider battling entrenched intelligence, regulatory, and media interests that supposedly obstruct Tesla, SpaceX, or his free‑speech aims on X, using that framing to justify deregulation and resistance to oversight. Critics flip the trope to argue Musk either collaborates with or empowers shadowy power networks via government contracts and surveillance technologies, using it to demand stricter accountability and limits on his influence.",
+    "queries": [
+      "What effects has talk of the deep state had on Musk's reputation?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter activists and critics often cite Musk’s leadership of X and workplace practices at his companies to argue he enables racist harassment, undermines content moderation, and resists demands for corporate accountability and labor protections for people of color; conversely, Musk’s supporters use anti‑BLM or ‘free speech’ framings to portray those critiques as censorship or politicized attacks, defending his moves as opposition to “woke” policies rather than endorsement of racial bias.",
+    "queries": [
+      "What consequences has Elon Musk's engagement with black lives matter had?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "george floyd",
+    "wiki_title": "george floyd",
+    "summary": "George Floyd's murder is frequently invoked in debates about Elon Musk to critique his Twitter/Meta-era moderation choices and public comments: critics argue Musk's loosening of content rules and amplification of inflammatory voices disproportionately harms Black users, enables harassment of protesters, and undermines accountability highlighted by Floyd's death, while some supporters claim his free‑speech approach allows fuller public scrutiny of policing and social justice issues.",
+    "queries": [
+      "How do people view Elon Musk’s comments on George Floyd?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "derek chauvin",
+    "wiki_title": "derek chauvin",
+    "summary": "Derek Chauvin is frequently invoked by critics of Elon Musk to argue that Musk’s control of major platforms and permissive moderation policies enable dehumanizing rhetoric and can contribute to real‑world violence and racial injustice; conversely, some defenders invoke the broader Chauvin/BLM controversy to justify Musk’s law‑and‑order or absolutist free‑speech stance as a check on perceived censorship and protest excesses.",
+    "queries": [
+      "Is public discussion of Derek Chauvin justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-4",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "defund the police",
+    "wiki_title": "defund the police",
+    "summary": "Critics use “defund the police” to depict Musk as amplifying a right‑wing, law‑and‑order backlash—arguing his platform choices and public statements bolster narratives that Democrats are soft on crime and undercut racial‑justice activism. Supporters invoke opposition to defunding to justify his alliances with conservatives and to frame his actions (especially around Twitter/X) as defending public safety and free speech.",
+    "queries": [
+      "What effects might Elon Musk's comments on defund the police have?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "police brutality",
+    "wiki_title": "police brutality",
+    "summary": "In debates about Elon Musk, allegations and discussions of police brutality are often used to criticize him when his rhetoric, platform policies (especially under X), or corporate responses to protests appear to side with aggressive policing or suppress reporting on state violence, framing him as prioritizing property and order over civil‑rights concerns. Conversely, his supporters sometimes invoke law‑and‑order arguments to downplay claims of police misconduct and justify his criticisms of protesters or moderation choices.",
+    "queries": [
+      "Is Elon Musk's stance on police brutality reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "mastodon",
+    "wiki_title": "mastodon",
+    "summary": "The federated social network Mastodon is frequently invoked in debates over Elon Musk’s control of Twitter — critics tout user migration and Mastodon’s decentralized governance as proof that Musk’s stewardship harms platform openness and as a model for antitrust or governance remedies, while supporters dismiss Mastodon’s limited scale to argue alternatives are impractical and that outrage is overblown.",
+    "queries": [
+      "What effects has Mastodon had on social media since Musk's changes?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8",
+    "level": 3,
+    "topic": "alex jones",
+    "wiki_title": "alex jones",
+    "summary": "On his platforms Jones casts Elon Musk as an anti‑establishment, free‑speech hero targeted by the “deep state” and media elites, using Musk’s Twitter/X takeover and tech projects to argue against regulation and mainstream criticism; he amplifies pro‑Musk narratives to justify opposition to content moderation while occasionally criticizing Musk if he seems too conciliatory to elites or government policy.",
+    "queries": [
+      "What consequences could Elon Musk's platforming of alex jones cause?"
+    ]
+  }
+]

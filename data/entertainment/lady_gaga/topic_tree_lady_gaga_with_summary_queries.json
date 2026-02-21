@@ -1,0 +1,1861 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Lady Gaga",
+    "wiki_title": "Lady Gaga",
+    "summary": "Supporters cite Lady Gaga’s theatrical reinventions and outspoken LGBTQ advocacy as proof that a mainstream pop star can be both artistically serious and a force for social change, using her as a model for creativity, visibility, and progressive influence. Critics, however, frame her publicity-driven persona, sexual provocation, and occasional appropriation controversies as signs of inauthenticity or opportunism, using her to question celebrity sincerity and the commercialization of activism.",
+    "queries": [
+      "Is Lady Gaga’s artistic risk-taking justified or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "music and artistry",
+    "wiki_title": "artistry",
+    "summary": "Calls to recognize Lady Gaga’s 'artistry' are used to defend her as a serious, boundary-pushing creator—citing her theatrical performances, genre shifts, songwriting and visual concepts to justify awards, cultural legitimacy, and inclusion in discussions of high art.  Opponents invoke the same idea to argue she is a commercially engineered pop product whose image and spectacle overshadow authentic creative authorship, shaping debates about authenticity, cultural value, and which artists deserve institutional support.",
+    "queries": [
+      "What impacts has Lady Gaga's music and artistry had?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "artpop",
+    "wiki_title": "artpop",
+    "summary": "Artpop is often cited in debates as evidence that Gaga prioritizes high-concept artistic risk over commercial safety — supporters point to it as proof of her commitment to pop-as-art and reinvention, while critics use its mixed reception and sales relative to earlier albums to argue she misread mainstream tastes and suffered a dip in pop relevance. Its later critical reassessment and controversies around collaborators are also invoked to debate her artistic judgment, accountability, and long-term legacy.",
+    "queries": [
+      "Is Lady Gaga’s artpop approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "avant-garde fashion",
+    "wiki_title": "1980s in fashion",
+    "summary": "References to 1980s fashion are used to frame Lady Gaga as a revivalist of bold, theatrical pop — supporters argue her shoulder pads, glam makeup and power‑dressing evoke feminist and queer-affirming theatricality and homage to pop icons, while critics portray the same 80s tropes as calculated pastiche or derivative recycling. Debates invoking 1980s style thus tend to pivot between claims of authentic empowerment and critiques that Gaga commodifies and commercializes subcultural aesthetics for shock and marketing.",
+    "queries": [
+      "Is Lady Gaga's avant-garde fashion artistically justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "mtv video music awards",
+    "wiki_title": "mtv video music awards",
+    "summary": "At the MTV Video Music Awards, Gaga’s provocative performances, costumes, and award wins are frequently cited as evidence of her creativity, cultural impact, and advocacy for gender/sexuality visibility, while critics point to those same VMA spectacles to cast her as a calculated, publicity-driven performer or as a product of awards-show sensationalism and industry politics.",
+    "queries": [
+      "Is Lady Gaga’s mtv video music awards presence justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "chromatica",
+    "wiki_title": "chromatica",
+    "summary": "Chromatica is often cited by supporters as proof that Gaga reclaimed her dance-pop, club-rooted identity and centered queer-community and mental-health resilience, reinforcing narratives of her as a theatrical, activist pop auteur; critics use the album’s glossy, producer-driven sound and cyberpunk persona to argue she leaned into image and commercial collaborators at the expense of raw vulnerability, fueling debates about her authenticity and artistic direction.",
+    "queries": [
+      "How do people view chromatica in Lady Gaga's career?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "ariana grande",
+    "wiki_title": "ariana grande",
+    "summary": "Ariana Grande is frequently used as a point of comparison in debates about Lady Gaga’s commercial relevance and pop-star legitimacy—commentators cite Grande’s chart-driven, mainstream success to question or reinforce claims about Gaga’s current market standing. Others invoke Grande to frame a contrast in artistic identity, arguing that Gaga’s theatrical, experimental persona and boundary-pushing choices distinguish her authenticity and cultural impact from Grande’s polished pop/R&B approach.",
+    "queries": [
+      "Is ariana grande’s musical similarity to Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "bloodpop",
+    "wiki_title": "bloodpop",
+    "summary": "As one of Lady Gaga’s high-profile collaborators, BloodPop is invoked in debates to justify claims that she successfully reinvented herself as a modern dance‑pop/electronic artist and reclaimed club‑centric, queer‑forward aesthetics; conversely, critics use his prominent production credit to argue she relies on trendy hitmakers and commercial sound design rather than artistic authenticity, and his gaming/tech ties are sometimes cited to frame her as increasingly multimedia‑and‑brand driven.",
+    "queries": [
+      "What effects has bloodpop had on Lady Gaga’s musical direction?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "arca",
+    "wiki_title": "arca",
+    "summary": "Arca's association with Lady Gaga is often invoked in conversations about Gaga's artistic direction—supporters point to Arca's avant‑garde, queer and experimental credentials to bolster claims that Gaga has matured into a more adventurous, authentic artist, while critics use the collaboration to argue she is abandoning mainstream pop or co‑opting underground sounds for mainstream exposure.",
+    "queries": [
+      "How do people view arca’s collaborations with Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "dance-pop",
+    "wiki_title": "dance-pop",
+    "summary": "References to Gaga’s dance-pop output are often used to frame her as a mainstream, chart-focused pop icon whose club-ready singles validate her commercial success and influence in queer/club culture, while critics invoke the same genre to argue she sometimes prioritizes formulaic, producer-driven hits over experimental artistry. Supporters point to her dance-pop catalogue to justify her mass appeal and awards, whereas detractors use it to question her artistic authenticity or accuse her of conforming to pop conventions.",
+    "queries": [
+      "Is Lady Gaga's dance-pop direction justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "covid-19 pandemic",
+    "wiki_title": "covid-19 pandemic",
+    "summary": "During the COVID-19 pandemic supporters pointed to Gaga’s fundraising and advocacy (e.g., high‑profile benefit performances and mental‑health initiatives) to portray her as a responsible public‑health ally, while critics used the pandemic to accuse her of performative activism, highlight the privilege of celebrity responses, or to complain about tour delays and ticketing decisions tied to lockdowns.",
+    "queries": [
+      "Is Lady Gaga’s response to the covid-19 pandemic reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "a star is born",
+    "wiki_title": "a star is born",
+    "summary": "Fans and critics invoke A Star Is Born to point to Lady Gaga’s successful crossover from pop star to respected actor, using its awards recognition and emotional performance to justify claims of artistic legitimacy and maturity. Conversely, detractors and cultural commentators use the film’s backstage narrative and themes of fame and addiction to question the construction of her image, highlight gendered power dynamics, and critique industry-driven authenticity.",
+    "queries": [
+      "How do people view 'a star is born' in Lady Gaga’s career?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "91st academy awards",
+    "wiki_title": "91st academy awards",
+    "summary": "At the 91st Academy Awards, Gaga's presence is cited by supporters as proof she has crossed from pop stardom into critically recognized acting and songwriting, reinforcing narratives of artistic legitimacy. Detractors use the same appearance to argue her acclaim reflects industry marketing and awards politics rather than lasting artistic merit.",
+    "queries": [
+      "How do people view Lady Gaga’s 91st academy awards appearance?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "academy award for best original song",
+    "wiki_title": "academy award for best original song",
+    "summary": "The Academy Award for Best Original Song is often invoked to bolster claims that Lady Gaga transcends pop stardom—supporters point to her Oscar-winning work (e.g., \"Shallow\") as proof of real songwriting and acting credibility. Critics, however, use the same award to question industry politics and authorship, arguing the win reflects heavy campaigning and collaborative credits rather than sole artistic auteurism.",
+    "queries": [
+      "What impact has the academy award for best original song had?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "billboard hot 100",
+    "wiki_title": "billboard hot 100",
+    "summary": "Chart positions, peak ranks, and weeks on the Billboard Hot 100 are routinely cited to bolster claims about Lady Gaga’s commercial success, cultural influence, and comeback moments or to compare her standing with peers; journalists and fans use Hot 100 stats as shorthand proof of her mainstream relevance. Conversely, critics point to dips or absences on the chart—often invoking shifts in streaming and radio measurement—to argue a waning pop dominance, making the Hot 100 a key metric in debates over her legacy rather than a neutral fact.",
+    "queries": [
+      "Are placements on the billboard hot 100 reflective of Gaga's artistry?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "tony bennett",
+    "wiki_title": "tony bennett",
+    "summary": "Tony Bennett is frequently invoked as proof of Lady Gaga’s artistic legitimacy and versatility—her high-profile jazz collaborations with him are used to argue she transcends pop stardom and can perform as a serious, classic vocalist. Critics, however, sometimes use the partnership to claim she leans on veteran gravitas or to question whether pop artists can authentically inhabit jazz, so Bennett’s name both elevates and complicates narratives about Gaga’s credibility.",
+    "queries": [
+      "How do people view Tony Bennett’s influence on Lady Gaga’s jazz work?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "cheek to cheek (album)",
+    "wiki_title": "cheek to cheek (album)",
+    "summary": "Cheek to Cheek is often invoked to portray Lady Gaga as a serious, versatile vocalist who can transcend pop spectacle, reinforcing narratives of artistic legitimacy, maturity, and cross-generational appeal. Critics, however, use the album to argue she traded provocative originality for respectability or careerist repositioning, framing the project as a strategic move toward mainstream acceptance rather than a purely authentic artistic shift.",
+    "queries": [
+      "Is Lady Gaga’s cheek to cheek (album) collaboration reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "cheek to cheek tour",
+    "wiki_title": "cheek to cheek tour",
+    "summary": "The Cheek to Cheek Tour is often cited to portray Lady Gaga as a versatile, serious artist who can transcend pop spectacle by collaborating with jazz icon Tony Bennett, strengthening arguments about her vocal credibility and artistic maturity; conversely, critics use it to suggest strategic image‑management or genre‑hopping aimed at winning mainstream respectability rather than purely artistic motives.",
+    "queries": [
+      "What effects has the cheek to cheek tour had on Gaga's image?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "great american songbook",
+    "wiki_title": "great american songbook",
+    "summary": "References to the Great American Songbook are used to frame Lady Gaga as a serious, tradition-respecting vocalist—her standards albums and Tony Bennett collaborations are cited to justify claims of artistic legitimacy and maturity beyond pop spectacle. Detractors, however, invoke the same canon to argue her turn to standards is a strategic commercial rebranding or commodification of a revered repertoire rather than pure homage.",
+    "queries": [
+      "How do people view Lady Gaga's great american songbook performances?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "jazz standards",
+    "wiki_title": "jazz standard",
+    "summary": "References to jazz standards—especially in coverage of her Cheek to Cheek album with Tony Bennett—are used to argue that Lady Gaga has genuine vocal talent, seriousness, and respect for the Great American Songbook, framing her as a versatile artist beyond pop spectacle; critics and purists, however, invoke the same standards to accuse her of leveraging classic repertoire for credibility or glossing over jazz’s improvisational authenticity.",
+    "queries": [
+      "Is Lady Gaga's embrace of jazz standards reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "The Grammys are often invoked as proof of Lady Gaga’s artistic legitimacy—supporters cite her nominations and wins to argue that her theatrical, genre‑bending pop is industry‑validated and culturally significant, while critics point to perceived snubs, category placements, or award‑show spectacle to claim she’s overrated, overly commercial, or buoyed by industry politics. Discussions of her Grammy recognition also function as shorthand in broader debates about authenticity, mainstream acceptance of performance art, and whether awards reflect merit or systemic bias.",
+    "queries": [
+      "Are Lady Gaga's grammy awards justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "mentorship",
+    "wiki_title": "mentorship",
+    "summary": "Commentators invoke mentorship to cast Lady Gaga as a hands-on role model—supporting and shaping younger artists, queer youth, and industry practices (often cited alongside her philanthropy like the Born This Way Foundation) to justify her cultural authority and influence on inclusion in music and media. Critics use the same idea to question whether her mentoring is substantive or a branding strategy, arguing it can be used to inflate her authenticity or to promote celebrity-led solutions over systemic policy change in arts and youth support.",
+    "queries": [
+      "Is Lady Gaga’s mentorship style reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "redone",
+    "wiki_title": "redone",
+    "summary": "RedOne’s production on Gaga’s breakout singles is frequently invoked in debates about her authenticity and authorship. Critics point to his hit-making polish to portray her as a manufactured, producer-driven pop product, while defenders frame the collaboration as strategic co-creation that demonstrates her songwriting ability and mainstream artistry.",
+    "queries": [
+      "How do people view Lady Gaga's redone tracks?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "remix (music)",
+    "wiki_title": "remix",
+    "summary": "Remixes of Lady Gaga's tracks are often invoked to show her music’s adaptability and deep ties to club and queer culture, bolstering narratives that she’s an innovative, dance-oriented artist and cultural ally. Critics, however, point to the volume and commercial tailoring of remixes to argue she sometimes prioritizes marketability over artistic authenticity.",
+    "queries": [
+      "Is Lady Gaga's remix (music) approach artistically justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "shallow (song)",
+    "wiki_title": "shallow",
+    "summary": "The song \"Shallow\" is frequently invoked as evidence of Lady Gaga’s crossover legitimacy—supporters cite its emotional performance and awards success to argue she has genuine artistic depth and acting credibility, strengthening claims that she belongs in both pop and film canons. Critics, however, frame \"Shallow\" as an awards-friendly, commercially convenient ballad and use it to question the authenticity of her persona and the role of industry campaigning in her acclaim.",
+    "queries": [
+      "What influence has shallow (song) had on perceptions of Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "super bowl halftime show",
+    "wiki_title": "list of super bowl halftime shows",
+    "summary": "Lists of Super Bowl halftime shows are invoked to place Lady Gaga among mainstream, cross-generational pop icons—used to argue that her selection affirmed commercial success, cultural prominence, and mass-audience legitimacy. They are also deployed by critics to frame debates about corporate compromise, censorship, or the sanitization of protest in large-scale televised performances, comparing her show to other halftime acts to judge whether she maintained artistic integrity or capitulated to the NFL's constraints.",
+    "queries": [
+      "What impact did Lady Gaga’s Super Bowl halftime show have?"
+    ]
+  },
+  {
+    "id": "C1-8-1",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "super bowl li",
+    "wiki_title": "super bowl li",
+    "summary": "Super Bowl LI is often invoked to showcase Lady Gaga’s mainstream reach and commercial clout, with supporters pointing to her headline halftime performance as evidence she can drive massive TV audiences and lend cultural prestige to major events. Critics, however, use the same appearance to argue she normalizes corporate spectacle or compromises political authenticity by aligning with establishment institutions like the NFL.",
+    "queries": [
+      "Was Lady Gaga's Super Bowl LI halftime performance justified or not?"
+    ]
+  },
+  {
+    "id": "C1-8-2",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "nfl",
+    "wiki_title": "national football league",
+    "summary": "The NFL mainly appears in discussions of Lady Gaga through her highly visible Super Bowl halftime performance, with critics arguing that appearing on the league’s marquee stage legitimizes an organization criticized for handling of player protests, domestic violence and safety issues, while supporters say she leveraged the platform to amplify messages of inclusion and reach a mainstream audience. Debates thus frame her choice to work with the NFL as either a compromise of artistic/political integrity or a pragmatic way to advance her advocacy to millions.",
+    "queries": [
+      "Is Lady Gaga performing at the NFL halftime show reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-3",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "colin kaepernick",
+    "wiki_title": "colin kaepernick",
+    "summary": "Colin Kaepernick is invoked in debates about Lady Gaga as a shorthand for celebrity protest — supporters cite him to praise or urge Gaga to take similarly uncompromising stands for social justice, while critics invoke him to paint her activism as either performative virtue-signaling or as unpatriotic when she wades into polarizing political issues.",
+    "queries": [
+      "What effects could Lady Gaga's endorsement of colin kaepernick cause?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "beyoncé",
+    "wiki_title": "beyoncé",
+    "summary": "Beyoncé is frequently invoked as a benchmark of vocal ability, commercial clout, and cultural seriousness when people evaluate Lady Gaga, with critics or fans using the comparison to either elevate Gaga as a peer or to cast her theatrical pop persona as less artistically 'serious' than Beyoncé. The contrast also surfaces in debates over authenticity, award legitimacy, cultural politics, and accusations of appropriation, where citing Beyoncé is used to defend or challenge Gaga’s standing in discussions of representation and influence.",
+    "queries": [
+      "Is beyoncé’s influence comparable to Lady Gaga’s?"
+    ]
+  },
+  {
+    "id": "C1-8-6",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "nielsen ratings",
+    "wiki_title": "nielsen media research",
+    "summary": "Nielsen Media Research metrics are often invoked in discussions about Lady Gaga to validate claims about her commercial clout—using TV ratings, radio and streaming figures to argue she is a major mainstream star or, when figures fall, to suggest waning relevance. They also crop up in debates over measurement methods and chart rules, shaping media and industry narratives that can amplify or undercut perceptions of Gaga's cultural impact.",
+    "queries": [
+      "How do people view Lady Gaga's nielsen ratings?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "rolling stone",
+    "wiki_title": "rolling stone",
+    "summary": "Rolling Stone often frames Lady Gaga as a consequential pop artist and cultural-political figure, using profiles, reviews, and cover stories to highlight her artistry, LGBTQ advocacy, and feminist stances in a generally sympathetic light; it also shapes criticism by interrogating her authenticity, commercial choices, or controversial performances, thus guiding debates over her credibility and cultural impact.",
+    "queries": [
+      "What impact has rolling stone had on Lady Gaga's public image?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "gay pride",
+    "wiki_title": "pride (lgbtq culture)",
+    "summary": "References to Pride and LGBTQ culture are used to portray Lady Gaga as a leading queer ally—her public support, Pride performances, and queer-themed work are often cited to justify praise for her role in advancing visibility and anti-discrimination causes. Conversely, critics invoke the same Pride frame to accuse her of performative allyship or commodifying queer culture when her commercial choices or political stances appear inconsistent with grassroots LGBTQ demands.",
+    "queries": [
+      "How do people view Lady Gaga’s association with gay pride?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "peta",
+    "wiki_title": "peta",
+    "summary": "PETA uses Lady Gaga’s high-profile image—most famously the 2010 meat dress and any use of fur or animal-derived materials—to frame debates about animal rights, praising her when she adopts vegan/compassionate-fashion stances and publicly criticizing or pressuring her when her styling or endorsements involve animal products.",
+    "queries": [
+      "What effects has Lady Gaga’s involvement with PETA had?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "celebrity and public image",
+    "wiki_title": "celebrity",
+    "summary": "Lady Gaga's celebrity is routinely cited to justify both her cultural authority and political influence—fans argue her fame gives her a powerful platform for LGBTQ+ advocacy, mental-health awareness, and public-health campaigns, while critics use her celebrity to question the depth of her expertise, accuse her of performative activism, and frame her work as commodified spectacle rather than serious art or policy engagement.",
+    "queries": [
+      "Is Lady Gaga’s celebrity and public image justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "meat dress",
+    "wiki_title": "meat dress",
+    "summary": "Gaga's meat dress is often invoked in public debate as shorthand for her shock‑tactic, performance‑art persona—used by supporters to celebrate her boundary‑pushing, politically provocative image and by critics and animal‑welfare activists to portray her as attention‑seeking or ethically insensitive. It therefore fuels arguments about whether her theatrics effectively spotlight social issues or merely manufacture controversy and distract from substantive political engagement.",
+    "queries": [
+      "How do people view the meat dress in Lady Gaga's career?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "franc fernandez",
+    "wiki_title": "franc fernandez",
+    "summary": "Franc Fernandez, as a creative collaborator and designer associated with Lady Gaga, is often cited in public debates to bolster the view of her as an avant‑garde, art‑forward performer. Supporters point to his bespoke, provocative pieces to justify her artistic credibility, while critics invoke his role to argue her image is highly manufactured and reliant on fashion‑world cachet rather than pure musical substance.",
+    "queries": [
+      "Is Franc Fernandez’s influence on Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "don't ask, don't tell",
+    "wiki_title": "don't ask, don't tell",
+    "summary": "References to \"don't ask, don't tell\" are often invoked in discussions about Lady Gaga to underscore her image as a high-profile ally of LGBT service members and to legitimize praise for her broader advocacy against discrimination. Opponents may also use DADT-era rhetoric to cast her activism as overtly political or to challenge her positions on military and national-security–adjacent issues.",
+    "queries": [
+      "What impacts has don't ask, don't tell had on Lady Gaga's advocacy?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "animal rights movement",
+    "wiki_title": "animal rights movement",
+    "summary": "Animal-rights advocates and critics frequently invoke Lady Gaga’s celebrity—most famously her 2010 “meat dress”—to argue about celebrity responsibility, using the outfit to condemn perceived insensitivity or hypocrisy while pressuring her to adopt and promote anti‑fur/vegan positions; conversely, her public support for animal-welfare campaigns is highlighted by activists to legitimize the movement and shift fans’ attitudes toward ethical consumption and policy change.",
+    "queries": [
+      "Is Lady Gaga's support for the animal rights movement justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "bradley cooper",
+    "wiki_title": "bradley cooper",
+    "summary": "Bradley Cooper is frequently cited in narratives about Lady Gaga to highlight her transition from pop star to acclaimed actor and to bolster claims about her emotional authenticity through their on-screen chemistry in A Star Is Born. Conversely, critics use his role as co-star/director to argue she received male validation or that her success was partly dependent on his stature, framing debates over her artistic independence.",
+    "queries": [
+      "Is bradley cooper’s creative partnership with Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "directorial debut",
+    "wiki_title": "list of directorial debuts",
+    "summary": "Lists of directorial debuts are often invoked when debating Lady Gaga’s creative legitimacy—supporters point to examples of music-video auteurs who became respected film directors to argue Gaga has a plausible path from visuals to cinema, while critics use the absence of a notable commercial directorial debut to question her seriousness as a filmmaker and to resist granting her film-industry recognition or awards.",
+    "queries": [
+      "What consequences has Lady Gaga’s directorial debut caused?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "irina shayk",
+    "wiki_title": "irina shayk",
+    "summary": "Irina Shayk is often invoked in tabloid and fan debates about Lady Gaga to frame the A Star Is Born publicity as a love-triangle scandal—used by critics to cast Gaga as a romantic rival to Shayk and by defenders to highlight sexist double standards in how female stars are treated. Mentions of Shayk therefore steer arguments that either moralize or exonerate Gaga’s on- and off-screen relationship with Bradley Cooper, shaping perceptions of Gaga’s character and the media’s intrusion into her private life.",
+    "queries": [
+      "Are criticisms of irina shayk justified or mainly overblown?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "celebrity gossip",
+    "wiki_title": "gossip magazine",
+    "summary": "Gossip magazines frequently sensationalize Lady Gaga’s private life, relationships, and provocative image to portray her as either scandalous attention-seeker or daring pop-art provocateur; that framing amplifies debates about her authenticity and morality, undermines calls for respectful privacy, and bolsters sensationalist attitudes toward celebrity culture.",
+    "queries": [
+      "Is celebrity gossip about Lady Gaga fair or not?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "fan art",
+    "wiki_title": "fan art",
+    "summary": "Fan art of Lady Gaga is often used to amplify or contest her public persona—supporters share stylized portraits and protest-themed pieces to celebrate her avant‑garde artistry and queer advocacy, while critics circulate parodies or appropriative depictions to argue she commodifies subcultures or stages authenticity. The sheer volume and occasional legal disputes over Gaga-related fan art are also cited in debates about her cultural influence, authorship, and the commercialization of fandom.",
+    "queries": [
+      "Is fan art focused on Lady Gaga’s image ethical or not?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "youth mental health",
+    "wiki_title": "youth mental health crisis",
+    "summary": "The youth mental health crisis is frequently cited to bolster praise of Lady Gaga’s advocacy—her Born This Way initiatives and public discussions are framed as meaningful efforts to destigmatize illness, support young women, and justify her calls for increased youth mental‑health funding.  Critics, however, invoke the same crisis to argue her celebrity campaigns can be performative or reductive, commercializing struggle and distracting from structural policy solutions.",
+    "queries": [
+      "How do people view youth mental health advocacy by Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "celebrity philanthropy",
+    "wiki_title": "philanthropy",
+    "summary": "Supporters cite Lady Gaga’s high‑profile charitable work (like the Born This Way Foundation and LGBT/mental‑health campaigns) to portray her as a socially responsible artist who channels fame into progressive causes and policy attention for youth. Critics counter that her philanthropy can function as PR or brand‑building and question whether celebrity initiatives substitute for sustained political advocacy or systemic change.",
+    "queries": [
+      "What effects has Lady Gaga's celebrity philanthropy brought?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "bobby campbell",
+    "wiki_title": "bobby campbell (english footballer)",
+    "summary": "Bobby Campbell (English footballer) is essentially absent from public debates about Lady Gaga and is not used to shape or justify arguments about her; at most he might be invoked in rare, off‑hand contrasts between sports figures and pop stars to highlight different celebrity cultures, but he plays no substantive role in Gaga‑related narratives.",
+    "queries": [
+      "Is Bobby Campbell’s role in Lady Gaga’s career justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "donatella versace",
+    "wiki_title": "donatella versace",
+    "summary": "Donatella Versace’s high-profile collaborations and public endorsements are often invoked to legitimize Lady Gaga as a bona fide fashion icon and to explain her access to luxury platforms and mainstream acceptance; conversely, critics point to the Versace tie as evidence of calculated commercialism, arguing it reframes Gaga’s provocation as brand-driven spectacle rather than authentic artistic rebellion.",
+    "queries": [
+      "Are donatella versace's fashion choices for Gaga appropriate or not?"
+    ]
+  },
+  {
+    "id": "C3-8-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "queer icon",
+    "wiki_title": "gay icon",
+    "summary": "Calling Lady Gaga a “gay icon” frames her as a visible, influential ally whose queer-friendly image, music and activism justify public support for her and bolster advocacy for LGBTQ-inclusive policies and cultural recognition. Critics use the same label to dispute her authenticity—arguing she sometimes commodifies queer culture or engages in performative allyship—thereby shaping debates over the sincerity and political impact of her work.",
+    "queries": [
+      "What impact has queer icon labeling had on Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "sam elliott",
+    "wiki_title": "sam elliott",
+    "summary": "Sam Elliott’s veteran presence in A Star Is Born is often invoked to legitimize Lady Gaga’s transition from pop provocateur to serious actress-musician, his old-school gravitas used to validate her dramatic chops and rootsy musical turn. Commentators also use his traditional, masculine Americana persona as a foil to Gaga’s avant-garde image, shaping debates about her authenticity and mainstream acceptance.",
+    "queries": [
+      "What impact has Sam Elliott's involvement with Lady Gaga had?"
+    ]
+  },
+  {
+    "id": "C3-6-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "judy garland",
+    "wiki_title": "judy garland",
+    "summary": "Judy Garland is often invoked as a historical touchstone for judging Lady Gaga—used to legitimize Gaga’s theatrical singing, gay‑icon appeal, and pivot into serious acting (frequently via parallels between their A Star Is Born arcs), or conversely to argue that Gaga commercializes Garland’s raw authenticity into calculated pop spectacle. Garland’s biography and tragic fame are also deployed rhetorically to either romanticize Gaga’s vulnerability or warn against the emotional costs of celebrity.",
+    "queries": [
+      "How do people view Judy Garland in Lady Gaga's artistry?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "lgbtq+ activism",
+    "wiki_title": "lgbtq movements",
+    "summary": "LGBTQ movements frequently frame Lady Gaga as a high-profile ally and cultural icon whose music, public statements, and philanthropy are invoked to legitimize mainstream support for queer rights and policies and to mobilize fans toward activism. At the same time activists and critics within those movements use her celebrity as a foil—arguing she sometimes commercializes queer struggles, centers her own brand over grassroots leadership, or occupies space that could amplify more marginalized queer voices.",
+    "queries": [
+      "Is Lady Gaga's lgbtq+ activism justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "pride parade",
+    "wiki_title": "pride parade",
+    "summary": "References to pride parades are often used to bolster Lady Gaga’s image as a visible, active LGBTQ ally—citing her performances, appearances and advocacy at Pride events to argue she champions queer visibility and rights. Conversely, critics invoke her presence at Pride to argue that she sometimes commercializes or performs allyship for publicity, framing her involvement as tokenistic or tied to corporate-sponsored celebrations rather than grassroots activism.",
+    "queries": [
+      "What consequences has Lady Gaga's involvement in a pride parade brought?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "nyc pride",
+    "wiki_title": "nyc pride march",
+    "summary": "The NYC Pride March is often invoked to portray Lady Gaga as a committed LGBTQ+ ally and pop-culture icon—her appearances there are used to support narratives that she champions queer rights and progressive causes. Conversely, critics cite celebrity participation in the march to argue her involvement is performative or contributes to the commercialization of Pride, framing her actions as publicity-driven rather than authentic political advocacy.",
+    "queries": [
+      "How do people view nyc pride performances by Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "rainbow capitalism",
+    "wiki_title": "rainbow capitalism",
+    "summary": "Critics invoke rainbow capitalism to accuse Lady Gaga of commodifying queer culture—suggesting her albums, fashion, brand deals and Pride appearances are profit-driven performative allyship—while defenders counter that her visibility, Born This Way activism and fundraising have materially advanced LGBTQ acceptance; the framing therefore shapes whether audiences see her as a genuine advocate for policy change or a market-savvy entertainer.",
+    "queries": [
+      "How do people view rainbow capitalism in Lady Gaga's activism?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "stonewall riots",
+    "wiki_title": "stonewall riots",
+    "summary": "Commentators and fans cite Stonewall when praising Lady Gaga to situate her music, speeches, and Pride appearances within a lineage of LGBTQ activism and to legitimize her as a public ally; opponents invoke Stonewall to question her authenticity or accuse her of commodifying queer history with symbolic gestures rather than advancing concrete policy or community-led demands.",
+    "queries": [
+      "How do people view the stonewall riots today?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "marsha p. johnson",
+    "wiki_title": "marsha p. johnson",
+    "summary": "Commentators and activists invoke Marsha P. Johnson to evaluate Lady Gaga’s relationship to queer history: supporters use Johnson’s legacy to portray Gaga as an inspired ally connecting her art to trans and Stonewall-era struggles, while critics invoke Johnson to accuse Gaga of commodifying or appropriating queer icons and to demand more concrete, policy-oriented support for trans communities rather than performative gestures.",
+    "queries": [
+      "How do people view marsha p. johnson’s influence on Gaga’s public image?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "worldpride 2019",
+    "wiki_title": "worldpride",
+    "summary": "WorldPride is often cited to bolster or challenge narratives about Lady Gaga’s standing as a global LGBTQ+ ally—her appearances or association with WorldPride are used to portray her as a serious advocate and culturally influential supporter, or conversely to accuse her of performative, commercially driven allyship that exploits queer visibility. Critics and defenders alike invoke her WorldPride involvement to argue about her political credibility, sincerity on LGBTQ+ issues, and the commercial impact of celebrity activism.",
+    "queries": [
+      "Was Lady Gaga's worldpride 2019 performance appropriate or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "pinkwashing",
+    "wiki_title": "pinkwashing",
+    "summary": "Critics sometimes label Lady Gaga’s high-profile LGBTQ advocacy and brand partnerships as pinkwashing, arguing these gestures primarily boost her image and commercial interests rather than effect structural change, and using that claim to question the authenticity of her allyship. Supporters, however, point to her visibility and campaigns to justify praise or political alignment with LGBTQ causes, arguing her fame raises awareness even when tied to marketing.",
+    "queries": [
+      "How do people view Lady Gaga’s pinkwashing?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "stonewall national monument",
+    "wiki_title": "stonewall national monument",
+    "summary": "Commentators and activists invoke the Stonewall National Monument when framing Lady Gaga as a legitimate LGBTQ ally whose performances and advocacy continue the movement’s fight for visibility and legal protections. Critics likewise use Stonewall as a benchmark to argue she sometimes commodifies queer history—accusing her of performative allyship or using Pride imagery for marketing rather than substantive policy change.",
+    "queries": [
+      "How do people view the Stonewall National Monument?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "glaad",
+    "wiki_title": "glaad",
+    "summary": "GLAAD is often invoked in discussions of Lady Gaga as a gauge of her credibility as an LGBTQ+ ally—publicly praising her advocacy and partnerships while also calling out instances where her imagery or messaging may tokenize or commodify queer communities. In debates about authenticity and policy, GLAAD frames Gaga as an influential celebrity who can advance anti‑discrimination goals but who should be held accountable when her actions risk sidelining or harming trans and other marginalized queer groups.",
+    "queries": [
+      "Is Lady Gaga’s involvement with glaad reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "born this way ball",
+    "wiki_title": "born this way ball",
+    "summary": "The Born This Way Ball is often invoked by supporters to highlight Lady Gaga's role as a theatrical pop auteur and activist—its inclusive staging and messaging are used to argue she authentically promotes empowerment and LGBTQ+ visibility. Detractors, however, cite the tour's extravagant production, cancelled dates and heavy commercialism to portray her as reliant on spectacle and marketing rather than musical substance.",
+    "queries": [
+      "Is the Born This Way Ball tour justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "anti-bullying movement",
+    "wiki_title": "bullying",
+    "summary": "Public discourse around Lady Gaga often invokes bullying to cast her as a spokesperson for marginalized youth—her own accounts of being bullied and the Born This Way Foundation are cited to justify calls for anti-bullying policies, LGBTQ+ acceptance, and mental-health supports. Conversely, critics point to instances of fan-driven online harassment or accuse her of performative activism to argue that she or her fanbase can contribute to bullying, undermining her credibility as an advocate.",
+    "queries": [
+      "How do people view Lady Gaga's anti-bullying movement?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4",
+    "level": 3,
+    "topic": "cynthia germanotta",
+    "wiki_title": "cynthia germanotta",
+    "summary": "Cynthia Germanotta is often invoked to reinforce narratives that Lady Gaga’s activism—especially around mental health—is family-rooted and sincere, with her co-leadership in related philanthropy used to justify praise for Gaga’s compassion and social responsibility; critics, however, point to Cynthia’s public and organizational role to argue that aspects of Gaga’s philanthropic image are strategically managed rather than purely organic.",
+    "queries": [
+      "Are criticisms of Cynthia Germanotta fair or unwarranted?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "proposition 8",
+    "wiki_title": "2008 california proposition 8",
+    "summary": "References to California’s 2008 Proposition 8 are often invoked in conversations about Lady Gaga to highlight and justify her high-profile advocacy for LGBTQ rights—supporters use the measure to frame her as a committed activist who mobilizes fans for marriage-equality causes, while critics use it to portray her as an overly political celebrity imposing progressive values. Discussions of Prop 8 thus help shape whether Gaga is seen primarily as a cultural ally and political organizer or as a polarizing public figure.",
+    "queries": [
+      "What consequences has Lady Gaga’s stance on proposition 8 caused?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "elton john",
+    "wiki_title": "elton john",
+    "summary": "Elton John is frequently used as an elder-statesman endorsement in conversations about Lady Gaga—his public praise and high-profile interactions with her are cited to validate her as a theatrical, credible pop auteur and LGBTQ advocate; critics sometimes invoke comparisons to him to argue she leans on legacy glam and celebrity alliances rather than wholly original artistry.",
+    "queries": [
+      "Are Elton John's public comments about Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "political activism and policy",
+    "wiki_title": "activism",
+    "summary": "Activism is used to cast Lady Gaga as a socially engaged cultural leader—her high-profile advocacy for LGBTQ+ rights, mental health and anti-bullying (e.g., the Born This Way Foundation) is cited to justify praise, mobilize her fanbase for progressive causes, and lend moral weight to her public interventions. Detractors use the same activism to question sincerity and effectiveness, framing her efforts as performative celebrity virtue-signaling or marketing rather than sustained political engagement.",
+    "queries": [
+      "How do people view Lady Gaga’s political activism and policy?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "lgbtq rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Comparisons of LGBTQ rights by country are often invoked in debates about Lady Gaga to highlight her role as a global LGBTQ ally—supporters point to her activism and calls for change in places with repressive laws as evidence of principled advocacy. Conversely, critics and activists use country-level rights data to pressure or accuse her of hypocrisy when she performs, sponsors, or works in territories with poor LGBT rights records, framing her choices as either courageous or inconsistent depending on the facts.",
+    "queries": [
+      "What impact has Lady Gaga had on lgbtq rights?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "pride month",
+    "wiki_title": "pride month",
+    "summary": "During Pride Month supporters highlight Gaga’s performances, activism, and Born This Way work to frame her as a genuine LGBTQ ally and cultural icon, bolstering her reputation and mobilizing queer fans. Critics counter during the same period by accusing her of timing releases and branding for profit or offering symbolic gestures rather than substantive policy advocacy, framing her as performative.",
+    "queries": [
+      "What impact does pride month association have on Lady Gaga’s image?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "stonewall inn",
+    "wiki_title": "stonewall inn",
+    "summary": "The Stonewall Inn is frequently invoked to frame Lady Gaga as a legitimate LGBTQ ally—references to Stonewall in her performances, tributes, and statements are used to justify her progressive credentials and support for anti-discrimination and queer-affirming policies. Critics counter that her use of Stonewall imagery can amount to commodifying queer history or performative allyship, arguing it sometimes serves publicity more than sustained activist commitment.",
+    "queries": [
+      "Is Lady Gaga's involvement with the Stonewall Inn reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "transgender rights",
+    "wiki_title": "legal status of transgender people",
+    "summary": "Debates about the legal status of transgender people are used to cast Lady Gaga as either a committed ally—cited by supporters for using her platform and songs to push for legal recognition, healthcare access, and anti-discrimination protections—or as a target for critics who accuse her of performative activism if she doesn’t take specific policy stances on issues like legal gender changes, medical access, or international trans rights. Opponents also invoke differing national laws to challenge her positions, while advocates point to those legal gaps to urge Gaga to push for concrete reform.",
+    "queries": [
+      "What impacts has Lady Gaga’s advocacy for transgender rights caused?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "marriage equality",
+    "wiki_title": "same-sex marriage",
+    "summary": "Same-sex marriage is invoked in discussions of Lady Gaga to underscore her role as a vocal LGBT ally—her public support for marriage equality and Pride activism is used to validate her credibility with queer and progressive audiences and to situate her as a cultural advocate for civil rights; critics, by contrast, use her stance to argue she is promoting a partisan ‘agenda’ or overstepping as a celebrity, framing her activism as controversial rather than purely humanitarian.",
+    "queries": [
+      "What consequences has Lady Gaga’s stance on marriage equality caused?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "obergefell v. hodges",
+    "wiki_title": "obergefell v. hodges",
+    "summary": "Obergefell v. Hodges is frequently cited in conversations about Lady Gaga to legitimize her role as an LGBTQ ally—supporters point to the ruling when praising her Born This Way advocacy and public celebrations of marriage equality as aligned with legally recognized civil rights. Critics, by contrast, invoke the case to argue she politicizes cultural milestones or engages in virtue-signaling, framing her performances and statements as partisan rather than purely artistic.",
+    "queries": [
+      "Is obergefell v. hodges legally and morally justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "equality act",
+    "wiki_title": "equality act",
+    "summary": "Supporters cite the Equality Act when praising Lady Gaga as a committed LGBTQ+ advocate, using her platform and activism to legitimize calls for legal protections and to mobilize fans toward progressive policy goals. Critics invoke the bill to portray her as a politicized celebrity, accusing her of promoting controversial gender- and religious-liberty policies or engaging in virtue-signaling.",
+    "queries": [
+      "What effects has Lady Gaga’s backing of the equality act caused?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "transgender rights in the united states",
+    "wiki_title": "transgender rights in the united states",
+    "summary": "U.S. debates over transgender rights are used to frame Lady Gaga as either a leading LGBTQ+ ally whose outspoken support and inclusive performances bolster calls for trans-affirming attitudes and policies, or as a politicized celebrity whose advocacy is portrayed by critics as performative or partisan. Supporters cite her visibility to legitimize progressive reforms and cultural acceptance, while opponents invoke the issue to attack her public persona or oppose trans-inclusive measures.",
+    "queries": [
+      "How do people view transgender rights in the United States?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "religious freedom",
+    "wiki_title": "freedom of religion",
+    "summary": "Claims about freedom of religion surface when critics condemn Lady Gaga’s use of sacred imagery and rituals—arguing religious sensibilities justify restrictions or boycotts—while defenders frame her provocative art as protected religious and artistic expression; additionally, Gaga and her allies invoke religious-freedom rhetoric to challenge religious exemptions that would permit discrimination against the LGBT communities she champions.",
+    "queries": [
+      "Is Lady Gaga's position on religious freedom reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "alliance defending freedom",
+    "wiki_title": "alliance defending freedom",
+    "summary": "Alliance Defending Freedom is invoked in debates about Lady Gaga when conservative commentators and activists cite the group’s critiques to cast her pro-LGBTQ, gender-fluid performances and school outreach as inappropriate or harmful to children; ADF’s framing is used to justify legal and policy moves to restrict sexuality- and gender-related programming and to oppose broader protections for LGBT expression that Gaga champions.",
+    "queries": [
+      "How do people view alliance defending freedom in relation to Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News often spotlights Lady Gaga as a prominent example of “liberal Hollywood,” using her political endorsements, activism (especially on LGBTQ and progressive causes) and provocative performances to criticize celebrity influence and portray pop culture as promoting ‘woke’ values; conservative commentators frequently cast her as emblematic of elite hypocrisy or cultural excess. Hosts also amplify disputes around her statements or appearances to justify opposition to the social and policy positions she supports.",
+    "queries": [
+      "How do people view Fox News’s portrayal of Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "republican party",
+    "wiki_title": "republican party",
+    "summary": "Republican politicians and conservative commentators often cast Lady Gaga as a symbol of liberal cultural elites, criticizing her provocative performances and outspoken advocacy on LGBTQ rights, mental‑health and other progressive causes as evidence of a 'woke' agenda and using her celebrity to argue that pop culture pushes youth leftward. While rare GOP praise highlights her charity work, she is most frequently invoked in Republican narratives to mobilize conservative voters or discredit liberal cultural influence.",
+    "queries": [
+      "How do people view the Republican Party regarding Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "human rights campaign",
+    "wiki_title": "human rights campaign",
+    "summary": "Human rights campaigns frequently cast Lady Gaga as a high‑profile ally—citing her music, public statements, and philanthropy—to legitimize calls for LGBTQ+ equality, anti‑bullying programs, and inclusive policy initiatives; at the same time, that human‑rights framing is used by critics to question her motives and label her activism as performative, shaping debates about the value and limits of celebrity advocacy.",
+    "queries": [
+      "What effects has Lady Gaga's human rights campaign brought?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "it gets better project",
+    "wiki_title": "it gets better project",
+    "summary": "Gaga's visible support for the It Gets Better Project is often invoked by fans and journalists to portray her as a sincere advocate for LGBTQ+ youth and to justify praise of her cultural influence; skeptics, however, use the same association to argue her celebrity endorsements are performative or used to deflect criticism over commercialism or controversial artistic choices.",
+    "queries": [
+      "Is Lady Gaga's it gets better project justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "hillary clinton",
+    "wiki_title": "hillary clinton",
+    "summary": "Hillary Clinton is invoked in debates about Lady Gaga to underscore Gaga’s alignment with mainstream Democratic causes—Clinton’s public association and mutual endorsements during election cycles are used by supporters to validate Gaga’s political advocacy on LGBT and women’s rights. Conversely, critics cite Gaga’s ties to Clinton to frame her as an establishment ally, arguing it undermines her outsider or rebellious artistic persona.",
+    "queries": [
+      "How do people view hillary clinton's influence on Lady Gaga fans?"
+    ]
+  },
+  {
+    "id": "C5-6-1",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "2016 presidential election",
+    "wiki_title": "2016 national electoral calendar",
+    "summary": "Commentators and activists reference the 2016 national electoral calendar to pin Lady Gaga’s endorsements, performances, and public statements to specific elections—using those dates to argue she helped mobilize young/progressive voters (especially around the 2016 U.S. presidential race and LGBT-rights debates) or, conversely, to accuse her of timing appearances opportunistically to maximize political influence and publicity.",
+    "queries": [
+      "What consequences has Lady Gaga’s stance in the 2016 presidential election caused?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "democratic national convention",
+    "wiki_title": "democratic national convention",
+    "summary": "Appearances or endorsements connected to the Democratic National Convention are often invoked to depict Lady Gaga as a high-profile Democratic ally who amplifies progressive causes (LGBTQ+ rights, healthcare, anti-discrimination) and lends celebrity legitimacy to party messaging. Critics, however, use her DNC ties to argue she is a partisan, performative celebrity—accusing her of virtue-signaling, elitism, or leveraging fame to influence politics rather than engaging substantively.",
+    "queries": [
+      "What impact does Lady Gaga's presence at the democratic national convention have?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "feminism",
+    "wiki_title": "feminism",
+    "summary": "Feminist arguments commonly cast Lady Gaga as a visible advocate for empowerment and LGBTQ+ inclusion—citing her music, public speeches, and charity work to justify her role in promoting gender equality and support for survivors. Conversely, critics deploy feminist critiques to accuse her of celebrity or white feminism, arguing her sexualized performances, branding, or occasional cultural appropriation can be performative and fall short of intersectional, structural change.",
+    "queries": [
+      "How do people view Lady Gaga’s feminism?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "mental health advocacy",
+    "wiki_title": "independent mental health advocacy",
+    "summary": "Advocates and commentators invoke independent mental health advocacy when discussing Lady Gaga to argue that her high-profile mental health work should center service‑user autonomy, legal safeguards, and the right to have one’s views heard rather than coercive treatment. Critics likewise use IMHA concepts to caution that celebrity activism can oversimplify clinical and legal complexities or substitute symbolic solidarity for concrete policy changes that protect patients’ rights.",
+    "queries": [
+      "How do people view mental health advocacy from Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C5-7-3",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "lgbtq youth",
+    "wiki_title": "lgbtq youth vulnerability",
+    "summary": "Advocates invoke LGBTQ youth vulnerability to portray Lady Gaga as a vital ally—pointing to her music and Born This Way advocacy to justify anti‑bullying campaigns, mental‑health funding, and public praise. Critics use the same framing to accuse her of performative activism or to politicize young people’s identities, arguing her spotlight can oversimplify structural problems or provoke conservative backlash.",
+    "queries": [
+      "Is Lady Gaga’s support for lgbtq youth reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "mental health stigma",
+    "wiki_title": "mental disorder",
+    "summary": "References to mental disorder in discussions of Lady Gaga are frequently used to validate her public role as a mental‑health advocate—citing her openness about trauma and the Born This Way Foundation to support destigmatization, anti‑bullying efforts, and calls for better youth mental‑health services. Conversely, critics and tabloids sometimes invoke mental‑illness narratives to sensationalize her behavior, question her authenticity, or undermine her credibility.",
+    "queries": [
+      "Is Lady Gaga’s focus on mental health stigma justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "the trevor project",
+    "wiki_title": "the trevor project",
+    "summary": "Lady Gaga’s public association with the Trevor Project is frequently used to frame her as a committed LGBTQ+ and mental‑health advocate—supporters point to her fundraising, endorsements, and collaborations with the organization as proof of genuine allyship and impact on youth suicide prevention, while skeptics invoke the same ties to argue her activism is performative or insufficiently linked to structural policy change.",
+    "queries": [
+      "Is Lady Gaga’s support for the Trevor Project justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "lgbt youth",
+    "wiki_title": "lgbt youth scotland",
+    "summary": "LGBT Youth Scotland commonly invokes Lady Gaga’s visibility and pro-LGBT stances to bolster arguments for inclusive education, anti-bullying policies, and better mental-health support for queer young people, presenting her as a positive role model and ally; she is also referenced in debates that question whether celebrity advocacy alone adequately addresses the specific needs of LGBT youth (especially trans young people) or risks commercialising queer identity.",
+    "queries": [
+      "Is Lady Gaga’s support for lgbt youth reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and misinformation",
+    "wiki_title": "misinformation",
+    "summary": "False or misleading claims about Lady Gaga—ranging from fabricated endorsements and health or relationship rumors to conspiracy-laden accusations (e.g., satanic/Illuminati ties or fake political positions)—are used both to attack her credibility and to mythologize her image; these narratives polarize fans and critics, fuel culture-war critiques of her LGBTQ+ and mental-health activism, and drive calls for platform moderation or legal redress when they damage her reputation.",
+    "queries": [
+      "What consequences has media and misinformation had for Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "celebrity death hoaxes",
+    "wiki_title": "death hoax",
+    "summary": "Death hoaxes about Lady Gaga periodically circulate online and are invoked to criticize tabloid sensationalism and social-media misinformation, rally her fans against perceived attacks, and sometimes feed conspiratorial claims that she stages publicity stunts — shaping public attitudes that range from protective fandom and sympathy to distrust of media and suspicion about celebrity authenticity.",
+    "queries": [
+      "How do people view celebrity death hoaxes involving Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "facebook",
+    "wiki_title": "facebook",
+    "summary": "Fans and official pages on Facebook are frequently used to promote Lady Gaga’s music, activism (eg, Born This Way), tours and philanthropic initiatives, with likes, shares and follower counts routinely invoked to argue for her cultural reach and commercial relevance. Critics and journalists likewise point to Facebook’s algorithmic amplification of sensational posts, rumor spreading, coordinated harassment in groups/comments, and targeted misinformation as factors that can distort public perceptions of Gaga and amplify both praise and attacks on her image.",
+    "queries": [
+      "What impact has Lady Gaga's facebook activity had?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "paul is dead",
+    "wiki_title": "paul is dead",
+    "summary": "Invoking the 'Paul is dead' hoax is a common way to frame debates about Lady Gaga’s use of cryptic imagery and persona shifts: critics cite it to ridicule fans and media for reading conspiratorial hidden messages into her albums and appearances, while supporters use the analogy to argue such clue-hunting reflects fan creativity rather than proof of inauthenticity. The reference also appears in broader critiques of pop manufacturing, employed by detractors to suggest Gaga’s image is engineered or 'constructed,' and by defenders to dismiss those claims as sensationalism.",
+    "queries": [
+      "Is 'paul is dead' relevant to Lady Gaga fan conversations?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "clickbait",
+    "wiki_title": "clickbait",
+    "summary": "Clickbait about Lady Gaga often sensationalizes her fashion, relationships, health, or activism to generate clicks, which fuels gossip-driven narratives that paint her as attention-seeking or problematic while crowding out nuanced discussion of her music and advocacy; this framing tends to support cynical interpretations of her motives and undermine serious critiques or policy debates she engages in.",
+    "queries": [
+      "Is clickbait about Lady Gaga justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "deepfake videos",
+    "wiki_title": "deepfake",
+    "summary": "Deepfakes appear in arguments about Lady Gaga as a tool that can create realistic but fake pornographic, political, or viral clips that threaten her reputation and privacy, prompting calls from fans, activists, and policymakers for stronger platform moderation and legal protections. At the same time, debates around AI-driven parody or artistic re‑use of her image pit concerns about consent and harm against claims of creative freedom, shaping conflicting attitudes toward regulation.",
+    "queries": [
+      "Are deepfake videos harmful to artists' reputations or reasonable concerns?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "right of publicity",
+    "wiki_title": "personality rights",
+    "summary": "Personality rights are cited to protect Lady Gaga’s commercial brand—used to justify licensing deals, block unauthorized merchandise or endorsements, and pursue claims against deepfakes or exploitative uses of her likeness. Critics counter that aggressive enforcement against impersonators, fan art, parodies or AI-generated images frames Gaga as a corporate asset and risks chilling free expression, shaping policy debates about the scope of publicity rights.",
+    "queries": [
+      "How do fans view Lady Gaga’s right of publicity claims?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "non-consensual pornography",
+    "wiki_title": "generative ai pornography",
+    "summary": "When deepfaked sexual images or videos of Lady Gaga surface, generative AI pornography becomes a focal point for arguing that celebrities face nonconsensual exploitation and reputational harm, prompting calls from fans and advocates for stronger takedown rules, consent-based AI laws, and platform accountability. Opponents of heavy regulation counter that policing such content raises free-expression issues and exposes tensions between protecting artists’ privacy and limiting online speech, while critics also use these incidents to condemn the sexualization and commodification of public figures.",
+    "queries": [
+      "How do people view non-consensual pornography in relation to Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "sensity ai",
+    "wiki_title": "realsense",
+    "summary": "References to RealSense technology in discussions of Lady Gaga are often used to frame her as a tech‑forward, spectacle‑driven performer, with supporters arguing its use shows her commitment to innovation and immersive experiences. Critics deploy the same reference to suggest that heavy reliance on interactive or camera‑based tech distances audiences and undermines claims of authentic, unmediated artistry.",
+    "queries": [
+      "Is sensity ai use around Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok-driven trends, short clips, and fan challenges amplify and reshape public views of Lady Gaga by popularizing her songs, performances, and activist moments—mobilizing fandoms to boost streams and frame her as either a cultural icon or a nostalgic legacy act. The platform also fast-tracks criticism and debate—viral critiques of performances, memes about authenticity, and political reactions—so TikTok frequently polarizes opinion about her relevance, artistry, and public stances.",
+    "queries": [
+      "How do people view Lady Gaga's tiktok content?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "illuminati",
+    "wiki_title": "illuminati",
+    "summary": "Conspiracy theorists and some moralizing critics claim Lady Gaga is tied to the Illuminati, pointing to occult imagery in her videos and performances to portray her as a secretive elite influencer or promoter of anti‑religious agendas. This framing fuels moral panic and calls for censorship or boycotts while also being used to delegitimize her cultural influence or, conversely, to mythologize her as a powerful figure within elite power structures.",
+    "queries": [
+      "Is the illuminati claim about Lady Gaga credible or not?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "jay-z",
+    "wiki_title": "jay-z",
+    "summary": "Jay‑Z is used as a benchmark for crossover credibility and mogul status when people evaluate Lady Gaga’s business moves, genre shifts, and social activism—supporters argue she can emulate his model of building cultural and commercial power beyond pop, while critics invoke him to question her authenticity or industry legitimacy. Comparisons to Jay‑Z also surface in debates about cultural appropriation and gatekeeping, with commentators using his role as a Black music-industry power broker to critique or defend Gaga’s collaborations with and use of Black musical styles.",
+    "queries": [
+      "Is jay-z's collaboration with Lady Gaga beneficial or not?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "eye of providence",
+    "wiki_title": "eye of providence",
+    "summary": "Conspiracy-minded critics point to Eye of Providence imagery in Lady Gaga’s work or publicity as “evidence” she’s tied to the Illuminati or elite cultural manipulation, using it to argue she corrupts youth and should be boycotted or censored; supporters and some analysts counter that Gaga employs such symbols as ironic critique of fame and power, reframing the motif as artistic commentary rather than proof of sinister affiliations.",
+    "queries": [
+      "Is Lady Gaga’s use of the eye of providence justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "pyramid imagery",
+    "wiki_title": "imagery",
+    "summary": "Lady Gaga's bold visual imagery — from the meat dress to theatrical costumes and staged performances — is repeatedly cited in public debates to portray her as a boundary‑pushing artist and queer/feminist icon who challenges norms, while opponents point to the same visuals to claim she is a calculated, commercial spectacle; thus imagery drives arguments about her authenticity, artistic merit, and the sincerity or commodification of her political and cultural messages.",
+    "queries": [
+      "How do people view pyramid imagery in Gaga’s work?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "QAnon narratives portray Lady Gaga as part of a satanic, elite pedophile cabal, seizing on her provocative imagery, symbolism, and advocacy to claim 'evidence' and discredit her politically. This framing is used to justify harassment, calls for boycotts or censorship, and to mobilize followers against her and her allies.",
+    "queries": [
+      "Is linking Lady Gaga to qanon justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "pizzagate",
+    "wiki_title": "pizzagate conspiracy theory",
+    "summary": "Pizzagate-derived narratives and QAnon offshoots have been applied to Lady Gaga, casting her provocative imagery, philanthropic work and celebrity connections as \"evidence\" of involvement in a secret elite or child‑sex trafficking ring—claims used to morally condemn her and justify online harassment and doxxing. Supporters, journalists and civil‑liberties advocates counter that these accusations are baseless, highlighting how such conspiracies weaponize moral panic to delegitimize and silence progressive artists.",
+    "queries": [
+      "Is pizzagate involving Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "satanic panic",
+    "wiki_title": "satanic panic",
+    "summary": "Accusations rooted in the satanic-panic narrative are used by some religious and conservative critics to portray Lady Gaga’s provocative imagery, occult motifs, and theatrical performances as promoting Satanism and corrupting youth, which they cite to justify boycotts, censorship, or moral condemnation. Her supporters and neutral commentators, in turn, label such attacks as a contemporary moral panic—using that framing to defend her artistic freedom, LGBTQ+ advocacy, and to argue critics rely on fearmongering rather than evidence.",
+    "queries": [
+      "Is the satanic panic surrounding Lady Gaga justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "human trafficking",
+    "wiki_title": "human trafficking",
+    "summary": "Human trafficking rhetoric surfaces in discussions about Lady Gaga as part of broader debates over sexual exploitation in pop culture—supporters point to her advocacy for survivors and use trafficking language to call out industry abuses, while some critics seize on trafficking concerns to attack or police her provocative imagery. These invocations typically bolster calls for stronger protections, survivor services, and industry accountability, and oppose arguments that sexualized performance is harmless or purely consensual.",
+    "queries": [
+      "How do people view Lady Gaga's work on human trafficking?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "infowars",
+    "wiki_title": "infowars",
+    "summary": "Infowars repeatedly casts Lady Gaga as a symbol of a liberal, ‘elite’ cultural agenda—alleging her performances and imagery promote sexualization, satanic or occult symbolism, and social engineering rather than legitimate artistry. These narratives are used to discredit her activism (especially pro‑LGBT and progressive causes) and to rally conservative audiences against perceived moral decline and related policy positions.",
+    "queries": [
+      "What impacts has infowars had on perceptions of Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "occult symbolism",
+    "wiki_title": "list of occult symbols",
+    "summary": "Lists of occult symbols are frequently deployed by critics and conspiracy theorists to claim Lady Gaga is promoting satanic or Illuminati agendas, a narrative that fuels moral panic and has been used to justify boycotts, censorship, or parental warnings. Supporters and cultural commentators counter that the same symbol readings are artistic provocation or social commentary, using them to defend her creative freedom and oppose restrictive policies.",
+    "queries": [
+      "Is Lady Gaga's occult symbolism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "snopes",
+    "wiki_title": "snopes",
+    "summary": "Snopes is often cited in online debates about Lady Gaga to debunk viral rumors, death hoaxes, or conspiratorial readings of her songs and public statements, and its fact-checks are used to undercut sensationalist or fan-driven claims. By confirming or rejecting specific allegations, it tends to promote skeptical, evidence-based interpretations and dampen conspiratorial or politically charged misinformation about her.",
+    "queries": [
+      "How do people view snopes' fact-checks about Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "photo manipulation",
+    "wiki_title": "photograph manipulation",
+    "summary": "Photograph manipulation is invoked in debates about Lady Gaga’s authenticity and image-making—critics and tabloids cite alleged Photoshop or retouching to accuse her of fakery or to sensationalize body and wardrobe choices, while fans and her team defend edits as standard industry practice or artistic expression. These disputes influence perceptions of her credibility, shape conversations about body-image and feminism, and bolster arguments for media transparency or restrictions on deceptive retouching.",
+    "queries": [
+      "How do people view photo manipulation in Lady Gaga images?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "tmz",
+    "wiki_title": "tmz",
+    "summary": "TMZ frequently shapes public views of Lady Gaga by amplifying sensational angles—paparazzi photos, leaks and exclusive scoops—that foreground scandals, relationship drama or provocative outfits and encourage skepticism about her authenticity or publicity stunts. Fans and defenders often dismiss TMZ as exploitative, while critics cite its coverage to challenge her behavior, motives, or public image.",
+    "queries": [
+      "Is tmz's coverage of Lady Gaga fair or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "fan culture and social media",
+    "wiki_title": "social media",
+    "summary": "On social media, fans, critics, and Gaga's own team rapidly shape narratives about her — amplifying her activism, queer advocacy, artistic reinventions, and promotional campaigns while using memes and curated posts to justify her celebrity brand. At the same time platforms magnify controversies, accusations, conspiracy theories and polarized moral judgments, enabling swift reputation swings, cancel-or-defend mobilizations, and politicized debates over her authenticity and public roles.",
+    "queries": [
+      "How do people view fan culture and social media around Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "little monsters",
+    "wiki_title": "little monsters",
+    "summary": "The term 'Little Monsters' is often used to frame Lady Gaga as the center of a loyal, activist fan community that amplifies her messages, mobilizes support (including political and charitable efforts), and defends her in public controversies. Critics and some media, however, invoke 'Little Monsters' pejoratively to portray that loyalty as cult-like, arguing it can shield Gaga from accountability and enable online harassment or echo-chamber dynamics.",
+    "queries": [
+      "What effects have little monsters had on Lady Gaga's public image?"
+    ]
+  },
+  {
+    "id": "C7-1-2",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "the fame monster",
+    "wiki_title": "the fame monster",
+    "summary": "The Fame Monster is commonly invoked to frame Lady Gaga as a self-aware critic of celebrity who uses theatrical excess to expose fame’s dark side, while opponents cite it to argue she deliberately manufactures controversy and commodifies personal pain for publicity, trading authenticity for spectacle.",
+    "queries": [
+      "What consequences has the fame monster brought to Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C7-1-3",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "monster ball tour",
+    "wiki_title": "the monster ball tour",
+    "summary": "The Monster Ball Tour is often cited in debates about Lady Gaga to argue that she elevated pop performance into theatrical, fashion-forward art—used by fans and critics who defend her as a serious, innovative performer and cultural force with strong fan engagement and social messaging. Conversely, detractors invoke the tour to criticize her reliance on spectacle and commercial staging, arguing it sometimes prioritizes image and shock over raw musicianship.",
+    "queries": [
+      "Is Lady Gaga’s monster ball tour justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "born this way foundation",
+    "wiki_title": "born this way foundation",
+    "summary": "Supporters point to the Born This Way Foundation as proof of Lady Gaga’s genuine commitment to LGBTQ+ rights, youth empowerment, and mental-health advocacy, using it to justify her status as a socially responsible cultural leader; critics use the foundation to argue her activism is performative or PR-driven, questioning its effectiveness and whether celebrity-led efforts substitute for real policy solutions.",
+    "queries": [
+      "How do people view the Born This Way Foundation?"
+    ]
+  },
+  {
+    "id": "C7-3-1",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "born this way (song)",
+    "wiki_title": "born this way (song)",
+    "summary": "The song \"Born This Way\" is frequently cited to portray Lady Gaga as a visible, mainstream champion of LGBTQ+ rights and self-acceptance, used to justify views that she leverages celebrity for progressive cultural and policy causes (anti‑discrimination, inclusive education, queer visibility). Critics, however, invoke the same song to argue she commercializes activism or offers simplistic/derivative messaging, feeding debates about her authenticity, the commodification of queer politics, and the role of pop artists in political movements.",
+    "queries": [
+      "Is Lady Gaga’s born this way (song) message reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "channel kindness",
+    "wiki_title": "random act of kindness",
+    "summary": "References to “random acts of kindness” are used to frame Lady Gaga as a heartfelt, grassroots advocate—supporters point to her public appeals and the Born This Way movement as inspiring fans to perform small, positive deeds and foster community. Critics, however, deploy the same idea to argue her kindness rhetoric can be performative PR that prioritizes feel-good gestures over sustained policy change or systemic solutions.",
+    "queries": [
+      "Is channel kindness by Lady Gaga justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "suicide prevention",
+    "wiki_title": "suicide prevention",
+    "summary": "Suicide prevention is used to frame Lady Gaga as a prominent mental-health advocate—cited in praise of her Born This Way Foundation, public statements, and music that destigmatize suicide, promote hotlines and school-based supports, and push for youth-focused resources. Critics, however, invoke the same discourse to argue celebrity-led prevention risks foregrounding awareness and branding over systemic policy solutions like expanded clinical services, means restriction, and sustained funding.",
+    "queries": [
+      "How do people view Lady Gaga's suicide prevention advocacy?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "anti-bullying",
+    "wiki_title": "anti-bullying",
+    "summary": "Anti-bullying rhetoric is often used to portray Lady Gaga as a committed advocate for LGBTQ+ and vulnerable youth, cited to justify her Born This Way Foundation, school inclusion campaigns, and defenses of her outspoken art and public persona. Conversely, critics sometimes use anti-bullying frames to question the sincerity or impact of celebrity activism, debating whether her provocative imagery helps raise awareness or risks glamorizing harmful behavior.",
+    "queries": [
+      "How do people view Lady Gaga's anti-bullying efforts?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "stan culture",
+    "wiki_title": "stan twitter",
+    "summary": "On Stan Twitter, Lady Gaga’s fandom actively shapes public narratives by amplifying her releases, awards pushes, and activist statements while mobilizing hashtags and ‘receipt’-based rebuttals to defend her reputation. The community both frames her as a committed LGBTQ+ ally and creative icon and polices criticism—attacking claims of inauthenticity or opportunism while driving debates over her artistic credibility and political sincerity.",
+    "queries": [
+      "Is Lady Gaga's stan culture reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "madonna",
+    "wiki_title": "madonna",
+    "summary": "Madonna functions as the default benchmark in debates about Lady Gaga’s artistry and legitimacy—supporters frame Gaga as Madonna’s heir who updates a legacy of reinvention and provocative pop success, while critics use the comparison to portray Gaga as derivative, alleging she borrows Madonna’s shock tactics, imagery, and career blueprint rather than originating them.",
+    "queries": [
+      "Is Madonna's influence on Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "rupaul's drag race",
+    "wiki_title": "rupaul's drag race",
+    "summary": "RuPaul's Drag Race is frequently invoked in discussions of Lady Gaga’s cultural role—contestants’ Gaga impersonations, runway homages, and praise on the show are used to justify her status as a queer icon and influence on drag aesthetics, while critics point to Drag Race commentary and how her imagery is repurposed on the show to argue she sometimes co-opts queer style without consistent political engagement.",
+    "queries": [
+      "Is rupaul's drag race collaboration with Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "lgbt community",
+    "wiki_title": "lgbtq community",
+    "summary": "Invocations of the LGBTQ community frequently cast Lady Gaga as a high-profile ally and queer icon whose music, messaging, and philanthropy are used to legitimize progressive causes (visibility, anti-bullying, marriage equality) and rally support for inclusive policies. At the same time, critics and some queer activists invoke the community to challenge her authenticity or accuse mainstreaming of commodifying queer culture, arguing her celebrity-driven activism can be performative or distract from systemic policy demands.",
+    "queries": [
+      "What influence has Lady Gaga had on the lgbt community?"
+    ]
+  },
+  {
+    "id": "C7-4-8",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "online harassment",
+    "wiki_title": "cyberbullying",
+    "summary": "Allegations and experiences of cyberbullying are frequently used to frame Lady Gaga as a high-profile victim-turned-advocate, underpinning her Born This Way anti-bullying work and calls for stronger online moderation and protections for young and LGBTQ+ people. Conversely, critics invoke instances of aggressive behavior by her fanbase or portrayals of victimhood to challenge her credibility and argue that her platform can foster toxic online dynamics, complicating support for policy changes.",
+    "queries": [
+      "What effects has online harassment of Lady Gaga caused?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube acts as a primary arena for shaping Lady Gaga’s public image—hosting her official music videos, live performances, interviews and fan edits that often foreground her artistry, fashion and LGBTQ+ activism while enabling viral praise and campaign organizing. At the same time the platform’s algorithmic amplification and monetization encourage sensational takes, reaction videos and conspiracy or authenticity critiques (and frequent copyright disputes), which can intensify controversies or reduce nuanced discussion about her work and politics.",
+    "queries": [
+      "How do people view Lady Gaga's youtube content?"
+    ]
+  },
+  {
+    "id": "C7-6-1",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "bad romance",
+    "wiki_title": "bad romance",
+    "summary": "Bad Romance is frequently invoked as evidence that Lady Gaga successfully marries high‑concept art with mass‑market pop—supporters cite it to argue for her artistic credibility, cultural impact, and provocative engagement with gender/sexual politics, while critics point to its theatrical spectacle and calculated imagery to portray her as a manufactured, image‑first pop star who favors shock over substance.",
+    "queries": [
+      "What impact has Lady Gaga’s bad romance had on pop music?"
+    ]
+  },
+  {
+    "id": "C7-6-2",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "vevo",
+    "wiki_title": "vevo",
+    "summary": "Vevo's hosting of Lady Gaga's official videos and its high-profile premiere/metric platform is often cited to demonstrate her commercial reach and promotional success, while critics use Vevo's label-driven distribution and monetization practices to argue her visibility is shaped by major-label marketing and corporate control rather than solely artistic merit.",
+    "queries": [
+      "How do people view Lady Gaga’s vevo strategy?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "reaction videos",
+    "wiki_title": "reaction video",
+    "summary": "Reaction videos of Lady Gaga’s songs, videos and performances are often used to amplify and existing narrative about her — enthusiastic reactions by fans underscore her emotional and cultural impact, while skeptical or edited clips are leveraged to question her authenticity, lip‑syncing, or publicity stunts. They also drive disputes over copyright and fair use when creators reuse her music or visuals for clicks, shaping debates about how Gaga’s work can be repurposed online.",
+    "queries": [
+      "Are reaction videos to Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "reddit",
+    "wiki_title": "reddit",
+    "summary": "Reddit functions as both a megaphone for Lady Gaga’s supporters—organizing streaming campaigns, elevating praise of her art and LGBTQ+ advocacy, and defending her from critics—and as a forum for critics and conspiracy-minded threads that question her authenticity, industry influence, or controversies; subreddit voting and moderation often let strongly pro- or anti-Gaga narratives dominate particular communities, shaping public perception accordingly.",
+    "queries": [
+      "How do people view reddit reactions to Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C7-8",
+    "parent": "C7",
+    "level": 2,
+    "topic": "fan fiction",
+    "wiki_title": "fan fiction",
+    "summary": "Fan fiction about Lady Gaga is often deployed by fans to deepen and humanize her public persona—queering or romanticizing her, inventing intimate backstories, and highlighting themes of empowerment and outsider identity that align with her artistic image. Opponents and commentators use Gaga fanfic as evidence of obsessive fandom or as a flashpoint in debates over celebrity privacy, consent, and the commercialization/appropriation of a public figure’s image.",
+    "queries": [
+      "Is fan fiction about Lady Gaga appropriate or not?"
+    ]
+  },
+  {
+    "id": "C7-8-4",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "archive of our own",
+    "wiki_title": "archive of our own",
+    "summary": "Fans use Archive of Our Own to generate and preserve large bodies of Lady Gaga fanfiction and transformative works that supporters point to as evidence of her cultural reach and queer-icon status, while critics mine the same archive to argue that fandom sexualizes or misrepresents her. AO3 therefore features in debates over fan creativity versus celebrity image/control and is cited both to defend fan free expression and to criticize problematic portrayals of Gaga.",
+    "queries": [
+      "What effects has Archive of Our Own had on Lady Gaga fandom?"
+    ]
+  },
+  {
+    "id": "C7-8-5",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "wattpad",
+    "wiki_title": "wattpad",
+    "summary": "Wattpad fan communities produce大量 fan fiction and reader-insert stories that recast Lady Gaga as a romantic or queer muse and an accessible, intimate figure, shaping how mostly young women emotionally connect with and interpret her persona. Those grassroots narratives both amplify her cult status and invite criticism—prompting debates about sexualization, misrepresentation, and the blurring of celebrity image with fandom-created myths.",
+    "queries": [
+      "Is Lady Gaga's presence on wattpad justified or not?"
+    ]
+  },
+  {
+    "id": "C7-8-6",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "dmca",
+    "wiki_title": "digital millennium copyright act",
+    "summary": "Gaga’s team is often portrayed using DMCA takedowns to remove leaked songs, concert bootlegs and unauthorized uploads, a move supporters frame as protecting her artistic control and commercial rights; critics counter that such enforcement silences fan remixes, covers and legitimate fair‑use commentary, fueling debates about censorship, celebrity power online, and calls to reform copyright enforcement.",
+    "queries": [
+      "How do people view dmca claims involving Lady Gaga content?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Elon Musk is often invoked in debates about Lady Gaga as a foil or risk factor: critics cite his control of major social platforms and ties to right‑wing causes to argue that increased harassment and misinformation under his watch can undermine Gaga’s activism and public image, while others note that any praise or amplification from him can boost her mainstream visibility despite political backlash.",
+    "queries": [
+      "Are elon musk's public comments about Lady Gaga appropriate or not?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "twitter verification",
+    "wiki_title": "twitter verification",
+    "summary": "Verification status on Twitter/X often functions as a proxy for credibility in conversations about Lady Gaga—reporters, fans, and critics cite verified tweets as authoritative sources for her statements, tour news, or controversies, which amplifies their spread. Debates over the platform’s paid-verification model therefore feed arguments about whether Gaga’s public image is legitimately validated or becomes vulnerable to impersonation and manufactured credibility, with critics calling for stricter identity-based checks and others treating paid verification as a neutral amplification mechanism.",
+    "queries": [
+      "How do people view Lady Gaga's twitter verification?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In public debates about Lady Gaga, accusations of \"cancel culture\" are invoked both to justify calls for boycotts or censure over controversial artistic choices or statements and to defend her by portraying backlash as disproportionate online mobbing; that framing strongly influences whether media, fans, and industry figures treat disputes as legitimate accountability or as unfair persecution.",
+    "queries": [
+      "What consequences has cancel culture caused for Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "twitter spaces",
+    "wiki_title": "spaces",
+    "summary": "Online “spaces” such as social networks and live audio rooms (e.g., Twitter Spaces) function as battlegrounds for Lady Gaga’s public image, where fans amplify her artistry and activism through organized communities and streaming events while critics and cultural commentators use the same forums to circulate disputes over authenticity, marketing tactics, or controversies. These ephemeral, networked conversations heavily shape perceptions—promoting fandom-led policy positions (support for artists’ rights, LGBTQ+ causes) or fueling backlash and calls for accountability depending on which voices dominate a given space.",
+    "queries": [
+      "What effects have Lady Gaga’s twitter spaces had on fan engagement?"
+    ]
+  },
+  {
+    "id": "C7-2-1",
+    "parent": "C7",
+    "level": 3,
+    "topic": "nicola formichetti",
+    "wiki_title": "nicola formichetti",
+    "summary": "Nicola Formichetti is often invoked in discussions of Lady Gaga as the stylist who shaped and legitimized her avant‑garde fashion identity, bolstering arguments that Gaga is a boundary‑pushing cultural and fashion icon. Critics, however, point to his influence to argue her image is heavily manufactured and commercially engineered rather than solely artist‑driven.",
+    "queries": [
+      "How do people view nicola formichetti’s collaboration with Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C7-2-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "brandon maxwell",
+    "wiki_title": "brandon maxwell",
+    "summary": "As Lady Gaga’s longtime stylist and designer, Brandon Maxwell is often invoked to legitimize her status as a high‑fashion icon and to frame her wardrobe choices as deliberate, artful reinventions that bridge pop and couture; conversely, critics use his influence to argue her image is industry‑constructed rather than purely personal expression.",
+    "queries": [
+      "How do people view brandon maxwell’s role in Lady Gaga’s image?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "met gala",
+    "wiki_title": "met gala",
+    "summary": "The Met Gala is often invoked in discussions of Lady Gaga to showcase and justify her status as a boundary-pushing performance artist and fashion icon—her theatrical red‑carpet looks are cited as proof of cultural influence and mainstream acceptance. Conversely, critics point to her Met Gala appearances as evidence of calculated publicity or complicity in elite, commercialized fashion culture, fueling debates over authenticity and artistic integrity.",
+    "queries": [
+      "What impact has Lady Gaga's met gala appearances had?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "alexander mcqueen",
+    "wiki_title": "alexander mcqueen",
+    "summary": "References to Alexander McQueen are often used to validate or discredit Lady Gaga’s fashion persona—his couture legacy and theatrical shock aesthetic are invoked to argue she is a serious, high‑fashion artist and heir to avant‑garde performance, while critics use the same association to claim her looks are derivative, publicity-driven appropriations that commercialize McQueen’s conceptual rigor.",
+    "queries": [
+      "Is Lady Gaga’s use of alexander mcqueen designs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "jo calderone",
+    "wiki_title": "calderone",
+    "summary": "References to Calderone—both Gaga’s family roots and her male alter ego Jo Calderone—are used to shape narratives about her authenticity and identity: her relatives are invoked to humanize her and emphasize Italian-American, working-class origins, while Jo Calderone is cited in debates about gender and performance. Supporters frame Jo as a provocative challenge to gender norms, whereas critics call it a gimmick or raise concerns about representation.",
+    "queries": [
+      "How do people view jo calderone in Lady Gaga's career?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "performance art",
+    "wiki_title": "performance art",
+    "summary": "Supporters invoke \"performance art\" to legitimize Lady Gaga’s theatrical costumes, staged stunts, and overt political gestures as deliberate artistic commentary on identity, gender and celebrity, defending her right to push boundaries and receive cultural recognition or public arts support; detractors deploy the same label to argue she’s practicing calculated spectacle or cultural appropriation rather than genuine art, using it to justify criticism, moral concern, or limits on public endorsement.",
+    "queries": [
+      "Is Lady Gaga’s performance art justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "business and legal affairs",
+    "wiki_title": "personal and business legal affairs of donald trump",
+    "summary": "Discussions of Donald Trump's personal and business legal troubles are often used in debates about Lady Gaga to contrast her activist, philanthropic image with allegations of corruption and legal impropriety surrounding Trump, thereby framing Gaga as a more principled celebrity voice. Conversely, critics sometimes invoke Trump’s legal controversies when attacking celebrity political involvement broadly, using his high-profile scandals to argue that entertainers like Gaga are elitist or improperly influential in politics.",
+    "queries": [
+      "How do people view Lady Gaga's business and legal affairs?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "interscope records",
+    "wiki_title": "interscope records",
+    "summary": "Interscope is frequently invoked in discussions of Lady Gaga to explain her rapid commercial rise and polished pop image: advocates credit the label’s promotional resources and artist-friendly A&R for enabling her creative risks, while critics portray Interscope as the corporate engine that packaged and commodified her persona for mass-market success.",
+    "queries": [
+      "Is interscope records’ influence on Lady Gaga’s music justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "jimmy iovine",
+    "wiki_title": "jimmy iovine",
+    "summary": "As a prominent record executive who backed and helped launch Lady Gaga, Jimmy Iovine is often invoked in debates to legitimize her mainstream success as the result of savvy industry mentorship and strategic label support; proponents cite his endorsement as proof of her commercial credibility and professional grooming. Conversely, critics use his role to frame Gaga as a product of music-industry engineering, arguing that executive backing undermines narratives of organic authenticity or grassroots artistry.",
+    "queries": [
+      "Is jimmy iovine’s influence on Lady Gaga reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "rob fusari",
+    "wiki_title": "rob fusari",
+    "summary": "Rob Fusari, an early producer/collaborator associated with Lady Gaga, is frequently cited in discussions about her origins and authorship; his involvement and legal claims are used by critics to paint her as an industry-created act or to dispute her songwriting credits, while others use his role to emphasize that she benefited from mentorship and professional collaboration in developing her career.",
+    "queries": [
+      "What impacts has Rob Fusari’s collaboration with Lady Gaga had?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "vincent herbert",
+    "wiki_title": "vincent herbert",
+    "summary": "Vincent Herbert—an industry executive/producer connected to Gaga’s early professional circle—is often invoked in debates about whether her rise was engineered by music-industry gatekeepers; critics cite his involvement to argue her image and hits were shaped by executives, while supporters use the same association to frame her success as the result of professional collaboration and mentorship.",
+    "queries": [
+      "Is Vincent Herbert's influence on Lady Gaga justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "haus laboratories",
+    "wiki_title": "haus labs",
+    "summary": "Haus Labs is often invoked as evidence of Gaga's entrepreneurial savvy and commitment to inclusive, body‑positive beauty—used by supporters to portray her as an artist-activist who turns messages of self-expression into accessible products. Critics counter that it commodifies her activism and exemplifies celebrity branding that can dilute artistic authenticity and turn social values into profit.",
+    "queries": [
+      "What effects has haus laboratories had on Lady Gaga’s image?"
+    ]
+  },
+  {
+    "id": "C8-3-1",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "sephora",
+    "wiki_title": "sephora",
+    "summary": "Sephora is often cited as evidence that Lady Gaga has moved from avant‑garde pop outsider to mainstream beauty entrepreneur—her association with the retailer is used to signal commercial success and brand legitimacy. Critics use Sephora ties (and its corporate associations) to argue she’s been co‑opted by luxury industry interests, while supporters contend Sephora placement amplifies her reach and commitment to accessible, inclusive beauty.",
+    "queries": [
+      "What effects has sephora's partnership with Lady Gaga caused?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "amazon (company)",
+    "wiki_title": "amazon (company)",
+    "summary": "Amazon is invoked in debates about Lady Gaga as a dominant platform that shapes how her music, films and merchandise reach audiences—used by supporters to explain her massive commercial visibility through Prime, Amazon Music and retail distribution, and by critics to argue that Big Tech commodifies artists and concentrates power over promotion and pay. Critics cite Amazon’s market control and streaming/retail practices when pushing for stronger artist royalties, worker and antitrust reforms; defenders emphasize the promotional reach and revenue opportunities the company provides for global stars like Gaga.",
+    "queries": [
+      "How do people view amazon (company)’s streaming of Lady Gaga content?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "animal testing",
+    "wiki_title": "animal testing",
+    "summary": "References to animal testing surface in debates about Lady Gaga mainly when her fashion, beauty lines, or brand partnerships touch cosmetics or international markets; critics seize any link to products or markets that permit animal testing to challenge her ethics and call for boycotts, while supporters emphasize her charitable work or cruelty‑free commitments to defend her and push for more humane policies.",
+    "queries": [
+      "How do people view Lady Gaga’s stance on animal testing?"
+    ]
+  },
+  {
+    "id": "C8-3-4",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "influencer marketing",
+    "wiki_title": "influencer marketing",
+    "summary": "When promoting albums, fashion moments or her Haus Laboratories line, Lady Gaga’s team and allied influencers are used to frame her as a trend-setting, commercially savvy icon and to amplify her political and charitable messages to wider audiences; critics counter that such influencer tie‑ins can commodify her activism and blur authenticity, while supporters argue influencer amplification democratizes access to her work and mobilizes fans for causes.",
+    "queries": [
+      "What consequences has influencer marketing produced for Lady Gaga's brand?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "allure (magazine)",
+    "wiki_title": "allure (magazine)",
+    "summary": "Allure commonly frames Lady Gaga as a beauty and style innovator—profiling her makeup, fashion moments, and Haus Labs products through features, reviews, and award mentions that bolster narratives of her as a trendsetting, boundary-pushing figure. When controversies about her looks or cultural impact arise, Allure’s critiques and contextual pieces help steer public debates about her authenticity, commercial influence, and responsibility within beauty culture.",
+    "queries": [
+      "What effects has Lady Gaga’s feature in allure (magazine) prompted?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "ticketmaster",
+    "wiki_title": "ticketmaster",
+    "summary": "Ticketmaster is routinely invoked in discussions of Lady Gaga’s live shows as the platform blamed for excessive fees, botting and scalping that make tickets unaffordable and spark fan outrage, often used to criticize Gaga’s ticketing choices or perceived complicity. Defenders counter that Gaga operates within promoters’ and venue contracts and highlight her use of fan-club sales, verified programs or charity ticketing as attempted mitigations, framing the debate around artist responsibility versus platform monopolies.",
+    "queries": [
+      "How do people view ticketmaster’s fees for Lady Gaga concerts?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "Ministries of justice are cited by authorities and critics to justify legal restrictions, concert bans, or investigations into Lady Gaga’s performances and content on grounds of public order or morality, framing her as a legal/social problem. Conversely, her supporters invoke justice ministries when pushing for visas, anti‑discrimination protections, or prosecutions of harassment, using legal institutions to legitimize her activism for LGBTQ rights and artistic freedom.",
+    "queries": [
+      "What consequences might the department of justice's scrutiny of Lady Gaga cause?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "live nation",
+    "wiki_title": "live nation entertainment",
+    "summary": "Live Nation is often invoked in public debates about Lady Gaga to criticize her association with the concert-promotion/ticketing giant—critics use that link to argue she benefits from corporate ticketing practices that inflate prices and restrict fan access, while supporters counter that partnering with Live Nation enables the scale and production values of her arena tours. These references feed broader arguments for antitrust and ticketing reform and help frame Gaga either as commercially complicit or as a pragmatic artist delivering major live experiences.",
+    "queries": [
+      "Is Live Nation's ticketing power reasonable regarding Lady Gaga concerts?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "stubhub",
+    "wiki_title": "stubhub",
+    "summary": "StubHub often surfaces in discussions about Lady Gaga when fans and critics blame inflated resale prices and hefty fees on the platform for making her tours inaccessible to average supporters, using those examples to pressure Gaga and promoters to adopt fan-first ticketing policies. Supporters of the secondary market counter that StubHub provides a lawful, convenient way to obtain sold-out Gaga tickets, framing disputes as about market access and promoter responsibility rather than the resale platform alone.",
+    "queries": [
+      "How do people view stubhub’s role in Lady Gaga’s ticket market?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "ticket scalping",
+    "wiki_title": "ticket resale",
+    "summary": "When Lady Gaga’s concerts sell out, secondary-market resale is commonly cited by fans and commentators to criticize scalpers and ticketing platforms for price-gouging and blocking fair access to her shows, fueling demands for anti-scalping laws, Verified-Fan systems, or artist-led ticket controls. Opposing arguments use resale to justify market-driven pricing and claim restrictions are impractical, framing the issue as a tradeoff between fan equity and open-market flexibility.",
+    "queries": [
+      "Is ticket scalping for Lady Gaga concerts justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "secondary ticket market",
+    "wiki_title": "eu secondary ticketing association",
+    "summary": "When Lady Gaga tours provoke outrage over sold-out shows and inflated resale prices, the EU Secondary Ticketing Association is cited to defend the secondary market—arguing resale platforms promote consumer choice and price discovery—and to challenge artists' or regulators' calls for stricter anti-scalping rules or ticketing restrictions that Gaga or her promoters might favor to curb scalpers.",
+    "queries": [
+      "What effects has the secondary ticket market had on Lady Gaga concerts?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "united states department of justice",
+    "wiki_title": "united states department of justice",
+    "summary": "In public debates about Lady Gaga, the U.S. Department of Justice is often invoked to recast controversies (copyright, contract disputes, ticketing or alleged fraud) as federal legal matters, bolstering arguments that enforcement or prosecution is warranted. Referencing the DOJ supports narratives demanding accountability or protection of Gaga’s legal rights, while critics may invoke it to allege overreach or politicization when federal involvement is suggested.",
+    "queries": [
+      "How do people view the united states department of justice here?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "antitrust law",
+    "wiki_title": "competition law",
+    "summary": "In discussions about Lady Gaga, competition law is often invoked to critique dominant music- and ticketing-market players (major labels, streaming platforms, Ticketmaster) that shape her access, pricing, and artist revenue, with advocates citing her prominence to argue for stronger antitrust enforcement to protect artists and consumers. Industry defenders, however, sometimes invoke market-efficiency and investment arguments to justify exclusive deals and concentration as necessary to fund and promote global stars like Gaga.",
+    "queries": [
+      "What impacts could antitrust law actions have on Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "copyright infringement",
+    "wiki_title": "copyright infringement",
+    "summary": "Allegations and discussions of copyright infringement are used in debates about Lady Gaga to contest or defend her artistic originality—claims that she copied melodies, visuals, or choreography are deployed to challenge her authenticity, while counterclaims invoke infringement to protect her songs, designs and revenue. Industry spokespeople and fans typically cite infringement to justify stricter enforcement and anti-piracy measures for her work, whereas critics frame lawsuits and takedowns as evidence of unoriginality or heavy‑handed control.",
+    "queries": [
+      "What consequences has copyright infringement caused for Lady Gaga?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "express yourself",
+    "wiki_title": "express yourself",
+    "summary": "Supporters and cultural commentators invoke the idea of \"express yourself\" to frame Lady Gaga as a champion of radical self-expression and LGBTQ+ visibility, defending her avant-garde fashion, theatrical performances, and political stances as empowering authenticity. Conversely, critics use the same rhetoric to accuse her of calculated appropriation or performative publicity—arguing her emphasis on \"expression\" is often commercialized shock-value rather than sincere artistry.",
+    "queries": [
+      "Is Lady Gaga's 'express yourself' message reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "plagiarism in music",
+    "wiki_title": "music plagiarism",
+    "summary": "Accusations of music plagiarism are frequently invoked to question Lady Gaga’s originality—critics point to perceived melodic, production, or visual echoes of earlier pop artists (notably Madonna) to portray her as derivative and to justify moral or legal censure. Supporters and industry observers use the same debates to argue these resemblances reflect common influences, genre conventions, or permissible homage/sampling, shaping broader disputes over copyright enforcement and artistic borrowing in pop music.",
+    "queries": [
+      "What consequences has plagiarism in music brought for Lady Gaga’s career?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "fair use",
+    "wiki_title": "fair use",
+    "summary": "Claims of fair use frequently appear when fans, YouTubers, and artists create remixes, parodies, reaction videos or covers of Lady Gaga’s work, with supporters invoking it to defend participatory culture and artistic transformation. Opponents—often rights holders or commercial interests—argue against broad fair use in these cases to protect Gaga’s brand, revenue, and control over how her music and image are used, making fair use a flashpoint in debates over artistic freedom versus copyright enforcement.",
+    "queries": [
+      "How do people view fair use concerning Lady Gaga's recordings?"
+    ]
+  }
+]

@@ -1,0 +1,2686 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "2024 United States presidential election",
+    "wiki_title": "2024 United States presidential election",
+    "summary": "Supporters cite the 2024 election as a mandate for Trump’s ‘America First’ priorities—tougher immigration enforcement, tariffs, and a more isolationist stance abroad—framing the outcome as voter rejection of Biden-era economics and globalism; critics use the result to warn about democratic erosion, misinformation and authoritarian tendencies, and to question candidate fitness, electoral legitimacy, and the future of civil-rights and foreign-policy commitments.",
+    "queries": [
+      "Is the 2024 United States presidential election coverage balanced or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "campaigns and parties",
+    "wiki_title": "campaign finance",
+    "summary": "In the 2024 presidential campaign, debates over campaign finance are used to cast doubt on candidates’ independence—portraying rivals as controlled by Super PACs, dark‑money networks, or wealthy/foreign donors, or alternatively emphasizing small‑donor totals to claim grassroots legitimacy. Those frames feed competing policy positions: reformers push for disclosure, limits on outside spending, and public financing, while opponents defend broad donor rights as free speech and necessary for competitive modern campaigns.",
+    "queries": [
+      "How do people view campaigns and parties in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Donald Trump functions as the central polarizing figure of the 2024 election—his supporters mobilize around his populist, nationalist agenda and portray his legal troubles as partisan persecution, while opponents cite his rhetoric, policy record, and criminal convictions to frame the contest as a choice about democratic norms and authoritarian risk. As a result, debates about Trump drive messaging on the rule of law, immigration, courts, and cultural identity, sharpening turnout and partisan alignment on both sides.",
+    "queries": [
+      "Is Donald Trump's 2024 candidacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "mike pence",
+    "wiki_title": "mike pence",
+    "summary": "Pence is invoked in 2024-election debates as a symbol of schism within the GOP—used by anti‑Trump conservatives to justify backing alternatives and to argue for rule‑of‑law and traditional social‑conservative governance, and by Trump loyalists as an example of alleged disloyalty to undermine moderate Republican critiques. His withdrawal from the primary and refusal to endorse Trump are framed on both sides as evidence of lingering intra‑party division that shapes turnout, endorsements, and arguments about the party’s future direction.",
+    "queries": [
+      "What consequences could mike pence's candidacy bring to 2024 politics?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "january 6 attack",
+    "wiki_title": "january 6 united states capitol attack",
+    "summary": "In 2024 campaigns the January 6 attack is frequently deployed by opponents to portray specific candidates—especially Donald Trump and his allies—as threats to democratic norms, underpinning calls for legal accountability, barring from office, and tighter election-security reforms while driving voter mobilization. Conversely, supporters often frame January 6 as politicized or overblown and resist using it to disqualify candidates, influencing debates over pardons, criminal accountability, and whether concerns about election subversion should determine voters’ choices.",
+    "queries": [
+      "Is the january 6 attack relevant to voters in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "In the 2024 presidential campaign, Fox News functions as a major amplifier of Republican candidates and conservative policy frames—prioritizing stories on immigration, crime, the economy, and cultural issues to mobilize right-leaning voters while elevating narratives favorable to GOP contenders. Its opinion hosts and selective reporting also shape debates about candidate fitness and election integrity by legitimizing attacks on Democrats and amplifying contested claims, which opponents use to accuse the network of bias and misinformation.",
+    "queries": [
+      "Is fox news’s coverage of the 2024 election fair or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "joe biden",
+    "wiki_title": "joe biden",
+    "summary": "In the 2024 election, Biden was used by critics to personify concerns about age, cognitive fitness, and economic stewardship—themes amplified after his debate performance—while supporters invoked his governing experience and policy record (Ukraine aid, climate, infrastructure, COVID relief) to argue for continuity and stability. His candidacy and the surrounding scrutiny reshaped debates over electability and party leadership, giving Republicans a rallying critique and forcing Democrats to defend competence and pragmatic governance.",
+    "queries": [
+      "What do voters think about Joe Biden’s electability in 2024?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "kamala harris",
+    "wiki_title": "kamala harris",
+    "summary": "In 2024 political debates Harris is invoked by Democrats as a historic, experienced nominee who can carry forward Biden-era priorities—supporters cite her vice‑presidential track record and legal background to argue competence on legislation and justice issues—while Republicans and critics use her vice‑presidential record, campaign missteps, and perceived weaknesses to cast the Democratic ticket as unsteady, unelectable, or beholden to identity‑based politics and progressive policy agendas on the economy, immigration, and public safety.",
+    "queries": [
+      "What impact has Kamala Harris had on the 2024 election discourse?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "hunter biden",
+    "wiki_title": "hunter biden",
+    "summary": "Republicans and conservative media used Hunter Biden as a shorthand for alleged corruption and foreign influence around Joe Biden, fueling attack ads, demands for investigations, and appeals to voters worried about family ethics and national security; Democrats and Biden allies framed those attacks as politically motivated smears and a weaponization of law enforcement, using the controversy to argue about fairness, the rule of law, and to refocus voters on policy over character attacks.",
+    "queries": [
+      "Are concerns about Hunter Biden influencing voting decisions justified?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "classified documents",
+    "wiki_title": "classified information",
+    "summary": "Throughout the 2024 campaign, disputes over candidates’ handling of classified documents (notably investigations of Joe Biden and Donald Trump) are used to challenge fitness for office and national‑security judgment and to justify prosecutions or calls for declassification; supporters of each side cast investigations as either necessary accountability or partisan weaponization, driving demands for transparency, legal reform, or pardons.",
+    "queries": [
+      "Are concerns about classified documents influencing the 2024 election justified?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "southern border",
+    "wiki_title": "southern border region (california)",
+    "summary": "In the 2024 presidential campaign, California’s southern border region is invoked by conservatives to dramatize illegal immigration and crime and to justify tougher border enforcement and restrictions. Democrats and progressives counter by highlighting humanitarian needs, asylum processing failures, and federal inaction to push for reform and services—with both sides using local incidents to mobilize swing and Latino voters and frame national immigration policy debates.",
+    "queries": [
+      "Is the southern border policy a reasonable 2024 election issue?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "2024 presidential debates",
+    "wiki_title": "2024 united states presidential debates",
+    "summary": "Televised 2024 presidential debates serve as focal moments for campaigns, media, and voters to claim or challenge a candidate’s competence, temperament, and policy clarity—supporters cite standout moments to argue electability while opponents amplify gaffes to question fitness for office. Debates are also contested terrain for arguments about fairness, moderator bias, candidate exclusion, and real-time misinformation, with critics using format and fact‑checking disputes to argue for or against the legitimacy and transparency of the electoral process.",
+    "queries": [
+      "Are the 2024 presidential debates fair and informative or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "republican national committee",
+    "wiki_title": "republican national committee",
+    "summary": "The Republican National Committee drives national messaging, fundraising, voter mobilization, and debate/primary rules to frame the 2024 election as a referendum on Biden-era policies and to amplify GOP themes (economy, immigration, crime, abortion) that benefit Republican candidates. Critics use the RNC as a focal point for accusations that the party prioritizes loyalty to figures like Donald Trump, tolerates or spreads election-fraud narratives and supports restrictive voting laws, while supporters credit it with unifying resources and countering Democratic narratives.",
+    "queries": [
+      "Is the republican national committee’s candidate selection process reasonable for 2024?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "ronna mcdaniel",
+    "wiki_title": "ronna mcdaniel",
+    "summary": "In 2024 election debates McDaniel is portrayed as the embodiment of the Trump‑aligned GOP strategist who shaped party messaging, fundraising, and resource decisions to defend Trump and sideline intra‑party critics. Supporters point to her loyalty and fundraising as justification for a Trump‑first strategy, while critics invoke her record to argue the RNC has prioritized partisan loyalty over electability, norms, and confidence in election integrity.",
+    "queries": [
+      "How do people view Ronna McDaniel's influence on the 2024 race?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "republican national convention",
+    "wiki_title": "republican national convention",
+    "summary": "The Republican National Convention serves as the party’s prime platform to unify messaging around the 2024 nominee—highlighting themes like immigration, the economy, and national security to boost electability, energize donors and turnout, and frame Democrats as out-of-touch—while critics seize convention speeches, speaker lineups, and controversies to argue the GOP is fractured, extreme, or veering toward authoritarianism, using it to justify opposition and shape media narratives.",
+    "queries": [
+      "What impacts has the republican national convention had on 2024 race?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "milwaukee, wisconsin",
+    "wiki_title": "milwaukee",
+    "summary": "Milwaukee is cast as the decisive Democratic turnout hub in Wisconsin for 2024 — Democrats emphasize grassroots organizing in the city’s Black and urban neighborhoods as essential to reclaiming the state, while Republicans seize on Milwaukee-focused stories about crime, governance, and ballot handling to argue for tougher voting rules and election oversight. Debates over Milwaukee County’s election administration, absentee processing, and urban–suburban cleavages are widely used to frame arguments about voter access, election legitimacy, and policy priorities like public safety and labor.",
+    "queries": [
+      "How do people view milwaukee, wisconsin as a battleground city?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "get out the vote",
+    "wiki_title": "get out the vote",
+    "summary": "In 2024 discourse, GOTV is framed as the practical linchpin of victory—used by Democrats to justify expanding registration, mail-in and early-vote access to boost youth and minority turnout, and by Republicans to justify intense base mobilization and tougher voting rules to protect perceived election integrity. Critics counter that aggressive, data-driven GOTV tactics can deepen polarization, enable manipulative microtargeting, or mask suppression when access restrictions or administrative hurdles are defended as anti-fraud measures.",
+    "queries": [
+      "How do people view get out the vote efforts?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "democratic national committee",
+    "wiki_title": "democratic national committee",
+    "summary": "In the 2024 presidential campaign the Democratic National Committee is invoked as the party’s organizing and messaging hub—shaping debate rules, coordinating fundraising and turnout operations, and promoting a platform that highlights abortion rights, climate action, economic fairness and protection of democratic norms while opposing Republican policy positions. Critics cite the DNC as evidence of establishment control or bias in primaries and donor influence, whereas supporters frame it as necessary infrastructure to defend voting rights, counter misinformation, and win battleground states.",
+    "queries": [
+      "Is the democratic national committee's fundraising approach justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "jaime harrison",
+    "wiki_title": "jaime harrison",
+    "summary": "Democrats invoke Jaime Harrison as an example of fundraising muscle and Black-voter outreach that can make Southern contests competitive and strengthen the party’s argument for investing resources to win the 2024 map; opponents use his high-profile 2020 loss to argue that big money and nationalized campaigns aren’t enough, framing Democratic strategies as ineffective in converting resources into wins in key states.",
+    "queries": [
+      "Is jaime harrison's criticism of candidates justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "democratic national convention",
+    "wiki_title": "democratic national convention",
+    "summary": "In the 2024 presidential campaign the Democratic National Convention is used as a staged opportunity to sell the nominee’s electability and policy priorities (economy, climate, abortion rights, etc.) and to blunt attacks over age, competence, or party unity; commentators and rivals counter that it is a choreographed, establishment-driven spectacle that can mask internal divisions. Media coverage of the convention’s speeches, platform choices, and speaker roster becomes a primary way activists and analysts argue whether Democrats’ messaging will mobilize base voters, persuade swing voters, or alienate grassroots constituencies.",
+    "queries": [
+      "Is the democratic national convention justified in shaping 2024 election narratives?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "democratic party platform",
+    "wiki_title": "political platform",
+    "summary": "In the 2024 U.S. presidential race, party platforms and specific planks are repeatedly invoked by campaigns, media, and interest groups to spotlight or attack candidates’ positions on flashpoint issues—such as abortion after Dobbs, immigration, the economy, climate, and Ukraine—framing them as either mainstream or extreme and serving as litmus tests for primary activists and swing voters. Critics use departures from platform language to accuse candidates of hypocrisy or opportunism, while supporters cite platform commitments to justify policy agendas and mobilize turnout.",
+    "queries": [
+      "What consequences has the democratic party platform produced in 2024?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "democratic primary debates",
+    "wiki_title": "democratic party presidential debates",
+    "summary": "Democratic Party presidential debates function in the 2024 election as high‑visibility tests of candidates’ electability and policy priorities, framing media and donor judgments about whether the party should consolidate around the incumbent or pivot toward more progressive or moderate alternatives. They’re frequently cited to justify calls for unity or replacement, to highlight or attack stances on the economy, health care, climate and abortion, and are criticized when organizers’ rules or moderators are portrayed as shaping which voices and arguments get amplified.",
+    "queries": [
+      "How do people view democratic primary debates?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "congressional progressive caucus",
+    "wiki_title": "congressional progressive caucus",
+    "summary": "In 2024 election debates the Congressional Progressive Caucus is used by left-leaning activists and commentators to pressure the Democratic nominee toward ambitious climate, health-care, and anti‑inequality policies and to signal what will mobilize the party’s base; conversely, centrists and Republicans invoke the caucus to portray the Democratic coalition as too radical and to argue that progressive demands hurt general‑election electability.",
+    "queries": [
+      "Is the congressional progressive caucus justified influencing 2024 presidential platforms?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "super pacs",
+    "wiki_title": "super pac",
+    "summary": "In the 2024 presidential campaign, super PACs are portrayed as the engine behind high-dollar ad blitzes and targeted messaging that amplify preferred candidates, attack opponents, and steer public debate on flashpoint issues like abortion, the economy, and election legitimacy. Their prominence fuels criticism that wealthy donors distort the race and energizes calls for campaign-finance reform, while supporters defend them as protected political speech needed to match opposing outside spending.",
+    "queries": [
+      "How do people view super pacs in the 2024 presidential election?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "priorities usa action",
+    "wiki_title": "priorities usa action",
+    "summary": "Priorities USA Action appears in 2024-election debates as a major Democratic super-PAC that bankrolls high-profile ad campaigns and rapid-response messaging to frame Republican rivals (especially Trump/MAGA) as threats to democracy, reproductive rights, and economic security while promoting Biden-era and moderate-progressive policy priorities. Opponents point to its deep-pocketed, corporate-funded spending and negative advertising to criticize Democratic reliance on establishment money and attack-driven campaign tactics.",
+    "queries": [
+      "Is Priorities USA Action's spending in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "america first action",
+    "wiki_title": "america first",
+    "summary": "In the 2024 election, 'America First' is invoked by Trump-aligned campaigns to justify tougher immigration limits, trade protectionism, and scaling back multilateral commitments—framing such moves as necessary to protect American jobs, sovereignty, and fiscal priorities. Opponents portray the slogan as a cover for nativist, isolationist, or authoritarian tendencies that would weaken alliances, undermine global leadership, and curtail support for partners and human-rights–oriented policies.",
+    "queries": [
+      "Is america first action's spending reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "club for growth action",
+    "wiki_title": "club for growth action",
+    "summary": "Club for Growth Action is deployed in 2024 election debates as a high-profile outside spender that frames the contest around hard-line fiscal conservatism—running ads and endorsements to elevate candidates who promise big tax cuts, deregulation, and entitlement reform while attacking both Democrats and Republican rivals seen as insufficiently pro-growth. Its interventions are used to argue that economic competence and small‑government priorities should determine Republican nominations and general‑election choices.",
+    "queries": [
+      "Is club for growth action's targeting of Republican primaries reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "citizens united v. fec",
+    "wiki_title": "citizens united v. fec",
+    "summary": "In 2024 campaign debates Citizens United is routinely invoked as the court ruling that enabled massive independent spending and super PAC activity—critics use it to argue that wealthy donors, corporations and opaque “dark money” will dominate and delegitimize the race, while defenders frame it as a free‑speech protection that permits robust political advocacy. References to the decision drive calls for disclosure, stricter campaign‑finance rules or a constitutional amendment and are used strategically to portray opponents as controlled by outside money or to justify aggressive outside spending.",
+    "queries": [
+      "Is Citizens United v. FEC justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "dark money",
+    "wiki_title": "dark money",
+    "summary": "In the 2024 presidential campaign, dark money is deployed by critics to portray candidates as secretly beholden to wealthy interests and to push for donor-disclosure rules and FEC enforcement, while also serving as a hammer in attacks over hypocrisy when both parties benefit from undisclosed spending. Defenders cast it as protected political speech and necessary advocacy, so debates over dark money in 2024 shape competing narratives about corruption, legitimacy, and the need for transparency reforms.",
+    "queries": [
+      "Is dark money influencing campaigns reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "federal election commission",
+    "wiki_title": "federal election commission",
+    "summary": "In 2024 campaign debates the Federal Election Commission is frequently invoked as the referee on campaign finance and disclosure, with opponents blaming its partisan deadlocks and narrow enforcement for enabling big-donor influence, dark‑money ad buys, and lax oversight of super PACs and joint fundraising. Advocates of stricter rules point to the FEC as the levers to force greater transparency and tighter coordination limits, while critics counter that expanding FEC authority risks chilling political speech—so the agency is framed both as a culprit in campaign finance excesses and the target for reform proposals.",
+    "queries": [
+      "What impact could the federal election commission have on 2024 campaigns?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "super tuesday",
+    "wiki_title": "super tuesday",
+    "summary": "In 2024 Super Tuesday is routinely invoked as the decisive swing-point that media, donors, and party leaders use to amplify momentum—justifying rapid consolidation of endorsements, funding, and calls for rivals to exit based on early delegate math. Critics argue the high-stakes, front‑loaded day advantages well‑funded national machines over grassroots or regional challengers, shaping campaign strategy and fueling demands for primary-calendar reform or alternative nomination rules.",
+    "queries": [
+      "Is holding Super Tuesday reasonable or problematic for campaign fairness?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "california primary",
+    "wiki_title": "elections in california",
+    "summary": "In debates over the 2024 presidential contest California is frequently invoked as proof that liberal voting policies—widespread mail-in ballots, same‑day registration and high turnout—expand participation and legitimize results, while conservatives use the state's mail‑ballot system and large blue margins to question security and portray Democratic advantages as unfair. Its massive primary and delegate haul on Super Tuesday also serves as a narrative pivot in Democratic nomination coverage, shaping perceptions of momentum and inevitability.",
+    "queries": [
+      "Is the California primary's influence in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "texas primary",
+    "wiki_title": "2016 texas republican presidential primary",
+    "summary": "Commentators invoke the 2016 Texas Republican primary to argue that winning a big, deeply conservative state is not the same as broad national viability — Cruz’s Texas victory but ultimate failure to stop Trump is used to warn that a 2024 candidate could dominate in delegate-rich states yet still falter nationally. Conversely, campaign strategists and some supporters cite the same episode to justify prioritizing large-state delegate hauls and early state targeting as a pathway to securing the GOP nomination.",
+    "queries": [
+      "How do people view the texas primary's influence on nominee selection?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "early voting",
+    "wiki_title": "early voting",
+    "summary": "In the 2024 U.S. presidential election, early voting is a central partisan flashpoint: Democrats portray expanded in-person and mail-ballot options as necessary to boost turnout and protect access for working and marginalized voters, while many Republicans use concerns about fraud to push for tighter ID rules, limits on drop boxes, shorter windows, and other restrictions. Battles over those policies, court challenges, and public messaging about early voting are deployed to justify laws seen as either expanding democracy or protecting election integrity and to influence which party benefits from turnout patterns.",
+    "queries": [
+      "Is early voting in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "swing states",
+    "wiki_title": "swing state",
+    "summary": "In the 2024 election, naming Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin as swing states is used to justify intense ad spending, targeted turnout and legal strategies there and to frame media narratives about which candidate is likely to win. Critics counter that this narrow focus skews national attention and policy debate, amplifies partisan claims about fraud or suppression in those states, and fuels calls for electoral reforms (like changing the Electoral College or voting laws).",
+    "queries": [
+      "Is concentrating campaign resources on swing states reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "pennsylvania",
+    "wiki_title": "pennsylvania",
+    "summary": "Pennsylvania is treated as a pivotal swing state whose large electoral prize and razor‑thin margins drive both campaign targeting and post‑vote narratives; its outcome is used to argue whether turnout operations or election‑integrity measures decide 2024. Republicans frequently invoke Pennsylvania to push stricter ID, limits on mail‑in voting, and appeals to rural/working‑class energy and manufacturing voters, while Democrats frame it around protecting voting access, mobilizing urban and suburban blocs, and resisting court or redistricting moves seen as disenfranchising their base.",
+    "queries": [
+      "How do people view pennsylvania’s role in swing-state strategies?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "georgia (u.s. state)",
+    "wiki_title": "georgia (u.s. state)",
+    "summary": "Georgia is treated as a high-stakes swing state whose razor-thin 2020 margins, 2021 Republican voting-law changes, and ongoing Fulton County prosecutions of Donald Trump are repeatedly invoked in 2024 debates — Republicans frame these developments as necessary election-security measures or reasons to contest outcomes, while Democrats use them to warn about voter suppression and to mobilize Black and suburban voters. Campaign visits, ad buys, and legal fights over ballots in Georgia are routinely presented as bellwether evidence about national electoral trends and the health of American democracy.",
+    "queries": [
+      "How do people view georgia (u.s. state)'s importance in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "michigan",
+    "wiki_title": "michigan",
+    "summary": "Michigan is portrayed as a decisive battleground whose mix of Detroit-area Black voters, suburban swing voters, and working‑class manufacturing communities is used to argue for competing 2024 priorities—Democrats emphasize protecting abortion rights, union and auto‑industry jobs, and clean‑energy investment to motivate turnout, while Republicans stress economic grievances, crime, and election‑integrity concerns (invoking 2020 controversies) to justify tougher voting rules and targeted turnout efforts.",
+    "queries": [
+      "How do people view Michigan’s swing-state status in 2024?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral law and administration",
+    "wiki_title": "electoral administration act 2006",
+    "summary": "Commentators and policymakers sometimes invoke the UK’s Electoral Administration Act 2006 as a comparative precedent in 2024 election debates to argue that administrative reforms—like voter ID rules, centralized registration, or postal-ballot safeguards—can improve integrity and efficiency; supporters cite it to justify similar U.S. measures, while critics use differences in legal and political context to warn these changes could suppress turnout or be misused for partisan advantage.",
+    "queries": [
+      "Is electoral law and administration reasonable or not for the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "electoral count act",
+    "wiki_title": "electoral count act",
+    "summary": "In discussions around the 2024 election the Electoral Count Act is repeatedly invoked to argue for or against legal and procedural safeguards for certifying presidential results—supporters claim clarifying or tightening the Act will prevent another post‑election power grab and limit the vice president’s discretionary role, while critics (often aligned with Trump‑friendly factions) warn reforms could be weaponized, undermine state prerogatives, or fail to stop alternate‑elector strategies. As a result the Act frames competing narratives about election legitimacy, acceptable avenues for contesting outcomes, and what institutional fixes (if any) are needed to avert another January‑6 style crisis.",
+    "queries": [
+      "Is the Electoral Count Act adequate for the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "john eastman",
+    "wiki_title": "john eastman",
+    "summary": "John Eastman is frequently invoked in 2024 election debates as the archetype of a lawyer who devised legal arguments to overturn electoral results—critics cite him to warn that similar post‑election litigation and theories threaten democratic norms, while some conservative voices use his work to justify aggressive legal challenges and calls for election‑law reform. His professional sanctions and ethics scrutiny are also deployed to argue for stronger oversight, criminal accountability, or, conversely, to frame him as a politically targeted advocate for alternative interpretations of election law.",
+    "queries": [
+      "Are concerns about John Eastman reasonable or overstated?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "safe harbor deadline",
+    "wiki_title": "safe harbor (2025 tv series)",
+    "summary": "Commentators and partisans have invoked the 2025 TV series 'Safe Harbor' as a cultural touchstone in post‑2024 election debates, using its dramatized scenarios to justify or criticize candidates’ stances—most often to argue for more humane immigration/asylum policies and institutional trust, or conversely to warn of law‑and‑order and security risks depending on the speaker’s agenda.",
+    "queries": [
+      "Is the safe harbor deadline in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "electoral college",
+    "wiki_title": "electoral college",
+    "summary": "In the 2024 U.S. presidential election, the Electoral College is frequently invoked by supporters to justify prioritizing swing states and to argue that the system preserves federalist balance and stability, while critics use it to argue the system is undemocratic, push for abolition or the National Popular Vote Compact, and warn that a divergence between the popular vote and electoral outcome would delegitimize the winner. Debate over the Electoral College also shapes narratives about voter suppression, campaign strategy, faithless electors, and the likelihood of post-election litigation.",
+    "queries": [
+      "How do voters view the electoral college’s role in 2024?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "national popular vote interstate compact",
+    "wiki_title": "national popular vote interstate compact",
+    "summary": "In 2024 debates the national popular vote interstate compact is invoked by advocates as a quick reform to make the presidency reflect the nationwide popular vote and blunt battleground-state campaigning, while opponents—mainly conservatives—portray it as an unconstitutional, partisan end‑run around the Electoral College that would advantage Democrats. Its mention fuels talk of litigation and legitimacy: supporters frame it as democratic modernization, critics use it to defend federalist electoral safeguards and to question any post‑2020 rule changes.",
+    "queries": [
+      "Is the national popular vote interstate compact reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "faithless electors",
+    "wiki_title": "faithless elector",
+    "summary": "References to faithless electors in 2024 discourse are often used to amplify fears that rogue or alternate electors could tip a close result—bolstering calls for tighter state laws, enforcement of pledges, or abolition of the Electoral College—while others invoke elector independence as a last-resort check on an unfit or authoritarian winner. The term thus frames competing agendas: one pushing legal reforms to lock down elector votes to protect perceived electoral legitimacy, the other defending discretionary electors as a safeguard against democratic harm.",
+    "queries": [
+      "What consequences could faithless electors cause in 2024?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "house contingent election",
+    "wiki_title": "contingent election",
+    "summary": "In 2024 discourse the contingent‑election scenario is often invoked to warn that a split or no‑majority Electoral College could let a Republican‑controlled House pick the president contrary to the national popular vote, driving Democrats’ calls for Electoral College reform (e.g., National Popular Vote or changes to the Electoral Count Act); defenders frame it as a legitimate constitutional backstop and oppose reforms that would curtail state control of electors.",
+    "queries": [
+      "What consequences could a house contingent election bring for 2024?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "joint session of congress",
+    "wiki_title": "joint session",
+    "summary": "In 2024 debates the congressional joint session that formally counts Electoral College votes is invoked as the decisive ritual where allies of candidates might seek to contest certification—sparking fears that lawmakers or the vice president could be pressured to block or delay results. References to the joint session are used both to justify calls for reforms (clarifying the vice president’s role, tightening the Electoral Count Act) and to criticize efforts seen as attempts to overturn or delegitimize the election outcome.",
+    "queries": [
+      "What risks does a joint session of congress pose to legitimacy?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "voter id laws",
+    "wiki_title": "voter identification laws",
+    "summary": "In the 2024 U.S. presidential election debate, supporters—largely Republican officials and election-integrity advocates—invoke stricter voter ID laws to argue they prevent fraud and restore public confidence, while opponents—Democrats and voting-rights groups—portray them as partisan voter suppression that disproportionately reduces turnout among minorities, young people, and the poor. The issue fuels state-level law changes, litigation and campaign messaging, shaping expectations about turnout, close-state outcomes, and the perceived legitimacy of results.",
+    "queries": [
+      "How do people view voter id laws?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "republican party",
+    "wiki_title": "republican party",
+    "summary": "In the 2024 U.S. presidential election the Republican Party is invoked to mobilize conservative and MAGA-aligned messaging—emphasizing economic populism, tax cuts and deregulation, strict immigration controls, opposition to abortion and 'woke' cultural policies, and strong law-and-order rhetoric to attract voters. Critics counter that the party's tactics (including election-denialism and voting-rule changes) and the internal clash between establishment moderates and hardline populists shape debates about democratic norms, candidate legitimacy, and the overall stakes of the race.",
+    "queries": [
+      "How do people view the Republican Party’s role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "supreme court",
+    "wiki_title": "supreme court",
+    "summary": "The Supreme Court is invoked in 2024 election debates as the likely arbiter of close or contested races and of legal challenges to voting rules, with opponents warning it could uphold restrictions on ballot access while supporters argue it will enforce state authority and election integrity. Its ideological composition and recent rulings are used by campaigns to justify turnout appeals, judicial-centered messaging, and promises to confirm or oppose nominees who will shape election law for years.",
+    "queries": [
+      "Is the Supreme Court's role in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "aclu",
+    "wiki_title": "american civil liberties union",
+    "summary": "In 2024 election debates the ACLU is frequently cited as a principal defender of voting access and civil liberties—bringing lawsuits and public campaigns against laws and practices labeled as voter suppression (ID requirements, purges, mail‑ballot restrictions) and framing protest, surveillance, and social‑media moderation disputes as First Amendment and privacy issues. Its interventions are used to justify expanded voter protections and to criticize government overreach, while opponents often portray the ACLU as partisan or overly protective of controversial speech.",
+    "queries": [
+      "Is the ACLU's role in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "voter suppression",
+    "wiki_title": "voter suppression",
+    "summary": "In the 2024 presidential race, accusations of voter suppression are used by Democrats and voting-rights groups to portray recent state laws and procedural changes as deliberate efforts to reduce turnout among Black, Latino, young and low-income voters—fueling mobilization, lawsuits, and calls for federal protections. Opponents and proponents of tougher rules rebut by framing such measures as necessary election-integrity or anti-fraud steps, making “voter suppression” a central rhetorical lens that shapes whether policies are seen as protection of democracy or barriers to it.",
+    "queries": [
+      "Is voter suppression in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "mail-in voting",
+    "wiki_title": "postal voting",
+    "summary": "In the 2024 presidential campaign, advocates portray postal voting as a pro‑voter measure that boosts turnout and access for seniors, disabled and remote voters, while critics—particularly Trump allies—use fears about mail ballots to argue for stricter ID, signature‑verification and drop‑box limits and to cast doubt on close results; that clash drives litigation, legislative fights in battleground states and widespread misinformation about election legitimacy.",
+    "queries": [
+      "Is mail-in voting reasonable or not in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "united states postal service",
+    "wiki_title": "united states postal service",
+    "summary": "In 2024 campaign discourse the USPS is frequently framed as the make-or-break infrastructure for mail and absentee voting—advocates invoke funding, staffing, and delivery reliability to argue for protecting broad access (especially for seniors, rural voters, and overseas/military ballots), while opponents point to delays, operational problems, or past politicization to justify stricter mail-voting rules, sow skepticism about ballot validity, or blame political rivals for potential disenfranchisement.",
+    "queries": [
+      "How do people view the united states postal service in 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "louis dejoy",
+    "wiki_title": "louis dejoy",
+    "summary": "Louis DeJoy is invoked in 2024 election debates as the figure controlling the U.S. Postal Service whose past operational changes are cited by critics (mainly Democrats and voting-rights advocates) as evidence that mail‑ballot delivery could be disrupted and depress turnout, while supporters (and some conservatives) frame his reforms as necessary to curb waste and protect election integrity. References to DeJoy therefore tend to polarize arguments about mail voting, postal funding, and the need for oversight or legislative protections for absentee and early voting.",
+    "queries": [
+      "Is Louis DeJoy's influence on the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ballot harvesting",
+    "wiki_title": "ballot collecting",
+    "summary": "In the 2024 presidential campaign, Republican politicians and allied media cite ballot collecting as a purported source of fraud to justify tighter rules, legal challenges, and to cast doubt on mail‑in vote totals in key battleground states. Democratic campaigns and voting‑rights groups counter that restricting ballot‑collection suppresses turnout among disabled, rural, and marginalized voters, framing the issue as a partisan contest between voter access and election integrity.",
+    "queries": [
+      "Is ballot harvesting reasonable or not in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ballot drop boxes",
+    "wiki_title": "ballot box",
+    "summary": "In the 2024 presidential election, physical ballot boxes—especially mail‑ballot drop boxes—are focal points in heated debates: supporters portray expanded, well‑monitored drop boxes as necessary to safeguard access and increase turnout, while critics cite chain‑of‑custody and tampering concerns to justify tighter limits and surveillance. Those competing frames are used to argue for policies that either broaden mail/drop‑box voting and transparency or restrict and litigate against it in the name of election integrity.",
+    "queries": [
+      "Are restrictions on ballot drop boxes justified in 2024?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "absentee ballot",
+    "wiki_title": "absentee ballot",
+    "summary": "In the 2024 U.S. presidential election, absentee ballots are a major political flashpoint: advocates (mainly Democrats and voting‑rights groups) argue expanding mail‑in and drop‑box access increases turnout and enfranchises voters, while critics (mainly Republicans and some election officials) use concerns about signature checks, rejection rates, and chain‑of‑custody to push stricter ID, deadlines, and limits. Arguments over absentee ballot rules, rejection procedures, and counting timelines in swing states drive litigation and preemptive claims about election legitimacy, shaping public trust and campaign turnout strategies.",
+    "queries": [
+      "How do people view absentee ballot procedures in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "signature verification",
+    "wiki_title": "signature",
+    "summary": "Signatures — on absentee ballots and petition sheets — feature heavily in 2024 election debates: proponents of stricter signature-matching say rigorous checks prevent fraud and justify tighter voting rules, while critics argue subjective verification and high rejection rates disenfranchise voters and enable partisan suppression. Signature-gathering for ballot access also becomes a rhetorical tool to claim grassroots legitimacy for third‑party or independent challengers, and disputes over verification standards and rejection statistics are used to frame broader arguments about election integrity.",
+    "queries": [
+      "Is signature verification in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "election audits",
+    "wiki_title": "election audit",
+    "summary": "In the 2024 presidential election, calls for “election audits” are used by some candidates and supporters to demand post‑vote reviews that can cast doubt on results and justify delays, legal challenges, or changes to certification rules, while election officials and voting‑integrity advocates invoke well‑designed audits (e.g., risk‑limiting, transparent procedures) to bolster confidence and push back against bad‑faith or partisan audits. Debates about audit timing, methods, and transparency therefore serve as proxies for broader positions: strengthening verified outcomes and trust versus enabling contestation and delegitimization of certified results.",
+    "queries": [
+      "What consequences have election audits had for public confidence?"
+    ]
+  },
+  {
+    "id": "C2-5-2",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "maricopa county election audit",
+    "wiki_title": "2021 maricopa county presidential ballot audit",
+    "summary": "Supporters of Donald Trump and election-integrity activists invoke the 2021 Maricopa County audit in 2024 to argue that alleged tabulation problems justify broader post‑election audits, tougher voting rules, and sustained skepticism about the legitimacy of 2020 results. Critics counter that the audit’s partisan management and methodological flaws make it a cautionary example of how misinformation can be used to delegitimize elections and to push restrictive policies, framing it as a dangerous precedent rather than proof of widespread fraud.",
+    "queries": [
+      "Is the maricopa county election audit reasonable for the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "dominion voting systems",
+    "wiki_title": "dominion voting systems",
+    "summary": "Dominion Voting Systems remains a flashpoint in 2024 election rhetoric: critics invoke past fraud claims about Dominion machines to justify audits, bans, and tighter partisan oversight of voting technology, while election officials, cybersecurity experts, and Dominion’s legal victories are used to argue that certified voting systems are reliable and to counter conspiracy-driven reforms. As a result, Dominion functions as a shorthand in debates over trust in election administration and policy choices like paper-ballot mandates, vendor certification, and the scope of post‑election audits.",
+    "queries": [
+      "Is Dominion Voting Systems' role in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "risk-limiting audit",
+    "wiki_title": "risk-limiting audit",
+    "summary": "In the 2024 presidential election debate, advocates cite risk-limiting audits to defend the legitimacy of certified results, push state laws requiring statistical post-election checks, and reassure skeptical voters about fraud claims; opponents — especially those demanding full hand counts or public release of machine records — portray RLAs as insufficient or opaque and use that critique to justify calls for broader audits, recounts, or legal challenges.",
+    "queries": [
+      "Is risk-limiting audit reasonable in the 2024 presidential election?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "chain of custody",
+    "wiki_title": "chain of custody",
+    "summary": "In debates around the 2024 United States presidential election, claims about breaks or weaknesses in the chain of custody are invoked to justify post‑election audits, litigation, and demands for stricter paper‑trail and custody rules for ballots and voting equipment. Such appeals tend to lend credibility to narratives of stolen or tainted results among skeptics and campaign allies, while election officials and experts counter that unsubstantiated chain‑of‑custody accusations are frequently used to delegitimize outcomes and push partisan remedies.",
+    "queries": [
+      "How do people view chain of custody in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "secretaries of state",
+    "wiki_title": "secretary of state",
+    "summary": "In the 2024 presidential campaign, state secretaries of state are cast as gatekeepers whose administration of voting rules, mail ballots, and certification is used by critics to allege partisan bias and press for tighter “election integrity” laws or audits, while defenders point to their role to justify expanded access and push back against conspiracy-driven challenges. Coverage of their decisions and past records is frequently invoked to frame narratives about the legitimacy of results, drive litigation and legislation, and influence public trust in the election outcome.",
+    "queries": [
+      "How do people view secretaries of state in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "brad raffensperger",
+    "wiki_title": "brad raffensperger",
+    "summary": "As the Georgia secretary of state who resisted efforts to overturn the 2020 result, Raffensperger is cited in 2024 debates as proof that election officials can defend democratic norms and as a cautionary example of political courage; conversely, Trump-aligned critics use him to argue that officials must be more partisan or face replacement, fueling arguments for either stronger protections for nonpartisan administration or for laws that constrain secretaries perceived as disloyal.",
+    "queries": [
+      "Is Brad Raffensperger's role in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "kris kobach",
+    "wiki_title": "kris kobach",
+    "summary": "In discussion of the 2024 presidential race, Kris Kobach is frequently invoked by conservative commentators and policymakers as a prototype advocate for strict election-security measures—voter ID, proof-of-citizenship checks, roll purges and limits on mail voting—framing those policies as necessary to restore “election integrity.” Conversely, Democrats and voting-rights groups invoke Kobach to criticize and warn that fraud-focused narratives and legal tactics can be used to justify partisan voter suppression and challenges to legitimate results.",
+    "queries": [
+      "How do people view kris kobach’s positions in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "national association of secretaries of state",
+    "wiki_title": "national association of secretaries of state",
+    "summary": "In public arguments about the 2024 presidential election, NASS is invoked as a nonpartisan authority by election officials and voting-rights advocates to justify standardized voting procedures, cybersecurity safeguards, and measures to increase turnout and transparent post‑election review; conversely, skeptics and partisan opponents portray its guidance as part of an ‘establishment’ stance that downplays fraud claims or opposes tighter voting restrictions, so its recommendations are alternately used to legitimize administration reforms or criticized to undermine them.",
+    "queries": [
+      "How do people view the national association of secretaries of state?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "election certification",
+    "wiki_title": "election certification tribunal",
+    "summary": "In debates about the 2024 U.S. presidential election, advocates of post‑election scrutiny invoke “election certification tribunals” to argue for judicial or administrative panels that can delay, review, or invalidate results—framing such bodies as necessary to investigate alleged fraud and justify recounts or alternate electors. Critics counter that the tribunals are partisan tools to delegitimize legitimate outcomes and push policy positions favoring stronger legal safeguards and fixed certification timelines to prevent democratic subversion.",
+    "queries": [
+      "What effects has election certification had on public trust?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "election denialism",
+    "wiki_title": "denialism",
+    "summary": "In the 2024 campaign 'denialism' is used as a political charge to delegitimize opponents—most notably accusations of election denialism aimed at figures who refuse to accept 2020 results—and to discredit candidates who reject mainstream climate or public‑health science. Those labeled denialists often respond by mobilizing bases around conspiracy narratives, pushing for election audits and restrictive voting laws, or opposing climate and pandemic-related policy interventions.",
+    "queries": [
+      "How do people view election denialism during the 2024 campaign?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "voting rights act",
+    "wiki_title": "voting rights act of 1965",
+    "summary": "In the 2024 election, advocates and the DOJ invoke the Voting Rights Act to justify lawsuits and federal scrutiny of state voting restrictions, redistricting, and practices they say will suppress turnout among Black, Latino, and Native voters; it’s used to argue for interventions to protect minority participation and the legitimacy of results. Opponents, including many Republican officials, portray enforcement as partisan federal overreach or anachronistic, using that framing to defend tighter ballot‑access rules and to question court challenges that could change election administration and outcomes.",
+    "queries": [
+      "How do people view the Voting Rights Act today?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "shelby county v. holder",
+    "wiki_title": "shelby county v. holder",
+    "summary": "In 2024 election debates, Shelby County v. Holder is invoked by critics to argue that the Court’s rollback of federal preclearance enabled state-level voting restrictions—often promoted by Republicans—that disproportionately suppress minority turnout and threaten Democratic prospects and election legitimacy. Conversely, defenders cite the ruling to justify state control over election rules and frame federal oversight as unnecessary overreach, fueling partisan disputes over voting access, litigation, and calls to restore or reform the Voting Rights Act.",
+    "queries": [
+      "How do people view shelby county v. holder in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "john lewis voting rights act",
+    "wiki_title": "john lewis voting rights act",
+    "summary": "In 2024 campaign rhetoric the John Lewis Voting Rights Act is invoked by Democrats to frame the election as a contest over protecting minority access to the ballot and remedying state-level restrictions, using support for the bill to mobilize Black and other marginalized voters. Republicans portray the measure as federal overreach that would nationalize elections and appeal to concerns about election integrity and state sovereignty, using opposition to the bill to criticize Democratic candidates and justify restrictive voting laws.",
+    "queries": [
+      "Is the john lewis voting rights act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "doj civil rights division",
+    "wiki_title": "united states department of justice civil rights division",
+    "summary": "In 2024 election debates the DOJ Civil Rights Division is frequently invoked by advocates of federal intervention as the enforcement arm that can investigate voter suppression, intimidation of election workers, discriminatory voting rules, and civil-rights aspects of election subversion; opponents use its involvement to argue federal overreach or partisan enforcement against state election administration and targeted prosecutions.",
+    "queries": [
+      "Are criticisms of the DOJ Civil Rights Division reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "naacp legal defense fund",
+    "wiki_title": "naacp legal defense and educational fund",
+    "summary": "Civil-rights advocates invoke the NAACP Legal Defense and Educational Fund in 2024 to document and litigate alleged voter suppression, push presidential candidates to support stronger voting-rights protections, and mobilize Black and progressive turnout. Political opponents and some commentators counter by framing LDF as partisan and overly litigious, arguing its courtroom strategies improperly shape election rules and outcomes.",
+    "queries": [
+      "How do people view the naacp legal defense fund's election involvement?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "cisa",
+    "wiki_title": "cisa",
+    "summary": "CISA is cited by election officials, journalists, and pro-integrity advocates to justify claims that federal cybersecurity efforts and coordination with platforms are protecting the 2024 election from hacking and disinformation and to support policies that harden voting infrastructure and counter online misinformation. Conversely, critics—especially election-denial or some conservative voices—frame CISA as partisan or as enabling censorship, using its guidance to argue for audits, limits on federal involvement, or to dismiss official reassurances about fraud.",
+    "queries": [
+      "Are cisa’s statements about election threats justified or not?"
+    ]
+  },
+  {
+    "id": "C2-8-1",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "election security",
+    "wiki_title": "election security",
+    "summary": "In the 2024 United States presidential election, appeals to election security are used both to justify funding and reforms (paper ballots, audits, improved cybersecurity and protections against foreign interference) and to argue for or against specific voting methods. The term is also weaponized politically—experts invoke it to shore up trust in administration and infrastructure, while candidates and activists sometimes amplify unproven fraud claims or push restrictive measures (voter ID, limits on mail voting) under the guise of integrity.",
+    "queries": [
+      "How has election security affected voter confidence in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-8-5",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "department of homeland security",
+    "wiki_title": "united states department of homeland security",
+    "summary": "In the 2024 campaign, DHS is routinely cited to justify federal election-security measures—its warnings about foreign interference, cybersecurity risks, and potential violence are used to argue for protecting voting infrastructure and deploying resources—while its border and immigration actions are invoked by candidates to press law-and-order or immigration-control platforms; critics counter that DHS decisions and threat labels are sometimes politicized or overbroad, framing it as either a necessary protector of democratic processes or an instrument of partisan enforcement.",
+    "queries": [
+      "What effects has department of homeland security had on the 2024 election?"
+    ]
+  },
+  {
+    "id": "C2-8-6",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "election assistance commission",
+    "wiki_title": "election assistance commission",
+    "summary": "In 2024 debates the U.S. Election Assistance Commission is frequently cited by officials and media to justify confidence in voting equipment, post‑election audits, and guidance on mail ballots and cybersecurity, while critics point to perceived enforcement gaps or politicized guidance to argue the agency fails to ensure integrity. Democrats and election administrators tend to invoke EAC reports to support federal funding and uniform standards for secure, accessible voting, whereas some Republicans and election skeptics use criticisms of the EAC to justify state‑level reforms or doubts about close results.",
+    "queries": [
+      "How do people view the Election Assistance Commission's actions for 2024?"
+    ]
+  },
+  {
+    "id": "C2-8-7",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "state election officials",
+    "wiki_title": "election official",
+    "summary": "In the 2024 U.S. presidential election discourse, election officials are often invoked as either the authoritative defenders of ballot integrity—used to rebut fraud claims and legitimize certified results—or as focal points of suspicion by those alleging partisan bias or administrative errors influenced outcomes. Debates about their staffing, training, ballot-handling decisions, and certification powers drive policy fights over funding, legal oversight, voter ID and ballot-curbing measures, with advocates seeking protection and resources and critics pushing for stricter controls or replacement mechanisms.",
+    "queries": [
+      "How do people view state election officials' role?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and misinformation",
+    "wiki_title": "misinformation",
+    "summary": "In coverage and debates around the 2024 presidential race, allegations of misinformation are used to discredit opponents’ claims (about fraud, candidates’ records, or policy positions) and to mobilize bases by framing rival narratives as dishonest. The label also underpins calls for tougher platform moderation and fact‑checking from some actors while being portrayed by others as a pretext for partisan censorship, shaping public trust in media, election outcomes, and regulation proposals.",
+    "queries": [
+      "What consequences has media and misinformation brought to the 2024 race?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "X acts as a real-time amplifier in the 2024 election: campaigns, influencers, and partisan networks use viral posts, hashtags, and reposting to set narratives, mobilize supporters, and attack opponents, while critics highlight viral misinformation, bot-driven amplification, and moderation choices to argue the platform distorts public opinion. Contests over X’s content rules and moderation are framed as broader fights over free speech, censorship, and the need for regulation, shaping policy debates and claims about the election’s legitimacy.",
+    "queries": [
+      "How do people view Twitter's political messaging during the 2024 campaign?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Elon Musk is invoked in debates about the 2024 election as both a financier and amplifier of pro‑Trump forces—supporters point to his funding and free‑speech rhetoric to justify tech‑friendly, deregulation‑leaning policies, while critics use his influence over X and ties to the campaign to warn of billionaire power, media consolidation, misinformation amplification, and the erosion of democratic norms.",
+    "queries": [
+      "Are concerns about Elon Musk’s impact on election discourse justified?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "fact-checking",
+    "wiki_title": "fact-checking",
+    "summary": "During the 2024 presidential campaign, fact-checking is invoked to rebut candidates’ false claims and viral misinformation, shaping voter perceptions, media coverage, and debate narratives while bolstering calls for platform moderation and accountability. Opponents argue it is partisan or “opinion journalism,” using accusations of bias to delegitimize fact-checkers and resist content moderation or regulatory interventions.",
+    "queries": [
+      "Is fact-checking in the 2024 election sufficiently impartial?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "#maga",
+    "wiki_title": "maga",
+    "summary": "In the 2024 presidential election, \"MAGA\" functions as a rallying identity for Trump-aligned voters—used to justify hardline immigration measures, protectionist economic policies, and populist \"America First\" rhetoric—while opponents use the label to portray candidates as authoritarian, anti-democratic, or tied to extremist views. As a result it sharpens intra-GOP loyalty contests, guides campaign messaging and turnout strategies, and polarizes public debate by collapsing policy disagreements into tribal allegiance to or rejection of the MAGA movement.",
+    "queries": [
+      "Is #maga's message reasonable or not in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "In the 2024 U.S. presidential campaign, TikTok is portrayed both as a vital youth-mobilization and messaging channel—used by campaigns, influencers, and grassroots groups to create viral candidate narratives—and as a vector for misinformation and influencer-driven persuasion that critics say skews discourse. Concerns about its Chinese ownership and opaque algorithms are repeatedly invoked to justify bans or stricter regulation, and disputes over moderation and amplification shape arguments about election security, censorship, and tech policy stances held by candidates.",
+    "queries": [
+      "How do people view tiktok's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "bytedance",
+    "wiki_title": "bytedance",
+    "summary": "In the 2024 U.S. presidential election ByteDance—primarily via TikTok—is central to fights over foreign influence, national-security rhetoric, and content moderation: opponents (largely Republican lawmakers and critics) push bans, forced divestiture, or stringent regulation claiming the platform can be used to manipulate young voters and spread disinformation, while supporters (campaign strategists, many Democrats, and free‑speech advocates) frame TikTok as an essential outreach tool and warn that broad restrictions would curtail political expression and civic engagement.",
+    "queries": [
+      "Is bytedance's involvement in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "section 230",
+    "wiki_title": "section 230",
+    "summary": "In the 2024 election discourse, Section 230 is wielded as the legal lever in fights over whether Big Tech shaped the contest: critics—mainly conservative politicians and allies—argue removing or conditioning Section 230 would punish perceived anti-conservative censorship and deter platforms from silencing campaign messages, while defenders and many progressives portray preserving 230 (or narrowly reforming it) as essential for platforms to remove misinformation, hate speech, and foreign influence without being treated as publishers.",
+    "queries": [
+      "How do people view section 230's impact on 2024 campaign debates?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "meta platforms",
+    "wiki_title": "meta platforms",
+    "summary": "Meta is central to 2024 election arguments as both a blamed amplifier of falsehoods via algorithmic promotion and targeted advertising and as a contested gatekeeper that enforces moderation and ad rules; critics (especially conservatives) accuse it of political censorship while others push for stronger content moderation, ad transparency, and regulation (including Section 230 changes) to curb misinformation and foreign or microtargeted influence.",
+    "queries": [
+      "What effects have meta platforms had on the 2024 election?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "In the 2024 election, claims of deplatforming are used to allege partisan censorship—especially by conservative candidates and commentators—to frame social media and institutional removals as voter suppression, while defenders argue removals are necessary to stop disinformation and violent rhetoric that could undermine election integrity. This dispute fuels policy fights over platform regulation and free speech, and it’s used rhetorically to mobilize voters by portraying bans either as proof of bias or as protection of democratic processes.",
+    "queries": [
+      "How do people view deplatforming during the 2024 election?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "senate judiciary committee",
+    "wiki_title": "united states senate committee on the judiciary",
+    "summary": "During the 2024 presidential campaign the Senate Judiciary Committee is repeatedly invoked in debates over judicial confirmations, DOJ oversight, and election-related investigations, with hearings and subpoenas used by both sides to argue that control of the Senate and the presidency will determine the courts’ and prosecutors’ impact on voting rules and election disputes. Republicans often frame the committee as a check on an allegedly politicized Justice Department and a route to confirm conservative judges who will limit federal election oversight, while Democrats portray it as central to protecting voting access, civil liberties, and accountability for election interference — shaping voter views about which presidential candidates will safeguard those outcomes.",
+    "queries": [
+      "Is Senate Judiciary Committee's role in 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "deepfakes",
+    "wiki_title": "deepfake",
+    "summary": "In the 2024 presidential campaign, deepfakes are repeatedly invoked in partisan narratives as a feared tool for last‑minute fabricated videos and foreign interference, prompting calls for tougher platform moderation, detection funding, and legal restrictions on online disinformation. At the same time, opponents sometimes label genuine damaging footage as “deepfakes” to discredit evidence, deepening public distrust and sharpening conflicts over regulation versus free speech.",
+    "queries": [
+      "How do people view deepfakes affecting voters this election?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "federal bureau of investigation",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "In the 2024 election the FBI is a frequent political prop—cited by critics of Trump to justify probes of classified documents, January 6 and foreign‑interference risks, and by Trump supporters and some Republicans as proof the bureau is politicized and weaponized against conservatives; its public actions (raids, indictments, statements on voter fraud and interference) therefore shape polarized demands for greater DOJ independence, oversight or reform and are used to validate opposing narratives about election legitimacy and candidate fitness.",
+    "queries": [
+      "Is the federal bureau of investigation’s involvement in the 2024 election justified?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "openai",
+    "wiki_title": "openai",
+    "summary": "OpenAI is often invoked in 2024 election debates as a prime example of how generative AI can amplify misinformation, produce deepfakes, and be used for targeted political persuasion, driving calls for stricter regulation, transparency, and limits on AI-driven political ads. Proponents of oversight cite OpenAI to justify new safety rules and disclosure requirements, while critics use its partnerships, moderation decisions, and market power to argue about corporate influence, bias, and uneven enforcement of political speech.",
+    "queries": [
+      "Is OpenAI’s role in the 2024 election appropriate or not?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "politifact",
+    "wiki_title": "politifact",
+    "summary": "In the 2024 election PolitiFact is frequently invoked by journalists, campaigns, and voters to validate or discredit claims—its Truth‑O‑Meter ratings are used to fact‑check debate lines, campaign ads, and viral posts about candidates, voting and election integrity. Because those ratings can shape news coverage and voter perceptions, partisans cite PolitiFact to bolster attacks or defenses while opponents accuse it of selective targeting, framing it either as an arbiter of truth or a biased actor.",
+    "queries": [
+      "How do people view politifact's fact-checks during the 2024 campaign?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "voter fraud",
+    "wiki_title": "electoral fraud",
+    "summary": "In the 2024 U.S. presidential election, claims of electoral fraud are deployed by some candidates and allies to delegitimize opponents, justify legal challenges, post-election audits, and stricter voting rules (e.g., tighter ID, mail-ballot limits), and to mobilize supporters; critics counter that these narratives are often unproven election denialism that erodes public trust and serves as a pretext for policies that suppress turnout and reduce access to voting.",
+    "queries": [
+      "How do people view allegations of voter fraud in 2024?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "In the 2024 campaign, QAnon framings are invoked by supporters and sympathetic candidates to cast doubt on election legitimacy, amplify claims of fraud, and justify hardline 'election integrity' and anti-establishment policies, while opponents use candidates’ QAnon ties to discredit them as extremist and unfit for office. These narratives push the electorate toward pro-Trump, conspiratorial positions and heighten polarization by normalizing fringe claims and undermining trust in democratic processes.",
+    "queries": [
+      "Is qanon involvement in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "michael flynn",
+    "wiki_title": "michael flynn",
+    "summary": "Supporters invoke Michael Flynn to legitimize claims of election fraud and to argue for tough, security-first responses to perceived threats in the 2024 campaign. Critics use his conspiracy-prone rhetoric and advocacy of extraordinary measures as evidence that parts of the pro-Trump movement could embrace anti-democratic tactics and threaten the peaceful transfer of power.",
+    "queries": [
+      "What consequences has Michael Flynn’s involvement in 2024 politics caused?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "sidney powell",
+    "wiki_title": "sidney powell",
+    "summary": "Sidney Powell’s high-profile promotion of 2020 election-fraud claims is invoked in 2024 to justify aggressive litigation, partisan audits, and broad skepticism of certified results by election-denying candidates and activists, while opponents use her as a shorthand for conspiracy-driven misinformation to argue for stronger election safeguards, fact-checking, and legal accountability.",
+    "queries": [
+      "Is Sidney Powell’s involvement in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "ron watkins",
+    "wiki_title": "ron watkins",
+    "summary": "In 2024 election debates Watkins is invoked as a key example of the online architects who seed and amplify election-denial narratives—critics use his QAnon/8kun background to warn that coordinated conspiracy networks undermine trust in voting and institutions, while fringe pro-Trump circles lean on his perceived insider tech credibility to justify or spread claims that the election is rigged.",
+    "queries": [
+      "What consequences has Ron Watkins brought to 2024 election discourse?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "lin wood",
+    "wiki_title": "l. lin wood",
+    "summary": "L. Lin Wood is invoked in 2024 election debates as a symbol of the campaign of election-denial and conspiracy rhetoric that critics say will delegitimize the vote and radicalize parts of the conservative base; conversely, some supporters cast him as a martyr for “election integrity” and an anti‑establishment voice or potential alternative to mainstream Republican candidates.",
+    "queries": [
+      "How do people view Lin Wood’s role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "8kun",
+    "wiki_title": "8chan",
+    "summary": "On 8kun, QAnon and other fringe communities amplify conspiracy-laden narratives about the 2024 presidential election—promoting election-denial claims, boosting far-right candidates, and circulating falsehoods that delegitimize mainstream winners. These forums also coordinate harassment and push policy positions such as aggressive fraud investigations and voter-restriction measures, helping convert online conspiracy into real-world political pressure.",
+    "queries": [
+      "Are concerns about 8kun affecting the 2024 election justified?"
+    ]
+  },
+  {
+    "id": "C3-6-8",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "truth social",
+    "wiki_title": "truth social",
+    "summary": "In the 2024 presidential contest Truth Social is used as a direct channel for Trump and his allies to push campaign messaging—amplifying claims of fraud or censorship, attacking opponents and mainstream media, and mobilizing a loyal voter base outside traditional moderation. Critics, meanwhile, cite the platform as evidence of an insular, misinformation-prone ecosystem and use its content to argue for stronger oversight and to warn voters about biased or unverified election narratives.",
+    "queries": [
+      "Is truth social’s content moderation reasonable during the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "voter demographics and turnout",
+    "wiki_title": "voter turnout",
+    "summary": "In the 2024 United States presidential election, debates over voter turnout shape rival narratives: Democrats and voting-rights groups point to higher turnout among young, Black and Latino voters and expanded access (mail/early voting, automatic registration) to justify mobilization and legitimacy, while many Republicans use turnout concerns to argue for stricter ID and roll-cleaning rules or to pre-emptively question mandates. Turnout forecasts also drive campaign strategy and are cited to assess candidate enthusiasm or to bolster attempts to legitimize or delegitimize the eventual result.",
+    "queries": [
+      "How do people view voter demographics and turnout shaping campaign strategy?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "youth vote",
+    "wiki_title": "youth politics",
+    "summary": "Campaigns, pundits, and activists invoke youth politics to argue that issues like student debt relief, climate policy, reproductive rights and education must shape the 2024 agenda and to mobilize Gen Z and young millennials as a decisive Democratic‑leaning bloc whose turnout could swing key states. Conversely, opponents use youth politics to criticize candidates for pandering or to frame young voters as misinformed or radicalized by social media, justifying stricter education policies and culture‑war messaging aimed at winning back younger swing voters.",
+    "queries": [
+      "What consequences has the youth vote had on 2024 campaigns?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "gen z",
+    "wiki_title": "generation z",
+    "summary": "Gen Z is portrayed in the 2024 election as a potentially decisive, youth-driven force whose social-media activism and turnout are cited to justify progressive priorities (climate action, student-debt relief, reproductive and LGBTQ rights); conversely, conservatives and skeptics frame Gen Z as impressionable, overly 'woke,' or apathetic to undermine those policy appeals and shape targeted campaign messaging on platforms like TikTok.",
+    "queries": [
+      "Is gen z’s political engagement reasonable or overhyped?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "rock the vote",
+    "wiki_title": "rock the vote",
+    "summary": "In the 2024 presidential campaign Rock the Vote is invoked by Democrats and progressive organizers as a key tool for boosting youth turnout and framing the election as one about racial, economic and health justice that benefits their coalition, using celebrity-driven outreach to shape young voters’ perceptions. Critics—especially conservatives—use its activism as evidence of partisan targeting, arguing it justifies tougher voter-integrity rules or warnings that civic campaigns are biased or manipulative.",
+    "queries": [
+      "How do people view rock the vote's influence on the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "sunrise movement",
+    "wiki_title": "sunrise movement",
+    "summary": "In the 2024 presidential election, Sunrise Movement is cited by progressive activists and some primary voters as a key pressure group pushing Democratic candidates to adopt aggressive climate platforms (e.g., Green New Deal–style proposals) and to prioritize youth turnout. Opponents and more moderate Democrats, meanwhile, invoke Sunrise’s endorsements and direct-action tactics to argue that the party is being pulled leftward or to portray climate-first agendas as electorally risky.",
+    "queries": [
+      "How do people view the Sunrise Movement's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "march for our lives",
+    "wiki_title": "march for our lives",
+    "summary": "In the 2024 election, March for Our Lives is cited by gun‑safety advocates to mobilize young and suburban voters and to pressure candidates to adopt more stringent gun‑control platforms while highlighting officials’ records on gun violence in endorsements and criticism. Opponents cast the group as partisan or out‑of‑touch to rally pro‑Second Amendment turnout, so MFOL functions as a focal symbol in arguments that frame the race as a referendum on gun policy and youth political influence.",
+    "queries": [
+      "Is march for our lives involvement in 2024 reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "latino voters",
+    "wiki_title": "latino vote",
+    "summary": "In 2024, the “Latino vote” is invoked to argue whether shifts among diverse Latino subgroups will decide key swing states — Republicans cite Trump-era gains in places like South Florida while Democrats warn that economic, immigration, and abortion policies will shape turnout. It’s also used to justify campaign messaging and resource allocation and to criticize candidates for pandering or treating Latinos as a monolithic bloc.",
+    "queries": [
+      "Are concerns about latino voters shifting party allegiance justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "daca",
+    "wiki_title": "deferred action for childhood arrivals",
+    "summary": "In the 2024 presidential campaign DACA is used as a litmus test on immigration—Democrats invoke protecting 'Dreamers' to argue compassion, a pathway to citizenship, and to mobilize Latino and young voters, while Republican candidates portray it as unlawful executive overreach and a reason for tougher border/security measures. Arguments about court rulings and whether to codify, expand, or rescind protections let contenders attack opponents’ records on governance and lawfulness and frame themselves as either defenders of vulnerable immigrants or of immigration rule-of-law.",
+    "queries": [
+      "How do people view DACA in the 2024 presidential campaign?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "border security",
+    "wiki_title": "border control",
+    "summary": "Border control is a central campaign flashpoint in the 2024 presidential race, with Republicans invoking it to justify tougher enforcement, expanded detention and wall funding and to cast opponents as weak on crime and national sovereignty. Democrats and immigrant-rights advocates use the topic to criticize harsh enforcement, emphasize humanitarian and legal asylum concerns, and push for pathways and root-cause solutions, making it a voter-mobilizing litmus test in border and swing states.",
+    "queries": [
+      "What effects has border security emphasis had on voters?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "mi familia vota",
+    "wiki_title": "mi familia vota",
+    "summary": "Mi Familia Vota is invoked in 2024 election debates as a prominent example of Latino-focused voter-registration and GOTV work that Democrats point to as pivotal for boosting turnout for immigration-friendly and voting-rights-oriented candidates, while critics portray its campaigns as partisan organizing that should face tougher oversight; its activity is used to argue about the electoral power of Latino voters and to justify campaign resources and policy emphasis on immigration and voting access.",
+    "queries": [
+      "What effects has mi familia vota had on voter attitudes in 2024?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "univision",
+    "wiki_title": "univision",
+    "summary": "Univision frames the 2024 presidential race through a Latino-focused lens—emphasizing immigration, healthcare, economic opportunity and voter-turnout issues—which shapes Hispanic audiences’ evaluations of candidates and elevates policy concerns that benefit those who court Latino voters. Its Spanish‑language reach is also a focal point in debates over media influence and bias, with critics (often conservative) accusing it of a Democratic slant while campaigns use it for targeted outreach and tailored messaging.",
+    "queries": [
+      "Is univision’s 2024 election coverage fair or not?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "telemundo",
+    "wiki_title": "telemundo",
+    "summary": "Telemundo’s Spanish‑language election reporting, televised interviews and targeted voter outreach pieces are used to shape Latino perceptions of the 2024 presidential contest by foregrounding issues like immigration, the economy, healthcare and candidate engagement with Hispanic communities. Political actors and commentators cite its coverage to justify campaign strategies or to criticize perceived bias—conservatives sometimes accuse it of liberal slant while progressives and Latino advocates press it to hold all candidates accountable and highlight voter‑concerns that boost turnout.",
+    "queries": [
+      "How do people view Telemundo's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-2-7",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "cuban american voters",
+    "wiki_title": "cuban americans",
+    "summary": "Cuban Americans—especially concentrated in Florida—are frequently cited in 2024 campaign debates as a pivotal Hispanic swing bloc whose strong anti-socialist, anti-Castro views are used to justify hardline Cuba policy and to argue that GOP messaging on national security and immigration can win broader Latino support. Democrats counter that Republicans often tokenize Cuban Americans while ignoring wider Latino priorities, and analysts point to generational and ideological splits within the community to challenge broad generalizations about its electoral impact.",
+    "queries": [
+      "Are Cuban American voters’ priorities in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "african american voters",
+    "wiki_title": "african americans",
+    "summary": "In the 2024 presidential race African Americans are cast as a pivotal, mostly Democratic-leaning voting bloc whose turnout in battleground states is treated as decisive, so campaigns and commentators frame messages around racial justice, voting-rights protections, economic relief, and reproductive access to mobilize or critique support. Opponents seek to court or critique Black voters with economic-populist, faith-based, and law-and-order appeals, and debates over voter suppression, targeted outreach, and whether Democrats take the community for granted shape narratives about legitimacy and strategy.",
+    "queries": [
+      "Is outreach to african american voters sufficient in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "stacey abrams",
+    "wiki_title": "stacey abrams",
+    "summary": "Stacey Abrams is frequently invoked in 2024 election debates as the emblem of Democratic voter‑mobilization and voting‑rights advocacy—cited by allies to justify turnout operations, ballot‑access reforms, and mobilizing Black and suburban voters for Democrats, and cited by opponents to allege partisan exploitation of election rules or to challenge narratives about election integrity.",
+    "queries": [
+      "Is Stacey Abrams' involvement in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "black voters matter",
+    "wiki_title": "black voters matter",
+    "summary": "In 2024 election debates the phrase and organizing around 'Black voters matter' is used as a mobilizing argument and scorecard—invoked to stress Black turnout’s decisive influence in swing states and to demand candidates prioritize voting rights, criminal justice reform, and economic equity. Commentators also use it to criticize Democrats for taking Black support for granted and to call out Republican outreach as opportunistic, while justifying targeted get-out-the-vote and anti-suppression efforts.",
+    "queries": [
+      "How do people view 'black voters matter' as a political strategy?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "hbcus",
+    "wiki_title": "hbcu band",
+    "summary": "During the 2024 presidential campaign, HBCU marching bands are frequently used at rallies and events as visible symbols of outreach to Black voters and of a candidate’s purported support for HBCU funding and Black cultural pride; critics and opponents counter that these performances are often tokenistic, easily framed as performative stagecraft or bait in culture‑war narratives about authenticity and public spending.",
+    "queries": [
+      "What effects could 2024 election outcomes have on hbcus?"
+    ]
+  },
+  {
+    "id": "C4-3-8",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "black church",
+    "wiki_title": "black church",
+    "summary": "In the 2024 election the Black church often functions as a mobilizing and moral voice—clergy and congregations are central to GOTV efforts and public endorsements that press candidates on voting rights, criminal-justice reform, economic investment, and protection of Black communities, while publicly criticizing policies and rhetoric seen as racially harmful. At the same time, socially conservative Black pastors who emphasize family and religious values sometimes bolster Republican appeals, producing contested internal narratives about which party best serves Black interests.",
+    "queries": [
+      "How do people perceive the black church's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "suburban women",
+    "wiki_title": "suburban gardens",
+    "summary": "Suburban gardens are invoked in 2024 campaign messaging to court pivotal suburban voters—candidates tout backyard and community-garden programs as examples of climate resilience, local food security, and small-scale conservation tied to zoning and environmental incentives. Critics counter that such imagery is elite greenwashing or federal overreach into property and water use, using gardens to argue candidates are offering symbolic gestures instead of real economic or infrastructure solutions.",
+    "queries": [
+      "How do people view suburban women's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "swing voters",
+    "wiki_title": "swing vote",
+    "summary": "In 2024, politicians, campaign strategists and media repeatedly invoke swing voters to justify centrist messaging, targeted ad buys and tactical policy shifts aimed at suburban independents and moderates in key battleground states. Critics—especially progressives and some commentators—argue this focus amounts to pandering that abandons base priorities, while narratives about swing‑vote movement in places like Pennsylvania, Michigan, Georgia and Arizona shape expectations about turnout, narrow margins and the election’s legitimacy.",
+    "queries": [
+      "Are swing voters’ concerns for the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "child care costs",
+    "wiki_title": "child care",
+    "summary": "In the 2024 campaign, child care is wielded as a wedge and vote-mobilization issue: Democrats present expanded, subsidized child care and universal pre-K as pro‑work, gender‑equity and racial‑justice investments that boost the economy and help working parents, while Republicans frame similar proposals as costly federal overreach and push parental‑choice, tax relief, and private‑sector solutions; both sides use childcare promises to court suburban and working‑parent voters. ",
+    "queries": [
+      "Is reducing child care costs justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "crime and public safety",
+    "wiki_title": "public security",
+    "summary": "Public security is a key campaign frame in 2024, with candidates and commentators using fears about crime, mass shootings, border flows, domestic extremism, and threats to election officials to justify either tough-on-crime measures, expanded policing, surveillance, and stricter immigration enforcement or, alternatively, police reform, gun-safety laws, and social-investment approaches. It also serves as a political attack line—portraying opponents as soft on safety or as willing to trample civil liberties—and to mobilize swing voters worried about personal and institutional security.",
+    "queries": [
+      "Is the focus on crime and public safety justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "critical race theory",
+    "wiki_title": "critical race theory",
+    "summary": "In the 2024 presidential campaign CRT has become a culture‑war wedge issue: conservatives use accusations of teaching or endorsing CRT to paint Democratic candidates as ‘pro‑woke’ and justify pledges to ban diversity training and reshape school curricula, mobilizing right‑leaning voters. Democrats and allied groups respond that those attacks misrepresent efforts on racial equity and use CRT rhetoric to defend civil‑rights–focused policies, shaping debates over education, federal training, judicial picks, and voter turnout.",
+    "queries": [
+      "Is opposing critical race theory justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "make america great again",
+    "wiki_title": "make america great again",
+    "summary": "In the 2024 United States presidential election MAGA functions as a rallying brand for Trump-aligned voters, framing the race as a choice to restore strict immigration controls, economic nationalism, law-and-order policies, and cultural conservatism while serving as a loyalty signal in primaries and campaign messaging. Opponents use the term to cast the campaign as nativist, exclusionary, and authoritarian, leveraging the label to mobilize swing and anti-Trump voters and to criticize policy proposals as regressive or discriminatory.",
+    "queries": [
+      "Is make america great again reasonable in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "brennan center",
+    "wiki_title": "brennan center for justice",
+    "summary": "In 2024 election debates the Brennan Center is widely cited by Democrats, advocates, and media to justify expanding ballot access, challenge restrictive voting laws, and counter claims of widespread fraud through research and litigation; opponents, however, use its partisan reputation to discredit its findings and frame election-integrity reforms as necessary.",
+    "queries": [
+      "Is the Brennan Center’s election work reasonable during the 2024 election?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "felon disenfranchisement",
+    "wiki_title": "disfranchisement",
+    "summary": "Claims of disfranchisement have been central to 2024 election debates, with Democrats and voting‑rights advocates arguing that purges, restrictive ID laws, limits on mail/drop‑box voting and felony voting bans disproportionately suppress Black, Latino, young and low‑income turnout, while Republicans defend many of those measures as necessary anti‑fraud safeguards. These arguments drive litigation, media narratives and mobilization efforts, are used to challenge the legitimacy of results or to press for restoration of voting rights and stronger federal protections.",
+    "queries": [
+      "What effects has felon disenfranchisement had on voting?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "florida amendment 4",
+    "wiki_title": "2018 florida amendment 4",
+    "summary": "In 2024 debates, Florida’s 2018 Amendment 4 — and the follow-up requirement that fines and fees be paid before rights are restored — is invoked by Democrats and voting‑rights groups as proof of a newly expanded, mobilizable electorate (especially Black and Latino voters) that could blunt Republican strength, while Republicans portray the post‑Amendment rules as legitimate enforcement of legal obligations and a necessary guard against improper enfranchisement. The issue fuels GOTV appeals, legal fights, and competing narratives about voter suppression, criminal‑justice reform, and the partisan consequences of how voting eligibility is administered in a key swing state.",
+    "queries": [
+      "How do people view florida amendment 4?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "ron desantis",
+    "wiki_title": "ron desantis",
+    "summary": "DeSantis was deployed in 2024 discourse as the leading conservative alternative to Trump—advocates invoked his record to justify a hardline, culture‑war and small‑government GOP platform (COVID laxity, education and immigration stances), while critics used his style and policy mix to question his electability and temperamental fit for the presidency. His failed bid and quick endorsement of Trump were then framed as proof of Trump’s dominance and a signal for pragmatic party consolidation, fueling arguments about Republican unity versus the costs of conceding to Trumpism.",
+    "queries": [
+      "Is ron desantis a reasonable 2024 presidential choice?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "the sentencing project",
+    "wiki_title": "the sentencing project",
+    "summary": "In the 2024 presidential campaign The Sentencing Project’s data on mass incarceration and racial disparities is frequently cited by progressives and criminal-justice reform advocates to press candidates for sentencing reform, bail reform, clemency, and alternatives to incarceration. Conversely, opponents use its policy prescriptions to frame reformist candidates as soft on crime, making the group’s research a focal point in debates that contrast decarceration and racial-justice rhetoric with “law-and-order” critiques.",
+    "queries": [
+      "Are the sentencing project’s critiques of candidates justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "legal financial obligations",
+    "wiki_title": "criminal-justice financial obligations in the united states",
+    "summary": "Throughout the 2024 presidential campaign, criminal-justice financial obligations are invoked by progressives and reform advocates to spotlight racial and economic injustice—pushing candidates to support canceling court fines/fees, ending private probation and cash-bail dependencies, and restoring voting access for people burdened by legal debt. Conversely, conservatives and law‑and‑order critics use CJFOs to portray opponents as soft on crime, argue for accountability and court-based revenue, and resist reforms that they say would undermine deterrence and public-safety funding.",
+    "queries": [
+      "Is scrutiny of legal financial obligations justified in presidential campaigns?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "probation and parole",
+    "wiki_title": "probation and parole officer",
+    "summary": "Probation and parole officers are invoked in 2024 election debates both to justify \"law-and-order\" stances—candidates and commentators cite officers' caseloads, safety concerns, and anecdotal reoffending to argue for tougher sentencing and more enforcement resources—and to support criminal-justice reform, with advocates using officers' frontline experience to push for increased reentry services, smaller caseloads, and changes to probation/parole practices to reduce recidivism and racial disparities.",
+    "queries": [
+      "How do voters view probation and parole as an election issue?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic policy debate",
+    "wiki_title": "policy debate",
+    "summary": "Debate-style policy frameworks and evidence tactics are frequently deployed by campaigns, pundits, and advocacy groups in the 2024 presidential election to frame candidates’ proposals as either necessary, solvable reforms or risky/unworkable changes—emphasizing harms, solvency, and advantage comparisons to justify support or opposition on issues like climate, immigration, and health care. They also power focused critiques that force technical scrutiny of feasibility and trade-offs, tending to bolster technocratic, evidence-driven positions while undermining vague or populist policy claims.",
+    "queries": [
+      "Is the economic policy debate in the 2024 election reasonable?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "inflation",
+    "wiki_title": "inflation",
+    "summary": "Inflation is used as a central yardstick of economic competence in the 2024 campaign: Republicans blame Biden-era spending, regulation, and Federal Reserve missteps to argue for tax cuts, fiscal restraint and energy-policy changes, while Democrats point to recent easing, blame global supply shocks, and justify targeted relief and industrial investment. These competing narratives shape swing-voter concerns about cost-of-living, mortgages and interest rates and are used to justify everything from austerity to strategic public investment.",
+    "queries": [
+      "How do people view inflation's effect on voting choices?"
+    ]
+  },
+  {
+    "id": "C5-1-2",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "jerome powell",
+    "wiki_title": "jerome powell",
+    "summary": "As Federal Reserve chair, Jerome Powell is invoked in 2024 election debates as the public face of monetary policy—opponents blame his rate decisions for higher borrowing costs and economic pain, using that to attack the incumbent, while supporters and centrists emphasize his role in fighting inflation and defend Fed independence to justify the administration’s economic stewardship and policy choices.",
+    "queries": [
+      "Is Jerome Powell's record relevant to the 2024 presidential election?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "interest rates",
+    "wiki_title": "interest rate",
+    "summary": "In the 2024 presidential campaign, debate over interest rates is a central lens for judging economic competence—candidates and commentators tie high mortgage and loan rates to inflation and cost-of-living pain to attack the incumbent or defend past policy choices. Political narratives use interest-rate trends to justify opposing platforms (calls for tighter monetary/ fiscal restraint to fight inflation vs calls for relief, stimulus, or promises to pressure the Fed) and to argue about accountability and Fed independence.",
+    "queries": [
+      "Is using interest rates as a campaign issue reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "consumer price index",
+    "wiki_title": "consumer price index",
+    "summary": "Campaigns and commentators treat CPI releases as immediate evidence of economic competence in the 2024 race—Republicans point to high or sticky CPI to attack the Biden administration and argue for fiscal restraint and tax cuts, while Democrats emphasize falling inflation readings to defend policy choices and support targeted investments. Disputes over whether the CPI understates real household costs also drive arguments for higher benefits, wage relief, or alternative policy priorities.",
+    "queries": [
+      "Is reliance on the consumer price index justified in 2024 election debates?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "gasoline prices",
+    "wiki_title": "gasoline and diesel usage and pricing",
+    "summary": "Gasoline and diesel prices are treated as a pocketbook issue in the 2024 campaign, with opponents blaming the incumbent for high fuel costs and arguing for more domestic production and tax relief while supporters defend regulatory choices or point to global supply shocks. The issue is also used to justify opposing policy agendas—Republicans emphasize energy independence and lower taxes, Democrats invoke targeted relief and accelerated clean-energy investments or carbon pricing—shaping swing and rural voter attitudes.",
+    "queries": [
+      "Are gasoline prices influencing voter choices in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "cost of living crisis",
+    "wiki_title": "cost-of-living crisis",
+    "summary": "In the 2024 campaign the cost-of-living crisis is a central framing tool: Democrats invoke it to justify expanded social spending, price relief, and corporate accountability, while Republicans cast it as the result of global shocks, overreach, or high spending and push tax cuts, deregulation, and energy-focused solutions. It also focuses voter attention on incumbency and economic competence in swing constituencies, shaping debates over wages, housing, energy policy, and targeted relief measures.",
+    "queries": [
+      "Is attention to the cost of living crisis justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "federal reserve",
+    "wiki_title": "federal reserve",
+    "summary": "In the 2024 presidential campaign the Federal Reserve is a key talking point in economic messaging—Republicans often blame its rate decisions and perceived lack of accountability for high borrowing costs and inflation and push for audits or limits, while Democrats and incumbents defend its independence and credit it with stabilizing prices and markets. Arguments over Fed appointments, the timing of rate cuts, and its role in financial stability are used to signal candidates’ economic competence and influence voter concerns about cost-of-living and growth.",
+    "queries": [
+      "Is the federal reserve’s influence on the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "federal funds rate",
+    "wiki_title": "federal funds rate",
+    "summary": "During the 2024 presidential campaign, candidates and commentators invoke the federal funds rate as evidence either that the economy is failing under the incumbent (high rates blamed for expensive mortgages, loans and slower growth) or that policymakers successfully beat inflation (tightening portrayed as necessary stewardship), using it to assign responsibility between the White House and the Fed. It also frames policy positions—pressures for rate cuts to stimulate growth versus defenses of Fed independence and continued tightening—shaping voting narratives about who best manages the economy.",
+    "queries": [
+      "Is the federal funds rate justified or not amid 2024 politics?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "2023 banking crisis",
+    "wiki_title": "2023 united states banking crisis",
+    "summary": "The 2023 banking crisis is invoked in 2024 campaigns to contest economic competence—Republicans often blame Democratic oversight and portray bailouts as moral hazard, while Democrats blame prior deregulation and use the episode to argue for stronger oversight and depositor protections. It therefore shapes voter debates about whether candidates will favor market-friendly policies or tighter financial regulation, and is used to stoke fears about financial stability and argue who can better manage the economy.",
+    "queries": [
+      "Is concern about the 2023 banking crisis influencing 2024 candidates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "tax cuts",
+    "wiki_title": "tax cut",
+    "summary": "In the 2024 United States presidential election, Republican candidates and allies invoke tax cuts as proof of pro-growth, pro-business stewardship and promise lower rates to boost the economy, while Democratic campaigns frame proposed cuts as skewed toward corporations and the wealthy, increasing deficits and jeopardizing funding for social programs. Debates over who benefits, whether cuts are revenue-neutral, and their effects on inflation and inequality are used to court swing voters and justify competing visions of economic management.",
+    "queries": [
+      "Are tax cuts a justified policy for candidates in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C5-3-3",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "tax foundation",
+    "wiki_title": "tax foundation",
+    "summary": "Journalists, campaigns, and commentators cite the Tax Foundation’s revenue estimates and distributional analyses during the 2024 presidential race to score and frame candidates’ tax proposals—using its numbers to argue a plan is either pro-growth and tax-cutting (favored by conservatives) or fiscally harmful. Critics counter that the Foundation’s modeling and assumptions tend to favor lower-tax, supply-side outcomes, so its findings are often invoked to justify tax cuts and to attack progressive tax increases.",
+    "queries": [
+      "Is the tax foundation's scoring method justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "congressional budget office",
+    "wiki_title": "congressional budget office",
+    "summary": "In the 2024 presidential campaign, CBO estimates are repeatedly invoked as an impartial arbiter to validate or attack candidates’ policy plans—Republicans often cite CBO scores to argue Democratic proposals worsen deficits, while Democrats point to favorable CBO findings or dispute its assumptions when scores are inconvenient. Arguments over CBO baselines and dynamic scoring therefore shape narratives about fiscal responsibility on taxes, health care, student debt and infrastructure, letting both sides claim technical credibility or accuse opponents of misleading voters.",
+    "queries": [
+      "How do people view the congressional budget office's role in campaigns?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "capital gains tax",
+    "wiki_title": "capital gains tax",
+    "summary": "In the 2024 election, capital gains tax proposals are used as a litmus test for economic fairness and fiscal priorities: Democrats argue raising rates or closing loopholes targets wealthy investors to fund social programs and reduce inequality, while Republicans frame such changes as punitive to investment, small-business owners and job creation, using the issue to cast opponents as either pro-elite or anti-growth.",
+    "queries": [
+      "Are candidates' capital gains tax plans justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "wealth tax",
+    "wiki_title": "wealth tax",
+    "summary": "During the 2024 campaign, proposals for a wealth tax are deployed by progressives to signal commitment to reducing inequality and funding programs through taxing billionaires, while opponents—especially Republicans and pro-business voices—use the idea to brand candidates as radical, anti-investment, and electorally risky; the proposal thus serves as both a mobilizing policy pledge for the left and a line of attack that can push moderates and donors away.",
+    "queries": [
+      "Is a wealth tax reasonable or not in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "student loan forgiveness",
+    "wiki_title": "student loans in the united states",
+    "summary": "Student loans are a key 2024 campaign issue: progressives and Democratic candidates argue forgiveness or expanded income-driven repayment relieves a major financial burden on younger and minority voters and promotes economic mobility, while Republicans and fiscal conservatives portray forgiveness as unfair, inflationary, and government overreach. That contrast is used to mobilize turnout, frame candidates as either pro-worker/relief-oriented or fiscally responsible, and to justify campaign promises or attacks around fairness, budgetary priorities, and the role of government.",
+    "queries": [
+      "What impact has student loan forgiveness had on 2024 election opinions?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "biden v. nebraska",
+    "wiki_title": "biden v. nebraska",
+    "summary": "The Supreme Court's Biden v. Nebraska decision is invoked in 2024 campaign debates to argue about executive authority and the administration’s ability to deliver economic relief—Republicans use it to portray Biden as an overreaching, ineffective executive while Democrats and progressives cite the ruling to press for congressional action and to blame the Court and GOP obstruction for thwarting student debt relief. It therefore shapes narratives about Biden’s competence on economic fairness, mobilizes younger/borrower voters, and fuels broader arguments over judicial power and policy solutions for college affordability.",
+    "queries": [
+      "Is biden v. nebraska justified in the 2024 election context?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "department of education",
+    "wiki_title": "list of education ministries",
+    "summary": "Opponents and supporters in the 2024 presidential race cite lists of foreign education ministries as shorthand for contrasting models: advocates for stronger federal action point to high-performing centralized ministries as templates for national standards and teacher-pay reforms, while defenders of state/local control use the diversity of international systems to argue against U.S. federalization. The list also gets weaponized in culture-war and immigration arguments—critics warn that emulating certain foreign ministries would import unwanted curricula or authoritarian oversight, whereas proponents invoke them to legitimize reforms on standards, accountability, and credential recognition.",
+    "queries": [
+      "What effects has the Department of Education had on 2024 campaigns?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "public service loan forgiveness",
+    "wiki_title": "public service loan forgiveness",
+    "summary": "In 2024 campaigns PSLF is wielded as proof of competing priorities: Democrats cite expanded PSLF and administrative fixes as evidence of protecting public servants, promoting economic fairness, and mobilizing young and public-sector voters, while Republicans use PSLF to argue against perceived bailouts and bureaucracy, pushing narratives of fiscal responsibility, fraud prevention, and tighter eligibility or repeal.",
+    "queries": [
+      "How do voters view public service loan forgiveness?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "heroes act",
+    "wiki_title": "heroes act",
+    "summary": "In 2024 campaigns the HEROES Act is often invoked by Democrats and progressive advocates as evidence that stronger federal relief and protections for essential workers and borrowers are necessary, framing opponents as indifferent to pandemic-era harms; conversely, Republicans and fiscal conservatives cite the bill as an example of excessive, inflationary Democratic spending to argue for fiscal restraint and smaller government. Its use tends to bolster narratives about which party best protects economic security and public-health preparedness, shaping voter judgments about competence and priorities.",
+    "queries": [
+      "Is the Heroes Act a reasonable COVID relief approach or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "minimum wage",
+    "wiki_title": "minimum wage",
+    "summary": "In the 2024 presidential campaign, minimum wage policy is used as a litmus test: progressives push for a $15-plus federal wage, indexing, or stronger labor protections to show commitment to working-class incomes, while Republicans and business groups portray federal increases as inflationary, job-killing overreach better handled by states or market flexibility. Candidates’ positions are also weaponized in swing-state messaging to win low‑income and suburban voters and to accuse opponents of broken promises or economic harm.",
+    "queries": [
+      "How do voters view minimum wage proposals from 2024 candidates?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "raise the wage act",
+    "wiki_title": "raise the wage act",
+    "summary": "In 2024 campaign debates the Raise the Wage Act is invoked by Democrats and progressive activists to portray candidates as pro-worker, arguing a $15 federal minimum would reduce inequality and address cost-of-living pressures; conversely, Republicans and business-aligned critics use it to frame opponents as economically irresponsible, warning of job losses, higher consumer prices, and harm to small businesses, making support or opposition a shorthand for candidates’ economic priorities and populist credibility.",
+    "queries": [
+      "Should 2024 candidates support the raise the wage act?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "fight for $15",
+    "wiki_title": "fight for $15",
+    "summary": "In the 2024 presidential campaign, Fight for $15 is invoked by progressives and labor allies to pressure Democratic candidates to promise higher federal wages and signal solidarity with low‑paid workers, shaping debates about economic inequality and voter outreach. Opponents — including Republicans and business groups — use the issue to portray such proposals as inflationary and job‑killing, turning it into a political litmus test that mobilizes both pro‑labor turnout and small‑business/swing‑voter skepticism.",
+    "queries": [
+      "How do voters view the fight for $15?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "afl–cio",
+    "wiki_title": "afl-cio",
+    "summary": "AFL‑CIO is a major mobilizer in the 2024 presidential contest, using endorsements, union turnout programs, and ads to frame the election as a referendum on workers’ rights and economic fairness—pushing pro‑union, pro‑wage, and worker‑protection policies while attacking candidates seen as favoring anti‑union or deregulatory agendas. Supporters point to its involvement as justification to back labor‑friendly candidates; critics portray it as partisan union influence trying to shape economic policy.",
+    "queries": [
+      "How do people view the afl–cio's role in 2024 politics?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "national federation of independent business",
+    "wiki_title": "national federation of independent business",
+    "summary": "In 2024 election debates NFIB is deployed by campaigns and media to signal that small‑business voters back pro‑growth, low‑regulation candidates and to justify opposition to Democratic proposals on healthcare, labor and environmental rules; critics counter that NFIB’s endorsements and litigation are used to shield business interests from consumer and worker protections and to frame regulatory rollbacks as mainstream small‑business priorities.",
+    "queries": [
+      "Is the National Federation of Independent Business endorsement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "filibuster",
+    "wiki_title": "filibuster",
+    "summary": "In 2024 campaign debates the filibuster is framed as the key Senate rule that will determine whether a president can deliver major priorities—Democrats argue scrapping or weakening it is necessary to pass voting-rights, abortion, climate and judicial reforms tied to their presidential mandates, while Republicans portray preserving it as essential to protect minority rights, prevent one-party rule, and justify blocking opposing nominees and legislation.",
+    "queries": [
+      "Is keeping the filibuster justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "debt ceiling",
+    "wiki_title": "debt limit",
+    "summary": "During the 2024 presidential campaign, the debt limit is wielded by Republicans to brand Democrats as fiscally irresponsible and to press for spending cuts or entitlement reform, while Democrats argue raising the ceiling is essential to avoid economic chaos and protect government services. Candidates and commentators use debt‑ceiling fights to frame competence and economic stewardship, shaping swing‑voter concerns about markets, interest rates, and which party can prevent a default.",
+    "queries": [
+      "Is the debt ceiling debate justified in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "house republicans",
+    "wiki_title": "house republican conference",
+    "summary": "In the 2024 presidential cycle the House Republican Conference has acted as the organized messaging arm of House GOPs—using coordinated talking points, hearings, and press events to amplify attacks on Biden (on immigration, the economy, and alleged corruption) and to justify conservative policy prescriptions that bolster Republican presidential messaging. Whether the Conference presents a united front or shows public splits over Trump and other GOP figures also shapes narratives about party legitimacy and persuades swing and base voters about which candidate or themes represent the Republican mainstream.",
+    "queries": [
+      "Are house republicans' 2024 election strategies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "house freedom caucus",
+    "wiki_title": "freedom caucus",
+    "summary": "In the 2024 presidential campaign the Freedom Caucus is invoked as a powerbroker pushing the Republican field toward pro‑Trump, nationalist and hardline positions—using endorsements, fundraising and messaging to elevate candidates who favor strict immigration limits, social conservatism and skepticism about electoral institutions. Supporters frame that influence as necessary populist discipline; opponents point to the caucus to criticize the GOP’s shift toward extremism, election-denial rhetoric, and obstructionist tactics.",
+    "queries": [
+      "Is the house freedom caucus in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "treasury department",
+    "wiki_title": "department of the treasury",
+    "summary": "In 2024 campaign debates the Treasury is invoked as the administration’s authoritative source on the economy—candidates and pundits point to its revenue reports, deficit and debt projections, and statements on inflation, sanctions, or banking interventions to argue that the incumbent has succeeded or failed at economic stewardship. Opponents also portray Treasury enforcement actions (tax audits, sanctions, student loan payment rules, crypto and banking oversight) as evidence of politicized power or regulatory overreach to justify calls for different fiscal and regulatory priorities.",
+    "queries": [
+      "What consequences might the Treasury Department’s actions have for the 2024 election?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "credit rating agencies",
+    "wiki_title": "credit rating agency",
+    "summary": "In the 2024 U.S. presidential campaign, credit rating agencies are frequently invoked as authoritative signals of fiscal credibility—warnings about downgrades or rising borrowing costs are used to justify spending cuts, tough debt‑limit stances, or attacks on an opponent’s economic plans. Critics counter that reliance on ratings privileges market‑friendly austerity, can be politically influenced, and is used to block progressive tax and spending proposals.",
+    "queries": [
+      "How do people view credit rating agencies and their election influence?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "fiscal responsibility act",
+    "wiki_title": "fiscal responsibility act",
+    "summary": "In the 2024 campaign the Fiscal Responsibility Act is routinely cited to frame candidates’ fiscal competence: supporters portray it as pragmatic leadership that averted economic crisis and imposed needed caps, while critics—both progressive Democrats and conservative Republicans—use it to argue the other side either sold out priorities or failed to deliver true spending reform. As a result, the act is used to justify calls for deficit reduction and austerity or to attack opponents for political compromise, shaping voter judgments about who can responsibly manage the national debt.",
+    "queries": [
+      "How do voters view the fiscal responsibility act?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "labor unions",
+    "wiki_title": "trade union",
+    "summary": "In the 2024 presidential campaign, trade unions are deployed as vote-mobilizing power and credibility for candidates who promise stronger collective-bargaining rights, higher wages, and pro-organizing legislation (e.g., backing Biden and the PRO Act), framing the election as a choice about workers’ economic security. Opponents counter by casting unions as partisan special interests or economic impediments and point to split endorsements from some blue‑collar and public‑sector unions to argue that union support is not monolithic.",
+    "queries": [
+      "Are labor unions' political endorsements justified in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C5-7-2",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "united auto workers",
+    "wiki_title": "united auto workers",
+    "summary": "In the 2024 presidential campaign the United Auto Workers is used as a visible symbol of organized-labor power—through strikes, endorsements and member mobilization it pressures candidates to embrace pro-union, pro-manufacturing and worker-protection policies (including wage, benefit and unionized EV supply-chain commitments). Its public posture is cited to bolster Democratic claims to working-class support and labor-friendly economic populism, while opponents use UAW activity to frame demands as special-interest or anti-business, especially in key Midwestern battlegrounds.",
+    "queries": [
+      "Are united auto workers' endorsements influential or overrated this election?"
+    ]
+  },
+  {
+    "id": "C5-7-3",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "service employees international union",
+    "wiki_title": "service employees international union",
+    "summary": "The Service Employees International Union is a major Democratic-aligned political actor in the 2024 election, using endorsements, ad campaigns and member mobilization to frame the race as a referendum on workers’ rights, wages, healthcare access and immigrant labor protections and to boost candidates who back pro‑labor policies. It also helps justify criticism of Republican candidates by highlighting anti‑union records and opposition to expanded healthcare or minimum‑wage measures, while drawing pushback from opponents who argue the union’s political spending skews member representation.",
+    "queries": [
+      "Are the service employees international union's campaign tactics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "teamsters",
+    "wiki_title": "international brotherhood of teamsters",
+    "summary": "In the 2024 presidential contest the International Brotherhood of Teamsters is cited as a consequential labor power whose endorsements, get-out-the-vote efforts, and policy demands on wages, transport, trade, and infrastructure are used by Democrats to claim pro-worker credibility and by opponents to decry union influence or special‑interest politics; commentators also point to its ground game in industrial swing states to argue that union backing can materially shape turnout and economic messaging.",
+    "queries": [
+      "Are teamsters' campaign tactics justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7-5",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "pro act",
+    "wiki_title": "pro-ip act",
+    "summary": "In the 2024 campaign the “pro‑IP” label is used to cast candidates as defenders of U.S. innovation, creators, and trade competitiveness—arguing stronger patent, copyright, and enforcement policies are needed (especially against China)—while critics use it to portray those candidates as aligned with corporate and Big Tech interests and willing to back rules that could curtail fair use, AI research, and consumer rights, making it a flashpoint in tech, trade, and civil‑liberties messaging.",
+    "queries": [
+      "How do people view the pro act in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "social identity and movements",
+    "wiki_title": "social movement",
+    "summary": "In the 2024 presidential campaign social movements are invoked to signal grassroots legitimacy or to warn of existential threats — progressive movements (abortion-rights, climate, racial-justice) frame supportive candidates as defenders of rights and mobilize turnout, while conservative movements (MAGA-aligned, religious conservatives, anti-immigration) justify hardline policies and portray opponents as dangerous. Both sides use protests, social media, and local organizing to pressure party platforms, shape media narratives, and cast rival movements as extremist or undemocratic, steering voter priorities and interpretations of candidates’ mandates.",
+    "queries": [
+      "Are the goals of social identity and movements justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "abortion rights",
+    "wiki_title": "abortion-rights movement",
+    "summary": "In the 2024 presidential campaign the abortion‑rights movement is a central mobilizing and messaging tool—Democrats and allied groups use it to criticize Republican candidates' support for post‑Dobbs restrictions, drive turnout and fundraising, and target swing‑state and suburban voters. Republicans counter by framing the movement as extreme or federal overreach, making candidates' abortion stances a litmus test for judicial appointments and a focal point in persuading independents and shaping down‑ballot races.",
+    "queries": [
+      "Are abortion rights positions by candidates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-1",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "dobbs decision",
+    "wiki_title": "dobbs v. jackson women's health organization",
+    "summary": "The Dobbs decision is a central flashpoint in 2024 campaign messaging: Democrats cite it to portray Republican governance as an assault on reproductive rights and to argue for federal protections and voter mobilization, while Republicans invoke Dobbs to defend states’ authority and energize the pro‑life base, with many GOP candidates balancing appeals to conservative activists against efforts to reassure swing voters.  It also feeds broader narratives about judicial power and legitimacy that campaigns use to criticize or justify both parties’ nominees and policy priorities.",
+    "queries": [
+      "How do voters view the Dobbs decision?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "trigger laws",
+    "wiki_title": "trigger law",
+    "summary": "In 2024 campaign debates, proponents of conservative candidates point to state trigger laws as evidence that court or electoral wins would immediately restore strict abortion bans and shift authority back to states; this is used to justify voting for judges and GOP policies. Opponents counter that trigger laws are premeditated tools to strip reproductive rights, framing the election as a high-stakes referendum that should mobilize voters and justify federal protections or intervention.",
+    "queries": [
+      "What effects might trigger laws have on the 2024 election?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "texas sb8",
+    "wiki_title": "texas heartbeat act",
+    "summary": "In 2024 campaign rhetoric the Texas Heartbeat Act is deployed by Democrats to paint Republican nominees as endorsing extreme abortion restrictions and to mobilize pro‑choice voters, while Republicans point to it as a concrete pro‑life achievement and an example of states’ rights. It also sharpens critiques over judicial strategy and the Supreme Court—framing candidate credibility on appointments, litigation tactics, fundraising and messaging around reproductive rights.",
+    "queries": [
+      "How do people view texas sb8 and its impact on turnout?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "mifepristone",
+    "wiki_title": "mifepristone",
+    "summary": "Mifepristone is invoked in 2024 campaign debates as a concrete proxy for abortion policy: Democrats use efforts to protect its availability to argue for defending reproductive rights and federal regulatory authority, while Republicans frame restrictions, litigation, or FDA-oversight criticism as part of a broader push to limit medication abortion — with competing safety claims and misinformation used to mobilize voters on both sides.",
+    "queries": [
+      "Is access to mifepristone reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "evangelical christians",
+    "wiki_title": "list of evangelical christians",
+    "summary": "Lists of evangelical Christians (endorsements, leader statements, or polling tallies) are repeatedly cited in 2024 election coverage and campaign messaging to claim moral legitimacy or repudiation for candidates—often to bolster conservative positions like pro‑life, religious‑liberty, and traditional‑family policies. Opponents and journalists also use such lists to portray fractures within the evangelical bloc, challenge a candidate’s authenticity, or argue that faith leaders are enabling or opposing authoritarian tendencies.",
+    "queries": [
+      "Is evangelical Christians' political influence in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "franklin graham",
+    "wiki_title": "franklin graham",
+    "summary": "In 2024 discourse Franklin Graham is cited by conservative and pro-Trump voices to cast the election as a moral struggle—urging evangelical turnout around abortion, religious liberty, and opposition to LGBTQ+ agendas—while opponents use his partisan rhetoric and high-profile platform to criticize the politicization of evangelical leadership and to argue that charitable credibility is being leveraged to influence the vote.",
+    "queries": [
+      "How do people view Franklin Graham’s endorsements this election cycle?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Anti-abortion movements have been a driving force in 2024 campaign messaging by mobilizing conservative voters, endorsing and pressuring candidates who promise tighter abortion restrictions or favorable judicial appointments, and framing the election as a referendum on fetal rights. They attack and seek to delegitimize pro‑choice candidates and policies, shape fundraising and turnout in key states, and elevate abortion policy and Supreme Court picks as decisive voter issues.",
+    "queries": [
+      "Is the pro-life movement’s influence on the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "christian nationalism",
+    "wiki_title": "christian nationalism",
+    "summary": "In the 2024 U.S. presidential campaign, proponents invoke Christian nationalism to frame candidates as defenders of a Christian moral order—used to justify policies limiting abortion and LGBTQ+ rights, expanding religious exemptions, and shaping immigration and education agendas. Opponents deploy the label to warn that those appeals mask exclusionary, nativist, or anti-democratic aims that threaten religious pluralism and civic equality.",
+    "queries": [
+      "How do people view christian nationalism in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "In the 2024 presidential campaign, Black Lives Matter-related activism is invoked by progressive campaigns and advocates to push candidates toward policing and criminal‑justice reforms, voting‑rights protections, and racial‑equity pledges and to mobilize Black and younger voters, while conservative candidates and commentators use BLM imagery and events to justify tough 'law-and-order' policies and to portray opponents as soft on crime or radical. Its visibility and decentralized organizing shape narratives about candidate credibility, turnout, endorsements, and policy priorities across the election.",
+    "queries": [
+      "Is Black Lives Matter’s influence in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "george floyd protests",
+    "wiki_title": "george floyd protests",
+    "summary": "In the 2024 presidential campaign, the George Floyd protests are routinely invoked by Democrats to justify policing reform, racial-justice initiatives, and to mobilize Black and progressive turnout, while Republicans use them to argue for “law-and-order” policies, oppose defunding or progressive policing changes, and sway suburban/swing voters worried about crime—shaping debates and policy positions on policing, public safety, accountability, and civil unrest.",
+    "queries": [
+      "Are the george floyd protests justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "defund the police",
+    "wiki_title": "defund the police",
+    "summary": "During the 2024 presidential campaign, opponents deploy “defund the police” as a potent attack line to portray Democratic or progressive candidates as soft on crime and to mobilize conservative and swing voters around law-and-order themes, while progressives invoke the phrase to press for shifting resources to social services and policing reforms—prompting mainstream Democrats to distance themselves or clarify policies to avoid alienating moderates.",
+    "queries": [
+      "How do voters view defund the police in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "voting rights",
+    "wiki_title": "suffrage",
+    "summary": "Debates about suffrage in the 2024 U.S. presidential election center on who is allowed to vote and how—fueling fights over voter ID requirements, mail‑in and early voting rules, roll purges, and restoration of felon voting rights. Pro‑access groups portray expanded voting measures as safeguarding democracy and increasing turnout among young and minority voters, while opponents frame restrictions as necessary to prevent fraud and protect election integrity.",
+    "queries": [
+      "How do people view voting rights debates ahead of 2024?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "fraternal order of police",
+    "wiki_title": "national fraternal order of police",
+    "summary": "In the 2024 presidential campaign the national Fraternal Order of Police is used as both a credential and a cudgel: its endorsements, PAC spending, and public statements are deployed to bolster candidates who promise tougher law‑and‑order policies and to attack rivals portrayed as soft on crime. Its advocacy typically supports more policing funding and resists major accountability or “defund the police” reforms, and campaigns cite the group to signal credibility to law‑enforcement families and conservative-leaning voters.",
+    "queries": [
+      "Is criticism of the fraternal order of police justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-7",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "mass incarceration",
+    "wiki_title": "incarceration in the united states",
+    "summary": "In the 2024 presidential campaign, debates over incarceration are used to frame competing narratives: conservatives emphasize rising crime and a \"law-and-order\" stance—arguing for tougher sentencing, more police support, and accountability for prosecutors—while progressives highlight mass incarceration, racial disparities, and reentry failures to push for decarceration, sentencing reform, and community-based alternatives. The topic is also wielded to mobilize affected communities and to attack or defend candidates' records on policing, clemency, and criminal-justice policy, shaping ballots around safety versus justice priorities.",
+    "queries": [
+      "How do voters view mass incarceration as a 2024 campaign issue?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "hispanic voters",
+    "wiki_title": "hispanic and latino americans",
+    "summary": "Hispanic and Latino Americans are cast in 2024 election debates as a pivotal, heterogeneous swing bloc whose turnout and subgroup shifts (e.g., Cuban‑American, Mexican‑American, Puerto Rican) are used to justify targeted messaging and policy positions on immigration, the economy, and social issues. Campaigns and commentators either claim Latino gains validate GOP emphasis on economic/security themes or criticize both parties for stereotyping and pandering, stressing internal diversity that undermines one-size-fits-all appeals.",
+    "queries": [
+      "Is outreach to hispanic voters effective in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "unidosus",
+    "wiki_title": "unidosus",
+    "summary": "UnidosUS is frequently cited in 2024 campaign coverage as a leading Latino advocacy group that mobilizes Latino voters and endorses pro‑immigrant, voting‑rights, and progressive policy positions, using those frames to portray the election as consequential for immigrant communities and racial equity. Opponents often criticize or dismiss its interventions as partisan organizing, using UnidosUS’s analyses and endorsements to argue that Democrats are courting identity‑based coalitions or to contest claims about barriers to voting and candidate support.",
+    "queries": [
+      "Is unidosus’s involvement in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "transgender rights",
+    "wiki_title": "legal status of transgender people",
+    "summary": "In the 2024 presidential campaign, the legal status of transgender people is wielded as a cultural wedge: opponents use it to justify restrictions on gender-affirming care, sports participation, and school policies under banners of parental/religious freedom, while supporters cast it as a civil‑rights test calling for federal protections and nondiscrimination — a framing that candidates use to signal values, attack records, and mobilize religious conservatives, LGBTQ+ voters, and younger cohorts.",
+    "queries": [
+      "Is prioritizing transgender rights reasonable or not among 2024 candidates?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "gender-affirming care bans",
+    "wiki_title": "legal status of gender-affirming healthcare",
+    "summary": "The legal status of gender-affirming healthcare is used as a culture‑war wedge in the 2024 presidential campaign—Republican-aligned messaging frames bans or limits (especially for minors) as protecting children, parental rights, and states’ authority, while Democratic messaging frames restrictions as discriminatory, harmful to transgender youth, and a test of a candidate’s commitment to civil rights. It appears in ads, debates, and mobilization efforts to both energize bases and sway swing voters concerned about schools, family values, and judicial/administrative power over health policy.",
+    "queries": [
+      "Are gender-affirming care bans reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "transgender athletes",
+    "wiki_title": "transgender people in sports",
+    "summary": "In the 2024 campaign, transgender participation in sports has been weaponized by conservative candidates and commentators to mobilize voters with messages about protecting women’s sports, parental rights, and public safety, while characterizing Democrats as soft on rules. Democrats and LGBTQ+ advocates frame bans as discriminatory and politically driven, making the issue a cultural-wedge topic that shapes turnout, positions on Title IX/judicial appointments, and broader debates about civil rights and education policy.",
+    "queries": [
+      "How do people view transgender athletes competing in school and college sports?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "florida parental rights act",
+    "wiki_title": "florida parental rights in education act",
+    "summary": "The Florida parental rights in education act is frequently cited in 2024 campaign rhetoric as a culture‑war litmus test—Republican candidates invoke it to rally conservative, religious, and parent-focused voters by framing schools as zones for parental control, while Democrats use it to argue that Republicans promote discriminatory, anti‑LGBTQ policies and to mobilize younger, suburban, and civil‑rights‑minded swing voters and donors.",
+    "queries": [
+      "Is the florida parental rights act reasonable in the 2024 presidential election?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "human rights campaign",
+    "wiki_title": "human rights campaign",
+    "summary": "Human-rights campaigning in the 2024 election is frequently used to cast the race as a referendum on protections for marginalized groups—particularly LGBTQ+, immigrant, and reproductive rights—informing endorsements, voter-mobilization appeals, and media narratives. Activists and organizations invoke human-rights arguments to press candidates for stronger anti-discrimination policies and to criticize or warn against contenders portrayed as likely to roll back civil liberties.",
+    "queries": [
+      "How do people view the human rights campaign in 2024?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "maga movement",
+    "wiki_title": "trumpism",
+    "summary": "In the 2024 presidential campaign, proponents invoke trumpism to justify a hardline America First agenda—tight immigration controls, protectionist trade policies, and strong executive action—and to rally voters by casting Trump as the outsider fighting a corrupt establishment. Opponents use the term to portray his candidacy as a threat to democratic norms and the rule of law, mobilizing moderates, independents, and anti‑Trump Republicans to block a return to what they describe as authoritarian tendencies.",
+    "queries": [
+      "Is the maga movement's influence on the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "proud boys",
+    "wiki_title": "proud boys",
+    "summary": "In 2024 election debates the Proud Boys are invoked by critics to link Trump-aligned politics to political violence and to justify aggressive prosecutions, platform bans, and arguments about protecting democratic norms; supporters of Trump or free-speech claims use Proud Boys prosecutions and deplatforming to portray partisan persecution and bolster narratives of government overreach and election illegitimacy. These opposing framings shape voter concerns about public safety, candidate fitness, and the appropriate role of law enforcement and tech companies in electoral politics.",
+    "queries": [
+      "Is backing the proud boys justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "planned parenthood",
+    "wiki_title": "planned parenthood",
+    "summary": "Planned Parenthood is a frequent proxy in 2024 campaign messaging: Democrats and pro‑choice groups cite it to mobilize voters, justify support for candidates who pledge to protect abortion access and federal funding, and frame Republican proposals as threats to reproductive health, while Republicans and pro‑life advocates use it to argue for defunding, stricter abortion limits, and to criticize opponents’ records on abortion.",
+    "queries": [
+      "Do voters see Planned Parenthood’s involvement as justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "susan b. anthony list",
+    "wiki_title": "susan b. anthony",
+    "summary": "Susan B. Anthony’s image and legacy are invoked in 2024 election debates as a shorthand for women’s suffrage and political empowerment to mobilize voters against perceived attacks on voting rights and reproductive freedom. Her name is also controversially claimed by some anti‑abortion advocates to support pro‑life arguments—a contested historical reading that opponents say is used to reframe her legacy for contemporary policy fights.",
+    "queries": [
+      "Is susan b. anthony list’s involvement in the 2024 election justified?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and judicial battles",
+    "wiki_title": "judicial activism",
+    "summary": "In the 2024 campaign, accusations of judicial activism are used by both parties to define the stakes of Supreme Court picks and recent rulings—Republicans invoke “liberal activism” to justify conservative nominees and block Democratic policies, while Democrats warn that conservative activism endangers abortion rights, voting protections, and other precedents to mobilize voters and oppose candidates who promise ideologically driven judges. The phrase also frames debates over court‑packing, post‑election litigation strategies, and nominees’ commitment to precedent, influencing whether voters see candidates as defending the rule of law or seeking to remake it through the courts.",
+    "queries": [
+      "How do people view the legal and judicial battles during the campaign?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "georgia rico case",
+    "wiki_title": "georgia rico (racketeer influenced and corrupt organizations) act",
+    "summary": "The Georgia RICO charges against Trump and associates are used in 2024 campaign debates as proof either that prosecutors are legitimately holding a candidate accountable for efforts to overturn 2020 or that state law is being weaponized to block his election, fueling claims of persecution.  That framing shapes voter attitudes about election legitimacy, prosecutorial power, and policies on pardons, legal reforms, or state-level election enforcement depending on partisan alignment.",
+    "queries": [
+      "Is the georgia rico case justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "presidential pardon",
+    "wiki_title": "pardon",
+    "summary": "Discussion of pardons—especially talk of preemptive pardons for allies, January 6 participants, or even a self-pardon by Donald Trump—drives 2024 election debate by allowing critics to portray him as seeking impunity and undermining the rule of law, while supporters frame pardons as legitimate remedies against partisan prosecutions or necessary clemency; these opposing narratives shape voter concerns about accountability, norm erosion, and justice.",
+    "queries": [
+      "What effects has a presidential pardon had on voter opinions?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "campaign fundraising",
+    "wiki_title": "fundraising",
+    "summary": "In the 2024 presidential race, fundraising totals and donor composition are wielded as shorthand for viability and grassroots enthusiasm—small-dollar, recurring gifts are promoted as proof of popular momentum while big-money and Super PAC support is used to argue candidates are beholden to wealthy interests. Those contrasts drive public debates and attacks over transparency and corruption, sharpening calls for campaign-finance reform or, conversely, defenses that limits would curb political speech.",
+    "queries": [
+      "Is campaign fundraising in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-8",
+    "parent": "C7",
+    "level": 3,
+    "topic": "january 6 committee",
+    "wiki_title": "january 6th committee",
+    "summary": "In the 2024 campaign the January 6th Committee is frequently cited by opponents to portray Trump as legally culpable and a threat to democratic norms, underpinning arguments for accountability, voter opposition, and tougher election-security or disqualification measures. Conversely, his supporters frame the committee as a partisan witch‑hunt used to delegitimize his candidacy, energizing base defenses and shaping contested narratives about legitimacy and the rule of law.",
+    "queries": [
+      "Is the january 6 committee's investigation justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "jack smith",
+    "wiki_title": "jack smith",
+    "summary": "As the special counsel who brought high-profile charges related to January 6 and classified documents, Jack Smith is invoked in 2024 election debates both as evidence that the rule of law can hold powerful politicians accountable—used by critics to justify opposing Donald Trump—and as proof of a politicized, weaponized Justice Department—used by Trump's supporters to delegitimize prosecutions and rally turnout. His actions intensify disputes over DOJ independence, candidate fitness, ballot eligibility, and whether criminal charges should influence voters' judgments of legitimacy.",
+    "queries": [
+      "Is Jack Smith's role in the 2024 election investigations justified?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "special counsel",
+    "wiki_title": "special counsel",
+    "summary": "Special counsel appointments and demands are a frequent framing tool in the 2024 campaign: investigations into Trump and calls for probes into Biden-related matters are used by opponents to argue candidates are corrupt or unfit and by allies to decry partisan weaponization of the Justice Department. Debates over whether to appoint special counsels thus feed broader narratives about accountability, DOJ impartiality, and calls for institutional reform, shaping voter perceptions of legitimacy and fairness.",
+    "queries": [
+      "Is the special counsel’s role in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "mar-a-lago search",
+    "wiki_title": "mar-a-lago",
+    "summary": "In the 2024 election, Mar‑a‑Lago is invoked as a shorthand in public arguments—critics point to the FBI search and classified‑documents inquiries connected to the site to argue Trump poses legal, ethical and national‑security risks, while supporters describe scrutiny of the property as partisan persecution and use it as a high‑profile fundraising and campaign venue that reinforces his wealth, influence, and loyal base.",
+    "queries": [
+      "What political effects could the mar-a-lago search have in 2024?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "fulton county indictment",
+    "wiki_title": "fulton county, georgia",
+    "summary": "Fulton County is frequently invoked in 2024 campaign debates as the Georgia jurisdiction that brought high-profile indictments tied to efforts to overturn the 2020 result; critics use its prosecutions to argue Trump faces politically motivated lawfare and to cast doubt on prosecutorial impartiality, while opponents point to Fulton County as evidence of accountability for attempts to subvert elections and as justification for opposing Trump and supporting reforms on election integrity and prosecutorial oversight.",
+    "queries": [
+      "Is the fulton county indictment justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "fani willis",
+    "wiki_title": "fani willis",
+    "summary": "In 2024 election discourse, opponents of Trump cite Willis’s prosecutions as evidence that legal accountability is necessary for alleged efforts to subvert Georgia’s 2020 result, while his supporters use her as an example of partisan weaponization of the justice system meant to undermine his campaign. Her contested conduct and legal controversies are repeatedly invoked to shape arguments about election integrity, prosecutorial ethics, and whether courtroom actions should influence voter perceptions and behavior.",
+    "queries": [
+      "How do people view fani willis in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "rico act",
+    "wiki_title": "racketeer influenced and corrupt organizations act",
+    "summary": "In 2024 campaign rhetoric RICO is frequently invoked to frame prosecutions tied to January 6 and alleged coordinated election subversion—proponents present it as an essential tool to dismantle organized schemes that threatened democracy, while opponents portray its use as politically weaponized overreach that criminalizes coordination and is being wielded to silence rivals, fueling calls either for tougher enforcement or for limits on prosecutorial power.",
+    "queries": [
+      "How do people view the RICO Act being applied politically?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "rudy giuliani",
+    "wiki_title": "rudy giuliani",
+    "summary": "Rudy Giuliani is often invoked in 2024 election debates as a high-profile emblem of the post‑2020 Trump era: allies lean on his outspoken claims about election irregularities and visible loyalty to bolster arguments for contesting results, while critics use his legal controversies and role in spreading falsehoods to warn that the Trump coalition erodes democratic norms and trust in elections.",
+    "queries": [
+      "Is rudy giuliani's involvement in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "In coverage of the 2024 United States presidential election, references to a justice ministry or its U.S. equivalent (the Department of Justice/Attorney General) are used to argue over accountability and electoral integrity—supporters of investigations present DOJ actions as needed to enforce the law against candidates, while opponents frame the same actions as partisan weaponization. Those disputes fuel calls for policy changes (special counsels, limits on prosecutorial discretion, or stronger independence protections) and shape voters’ trust in whether the legal system will be fair in adjudicating election-related claims.",
+    "queries": [
+      "What consequences could the department of justice's decisions have for 2024 outcomes?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "merrick garland",
+    "wiki_title": "merrick garland",
+    "summary": "Garland is a focal point in 2024 election debates: critics accuse his DOJ of prosecutorial slowness or politicized inaction that they say prevented timely accountability for Trump and may have affected voters, while supporters argue his caution reflected a commitment to legal norms and insulating prosecutions from electoral pressure. Republicans often cite his tenure to demand investigations or reforms, whereas Democrats and rule‑of‑law advocates defend his choices as necessary to avoid the appearance of election‑timed law enforcement.",
+    "queries": [
+      "Are Merrick Garland’s decisions about election prosecutions justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "presidential immunity",
+    "wiki_title": "absolute immunity",
+    "summary": "In 2024 election debates, supporters of candidates facing investigations often invoke absolute immunity to frame prosecutions as illegitimate political attacks that would hamstring the presidency, while opponents argue that invoking sweeping immunity would excuse election-related or corrupt conduct and mobilize voters worried about accountability and the rule of law.",
+    "queries": [
+      "How do people view presidential immunity for candidates?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "nixon v. fitzgerald",
+    "wiki_title": "nixon v. fitzgerald",
+    "summary": "In 2024 campaign debates Nixon v. Fitzgerald is frequently cited by allies of Donald Trump to argue that civil suits for official presidential acts are legally barred, framing ongoing lawsuits as politically motivated attacks on the office. Opponents use the case to criticize presidential immunity as a barrier to accountability—especially around Jan. 6 and other contested acts—fueling calls for narrower immunity doctrines, legislative fixes, or alternative mechanisms to hold presidents responsible.",
+    "queries": [
+      "Is nixon v. fitzgerald still reasonable for 2024 presidential accountability?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "clinton v. jones",
+    "wiki_title": "clinton v. jones",
+    "summary": "Clinton v. Jones is invoked in 2024 debates to argue that a sitting president can be subject to civil suits for private conduct, reinforcing accountability narratives that legal actions against candidates (notably Trump) are legitimate and may proceed while in office. Opponents point to the case’s limits to claim such litigation should not impede presidential duties or be used as a political tool to disqualify or handicap a campaign.",
+    "queries": [
+      "How do people view clinton v. jones today?"
+    ]
+  },
+  {
+    "id": "C7-6-8",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "alvin bragg",
+    "wiki_title": "alvin bragg",
+    "summary": "Bragg’s prosecution of the former president is a recurring wedge issue in 2024: conservatives use it to argue the justice system is politicized and to energize the GOP base, while Democrats and accountability advocates present it as necessary enforcement of the rule of law that raises questions about the candidate’s fitness, shaping campaign messaging, turnout, and debates over prosecutorial independence.",
+    "queries": [
+      "Is Alvin Bragg's role in the 2024 election appropriate or not?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "14th amendment",
+    "wiki_title": "fourteenth amendment to the united states constitution",
+    "summary": "In the 2024 campaign the Fourteenth Amendment—most visibly its insurrection‑disqualification provision—has been cited by Democrats, advocacy groups, and some state officials as a legal and moral basis for seeking to bar Donald Trump from ballots, while his supporters call such moves partisan overreach and argue disqualification is a matter for Congress or state law.  The amendment’s equal‑protection principles are also deployed in litigation and public debate over voter access, purge practices, and ballot‑access rules that critics say could tilt the presidential outcome.",
+    "queries": [
+      "Is invoking the 14th amendment against candidates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7-4",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "ballot access lawsuits",
+    "wiki_title": "ballot access",
+    "summary": "In the 2024 presidential race, state ballot-access rules have fueled controversy over which candidates appear — shaping high-profile fights over independent/third-party bids (e.g., RFK Jr., Cornel West) and legal challenges to disqualify or reinstate major figures — and driving media narratives about fairness and legitimacy. Supporters of strict rules frame them as necessary to prevent frivolous candidacies and administrative chaos, while critics argue they entrench the two-party duopoly, suppress competition, and can be used to influence electoral outcomes.",
+    "queries": [
+      "Are ballot access lawsuits justified or not in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign policy and security",
+    "wiki_title": "foreign policy",
+    "summary": "In the 2024 campaign, foreign policy—focused on Ukraine/Russia, China competition, and the Israel–Hamas war—is used to cast candidates as either protectors of U.S. leadership or as dangerous interventionists, shaping claims about competence, national security, and moral credibility. Republicans often deploy it to argue for tougher deterrence, energy independence, and military spending while Democrats emphasize multilateralism, targeted aid, and human-rights obligations, with both sides weaponizing records to mobilize constituencies (veterans, diaspora groups) or paint opponents as weak or reckless.",
+    "queries": [
+      "How do voters view foreign policy and security in this election?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8",
+    "level": 3,
+    "topic": "presidential debates",
+    "wiki_title": "presidential debate",
+    "summary": "In the 2024 U.S. presidential campaign, televised debates are treated as shorthand evidence of a candidate’s competence, temperament, and electability, with campaigns and media using live performance and short clips to bolster claims about policy clarity, mental acuity, or readiness for office. They’re also a focal point for procedural and fairness arguments—who gets to participate, moderator bias, and format rules—so supporters trumpet strong moments as momentum while opponents amplify gaffes or evasions to delegitimize rivals or push rule changes.",
+    "queries": [
+      "How do people view the role of presidential debates?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "nato",
+    "wiki_title": "nato",
+    "summary": "In the 2024 campaign, NATO is used as a shorthand for candidates’ credibility on national security — Democrats and pro‑alliance voices point to strong support for NATO and aid to Ukraine as evidence of U.S. leadership and deterrence, while Trump and isolationist/populist critics invoke skepticism about NATO to argue for reduced commitments, less foreign aid, and tougher burden‑sharing; the result is a public debate over alliance reliability, defense spending, and whether the U.S. should reinforce or retrench its global role.",
+    "queries": [
+      "Is U.S. support for NATO in the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "finland nato accession",
+    "wiki_title": "finland–nato relations",
+    "summary": "Finland–NATO relations are used in 2024 campaign rhetoric as a lightning‑rod for candidates’ foreign‑policy credibility: proponents point to Finland’s accession as proof that strong U.S. leadership and NATO cohesion deter Russian aggression and justify continued military support for Ukraine and allies, while critics frame it as either evidence of dangerous NATO expansionism that could escalate confrontation with Russia or as a contrast to isolationist candidates who would undermine allied security.",
+    "queries": [
+      "Is Finland NATO accession relevant to the 2024 United States presidential election?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "defense spending",
+    "wiki_title": "military budget",
+    "summary": "In the 2024 U.S. presidential campaign the military budget is used as shorthand for national-security credibility—Republicans and hawkish Democrats cite larger defense spending and foreign aid (Ukraine, Israel, China deterrence) to portray toughness, while progressives and some fiscal conservatives argue high Pentagon outlays are wasteful and should be redirected to domestic needs. Debates over procurement, aid levels, nuclear modernization and Pentagon efficiency are deployed to frame candidates as either responsible protectors or as prioritizing military industry over social and economic priorities.",
+    "queries": [
+      "How do people view candidates' plans for defense spending?"
+    ]
+  },
+  {
+    "id": "C8-3-7",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "article 5",
+    "wiki_title": "article five",
+    "summary": "In debate over the 2024 presidential contest, advocates sometimes invoke Article Five as a proposed constitutional route—via a convention of states—to change election rules, bar or limit candidates, or alter the Electoral College to influence outcomes. Supporters frame it as a lawful fix when they distrust the electoral system, while critics and many legal scholars warn it is legally fraught, impractical, and could be used as an undemocratic means to override voters.",
+    "queries": [
+      "How do people view article 5's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "china–united states relations",
+    "wiki_title": "china–united states relations",
+    "summary": "China–U.S. relations are used in the 2024 campaign as a foil to argue for economic nationalism, industrial policy, supply‑chain resilience and tougher tech and military stances, with candidates citing Beijing to justify tariffs, industrial subsidies, or strengthened alliances. Republicans often cast Democrats as weak on China or responsible for lost manufacturing, while Democrats accuse Republicans of reckless brinkmanship or cozy business ties, making China a convenient rallying point for claims about national security and presidential competence.",
+    "queries": [
+      "How do voters view china–united states relations in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "xi jinping",
+    "wiki_title": "xi jinping",
+    "summary": "In 2024 campaign debates Xi Jinping is used as the archetype of an assertive, authoritarian China to frame the election as a choice over how to respond — Democrats invoke Xi to warn that Trump’s praise of or perceived coziness with Beijing would undermine U.S. leadership and democracy, justifying alliances, export controls, and industrial policy; Trump and many Republicans counter by portraying Biden as weak on China, using Xi to argue for stronger deterrence, tougher economic measures, and critiques of Democratic China policy as ineffective or harmful to U.S. jobs and sovereignty.",
+    "queries": [
+      "How do people view xi jinping’s role in U.S. voter perceptions?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "taiwan",
+    "wiki_title": "taiwan",
+    "summary": "In the 2024 contest Taiwan is invoked as a test of U.S. China policy and credibility—candidates and commentators use Taiwan to argue for either stronger deterrence and defense support (emphasizing semiconductor supply chains and defending democracy) or to criticize the incumbent for risking escalation and entangling America abroad. Republican attacks often frame Biden as weak or inconsistent, while Democrats cast Trump-era rhetoric and some GOP isolationists as dangerous or irresponsible, shaping voter views on national security, trade resilience, and global leadership.",
+    "queries": [
+      "Is U.S. policy toward Taiwan a reasonable 2024 election issue?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "huawei",
+    "wiki_title": "huawei",
+    "summary": "In the 2024 presidential campaign, Huawei is frequently invoked as a shorthand for the China tech-threat—used by hawks to justify tougher export controls, 5G bans, industrial policy, and broader ‘‘decoupling’’ from China. Opponents frame those attacks as politically expedient or protectionist, arguing harsher measures can harm U.S. firms, strain alliances, or be used to attack incumbents’ China policy (particularly the Biden administration) as weak or inconsistent.",
+    "queries": [
+      "How do people view huawei’s role in national security debates?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "chip export controls",
+    "wiki_title": "chip war",
+    "summary": "In the 2024 campaign the \"chip war\" is invoked as evidence of whether candidates can defend U.S. national-security and economic leadership — incumbents point to the CHIPS Act and subsidies as proof of jobs creation and supply‑chain resilience, while critics paint such interventions as costly, protectionist, or poorly managed. It therefore frames debates over China policy, trade and export controls, bolstering advocates of reshoring and tougher tech restrictions while giving free‑trade proponents a platform to warn about economic fallout and escalation.",
+    "queries": [
+      "How do people view chip export controls amid 2024 presidential campaigns?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "trade war",
+    "wiki_title": "trade war",
+    "summary": "In the 2024 campaign, “trade war” is deployed as shorthand for a candidate’s toughness on China and for tariff-driven economic nationalism—used by proponents to justify protectionist measures as necessary to save American manufacturing and by critics to argue such policies raise costs, harm supply chains, and strain alliances. Debates and ads lean on the term to cast rivals either as defenders of U.S. jobs or as reckless promoters of inflation and geopolitical risk.",
+    "queries": [
+      "What consequences could a trade war bring for 2024 candidates?"
+    ]
+  },
+  {
+    "id": "C8-4-7",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "xinjiang human rights",
+    "wiki_title": "un human rights office report on xinjiang",
+    "summary": "Campaigns and commentators cite the UN Human Rights Office report on Xinjiang to demand tougher U.S. China policy—using its findings to justify sanctions, trade and tech restrictions, and to paint rivals as soft on authoritarian abuses—while opponents sometimes dismiss or question the report’s conclusions to argue for pragmatic engagement and to accuse adversaries of politicizing human-rights claims for electoral gain.",
+    "queries": [
+      "What consequences could xinjiang human rights emphasis have in 2024?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "u.s. aid to ukraine",
+    "wiki_title": "military aid to ukraine during the russo-ukrainian war",
+    "summary": "Military aid to Ukraine is a frequent foil in 2024 campaign rhetoric—Republican challengers and MAGA-aligned voices frame it as wasteful, corrupt, or evidence of elite globalism that distracts from domestic priorities and justifies cutting foreign commitments, while Democrats and many foreign-policy hawks defend it as essential to deterring Russia, upholding NATO, and signaling U.S. leadership. Those opposing or supporting aid use it to question presidential competence, national-security credibility, and corruption narratives (e.g., “Ukraine-gate”), shaping voters’ attitudes toward isolationist vs. internationalist policy choices and influencing turnout in key constituencies.",
+    "queries": [
+      "Is u.s. aid to ukraine justified in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "volodymyr zelenskyy",
+    "wiki_title": "volodymyr zelenskyy",
+    "summary": "In the 2024 U.S. presidential campaign Zelenskyy is often invoked as a living symbol of the Ukraine war to justify continued U.S. military and financial support and to bolster candidates portrayed as defenders of democracy and NATO (frequently used to support Biden’s foreign-policy record). Conversely, critics and isolationist commentators cite Zelenskyy to argue against further entanglement, to paint rivals as either weak or improperly influenced by foreign interests, or to accuse pro-aid advocates of politicizing a foreign leader, shaping voter attitudes on national security and priorities.",
+    "queries": [
+      "Is Volodymyr Zelenskyy’s influence on U.S. voters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "mike johnson",
+    "wiki_title": "mike johnson",
+    "summary": "In 2024 election debates Johnson is often invoked by critics as proof the GOP has embraced Trump-aligned election-denial and an aggressive social‑conservative agenda—used to warn that a Republican victory would threaten electoral norms and expand abortion and culture‑war restrictions—while supporters cite him to legitimize hardline conservative governance and frame Democratic critiques as partisan attacks.",
+    "queries": [
+      "Are Mike Johnson’s policy positions acceptable to mainstream Republican voters?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "sanctions on russia",
+    "wiki_title": "sanctions involving russia",
+    "summary": "References to sanctions involving Russia are used in 2024 campaign debates to signal candidates’ foreign‑policy credibility—supporters use them to argue a nominee will deter aggression and protect allies, while critics portray them as costly, ineffective, or evidence of candidates being soft or even compromised by Russian interests. Discussions of sanctions therefore frequently frame policy splits (tough sanctions vs. engagement or relief) and feed narratives about national security competence, economic impacts (energy and trade), and potential foreign influence on contenders.",
+    "queries": [
+      "Are sanctions on russia in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "israel–hamas war",
+    "wiki_title": "gaza war",
+    "summary": "During the 2024 U.S. presidential campaign the Gaza war became a litmus test for candidates’ foreign-policy and moral credibility — conservatives and pro‑Israel backers invoke steadfast military and diplomatic support as a national‑security imperative, while progressives and human‑rights advocates use the conflict to press for ceasefires, limits or conditions on U.S. aid and accountability for alleged abuses. Those competing frames are deployed to mobilize or alienate Jewish, Arab, Muslim and younger voters, to attack opponents’ judgment, and to shape positions on aid, refugee policy, and human‑rights oversight.",
+    "queries": [
+      "Is candidate emphasis on the israel–hamas war reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "benjamin netanyahu",
+    "wiki_title": "benjamin netanyahu",
+    "summary": "During the 2024 U.S. presidential campaign, Netanyahu is invoked by Trump-aligned voices as proof of a strong pro‑Israel, hawkish foreign‑policy stance—used to mobilize conservative, evangelical, and pro‑Israel Jewish voters and justify robust military support. Opponents point to his controversial wartime conduct, perceived democratic backsliding, and international legal scrutiny to attack candidates who offer unconditional backing and to advocate for conditioning U.S. aid on human‑rights and restraint.",
+    "queries": [
+      "How do people view benjamin netanyahu's role in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "aipac",
+    "wiki_title": "aipac",
+    "summary": "In the 2024 presidential campaign AIPAC is invoked as a litmus test for candidates’ Israel policies—used by supporters to justify robust, bipartisan military and diplomatic backing for Israel and by critics to argue that its fundraising and lobbying push politicians toward uncritical, hawkish stances during the Israel–Hamas war. References to AIPAC and its PAC activity are deployed to question candidates’ independence, rally pro‑Israel donors, and to cast opponents as either insufficiently supportive of Israel or unduly influenced by a powerful pro‑Israel lobby.",
+    "queries": [
+      "Is AIPAC’s influence on the 2024 election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "pro‑palestine protests",
+    "wiki_title": "pro-palestine protests at massachusetts institute of technology",
+    "summary": "Pro-Palestine protests at MIT are invoked in 2024 election debates to argue either that Democrats must heed progressive youth demands for a U.S. ceasefire and tougher human-rights conditions on Israel, or that Democratic leaders tolerate campus unrest and antisemitism — a line Republicans use to question Democrats’ law-and-order credentials and appeal to Jewish and moderate voters. Progressives, meanwhile, cite the demonstrations to mobilize young voters and pressure candidates to adopt more pro‑Palestinian or conditional foreign‑aid positions.",
+    "queries": [
+      "How do voters view pro-palestine protests in the 2024 election?"
+    ]
+  },
+  {
+    "id": "C8-6-7",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "jewish american voters",
+    "wiki_title": "american jews",
+    "summary": "American Jews are frequently invoked in 2024 election debates as a bellwether and lobbying bloc whose split preferences—many secular and progressive Jews leaning Democratic over concerns about antisemitism and civil liberties, and many Orthodox and pro‑Israel voters and donors moving toward Republicans over strong support for Israel—are used to justify or criticize candidates’ Israel policies, stances on extremism, and claims about who best protects Jewish security and pluralism.",
+    "queries": [
+      "Is the stance of jewish american voters justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "foreign electoral intervention",
+    "wiki_title": "foreign electoral intervention",
+    "summary": "Allegations of foreign electoral intervention in the 2024 campaign are used to demand stronger election-security measures, intelligence briefings, social-media regulation, and tougher sanctions toward implicated countries, while citing purported influence operations as grounds for policy and diplomatic stances. They are also frequently weaponized by partisans to delegitimize rivals or justify investigations and content restrictions, drawing pushback from civil-liberties advocates worried about overreach and politicized accusations.",
+    "queries": [
+      "Is foreign electoral intervention in the 2024 election justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "russian interference",
+    "wiki_title": "cyberwarfare by russia",
+    "summary": "Allegations of Russian cyberwarfare are frequently invoked in 2024 campaign rhetoric to argue that foreign hacking and disinformation threaten the integrity of the vote, bolstering calls for stronger election cybersecurity, sanctions on Moscow, and tougher foreign‑policy stances; they are used to criticize candidates deemed soft on Russia or to justify increased intelligence and defense measures. Conversely, opponents sometimes label such warnings as politicized or exaggerated, framing 'Russia' claims as a tool to delegitimize rivals, resist certain reforms, or justify partisan narratives about election vulnerability.",
+    "queries": [
+      "What consequences has russian interference brought to campaign debates?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "united front work department",
+    "wiki_title": "united front work department",
+    "summary": "In 2024 election debates, critics invoke the CCP’s United Front Work Department to allege covert Chinese influence on candidates, donors, or advocacy groups—using those claims to justify tougher China policies, stricter vetting of contacts and donations, and warnings about compromised decision‑making. Opponents counter that such invocations can be broad political attacks that risk smearing critics of hardline China stances or chilling civic participation by Asian American communities.",
+    "queries": [
+      "Is criticism of the United Front Work Department reasonable in 2024?"
+    ]
+  },
+  {
+    "id": "C8-7-6",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "state-sponsored disinformation",
+    "wiki_title": "state-sponsored internet propaganda",
+    "summary": "In 2024 election debates, allegations of state‑sponsored internet propaganda are used to claim that foreign governments are covertly shaping public opinion or boosting particular candidates, a claim wielded both to alarm voters about external meddling and to delegitimize rivals by implying hostile backing. Those narratives push for tougher content moderation, intelligence briefings, sanctions, and stricter campaign and platform transparency while simultaneously amplifying mistrust in media and electoral institutions.",
+    "queries": [
+      "Is state-sponsored disinformation in the 2024 election justified or not?"
+    ]
+  }
+]

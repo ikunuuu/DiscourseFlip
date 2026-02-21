@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Led Zeppelin",
+    "wiki_title": "Led Zeppelin",
+    "summary": "Led Zeppelin's legacy is invoked as a shorthand in debates over rock canon: supporters cite the band to justify the cultural importance of album-oriented, stadium-era rock and virtuosity, while critics invoke the band to challenge claims of originality and to highlight alleged plagiarism, excess, and cultural appropriation that complicate their celebrated status.",
+    "queries": [
+      "Is Led Zeppelin's legacy overrated or reasonable?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "critical reception",
+    "wiki_title": "review",
+    "summary": "Critical and fan reviews of Led Zeppelin's albums, live performances, and reissues are frequently invoked to justify or challenge the band's place in the rock canon. Positive reviews stress innovation, virtuosity, and cultural impact, while negative reviews call out alleged plagiarism, problematic lyrics or behavior, and uneven later work—shaping public memory, marketing of reissues, and debates over the band's legacy.",
+    "queries": [
+      "How do people perceive Led Zeppelin's critical reception?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "nme",
+    "wiki_title": "nme",
+    "summary": "NME often steers public debates about Led Zeppelin by both celebrating their influence on hard rock in profiles and reissue coverage and by publishing critical pieces that spotlight alleged song thefts, excesses, and legal controversies; the outlet tends to push reassessment of Zeppelin’s canonized status rather than uncritical hero‑worship.",
+    "queries": [
+      "What impact has nme had on Led Zeppelin’s reputation?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "lester bangs",
+    "wiki_title": "lester bangs",
+    "summary": "Bangs is frequently cited in debates over Led Zeppelin to lend weight to the pro–hard-rock argument that the band’s loud, blues‑derived power and mythic swagger are artistically valid, while his blunt, sometimes ironic critical voice is also used by detractors to highlight the band’s excesses, self‑mythologizing, and questions about originality.",
+    "queries": [
+      "Are Lester Bangs's opinions about Led Zeppelin reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "creem",
+    "wiki_title": "creem",
+    "summary": "Creem’s coverage framed Led Zeppelin as a central progenitor of heavy rock—using admiring, scene-defining pieces to canonize their power and musicianship while its irreverent criticism highlighted excess, appropriation controversies, and rock-star decadence; thus Creem is often cited in debates that either bolster Zeppelin’s legendary status or underscore critiques of their originality and behavior.",
+    "queries": [
+      "Is creem’s coverage of Led Zeppelin fair or justified?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "rock criticism",
+    "wiki_title": "music journalism",
+    "summary": "Music journalists have both canonized Led Zeppelin as pioneering, virtuosic architects of hard rock—through rave reviews, rankings and myth-making about their albums and live shows—and driven critical reappraisals by publicizing allegations of blues appropriation, songwriting plagiarism, and problematic off-stage behavior, shaping debates over artistic credit, cultural ownership, and the band’s legacy in rock history.",
+    "queries": [
+      "Is rock criticism of Led Zeppelin fair or not?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "punk rock",
+    "wiki_title": "punk rock",
+    "summary": "Punk rock is often invoked to criticize Led Zeppelin as the archetype of bloated, corporatized arena rock—used to condemn their excess, virtuoso indulgence, and alleged appropriation of blues material. Others counter that punk unfairly judges Zeppelin by anti‑establishment standards, arguing the band’s musical ambition and influence deserve recognition and that punk’s backlash simply reframed Zeppelin as the cultural foil that clarified punk’s DIY values.",
+    "queries": [
+      "How do people view punk rock's response to Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "copyright lawsuits",
+    "wiki_title": "copyright lawsuits by superman's creators",
+    "summary": "Commentators invoke the prolonged copyright battles of Superman’s creators to cast Led Zeppelin’s plagiarism disputes as another instance of powerful artists and corporations profiting at the expense of lesser-known originators, bolstering calls for credit, royalties, and reform. Others use the same precedent to caution against retroactive claims—arguing that historical ambiguities in influence and authorship mean courts should apply strict standards before stripping credits from celebrated works.",
+    "queries": [
+      "What effects have Led Zeppelin's copyright lawsuits caused?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "Commentators and fans often cite the Grammys’ historical snubs of Led Zeppelin — few major competitive wins during their peak and only belated honors later — to argue that mainstream institutions undervalue album-oriented rock and favor commercial/pop trends over long-term artistic influence. When the Academy eventually grants lifetime or retrospective recognition, that is used both to validate Zeppelin’s canonical status and to criticize the Grammys for delayed, conservative recognition and limited relevance.",
+    "queries": [
+      "Are Led Zeppelin's grammy awards recognitions justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "recording academy",
+    "wiki_title": "the recording academy",
+    "summary": "Commentators invoke the Recording Academy’s nominations, awards and notable omissions when debating Led Zeppelin’s legacy—casting the Grammys either as an establishment that historically snubbed gritty rock innovators or as an authority whose eventual honors canonize the band. Critics use the Academy to argue mainstream institutions overlooked Led Zeppelin’s influence, while supporters point to any Academy recognition as belated but official validation of their importance.",
+    "queries": [
+      "Is criticism of the Recording Academy over Led Zeppelin reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "grammy lifetime achievement award",
+    "wiki_title": "grammy lifetime achievement award",
+    "summary": "Supporters point to the Grammy Lifetime Achievement Award as institutional validation of Led Zeppelin’s cultural importance and lasting influence, using it to rebut claims that the band was overlooked or undeserving. Critics, however, use the belated honor to argue that such awards are symbolic establishment co‑option that neither erase past controversies nor fully address earlier industry snubs.",
+    "queries": [
+      "Was Led Zeppelin’s grammy lifetime achievement award justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "grammy hall of fame",
+    "wiki_title": "grammy hall of fame",
+    "summary": "Mentions of the Grammy Hall of Fame are often used to bolster claims that Led Zeppelin is a canonized, influential force in rock music—supporters point to Hall inductions as institutional validation of the band’s artistic and historical importance. Conversely, critics invoke the timing, selectivity, or omissions of such honors to argue industry bias, commercialization of taste, or to question narratives of originality and merit surrounding Led Zeppelin.",
+    "queries": [
+      "Is Led Zeppelin’s grammy hall of fame induction deserved or not?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "best rock album",
+    "wiki_title": "grammy award for best rock album",
+    "summary": "The Grammy Award for Best Rock Album is often invoked in discussions of Led Zeppelin to underscore claims that mainstream institutions either belatedly recognized or actively overlooked the band's cultural importance—fans use the Grammy record to argue awards don’t define legacy, while critics cite the group's limited wins as evidence that industry acclaim hasn’t uniformly backed their canonical status.",
+    "queries": [
+      "How do people view Led Zeppelin's best rock album?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "500 greatest albums",
+    "wiki_title": "rolling stone's 500 greatest albums of all time",
+    "summary": "Rolling Stone’s 500 Greatest Albums list is frequently cited to bolster claims that Led Zeppelin are rock-canon staples—high placements for albums like Led Zeppelin IV or Physical Graffiti are used to justify their artistic importance and cultural influence. Conversely, critics point to their rankings (or changes across editions) to argue the band is overrated, a product of nostalgia, or the beneficiary of rockist/white‑male bias, so the list often frames debates about their critical legitimacy and legacy.",
+    "queries": [
+      "How do people view Led Zeppelin on the 500 greatest albums list?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "songwriting",
+    "wiki_title": "songwriter",
+    "summary": "In discussions of Led Zeppelin, debates over who counts as the band's songwriters are used to argue about their originality and integrity: critics point to lawsuits and uncredited borrowings to portray them as appropriators of blues material, while defenders frame Page and Plant as arrangers who reshaped traditional songs into original rock works deserving credit and royalties. These songwriting-credit disputes also drive arguments about copyright, moral attribution, and how music history and compensation should treat adaptations versus outright plagiarism.",
+    "queries": [
+      "How do people view Led Zeppelin's songwriting today?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "copyright and plagiarism",
+    "wiki_title": "plagiarism",
+    "summary": "Accusations of plagiarism are routinely invoked to challenge Led Zeppelin’s artistic originality, fueling lawsuits, critical reappraisals, and public claims that the band appropriated riffs, lyrics, and arrangements without proper credit or compensation. Defenders counter that similarities reflect blues tradition and shared musical idioms, so the plagiarism frame is also used to argue for contextualizing influence versus theft and for reforming how credit and copyright are assigned in popular music.",
+    "queries": [
+      "What impacts has copyright and plagiarism had on Led Zeppelin’s legacy?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "jake holmes",
+    "wiki_title": "jake holmes",
+    "summary": "Jake Holmes is invoked in debates over Led Zeppelin as the originator of a song they famously recorded, and his later legal claim is frequently used to argue that the band appropriated earlier material without proper credit—fueling critiques of their songwriting ethics and demands for retrospective attribution, while defenders counter that the case illustrates folk/blues adaptation rather than clear-cut plagiarism.",
+    "queries": [
+      "How do people view Jake Holmes’s role in that Led Zeppelin controversy?"
+    ]
+  },
+  {
+    "id": "C3-4-1",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "dazed and confused",
+    "wiki_title": "dazed and confused",
+    "summary": "The song \"Dazed and Confused\" is often invoked in debates about Led Zeppelin's originality and ethics—critics point to its disputed origins and crediting as emblematic of the band appropriating others' material without proper acknowledgement. Defenders use the track to argue that Zeppelin's radical rearrangement and extended live improvisations transformed it into a display of Jimmy Page's virtuosity and creative reinterpretation, supporting a narrative of innovation rather than theft.",
+    "queries": [
+      "What effects has 'Dazed and Confused' had on Led Zeppelin's reputation?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "the yardbirds",
+    "wiki_title": "the yardbirds",
+    "summary": "The Yardbirds are frequently invoked in discussions of Led Zeppelin to bolster Jimmy Page’s pedigree and to trace Zeppelin’s blues-rock and experimental lineage, lending legitimacy and continuity to claims of musical authenticity. They are also used by critics to frame Led Zeppelin as derivative or as repackaging earlier material, feeding debates over originality and authorship.",
+    "queries": [
+      "How do people assess the Yardbirds' influence on early Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "united states copyright law",
+    "wiki_title": "united states copyright office",
+    "summary": "In public debates around Led Zeppelin—most notably the ‘Stairway to Heaven’ litigation—the U.S. Copyright Office is cited as an evidentiary and procedural authority whose registration records and determinations about prior works are used to bolster plaintiffs’ claims of copying or to support Zeppelin’s defenses about ownership and remedial limits. Commentators also invoke the Office’s positions on originality, substantial similarity, and registration timing to argue either for tougher policing of musical borrowing or for protecting established artists from retroactive infringement suits.",
+    "queries": [
+      "Are united states copyright law rulings against Led Zeppelin justified?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "copyright act of 1976",
+    "wiki_title": "copyright act of 1976",
+    "summary": "The Copyright Act of 1976 is frequently invoked in disputes over Led Zeppelin’s alleged borrowings—framing whether riffs, chord progressions, and melodies in songs like 'Stairway to Heaven' qualify as protectable original expression or are unprotectable musical building blocks, and thereby underpinning lawsuits, credit changes, and damage claims. Critics cite the Act to demand accountability and compensation, while defenders lean on its doctrines (idea–expression split, independent creation, access standards) to argue that common rock conventions shouldn’t be legally monopolized.",
+    "queries": [
+      "How do people view the copyright act of 1976 regarding Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "music industry and commerce",
+    "wiki_title": "music industry",
+    "summary": "The music industry is often invoked to criticize Led Zeppelin for profiting from uncredited blues sources and industry practices that failed to protect original artists—an argument reinforced by high-profile lawsuits (notably over “Stairway to Heaven”) and calls for retroactive credits and royalties. Conversely, industry defenders appeal to period norms, label promotion, and modern catalog/streaming economics to justify the band's crediting decisions and catalog control, framing disputes as business-as-usual rather than uniquely unethical.",
+    "queries": [
+      "What impacts has music industry and commerce had on artist revenues?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "atlantic records",
+    "wiki_title": "atlantic records",
+    "summary": "Atlantic Records is frequently cited to justify Led Zeppelin’s canonical status—arguing that the label’s promotion, distribution muscle, and industry clout legitimized their commercial success and artistic reach—while critics invoke Atlantic’s corporate backing to argue the band was industry‑packaged and shielded (from plagiarism disputes, image problems, and aggressive rights management), framing debates about authenticity, accountability, and catalog control.",
+    "queries": [
+      "What impact has Atlantic Records had on Led Zeppelin's legacy?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "ahmet ertegun",
+    "wiki_title": "ahmet ertegun",
+    "summary": "Ahmet Ertegun is invoked by supporters as the Atlantic Records patriarch whose early championing and industry clout legitimated Led Zeppelin’s artistic standing and US breakthrough, framing them as heirs to the blues tradition. Detractors, however, point to Ertegun and his label’s promotional power as part of a narrative that enabled the band’s rapid commercial rise despite disputes over songwriting credits and cultural appropriation.",
+    "queries": [
+      "Were ahmet ertegun’s actions toward Led Zeppelin justified?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "music publishing",
+    "wiki_title": "music publisher",
+    "summary": "Music publishers shape debates about Led Zeppelin by controlling copyrights and licensing—advocating or defending royalty claims in high-profile authorship disputes (such as those around “Stairway to Heaven”) and deciding when and how songs are licensed for commercial use, which influences narratives about ownership, authenticity, and accusations of ‘selling out.’ Critics portray publishers as prioritizing enforcement and monetization over fair attribution or artistic integrity, while defenders frame their role as protecting composers’ rights and getting proper credit.",
+    "queries": [
+      "Is Led Zeppelin’s approach to music publishing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "performance royalties",
+    "wiki_title": "royalty payment",
+    "summary": "Disputes over royalty payments frequently shape narratives about Led Zeppelin’s legacy—critics point to lawsuits and contested songwriting credits to argue the band profited from uncredited blues sources and to demand reparative payouts and greater transparency, while defenders frame royalties and licensing income as legitimate compensation for the band’s creative contributions and for protecting artists’ rights (including estates’) in the modern streaming and commercial landscape.",
+    "queries": [
+      "Are performance royalties reasonable for legacy rock bands like Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "music streaming",
+    "wiki_title": "music streaming service",
+    "summary": "Music streaming services shape debates about Led Zeppelin by driving renewed discovery and chart resurgences that defenders use to argue for the band’s ongoing cultural relevance, while critics counter that streaming’s singles-focused algorithms and low per‑stream payouts distort appreciation of their album‑centric work and fuel calls for higher royalties or special licensing for legacy catalogs.",
+    "queries": [
+      "Is Led Zeppelin's music streaming justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "spotify",
+    "wiki_title": "spotify",
+    "summary": "Spotify is used to demonstrate Led Zeppelin’s continuing cultural and commercial relevance—high streaming counts are cited to show the band still attracts large audiences and generates significant catalogue revenue. At the same time critics invoke Spotify’s low per‑stream payouts and playlist-driven, single‑track consumption to argue that streaming devalues Led Zeppelin’s album‑focused artistry and can shortchange legacy artists.",
+    "queries": [
+      "What effects has Spotify had on Led Zeppelin's listenership?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "apple music",
+    "wiki_title": "apple music",
+    "summary": "Apple Music's editorial playlists, remastered releases, and streamed concert/video content are frequently used to canonize Led Zeppelin for new generations and to spotlight particular hits or eras as definitive of the band's legacy. Conversely, commentators also invoke Apple Music when criticizing how streaming curation, recommendation algorithms, and royalty models can flatten the band's album-focused artistry and commodify or misrepresent their cultural importance.",
+    "queries": [
+      "Is Apple Music's treatment of Led Zeppelin justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "tidal",
+    "wiki_title": "tidal",
+    "summary": "Tidal is frequently cited in discussions about Led Zeppelin’s recorded legacy: supporters point to Tidal’s high‑resolution/master-quality streams to argue that streaming can faithfully present the band’s sonic detail and legitimise modern remasters, while critics invoke Tidal’s paywalled, platform‑centric distribution to argue that estate/label control and exclusivity restrict access and concentrate revenue away from broader cultural preservation.",
+    "queries": [
+      "Is Led Zeppelin's presence on Tidal justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "ticketmaster",
+    "wiki_title": "ticketmaster",
+    "summary": "When tickets for Led Zeppelin reunion performances or related solo shows are sold through Ticketmaster, critics use the platform’s fees, limited allocations, and resale activity to argue the band’s legacy is being over‑commercialized and fans are being gouged; supporters respond that high demand and venue control make such practices inevitable. These disputes around Ticketmaster therefore shape narratives about Led Zeppelin as either a victim of corporate ticketing abuses or a participant in a commodified live‑music market, and fuel calls for stricter ticketing regulation.",
+    "queries": [
+      "What effects has ticketmaster had on Led Zeppelin ticket access?"
+    ]
+  },
+  {
+    "id": "C5-6-1",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "live nation entertainment",
+    "wiki_title": "live nation entertainment",
+    "summary": "Live Nation is often invoked in discussions of Led Zeppelin whenever reunion tours or legacy monetization are debated—critics cite the company to argue that corporate promoters and Ticketmaster-style practices inflate ticket prices, limit fan access, and commodify the band’s legacy.  Supporters, by contrast, point to Live Nation’s scale to justify large, professionally produced shows and lucrative archival/anniversary projects that keep Led Zeppelin culturally prominent.",
+    "queries": [
+      "Is Live Nation Entertainment’s influence on Led Zeppelin’s legacy justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-2",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "ticket scalping",
+    "wiki_title": "ticket resale",
+    "summary": "Ticket resale around Led Zeppelin concerts—especially reunion shows or rare appearances—is often used as evidence of the band’s enduring demand and cultural cachet, with high secondary-market prices cited to bolster narratives of legacy and continued relevance. At the same time, inflated resale prices are criticized as exploitation that commercializes the band’s events and strengthen calls for artist-driven ticket policies, fan pre-sales, and anti-scalping regulation.",
+    "queries": [
+      "Is ticket scalping for Led Zeppelin concerts reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "stubhub",
+    "wiki_title": "stubhub",
+    "summary": "When tickets for Led Zeppelin reunion events, solo shows by surviving members, or anniversary concerts appear on StubHub at very high prices, commentators use those listings to argue either that the band’s legacy has been commodified and made inaccessible to ordinary fans (fueling calls for resale regulation) or that massive resale demand proves the enduring cultural and market value of Led Zeppelin. StubHub listings and fee practices therefore feature in critiques of scalping and music-industry pricing as well as in defenses that the group remains a premium, high-demand live act.",
+    "queries": [
+      "How do people view stubhub’s role in Led Zeppelin ticket sales?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "ticket service fees",
+    "wiki_title": "fee",
+    "summary": "Arguments about fees — from concert and licensing rates to royalty splits and legal costs in plagiarism suits — are used to cast Led Zeppelin either as rightly compensated rock icons or as overly commercialized/entitled profiteers. High-profile disputes over songwriting credits and settlement/legal fees in copyright cases especially shape public narratives about the band’s integrity and ownership of their music.",
+    "queries": [
+      "What impact have ticket service fees had on attending Led Zeppelin concerts?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "riaa certifications",
+    "wiki_title": "riaa certification",
+    "summary": "RIAA certification figures are often cited to bolster arguments that Led Zeppelin are among rock’s most commercially and culturally dominant acts, used by supporters to quantify their legacy in best‑seller lists and awards. Skeptics counter that such certifications are a label-driven, imperfect metric—especially for an album‑focused band with irregular single releases and numerous reissues—so they argue these numbers can be used to inflate or misconstrue Led Zeppelin’s true popularity or artistic standing.",
+    "queries": [
+      "What consequences have Led Zeppelin's riaa certifications had?"
+    ]
+  },
+  {
+    "id": "C5-7-3",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "mothership",
+    "wiki_title": "mother ship",
+    "summary": "The mothership label—especially via the band's 2007 compilation titled Mothership—is wielded by fans and promoters to frame Led Zeppelin as the central, canonical progenitor of hard rock, reinforcing claims of unrivaled influence and musical authority. Critics use the same iconography to argue this mythologizing whitewashes the band's debts to earlier blues artists and obscures controversies over song credit and cultural appropriation.",
+    "queries": [
+      "How do people view mothership in Led Zeppelin's legacy?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "diamond certification",
+    "wiki_title": "music recording certification",
+    "summary": "Music recording certifications are frequently cited to bolster claims that Led Zeppelin is one of the best‑selling, culturally dominant rock acts—platinum and diamond tallies for albums like Led Zeppelin IV are used in arguments that their commercial success justifies canonical status and influence. Critics and skeptics point out era‑specific rules (shipments vs. actual sales, differing national thresholds, later reissue/streaming credits) to argue certifications can mislead or be used selectively, saying sales awards alone shouldn’t settle debates over artistic quality or legacy.",
+    "queries": [
+      "What consequences has diamond certification had for Led Zeppelin’s legacy?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "paul rodgers",
+    "wiki_title": "paul rodgers",
+    "summary": "Paul Rodgers is often invoked in debates about Led Zeppelin reunions and authenticity—his high-profile collaborations with Jimmy Page are used by supporters to argue that Zeppelin’s music can continue with a different frontman, while critics point to the stylistic mismatch between Rodgers and Robert Plant to contend that replacing Plant would erode the band’s core identity.",
+    "queries": [
+      "Is paul rodgers’s role in Led Zeppelin tributes justified or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "fan culture and nostalgia",
+    "wiki_title": "nostalgia",
+    "summary": "Nostalgia casts Led Zeppelin as a touchstone of a ’golden age’ of rock, strengthening fan defenses, sentimental narratives, and lucrative marketing for reunions and remasters by privileging memory over critique; it is often mobilized to resist reappraisals of the band’s controversies (authorship disputes, problematic behavior, or changing cultural standards) and to justify preserving their mythic legacy and premium status.",
+    "queries": [
+      "Is Led Zeppelin's fan culture and nostalgia reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "robert plant",
+    "wiki_title": "robert plant",
+    "summary": "Robert Plant is routinely invoked in arguments about Led Zeppelin as the embodiment of the band’s artistic legitimacy—his vocal prowess and frontman persona are used to justify their canonical status in rock. At the same time, his reluctance to embrace nostalgia-driven reunions and his diverse post-Zeppelin projects are deployed to frame the group’s legacy as either principled and evolving or as a myth that cannot survive unchanged.",
+    "queries": [
+      "Are criticisms of Robert Plant’s leadership in Led Zeppelin justified?"
+    ]
+  },
+  {
+    "id": "C6-1-2",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "john paul jones",
+    "wiki_title": "john paul jones",
+    "summary": "John Paul Jones is often cited in debates to emphasize that Led Zeppelin’s power came from tight musicianship and sophisticated arrangements rather than solely from Jimmy Page or Robert Plant’s star personas, supporting narratives that the band was a collaborative, musically versatile unit. His low public profile and frequent role as arranger are also invoked in arguments about unequal recognition and songwriting/credit disputes, used to critique how the band’s legacy and royalties have been attributed.",
+    "queries": [
+      "Are john paul jones's solo projects as significant as Zeppelin work?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "john bonham",
+    "wiki_title": "john bonham",
+    "summary": "Bonham's reputation as a powerhouse, innovative drummer is routinely invoked to defend Led Zeppelin's musical legitimacy and influence, underpinning arguments that the band were virtuosos who reshaped rock rhythm and belong in the rock canon. At the same time his alcohol-related death and hard‑living image are cited to explain the band's abrupt end and to criticize or caution against romanticizing the hedonistic lifestyle often associated with Led Zeppelin.",
+    "queries": [
+      "Is John Bonham's drumming influence on Led Zeppelin justified or overstated?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "alison krauss",
+    "wiki_title": "alison krauss",
+    "summary": "Alison Krauss is often invoked in debates about Led Zeppelin because Robert Plant’s acclaimed collaborations with her are used to argue he has moved beyond Zeppelin’s hard‑rock persona, framing the band’s legacy as something that can be reinterpreted rather than strictly preserved. Commentators and fans cite the Krauss–Plant partnership to either praise Plant’s artistic growth and authenticity or to criticize him for softening Zeppelin’s raw image and weakening calls for reunions or canonical nostalgia.",
+    "queries": [
+      "What do people think about Alison Krauss’s vocals on Led Zeppelin songs?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "raising sand",
+    "wiki_title": "raising sand",
+    "summary": "Raising Sand is often cited in discussions of Led Zeppelin as proof that Robert Plant successfully reinvented himself after the band, supporting arguments that his artistic identity and credibility extend beyond Zeppelin’s hard‑rock image; critics, however, use it to argue he’s distanced or even diluted the band’s legacy by embracing Americana and roots collaborations.",
+    "queries": [
+      "Is Raising Sand a reasonable direction for Led Zeppelin's Robert Plant?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "bootleg recordings",
+    "wiki_title": "bootleg recording",
+    "summary": "Led Zeppelin bootlegs are often invoked to argue that the band's true artistry — especially their live improvisation and rare outtakes — is best appreciated outside official releases, fueling fan narratives of authenticity and musical legend. They also figure in criticisms about who controls the catalog and money, used both to condemn bootleg profiteering or to demand more open access to unreleased Zeppelin material.",
+    "queries": [
+      "How do people view Led Zeppelin bootleg recordings?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "royal albert hall 1970",
+    "wiki_title": "royal albert hall",
+    "summary": "Royal Albert Hall is often invoked as proof of Led Zeppelin’s artistic legitimacy — commentators point to their celebrated early performances there to argue the band could command prestigious, musically serious venues and deliver transcendent live shows. Conversely, comparisons between those intimate Hall concerts and later arena excess are used to criticize the band’s commercialization and perceived loss of craft as they became stadium superstars.",
+    "queries": [
+      "Is Led Zeppelin's royal albert hall 1970 performance overrated or not?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "audience recording",
+    "wiki_title": "studio audience",
+    "summary": "References to a “studio audience” are often used to frame Led Zeppelin as a band that avoided the sanitized, TV-studio format—bolstering narratives of authenticity, mystique, and anti-commercialism by emphasizing their preference for raw concert settings. Conversely, critics invoke studio-audience appearances or engineered crowd noise in televised clips and films to argue that media presentation sometimes inflated or smoothed their public image.",
+    "queries": [
+      "Is audience recording at Led Zeppelin concerts reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "soundboard recording",
+    "wiki_title": "soundboard recording",
+    "summary": "Fans and historians often point to soundboard recordings as high-quality evidence that Led Zeppelin's live shows showcased their improvisational prowess and raw power, reinforcing the band's legendary concert reputation. Critics and rights-holders counter that uneven mixes, edits, or the bootleg status of many soundboard captures can be used to question the accuracy of that mythology and to argue for tighter control or official archival releases.",
+    "queries": [
+      "Is Led Zeppelin's soundboard recording release justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "matrix recording",
+    "wiki_title": "the matrix",
+    "summary": "The Matrix is invoked in Led Zeppelin debates as a metaphor for revelation and mythmaking—supporters compare the band’s supposed revolutionary impact to the film’s groundbreaking style, while critics deploy the \"red pill\" trope to urge uncovering alleged plagiarism and to challenge uncritical canonization of the group.",
+    "queries": [
+      "What consequences has Led Zeppelin's matrix recording caused?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "trade mark of quality",
+    "wiki_title": "trademark of quality",
+    "summary": "References to the bootleg label Trademark of Quality often surface in debates about Led Zeppelin as proof of the band’s legendary live power and scarcity-driven mystique—fans point to TMOQ releases to justify reverence for raw, unvarnished performances and the value of circulating rare recordings. Critics invoke TMOQ to challenge the ethics and accuracy of that legacy, arguing unauthorized, low-fidelity bootlegs exploit the band, muddy the official discography, and strengthen calls for sanctioned archival releases and tighter control over Zeppelin’s catalogue.",
+    "queries": [
+      "What effects has Led Zeppelin’s trade mark of quality brought?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "swan song records",
+    "wiki_title": "swan song records",
+    "summary": "Swan Song Records is invoked in debates about Led Zeppelin as the concrete expression of the band’s desire for artistic and commercial control—used by supporters to justify their independence and managerial savvy and by critics as evidence of rock-star entitlement, lavishness, and the way the band leveraged industry power. It also appears in discussions of legacy and accountability, since the label’s handling of releases, reissues, and business decisions factors into arguments about royalties, authorship disputes, and how Led Zeppelin’s power shaped their public reputation.",
+    "queries": [
+      "Is Led Zeppelin’s swan song records legacy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "bad company",
+    "wiki_title": "bad company",
+    "summary": "Bad Company is often invoked as a contemporary foil to Led Zeppelin, with commentators contrasting Bad Company’s more radio-friendly, straight-ahead hard rock to frame Zeppelin as either more artistically adventurous or alternatively as a product of 1970s commercial taste. Those comparisons are used to support arguments that Zeppelin’s stature should be judged against peer supergroups rather than in isolation, shaping debates over originality, legacy, and the role of industry-era context in their reputation.",
+    "queries": [
+      "How do people view Bad Company's music compared to Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "peter grant",
+    "wiki_title": "peter grant",
+    "summary": "Peter Grant is invoked as the archetypal, hard‑nosed manager whose aggressive protection of Led Zeppelin is used to explain how the band achieved massive commercial control and little external oversight; defenders argue his tactics were essential business savvy, while critics point to his intimidation, enabling of excess and role in shielding the band from accountability as evidence that their success was built on coercive management as much as musical merit.",
+    "queries": [
+      "What effects has Peter Grant had on Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "william rimmer",
+    "wiki_title": "william rimmer",
+    "summary": "A silhouetted winged figure from William Rimmer’s work was adapted as the basis for Led Zeppelin’s Swan Song logo, and commentators use that image to frame the band as mythic, larger-than-life innovators. Fans cite the motif to justify narratives of creative ambition and artistic transcendence, while critics invoke its Icarus-like associations to argue the band’s arrogance and excess.",
+    "queries": [
+      "Is Led Zeppelin’s use of william rimmer’s image justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "physical graffiti",
+    "wiki_title": "physical graffiti",
+    "summary": "Fans and music historians invoke Physical Graffiti as proof of Led Zeppelin’s artistic ambition, stylistic range and commercial dominance—using it to justify the band’s status as rock innovators—while critics point to its double-album length and patchwork of older tracks to argue the group was becoming indulgent and uneven, framing debates over quality versus excess in their later career.",
+    "queries": [
+      "What impact has Physical Graffiti had on rock music generally?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "tribute bands",
+    "wiki_title": "tribute act",
+    "summary": "Tribute acts are frequently cited by fans, promoters and critics to show that Led Zeppelin’s songs remain culturally alive and influential—kept in circulation for new audiences, monetized in nostalgia markets, and demonstrated as versatile when reinterpreted across genres. At the same time detractors invoke tribute bands to argue the group’s legacy is commodified or over-mythologized, claiming imitators can both flatten claims of originality and, in the case of parodic tributes, puncture the band’s solemn cultural stature.",
+    "queries": [
+      "How do people view tribute bands honoring Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "dread zeppelin",
+    "wiki_title": "dread zeppelin",
+    "summary": "Dread Zeppelin’s reggae/Elvis-inflected covers are often cited in debates about Led Zeppelin to show that their songs are iconic and durable enough to survive humorous, radical reinterpretation, reinforcing arguments about the band’s wide influence and compositional strength. At the same time the group's parodying approach is used to push back against sacred‑cow reverence for Zeppelin, promoting a view of their music as remixable and open to irreverent critique.",
+    "queries": [
+      "How do people view dread zeppelin’s blend of reggae and rock?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "zepparella",
+    "wiki_title": "zepparella",
+    "summary": "Zepparella is often invoked in discussions about Led Zeppelin to show that Zeppelin's music has lasting cultural power and can be convincingly reinterpreted—their prominent, gender-swapped performances are used to challenge the male-dominated rock canon and argue for broader access to the repertoire. At the same time, critics cite tribute acts like Zepparella when debating authenticity and the commercial repackaging of Zeppelin’s original artistry.",
+    "queries": [
+      "Is zepparella’s Led Zeppelin tribute faithful or not?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "jason bonham",
+    "wiki_title": "jason bonham",
+    "summary": "Jason Bonham is often invoked in debates about Led Zeppelin’s legitimacy and legacy—his participation in reunions and tribute events is used by supporters to claim continuity and family endorsement, while critics point to his role to argue such performances either honor John Bonham’s memory or represent an inadequate, commercialized substitute for the original band.",
+    "queries": [
+      "Is jason bonham the right choice for Led Zeppelin reunion drumming?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "classic rock",
+    "wiki_title": "classic rock",
+    "summary": "Invoking \"classic rock\" frames Led Zeppelin as canonical, radio-ready icons whose artistic authority and enduring popularity justify heavy airplay, reissues, and legacy-industry privileges. Critics counter that the label highlights how Zeppelin's prominence reinforces a white male–dominated, commercially driven canon that downplays issues like blues appropriation, gender exclusion, and broader diversity in rock history.",
+    "queries": [
+      "How do people view classic rock’s emphasis on Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "rock and roll hall of fame",
+    "wiki_title": "rock and roll hall of fame",
+    "summary": "The Rock and Roll Hall of Fame is frequently deployed as institutional validation of Led Zeppelin’s cultural importance—supporters point to the band's induction and museum treatment as proof of their influence and legacy, while critics use the Hall’s selection politics and commercialized storytelling to challenge or deflect praise (for example when debating plagiarism claims, who gets credit, or whether the Rock Hall properly assesses musical merit).",
+    "queries": [
+      "Is rock and roll hall of fame’s recognition of Led Zeppelin overdue?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "hall of fame voting",
+    "wiki_title": "2026 baseball hall of fame balloting",
+    "summary": "Commentators sometimes invoke the contentious 2026 baseball Hall of Fame balloting as an analogy when debating Led Zeppelin’s legacy, using the ballot’s disputes about who deserves canonization to argue either that the band’s towering musical achievements should trump allegations of plagiarism or misconduct, or conversely that flawed voting systems and nostalgia improperly shield them from ethical and critical scrutiny.",
+    "queries": [
+      "Is Led Zeppelin's hall of fame voting justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "memorabilia auctions",
+    "wiki_title": "heritage auctions",
+    "summary": "Heritage Auctions sales are often cited in debates about Led Zeppelin as market evidence of the band’s enduring cultural value—high prices for guitars, manuscripts, and stage-worn items are used to justify claims of lasting influence. At the same time auctions feed critiques of commercialization and ownership, fueling arguments over provenance, authenticity, and whether seminal artifacts should reside in public museums or private collections.",
+    "queries": [
+      "What effects have memorabilia auctions had on Led Zeppelin's legacy?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "gibson les paul",
+    "wiki_title": "gibson les paul",
+    "summary": "Jimmy Page’s Gibson Les Paul is repeatedly invoked to justify claims about Led Zeppelin’s signature heavy tone, technical prowess, and rock authenticity—its presence in photos, live rigs, and high‑profile auctions is used to buttress the band’s myth and collectible value; critics, however, point to the Les Paul–centric fandom as evidence of gear fetishism that can distract from debates over Zeppelin’s originality and alleged musical borrowing.",
+    "queries": [
+      "Is Led Zeppelin’s use of gibson les paul reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "julien's auctions",
+    "wiki_title": "julien's auctions",
+    "summary": "High‑profile Julien’s Auctions sales of Led Zeppelin instruments, handwritten lyrics, and stage garments are often cited to justify the band’s enduring cultural significance and monetary value, framing them as collectible icons that command serious investment. Critics, however, point to these auctions to argue the commodification of rock history—raising debates about authenticity, ownership, and whether legacy should be stewarded or sold to the highest bidder.",
+    "queries": [
+      "Is julien's auctions handling of Led Zeppelin items reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "sotheby's",
+    "wiki_title": "sotheby's",
+    "summary": "When Sotheby's sells Led Zeppelin memorabilia and highlights provenance in catalogs, journalists and fans cite the auction prices to bolster claims that the band remains a culturally and financially canonical rock icon; Sotheby’s presentation of items also helps frame narratives about authorship, creativity, and celebrity. Conversely, critics invoke Sotheby’s role to argue that such sales commodify and privatize musical heritage—raising disputes over authenticity, ownership, and whether important cultural artifacts should be treated as luxury goods for collectors rather than public patrimony.",
+    "queries": [
+      "How do people view Sotheby's handling of Led Zeppelin memorabilia?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and film portrayal",
+    "wiki_title": "media portrayals of transgender people",
+    "summary": "Media portrayals of transgender people are invoked in discussions of Led Zeppelin to challenge the band’s historically hyper‑masculine image and to press for gender‑inclusive reinterpretations of classic rock—critics cite increased trans visibility to criticize lyrics, behavior, and exclusionary fan cultures, while defenders argue that applying contemporary representational standards to a 1960s–70s act is anachronistic.",
+    "queries": [
+      "Is media and film portrayal of Led Zeppelin fair or biased?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "the song remains the same",
+    "wiki_title": "the song remains the same (song)",
+    "summary": "Fans and defenders point to 'The Song Remains the Same' as emblematic of Led Zeppelin's epic, timeless musicianship and stage mythology, using it to argue the band's core artistic identity endured through commercial pressures and controversies; conversely, critics invoke its bombastic length and self-mythologizing presentation to portray the band as indulgent and pretentious.",
+    "queries": [
+      "How do people view the song remains the same in Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C7-1-1",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "houses of the holy",
+    "wiki_title": "houses of the holy",
+    "summary": "Houses of the Holy is often invoked to argue that Led Zeppelin matured into a studio-savvy, genre-expanding band—used by defenders to justify their artistic ambition and versatility—while critics point to its mixed reception and uneven track choices to frame the group as inconsistent or increasingly commercial in their later career.",
+    "queries": [
+      "What influence has houses of the holy had on rock music?"
+    ]
+  },
+  {
+    "id": "C7-1-2",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "madison square garden",
+    "wiki_title": "madison square garden",
+    "summary": "Madison Square Garden — especially the filmed 1973 performances used in The Song Remains the Same — is often invoked to bolster the narrative that Led Zeppelin were unrivaled stadium rock titans, while critics use those same Garden shows as evidence of the band’s self-mythologizing, excess, and commercialization of 1970s rock.",
+    "queries": [
+      "Is Led Zeppelin’s Madison Square Garden performance legacy overrated or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "celebration day",
+    "wiki_title": "celebration day",
+    "summary": "Fans and critics invoke the song “Celebration Day” to frame debates about Led Zeppelin’s musical identity: proponents use its punchy, accessible rock arrangement to argue the band’s versatility and mass appeal, while critics point to it as an example of their more commercial or formulaic tendencies that contrast with their heavier, more ambitious work. It also surfaces in arguments about live-era priorities and setlist choices, being cited to justify or criticize how the band balanced crowd-pleasing singles with epic, album-oriented material.",
+    "queries": [
+      "How do people view Led Zeppelin's 'Celebration Day'?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "record store day",
+    "wiki_title": "record store day",
+    "summary": "Record Store Day is invoked in discussions of Led Zeppelin when limited-edition vinyl reissues and exclusive releases are used to celebrate the band and drive traffic to independent shops, with advocates saying such drops honor their legacy and sustain vinyl culture. Detractors counter that these exclusives commodify nostalgia, create artificial scarcity that exploits collectors, and shift attention from substantive issues like sound-quality remasters and rights/ownership of Led Zeppelin’s catalog.",
+    "queries": [
+      "Is Led Zeppelin's Record Store Day participation justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "it might get loud",
+    "wiki_title": "it might get loud",
+    "summary": "The documentary It Might Get Loud is frequently cited to highlight Jimmy Page’s technical skill and creative influence, thus reinforcing arguments that Led Zeppelin deserve canonical reverence in rock history. Conversely, detractors invoke the film as an example of hagiography that glosses over song-credit controversies and other problematic aspects of Page’s legacy, using it to criticize overly romantic narratives about the band.",
+    "queries": [
+      "What effects has 'it might get loud' had on Led Zeppelin's reputation?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "jack white",
+    "wiki_title": "jack white",
+    "summary": "Jack White is often cited in debates about Led Zeppelin to illustrate tensions between reverence for classic-rock lineage and demands for authentic, credited roots — commentators who see lineage point to White’s blues-rooted guitarism as evidence of Zeppelin’s lasting influence, while critics invoke White’s emphasis on raw, credited authenticity to criticize Zeppelin’s stadium excesses and alleged appropriation of blues sources.",
+    "queries": [
+      "How do people view jack white’s interpretations of Led Zeppelin songs?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "the edge",
+    "wiki_title": "the edge",
+    "summary": "Contemporary guitarists like The Edge are often invoked in discussions of Led Zeppelin to draw contrasts between his delay‑based, textural playing and Jimmy Page’s riff‑driven, bluesy approach, a comparison critics use to frame Zeppelin as the archetype of classic hard rock guitar. When The Edge or similar artists cite Zeppelin as an influence, that endorsement is frequently used to justify narratives of Zeppelin’s lasting impact on modern rock; when contrasted, it supports critiques that later players pursued subtler, atmospheric directions that diverged from Zeppelin’s raw sound.",
+    "queries": [
+      "Is the edge in Led Zeppelin’s music justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "rolling stone",
+    "wiki_title": "rolling stone",
+    "summary": "Rolling Stone’s glowing profiles, album reviews and placement of Led Zeppelin on ‘greatest’ lists are often cited to bolster claims of the band’s centrality to the rock canon, while its investigative pieces and critical essays about songwriting disputes, onstage excesses, and legal controversies are used by skeptics to temper that hero worship and push revisionist readings.",
+    "queries": [
+      "How do people view Rolling Stone’s judgment about Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C7-5-8",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "2007 reunion concert",
+    "wiki_title": "the police reunion tour",
+    "summary": "The Police reunion tour is frequently cited in arguments about Led Zeppelin as a template for the politics of legacy — defenders use it to justify large-scale, lucrative comeback shows as a legitimate way for classic acts to reconnect with fans, while critics point to it as an example of nostalgia-driven, commercialized reunions that can erode artistic mystique, a contrast often drawn to either pressure Led Zeppelin to tour more or to praise their more selective, rarity-driven reunions.",
+    "queries": [
+      "How do fans view Led Zeppelin's 2007 reunion concert?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "jimmy page",
+    "wiki_title": "jimmy page",
+    "summary": "Jimmy Page is frequently invoked as Led Zeppelin’s creative architect—his guitar work, production choices and high-profile accolades are used to justify claims that the band were pioneering, virtuoso rock innovators. He is also central to critical arguments: his documented borrowing from older blues sources, songwriting-credit disputes and gatekeeping of the band’s legacy are cited to challenge narratives of pure originality and to question how Led Zeppelin’s authorship and commercial rewards are framed.",
+    "queries": [
+      "Is Jimmy Page's guitar influence in Led Zeppelin justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "page and plant",
+    "wiki_title": "page and plant",
+    "summary": "Page and Plant are often invoked to defend Led Zeppelin’s legacy by showing that its surviving principals can reinterpret and modernize the catalog—emphasizing artistic evolution, world‑music influences and continued relevance—while opponents cite the duo’s pared‑down reunions and new material as evidence that the band’s original chemistry and authenticity (notably without John Bonham and John Paul Jones) cannot be fully recreated and that such projects risk nostalgia or commercial dilution.",
+    "queries": [
+      "Are Page and Plant's reinterpretations of songs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "controversies and allegations",
+    "wiki_title": "cnn controversies",
+    "summary": "References to \"CNN controversies\" are often deployed in arguments about Led Zeppelin to accuse mainstream media of biased or uneven coverage—supporters claim outlets like CNN minimize scrutiny of the band's alleged plagiarism or misconduct, while critics say such outlets perpetuate reverence that downplays the band's appropriation of Black blues and other controversies. In short, invoking CNN controversies frames debates over whether journalists should celebrate Led Zeppelin’s legacy or more aggressively interrogate its problematic aspects.",
+    "queries": [
+      "Are Led Zeppelin's controversies and allegations justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "stairway to heaven",
+    "wiki_title": "stairway to heaven",
+    "summary": "\"Stairway to Heaven\" is the single-defining touchstone in discussions of Led Zeppelin’s legacy, frequently deployed to argue for the band’s artistic ambition, virtuosity, and cultural centrality; conversely, critics point to its omnipresence, album-only marketing and high-profile plagiarism disputes to challenge claims of originality and to suggest their reputation is inflated. ",
+    "queries": [
+      "How do people view stairway to heaven today?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "taurus (instrumental)",
+    "wiki_title": "taurus (instrumental)",
+    "summary": "References to \"Taurus\" are frequently invoked in arguments that Led Zeppelin's music borrows its opening arpeggio, fueling allegations of plagiarism and broader debates over the band's originality and ethics. Critics use it to justify calls for credit or legal redress, while defenders point to shared musical tropes and influence to argue against holding Led Zeppelin culpable.",
+    "queries": [
+      "What influence has taurus (instrumental) had on Led Zeppelin’s legacy?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "randy california",
+    "wiki_title": "randy california",
+    "summary": "Randy California is frequently invoked in debates over Led Zeppelin’s originality because his song’s opening figure is alleged to have been echoed in “Stairway to Heaven,” and critics use his case to accuse the band of appropriating material from lesser‑known artists. Supporters of Led Zeppelin counter by stressing common musical conventions and legal/arrangement differences, so references to California are used both to press for credit/compensation and to highlight power imbalances in music industry disputes.",
+    "queries": [
+      "How do people view Randy California’s relation to Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "spirit (band)",
+    "wiki_title": "spirit (band)",
+    "summary": "Spirit is frequently invoked in discussions of Led Zeppelin to support claims that Zeppelin borrowed the descending guitar progression from Spirit’s earlier instrumental—used by critics and in litigation to allege copying—and conversely by defenders to argue the resemblance reflects shared late‑60s rock motifs rather than deliberate theft, shaping debates about Led Zeppelin’s originality and legacy.",
+    "queries": [
+      "Is spirit (band)'s influence on Led Zeppelin overstated or not?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "willie dixon",
+    "wiki_title": "willie dixon",
+    "summary": "Willie Dixon is often cited by critics to underscore Led Zeppelin’s appropriation of African‑American blues material—his songs and legal claims are used to argue that Zeppelin borrowed lyrics and riffs without proper credit or compensation. References to Dixon therefore shape debates about plagiarism versus homage, racial inequities in authorship and royalties, and whether Zeppelin’s transformations justify their use of earlier blues work.",
+    "queries": [
+      "How do people view Willie Dixon's influence on Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "whole lotta love",
+    "wiki_title": "whole lotta love",
+    "summary": "“Whole Lotta Love” is frequently cited to showcase Led Zeppelin’s raw power and influence on hard rock, used by fans to justify the band’s central legacy and stage persona. Detractors invoke the song in arguments about appropriation and ethics—pointing to its indebtedness to earlier blues material and its sexualized lyrics—to criticize the band’s use of Black sources, songwriting-credit disputes, and perceived misogyny.",
+    "queries": [
+      "Is Led Zeppelin’s whole lotta love criticism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "you need love",
+    "wiki_title": "you need love",
+    "summary": "Critics invoke \"You Need Love\" as direct evidence that Led Zeppelin borrowed lyrics and themes for \"Whole Lotta Love,\" using it to argue the band profited from and appropriated Black blues without proper credit. Supporters counter in debates that Zeppelin’s work reinterpreted common blues material and that such borrowing reflects rock’s tradition rather than straightforward theft, so the song is central to arguments about originality, credit, and cultural appropriation.",
+    "queries": [
+      "How do people view 'you need love' in Led Zeppelin's catalog?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "muddy waters",
+    "wiki_title": "muddy waters",
+    "summary": "Muddy Waters is invoked in discussions of Led Zeppelin to highlight the band's direct ties to African-American blues—used by supporters to emphasize Zeppelin’s authentic blues roots and by critics to accuse them of appropriating riffs and songwriting without proper credit or compensation. Appeals to Waters frame broader arguments about musical influence, authenticity, and racial inequities in rock history, shaping whether Zeppelin is seen as a respectful inheritor or an exploitative borrower.",
+    "queries": [
+      "What influence has Muddy Waters had on Led Zeppelin’s music?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "chess records",
+    "wiki_title": "chess records",
+    "summary": "Commentators invoke Chess Records’ catalogue as documentary proof of the specific blues sources behind many Led Zeppelin songs, using those recordings to criticize the band for uncredited borrowing and cultural appropriation. Conversely, defenders point to the same Chess-era artists to frame Led Zeppelin as heirs to and innovators within the blues tradition, arguing influence rather than theft.",
+    "queries": [
+      "How do people view Led Zeppelin's chess records?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "copyright infringement",
+    "wiki_title": "copyright infringement",
+    "summary": "Allegations of copyright infringement—most notably over \"Stairway to Heaven,\" \"Whole Lotta Love,\" and other blues-derived material—are used to portray Led Zeppelin either as guilty of appropriating and underpaying original (often Black) creators, bolstering calls for retroactive credits and reparations, or as artists working within a contested rock/blues tradition where influence, ambiguous ownership, and evolving legal standards complicate judgments and policy responses.",
+    "queries": [
+      "Is Led Zeppelin's copyright infringement justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "substantial similarity",
+    "wiki_title": "substantial similarity",
+    "summary": "Claims of “substantial similarity” are central to public debates over Led Zeppelin, used by critics and litigants to argue that songs like “Stairway to Heaven” improperly copied earlier works and to portray the band as profiting from uncredited borrowings. Conversely, lawyers, fans, and defenders invoke the standard to emphasize differences, common musical elements, or non‑protectable material, framing the band’s work as influence rather than theft and shaping attitudes about whether classic‑rock appropriation should be legally punished.",
+    "queries": [
+      "What consequences have substantial similarity rulings had for Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "cultural appropriation",
+    "wiki_title": "cultural appropriation",
+    "summary": "Cultural appropriation is invoked to critique Led Zeppelin for drawing heavily on Black blues and folk sources without adequate credit or compensation, casting their fame as entangled with inequalities in who profits from marginalized musical traditions. Proponents of the band counter that their work reflects influence and homage, but the appropriation frame shapes arguments about songwriting credits, royalties, and historical recognition.",
+    "queries": [
+      "How do people view Led Zeppelin's cultural appropriation?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "howlin' wolf",
+    "wiki_title": "howlin' wolf",
+    "summary": "Howlin' Wolf is often cited in discussions of Led Zeppelin to exemplify the band's direct musical debt to classic Chicago blues, and critics use those citations to accuse Zeppelin of appropriating songs and styles without proper credit or compensation. Defenders counter that invoking Howlin' Wolf frames Zeppelin as part of a white-led blues revival paying homage, but references to him typically steer debates toward questions of authenticity, racial power imbalances, and the ethics of musical influence.",
+    "queries": [
+      "How do people view howlin' wolf's influence on Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "delta blues",
+    "wiki_title": "delta blues",
+    "summary": "Delta blues is frequently cited to trace Led Zeppelin’s musical roots and to defend the band as drawing authentically from deep American blues traditions, while opponents point to specific Delta-blues riffs, slide techniques, and lyrics to argue they repeatedly borrowed without proper credit—fueling debates over homage versus appropriation and the recognition/compensation owed to black blues originators.",
+    "queries": [
+      "What impact has delta blues had on Led Zeppelin's style?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "british blues",
+    "wiki_title": "british blues",
+    "summary": "Commentators invoke British blues to situate Led Zeppelin within a lineage that legitimizes their heavy blues influence and guitar-driven sound, bolstering claims of artistic continuity and rock credibility; conversely, critics use the same frame to highlight their reliance on and sometimes uncredited adaptation of American blues material, fueling debates over originality, cultural appropriation, and legal/ethical responsibility.",
+    "queries": [
+      "How do people view british blues in Led Zeppelin’s music?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "aleister crowley",
+    "wiki_title": "aleister crowley",
+    "summary": "References to Aleister Crowley—most notably Jimmy Page’s collecting and Crowley-related imagery connected to the band—are often used by critics to portray Led Zeppelin as occult‑influenced or sinister, while fans and defenders frame the connection as aesthetic mystique that bolsters the band’s esoteric, rebellious image rather than proof of literal satanic or malicious intent.",
+    "queries": [
+      "How do people view Aleister Crowley's influence on Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "boleskine house",
+    "wiki_title": "boleskine house",
+    "summary": "Boleskine House is repeatedly cited as tangible evidence of Jimmy Page’s fascination with Aleister Crowley and the occult, a line of argument critics use to cast Led Zeppelin as steeped in dark, mystical influences; defenders counter that the association reflects Page’s historical curiosity and collecting rather than proof of satanic intent. As a result the house functions as a touchstone in debates over whether the band’s imagery and lyrics are genuinely esoteric or merely sensationalized biographical detail.",
+    "queries": [
+      "Is boleskine house’s association with Led Zeppelin reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "thelema",
+    "wiki_title": "thelema",
+    "summary": "References to Thelema are often used to explain or justify Jimmy Page’s fascination with Aleister Crowley and occult imagery in Led Zeppelin, framing the band’s mystique as deliberate esoteric aesthetic or spiritual exploration rather than literal Satanism; conversely, critics invoke Thelema to portray the group as dabbling in dangerous or immoral occult currents, fueling debates about artistic intent, reputation, and cultural responsibility.",
+    "queries": [
+      "Is Led Zeppelin’s interest in thelema justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-4",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "ordo templi orientis",
+    "wiki_title": "ordo templi orientis",
+    "summary": "References to the Ordo Templi Orientis—primarily through Jimmy Page’s interest in Aleister Crowley and OTO-related memorabilia—are used to cast Led Zeppelin as mysterious, occult-inflected, or morally suspect; critics and moralizers cite the link to argue for sinister or satanic influences, while fans and some writers deploy it to amplify the band’s mystique, a framing that historians often say is exaggerated or symbolic rather than literal.",
+    "queries": [
+      "How do people view ordo templi orientis ties to Led Zeppelin?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "backmasking",
+    "wiki_title": "backmasking",
+    "summary": "Allegations of backmasked phrases in Led Zeppelin tracks—most famously claims about \"Stairway to Heaven\"—have been used by critics to argue the band harbored occult or Satanic intent and to spur moral‑panic calls for censorship, while defenders point to pareidolia, phonetic coincidence, or retroactive interpretation to dismiss those allegations and protect the band's artistic reputation.",
+    "queries": [
+      "Is concern about backmasking in Led Zeppelin reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-6",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "satanic panic",
+    "wiki_title": "satanic panic",
+    "summary": "During the 1980s satanic panic, Led Zeppelin—especially Jimmy Page's interest in Aleister Crowley, occult imagery, and alleged backmasked messages in songs like \"Stairway to Heaven\"—was repeatedly invoked as evidence that rock music promoted Satanism, bolstering calls for censorship and parental control; critics used these claims to discredit the band, while defenders argue the accusations were products of a broader moral panic that unfairly maligned them.",
+    "queries": [
+      "How do people view the satanic panic targeting Led Zeppelin?"
+    ]
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Pope Benedict XVI",
+    "wiki_title": "Pope Benedict XVI",
+    "summary": "Supporters invoke Benedict XVI as a touchstone for conservative Catholic arguments, citing his intellectual authority and emphasis on tradition, liturgy, and objective moral truths to justify resistance to secularisation and liberal reforms. Critics use his papacy as evidence of the Church’s failures—pointing to his policies on sexual abuse, contraception, and an elitist aesthetic—to demand accountability, pastoral change, and more progressive policies.",
+    "queries": [
+      "How do people view Pope Benedict XVI’s handling of church controversies?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "theology and doctrine",
+    "wiki_title": "doctrine",
+    "summary": "Appeals to doctrine are central to how Benedict XVI is defended and contested: supporters cite his insistence on doctrinal continuity to justify conservative liturgical and moral policies (e.g., traditional Mass, opposition to doctrinal relativism and liberalizing reforms), while critics argue that his doctrinal rigidity prioritized abstract theological correctness over pastoral flexibility and reform (especially on issues like sexual ethics, women’s roles, and handling of clergy scandals).",
+    "queries": [
+      "What consequences has Pope Benedict XVI’s theology and doctrine had?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "summorum pontificum",
+    "wiki_title": "summorum pontificum",
+    "summary": "Summorum Pontificum is frequently cited to portray Benedict XVI as a pope who prioritized and rehabilitated pre‑Vatican II liturgical tradition, reinforcing narratives that he was sympathetic to traditionalist Catholics and willing to roll back aspects of post‑conciliar change; conversely, opponents point to it as evidence that his policies fostered reactionary tendencies, deepened internal divisions, and complicated the Church’s Vatican II reforms.",
+    "queries": [
+      "How do people view summorum pontificum under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "extraordinary form",
+    "wiki_title": "preconciliar rites after the second vatican council",
+    "summary": "Benedict’s liberalization of preconciliar rites after the Second Vatican Council is often cited by supporters to portray him as restoring liturgical continuity, consoling traditionalists, and prioritizing reverence and doctrinal clarity. Critics use the same developments to argue he sought to roll back or soften Vatican II reforms and to empower traditionalist movements, framing his legacy as contentious for conciliar implementation and Church unity.",
+    "queries": [
+      "Was promoting the extraordinary form under Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "priestly fraternity of st. peter",
+    "wiki_title": "priestly fraternity of saint peter",
+    "summary": "Supporters of Pope Benedict XVI point to the Priestly Fraternity of Saint Peter—an approved traditionalist society dedicated to the 1962 Latin Mass—as evidence of his policy (e.g., Summorum Pontificum) to restore the pre‑Vatican II liturgy and reconcile traditionalists with Rome. Critics use the fraternity’s prominence to argue Benedict systematically favored liturgical conservatism and strengthened groups seen as resistant to post‑Conciliar reforms.",
+    "queries": [
+      "Is the priestly fraternity of st. peter justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "ecclesia dei commission",
+    "wiki_title": "ecclesia dei",
+    "summary": "References to Ecclesia Dei are used to portray Pope Benedict XVI as a conciliator who justified generous accommodations to traditionalist Catholics (liturgical concessions and outreach) while critics invoke it to argue he empowered reactionary elements, reopened pre‑Vatican II fault lines, and signaled a conservative, restorationist tilt in his papacy.",
+    "queries": [
+      "How do people view the ecclesia dei commission under Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "traditionis custodes",
+    "wiki_title": "traditionis custodes",
+    "summary": "Traditionis custodes is frequently cited to criticize Pope Benedict XVI for having loosened restrictions on the Tridentine Mass, with critics arguing his concessions fostered liturgical dissent and justified Francis’s subsequent clampdown. Conversely, defenders of Benedict portray the motu proprio as eroding his conciliatory legacy toward traditionalists and as a political repudiation of his pastoral approach.",
+    "queries": [
+      "Is traditionis custodes reasonable or not regarding Benedict XVI’s legacy?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "dominus iesus",
+    "wiki_title": "dominus iesus",
+    "summary": "Dominus Iesus is cited as a touchstone for Benedict XVI’s commitment to doctrinal clarity and Catholic exclusivism—supporters point to it to justify his conservative approach to ecumenism and church authority, while critics use it to portray him as dismissive of interreligious dialogue and religious pluralism, shaping debates about his theology and policy on interfaith relations.",
+    "queries": [
+      "What effects has dominus iesus had within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "world council of churches",
+    "wiki_title": "world council of churches",
+    "summary": "The World Council of Churches is frequently cited in debates about Pope Benedict XVI to criticize him as placing Catholic doctrinal integrity ahead of ecumenical compromise, portraying his papacy as a constraint on closer institutional unity with Protestant and Orthodox bodies. Conversely, defenders point to his encounters with WCC leaders and careful engagement as evidence he pursued honest theological dialogue rather than superficial unity, framing his stance as principled ecumenism grounded in Catholic teaching.",
+    "queries": [
+      "Is Benedict XVI’s approach to the world council of churches reasonable?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "religious pluralism",
+    "wiki_title": "religious pluralism",
+    "summary": "Claims about religious pluralism are used to criticize Pope Benedict XVI for emphasizing the unique truth of Christianity—cited in debates over his Regensburg lecture, limits on intercommunion, and cautious approach to Islam—as evidence he undermines equal validity and social harmony among religions. Supporters respond with a qualified-pluralist framing that portrays him as defending doctrinal integrity while permitting respectful dialogue, using that stance to justify his conservative theological and liturgical policies.",
+    "queries": [
+      "What effects has religious pluralism had on Catholic unity?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "extra ecclesiam nulla salus",
+    "wiki_title": "extra ecclesiam nulla salus",
+    "summary": "Supporters invoke extra ecclesiam nulla salus to frame Benedict XVI’s emphasis on doctrinal continuity and the Church’s exclusive mediating role as a principled basis for his conservative stances on sacraments, liturgy, and limits to ecumenical compromise; critics use the phrase to portray him as theologically exclusivist, accusing his rhetoric and policies of undermining interfaith dialogue and marginalizing more pluralistic Catholics.",
+    "queries": [
+      "Is extra ecclesiam nulla salus justified in Benedict XVI's theology or not?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "proselytism",
+    "wiki_title": "proselytism",
+    "summary": "Critics invoke proselytism to depict Pope Benedict XVI’s emphasis on the ‘new evangelization’ and certain public remarks (notably around Islam after the Regensburg lecture) as aggressive, culturally insensitive attempts to convert others that can harm interreligious dialogue and pluralism. Supporters and Vatican statements, by contrast, use the term to defend his insistence on active witness and religious freedom while stressing that evangelization must avoid coercion and respect conscience.",
+    "queries": [
+      "Is proselytism under Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "regensburg lecture",
+    "wiki_title": "regensburg lecture",
+    "summary": "The Regensburg lecture is frequently invoked to portray Benedict XVI either as a serious defender of the compatibility of faith and reason and a critic of religiously justified violence, or conversely as evidence of cultural insensitivity and Islamophobia that harmed his interfaith credibility and triggered diplomatic backlash. Supporters use it to justify his conservative theological stance and emphasis on rational discourse, while critics point to it as emblematic of problematic papal rhetoric and a failing in Vatican outreach to Muslim communities.",
+    "queries": [
+      "Is Pope Benedict XVI’s regensburg lecture reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "university of regensburg",
+    "wiki_title": "university of regensburg",
+    "summary": "Benedict’s association with the University of Regensburg is often invoked by supporters to emphasize his scholarly authority and to legitimize his conservative theological positions; conversely, critics point to the Regensburg lecture delivered from that academic platform as emblematic of intellectual tone-deafness and use the university as the locus for arguing that his approach hindered interfaith dialogue and informed exclusionary policy stances.",
+    "queries": [
+      "How do people view the University of Regensburg’s role for Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "ahmet necdet sezer",
+    "wiki_title": "ahmet necdet sezer",
+    "summary": "Ahmet Necdet Sezer is often invoked in debates about Pope Benedict XVI as an exemplar of secular-state pushback against papal intervention in Muslim-majority contexts; commentators use Sezer’s stance to criticize Benedict’s handling of Islamic-Christian relations (notably around the Regensburg controversy) and to justify secularist skepticism toward Vatican influence in Turkey.",
+    "queries": [
+      "How do people view ahmet necdet sezer's reaction to Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "manuel ii palaiologos",
+    "wiki_title": "manuel ii palaiologos",
+    "summary": "Manuel II Palaiologos appears chiefly because Benedict XVI quoted his harsh critique of Muhammad in the 2006 Regensburg lecture; critics cite that quotation to portray Benedict as endorsing Islamophobic or insensitive views that provoked interfaith tensions. Defenders counter that Benedict was using a historical theological source to debate faith and reason, so invoking Manuel II frames him either as a confrontational, conservative figure on Islam or as a learned apologist for Christian intellectual tradition.",
+    "queries": [
+      "Is referencing manuel ii palaiologos in papal speech reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "al-azhar",
+    "wiki_title": "al-azhar mosque",
+    "summary": "Al‑Azhar mosque/authority is frequently invoked as the leading Sunni voice that publicly criticized Pope Benedict XVI—notably after his 2006 Regensburg lecture—using its moral authority to frame his remarks as offensive, demand apologies, and press for reparative interfaith dialogue. Its statements are used in debates to justify Muslim grievances and to push policies of conciliation or, conversely, to mobilize diplomatic pressure against the Vatican when Benedict is seen as denigrating Islam.",
+    "queries": [
+      "How do people view al-azhar's dialogue with Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "interfaith dialogue",
+    "wiki_title": "interfaith dialogue",
+    "summary": "Discussions of interfaith dialogue frame Benedict XVI as either a principled defender of dialogue rooted in clear Catholic doctrine—arguing that honest engagement requires acknowledging religious truth claims—or as a figure whose doctrinal rigor and incidents like the 2006 Regensburg lecture harmed Catholic–Muslim and Jewish relations, used to criticize his sensitivity to pluralistic, diplomatic approaches to interreligious engagement.",
+    "queries": [
+      "What impacts has Pope Benedict XVI’s interfaith dialogue had?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "laicization",
+    "wiki_title": "defrocking",
+    "summary": "In debates about Pope Benedict XVI, demands to defrock clergy are often deployed by critics to accuse him of shielding abusive priests and prioritizing internal discipline over accountability.  Defenders counter by citing laicizations under his authority to argue he acted within canon law, making the term central to disputes over whether church punishment, criminal prosecution, or structural reform is the appropriate response.",
+    "queries": [
+      "How do people view laicization in Benedict XVI's papacy?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "society of st. pius x",
+    "wiki_title": "society of saint pius x",
+    "summary": "The Society of Saint Pius X is invoked as the litmus test of Benedict XVI’s conservative outreach—supporters point to his efforts to reconcile with the SSPX and broaden use of the traditional Latin Mass as evidence of his pastoral commitment to tradition and defense of pre–Vatican II liturgy. Critics, however, cite the rapprochement (and the fallout from the 2009 controversy over a Holocaust-denying SSPX bishop) to argue Benedict appeased reactionary forces, risked rehabilitating extremist views, and signaled a rollback of post‑conciliar reforms.",
+    "queries": [
+      "How do people view the society of st. pius x today?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "marcel lefebvre",
+    "wiki_title": "marcel lefebvre",
+    "summary": "In debates about Pope Benedict XVI, Marcel Lefebvre is invoked as the archetypal traditionalist whose break with Vatican II frames Benedict’s outreach—such as easing penalties on the SSPX and restoring wider use of the Tridentine Mass—as either pastoral reconciliation or a dangerous concession that legitimizes anti‑conciliar, hard‑line positions; critics say these moves risk emboldening Lefebvrian schism and rolling back Vatican II reforms, while supporters argue they are necessary steps toward unity.",
+    "queries": [
+      "Is marcel lefebvre's opposition to Vatican II reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "1988 consecrations",
+    "wiki_title": "écône consecrations",
+    "summary": "Debates about the Écône consecrations are used to frame Benedict XVI either as a reconciler who reached out to traditionalists and defended pre‑conciliar liturgical sensibilities, or as a pope whose conciliatory gestures toward the SSPX are criticized as appeasement that weakens post‑conciliar authority and doctrinal consistency.",
+    "queries": [
+      "Are Pope Benedict XVI's 1988 consecrations justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "2009 excommunications lift",
+    "wiki_title": "excommunication",
+    "summary": "Excommunication is often invoked in debates about Benedict XVI to highlight his 2009 lifting of Lefebvrite bishops’ sanctions — most controversially restoring Bishop Richard Williamson — which critics used to paint him as politically tone‑deaf and morally insensitive, while supporters framed the move as an effort at reconciliation and doctrinal unity. It also appears in arguments over his handling of clerical abuse, with opponents saying he failed to use excommunication forcefully enough to punish abusers and protect victims, and defenders emphasizing his preference for canonical process and pastoral remedies.",
+    "queries": [
+      "How do people view the 2009 excommunications lift by Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "hermeneutic of continuity",
+    "wiki_title": "hermeneutics of the second vatican council",
+    "summary": "Benedict’s promotion of a “hermeneutic of continuity” is invoked to defend his papacy as restoring Catholic tradition and justifying moves like wider use of the Latin Mass and tighter doctrinal enforcement, while opponents cite that hermeneutic to argue he downplayed the “spirit” of Vatican II and constrained reforms toward modernization and ecumenical openness.",
+    "queries": [
+      "What consequences has the hermeneutic of continuity produced in the Church?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "liberation theology",
+    "wiki_title": "liberation theology",
+    "summary": "Liberation theology is invoked in arguments about Pope Benedict XVI to portray him as a conservative critic who suppressed grassroots, socially engaged movements in favor of doctrinal orthodoxy, especially by condemning Marxist-influenced readings of the Gospel.  Defenders counter that Benedict distinguished legitimate concern for the poor from politicized ideologies, using his critiques to justify appointments and policies meant to protect church teaching rather than oppose social justice itself.",
+    "queries": [
+      "Is liberation theology compatible with Pope Benedict XVI’s teachings or not?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "gustavo gutiérrez",
+    "wiki_title": "gustavo gutiérrez",
+    "summary": "Liberation theologian Gustavo Gutiérrez is frequently invoked in debates about Pope Benedict XVI as emblematic of the clash between Benedict’s doctrinally conservative, anti‑Marxist posture and Latin America’s preferential option for the poor; critics use Gutiérrez to accuse Benedict of sidelining social‑justice theology, while defenders point to perceived Marxist influences around Gutiérrez to justify the pope’s cautious oversight.",
+    "queries": [
+      "Is gustavo gutiérrez’s emphasis on liberation theology compatible with Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "leonardo boff",
+    "wiki_title": "leonardo boff",
+    "summary": "Leonardo Boff is invoked in discussions of Pope Benedict XVI as the archetypal liberation theologian whose conflict with the Vatican is used to illustrate Benedict/Ratzinger’s theological conservatism and disciplinary approach; critics point to Boff’s censure as evidence that Benedict suppressed social‑justice and grassroots theological currents, while supporters cite Boff’s heterodox positions to justify Benedict’s enforcement of doctrinal orthodoxy.",
+    "queries": [
+      "Is leonardo boff's criticism of Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "base ecclesial communities",
+    "wiki_title": "basic ecclesial community",
+    "summary": "Supporters point to Benedict’s warnings about politicized strands within base communities as evidence he defended doctrinal orthodoxy and the unity of Church teaching, while critics argue his emphasis on hierarchical oversight and liturgical/formal models marginalized grassroots, lay-led BECs and constrained local, socially engaged pastoral practices in Latin America.",
+    "queries": [
+      "What effects did Benedict XVI's policies have on base ecclesial communities?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "marxism",
+    "wiki_title": "marxism",
+    "summary": "In debates about Pope Benedict XVI, 'Marxism' is mobilized to dispute his handling of liberation theology and social justice—critics accuse him of suppressing theologians and movements with Marxist-influenced analyses, while supporters claim he rightly resisted ideological infiltration of Church doctrine. It also frames assessments of his politics: his anti‑communist, conservative positions are portrayed either as defense of doctrinal integrity and social order or as opposition to structural critiques of inequality and popular reform.",
+    "queries": [
+      "Is Pope Benedict XVI’s critique of marxism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "church governance",
+    "wiki_title": "ecclesiastical polity",
+    "summary": "Debates about ecclesiastical polity frame Benedict XVI as a defender of strong papal primacy and centralized Church governance—used by supporters to justify his restorations of traditional liturgy and doctrinal clarity—while critics invoke polity to argue he entrenched curial authority, limited bishops’ local autonomy, and resisted synodal or decentralized responses (notably in critiques of his handling of clergy abuse and ecumenical relations).",
+    "queries": [
+      "How do people view church governance during Pope Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "roman curia",
+    "wiki_title": "roman curia",
+    "summary": "The Roman Curia figures in debates about Benedict XVI as both the instrument he used to assert doctrinal conservatism and centralize authority—reflecting his long service as a curial official—and as the opaque, bureaucratic culture critics say he relied on or failed to reform, blamed for mishandling abuse cases and contributing to the narrative that curial dysfunction precipitated his resignation.",
+    "queries": [
+      "How do people view the roman curia under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "tarcisio bertone",
+    "wiki_title": "tarcisio bertone",
+    "summary": "Cardinal Tarcisio Bertone is often invoked as Benedict XVI’s close right-hand in arguments about the pope’s legacy — supporters point to him as an effective enforcer of Benedict’s conservative theology and Vatican diplomacy, while critics cite Bertone’s controversial management of the Roman Curia and the scandals that occurred during his tenure as evidence of Benedict’s centralized, opaque governance and failure to reform the Vatican.",
+    "queries": [
+      "Is tarcisio bertone’s influence during Pope Benedict XVI’s papacy justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "secretariat of state",
+    "wiki_title": "secretariat of state (holy see)",
+    "summary": "Commentators invoke the Holy See’s Secretariat of State as the administrative and diplomatic arm that implemented Benedict XVI’s centralized, doctrinally conservative agenda—citing its personnel choices, public messaging, and foreign relations as evidence of his disciplined, continuity-oriented leadership.  Conversely, critics point to the Secretariat’s secrecy, internal infighting and handling of leaks and abuse allegations to argue Benedict’s papacy enabled curial opacity and resisted transparency or decentralizing reforms.",
+    "queries": [
+      "Is the secretariat of state under Pope Benedict XVI justified?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "pastor bonus",
+    "wiki_title": "pastor bonus",
+    "summary": "Commentators invoke Pastor bonus when discussing Benedict XVI to show how his papacy operated within and often reinforced a centralized, juridical Curial order—used by supporters to justify his emphasis on doctrinal authority and liturgical continuity, and by critics to argue he failed to reform entrenched bureaucracy and clericalism. After his resignation, contrasts between Pastor bonus and later Curial reforms are also used to frame Benedict as either a guardian of traditional structures or as a missed opportunity for modernization.",
+    "queries": [
+      "How do people view pastor bonus within Benedict XVI’s reforms?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "college of cardinals",
+    "wiki_title": "college of cardinals",
+    "summary": "The College of Cardinals is frequently invoked to explain and legitimize Benedict XVI’s papacy—his 2005 election by a predominantly conservative college is used to frame him as a doctrinally rigorous, tradition‑minded pope whose liturgical and personnel policies reflect the cardinals’ preferences. Critics, however, point to the college’s makeup and internal loyalties to argue that it enabled conservative appointments, resisted institutional reform, and shaped contentious debates about his resignation and the authority of a pope emeritus.",
+    "queries": [
+      "Is the college of cardinals' role under Benedict XVI reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "2013 papal conclave",
+    "wiki_title": "2013 conclave",
+    "summary": "The 2013 conclave is invoked in debates about Benedict XVI to argue that his rare resignation made possible a markedly different papacy under Francis—supporters use it to portray Benedict as humble and forward‑looking for facilitating a peaceful transition, while critics say his abdication weakened institutional continuity and enabled a shift away from his conservative theological priorities.",
+    "queries": [
+      "How do people view the 2013 papal conclave regarding Benedict XVI's legacy?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "cardinal electors",
+    "wiki_title": "cardinal (catholic church)",
+    "summary": "Cardinals are invoked to cast Benedict XVI as the product and leader of a conservative, academically minded wing of the Church—supportive cardinals are cited to legitimize his doctrinal and liturgical policies, while critical cardinals or allegations about curial alliances are used to fault his governance and handling of abuse. Their public praise, dissent, and the pattern of episcopal appointments are also deployed in debates over his legacy, with defenders pointing to coherent conservative achievement and critics arguing he entrenched an inward‑looking hierarchy.",
+    "queries": [
+      "Were the cardinal electors' choices during Pope Benedict XVI's election reasonable?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "angelo sodano",
+    "wiki_title": "angelo sodano",
+    "summary": "Angelo Sodano is invoked in debates about Benedict XVI as emblematic of the conservative, continuity-minded Curia that Benedict maintained; critics cite Sodano’s alleged role in shielding abusive clergy to argue that Benedict tolerated or enabled cover‑ups, while defenders point to Sodano’s diplomatic experience to frame Benedict as preserving institutional stability and traditional Vatican governance.",
+    "queries": [
+      "Is Angelo Sodano's influence during Benedict XVI's papacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "humanae vitae",
+    "wiki_title": "humanae vitae",
+    "summary": "Humanae vitae is often invoked in debates about Pope Benedict XVI to showcase his theological continuity with conservative Catholic teaching on sexuality and contraception—supporters point to his defense of the encyclical as evidence of fidelity to natural-law moral theology and doctrinal consistency, while critics use it to portray his papacy as resistant to reform and insistent on policies seen as restrictive or pastorally rigid.",
+    "queries": [
+      "How do people view humanae vitae within Pope Benedict XVI's legacy?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "women's ordination",
+    "wiki_title": "ordination of women",
+    "summary": "The debate over ordaining women is used to frame Pope Benedict XVI as a conservative guardian of Catholic doctrine—supporters cite his refusal to reopen the question as principled fidelity, while critics portray it as resistance to gender equality and reform. His formal reaffirmations that women cannot be ordained are often invoked in public arguments to justify limiting women’s roles in the Church or to push for alternative changes such as opening the diaconate.",
+    "queries": [
+      "How do people view women's ordination under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "sspx",
+    "wiki_title": "sspx resistance",
+    "summary": "References to 'SSPX resistance' are often invoked to portray Benedict XVI as a pope who reached out to traditionalist, anti‑Conciliar factions—supporters point to his gestures toward the SSPX as proof he defended older liturgical and doctrinal forms—while critics use ongoing SSPX resistance or refusal to reconcile as evidence that his approach either appeased reactionary elements or failed to secure genuine unity and accountability within the Church.",
+    "queries": [
+      "What impact did sspx have during Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "clerical celibacy",
+    "wiki_title": "clerical celibacy",
+    "summary": "Clerical celibacy features in arguments about Benedict XVI as a marker of his conservative commitment—he publicly defended mandatory celibacy while permitting limited exceptions (notably for some married former Anglican clergy), a stance defenders praise as fidelity to tradition and critics condemn as resistance to reform and part of a clerical culture they blame for secrecy and sexual-abuse failings.",
+    "queries": [
+      "What effects has clerical celibacy had in modern Catholicism?"
+    ]
+  },
+  {
+    "id": "C2-3-8",
+    "parent": "C2",
+    "level": 3,
+    "topic": "catechism",
+    "wiki_title": "catechism",
+    "summary": "The Catechism is frequently cited in debates about Pope Benedict XVI as tangible evidence of his commitment to doctrinal clarity—Ratzinger’s role in producing and defending the text is used to justify his conservative positions on liturgy, sexual morality, and clerical authority. Opponents point to the same Catechism to argue he promoted rigid, legalistic governance that downplays pastoral nuance, while supporters use it to legitimize resistance to liberalizing reforms.",
+    "queries": [
+      "How do people view Benedict XVI's catechism changes?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "canon law",
+    "wiki_title": "canon law",
+    "summary": "Canon law is repeatedly invoked to defend Benedict XVI’s papal decisions—supporters point to his background as a canonist to justify actions like the 2007 motu proprio on the Latin Mass and other liturgical or doctrinal rulings—while critics cite canonical procedures to accuse him of failing to enforce penalties in clergy sex-abuse cases and to dispute the canonical status and implications of his 2013 resignation and the title “Pope Emeritus” under canon 332 §2.",
+    "queries": [
+      "How do people view canon law changes during Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "apostolic signatura",
+    "wiki_title": "apostolic signatura",
+    "summary": "In debates about Pope Benedict XVI the Apostolic Signatura is frequently cited as evidence of his legal legacy—supporters point to his appointments and reliance on the tribunal to show a commitment to canonical order and protection of traditional rights, while critics use its opaque procedures and case outcomes to argue his papacy prioritized institutional juridical prerogatives over transparency and effective accountability in handling clerical abuse and disciplinary failures.",
+    "queries": [
+      "Is Pope Benedict XVI’s apostolic signatura intervention reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "roman rota",
+    "wiki_title": "roman rota",
+    "summary": "References to the Roman Rota are often used to frame Benedict XVI as a pope who prioritized canonical rigor and doctrinal continuity—supporters point to Rota rulings and his judicial appointments to argue he defended traditional standards on marriage, annulment and ecclesial order, while critics invoke the Rota’s strict, bureaucratic procedures to portray him as insufficiently pastoral or slow to modernize marriage-law practices.",
+    "queries": [
+      "How do people view the roman rota’s influence today?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ecclesiastical court",
+    "wiki_title": "ecclesiastical court",
+    "summary": "References to ecclesiastical courts in discussions of Pope Benedict XVI are often invoked to defend his record by framing alleged mishandling of abuse or doctrinal disputes as matters rightly dealt with through canonical process and church authority. Conversely, critics use the same institutions to argue that their secrecy and limited penalties shield clergy and dilute accountability, casting Benedict’s reliance on them as evidence of institutional protectionism and the need for secular oversight or reform.",
+    "queries": [
+      "Is Pope Benedict XVI's use of ecclesiastical court justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "liturgical movement",
+    "wiki_title": "liturgical movement",
+    "summary": "Supporters invoke the liturgical movement to justify Benedict XVI’s emphasis on continuity, reverence, and wider use of traditional rites (e.g., Summorum Pontificum), portraying his reforms as a corrective return to authentic worship. Critics counter that he used the movement’s prestige to roll back post‑Vatican II vernacular and participatory changes, framing his agenda as conservative retrenchment that sidelines lay liturgical agency.",
+    "queries": [
+      "What effects has the liturgical movement under Benedict XVI produced?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "vatileaks",
+    "wiki_title": "vatican leaks scandal",
+    "summary": "The Vatican leaks scandal is used by critics to depict Benedict XVI as presiding over a secretive, faction-ridden administration whose financial mismanagement undercut his moral authority and bolstered demands for transparency and accountability; defenders, however, frame the leaks as evidence he was undermined by entrenched Vatican factions, arguing the controversy reflects internal power struggles more than his personal culpability.",
+    "queries": [
+      "Is vatileaks during Pope Benedict XVI’s papacy justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "paolo gabriele",
+    "wiki_title": "gabriele d'annunzio",
+    "summary": "Commentators invoke Gabriele D'Annunzio to frame Pope Benedict XVI either as heir to a romanticized, elitist and nationalist cultural sensibility—used by critics to suggest his theology and liturgical preferences slip toward authoritarian or reactionary politics—or, less commonly, to cast Benedict’s emphasis on tradition and high culture as a reclamation of Catholic grandeur and cultural renewal.",
+    "queries": [
+      "What consequences did paolo gabriele's actions have for Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "gianluigi nuzzi",
+    "wiki_title": "gianluigi nuzzi",
+    "summary": "Investigative journalist Gianluigi Nuzzi’s books and leaked Vatican documents are widely invoked to depict Pope Benedict XVI’s papacy as secretive, mismanaged, and compromised by internal corruption, supporting calls for reform and sharp criticism of Benedict’s leadership.  Defenders counter by attacking Nuzzi’s methods and sensationalism, using him to argue the revelations are breaches of confidentiality that unfairly undermine papal authority.",
+    "queries": [
+      "What effects has gianluigi nuzzi had on perceptions of Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "clerical sex abuse",
+    "wiki_title": "debate on the causes of clerical child abuse",
+    "summary": "Public debates about the causes of clerical child abuse are used to shape views of Pope Benedict XVI by defenders who emphasize social, psychological, or individual factors to argue he acted appropriately or within constraints, while critics point to clericalism, institutional secrecy and hierarchical cover‑ups as root causes that implicate his record and strengthen demands for transparency, accountability, and structural reform.",
+    "queries": [
+      "How do people view clerical sex abuse responses by Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "archdiocese of munich and freising",
+    "wiki_title": "archdiocese of munich and freising",
+    "summary": "The Archdiocese of Munich and Freising is invoked as Benedict XVI’s formative power base: supporters point to his leadership there to justify his theological conservatism, liturgical preferences, and reputation as a disciplined intellectual and administrator, while critics use the archdiocese’s personnel choices and handling of clerical abuse cases to argue he favored hierarchical protectionism over transparency and reform.",
+    "queries": [
+      "What impact has archdiocese of munich and freising had on Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "snap",
+    "wiki_title": "snap",
+    "summary": "Debates over SNAP are often framed through Benedict XVI’s social‑teaching rhetoric: advocates cite his emphasis on human dignity and solidarity to argue that government programs like SNAP are morally required to protect the poor, while critics highlight his commitment to subsidiarity and the primacy of charitable institutions to justify limiting or privatizing welfare. Political actors invoke his papal writings to lend moral weight either to expanding or constraining public food‑assistance policy, making SNAP a proxy for how his teachings should shape state responsibility versus church/community care.",
+    "queries": [
+      "Is Pope Benedict XVI's snap response justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "crimen sollicitationis",
+    "wiki_title": "crimen sollicitationis",
+    "summary": "Critics invoke crimen sollicitationis to portray Benedict (as Cardinal Ratzinger and later pope) as part of a curial culture that enforced secrecy and internal handling of abuse, arguing this obstructed transparency and shielded clergy; supporters counter that he operated within canonical norms and used centralized procedures to discipline offenders and later tighten rules, framing him as a reformer rather than a cover‑up architect.",
+    "queries": [
+      "What consequences did crimen sollicitationis have during Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "sexual abuse scandals",
+    "wiki_title": "penn state child sex abuse scandal",
+    "summary": "The Penn State child sex abuse scandal is frequently cited in arguments about Pope Benedict XVI to relativize criticism—arguing that institutional failures and cover-ups occur outside the Church—or conversely to underscore that systemic abuse and institutional concealment demand the same transparency and accountability of the Vatican under his leadership. As a comparison point, it is used both to deflect singular blame from Benedict and to bolster calls for reforms, investigations, and stricter oversight of Church authorities.",
+    "queries": [
+      "Are Pope Benedict XVI's responses to sexual abuse scandals reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "cdf",
+    "wiki_title": "cdf",
+    "summary": "References to the CDF are often used to cast Benedict XVI as a doctrinally conservative, legally rigorous pope—supporters cite his previous leadership of the CDF and its rulings to justify his liturgical restorations, stricter sexual-morality stances, and efforts to enforce orthodoxy. Critics, however, point to the CDF to portray his papacy as centralized and inflexible, blaming its procedures for suppressing theological dissent and for bureaucratic mishandling of clerical sexual-abuse cases.",
+    "queries": [
+      "Was the CDF under Pope Benedict XVI justified in its doctrinal decisions?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "william levada",
+    "wiki_title": "william levada",
+    "summary": "Cardinal William Levada is invoked as evidence of Benedict XVI’s centralizing, doctrinally conservative leadership—his tenure as a senior curial official is used to justify strict enforcement of Catholic doctrine and stronger Vatican discipline. Critics, however, point to Levada’s association with the curia to argue Benedict fostered an authoritarian, insular governance style and to question the pope’s handling of clergy discipline and abuse accountability.",
+    "queries": [
+      "Is Pope Benedict XVI’s choice of William Levada reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "theodore mccarrick",
+    "wiki_title": "theodore mccarrick",
+    "summary": "Theodore McCarrick’s misconduct is frequently invoked to criticize Pope Benedict XVI’s record on clerical abuse—accusers argue Benedict failed to prevent McCarrick’s rise or to impose timely sanctions—while defenders cite evidence Benedict took some restrictive measures, making the case a focal point in debates over Benedict’s responsibility and broader calls for transparency, accountability, and institutional reform in the Church.",
+    "queries": [
+      "What effects has Theodore McCarrick’s case had on perceptions of Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "carlo maria viganò",
+    "wiki_title": "carlo maria viganò",
+    "summary": "Carlo Maria Viganò’s public accusations are often invoked in debates about Pope Benedict XVI’s role in the McCarrick/abuse controversies, with some using his claims to portray Benedict as having imposed sanctions and thus as a corrective, morally responsible figure, while others point to Viganò to allege continued secrecy or complicity at the highest levels of the Vatican. Because Viganò is polarizing, his testimony is deployed both to defend Benedict’s legacy against criticism and to argue that Benedict’s actions (or inactions) require greater scrutiny, depending on whether commentators accept his credibility.",
+    "queries": [
+      "How do people view carlo maria viganò within Catholic communities?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "donald wuerl",
+    "wiki_title": "donald wuerl",
+    "summary": "Donald Wuerl is frequently cited in arguments about Pope Benedict XVI as an example of Benedict-era personnel choices: supporters point to Wuerl as a loyal, competent appointee who reflects Benedict’s emphasis on doctrinal continuity and administrative order, while critics highlight Wuerl’s contested handling of clergy sexual‑abuse cases to argue that Benedict’s appointments contributed to systemic failures in oversight.",
+    "queries": [
+      "Is donald wuerl's appointment under Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "archdiocese of washington",
+    "wiki_title": "archdiocese of washington",
+    "summary": "The Archdiocese of Washington is often cited in debates about Benedict XVI as a showcase of his U.S. influence—used by supporters to highlight Benedict’s conservative appointments and the archdiocese’s promotion of his liturgical and doctrinal priorities, and by critics to point to controversial personnel decisions and handling of clergy sexual‑abuse cases as evidence of failures in Benedict’s vetting and accountability.",
+    "queries": [
+      "Is the archdiocese of washington's response under Benedict XVI reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "new york times",
+    "wiki_title": "the new york times",
+    "summary": "The New York Times typically frames Pope Benedict XVI through critical, investigative reporting that highlights his conservative theology and historic resignation while foregrounding and scrutinizing the Vatican’s handling of clerical sexual‑abuse scandals. Its news coverage and opinion pieces tend to support calls for institutional accountability and reform, amplify progressive critiques of secrecy and hierarchy, and only occasionally temper criticism by acknowledging his intellectual contributions.",
+    "queries": [
+      "How do people view new york times reporting on Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "usccb",
+    "wiki_title": "usccb publishing",
+    "summary": "USCCB Publishing is often cited in U.S. Catholic debates to amplify and legitimize Pope Benedict XVI’s theological writings and conservative stances on liturgy and moral teaching, providing translations, study guides, and official endorsements that supporters use to bolster his authority. Critics, however, point to the USCCB’s framing and selective promotion as a way of minimizing controversies around Benedict (especially the Church abuse crisis and decisions on episcopal discipline), arguing it can present an unduly favorable or sanitized narrative of his papacy.",
+    "queries": [
+      "What effects has usccb’s stance on Benedict XVI produced?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "marcial maciel",
+    "wiki_title": "marcial maciel",
+    "summary": "The Marcial Maciel affair is frequently cited in discussions of Pope Benedict XVI to challenge or defend his record on clerical abuse and elite accountability: critics say the Maciel case illustrates Vatican complacency or poor judgment under Benedict (and his predecessors), while supporters point to Benedict’s eventual restrictions on Maciel as evidence he took concrete corrective action against entrenched abusive networks.",
+    "queries": [
+      "How do people view Marcial Maciel today?"
+    ]
+  },
+  {
+    "id": "C3-3-1",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "legionaries of christ",
+    "wiki_title": "legionaries of christ",
+    "summary": "The Legionaries of Christ are used by critics to illustrate what they see as Pope Benedict XVI’s poor judgment or slow response to clerical sexual-abuse and cronyism—portraying his associations with the order as evidence of tolerance for problematic conservative networks—while defenders point to the Vatican-ordered investigation and later papal oversight during his pontificate as proof that he took concrete corrective action.",
+    "queries": [
+      "Was Pope Benedict XVI’s approach to Legionaries of Christ appropriate or not?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "regnum christi",
+    "wiki_title": "regnum christi",
+    "summary": "Regnum Christi is invoked to situate Benedict XVI within a conservative, charismatic current of the Church—supporters point to shared emphases on orthodoxy, liturgy and vigorous evangelization as reflecting his priorities—while critics cite Regnum Christi’s connections to the Legionaries of Christ scandals and the Vatican’s subsequent intervention to argue that Benedict either tolerated problematic clerical networks or acted only belatedly to impose necessary reforms.",
+    "queries": [
+      "How do people view regnum christi’s relationship with the Vatican?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "apostolic visitation",
+    "wiki_title": "canonical visitation",
+    "summary": "Calls for canonical or apostolic visitations are frequently cited in discussions of Benedict XVI to evaluate his willingness to use papal oversight to confront clerical abuse and institutional failings; defenders point to visitations he authorized as evidence of reform-minded governance, while critics contend they were too narrow, procedural, or employed to contain scandal rather than deliver full accountability.",
+    "queries": [
+      "Is Pope Benedict XVI’s apostolic visitation justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "pope john paul ii",
+    "wiki_title": "pope john paul ii",
+    "summary": "John Paul II is often invoked as the benchmark for evaluating Benedict XVI: defenders point to their shared doctrinal conservatism and John Paul’s broad popular authority to justify Benedict’s continuity and claims to legitimacy, while critics contrast Benedict’s more intellectual, less pastoral style with John Paul’s charisma to argue he narrowed outreach.  John Paul II’s contested handling of clerical sexual abuse is also used to contextualize or to hold Benedict accountable for institutional failures, shaping debates about the need for reform and the moral priorities of Benedict’s papacy.",
+    "queries": [
+      "Is pope john paul ii’s influence on the Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "george pell",
+    "wiki_title": "george pell",
+    "summary": "George Pell is often invoked by defenders of Pope Benedict XVI as a prominent member of his conservative, reform-minded circle whose advocacy on liturgy, doctrine and Vatican administration is used to validate Benedict’s theological and institutional legacy. Conversely, Pell’s legal controversies and high-profile clashes with reformers are cited by critics to portray Benedict’s papacy as embedded in a hierarchical culture that mishandled abuse and resisted transparency.",
+    "queries": [
+      "Is George Pell’s role under Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-1",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "royal commission (australia)",
+    "wiki_title": "royal commission",
+    "summary": "In debates over clerical sexual abuse, findings from royal commissions have been cited to portray Pope Benedict XVI as culpable for mishandling cases during his Vatican tenure, fueling public condemnation and shaping his legacy; conversely, critics and defenders dispute how much blame the commissions’ mandates can fairly ascribe to a single pope. Their reports are also used to push for stronger safeguarding, legal accountability and institutional reform, while supporters invoke commission scope and legal limits to argue the issue reflects systemic church failures rather than solely papal wrongdoing.",
+    "queries": [
+      "Is the royal commission (australia) scrutiny of Church actions justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "victorian police",
+    "wiki_title": "victoria police",
+    "summary": "Victoria Police is frequently cited in debates about Pope Benedict XVI because its investigations and policing around Catholic institutions and papal visits (most prominently the probe of Cardinal George Pell and security during papal events) are used to argue either that secular authorities can and did hold the Church to account, or conversely that law enforcement practices reflected institutional protectionism or overreach—thereby shaping judgments about Benedict's legacy on clerical abuse, accountability, and public scrutiny.",
+    "queries": [
+      "How do people view the victorian police's role in church controversies?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "high court of australia",
+    "wiki_title": "high court of australia",
+    "summary": "In Australian debates about Pope Benedict XVI, High Court rulings in high‑profile clergy cases are frequently cited to shape perceptions of Vatican accountability—supporters point to acquittals of Vatican‑linked figures to argue secular courts have overturned sensational accusations, while critics stress that the High Court’s criminal or procedural findings do not negate broader civil findings and inquiries that portray institutional failures during Benedict’s era.",
+    "queries": [
+      "Is the High Court of Australia’s handling of Pope Benedict XVI reasonable?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "abc news",
+    "wiki_title": "abc news",
+    "summary": "ABC News frequently frames Pope Benedict XVI in public debates as a conservative, scholarly pontiff whose legacy is contested, juxtaposing profiles of his theology with investigative reporting on the Vatican's handling of sexual‑abuse scandals. Its coverage tends to support scrutiny and institutional accountability while highlighting how his resignation and doctrinal stances shape contemporary arguments about the Church's direction.",
+    "queries": [
+      "What effects has abc news coverage of Pope Benedict XVI caused?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "bernard law",
+    "wiki_title": "bernard francis law",
+    "summary": "Cardinal Bernard Law—whose role in the Boston abuse scandal and relocation to a Roman post—is often invoked by critics to argue that Pope Benedict XVI presided over or failed to break a curial culture that protected abusive clergy and senior prelates; supporters reply that Benedict later pursued stronger disciplinary measures and reforms to distinguish his pontificate from the Law-era cover‑ups.",
+    "queries": [
+      "How do people view Bernard Law’s legacy within the Church?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "archdiocese of boston",
+    "wiki_title": "archdiocese of boston",
+    "summary": "The archdiocese of Boston is frequently invoked in debates over Pope Benedict XVI as the canonical example of the clergy sex‑abuse scandal used to condemn his and the Vatican’s alleged tolerance of cover‑ups and indifference to survivors; conversely, defenders point to his later reforms on clerical discipline and frame Boston as a failure of local bishops rather than of papal policy.",
+    "queries": [
+      "Is criticism of the archdiocese of boston justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "spotlight",
+    "wiki_title": "spotlight",
+    "summary": "In discussions about Pope Benedict XVI, activists, journalists, and critics often \"shine a spotlight\" on controversies—notably clerical sexual abuse, his handling of cases, and his resignation—to press for accountability, transparency, and institutional reform. Supporters and institutional defenders, however, use accusations of an unfair \"spotlight\" to argue media bias, emphasize his theological contributions, and oppose punitive policy changes aimed at the Church.",
+    "queries": [
+      "What consequences has the spotlight on Pope Benedict XVI caused?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "boston globe",
+    "wiki_title": "the boston globe",
+    "summary": "The Boston Globe is often invoked in discussions of Pope Benedict XVI to amplify investigative reporting and editorials that criticize his handling of clerical sexual abuse and press for institutional accountability. Its coverage tends to frame his papacy through the lens of scandal and the need for reform, rather than primarily celebrating his theological contributions.",
+    "queries": [
+      "How do people see the Boston Globe's reporting on Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "cardinal sean o'malley",
+    "wiki_title": "sean o'malley",
+    "summary": "Cardinal Sean O’Malley is frequently invoked in public debates about Pope Benedict XVI as a prominent Church leader who both highlights Benedict’s theological conservatism and helps shape judgments of his record on clerical sexual abuse — sometimes defending Benedict’s later actions on accountability and at other times using his abuse-reform credentials to underscore and criticize earlier institutional failures.",
+    "queries": [
+      "Is Cardinal Sean O'Malley’s influence within Benedict XVI’s circle justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "pontifical secrecy",
+    "wiki_title": "pontifical secret",
+    "summary": "Critics invoke the pontifical secret to argue that Benedict XVI—both as pope and in his prior curial roles—relied on confidentiality to shield clergy and impede accountability in abuse cases, while defenders portray his use of it as routine canon‑law confidentiality and due‑process protection; disputes over the secret therefore shape competing narratives about his transparency and responsibility for victim protection.",
+    "queries": [
+      "Is pontifical secrecy under Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "vatican apostolic archive",
+    "wiki_title": "vatican apostolic archive",
+    "summary": "Advocates, critics, and researchers invoke documents from the Vatican Apostolic Archive—especially records from Joseph Ratzinger’s years at the Congregation for the Doctrine of the Faith—to either defend Benedict XVI as a diligent administrator who followed procedure or to accuse him of enabling or covering up clerical abuse; battles over releasing or suppressing archive materials therefore shape public judgments about his transparency, culpability, and the need for institutional accountability.",
+    "queries": [
+      "How do people view the Vatican Apostolic Archive under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "cardinal angelo becciu",
+    "wiki_title": "becciu",
+    "summary": "References to Giovanni Angelo Becciu—especially his role in Vatican financial scandals and subsequent legal trouble—are invoked in debates about Pope Benedict XVI to argue that institutional corruption predates and outlasts Benedict’s papacy, challenging narratives that his resignation or reforms solved Vatican governance problems; conversely, defenders of Benedict use Becciu to separate the retired pope’s theological legacy from the administrative misconduct of other officials.",
+    "queries": [
+      "Is cardinal angelo becciu’s conduct under Pope Benedict XVI reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "parent": "C3",
+    "level": 2,
+    "topic": "2013 resignation",
+    "wiki_title": "resignation syndrome",
+    "summary": "Commentators sometimes invoke “resignation syndrome” metaphorically when discussing Pope Benedict XVI’s 2013 abdication to argue that his stepping down signaled or exacerbated institutional withdrawal, demoralization, or a crisis of confidence in the Catholic Church; supporters reject that characterization, framing the resignation instead as a sober, humble act meant to renew leadership rather than evidence of collapse.",
+    "queries": [
+      "Was Pope Benedict XVI's 2013 resignation justified or not?"
+    ]
+  },
+  {
+    "id": "C3-8-7",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "pope celestine v",
+    "wiki_title": "pope celestine v",
+    "summary": "Celestine V is invoked as the historical precedent for papal resignation when commentators assess Benedict XVI’s 2013 abdication—supporters cite Celestine to legitimize Benedict’s decision as a humble, canonical option for a pope unable to govern, while critics use Celestine’s reputation for weakness or manipulation to suggest Benedict was compromised or that modern resignations set a problematic precedent for papal authority.",
+    "queries": [
+      "How do people view pope celestine v's role compared to Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "interfaith and ecumenism",
+    "wiki_title": "ecumenism",
+    "summary": "Debates about ecumenism frame Benedict XVI as a pope who promoted theological dialogue and concrete measures (eg. Anglican ordinariates, contacts with Orthodox churches) while insisting that unity must rest on doctrinal truth rather than liturgical or institutional compromise. Supporters cite this as a principled, integrity-based approach to Christian unity; critics argue it rolled back more porous, pastoral ecumenical practices (like shared communion or loose intercommunion) and slowed rapprochement with Protestants and some Orthodox groups.",
+    "queries": [
+      "What effects has Pope Benedict XVI's interfaith and ecumenism had?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "recep tayyip erdoğan",
+    "wiki_title": "recep tayyip erdoğan",
+    "summary": "Erdoğan seized on Pope Benedict XVI’s controversial remarks (especially the 2006 Regensburg lecture) to portray the Pope and the Vatican as culturally insensitive or hostile to Islam, using the dispute to mobilize domestic Muslim sentiment and to criticize Western institutions; this framing buttressed Erdogan’s arguments against rapprochement with Vatican positions and supported broader critiques of perceived Western double standards toward Islam.",
+    "queries": [
+      "What consequences has Recep Tayyip Erdoğan’s reaction to Pope Benedict XVI caused?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "freedom of expression",
+    "wiki_title": "freedom of speech",
+    "summary": "Arguments about freedom of speech appear on both sides of debates over Benedict XVI: defenders invoke it to justify his theological and historical provocations (notably the 2006 Regensburg lecture) as legitimate academic and religious expression, while critics use it to demand accountability for Vatican secrecy and to argue his words crossed into irresponsible offense that should be tempered by duties to protect communities and abuse victims.",
+    "queries": [
+      "How do people view freedom of expression under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "christian–muslim relations",
+    "wiki_title": "muslim-christian associations",
+    "summary": "Muslim-Christian associations are invoked in discussions of Pope Benedict XVI to both bolster and critique his record on interfaith relations: supporters point to joint initiatives and dialogues with Muslim groups as proof of his conciliatory outreach, while critics highlight protests and statements from Muslim organizations after incidents like the Regensburg lecture to argue he provoked tensions and needed to adopt more culturally sensitive rhetoric and policies.",
+    "queries": [
+      "How do people view Pope Benedict XVI's Christian-Muslim relations?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "al-azhar university",
+    "wiki_title": "al-azhar university",
+    "summary": "Al-Azhar University’s public rebukes of Benedict XVI after his 2006 Regensburg lecture are frequently invoked to portray him as theologically insensitive and to legitimize Muslim demands for apology and restraint, while later cooperative exchanges with Al-Azhar are used by supporters to argue he engaged in sincere interfaith dialogue and corrective outreach.",
+    "queries": [
+      "How do people view al-Azhar University’s stance on Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "muhammad sayyid tantawi",
+    "wiki_title": "muhammad sayyid tantawi",
+    "summary": "As a prominent Muslim leader, Muhammad Sayyid Tantawi was cited by critics to portray Pope Benedict XVI’s 2006 Regensburg remarks as offensive and provocative toward Islam, demanding apology and using the episode to argue that the pope’s words harmed interfaith relations; supporters of Benedict, in turn, have referenced Tantawi’s strong rebuke to characterize Muslim reactions as politicized or disproportionate.",
+    "queries": [
+      "What impact did muhammad sayyid tantawi have on relations after Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "grand imam of al-azhar",
+    "wiki_title": "grand imam of al-azhar",
+    "summary": "The grand imam of Al-Azhar is routinely invoked in discussions of Pope Benedict XVI as a prominent Muslim voice who publicly condemned the pope’s controversial Regensburg remarks and used the episode to demand apologies, counter Islamophobia, and push for clearer Vatican engagement with Muslims. Citing the grand imam frames Benedict either as an insensitive provocateur who damages Muslim‑Christian relations or as a leader who must be steered toward diplomatic, reconciliatory policies and interfaith dialogue.",
+    "queries": [
+      "What effects has the grand imam of al-azhar had?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "a common word",
+    "wiki_title": "a common word between us and you",
+    "summary": "The phrasing 'a common word between us and you' is often invoked in discussions of Pope Benedict XVI to signal whether his language fostered inclusion or drew sharp in‑group/out‑group lines; critics use it to argue his speeches and writings reinforced exclusionary, traditionalist boundaries, while defenders present it as necessary clarity of doctrine and a call for honest dialogue between differing communities.",
+    "queries": [
+      "Is 'a common word' in Pope Benedict XVI's writings reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "catholic church and islam",
+    "wiki_title": "catholic church and islam",
+    "summary": "Debates about the Catholic Church’s relationship with Islam are frequently invoked to evaluate Pope Benedict XVI’s legacy—supporters portray his cautious theological critiques and selective outreach as principled defense of Christian doctrine and careful interfaith engagement, while critics point to episodes like the Regensburg controversy to argue he was insensitive to Muslim concerns and worsened Christian–Muslim tensions. This framing is used to justify everything from firmer religious boundaries and conservative cultural policies to demands for apology, diplomatic repair, and more pluralistic dialogue.",
+    "queries": [
+      "How do people view Benedict XVI's catholic church and islam interactions?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "anglicanorum coetibus",
+    "wiki_title": "anglicanorum coetibus",
+    "summary": "Anglicanorum coetibus is cited by supporters to portray Pope Benedict XVI as a pastorally-minded, ecumenical leader who sought to preserve doctrinal continuity by offering a structured welcome to traditionalist Anglicans; critics invoke it to argue he intervened in Anglican affairs and favored conservative factions (e.g., opponents of women’s ordination), reinforcing views of him as doctrinally protective and institutionally centralizing.",
+    "queries": [
+      "Is anglicanorum coetibus justified or not under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-3-1",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "our lady of walsingham ordinariate",
+    "wiki_title": "our lady of walsingham",
+    "summary": "References to Our Lady of Walsingham are invoked in debates about Pope Benedict XVI to signal his sympathy for pre‑Reformation English Catholic piety and strong Marian devotion—supporters use the shrine as shorthand for his efforts to restore traditional liturgy and continuity with ancient practices, while critics cite such appeals to argue he favored conservative, traditionalist currents and downplayed more progressive or reformist directions in the Church.",
+    "queries": [
+      "Is Pope Benedict XVI's our lady of walsingham ordinariate justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "chair of saint peter",
+    "wiki_title": "chair of saint peter",
+    "summary": "The Chair of Saint Peter is invoked in debates about Benedict XVI as an emblem of Petrine authority he cited to justify his stress on doctrinal continuity, papal primacy, and conservative liturgical/theological policies; critics conversely use the chair as shorthand to argue he privileged centralized hierarchical control over reform, collegiality, or synodality and to question how his 2013 resignation fit traditional concepts of the papal office.",
+    "queries": [
+      "How do people view the chair of saint peter under Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "divine worship",
+    "wiki_title": "divine worship",
+    "summary": "Debates about “divine worship” cast Benedict XVI as a defender of a more traditional, reverent liturgical ethos—his emphasis on the Latin Mass and permissions for pre‑Vatican II rites are invoked to justify conservative liturgical policies and a vision of continuity. Conversely, critics use his liturgical priorities to argue he privileged form and doctrinal clarity over post‑conciliar pastoral reforms, ecumenical sensitivity, and inclusive worship practices.",
+    "queries": [
+      "Is Benedict XVI’s emphasis on divine worship reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "anglican use",
+    "wiki_title": "anglican use",
+    "summary": "Benedict XVI’s establishment of the Anglican Use/ordinariates in 2009 is often cited by supporters as proof of his ecumenical and pastoral willingness to preserve liturgical patrimonies, while critics use it to argue he favored conservative Anglican groups, reinforced traditionalist liturgy, and centralized papal solutions in ways that strained relations with local bishops and more liberal Catholics.",
+    "queries": [
+      "What effects has anglican use had under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "keith newton",
+    "wiki_title": "keith newton",
+    "summary": "Keith Newton — the former Anglican bishop who became the first Ordinary of the Personal Ordinariate established under Pope Benedict XVI’s Anglicanorum coetibus — is often cited by supporters as concrete proof of Benedict’s conciliatory, tradition-preserving ecumenical policy that successfully drew conservative Anglicans into communion with Rome. Critics, however, point to Newton’s transfer to argue Benedict favored conservative theological lines and accommodations (including for married former Anglican clergy), a move they say undermined Anglican institutions and neglected progressive reforms such as wider acceptance of women’s ordination.",
+    "queries": [
+      "Is keith newton’s role under Pope Benedict XVI reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "jeffrey steenson",
+    "wiki_title": "steenson",
+    "summary": "Jeffrey Steenson’s conversion and selection as the first ordinary of the Personal Ordinariate under Benedict XVI is often invoked by supporters as evidence of Benedict’s ecumenical, pastoral outreach that accommodated Anglican patrimony, while critics use the move to argue Benedict strengthened conservative and traditionalist currents—fueling debates over liturgy, clerical celibacy, and the incorporation of former Anglicans into the Catholic Church.",
+    "queries": [
+      "How do people view jeffrey steenson's role in Benedict XVI's initiatives?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "anglican communion",
+    "wiki_title": "anglican communion",
+    "summary": "In discussions of Pope Benedict XVI, the Anglican Communion is frequently invoked to highlight his ecumenical strategy and conservative agenda—his establishment of personal ordinariates for former Anglicans and public critiques of liberalizing trends are used to justify his appeal to traditional authority and to bolster rapprochement with conservative Anglicans. Critics counter that Benedict’s actions toward the Communion amounted to proselytism and interference, framing him as undermining Anglican autonomy and damaging broader ecumenical trust.",
+    "queries": [
+      "How do people view Pope Benedict XVI’s relations with the anglican communion?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "ecumenical patriarch bartholomew i",
+    "wiki_title": "ecumenical patriarch of constantinople",
+    "summary": "Supporters point to the Ecumenical Patriarch’s public meetings and joint statements with Benedict XVI to portray the pope as a serious ecumenist committed to rapprochement and shared moral witness; critics, however, cite the Patriarch’s repeated objections on issues like papal primacy and alleged proselytism to argue Benedict either softened Catholic doctrine or mismanaged relations with the Eastern churches.",
+    "queries": [
+      "How is ecumenical patriarch bartholomew i's meeting with Pope Benedict XVI seen?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "east–west schism",
+    "wiki_title": "east–west schism",
+    "summary": "Debates about the east–west schism are used to frame Benedict XVI as either a conciliatory pope reaching across the divide by appealing to shared patristic tradition or as a pontiff whose emphasis on papal authority and traditional liturgy risked reopening wounds. Supporters point to the schism to justify his conservative, unity‑through‑tradition approach, while critics argue his doctrinal firmness and symbolic gestures were paternalistic or insufficient to achieve real reconciliation.",
+    "queries": [
+      "How do people view Pope Benedict XVI’s approach to the east–west schism?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "papal primacy",
+    "wiki_title": "papal primacy",
+    "summary": "Under Benedict XVI, papal primacy was repeatedly invoked to justify his centralizing moves—used by supporters to defend authoritative doctrinal clarifications, liturgical standardizations, and stronger Vatican oversight as necessary to safeguard Catholic orthodoxy. Critics, however, invoked the same doctrine to portray him as overly authoritarian and a barrier to ecumenical rapprochement with Orthodox churches and to more liberal Catholics within the Church.",
+    "queries": [
+      "Is Pope Benedict XVI’s papal primacy justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "eastern catholic churches",
+    "wiki_title": "eastern catholic churches",
+    "summary": "References to the Eastern Catholic Churches are often used to argue about Benedict XVI’s stance on ecumenism and liturgical tradition: supporters point to his outreach to Eastern hierarchies as evidence he respected their rites and sought rapprochement with Orthodoxy, while critics invoke perceived Vatican interventions or centralizing moves to claim he subordinated Eastern autonomy to Roman authority and complicated East–West reconciliation.",
+    "queries": [
+      "Was Pope Benedict XVI’s approach to eastern catholic churches reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "catholic–orthodox relations",
+    "wiki_title": "catholic–eastern orthodox relations",
+    "summary": "Discussions of Catholic–Eastern Orthodox relations commonly frame Benedict XVI as a cautious ecumenist whose gestures (lifting mutual censures, appeals for joint Christian witness) are used to support his image as seeking reconciliation and moral collaboration against secularism. Conversely, critics invoke Orthodox concerns about papal primacy and the Vatican’s ties to Eastern Catholic (Uniate) communities to portray him as asserting Roman authority or engaging in proselytism that hindered genuine rapprochement.",
+    "queries": [
+      "Is Pope Benedict XVI’s approach to catholic–orthodox relations justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "joint international commission for theological dialogue",
+    "wiki_title": "anglican–roman catholic dialogue",
+    "summary": "References to the Anglican–Roman Catholic dialogue are used to depict Benedict XVI as a cautious, procedure-driven ecumenist—highlighting his creation of ordinariates and insistence on unity under Catholic doctrine—to justify his emphasis on doctrinal clarity and reunion. Critics, however, invoke the dialogue to frame him as undermining Anglican autonomy or poaching disaffected Anglicans, arguing his approach favored institutional absorption over mutual rapprochement.",
+    "queries": [
+      "What consequences has the joint international commission for theological dialogue caused?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "environmentalism",
+    "wiki_title": "environmentalism",
+    "summary": "Environmentalism is used to depict Benedict XVI either as a religious proponent of ‘care for creation’ who frames environmental protection as a moral duty tied to stewardship and sustainable development, or conversely to criticize him for prioritizing theological cautions about ideology and moral issues over stronger, activist climate and policy measures favored by secular or progressive environmentalists.",
+    "queries": [
+      "What effects has Pope Benedict XVI’s environmentalism produced?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "lutheran world federation",
+    "wiki_title": "lutheran world federation",
+    "summary": "The Lutheran World Federation is invoked as the main ecumenical interlocutor when assessing Benedict XVI — used to either praise his gestures toward Protestant–Catholic rapprochement and joint theological dialogue or to criticize him when his emphasis on papal authority and conservative moral teachings are seen as blocking unity.  Public arguments that cite the LWF typically support policies of reconciliation and social justice while opposing Benedict’s positions that restrict women's ordination, limit shared communion, or reinforce exclusionary stances on sexual ethics.",
+    "queries": [
+      "How do people view the Lutheran World Federation under Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-5-1",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "joint declaration",
+    "wiki_title": "joint declaration",
+    "summary": "Joint declarations with other Christian bodies are often cited in debates about Pope Benedict XVI to cast him as a cautious ecumenist who sought reconciliation while insisting on precise doctrinal language. Supporters use these documents to justify his bridge-building and respect for tradition, while critics argue the carefully worded statements reveal an effort to appear open without making substantive concessions to other confessions.",
+    "queries": [
+      "How do people view Pope Benedict XVI’s joint declaration?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "pontifical council",
+    "wiki_title": "pontifical council",
+    "summary": "Pontifical councils are cited as the practical instruments Benedict XVI used to implement and justify his priorities—staffing them and creating or empowering bodies to promote doctrinal clarity, the new evangelization and traditional liturgy while resisting liberalizing reforms. Critics point to his use of councils as evidence of centralization and conservative reshaping of the Curia, whereas supporters portray them as legitimate means to restore orthodoxy and pastoral focus.",
+    "queries": [
+      "How do people view the pontifical council under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "mark s. hanson",
+    "wiki_title": "mark hanson",
+    "summary": "As a leading Lutheran ecumenical interlocutor, Mark Hanson is invoked in discussions of Pope Benedict XVI to demonstrate Benedict’s outreach to Protestant leaders while simultaneously upholding Catholic doctrinal boundaries; Hanson’s measured praise and cautious critiques are used by supporters to argue Benedict advanced ecumenical dialogue and by critics to claim that his conservatism limited meaningful unity.",
+    "queries": [
+      "Are mark s. hanson’s criticisms of Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "munib younan",
+    "wiki_title": "munib younan",
+    "summary": "Munib Younan is often invoked as a Palestinian Christian voice to assess Pope Benedict XVI’s record on interreligious dialogue and Middle East policy: his praise is used to bolster claims that Benedict engaged constructively with Jews and Muslims, while his critiques are cited to argue that Benedict’s theological stances and Vatican diplomacy inadequately addressed the concerns of Palestinian Christians.",
+    "queries": [
+      "Are Munib Younan's responses to Pope Benedict XVI justified?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "lutheran–catholic commission",
+    "wiki_title": "lutheranism",
+    "summary": "In debates about Pope Benedict XVI, Lutheranism is often invoked to judge his ecumenical credibility—some cite convergences on justification and eucharistic theology to praise his outreach and call for closer Lutheran–Catholic ties, while others point to his strong defense of papal authority, tradition, and the pre‑Vatican II liturgy as evidence he maintained doctrinal barriers to full reconciliation.",
+    "queries": [
+      "How do people view the lutheran–catholic commission?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "justification by faith",
+    "wiki_title": "sola fide",
+    "summary": "References to sola fide are used to cast Benedict XVI as a theological conservative who pushed back against Protestant ‘faith alone’ formulations, emphasizing faith’s communal, sacramental and moral dimensions and thereby defending distinctive Catholic teaching. Supporters cite his nuanced critiques as part of careful ecumenical engagement to clarify and narrow differences with Protestants, while critics use them to portray him as resistant to Protestant influence and to reforms that prioritize personal faith over church-mediated practice.",
+    "queries": [
+      "Is Pope Benedict XVI’s emphasis on justification by faith reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "2009 israel visit",
+    "wiki_title": "israel",
+    "summary": "References to Israel are used to judge Benedict XVI’s record on Jewish–Catholic relations and Holocaust memory—cited by supporters to praise his 2009 outreach and conciliatory rhetoric, and by critics to highlight perceived insensitivities. Israeli officials, Jewish groups and commentators also invoke Israel to condemn his handling of controversies (notably the Williamson excommunication) and to challenge Vatican policies on the Israeli–Palestinian conflict as either insufficiently supportive of Israel or biased against it.",
+    "queries": [
+      "What effects did Pope Benedict XVI’s 2009 israel visit have?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "shimon peres",
+    "wiki_title": "shimon peres",
+    "summary": "Shimon Peres is often invoked as a prominent Israeli/Jewish statesman whose meetings with or praise of Pope Benedict XVI are used to bolster claims that Benedict pursued genuine interfaith outreach and strengthened Vatican–Israel relations; conversely, Peres's reservations or lack of endorsement are cited to challenge narratives that Benedict adequately addressed Jewish concerns or wartime papal controversies.",
+    "queries": [
+      "What effects has Shimon Peres had on Vatican–Israel relations?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "benjamin netanyahu",
+    "wiki_title": "benjamin netanyahu",
+    "summary": "Benjamin Netanyahu is invoked as a diplomatic litmus test in debates about Pope Benedict XVI: supporters point to the pope’s public interactions with Netanyahu to argue Benedict prioritized Jewish‑Catholic reconciliation and a pro‑Israel stance, while critics use Netanyahu’s nationalist policies to claim Benedict’s papacy leaned toward conservative, pro‑Israeli politics that downplayed Palestinian rights and broader interfaith criticisms.",
+    "queries": [
+      "Are Benjamin Netanyahu’s diplomatic moves toward the Vatican justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "mahmoud abbas",
+    "wiki_title": "mahmoud abbas",
+    "summary": "Mahmoud Abbas is invoked in debates about Benedict XVI’s Middle East diplomacy: Abbas’s meetings with and occasional praise of the pope are used to depict Benedict as a conciliatory peacemaker who recognized Palestinian aspirations and pursued interfaith outreach. Critics, however, cite Abbas to argue that Benedict either gave excessive political legitimacy to Palestinian leaders or failed to press them on issues like religious freedom and anti‑Israel rhetoric.",
+    "queries": [
+      "How do people view Mahmoud Abbas’s relations with Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "yad vashem",
+    "wiki_title": "yad vashem",
+    "summary": "Yad Vashem is invoked as a moral reference point in disputes about Pope Benedict XVI: critics cite its authority on Holocaust memory to condemn perceived Vatican failures or insufficient contrition (notably around controversies over church responses to Holocaust denial and historical responsibility), while supporters point to Benedict’s visits and statements at Yad Vashem to argue he took Jewish‑Catholic reconciliation and Holocaust remembrance seriously.",
+    "queries": [
+      "What impact did Pope Benedict XVI’s engagement with yad vashem have?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "western wall",
+    "wiki_title": "western wall",
+    "summary": "References to Pope Benedict XVI’s visit to and prayer at the Western Wall are used to portray him as a bridge‑builder toward the Jewish community and to justify narratives of Vatican–Jewish reconciliation; conversely critics cite the visit as a largely symbolic, cautious gesture—useful for public relations but insufficient to address political or moral criticisms (e.g., regarding Jerusalem policy or deeper accountability).",
+    "queries": [
+      "Is Pope Benedict XVI’s gesture at the western wall reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "church of the nativity",
+    "wiki_title": "church of the nativity",
+    "summary": "Commentators invoked the Church of the Nativity during Benedict XVI’s 2009 Holy Land visit to portray him as a defender of Christian holy sites and an advocate of cautious interfaith diplomacy, framing his papacy as attentive to preserving religious heritage and ecumenical protocol. Critics countered that focusing on the basilica and the Status Quo signaled a preference for protecting monuments and traditional church rights over taking a stronger, more political stance in support of Palestinian aspirations or reforming arrangements they see as inequitable.",
+    "queries": [
+      "How do people view the Church of the Nativity under Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C4-7-8",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "holy see–israel relations",
+    "wiki_title": "holy see–israel relations",
+    "summary": "Debates about Holy See–Israel relations are often invoked to judge Benedict XVI’s record on Jewish‑Catholic reconciliation and Vatican diplomacy in the Middle East.  Supporters highlight his steady maintenance of diplomatic engagement and interfaith contacts, while critics argue his theological conservatism and certain liturgical or doctrinal moves strained trust with Israeli and Jewish communities or limited the Vatican’s leverage on peace and recognition issues.",
+    "queries": [
+      "How do people view holy see–israel relations during Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "vatican diplomacy",
+    "wiki_title": "foreign relations of the holy see",
+    "summary": "Observers invoke the Holy See’s foreign relations to portray Benedict XVI as a leader who used Vatican diplomacy to defend traditional Catholic teaching, advance ecumenical ties and press for religious freedom on the world stage. Critics counter that diplomatic fallout from the Regensburg lecture, tense dealings with China and parts of the Muslim world, and a cautious stance toward secular governments show his conservative theology sometimes hindered the Holy See’s ability to build bridges.",
+    "queries": [
+      "Is Vatican diplomacy under Pope Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "al jazeera",
+    "wiki_title": "al jazeera media network",
+    "summary": "Al Jazeera typically frames Pope Benedict XVI as a conservative, often polarizing figure — highlighting episodes like his 2006 Regensburg lecture and the Church's clerical abuse controversies to argue that his theology and leadership strained interfaith relations and resisted internal reform. Its coverage tends to support calls for accountability and interreligious sensitivity while criticizing Vatican positions seen as regressive or politically aligned against secular and Muslim perspectives.",
+    "queries": [
+      "Is criticism of al jazeera coverage of Pope Benedict XVI justified?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "islamic extremism",
+    "wiki_title": "islamic extremism",
+    "summary": "References to Islamic extremism shape debates about Benedict XVI by being used to criticize him for provoking Muslim outrage—most notably after his 2006 Regensburg lecture—and to argue that his cautious, sometimes critical remarks about Islam risk fueling Islamophobia. Conversely, defenders invoke Islamic extremism to justify his tougher stance on migration, security, and the defense of Christian identity while framing his interventions as necessary responses to jihadist violence rather than hostility to Muslims generally.",
+    "queries": [
+      "Is Pope Benedict XVI’s approach to islamic extremism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-8",
+    "parent": "C5",
+    "level": 3,
+    "topic": "christianity and islam",
+    "wiki_title": "christianity and islam",
+    "summary": "Disputes between Christianity and Islam are central to how public debate frames Pope Benedict XVI: his Regensburg lecture and other theological remarks are cited to portray him as a defender of exclusive Christian doctrine and as advocating cautious engagement with Islam, underpinning arguments for preserving Christian identity and more restrictive approaches to integration and secularism. Conversely, critics invoke Christian–Islamic tensions to accuse him of insensitivity or Islamophobia and to argue that his rhetoric damaged interfaith relations and pastoral leadership.",
+    "queries": [
+      "Are Pope Benedict XVI’s statements about christianity and islam reasonable?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "china–vatican relations",
+    "wiki_title": "china–holy see relations",
+    "summary": "Debates about China–Holy See relations are often used to cast Pope Benedict XVI either as a pragmatic diplomat who sought to restore ties and secure protections for Catholics through negotiated compromises, or as a critic of religious freedom who softened too much to the Chinese state and thereby undermined the underground Church and episcopal independence.",
+    "queries": [
+      "How do people view china–vatican relations today?"
+    ]
+  },
+  {
+    "id": "C5-2-1",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "chinese patriotic catholic association",
+    "wiki_title": "chinese catholic patriotic association",
+    "summary": "In discussions about Pope Benedict XVI the Chinese Catholic Patriotic Association is treated as the symbol of state control used to judge his China policy.  Supporters point to Benedict’s defenses of papal authority and underground Catholics against the CCPA, while critics argue his diplomatic outreach risked legitimizing state-appointed bishops and government interference in the Church.",
+    "queries": [
+      "How do people view chinese patriotic catholic association’s impact on Chinese Catholics?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "underground church",
+    "wiki_title": "underground church",
+    "summary": "References to the 'underground church' are deployed in debates over Pope Benedict XVI to either cast him as a defender of Rome‑loyal Chinese Catholics—pointing to his statements and honors for persecuted clergy—or to accuse him of compromising their autonomy by pursuing diplomatic accommodation with Beijing. Supporters present his outreach as pragmatic diplomacy to protect Catholics, while critics invoke the underground church to argue his policies risked legitimizing state control and undermining religious freedom.",
+    "queries": [
+      "How do people view the underground church during Benedict XVI's papacy?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "state administration for religious affairs",
+    "wiki_title": "ministry of religious affairs",
+    "summary": "When Pope Benedict XVI’s doctrinal positions or public statements become politically salient, ministries of religious affairs are invoked by supporters to legitimize state policies that protect traditional Catholic teaching (on liturgy, education, marriage) and by opponents or foreign governments to organize diplomatic or interfaith rebukes. In public debates these ministries thus function as institutional amplifiers or counters—either framing Benedict as a normative religious authority to be translated into policy, or as a source of sectarian tension requiring governmental restraint.",
+    "queries": [
+      "What consequences did the state administration for religious affairs have for Catholics?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "cardinal joseph zen",
+    "wiki_title": "joseph zen",
+    "summary": "Cardinal Joseph Zen is often invoked in critiques of Pope Benedict XVI’s China policy, with Zen’s outspoken defense of the underground Church used to argue that Benedict’s outreach and diplomatic compromises prioritized institutional ties over religious freedom; supporters of Benedict, by contrast, portray Zen’s warnings as partisan or alarmist when defending Vatican realpolitik.",
+    "queries": [
+      "How do people view Cardinal Joseph Zen during Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "richard williamson",
+    "wiki_title": "richard williamson",
+    "summary": "The Williamson affair is widely used to criticize Pope Benedict XVI’s judgment and priorities — critics say his 2009 move to lift SSPX bishops’ excommunications and his initial handling of Williamson’s Holocaust-denial comments revealed poor vetting and a dangerous tolerance or blind spot toward antisemitism that weakened his moral authority. Supporters, however, invoke the episode to portray Benedict as sincerely committed to reconciling traditionalist Catholics and argue the controversy resulted from staff errors or media distortion rather than papal endorsement of Williamson’s views.",
+    "queries": [
+      "How do people view richard williamson’s comments in this context?"
+    ]
+  },
+  {
+    "id": "C5-3-3",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "holocaust denial",
+    "wiki_title": "holocaust denial",
+    "summary": "Holocaust denial is invoked in debates about Pope Benedict XVI most prominently after his 2009 revocation of an SSPX bishop’s excommunication: critics seized on Bishop Richard Williamson’s denial to argue Benedict tolerated or mishandled antisemitism, while defenders insisted the pope neither endorsed denial nor antisemitism. It also figures in disputes over Benedict’s defenses of Pius XII and Vatican wartime memory, where opponents say his positions risk minimizing Catholic responsibility and demand greater historical accountability.",
+    "queries": [
+      "What impact did controversies over holocaust denial have on Benedict XVI's legacy?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "simon wiesenthal center",
+    "wiki_title": "simon wiesenthal center",
+    "summary": "The Simon Wiesenthal Center functions as a watchdog in public debates about Pope Benedict XVI, using incidents—most notably the 2009 lifting of Bishop Richard Williamson’s excommunication—to criticize the Pope and the Vatican for perceived tolerance of Holocaust denial and insufficient responsiveness to Jewish concerns, and to press for apologies, clearer repudiations, and policy changes. Its interventions frame Benedict’s record in terms of accountability on antisemitism and Holocaust memory, sometimes acknowledging positive gestures but primarily pushing for remedial action.",
+    "queries": [
+      "Are the Simon Wiesenthal Center's concerns about Benedict XVI justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "holy see press office",
+    "wiki_title": "holy see press office",
+    "summary": "The Holy See Press Office acted as the Vatican’s official mouthpiece for matters involving Benedict XVI, issuing statements that framed his doctrines, diplomatic moves, and the rationale for his resignation in ways meant to legitimize and protect the papal office. It is cited in public debates both to defend and justify his actions—particularly during controversies like the clergy sexual abuse crisis—and criticized for institutional spin and opacity that can minimize accountability.",
+    "queries": [
+      "How do people view the Holy See Press Office’s communications?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "world jewish congress",
+    "wiki_title": "world jewish congress",
+    "summary": "The World Jewish Congress has publicly criticized Pope Benedict XVI when his decisions—most notably the 2009 reinstatement of a bishop who denied the Holocaust—were seen as tolerating anti‑Semitism, demanding apologies, transparency, and stronger safeguards; it also frames his papacy within Catholic–Jewish relations by acknowledging outreach while using missteps to argue for vigilance and policy change.",
+    "queries": [
+      "What influence has world jewish congress had on views about Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "ronald lauder",
+    "wiki_title": "ronald lauder",
+    "summary": "As a prominent Jewish communal leader and philanthropist, Ronald Lauder has been invoked in debates about Benedict XVI chiefly to criticize the pope’s handling of incidents tied to antisemitism—most notably the 2009 Williamson affair—arguing it showed a need for clearer, firmer papal repudiation of Holocaust denial and better safeguards in Church appointments. At the same time Lauder’s statements are sometimes used to acknowledge and press for genuine outreach and reconciliation, framing Benedict’s legacy as mixed on Jewish-Catholic relations and accountability.",
+    "queries": [
+      "What effects has Ronald Lauder had on perceptions of Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "nostra aetate",
+    "wiki_title": "nostra aetate",
+    "summary": "Nostra aetate is often invoked in debates about Benedict XVI to test whether his conservative theology and controversial moves (e.g., the 2006 Regensburg address and the 2009 handling of Holocaust-denying bishop Richard Williamson) honored or undermined Vatican II’s commitment to Jewish and interreligious reconciliation. Supporters counter that Benedict repeatedly appealed to the principles of Nostra aetate to defend his efforts at respectful dialogue while critics use the document to argue his actions reflected a retreat from its conciliatory spirit.",
+    "queries": [
+      "What consequences has nostra aetate had for Catholic doctrine?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "holocaust remembrance",
+    "wiki_title": "international holocaust remembrance day",
+    "summary": "International Holocaust Remembrance Day is often invoked as a benchmark for Benedict XVI’s stance on Jewish–Christian relations: supporters point to his public condemnations of anti‑Semitism and participation in remembrance rhetoric to present him as committed to reconciliation, while critics use observances of the day to highlight perceived shortcomings—notably the 2009 SSPX/Williamson controversy and debates over Pius XII—and to demand stronger institutional accountability and clearer repudiation of Holocaust denial.",
+    "queries": [
+      "What consequences has holocaust remembrance under Pope Benedict XVI caused?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "pius xii beatification",
+    "wiki_title": "beatifications of pope pius xii",
+    "summary": "Benedict XVI’s decision to beatify Pius XII is frequently invoked to argue that his papacy prioritizes traditional continuity and the rehabilitation of disputed papal legacies, appealing to conservatives who value institutional authority. Conversely, critics cite the beatification to portray Benedict as dismissive of Holocaust-era criticism and Jewish concerns, using it to argue his judgment on historical moral controversies is flawed or politically motivated.",
+    "queries": [
+      "What effects has Pius XII beatification had on Benedict XVI's legacy?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "hitler's pope",
+    "wiki_title": "hitler's pope",
+    "summary": "Critics use the epithet “Hitler’s pope” to tie Benedict XVI’s youth in Nazi Germany and his conservative, authoritarian image to moral culpability or continuity with problematic Church attitudes, aiming to undermine his moral authority and bolster calls for accountability or reform. Supporters reject the label as a politicized smear meant to delegitimize his theological positions and leadership rather than engage with his record fairly.",
+    "queries": [
+      "Is calling Pope Benedict XVI 'hitler's pope' reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "vatican bank",
+    "wiki_title": "institute for the works of religion",
+    "summary": "The Institute for the Works of Religion (the Vatican Bank) is frequently cited in debates over Pope Benedict XVI as a symbol of Vatican secrecy and financial mismanagement under his watch, or conversely as an area where he initiated but could not fully complete reform. Critics point to IOR-related scandals to portray Benedict as lax on accountability, while supporters highlight his personnel changes and calls for oversight to cast him as a cautious reformer of Vatican finances.",
+    "queries": [
+      "What impact did Vatican Bank controversies have on Benedict XVI's reputation?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "banco ambrosiano",
+    "wiki_title": "banco ambrosiano",
+    "summary": "References to Banco Ambrosiano are often used by critics to link Benedict XVI to the Vatican’s history of financial scandal and secrecy—arguing the bank’s 1980s collapse underscores failures of oversight in the Curia and undermines Benedict’s moral authority on institutional reform—while defenders counter that the affair predates his papacy and is cited mainly to demand greater transparency rather than prove personal culpability.",
+    "queries": [
+      "What impact has banco ambrosiano had on perceptions of Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "roberto calvi",
+    "wiki_title": "roberto calvi",
+    "summary": "References to Roberto Calvi and the Banco Ambrosiano scandal are deployed by critics to paint Pope Benedict XVI as presiding over a Vatican that long tolerated financial secrecy and unresolved corruption, undermining his moral authority; conversely, supporters cite Calvi-era scandals to justify and highlight Benedict’s later push for financial reform and greater institutional accountability.",
+    "queries": [
+      "Is roberto calvi’s Vatican connections relevant to Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "money laundering",
+    "wiki_title": "money laundering",
+    "summary": "References to money laundering are invoked by critics to portray Benedict XVI's tenure as marred by opaque Vatican finances and potential complicity or negligence, strengthening calls for criminal probes, transparency, and stricter financial oversight. Supporters counter that such accusations overstate criminality—conflating institutional secrecy or mismanagement with deliberate laundering—and frame debates toward legalistic reform rather than personal culpability.",
+    "queries": [
+      "What effect does money laundering have on perceptions of Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "social conservatism and culture",
+    "wiki_title": "social conservatism",
+    "summary": "Social conservatism frames Benedict XVI as an authoritative defender of traditional moral and social orders—used by supporters to justify his emphasis on family, sexual ethics, liturgical tradition, and the Church’s public role and policy positions (e.g., opposition to same‑sex marriage, contraception, and female ordination). Critics, meanwhile, invoke social conservatism to argue that his stance resisted pluralism and social progress, portraying him as regressive or intolerant in public debates over rights and secularism.",
+    "queries": [
+      "Is Pope Benedict XVI's social conservatism and culture stance reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "latin mass society",
+    "wiki_title": "latin mass society of ireland",
+    "summary": "The Latin Mass Society of Ireland invokes Pope Benedict XVI — especially his 2007 motu proprio Summorum Pontificum — to portray him as a defender of the traditional Latin (Tridentine) liturgy and to justify calls for wider access to the older rite. Opponents, meanwhile, point to that alignment to criticize Benedict as tilting the Church back toward pre-Vatican II practices and conservative liturgical priorities.",
+    "queries": [
+      "What impacts has the latin mass society had on Catholic unity?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "tridentine mass",
+    "wiki_title": "tridentine mass",
+    "summary": "Debates about the Tridentine Mass are used to cast Benedict XVI as a pope sympathetic to traditionalism — his 2007 liberalization is cited by supporters as a conciliatory defense of liturgical continuity and by critics as a move that weakened post‑Vatican II reforms and empowered reactionary factions, fueling arguments about his priorities on unity, authority, and the Church’s direction.",
+    "queries": [
+      "Is Pope Benedict XVI's promotion of the tridentine mass justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "liturgical reform",
+    "wiki_title": "liturgical reform",
+    "summary": "References to liturgical reform are central in debates about Benedict XVI—critics use them to portray him as intent on rolling back post‑Vatican II changes and empowering traditionalist rites, while supporters present his measures (e.g., broader permission for the older Latin Mass) as a corrective aimed at restoring reverence, unity, and continuity in worship rather than rejecting reform outright.",
+    "queries": [
+      "How do people view liturgical reform under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "same-sex marriage",
+    "wiki_title": "same-sex marriage",
+    "summary": "Debates over same-sex marriage are often used to portray Benedict XVI as a staunch defender of traditional Catholic marriage—cited by supporters to justify Vatican opposition to legal recognition of same-sex unions and to argue for religious freedom in public policy.  Critics, meanwhile, point to his public statements and Vatican lobbying on the issue to depict him as resisting LGBT rights and social inclusion, shaping controversies over the Church’s role in secular law and politics.",
+    "queries": [
+      "What consequences has debate over same-sex marriage had for Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "lgbt rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Analyses of LGBTQ rights by country are often cited to show how Benedict XVI’s conservative teachings on sexuality and marriage correlated with slower legal recognition and protections for LGBT people in Catholic-influenced states, a point critics use to blame his doctrinal tone for real-world resistance to equality. Supporters respond that such national patterns stem from broader cultural and political forces and stress the pope’s emphasis on pastoral care rather than endorsing state discrimination.",
+    "queries": [
+      "How do people view Pope Benedict XVI’s stance on lgbt rights?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "civil unions",
+    "wiki_title": "civil union",
+    "summary": "Arguments about civil unions are used to highlight Benedict XVI’s conservative defense of traditional marriage—he publicly opposed legal recognition of same‑sex partnerships and urged Catholics and policymakers to resist laws he saw as eroding the unique social and procreative role of marriage. Supporters present this stance as a principled defense of family and religious freedom, while critics cite his opposition to civil unions as evidence of hostility to LGBT equality and the denial of legal protections for same‑sex couples.",
+    "queries": [
+      "What social impacts have civil unions had in religious contexts?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "u.s. conference of catholic bishops",
+    "wiki_title": "united states conference of catholic bishops",
+    "summary": "The USCCB routinely cites Pope Benedict XVI’s teachings and papal decisions to justify conservative U.S. Catholic positions—invoking his authority to defend stricter liturgical norms, oppose contraception, abortion and same-sex marriage, and challenge health‑care mandates as threats to religious freedom. Conversely, commentators use the USCCB’s public reception or critique of Benedict (especially around clerical sexual‑abuse handling and discipline) to argue he either did not act forcefully enough or that his policies were inadequately enforced.",
+    "queries": [
+      "What effects has the u.s. conference of catholic bishops had?"
+    ]
+  },
+  {
+    "id": "C6-3-7",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "secularism",
+    "wiki_title": "secularism",
+    "summary": "Critics invoke secularism to portray Benedict XVI as defending an outsized public role for Catholic doctrine—arguing his speeches, social teaching and Vatican policies privilege religion over pluralist, liberal norms on issues like bioethics, education and LGBT rights. Defenders counter that secularism can improperly exclude religious conscience, using Benedict’s interventions to justify keeping faith-based moral perspectives active in public law and policy debates.",
+    "queries": [
+      "How do people view secularism during Pope Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "abortion",
+    "wiki_title": "abortion",
+    "summary": "Abortion is invoked to frame Pope Benedict XVI as a firm defender of traditional Catholic pro‑life doctrine—used to justify his public opposition to legal abortion, restrictions on reception of Communion by pro‑choice politicians, and appeals for laws protecting unborn life. Critics cite his anti‑abortion positions to portray him as socially conservative and out of step with women's reproductive autonomy and public‑health arguments, while supporters present those same positions as principled defense of human dignity.",
+    "queries": [
+      "Is Pope Benedict XVI's stance on abortion reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Anti-abortion movements regularly invoke Benedict XVI’s teachings and public statements to legitimize stricter legal limits on abortion and to present his papacy as a moral authority backing pro-life political activism.  Conversely, critics point to his alignment with these movements to argue that his leadership prioritized doctrinal enforcement over women’s autonomy and encouraged the Church’s direct influence on public policy debates.",
+    "queries": [
+      "Is Pope Benedict XVI's support of the pro-life movement justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "dignitas personae",
+    "wiki_title": "dignitas personae",
+    "summary": "Dignitas Personae is cited as evidence that Pope Benedict XVI exercised decisive, conservative leadership on contemporary bioethical issues—supporters use it to portray him as a principled defender of traditional Catholic moral teaching and continuity with past popes. Critics use its positions to argue Benedict was doctrinaire and resistant to reproductive rights and scientific autonomy, framing his papacy as socially and politically conservative on life-issues.",
+    "queries": [
+      "What impacts has dignitas personae had on public bioethical debates?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "roe v. wade",
+    "wiki_title": "roe v. wade",
+    "summary": "Roe v. Wade is invoked in debates about Pope Benedict XVI to show how his firm, doctrinal pro‑life stance bolstered conservative efforts to challenge or roll back abortion rights; conversely, critics use the Roe framework to argue his moral absolutism and Vatican interventions politicized Catholic teaching and clashed with pluralistic, rights‑based legal orders.",
+    "queries": [
+      "What consequences did Benedict XVI’s stance on roe v. wade have?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "holy communion",
+    "wiki_title": "eucharist",
+    "summary": "References to the Eucharist are often used to portray Benedict XVI as a theological traditionalist who prioritized the real presence, liturgical reverence, and strict rules on who may receive Communion—justifying his moves toward the Latin Mass, ad orientem celebration, and limits on Communion for divorced/remarried or pro‑abortion politicians. Critics counter that his Eucharistic emphasis signaled a preference for doctrinal purity over pastoral inclusion and was wielded to police Catholic identity.",
+    "queries": [
+      "What effects has Pope Benedict XVI's stance on holy communion caused?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "planned parenthood",
+    "wiki_title": "planned parenthood",
+    "summary": "Planned Parenthood is often invoked in discussions of Pope Benedict XVI as the flagship opponent of his conservative sexual‑ethics and pro‑life teachings: critics point to the organization’s provision of contraception and abortion to argue Benedict’s positions are out of step with modern public‑health needs, while supporters of the pope cite his doctrines to justify opposition to Planned Parenthood’s policies and influence.",
+    "queries": [
+      "What effects has Pope Benedict XVI’s stance had on planned parenthood?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "opus dei",
+    "wiki_title": "opus dei",
+    "summary": "Critics invoke Opus Dei when arguing that Benedict XVI’s papacy favored a secretive, technocratic conservatism—using the prelature as a symbol of clerical networks that allegedly drove centralized, traditionalist appointments and policies. Supporters, by contrast, point to his affinity with Opus Dei’s emphasis on lay holiness and doctrinal rigor to portray him as a disciplined reformer committed to orthodoxy and energizing devout lay participation.",
+    "queries": [
+      "How do people view Opus Dei’s influence during Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C6-5-1",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "josemaría escrivá",
+    "wiki_title": "josemaría escrivá",
+    "summary": "Josemaría Escrivá is invoked in discussions of Pope Benedict XVI to signal Benedict’s affinity for Opus Dei–style conservative spirituality and the idea of sanctifying ordinary life, which supporters cite to justify his emphasis on tradition, liturgy, and robust lay formation. Conversely, critics use Escrivá as evidence that Benedict was sympathetic to elitist or corporatist influences within the Church and inclined to resist progressive reforms.",
+    "queries": [
+      "How do people view josemaría escrivá in Benedict XVI’s legacy?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "álvaro del portillo",
+    "wiki_title": "álvaro del portillo",
+    "summary": "References to Álvaro del Portillo are used to frame Pope Benedict XVI as aligned with Opus Dei‑style conservatism and pastoral priorities: supporters invoke Del Portillo’s reputation for orthodox, humble leadership to justify Benedict’s theological continuity and personnel choices, while critics point to his association with Opus Dei to argue Benedict favored centralized, traditionalist influence in Vatican governance and liturgical/pastoral policy.",
+    "queries": [
+      "How do people view álvaro del portillo’s leadership in Benedict XVI’s era?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "personal prelature",
+    "wiki_title": "personal prelature",
+    "summary": "In debates about Pope Benedict XVI, ‘personal prelature’ is often cited to frame him as sympathetic to institutional tools that empower conservative, networked movements (notably Opus Dei), with critics arguing he used such structures to shield traditionalist influence and limit reform. Supporters counter that his backing of personal prelatures illustrates a preference for pastoral flexibility and subsidiarity to preserve orthodoxy and targeted ministry rather than blanket centralization.",
+    "queries": [
+      "How do people view the personal prelature in Benedict XVI’s legacy?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "the da vinci code",
+    "wiki_title": "the da vinci code",
+    "summary": "The Da Vinci Code is often invoked in discussions of Pope Benedict XVI as a cultural shorthand: critics cite its conspiratorial, anti‑Catholic narrative to frame Benedict’s papacy as emblematic of a secretive, conservative, and authoritarian Church in need of transparency and reform, while defenders dismiss the novel as sensational fiction and use it to rally support for Benedict’s doctrine and institutional authority.",
+    "queries": [
+      "How has the da vinci code affected views of the papacy?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "traditionalist catholicism",
+    "wiki_title": "traditionalist catholicism",
+    "summary": "Traditionalist Catholicism is invoked to portray Benedict XVI as a restorative, continuity‑minded pope—used by supporters to justify his liberalization of the Latin Mass, outreach to traditionalist groups, and conservative episcopal appointments—while critics cite it to argue he empowered reactionary forces, risked reversing Vatican II reforms, and signaled a retreat from postconciliar liberalization.",
+    "queries": [
+      "What effects has traditionalist catholicism caused in the wider Church?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "religious freedom",
+    "wiki_title": "freedom of religion",
+    "summary": "Debates about freedom of religion are used to defend Benedict XVI’s emphasis on the public role of faith and conscience — supporters claim his stands on moral issues, liturgy, and religious exemptions protect churches and believers from secular encroachment. Critics use the same language to argue his rhetoric (notably the Regensburg controversy), conservative reforms, and handling of dissent curtailed pluralism and at times strained interreligious freedom rather than expanded it.",
+    "queries": [
+      "How do people view religious freedom during Benedict XVI’s papacy?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "french headscarf ban",
+    "wiki_title": "french ban on face covering",
+    "summary": "In debates about Pope Benedict XVI, the French face‑covering ban is invoked both to criticize him for fostering a climate that marginalizes Muslim women—linking his rhetoric on Islam and European identity to policies that curb visible Muslim practice—and to support his emphasis on preserving a shared public culture, with proponents arguing state limits on face coverings reflect his call for integration and public reason. Thus the law is used rhetorically to either condemn Benedict as complicit in assimilationist, security‑oriented policies or to justify his conservative defense of cultural cohesion.",
+    "queries": [
+      "How do people view the french headscarf ban?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "conscientious objection",
+    "wiki_title": "conscientious objector",
+    "summary": "Supporters invoke 'conscientious objector' to emphasize Benedict XVI’s recurrent stress on the primacy of conscience and moral responsibility, framing him as sympathetic to individuals who refuse military or immoral orders.  Critics, however, use the term to argue he remained constrained by the Church’s emphasis on legitimate authority and just-war teaching, portraying him as ambivalent or insufficiently supportive of broad legal protections for objectors.",
+    "queries": [
+      "How do people view conscientious objection under Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and public image",
+    "wiki_title": "the public image",
+    "summary": "Benedict XVI’s public image—centered on his scholarly intellect, conservative theology, and sometimes aloof demeanor—is invoked by supporters to legitimize traditionalist doctrine, strict liturgical norms, and strong papal authority, while critics use it to portray him as out of touch, authoritarian, or partly responsible for the church’s mishandling of sexual‑abuse scandals; his unprecedented resignation further frames debates about papal stability and moral leadership.",
+    "queries": [
+      "How do people view Pope Benedict XVI’s media and public image?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "papal resignation",
+    "wiki_title": "papal renunciation",
+    "summary": "Benedict XVI’s papal renunciation is frequently cited to cast him as a humble, pragmatic leader who modernized the office by normalizing voluntary resignation when infirm, thereby legitimizing a procedural option for future popes; conversely, critics use it to argue he weakened the lifetime model of the papacy, raised questions about continuity and authority, and invited conspiracy theories about his motives and Vatican governance.",
+    "queries": [
+      "What effects did Pope Benedict XVI’s papal resignation have?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "pope emeritus",
+    "wiki_title": "bishops in the catholic church",
+    "summary": "In debates about Pope Benedict XVI, bishops are invoked as evidence of his theological and bureaucratic influence — supporters point to the conservative, liturgy-centered bishops he appointed as proof of his commitment to orthodoxy and continuity, while critics cite those appointments and bishops’ handling of sexual-abuse cases and pastoral practice to argue he entrenched a hierarchy resistant to transparency and reform. Public statements and disciplinary actions by bishops are repeatedly used to justify praise or blame for Benedict’s priorities on doctrine, liturgy, and church governance.",
+    "queries": [
+      "How do people view Pope Benedict XVI as pope emeritus?"
+    ]
+  },
+  {
+    "id": "C8-2-2",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "mater ecclesiae monastery",
+    "wiki_title": "mater ecclesiae monastery",
+    "summary": "Benedict’s retreat to the Mater Ecclesiae monastery after his 2013 resignation is often invoked to frame his papacy’s end as either a modest, contemplative withdrawal that preserved papal dignity or as a problematic ‘laying-on’ of residual influence; critics claim his continued presence in the Vatican created ambiguity and hindered Francis’s reforms, while defenders use the monastery to stress his voluntary surrender of active power and personal humility.",
+    "queries": [
+      "What impact did the mater ecclesiae monastery have on Benedict’s papacy?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "clerical sexual abuse",
+    "wiki_title": "catholic church sexual abuse cases",
+    "summary": "Public arguments about Catholic Church sexual abuse cases are often used to attack Benedict XVI’s legacy by alleging that, both as Cardinal Ratzinger and as pope, he helped shield abusers or downplay complaints—framing him as complicit and undermining his moral authority. Defenders counter that his later actions (resignations, laicizations and new safeguarding measures) show he took steps to confront the crisis, a claim used to justify reforms and mitigate calls for further legal or institutional accountability.",
+    "queries": [
+      "What effects did clerical sexual abuse controversies have on Benedict XVI’s reputation?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "vatican bank (ior)",
+    "wiki_title": "ior",
+    "summary": "The rune name \"ior\" rarely figures in mainstream discussion of Pope Benedict XVI; when it appears it is typically invoked by fringe online or esoteric groups to frame him within cultural-identity debates — either criticizing him as a representative of Christian suppression of pre-Christian European traditions or co-opting runic imagery in nationalist or traditionalist endorsements of his conservative stance.",
+    "queries": [
+      "Is Benedict XVI’s oversight of vatican bank (ior) reasonable?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "la repubblica",
+    "wiki_title": "la repubblica",
+    "summary": "As a prominent Italian center-left paper, la Repubblica frequently frames Pope Benedict XVI as a conservative, tradition-minded pontiff whose theology and Vatican policies are at odds with secular and progressive values; its coverage is often used to criticize his handling of scandals, secrecy, and social issues and to justify calls for greater church transparency and reform. In public debates it supplies skeptical or critical interpretations that bolster opponents of Benedict’s positions while highlighting tensions between the Vatican and Italy’s secular institutions.",
+    "queries": [
+      "How do people view la repubblica’s reporting on Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "pope francis",
+    "wiki_title": "pope francis",
+    "summary": "Francis is often used as a foil to Benedict XVI: defenders of Benedict point to Francis’s pastoral, less formal style and perceived ambiguities on liturgy and moral teaching to argue that Francis departs from Benedict’s theological clarity and traditional priorities, while critics of Benedict invoke Francis’s emphasis on mercy, social justice, and synodal reform as a corrective to what they see as Benedict’s juridical or elitist approach. Debates about papal authority and continuity after Benedict’s resignation frequently cite Francis’s institutional and diplomatic choices to justify either continuity with or a break from Benedictine policies and tone.",
+    "queries": [
+      "Is Pope Francis's approach reasonable compared to Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C8-7-6",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "curia reform",
+    "wiki_title": "gregorian reform",
+    "summary": "Commentators often invoke the Gregorian Reform to cast Benedict XVI as a modernizer of ecclesial order—using its precedent to justify his push for papal primacy, stricter clerical discipline and a restoration of traditional liturgy and moral standards. Opponents deploy the same analogy to criticize him as centralizing and ‘medievalizing,’ arguing his policies roll back Vatican II’s collegial and pastoral reforms in favor of top‑down institutional control.",
+    "queries": [
+      "How do people view curia reform initiated by Pope Benedict XVI?"
+    ]
+  },
+  {
+    "id": "C8-7-7",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "vatican finances",
+    "wiki_title": "secretariat for the economy",
+    "summary": "Public debates invoke the Secretariat for the Economy to argue that Benedict XVI’s pontificate left Vatican finances opaque and poorly overseen, using its creation and probes as evidence that major reforms were deferred until after his resignation. Supporters of Pope Francis frame the Secretariat as a corrective to Benedict-era structures, while defenders of Benedict counter that the office reflects continuity problems rather than personal culpability.",
+    "queries": [
+      "How do people view vatican finances today?"
+    ]
+  }
+]

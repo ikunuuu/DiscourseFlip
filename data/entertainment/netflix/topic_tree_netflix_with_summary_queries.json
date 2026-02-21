@@ -1,0 +1,2048 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "netflix",
+    "wiki_title": "netflix",
+    "summary": "Netflix is frequently invoked as the archetype of streaming-era disruption: proponents cite its global reach and data-driven originals to argue for innovation and consumer choice, while critics use it to highlight market concentration, threats to traditional media and theaters, and problematic labor and algorithmic practices. Debates about Netflix therefore often center on calls for antitrust scrutiny, local-content rules, taxation and platform regulation versus arguments that such interventions would stifle investment and cultural experimentation.",
+    "queries": [
+      "Is netflix's content strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "streaming market competition",
+    "wiki_title": "streaming media",
+    "summary": "Proponents invoke the streaming-media model to portray Netflix as a consumer-empowering, on‑demand replacement for legacy TV—used to justify subscription pricing, global expansion, and algorithmic personalization. Critics frame streaming to argue Netflix concentrates market power, sidesteps broadcaster regulations and local-content obligations, enables algorithmic gatekeeping and data-privacy concerns, and burdens net‑neutrality and network infrastructure.",
+    "queries": [
+      "What effects has streaming market competition had on Netflix?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "disney+",
+    "wiki_title": "disney+",
+    "summary": "Disney+ is commonly used as a competitive benchmark in debates about Netflix, with commentators pointing to Disney’s franchise-driven exclusives and bundling strategies to argue that Netflix must pivot toward more original tentpoles, tiered pricing, or ad-supported offerings. It also surfaces in arguments over market structure—being cited both to justify studio vertical integration and to warn about consolidation, while Netflix defenders counter that Netflix’s global catalog and technology-led approach remain more innovative.",
+    "queries": [
+      "What effects has Disney+ had on Netflix's strategies?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "marvel cinematic universe",
+    "wiki_title": "marvel cinematic universe",
+    "summary": "Commentators and fans invoke the Marvel Cinematic Universe to criticize Netflix for losing or being sidelined by big-studio franchising—citing the cancellation and removal of Marvel series after Disney built Disney+ as evidence that corporate consolidation and platform exclusivity undermine long-term creative partnerships. Others use the Netflix-era MCU shows to argue Netflix can offer grittier, serialized, adult-focused extensions of blockbuster IP, portraying Netflix as a haven for riskier franchise storytelling that mainstream MCU films typically avoid.",
+    "queries": [
+      "How do people view the Marvel Cinematic Universe's Netflix availability?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "star wars",
+    "wiki_title": "star wars",
+    "summary": "Star Wars is often cited in discussions about Netflix as the poster-child for why studios hoard flagship franchises — Disney’s retention and migration of Star Wars to its own platform is used to criticize content fragmentation and argue that such vertical integration weakens Netflix’s licensed library and competitiveness. At the same time, advocates of exclusivity point to Star Wars as evidence that owning marquee IP (and building original tentpole properties) is the most effective way to attract and retain subscribers, underpinning Netflix’s strategy to invest heavily in original franchises.",
+    "queries": [
+      "Is Netflix’s handling of Star Wars reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "bob iger",
+    "wiki_title": "bob iger",
+    "summary": "Iger is frequently cited as the counterpoint to Netflix — his push to weaponize Disney’s deep IP, theatrical-first thinking, and bundled DTC offerings (Disney+, Hulu) is used to argue that legacy studios can outmuscle Netflix and that scale, ownership of franchises, and vertical control are superior to Netflix’s algorithm-and-output model. His public moves and remarks are invoked to justify consolidation, stronger protections for content owners, and skepticism about Netflix’s strategy of volume-driven originals and liberal windowing/licensing.",
+    "queries": [
+      "How do people view bob iger’s handling of Netflix content?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "prime video",
+    "wiki_title": "amazon prime video",
+    "summary": "Amazon Prime Video is often invoked as a direct foil to Netflix in public debates about pricing, value, and content strategy—critics point to Prime’s bundled Amazon benefits to argue Netflix is overpriced or vulnerable, while defenders highlight Prime’s weaker roster of flagship originals to claim Netflix still leads on prestige content. It’s also used to frame broader policy and market arguments, bolstering positions that the streaming arena is competitive (weakening calls to curb Netflix) or that bundled platforms create unfair advantages that warrant regulatory scrutiny.",
+    "queries": [
+      "What impacts has prime video had on Netflix and streaming?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "amazon studios",
+    "wiki_title": "amazon game studios",
+    "summary": "Public debate often invokes Amazon Game Studios as a foil when discussing Netflix’s moves into gaming and interactive content—either to argue Netflix is lagging behind deep‑pocketed tech incumbents or to warn that media companies’ push into games reproduces problematic platform dominance. It’s used both to justify calls for tougher antitrust scrutiny of cross‑sector bundling and to argue that Netflix must pursue aggressive investment and bundling strategies to remain competitive.",
+    "queries": [
+      "How do people view Amazon Studios compared to Netflix?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "max",
+    "wiki_title": "max",
+    "summary": "Max is frequently invoked as a direct competitor to Netflix, used to contrast Netflix’s scale-and-experimentation approach (ad tiers, password enforcement, global originals) with Max’s legacy premium-TV/content-bundle model, shaping debates over which streaming strategy is sustainable. Critics cite Max’s prestige programming to argue Netflix has eroded quality, while defenders point to Max’s rebrand/market struggles to justify Netflix’s focus on volume, pricing flexibility, and rapid product changes.",
+    "queries": [
+      "What effects has Max had on Netflix’s market position?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "hbo",
+    "wiki_title": "hbo",
+    "summary": "HBO is frequently invoked as Netflix’s prestige foil in public debates—used to claim HBO’s curated, high-cost, creator-driven model produces higher-quality ‘must-watch’ content while Netflix’s scale, algorithmic curation and rapid releases favor quantity and churn. Commentators also cite HBO to both criticize and justify Netflix’s moves (ad tiers, price hikes, fewer prestige bets) and to highlight concerns about consolidation, exclusivity windows, and different distribution strategies in the streaming wars.",
+    "queries": [
+      "How do people view HBO compared to Netflix?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "day-and-date release",
+    "wiki_title": "simultaneous release",
+    "summary": "Netflix’s use of simultaneous (or very-short-window) releases is invoked by supporters as proof the company prioritizes consumer access and modern distribution, while critics use it to argue Netflix undermines cinemas, awards norms and traditional distributor–exhibitor contracts. The practice therefore fuels calls for enforced theatrical windows or industry pushback to protect movie theaters and shapes policy debates about how streaming services should balance prestige releases with subscriber-first strategies.",
+    "queries": [
+      "What effects has day-and-date release caused for Netflix?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "ad-supported streaming",
+    "wiki_title": "free ad-supported streaming television",
+    "summary": "Advocates of FAST services use their rapid growth to argue that consumer demand for free, ad‑supported streaming undermines Netflix’s pure‑subscription model and justifies Netflix adding ad tiers or cutting prices; defenders of Netflix counter by pointing to FAST platforms’ weaker catalogs and ad constraints to justify Netflix’s premium, ad‑free positioning and continued investment in originals.",
+    "queries": [
+      "How do people view ad-supported streaming on Netflix?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "password sharing",
+    "wiki_title": "account sharing",
+    "summary": "Arguments over account sharing cast Netflix in two opposing lights: critics say crackdowns punish households, erode user goodwill, and demand affordable family or device-based plans and stronger privacy safeguards, while defenders argue limiting password sharing is a legitimate policy to stop freeloading, preserve subscription revenue, and fund original programming.",
+    "queries": [
+      "How do people view password sharing on Netflix?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "terms of service",
+    "wiki_title": "terms of service",
+    "summary": "Netflix’s Terms of Service are frequently invoked to justify its account‑sharing enforcement, data collection for personalization, unilateral price or content changes, and limits on refunds or liability; critics cite opaque language and arbitration/class‑action waivers in the ToS to argue Netflix evades accountability and weakens consumer rights.  As a result, debates over Netflix often use its ToS to push for greater transparency, stronger privacy protections, and regulatory constraints on unilateral platform power.",
+    "queries": [
+      "Are Netflix's terms of service reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "two-factor authentication",
+    "wiki_title": "multi-factor authentication",
+    "summary": "Security advocates cite MFA to press Netflix to require or better support two‑factor authentication as a way to curb account takeovers, credential‑stuffing and fraud; critics push back that mandatory or clumsy MFA (especially SMS‑based) would inconvenience subscribers, disrupt casual account‑sharing habits, and introduce SIM‑swap or privacy risks, framing Netflix’s choices as a tradeoff between security and user convenience.",
+    "queries": [
+      "What impact has two-factor authentication had on Netflix account security?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "subscription economy",
+    "wiki_title": "vehicle subscription",
+    "summary": "In debates about Netflix, commentators often invoke vehicle subscription as an analogy for the broader “access over ownership” subscription economy—used to defend Netflix’s recurring‑revenue model and flexible tiers while critics use the comparison to warn of subscription fatigue, consumer lock‑in, and the need for tighter rules on auto‑renewals and pricing transparency.",
+    "queries": [
+      "How do people view the subscription economy around Netflix?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "piracy",
+    "wiki_title": "piracy",
+    "summary": "Discussions of 'piracy' around Netflix are often used to justify anti-piracy measures—DRM, takedowns, geoblocking, and lobbying for stronger IP enforcement—on grounds they protect creators’ revenue and licensing arrangements. Conversely, critics invoke piracy to argue that Netflix’s regional restrictions, pricing, and content availability drive users to illegal downloads, or to claim that affordable, global streaming is the most effective way to reduce piracy.",
+    "queries": [
+      "What consequences has piracy had for Netflix?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "federal trade commission",
+    "wiki_title": "federal trade commission",
+    "summary": "The Federal Trade Commission is often cited in arguments about Netflix as the enforcement body that can probe deceptive billing, privacy practices, password‑sharing policies, or anticompetitive licensing and merger behavior; invoking the FTC legitimizes calls for stricter consumer‑protection and antitrust action against Netflix. Supporters of intervention point to the FTC as a protector of subscribers and market fairness, while critics use the same reference to warn that regulatory action could overreach and hinder innovation or competition.",
+    "queries": [
+      "Is federal trade commission scrutiny of Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "lina khan",
+    "wiki_title": "lina khan",
+    "summary": "Lina Khan is cited by consumer advocates and antitrust critics to argue that Netflix’s market power, exclusive licensing, algorithmic gatekeeping, and vertical deals warrant tougher FTC-style scrutiny to protect competition and creators; conversely, industry defenders invoke her regulatory approach as a caution that aggressive enforcement could chill investment, content innovation, and efficient bundling in the streaming market.",
+    "queries": [
+      "How do people view Lina Khan's actions toward Netflix?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "negative option billing",
+    "wiki_title": "negative option billing",
+    "summary": "Critics invoke negative option billing to accuse Netflix of using auto-renewing subscriptions, trial-to-paid conversions, and opaque cancellation practices to lock in customers and extract recurring payments, bolstering calls for stronger consumer-protection rules and clearer billing disclosure. Supporters counter that automatic renewals are a common, convenient subscription mechanism necessary for Netflix’s business model and continuity of service.",
+    "queries": [
+      "What impacts has Netflix’s negative option billing caused?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "coppa",
+    "wiki_title": "coppa",
+    "summary": "COPPA is frequently invoked in debates over Netflix’s kids profiles, personalization and the ad-supported tier: critics use it to argue Netflix must limit data collection, behavioral targeting and tailored recommendations for minors, while Netflix and industry defenders cite existing parental controls, content controls and compliance burdens to resist broader restrictions. This framing drives calls for stricter transparency and age-gating on the platform and shapes regulatory pressure on how Netflix designs kids’ experiences and ad practices.",
+    "queries": [
+      "Is Netflix's coppa compliance adequate or not?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "subscription price increases",
+    "wiki_title": "subscription business model",
+    "summary": "Supporters point to Netflix’s subscription model as the reason the company can guarantee steady revenue and justify heavy investment in originals and global expansion, while critics use it to condemn price hikes, churn-driven content choices, friction around cancellation and password‑sharing crackdowns and to argue for consumer protections or alternatives like ad‑supported or pay‑per‑use options.",
+    "queries": [
+      "Are Netflix's subscription price increases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "class action lawsuits",
+    "wiki_title": "class action",
+    "summary": "Class-action lawsuits are invoked in public debates about Netflix to cast the company as responsible for widespread consumer harms—such as pricing changes, billing practices, privacy/data collection, or account‑sharing enforcement—and to justify demands for refunds, policy changes, or stronger regulation. They tend to support consumer‑protection and accountability narratives while critics use them to argue that collective suits can overreach or punish routine business decisions.",
+    "queries": [
+      "What effects have class action lawsuits involving Netflix had?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "cord-cutting",
+    "wiki_title": "cord-cutting",
+    "summary": "Advocates cite cord-cutting as proof that Netflix’s subscription streaming model offers superior value and consumer choice, using it to justify Netflix’s market dominance, investment in originals, and arguments for light-touch regulation and broadband competition. Critics invoke cord-cutting to blame Netflix for eroding traditional TV revenues and cultural gatekeepers, pushing for policy responses such as stricter licensing, support for local broadcasters, or regulatory intervention to level the playing field.",
+    "queries": [
+      "How do people view cord-cutting related to Netflix?"
+    ]
+  },
+  {
+    "id": "C1-8-1",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "comcast",
+    "wiki_title": "comcast",
+    "summary": "Comcast is routinely held up as the archetypal ISP-owned content competitor in debates about Netflix—critics cite its history and Peacock rivalry to warn that vertical integration and paid peering could let Comcast throttle or extract fees from Netflix, bolstering calls for strict net neutrality and antitrust oversight; defenders, by contrast, invoke Comcast to argue that paid prioritization or carriage deals are legitimate tools to fund network investment and content distribution.",
+    "queries": [
+      "How do people view Comcast's deals affecting Netflix availability?"
+    ]
+  },
+  {
+    "id": "C1-8-2",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "youtube tv",
+    "wiki_title": "youtube tv",
+    "summary": "YouTube TV is often cited in arguments about Netflix as a contrasting streaming model — its focus on live channels, sports and bundled carriage is used to argue that Netflix’s on-demand-only strategy leaves it vulnerable and should push Netflix toward diversification of content, pricing and ad-supported tiers. Critics invoke YouTube TV to justify complaints about Netflix’s price increases and market position, while proponents of Netflix use the comparison to defend its investment in originals and algorithm-driven personalization as a different, but still viable, value proposition.",
+    "queries": [
+      "How do people view youtube tv for Netflix subscribers?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "sling tv",
+    "wiki_title": "sling tv",
+    "summary": "Sling TV is often invoked in debates about Netflix as an alternative that exposes Netflix's limitations—especially its lack of live TV and sports—used to argue that Netflix cannot fully replace traditional pay TV. It also features in critiques of streaming-market fragmentation and subscription fatigue, supporting calls for more modular, price-conscious competition rather than acceptance of Netflix as the sole dominant streaming model.",
+    "queries": [
+      "Is Sling TV a reasonable alternative to Netflix or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "tubi",
+    "wiki_title": "tubi",
+    "summary": "Tubi is frequently cited as evidence that ad-supported, lower-cost streaming can attract large audiences, and is used to argue that Netflix should expand or normalize ad tiers and cheaper options. It’s also invoked by critics to frame Netflix as vulnerable to AVOD competitors and to justify pressure on Netflix to change pricing, content licensing, or business strategy.",
+    "queries": [
+      "Is Tubi a reasonable alternative to Netflix or not?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1",
+    "level": 3,
+    "topic": "programmatic advertising",
+    "wiki_title": "online advertising",
+    "summary": "Online advertising is central to debates about Netflix’s move from an ad‑free subscription model to lower‑priced, ad‑supported tiers: proponents frame ads as a pragmatic way to monetize nonpaying viewers, combat password‑sharing, and expand reach, while critics use ad insertion to argue Netflix will degrade its premium user experience, bow to advertiser influence, and increase privacy‑intrusive tracking. Industry and policy arguments about ad measurement, brand safety, and data regulation are invoked both to justify the shift as necessary business evolution and to oppose it as a capitulation to surveillance‑driven incentives.",
+    "queries": [
+      "What effects has Netflix's programmatic advertising had?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1",
+    "level": 3,
+    "topic": "stranger things",
+    "wiki_title": "stranger things",
+    "summary": "Stranger Things is regularly invoked as Netflix’s flagship success in public debates—supporters use it to justify Netflix’s large investments in original, franchise-driven content, global distribution and binge-release strategies as essential subscriber drivers. Critics use it to argue that Netflix’s reliance on a few expensive tentpoles encourages formulaic, nostalgia-heavy programming, aggressive monetization (merchandising/transmedia) and market concentration that can crowd out smaller creators and fuel calls for regulatory scrutiny.",
+    "queries": [
+      "What effects has stranger things had on Netflix's original programming?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1",
+    "level": 3,
+    "topic": "13 reasons why",
+    "wiki_title": "13 reasons why",
+    "summary": "'13 Reasons Why' is frequently invoked in debates about Netflix's responsibility for potentially harmful content—critics cite its graphic depiction of teen suicide to demand stronger age-gating, content warnings, and platform accountability, while defenders frame it as legitimate artistic expression that fosters important conversations. The controversy has been used to justify Netflix policy changes (added warnings/resources) and broader calls for regulation of streaming recommendations and content moderation.",
+    "queries": [
+      "Are the themes in 13 reasons why portrayed sensitively or not?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "wga strike",
+    "wiki_title": "writers guild of america strike",
+    "summary": "Writers Guild strikes are frequently invoked in debates about Netflix as evidence that the streaming model concentrates bargaining power and depresses writers’ pay—used to criticize Netflix’s residual formulas, use of mini-rooms and data-driven commissioning, and to justify demands for stronger pay, residuals, and AI safeguards. Supporters of Netflix counter that its global platform and volume of production create new opportunities for writers, framing strike demands as redistribution that could harm streaming investment and output.",
+    "queries": [
+      "How do people view the wga strike’s impact on Netflix?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "emmy awards",
+    "wiki_title": "emmy awards",
+    "summary": "Emmy nominations and wins are wielded as proof that Netflix has achieved cultural prestige and creative legitimacy, used by supporters to justify its heavy investment in original content and by rivals to highlight streaming’s takeover of prestige TV. At the same time disputes over eligibility rules, category changes, and perceived lobbying are invoked to criticize Netflix’s influence on award norms and to push for stricter definitions (e.g., theatrical windows, what counts as “television”).",
+    "queries": [
+      "How do people view Netflix’s presence at the Emmy Awards?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "content and censorship",
+    "wiki_title": "censorship",
+    "summary": "Accusations of censorship are used to frame Netflix either as compromising artistic freedom—when it edits, geo-blocks, or tailors shows to satisfy governments, advertisers, or local markets—or as a defender of expression when it resists takedowns. These narratives drive calls for boycotts, stronger free‑speech protections for creators, or, conversely, for greater platform moderation and legal compliance depending on whether critics prioritize artistic integrity or local norms and safety.",
+    "queries": [
+      "Is Netflix's content and censorship reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "audiovisual media services directive",
+    "wiki_title": "audiovisual media services directive 2010",
+    "summary": "EU policymakers, public broadcasters, and cultural advocates invoke the Audiovisual Media Services Directive (2010) in arguments over Netflix to justify treating the streamer like a regulated broadcaster—demanding quotas for European works, rules on advertising and child protection, and financial contributions to local production—while critics and Netflix defenders use the Directive to argue either for tighter rules to level the playing field or to claim the law is outdated and ill-suited to global streaming services.",
+    "queries": [
+      "Is the audiovisual media services directive justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "european parliament",
+    "wiki_title": "european parliament",
+    "summary": "In public debates about Netflix, the European Parliament is frequently cited as the institution pushing rules on content quotas, platform transparency, algorithmic accountability, child protection and taxation—framing Netflix as a corporate actor that must promote European cultural diversity, fair pay and stronger moderation. Pro-regulation advocates point to EP initiatives (e.g., AVMSD, DSA/DMA votes) to justify tighter oversight, while critics portray those moves as regulatory overreach or protectionism that could constrain innovation and favor legacy media.",
+    "queries": [
+      "Is the European Parliament's scrutiny of Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "lobbying in the european union",
+    "wiki_title": "lobbying",
+    "summary": "Netflix’s lobbying is invoked in public debates as the company pushes for regulatory treatment, tax incentives, and platform rules that enable global streaming growth and protect its business model, a narrative often framed as necessary to foster innovation and investment. Critics use its lobbying to argue that Netflix exerts undue influence to weaken local content quotas, labor protections, competition rules, and privacy or algorithm oversight to its competitive advantage.",
+    "queries": [
+      "What impacts has Netflix's lobbying in the European Union caused?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "centre national du cinéma et de l'image animée",
+    "wiki_title": "centre national du cinéma et de l'image animée",
+    "summary": "In French debates the CNC is routinely invoked to portray Netflix as a disruptive, foreign streaming giant that needs to be forced to support and protect French/European cinema—by contributing funding, respecting theatrical windows and local-content quotas. The CNC uses its regulatory voice to justify taxes, investment obligations and stricter rules on Netflix’s release and rights practices, and to criticize the platform’s perceived undermining of traditional exhibition and cultural policy goals.",
+    "queries": [
+      "What consequences has centre national du cinéma et de l'image animée caused?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "european cinema",
+    "wiki_title": "cinema of europe",
+    "summary": "Advocates and critics invoke the cinema of Europe to argue that Netflix either dilutes auteur-driven, nationally rooted film traditions through globalized, algorithm-friendly content and binge-focused formats—bolstering calls for quotas, cultural exceptions, and stronger public funding—or alternatively to praise Netflix for financing, distributing, and internationalizing European films, increasing audiences and modernizing access to local cinema.",
+    "queries": [
+      "How do people view european cinema on Netflix?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "algorithmic transparency",
+    "wiki_title": "algorithmic transparency",
+    "summary": "In debates about Netflix, algorithmic transparency is invoked to demand that the company disclose how recommendation, ranking, and content-promotion systems shape what viewers see and what creators earn, framing Netflix as potentially biased, opaque, or manipulative when it refuses to explain personalization and A/B testing. Pro-transparency arguments push for consumer rights, platform accountability, and regulation, while defenders argue that full disclosure would reveal trade secrets, enable gaming of the system, and risk user privacy.",
+    "queries": [
+      "How do people view Netflix's algorithmic transparency?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "cultural exception",
+    "wiki_title": "cultural exception",
+    "summary": "In debates about Netflix, proponents invoke 'cultural exception' to justify quotas, local‑investment obligations, and taxes or subsidies that shield national film and TV industries from global streaming dominance; opponents cast it as protectionist and outdated, arguing such rules limit consumer choice, market competition, and the platform’s ability to scale creative diversity across borders.",
+    "queries": [
+      "Is cultural exception justified for Netflix or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "cbfc",
+    "wiki_title": "cbfc",
+    "summary": "In discussions about Netflix in India, the CBFC is invoked by supporters of content control as the institutional basis for demanding cuts or bans on material deemed offensive to cultural, religious, or political norms. Critics of CBFC intervention counter that Netflix demonstrates the need for a separate, ratings‑based or self‑regulatory approach to protect creative freedom and dissenting viewpoints, portraying the board as anachronistic and censorious.",
+    "queries": [
+      "Are cbfc interventions in Netflix releases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "it rules 2021",
+    "wiki_title": "information technology rules, 2021",
+    "summary": "India’s Information Technology (Intermediary Guidelines and Digital Media Ethics) Rules, 2021 are routinely invoked in debates over Netflix to justify demands that the streamer register local grievance officers, remove or age‑gate ‘objectionable’ material, and follow Indian content norms. Supporters cite the rules to press for greater accountability and cultural sensitivity from Netflix, while critics use them to argue the rules enable censorship, chill creative freedom, and impose burdensome compliance and jurisdictional control on global streaming platforms.",
+    "queries": [
+      "Is Netflix's 'it rules 2021' slogan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ministry of information and broadcasting",
+    "wiki_title": "ministry of information and broadcasting",
+    "summary": "In debates about Netflix the Ministry of Information and Broadcasting is invoked as the government regulator that can demand cuts, assign age classifications, or block shows, and is used by critics to justify stricter oversight and censorship of streaming content. Supporters of Netflix, by contrast, cast the Ministry’s interventions as heavy‑handed interference and argue for creative freedom, self‑regulation, or clearer, less restrictive rules for OTT platforms.",
+    "queries": [
+      "What effects has the ministry of information and broadcasting had on Netflix?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "bharatiya janata party",
+    "wiki_title": "bharatiya janata party",
+    "summary": "In Indian public debates the Bharatiya Janata Party frequently portrays Netflix as a vehicle for culturally offensive or ‘anti‑national’ content, using controversies to justify calls for takedowns, legal action, and stricter regulation of OTT platforms; critics argue this stance advances nationalist censorship and curbs creative freedom.",
+    "queries": [
+      "What effects has Netflix’s coverage of bharatiya janata party caused?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "tandav",
+    "wiki_title": "tandava",
+    "summary": "References to the Tandav controversy are often invoked in debates about Netflix’s Indian catalogue to justify calls for stricter oversight and content takedowns on grounds of offending religious or political sensibilities. Opponents of regulation also cite Tandav as a cautionary example used by critics to stifle artistic freedom, framing Netflix as a target of moral policing by state and social groups.",
+    "queries": [
+      "What impact could tandav have on Netflix's reputation?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "sacred games",
+    "wiki_title": "sacred games",
+    "summary": "Sacred Games is often cited as proof that Netflix can produce high‑budget, locally rooted originals that helped the platform expand in India and justify its strategy of investing in non‑English content. At the same time, arguments about its graphic scenes and contentious portrayals of politics and religion are used to criticize Netflix for cultural insensitivity and to push for greater local regulation and accountability for streaming content.",
+    "queries": [
+      "How do people view Sacred Games' depiction of organized crime?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "anurag kashyap",
+    "wiki_title": "anurag kashyap",
+    "summary": "Filmmaker Anurag Kashyap is frequently cited in public debates about Netflix as a champion of artistic freedom who both credits streaming for enabling bold, niche storytelling and criticizes platforms for commercializing cinema, weakening theatrical ecosystems, and failing to adequately support independent Indian filmmakers. His statements are used to argue for creator rights, stronger cultural accountability, and scrutiny of Netflix’s market power and content practices in India.",
+    "queries": [
+      "Is Anurag Kashyap's involvement with Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "freedom of expression",
+    "wiki_title": "freedom of speech",
+    "summary": "Claims about freedom of speech are used to defend Netflix’s commissioning and distribution of provocative or politically charged shows as necessary artistic and expressive freedom that ought not be censored.  At the same time opponents invoke free‑speech responsibilities to press Netflix to remove misinformation, hate speech, or market‑driven self‑censorship—framing the company’s content choices either as protection of expression or as a failure to curb harm.",
+    "queries": [
+      "How do people view freedom of expression in Netflix programming?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "great firewall of china",
+    "wiki_title": "great firewall",
+    "summary": "When people discuss Netflix and China the Great Firewall is cited to explain Netflix’s limited presence — used by proponents of market protectionism to justify keeping foreign streaming out or forcing local partnerships and content edits, and by critics to condemn censorship, market fragmentation, and pressures on Netflix to self‑censor or license content rather than offer an unfiltered global service.",
+    "queries": [
+      "How do people view the Great Firewall of China affecting Netflix?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "ted cruz",
+    "wiki_title": "ted cruz",
+    "summary": "Cruz is often cited by conservatives to criticize Netflix as a ‘woke’ or morally corrosive entertainment platform—publicly denouncing sexualized or progressive content, calling for investigations, and urging boycotts. His framing presents Netflix as a cultural adversary that should face greater scrutiny, content labeling, and regulatory or market pushback.",
+    "queries": [
+      "How do people view Ted Cruz's stance on Netflix content?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "X functions as a primary battleground where users, influencers, journalists, and political actors amplify praise or attacks on Netflix—framing shows as culturally vital or ‘too woke,’ organizing hashtag boycotts or fandom campaigns that shape public sentiment and media coverage. It also concentrates criticism of Netflix’s business moves (price hikes, password‑sharing crackdowns, layoffs) and hosts debates among investors and creators about censorship and creative freedom, pressuring Netflix through reputational and market narratives.",
+    "queries": [
+      "What effects has twitter had on Netflix's public image?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "business models and pricing",
+    "wiki_title": "business model canvas",
+    "summary": "Analysts, investors and journalists often use the business model canvas to map Netflix’s revenue streams, customer segments, cost structure and key partnerships to justify strategic pivots (e.g., ad tiers, password crackdowns, global content investment or gaming) as necessary trade‑offs to reach profitability and scale. Critics use the same framework to argue the opposite — that heavy content spend, debt‑funded growth and thin unit economics make Netflix’s model fragile, bolstering calls for diversification, tighter oversight of platform power, or regulatory scrutiny of vertical integration.",
+    "queries": [
+      "Are Netflix’s business models and pricing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "subscription video on demand",
+    "wiki_title": "video on demand",
+    "summary": "In discussions about Netflix, 'video on demand' is used to frame Netflix as the paradigm of streaming-era convenience and subscription-based disruption that justifies cord‑cutting and calls to relax legacy broadcast regulations. Critics, however, invoke VOD to highlight Netflix's market power, algorithmic gatekeeping, cultural homogenization, data/privacy concerns, and licensing practices that can disadvantage creators and rivals.",
+    "queries": [
+      "How do people view subscription video on demand in Netflix's model?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "hulu",
+    "wiki_title": "hulu",
+    "summary": "Hulu is frequently invoked in debates about Netflix as a counterexample and competitive foil—arguing Netflix should adopt ad-supported tiers, bundle or add live-TV/sports, or change pricing and release strategies to match Hulu’s offerings. It’s also used in policy arguments about consolidation and market power: critics warn Disney’s use of Hulu for exclusive content and bundling can squeeze Netflix’s access, while others point to Hulu’s U.S.-focus as evidence that Netflix’s global scale still gives it an advantage.",
+    "queries": [
+      "Is Hulu's competition with Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "net neutrality",
+    "wiki_title": "net neutrality",
+    "summary": "Net neutrality frequently appears in debates over Netflix as the legal and moral argument Netflix and consumer advocates use to oppose ISP throttling, paid prioritization, or blocking—framing Netflix as a popular service that must be protected from ISP gatekeeping to preserve streaming quality and consumer choice. Opponents, including ISPs, use the same issue to argue that Netflix, as a heavy bandwidth user, should shoulder more network costs or face flexible regulation, framing Netflix as a driver of congestion that justifies differential treatment or higher interconnection fees.",
+    "queries": [
+      "Are concerns about net neutrality and Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-8",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "original programming",
+    "wiki_title": "original programming",
+    "summary": "Netflix's Originals label is frequently invoked to paint the company as either an innovative, global studio whose exclusive shows justify subscriber fees and cultural influence, or as a dominant gatekeeper whose massive spending and algorithm-driven commissioning produce uneven quality, undermine independent creators, and concentrate distribution power. Policymakers and critics cite Originals when pushing for local-content quotas, fair-pay and copyright reforms, or antitrust scrutiny, while defenders point to them as evidence of valuable investment in diverse, international production.",
+    "queries": [
+      "What effects has Netflix's original programming had?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "tiered pricing",
+    "wiki_title": "price discrimination",
+    "summary": "Price discrimination is invoked in debates over Netflix’s tiered plans, regional pricing and ad-supported/cheaper options—critics say these practices create unfair cross-country and household disparities and let Netflix extract more revenue from captive users, while defenders argue they enable lower-cost access for price-sensitive customers and fund costly original content.",
+    "queries": [
+      "Is Netflix's tiered pricing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "microsoft",
+    "wiki_title": "microsoft",
+    "summary": "Commentators invoke Microsoft as both a model and a warning when debating Netflix’s future — citing Microsoft’s pivot into cloud, gaming and large-scale acquisitions to argue Netflix should diversify into ads, games, or platform services, while others use Microsoft-style consolidation to warn about antitrust risks and platform control if Netflix grows through similar deals. Microsoft’s prominence in cloud and media-related M&A is also used to critique Netflix’s reliance on third-party infrastructure and to justify calls for vertical integration or regulatory oversight.",
+    "queries": [
+      "How do people view Microsoft’s influence on Netflix?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "price increases",
+    "wiki_title": "price gouging",
+    "summary": "When Netflix raises subscription fees, adds paid tiers or enforces measures like password controls, critics invoke 'price gouging' to cast the company as exploiting captive customers and to justify calls for boycotts, regulator scrutiny, or policy interventions. Supporters and Netflix defenders counter that such changes reflect rising content costs and market pricing, using the term's accusation to frame critics as anti‑market or out of touch.",
+    "queries": [
+      "Are Netflix price increases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "wall street investors",
+    "wiki_title": "wall street",
+    "summary": "Wall Street frames Netflix chiefly as a financial asset, with analysts and investors shaping debates around subscriber growth, ARPU, and quarterly earnings to justify price hikes, ad-supported tiers, cost cuts, or consolidation. Critics invoke Wall Street pressure to argue Netflix favors short‑term shareholder returns over long‑term creative investment and consumer value, while defenders cite investor demands to rationalize efficiency and scale-driven strategies.",
+    "queries": [
+      "Are wall street investors' demands for Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "content licensing",
+    "wiki_title": "open content license",
+    "summary": "Open content licenses are cited in debates about Netflix to argue that the platform’s exclusive, DRM‑bound distribution restricts cultural reuse, remixing, and long‑term preservation — activists and scholars urge Netflix (especially for publicly funded or culturally significant works) to adopt Creative Commons‑style terms. Netflix and industry defenders counter that closed, proprietary licensing is needed to protect revenue and exclusivity, so references to open licenses are primarily used to criticize Netflix’s control and press for policy changes toward greater accessibility.",
+    "queries": [
+      "How do people view content licensing by Netflix?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "release windows",
+    "wiki_title": "film distribution",
+    "summary": "Debates about film distribution cast Netflix as a disruptive distributor that democratizes global access by bypassing traditional theatrical windows, while simultaneously portraying it as a powerful gatekeeper whose streaming-first release strategies, opaque algorithms, and contract terms are blamed for squeezing cinemas, creator compensation, and cultural diversity. Those framings are used to justify support for streaming models and global reach on one side, and to argue for revised windowing, stronger labor protections, and regulatory or antitrust intervention on the other.",
+    "queries": [
+      "How do people view release windows on Netflix?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "territorial rights",
+    "wiki_title": "territorial rights",
+    "summary": "Territorial rights are frequently cited to explain Netflix’s uneven global catalogs and geo‑blocking, with rights holders and local distributors using them to justify staggered releases, territorial pricing, and exclusive regional windows. Critics argue these rules preserve legacy licensing rents, incentivize piracy, and obstruct Netflix’s efforts toward a more unified global service, fueling calls for regulatory changes or global licensing models to improve consumer access.",
+    "queries": [
+      "How do people view territorial rights affecting Netflix's offerings?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "walt disney company",
+    "wiki_title": "the walt disney company",
+    "summary": "In debates about Netflix, Disney is often invoked as the archetypal incumbent—its franchise-driven catalog, exclusive windows, and bundled Disney+ ecosystem are used to argue that Netflix must pursue acquisitions, IP-driven hits, or bundling to remain competitive. At the same time, Disney’s vertical integration and aggressive exclusivity are cited by critics as evidence of harmful market consolidation that fragments streaming and warrants regulatory scrutiny.",
+    "queries": [
+      "How do people view Walt Disney Company competing with Netflix?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "warner bros. discovery",
+    "wiki_title": "warner bros. discovery",
+    "summary": "Warner Bros. Discovery is frequently cited in debates about Netflix as a rival studio‑turned‑streamer whose content pulls, theatrical-window and licensing decisions, and shift toward ad‑supported tiers are used to argue that Netflix must adopt ads, change pricing, or will suffer library erosion. Commentators also point to WBD’s consolidation and cost‑cutting moves to criticize Netflix’s high spending on originals and to justify tighter licensing and distribution controls.",
+    "queries": [
+      "Is Warner Bros. Discovery's approach to competing with Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "music licensing",
+    "wiki_title": "music licensing",
+    "summary": "Arguments about music licensing frequently surface in discussions of Netflix when expensive, territory-limited, or expired song rights lead the service to edit, replace, or pull content — critics say this shows Netflix values cost-savings over artistic integrity and fair musician compensation, while Netflix and defenders point to complex licensing terms and rising content costs to justify edits, removals, or subscription pricing. Advocacy for broader or standardized licensing terms (and better residuals for artists) is often framed as a response to these Netflix-driven outcomes.",
+    "queries": [
+      "How do people view music licensing decisions for Netflix?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "peacock",
+    "wiki_title": "peafowl",
+    "summary": "References to peafowl (usually via the shorthand 'peacock') are used as a metaphor in Netflix debates to accuse the service of favoring flashy, spectacle-driven originals and marketing over substance or public-interest responsibilities. The term also appears in comparisons with NBCUniversal’s Peacock when discussing competition, branding strategy, and choices about content bundling or exclusivity.",
+    "queries": [
+      "What effects has Peacock had on Netflix’s streaming market?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "targeted advertising",
+    "wiki_title": "targeted advertising",
+    "summary": "Targeted advertising figures centrally in debates over Netflix’s shift to an ad-supported tier: executives and advocates frame it as a revenue- and price-justification that broadens access, while critics argue it undermines Netflix’s ad-free identity and normalizes heavy data collection. Opponents also warn that personalized ads on the platform can entrench algorithmic bias, privacy harms, and discriminatory targeting, fueling calls for greater transparency, opt-outs, and regulation of streaming ad practices.",
+    "queries": [
+      "What effects has Netflix's targeted advertising caused?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "the trade desk",
+    "wiki_title": "the trade desk",
+    "summary": "In public debates about Netflix’s ad-supported strategy, The Trade Desk is often cited as the programmatic-advertiser perspective, warning that a closed, first‑party Netflix ad ecosystem would limit targeting, measurement and cross‑platform buying. It typically advocates for open, interoperable ad marketplaces and privacy‑compliant identity solutions, criticizing Netflix when its policies restrict third‑party measurement or inventory access and framing Netflix’s choices as either a big opportunity for advertisers if opened or a threat to ad transparency if closed.",
+    "queries": [
+      "Is the trade desk's role with Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "nielsen ratings",
+    "wiki_title": "nielsen media research",
+    "summary": "Industry analysts and journalists often cite Nielsen’s streaming and TV ratings to quantify Netflix’s cultural reach and to argue that it is displacing traditional TV and accelerating cord‑cutting, using the numbers to justify business and policy shifts. Critics likewise point to gaps between Nielsen’s figures and Netflix’s proprietary metrics to challenge the company’s claims about viewership, push for greater transparency, or argue for regulatory scrutiny of streaming market power.",
+    "queries": [
+      "How do people view Netflix’s nielsen ratings?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "technology and algorithms",
+    "wiki_title": "algorithm",
+    "summary": "Netflix’s “algorithm” is invoked in public debates to explain and justify why certain shows are promoted, personalized, or greenlit—used by defenders to argue the platform improves user experience and business efficiency through data-driven recommendation and retention strategies. Critics, however, deploy the term to frame Netflix as opaque and potentially manipulative, blaming algorithms for bias, filter bubbles, harm to creators, and arguing for greater transparency, accountability, or regulation.",
+    "queries": [
+      "How do people view Netflix's technology and algorithms?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "reed hastings",
+    "wiki_title": "reed hastings",
+    "summary": "Reed Hastings is invoked as the public face and architect of Netflix’s strategy, used to justify its focus on aggressive global expansion, heavy investment in original content, subscription pricing and data-driven personalization as visionary disruption. Critics, by contrast, name him when blaming Netflix’s corporate culture, algorithmic binge-model and market dominance for cultural homogenization, labor issues, and as evidence for tighter regulation of streaming platforms.",
+    "queries": [
+      "How do people view Reed Hastings’s decisions for Netflix?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "marc randolph",
+    "wiki_title": "marc randolph",
+    "summary": "Marc Randolph is invoked in discussions of Netflix as the scrappy co‑founder who personifies the company’s experiment‑driven, customer‑first origins, and his stories are often used to justify its early pivots (DVD subscription to streaming) and entrepreneurial risk‑taking. Commentators also cite his reflections to criticize Netflix’s later corporate evolution, arguing it abandoned the founders’ startup ethos or original customer‑centric priorities.",
+    "queries": [
+      "Is Marc Randolph's role in Netflix's success justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "netflix ipo",
+    "wiki_title": "netflix, inc.",
+    "summary": "Netflix, Inc. is invoked in public debates as the prototypical streaming giant whose business choices — from subscription pricing, ad tiers, and password‑sharing enforcement to algorithmic recommendations and commissioning practices — are used to argue for or against corporate power, cultural homogenization, worker and creator rights, and calls for regulation or antitrust scrutiny. Supporters present Netflix as an innovative global distributor expanding access to diverse content, while critics cite it as evidence of market concentration, data‑driven homogenization, and precarious labor/contracting practices.",
+    "queries": [
+      "How do people view the netflix ipo now?"
+    ]
+  },
+  {
+    "id": "C4-1-4",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "house of cards",
+    "wiki_title": "house of cards",
+    "summary": "'House of Cards' is invoked both literally—as Netflix’s breakout prestige original that supporters cite to justify big, data-driven investments in exclusive, high-end programming—and metaphorically, used by critics to argue that Netflix’s growth depends on a fragile, debt-fueled content strategy that could collapse without continual hits.",
+    "queries": [
+      "How do people view house of cards on Netflix?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "charter schools",
+    "wiki_title": "charter school",
+    "summary": "In discussions of Netflix, proponents liken it to charter schools as a market-driven form of innovation and consumer choice—arguing that Netflix’s disruptive, flexible model improves content access and educational offerings; opponents invoke charter-school controversies to frame Netflix as a form of cultural privatization, warning that its algorithmic gatekeeping of attention and learning bypasses public oversight and argues for more regulation or public alternatives.",
+    "queries": [
+      "Is Netflix's portrayal of charter schools fair or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "open connect",
+    "wiki_title": "open connect",
+    "summary": "Open Connect is cited by supporters to show Netflix reduces congestion and improves streaming quality through its own CDN, bolstering arguments that the company responsibly invests in delivery infrastructure. Critics invoke Open Connect to claim Netflix leverages this system to demand free caching and preferential peering, framing the company as using market power to shift costs onto ISPs and threaten net‑neutrality and fairness.",
+    "queries": [
+      "How do people view Open Connect within Netflix's delivery strategy?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "content delivery network",
+    "wiki_title": "content delivery network",
+    "summary": "CDNs figure centrally in arguments about Netflix’s performance and costs: supporters point to Netflix’s Open Connect caches as proof it invests in infrastructure to deliver reliable, high-quality streaming worldwide. Critics and ISPs counter that Netflix uses CDNs to externalize massive bandwidth costs and gain leverage in peering disputes, fueling calls for stricter interconnection rules, paid-peering transparency, and net neutrality enforcement.",
+    "queries": [
+      "What impacts has Netflix's content delivery network had?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "internet peering",
+    "wiki_title": "peering",
+    "summary": "Peering is a flashpoint in arguments about Netflix’s streaming quality and who should pay for traffic delivery: consumer advocates and Netflix point to poor or paid peering as evidence that ISPs throttle or extort content providers, while ISPs use congested peering to justify demanding payments or building paid routes. These disputes are invoked to support stronger interconnection rules and net‑neutrality‑style protections (for Netflix) or to justify market-based settlements and charges (for ISPs).",
+    "queries": [
+      "What consequences has internet peering had for Netflix?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "internet exchange point",
+    "wiki_title": "internet exchange point",
+    "summary": "Internet exchange points feature in disputes over who should pay for Netflix’s heavy traffic—ISPs invoke congested IXPs to justify demands for paid peering or transit fees, while Netflix and its supporters point to placing Open Connect caches at IXPs as evidence that Netflix can cheaply and efficiently offload traffic. As a result IXPs are cited either to bolster arguments for network investment/compensation by carriers or to defend Netflix’s position on efficient content delivery and net neutrality.",
+    "queries": [
+      "What effects has Netflix's reliance on internet exchange point connections caused?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "federal communications commission",
+    "wiki_title": "federal communications commission",
+    "summary": "In debates about Netflix the FCC is cast as the key regulator whose net‑neutrality, broadband‑classification, and interconnection decisions can protect Netflix from ISP throttling and paid‑prioritization or, conversely, impose rules that critics say chill network investment and favor large streaming platforms. Advocates cite FCC action to expand broadband and curb discriminatory practices to justify Netflix’s wide reach, while opponents use FCC policy shifts to argue Netflix gains an unfair advantage or avoids paying its share of network costs.",
+    "queries": [
+      "What effects has the Federal Communications Commission had on Netflix distribution?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "traffic shaping",
+    "wiki_title": "traffic shaping",
+    "summary": "Traffic shaping is frequently cited in controversies over Netflix when consumers and net‑neutrality advocates accuse ISPs of throttling or deprioritizing Netflix traffic to extract paid peering fees, a framing that fuels calls for regulation and consumer protection. ISPs rebut by portraying shaping as legitimate congestion management and prioritization, while Netflix and its defenders point to CDNs, adaptive streaming, and peering disputes to argue that interconnection practices—not user demand—drive quality problems.",
+    "queries": [
+      "How do people view Netflix's traffic shaping?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "amazon web services",
+    "wiki_title": "amazon web services",
+    "summary": "Commentators invoke AWS to both praise Netflix’s modern, cloud-driven scalability and agility—arguing that cloud infrastructure enables its personalized recommendations and reliable global streaming—and to criticize Netflix’s reliance on big cloud vendors, warning of vendor lock‑in, outage risk, and rising operational costs that fuel calls for greater regulation, vertical integration, or investment in proprietary CDNs.",
+    "queries": [
+      "Is Netflix’s use of amazon web services reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "amazon cloudfront",
+    "wiki_title": "amazon cloudfront",
+    "summary": "Amazon CloudFront is often invoked in discussions of Netflix’s distribution choices — analysts and critics contrast CloudFront’s third‑party CDN model with Netflix’s self‑built Open Connect to argue about vendor lock‑in, market concentration of cloud infrastructure, and the risks of centralized control over content delivery. Supporters cite CloudFront’s scalability and reliability to justify cloud‑based streaming, while critics point to AWS/CloudFront outages and content‑policy control as reasons to distrust heavy reliance on Amazon for critical streaming infrastructure.",
+    "queries": [
+      "What impacts has Netflix’s use of amazon cloudfront produced?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "amazon s3",
+    "wiki_title": "amazon s3",
+    "summary": "Amazon S3 is invoked in discussions about Netflix to show how Netflix’s storage and analytics depend on AWS: supporters cite it as proof of Netflix’s scalable, cloud-native backbone, while critics use it to warn of vendor lock‑in, competitive risk (Amazon as a streaming rival), data/control vulnerabilities, and cloud cost or regulatory concerns that influence Netflix’s business and policy positions.",
+    "queries": [
+      "Is Netflix's use of Amazon S3 reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "amazon ec2",
+    "wiki_title": "amazon elastic compute cloud",
+    "summary": "Amazon EC2 is often cited as the infrastructure that enabled Netflix’s rapid scaling and technological agility—used to justify cloud outsourcing and innovation—while critics point to Netflix’s dependence on EC2 to argue risks of vendor lock‑in, outage vulnerability, cost exposure, and the uncomfortable dynamic of relying on Amazon as both a platform provider and a direct streaming rival.",
+    "queries": [
+      "What consequences has Netflix’s use of amazon ec2 caused?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "chaos monkey",
+    "wiki_title": "chaos engineering",
+    "summary": "Netflix's high-profile use of chaos engineering (e.g., Chaos Monkey) is often cited to bolster narratives that the company is a pioneer in reliability and justifies its heavy investment in cloud-native resilience and aggressive production testing; critics, however, invoke the same practices to portray Netflix as emblematic of risky Silicon Valley experimentation that privileges availability and engineering bravado over simplicity, conservatism, or potential user-facing harms.",
+    "queries": [
+      "What consequences has chaos monkey produced at Netflix?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "vendor lock-in",
+    "wiki_title": "vendor lock-in",
+    "summary": "Critics invoke vendor lock‑in to argue that Netflix’s exclusive originals, recommendation algorithms, account policies, and platform integrations raise switching costs and justify calls for antitrust scrutiny, interoperability rules, or content portability mandates. Supporters counter that broad device availability and intense streaming competition limit true lock‑in, framing Netflix’s practices as standard competitive strategy rather than monopolistic entrenchment.",
+    "queries": [
+      "What effects has vendor lock-in caused for Netflix?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "collaborative filtering",
+    "wiki_title": "collaborative filtering",
+    "summary": "People point to collaborative filtering as the engine behind Netflix’s personalized recommendations that boost engagement and retention, and defenders argue it improves discovery for many viewers. Critics counter that its opaque, data‑driven sorting creates filter bubbles, favors \"algorithm‑friendly\" hits over niche or risky content, concentrates bargaining power, and raises privacy and transparency concerns—fueling calls for clearer user controls and regulatory oversight of Netflix’s recommendation systems.",
+    "queries": [
+      "Is Netflix's use of collaborative filtering justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "movielens",
+    "wiki_title": "movielens",
+    "summary": "Researchers, journalists, and advocates frequently cite MovieLens studies and datasets when debating Netflix’s recommendation system—using its open, reproducible experiments to criticize Netflix’s opaque algorithms, demonstrate bias or filter‑bubble effects, and argue for greater transparency and fairness. Industry commentators also point to MovieLens‑driven algorithmic gains to justify Netflix‑style personalization and product choices.",
+    "queries": [
+      "What effects has movielens had on Netflix's recommendation systems?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "matrix factorization",
+    "wiki_title": "matrix decomposition",
+    "summary": "Matrix decomposition techniques are pointed to by Netflix and proponents as the technical justification for its personalized recommendation engine and claims of higher engagement and customer retention. Critics and policymakers counter that the opaque matrix-factorization algorithms reinforce filter bubbles, skew content exposure toward algorithm-friendly titles, and thus fuel calls for greater transparency, fairness audits, or regulation of recommendation systems.",
+    "queries": [
+      "Is Netflix's use of matrix factorization justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "filter bubble",
+    "wiki_title": "filter bubble",
+    "summary": "Commentators invoke the “filter bubble” to criticize Netflix’s recommendation engine for reinforcing narrow tastes and cultural or ideological silos, arguing it limits exposure to diverse or challenging content and harms public discourse. This framing is used to justify demands for algorithmic transparency, diversity-promoting design changes or regulation, while defenders counter that personalization simply improves user satisfaction and discoverability.",
+    "queries": [
+      "How do people view Netflix’s filter bubble?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "a/b testing",
+    "wiki_title": "a/b testing",
+    "summary": "A/B testing is invoked in debates about Netflix as the mechanism behind its constant optimization—used to tweak thumbnails, recommendations and release tactics—which proponents say drives engagement and product improvement while critics warn it can covertly steer viewing choices, homogenize content, and sideline creative judgment. That tension fuels calls for greater transparency, user control or regulatory oversight of Netflix’s experimental algorithms to prevent manipulation and filter-bubble effects.",
+    "queries": [
+      "What consequences has Netflix's a/b testing caused?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "cold start problem",
+    "wiki_title": "cold start",
+    "summary": "In conversations about Netflix, “cold start” is cited to justify the company’s heavy reliance on data-driven recommendations and original programming—arguing that Netflix’s large user base and rich signals give it a durable advantage while algorithms struggle to surface new or niche shows. Critics invoke the cold-start problem to argue Netflix’s system can gatekeep discovery and bias exposure toward established hits, supporting calls for stronger editorial curation, better metadata standards, or policies to lower barriers for new creators and rival services.",
+    "queries": [
+      "How do people view the cold start problem in Netflix recommendations?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "algorithmic bias",
+    "wiki_title": "algorithmic bias",
+    "summary": "Claims of algorithmic bias are often invoked to criticize Netflix’s recommendation and content-promotion systems for privileging high-engagement, mainstream shows, sidelining diverse or niche creators, and reinforcing viewing silos—fueling calls for transparency, audits, and regulation—while defenders argue personalization simply improves user experience and reflects business/data realities rather than deliberate discrimination.",
+    "queries": [
+      "Is Netflix’s algorithmic bias justified or reasonable?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "algorithmic accountability",
+    "wiki_title": "algorithmic accountability",
+    "summary": "Advocates for algorithmic accountability point to Netflix’s opaque recommendation and promotion systems to argue the company shapes cultural consumption, amplifies sensational or profitable content, and can marginalize creators or produce harmful outcomes—leading to calls for transparency, audits, creator compensation reform, and regulation. Defenders counter that such systems are central to user experience and innovation, framing demands for disclosure as threats to trade secrets and product effectiveness.",
+    "queries": [
+      "How do people view algorithmic accountability at Netflix?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "eu ai act",
+    "wiki_title": "artificial intelligence act",
+    "summary": "In debates about Netflix, the EU AI Act is often cited to demand greater transparency, auditing and limits on recommendation and personalization algorithms and on AI-generated content—advocates use it to press Netflix to reduce algorithmic bias, explain ranking/advertising decisions and submit to conformity checks, while critics argue the law could impose heavy compliance costs, stifle innovation in personalization and content automation, or push services to relocate. It also frames disputes over Netflix’s use of generative AI (for scripts, dubbing or deepfakes) as needing targeted oversight or exemptions, shaping arguments about user safety, creative rights and corporate accountability.",
+    "queries": [
+      "What consequences might eu ai act have for Netflix and streaming?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "binge-watching",
+    "wiki_title": "binge-watching",
+    "summary": "Binge‑watching is cited to justify Netflix’s all‑at‑once release model and subscription growth—framed as convenience, stronger viewer engagement, and creative freedom for serialized storytelling—while opponents use it to criticize Netflix for promoting addictive consumption, damaging attention and cultural habits, and creating “binge‑and‑burn” churn that prompts calls for different release strategies or tighter content/screen‑time policies.",
+    "queries": [
+      "What impacts has binge-watching had on viewers?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "autoplay",
+    "wiki_title": "autoplay",
+    "summary": "Netflix's autoplay (auto-playing previews and the next episode) is frequently criticized as a manipulative design that encourages binge‑watching and supports calls for regulation, default opt‑outs, and bans on dark patterns. Defenders counter that autoplay improves discovery and convenience, helping viewer engagement and subscription retention.",
+    "queries": [
+      "Is Netflix's autoplay reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "teleparty",
+    "wiki_title": "teleparty",
+    "summary": "Commentators invoke Teleparty when debating Netflix’s cultural reach, using its release as evidence that Netflix-driven cross-promotion and watch‑party culture can amplify K‑pop globally; supporters argue this exposure helps artists reach new audiences, while critics say it ties musical success to platform algorithms and corporate marketing rather than artistic merit.",
+    "queries": [
+      "How do people view teleparty’s impact on Netflix watching?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "screen time",
+    "wiki_title": "screen time",
+    "summary": "Arguments about screen time often target Netflix as a driver of binge‑watching and excessive children’s exposure—used to justify calls for regulation, time limits, and stronger parental controls by blaming autoplay and recommendation algorithms—while defenders counter that harms depend on content and context and emphasize viewer choice and educational or family co‑viewing.",
+    "queries": [
+      "How do people view Netflix screen time limits?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "de-anonymization",
+    "wiki_title": "data re-identification",
+    "summary": "Arguments about data re-identification are a central privacy critique of Netflix’s collection and sharing of viewing and ratings data—critics point to the Netflix Prize re‑identification case to demand tighter limits, transparency, and user control over analytics and dataset releases, while defenders use contested re‑identification risk assessments to justify continued use of de‑identified data for recommendations, A/B testing, and research.",
+    "queries": [
+      "Is de-anonymization by Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "arvind narayanan",
+    "wiki_title": "arvind narayanan",
+    "summary": "Arvind Narayanan's research exposing how the anonymized Netflix Prize dataset could be re‑identified is often invoked to criticize Netflix's data‑sharing and privacy practices, and to justify calls for stronger safeguards, transparency, and regulation around user data.",
+    "queries": [
+      "How do people view arvind narayanan's views on Netflix?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "cultural impact and representation",
+    "wiki_title": "cultural impact of madonna",
+    "summary": "Commentators invoke Madonna's cultural impact when debating Netflix's cultural role—supporters argue Netflix democratizes and amplifies boundary‑pushing, gender- and sexuality‑focused voices in the tradition of Madonna, while critics use her as shorthand to accuse Netflix of commodifying or promoting overly sexualized, controversial content and call for stricter content controls.",
+    "queries": [
+      "How do people view Netflix’s cultural impact and representation?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "the crown",
+    "wiki_title": "the crown",
+    "summary": "In public debates about Netflix, references to “the Crown” — both the monarchy as an institution and Netflix’s dramatization of it — are used to argue that the streamer either distorts history and erodes respect for constitutional institutions (fueling calls for accuracy, content warnings, or regulatory/legal pushback) or, conversely, to defend artistic freedom and oppose state or royal attempts to censor or control streaming content.",
+    "queries": [
+      "How do people view the crown's depiction of historical events?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "peter morgan",
+    "wiki_title": "peter morgan",
+    "summary": "Peter Morgan—best known for creating Netflix’s The Crown—is often cited in debates as evidence that Netflix bankrolls prestige, auteur-driven drama which can powerfully shape public perceptions of recent history. His work is used to justify Netflix’s investment in high-end scripted series while also drawing criticism that the platform amplifies dramatized or potentially misleading portrayals of real people without sufficient contextual framing.",
+    "queries": [
+      "What impact has Peter Morgan had on Netflix’s dramatic slate?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "princess diana",
+    "wiki_title": "diana, princess of wales",
+    "summary": "Diana, Princess of Wales is frequently invoked in debates over Netflix’s dramatizations and documentaries — critics use her portrayal (especially in Netflix’s The Crown and related works) to argue the service profits from and distorts real people’s trauma without adequate disclaimers, while supporters claim such depictions increase public interest and cultural discussion. Her case is often cited to push for clearer content labeling, ethical standards, or regulation of streaming portrayals of recent public figures.",
+    "queries": [
+      "Is Netflix’s focus on Princess Diana justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "prince charles",
+    "wiki_title": "charles iii",
+    "summary": "Charles III is often a focal point in arguments about Netflix’s cultural power—supporters of the monarchy cite alleged inaccuracies in Netflix dramas (especially The Crown) to demand disclaimers or tighter content regulation, while critics use those same portrayals to amplify scrutiny of royal conduct and to argue that Netflix wields outsized influence in shaping public views of living historical figures.",
+    "queries": [
+      "Is Netflix’s portrayal of Prince Charles fair or not?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "buckingham palace",
+    "wiki_title": "buckingham palace",
+    "summary": "Buckingham Palace is often invoked in debates about Netflix—most prominently around The Crown—as the emblem of the British monarchy that critics say Netflix sensationalizes or misrepresents, fueling demands for clearer fictional disclaimers and greater editorial responsibility. Supporters counter that dramatizations of the palace and royal life drive tourism and cultural interest, framing Netflix as a legitimate storyteller rather than a source of historical authority.",
+    "queries": [
+      "What effects has Netflix’s coverage of Buckingham Palace caused?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "robert lacey",
+    "wiki_title": "robert lacey",
+    "summary": "As a historian and credited consultant on Netflix’s royal drama The Crown, Robert Lacey is frequently invoked in debates about the platform’s historical accuracy—supporters cite his involvement to legitimize Netflix’s portrayals, while critics use his comments to argue the series still takes problematic creative liberties and raise questions about Netflix’s responsibility when dramatizing real people and events.",
+    "queries": [
+      "What effects has Robert Lacey’s Netflix consultancy caused?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "squid game",
+    "wiki_title": "squid game",
+    "summary": "Squid Game is frequently invoked as evidence that Netflix’s aggressive investment in international original content can produce blockbuster global hits and justify its subscription- and market-expansion strategies; critics, however, use the show to argue that Netflix’s platform power concentrates cultural influence, incentivizes viral/formulaic content, and obscures debates about creator compensation, labor practices, and algorithm-driven decision-making.",
+    "queries": [
+      "Is Squid Game's depiction of social inequality justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "hwang dong-hyuk",
+    "wiki_title": "hwang dong-hyuk",
+    "summary": "As the creator of Squid Game, Hwang Dong-hyuk is often held up as proof that Netflix can globalize and profitably export non‑English, auteur-driven TV—used to justify the streamer’s heavy investment in international productions—while critics invoke his case to challenge Netflix’s control over creative labor, compensation models, and the algorithmic commodification of local culture.",
+    "queries": [
+      "Are Hwang Dong-hyuk's storytelling choices justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "lee jung-jae",
+    "wiki_title": "lee jung-jae",
+    "summary": "Lee Jung‑jae’s breakout international stardom from a Netflix original is often cited by proponents to argue that Netflix can successfully export non‑English, prestige content and justify heavy investment in regional originals; critics, conversely, use his celebrity to claim the platform amplifies a few blockbuster hits while commercializing or overshadowing local industries.",
+    "queries": [
+      "Is Lee Jung-jae's Netflix stardom deserved or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "dalgona candy",
+    "wiki_title": "dalgona",
+    "summary": "Dalgona’s prominent placement in Squid Game is frequently invoked as proof of Netflix’s power to globalize and monetize local culture—cited by supporters as a benefit that boosted interest and sales for Korean vendors and by marketers as a model for cultural export. Critics use its viral revival and the emergence of imitation challenges to argue Netflix commodifies and sensationalizes cultural practices, raising questions about cultural appropriation, platform responsibility for promoting risky trends, and the ethics of profiting from indigenous traditions.",
+    "queries": [
+      "Is featuring dalgona candy in Squid Game on Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "In debates about Netflix, TikTok is often invoked as the algorithmic, short-form competitor that steals viewers’ attention and forces Netflix to rethink content length, promotion strategies, and ad tiers; at the same time creators and marketers point to TikTok as a powerful promotional engine that can propel Netflix shows to cultural prominence, while critics use its viral trends to lampoon Netflix’s perceived slowness or lack of relevance.",
+    "queries": [
+      "What effects has TikTok had on Netflix's content discovery?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "copycat crime",
+    "wiki_title": "copycat crime",
+    "summary": "Allegations that Netflix dramas and true‑crime series inspire copycat crimes are frequently used by critics to argue for stronger content warnings, age restrictions, editorial restraint, or removal of provocative titles, framing Netflix as socially irresponsible. Defenders counter that invoking copycat risk can justify censorship and misplace blame on storytellers rather than on underlying social and policing failures, shaping policy debates between stricter regulation/self‑moderation versus preservation of creative freedom and improved public-health responses.",
+    "queries": [
+      "What societal effects has copycat crime from Netflix caused?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "korean wave",
+    "wiki_title": "korean wave",
+    "summary": "In discussions about Netflix, the Korean Wave is invoked to argue that Netflix’s bets on K-drama and Korean-produced content can create global cultural hits and legitimize heavy spending on non‑English programming and local partnerships. Conversely, critics use hallyu to warn that Netflix’s market power can exploit creators, reshape production practices, and justify regulation or cultural-protection measures to preserve domestic industry autonomy.",
+    "queries": [
+      "Is the korean wave's popularity on Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "diversity, equity, and inclusion",
+    "wiki_title": "diversity, equity, and inclusion",
+    "summary": "At Netflix, DEI language is deployed by supporters to justify diverse hiring, inclusive casting and commissioning decisions, and internal training as corrective measures to broaden representation; opponents use the same language to accuse the company of ideological bias, tokenism, censorship of creators, or wasteful virtue‑signaling and call for limits on DEI programs to protect creative freedom or platform neutrality.",
+    "queries": [
+      "What impacts has diversity, equity, and inclusion had on Netflix?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "cultural appropriation",
+    "wiki_title": "cultural appropriation",
+    "summary": "On Netflix, cultural appropriation is frequently invoked to attack shows, marketing, or talent choices perceived to commodify or misrepresent marginalized cultures—driving calls for authentic casting, creator credit, cultural consultants, and revenue-sharing with source communities. Opponents of these critiques on Netflix argue they can over-police creativity, lead to censorship, or be used to delegitimize mainstreaming of diverse stories.",
+    "queries": [
+      "What consequences has cultural appropriation brought to Netflix productions?"
+    ]
+  },
+  {
+    "id": "C6-7-1",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "whitewashing",
+    "wiki_title": "whitewash (disambiguation)",
+    "summary": "Critics use “whitewash” to accuse Netflix of erasing or sanitizing non‑white stories—via white casting, selective historical framing, or edits that blunt uncomfortable truths—pressing for better representation and accountability; the term is also applied to corporate PR, alleging Netflix downplays scandals or labor issues, while defenders cite creative license or market pressures.",
+    "queries": [
+      "Is Netflix’s whitewashing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "yellowface",
+    "wiki_title": "examples of yellowface",
+    "summary": "Examples of yellowface are often cited by critics to attack Netflix’s casting and programming—accusing the platform of perpetuating racist stereotypes or whitewashing roles and using those incidents to demand inclusive casting, content edits/removals, and stronger diversity/sensitivity policies. Defenders may invoke artistic license or historical context, but these controversies shape public expectations that Netflix has a responsibility to avoid racist portrayals and adopt clear representation standards.",
+    "queries": [
+      "How do people view yellowface in Netflix shows?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "death note (2017 film)",
+    "wiki_title": "death note (2017 film)",
+    "summary": "Netflix’s 2017 live-action Death Note is often cited by critics as emblematic of the streamer’s tendency to prioritize Hollywood-style, marketable reworkings over fidelity to source material and cultural authenticity, fueling complaints about whitewashing and poor handling of adaptations. Defenders use it to argue Netflix is experimenting to globalize IP and make foreign properties accessible to mainstream U.S. audiences, highlighting tensions between creative freedom and responsible representation.",
+    "queries": [
+      "What consequences has death note (2017 film) had on Netflix?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "live-action anime",
+    "wiki_title": "live action",
+    "summary": "References to live-action are often used to justify Netflix’s shift toward big-budget remakes and adaptations as subscriber-friendly, mainstream content, while critics invoke the live-action label to argue Netflix is sidelining original animation, mishandling source material (casting, cultural fidelity) and prioritizing spectacle over creativity. Debates over live-action projects on Netflix thus signal broader tensions about artistic stewardship, diversity in casting, and the platform’s investment priorities.",
+    "queries": [
+      "How do fans view live-action anime on Netflix?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "color-blind casting",
+    "wiki_title": "color-blind casting",
+    "summary": "On Netflix, appeals to color‑blind casting are often deployed to defend diverse or cross‑racial casting in original series and adaptations, framing the platform as progressive and focused on merit rather than strict fidelity to source material. Critics counter that this rationale can erase cultural specificity, enable tokenism or whitewashing, and is used to argue Netflix should instead prioritize authentic representation and diversity among creators and casts.",
+    "queries": [
+      "What effects has color-blind casting had on Netflix audiences?"
+    ]
+  },
+  {
+    "id": "C6-8",
+    "parent": "C6",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Activists invoke Black Lives Matter to pressure Netflix to amplify Black stories, hire and fund more Black creators, and prioritize programming that confronts racial injustice—using the movement to justify demands for concrete investment and diversity policies. Conversely, critics use BLM to accuse Netflix of performative allyship and profiting from Black pain, framing calls for boycotts or structural changes in hiring, commissioning, and algorithmic promotion.",
+    "queries": [
+      "What effects has Black Lives Matter content had on Netflix?"
+    ]
+  },
+  {
+    "id": "C6-8-1",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "ava duvernay",
+    "wiki_title": "ava duvernay",
+    "summary": "Ava DuVernay is often cited in discussions of Netflix as evidence that the streamer can amplify underrepresented voices—her high-profile Netflix projects and production deals are used to argue the platform offers creative freedom and wide distribution for socially urgent, diverse storytelling.  Conversely, critics invoke her Netflix ties to contend the company commodifies activism and gains cultural prestige while sidestepping broader industry inequities around labor, pay, and gatekeeping.",
+    "queries": [
+      "What impact has Ava DuVernay had on Netflix storytelling?"
+    ]
+  },
+  {
+    "id": "C6-8-2",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "when they see us",
+    "wiki_title": "when they see us",
+    "summary": "When They See Us is frequently cited as evidence that Netflix can shape public discourse by amplifying social-justice storytelling—used to praise the streamer’s willingness to fund racially conscious, politically engaged programming and to argue Netflix has a civic responsibility to invest in diverse voices. At the same time critics invoke the series to accuse Netflix of profiting from victims’ trauma and to push for stronger ethical practices around portrayal, compensation, and algorithmic promotion.",
+    "queries": [
+      "Is When They See Us' emotional impact justified or not?"
+    ]
+  },
+  {
+    "id": "C6-8-3",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "13th",
+    "wiki_title": "thirteenth",
+    "summary": "In debates about Netflix’s creative choices, the musical “thirteenth” (and related 13th/chords) is often invoked as shorthand for sophisticated, jazzy scoring—supporters point to its use as evidence Netflix invests in artistically ambitious, culturally rooted soundtracks, while critics argue the platform frequently flattens or commodifies such complex harmonic language into generic background music, reflecting algorithm-driven, marketable scoring over authentic musical depth.",
+    "queries": [
+      "How do people view 13th and its approach to criminal justice?"
+    ]
+  },
+  {
+    "id": "C6-8-5",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "dear white people",
+    "wiki_title": "dear white people",
+    "summary": "Dear White People is often invoked as a touchstone for debates about Netflix’s cultural politics—champions cite it as proof the streamer amplifies diverse voices and bold social critique, while detractors use it to accuse Netflix of promoting 'woke' identity politics and biased programming, shaping arguments about the company’s content strategy and cultural influence.",
+    "queries": [
+      "Is dear white people on Netflix thought-provoking or not?"
+    ]
+  },
+  {
+    "id": "C6-8-6",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "george floyd",
+    "wiki_title": "george floyd",
+    "summary": "George Floyd’s murder is often invoked to pressure Netflix to take stronger public stances on racial justice—urging the streamer to fund and foreground Black-led documentaries and dramas, support reform causes, and avoid profiting from depictions that glorify policing. Critics cite his death to argue Netflix’s algorithms and content choices sensationalize Black suffering and require changes to hiring, promotion, and programming practices, while defenders point to the platform’s racially conscious commissions as evidence of engagement.",
+    "queries": [
+      "Is Netflix’s portrayal of George Floyd handled reasonably or not?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "change.org",
+    "wiki_title": "change.org",
+    "summary": "Change.org is frequently used to marshal public pressure on Netflix—fans and advocacy groups launch petitions to demand renewals, reverse cancellations, protest price hikes or password‑sharing crackdowns, and push for content removals or greater diversity. These campaigns typically frame Netflix as responsive to consumer and creator power and tend to support calls for accountability, worker protections, and inclusive representation while opposing corporate decisions seen as harmful or exploitative.",
+    "queries": [
+      "What consequences have change.org petitions about Netflix produced?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "ken paxton",
+    "wiki_title": "ken paxton",
+    "summary": "Conservative commentators and parent-rights activists invoke Texas Attorney General Ken Paxton’s public statements and legal pushback to portray Netflix as a purveyor of sexually explicit or 'anti-family' content that should face restrictions or boycotts; critics of Paxton, in turn, use his interventions to cast debates over Netflix as partisan censorship and an overreach of state power into artistic expression.",
+    "queries": [
+      "Is Netflix’s portrayal of Ken Paxton fair or not?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "obscenity law",
+    "wiki_title": "obscenity",
+    "summary": "Accusations of 'obscenity' are frequently invoked in public debates about Netflix to justify calls for censorship, stricter age‑controls, content removal, or advertiser and legislative pressure when shows or films include explicit material. Advocates for artistic freedom counter that such claims are often used to stigmatize challenging content and to legitimize moral policing of creative choices.",
+    "queries": [
+      "What effects has obscenity law enforcement had on Netflix distribution?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "sundance film festival",
+    "wiki_title": "sundance film festival",
+    "summary": "Sundance is often invoked as a benchmark of indie credibility in debates about Netflix: supporters cite Netflix acquisitions and Sundance premieres as evidence the streamer is rescuing and amplifying independent filmmakers, while critics argue Netflix’s festival playbook and wide streaming releases bypass theatrical windows and dilute festival prestige. These references shape arguments about awards eligibility, distribution norms, and whether streaming strengthens or undermines the traditional independent-film ecosystem.",
+    "queries": [
+      "Is Netflix’s presence at Sundance Film Festival justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "political controversies",
+    "wiki_title": "political scandal",
+    "summary": "Allegations framed as political scandals are used to delegitimize Netflix—pointing to controversial shows, alleged lobbying/tax deals, or executive conduct—to justify calls for regulation, boycotts, or investigations. Conversely, defenders cast such scandals as politically motivated attacks on creative freedom, using the scandal frame to oppose censorship and stiffer oversight.",
+    "queries": [
+      "Are Netflix's political controversies justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "dave chappelle",
+    "wiki_title": "dave chappelle",
+    "summary": "Chappelle's Netflix specials — and the public uproar around perceived transphobic material — are frequently cited in debates over Netflix's editorial responsibility, with defenders framing the company as a protector of creative freedom and opponents arguing it profits from and enables harmful speech. His high‑profile contract and Netflix's responses to employee protests and public criticism are used to push for clearer moderation policies, content warnings, or stronger anti‑hate measures, or conversely to warn against corporate censorship and 'cancel culture' pressure.",
+    "queries": [
+      "How do people view dave chappelle's Netflix specials?"
+    ]
+  },
+  {
+    "id": "C7-1-1",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "the closer",
+    "wiki_title": "the closer",
+    "summary": "The Closer is often invoked in debates over Netflix’s catalog strategy as an example of the platform relying on licensed, nostalgia-driven network procedurals to attract and retain subscribers, backing arguments that Netflix adds value through back-catalog access while critics use its presence (or periodic removal) to highlight problems with licensing churn. It’s also cited in conversations about platform responsibility for content, with critics arguing that Netflix’s promotion of police-centric dramas like The Closer can normalize problematic portrayals of law enforcement and therefore merits scrutiny or contextualization.",
+    "queries": [
+      "Is the closer's portrayal on Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1-2",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "ted sarandos",
+    "wiki_title": "ted sarandos",
+    "summary": "Ted Sarandos is invoked by supporters as the executive who justifies Netflix’s aggressive spending, global originals strategy, and willingness to greenlight controversial or prestige projects as essential to growth and cultural influence. Critics use him as the personification of Netflix’s excesses—blaming his content and business choices for financial risk, cultural insensitivity, and prioritizing scale over creators’ or public accountability.",
+    "queries": [
+      "How do people view Ted Sarandos’s decisions for Netflix?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "glaad",
+    "wiki_title": "glaad",
+    "summary": "GLAAD functions as a public watchdog and advocacy voice toward Netflix, praising its inclusive series and campaigns while pressuring the streamer to increase authentic queer visibility, behind‑the‑camera diversity, and inclusive hiring. It also calls out and criticizes Netflix for stereotypical portrayals, lack of representation, or corporate decisions (like content removals or concessions to censorship) that harm LGBTQ interests.",
+    "queries": [
+      "What impact has glaad had on Netflix content?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "cuties (film)",
+    "wiki_title": "cuties",
+    "summary": "Cuties became a lightning rod in debates about Netflix’s editorial judgment and responsibility: critics used the film and its promotional materials to argue Netflix enables or fails to police sexualized content involving minors, citing it to justify boycotts and calls for tighter regulation and content controls. Defenders framed Netflix as a distributor of provocative, socially critical cinema and warned that backlash amounted to censorship, turning the controversy into a broader clash over artistic freedom versus corporate moderation and child-protection policies.",
+    "queries": [
+      "What consequences has cuties (film) caused for Netflix?"
+    ]
+  },
+  {
+    "id": "C7-2-1",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "maïmouna doucouré",
+    "wiki_title": "maïmouna doucouré",
+    "summary": "Maimouna Doucouré—whose film Cuties was distributed by Netflix—is often invoked in public debates to criticize Netflix for allegedly prioritizing sensational content and algorithmic reach over child safety and cultural sensitivity, prompting calls for tighter moderation, age‑rating policies, and regulation. At the same time, supporters cite her as an example of Netflix enabling diverse, challenging filmmakers and defending artistic freedom, framing the company as an important global platform for underrepresented voices.",
+    "queries": [
+      "What effects has Maïmouna Doucouré’s presence had on Netflix?"
+    ]
+  },
+  {
+    "id": "C7-2-2",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "parents television council",
+    "wiki_title": "parents television and media council",
+    "summary": "The Parents Television and Media Council frames Netflix as a source of indecent or age-inappropriate programming and uses public campaigns, complaints, and advertiser pressure to push for stricter labeling, parental controls, or removal of shows; in debates it therefore advocates regulatory or market constraints on Netflix and criticizes its sexual, violent, or youth-oriented portrayals.",
+    "queries": [
+      "Is the Parents Television Council's criticism of Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "review bombing",
+    "wiki_title": "review bomb",
+    "summary": "On Netflix, coordinated review-bomb campaigns are used to punish or spotlight decisions — from controversial original content and alleged political bias to unpopular cancellations or price changes — framing the company as out-of-touch, censorial, or profit‑driven. Opponents of bombing say it distorts genuine feedback and pushes platforms to tighten moderation, while supporters treat it as grassroots leverage to force Netflix to respond or change policies.",
+    "queries": [
+      "What consequences has review bombing caused for Netflix?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "sexualization of children",
+    "wiki_title": "sexualization",
+    "summary": "Critics frequently cite sexualization to condemn Netflix for series, films, or marketing that they say objectify characters—especially young women and teens—using the charge to push for stricter age ratings, content warnings, and limits on promotional imagery. Defenders and some creators rebut that such portrayals reflect artistic freedom, realism, or empowerment, framing calls for restriction as censorship and fueling debates over platform responsibility versus creative autonomy.",
+    "queries": [
+      "How do people view Netflix’s sexualization of children?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "moral panic",
+    "wiki_title": "moral panic",
+    "summary": "Moral panic rhetoric is often deployed to cast Netflix as a corrupting cultural force—most visibly in disputes over sexualized content (e.g., Cuties), violent or ‘binge’ culture, and alleged ideological bias—and to justify censorship, boycotts, stricter age controls, and regulatory intervention. Critics counter that these panics exaggerate harms for political or moral crusades, while proponents use them to demand greater platform accountability and content policing.",
+    "queries": [
+      "Is the moral panic over Netflix content justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "transgender rights",
+    "wiki_title": "legal status of transgender people",
+    "summary": "Debates about the legal status of transgender people are used to pressure Netflix both positively and negatively: advocates point to unequal legal recognition to demand more authentic trans representation, hiring and global advocacy from the platform, while governments, conservative groups, or opponents cite local laws and norms to justify censorship, content removal, or boycotts of Netflix programming.",
+    "queries": [
+      "How do people view transgender rights in Netflix content?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "disclosure (documentary)",
+    "wiki_title": "disclosure (2020 american film)",
+    "summary": "Netflix's 2020 documentary Disclosure is frequently cited by advocates as evidence that the streamer uses its platform to center trans stories and advance inclusive representation, bolstering calls for more diverse commissioning and internal hiring. Conversely, opponents invoke the film to argue that Netflix promotes a political or 'woke' agenda, using it to criticize the company's content choices and to push for stricter content standards or corporate neutrality.",
+    "queries": [
+      "What effects has disclosure (documentary) had on Netflix discussions?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "laverne cox",
+    "wiki_title": "laverne cox",
+    "summary": "Laverne Cox is frequently cited in debates about Netflix as evidence of the platform’s commitment to trans visibility and inclusive casting—supporters point to her starring roles and advocacy to justify Netflix’s progressive brand and diverse programming. Critics, however, invoke her presence to argue Netflix sometimes commodifies marginalized stories or uses high-profile talent as token proof of diversity while neglecting broader hiring, pay, or representational equity behind the camera.",
+    "queries": [
+      "Is Laverne Cox's Netflix presence influential or not?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "elliot page",
+    "wiki_title": "elliot page",
+    "summary": "Elliot Page is frequently invoked in arguments about Netflix’s commitment to LGBTQ representation — supporters point to his high-profile role on The Umbrella Academy and visibility as a trans man to praise Netflix for inclusive casting, while critics use his presence to highlight perceived inconsistencies when the streamer hosts anti‑trans content or mishandles trans stories and talent.",
+    "queries": [
+      "What impact has Elliot Page had on Netflix’s audience perceptions?"
+    ]
+  },
+  {
+    "id": "C7-3-8",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "trans representation",
+    "wiki_title": "trans woman",
+    "summary": "On Netflix, the figure of the 'trans woman' is invoked both to praise the service's diversity and inclusion when trans women are cast or centered in storylines, and to criticize it—either for allegedly promoting an ideological agenda, for platforming transphobic material, or for failing to cast authentically—fueling public debates, calls for boycotts, and demands for content or policy changes.",
+    "queries": [
+      "How do people view trans representation in Netflix shows?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In discussions about Netflix, 'cancel culture' is used as a framing device both to criticize the company for either bowing to public pressure when it removes or disciplines talent and to defend calls for boycotts, content changes, or employee protest as legitimate accountability — shaping arguments over whether Netflix should prioritize free expression or stronger content governance.",
+    "queries": [
+      "How do people view cancel culture around Netflix content?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "employee activism",
+    "wiki_title": "activism",
+    "summary": "Activist campaigns — from hashtag-driven petitions and boycotts to labor protests — are used to pressure Netflix on content, diversity, labor practices, and ethical conduct, pushing for removals, reforms, or better pay and working conditions. These campaigns also frame Netflix in public debates either as a corporate target to be reformed (often by progressive organizers) or as a purveyor of unwanted ideology (often by conservative critics), shaping calls for regulation, content moderation, or industry labor policy changes.",
+    "queries": [
+      "Is employee activism at Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "boycott campaigns",
+    "wiki_title": "boycott",
+    "summary": "Calls for boycotting Netflix often arise in debates over its content decisions, subscription pricing, or labor and moderation policies, and are used by critics to apply consumer pressure and demand policy or programming changes. Opponents of boycotts frame them as symbolic or as excessive 'cancel culture' that threatens creative freedom and corporate stability, so boycotts typically serve to either legitimize calls for accountability or to delegitimize those calls as overreach.",
+    "queries": [
+      "What consequences do boycott campaigns against Netflix have?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "digital services tax",
+    "wiki_title": "taxation of digital goods",
+    "summary": "Taxation of digital goods is invoked to argue that Netflix, as a large multinational streamer, should be subject to digital service taxes or local levies to prevent tax avoidance and force contributions to domestic cultural funds and broadcasters; opponents counter that such taxes unfairly target digital innovation, risk higher subscription prices, and may be ineffective against corporate profit‑shifting strategies.",
+    "queries": [
+      "What consequences has the digital services tax had for Netflix?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "oecd inclusive framework",
+    "wiki_title": "oecd/g20 inclusive framework",
+    "summary": "The OECD/G20 Inclusive Framework is frequently cited in arguments about Netflix’s tax contributions — proponents point to its multilateral rules (Pillar One/Two) as a way to make Netflix pay tax where viewers are and to curb profit shifting, while critics use it to argue the framework either leaves loopholes that let Netflix minimize taxes or protects large platforms from tougher national digital services taxes.",
+    "queries": [
+      "How do people view the oecd inclusive framework’s effects on Netflix?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "european commission",
+    "wiki_title": "european commission",
+    "summary": "In public debates about Netflix the European Commission is invoked as the policymaker forcing platforms to boost European content, comply with AVMSD quota and discoverability rules, and face oversight under competition and digital services laws — a basis supporters use to demand local investment, fair taxation and transparency. Critics, however, portray the Commission as overreaching, blaming its interventions for higher compliance costs, constrained business models, and potential harm to platform innovation and choice.",
+    "queries": [
+      "Is the European Commission's oversight of Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "united states trade representative",
+    "wiki_title": "office of the united states trade representative",
+    "summary": "In debates over Netflix’s global expansion—especially disputes about content regulations, data‑localization rules, copyright enforcement, or digital services taxes—commentators invoke the USTR as the tool that secures Netflix’s market access and IP interests abroad; supporters point to USTR intervention to justify pressuring other governments to open markets, while critics cite it as evidence that U.S. trade policy favors Big Tech and cultural-export interests over local regulatory autonomy.",
+    "queries": [
+      "What impacts has the united states trade representative had on Netflix?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "big tech",
+    "wiki_title": "big tech",
+    "summary": "Opponents invoke \"Big Tech\" to cast Netflix as part of a powerful cohort whose algorithms, data practices, and market clout distort competition and cultural influence—using that framing to push for antitrust scrutiny, tighter content/platform regulation, and stronger privacy oversight. Defenders counter that labeling Netflix as \"Big Tech\" is misleading because it functions primarily as a content studio and streamer, arguing against sweeping tech regulations that would hamper creative investment and competition in media.",
+    "queries": [
+      "What effects has Netflix's relationship with big tech caused?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "tax avoidance",
+    "wiki_title": "tax avoidance",
+    "summary": "Allegations that Netflix shifts profits and minimizes corporate taxes are used to portray the company as not paying its fair share, bolstering public anger, calls for digital‑service taxes or stricter anti‑avoidance rules, and occasional reputational attacks; defenders counter that its arrangements are legal tax planning that free up resources for content investment and global expansion.",
+    "queries": [
+      "How do people view Netflix's tax avoidance?"
+    ]
+  },
+  {
+    "id": "C7-6-1",
+    "parent": "C7",
+    "level": 3,
+    "topic": "rtük",
+    "wiki_title": "elk*rtuk",
+    "summary": "In discussions about Netflix, Elk*rtuk is invoked as a cautionary example of how streaming platforms can amplify locally controversial, politically charged films and potentially influence elections, leading critics to call for stricter content rules or local regulation. Conversely, defenders of platform neutrality use it to argue against censorship and for allowing global services to carry contentious local productions.",
+    "queries": [
+      "How do people view rtük's actions toward Netflix?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "pakistan telecommunication authority",
+    "wiki_title": "pakistan telecommunication authority",
+    "summary": "In Pakistan debates about Netflix frequently invoke the Pakistan Telecommunication Authority as the enforcement arm that can block or demand removal of content deemed blasphemous, obscene, or culturally inappropriate, bolstering arguments for bans, stricter age‑gating, or local compliance and taxation. Critics of censorship point to the PTA’s interventions to argue that Netflix faces disproportionate moral policing and to press for greater platform freedom, clearer rules, or negotiations rather than outright blocking.",
+    "queries": [
+      "How do people view the Pakistan Telecommunication Authority's Netflix restrictions?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "blasphemy laws",
+    "wiki_title": "blasphemy law",
+    "summary": "Blasphemy law is invoked by religious groups and some governments to pressure Netflix to remove or block content and to justify legal or regulatory action over shows deemed insulting to faiths (for example, controversies after satirical religious titles), framing the streamer as culturally irresponsible and in need of oversight. Critics use the same debates to argue such laws are censorship tools that should not curb Netflix’s artistic freedom, pushing for free‑speech protections and limits on state intervention in streaming content.",
+    "queries": [
+      "Are blasphemy laws reasonable in Netflix’s international programming?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "lgbtq content",
+    "wiki_title": "lgbtq community",
+    "summary": "The LGBTQ community is routinely invoked in public debates about Netflix to both defend and critique the service — advocates celebrate its queer representation and pressure the company for authentic casting, inclusive policies, and continued visibility, while critics accuse Netflix of tokenism or of exploiting LGBTQ stories for profit. Conservative and parental opponents likewise cite LGBTQ content to brand Netflix as culturally \"woke\" and to justify boycotts or demands for stricter content controls, and controversies over specials or staffing decisions often frame Netflix as either failing or standing up for LGBTQ rights depending on one's stance.",
+    "queries": [
+      "How do people view lgbtq content on Netflix?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "geoblocking",
+    "wiki_title": "geo-blocking",
+    "summary": "Geo-blocking is often invoked by critics of Netflix to argue the service unfairly fragments its catalog, enables price discrimination, and forces consumers toward VPNs or other workarounds, driving calls for cross-border catalog harmonization and stronger consumer-rights regulation. Defenders — including Netflix and rights holders — use geo-blocking to justify territorial licensing, local-market protections, and content acquisition economics, framing it as a necessary tradeoff to fund regional production.",
+    "queries": [
+      "Is geoblocking on Netflix justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "self-censorship",
+    "wiki_title": "self-censorship",
+    "summary": "Accusations of self-censorship are used to argue that Netflix alters, mutes, or shelves content to appease governments, advertisers, or lucrative markets—portraying the company as prioritizing subscribers and access over artistic freedom or human-rights concerns. Defenders frame similar decisions as legitimate localization, legal compliance, or risk management, using the term to push for greater transparency about how editorial and commercial pressures shape Netflix’s catalog and policies.",
+    "queries": [
+      "What effects has Netflix's self-censorship had?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "privacy and data practices",
+    "wiki_title": "data privacy day",
+    "summary": "Data Privacy Day is often invoked in debates about Netflix to spotlight the streaming service’s collection and use of viewer data—privacy advocates cite the day to demand clearer consent, data-minimization, and stronger controls over profiling and ad-targeting, while defenders frame Netflix’s personalization and analytics as user-beneficial and justify current data practices as necessary for recommendations and fraud prevention.",
+    "queries": [
+      "Are Netflix's privacy and data practices reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "general data protection regulation",
+    "wiki_title": "general data protection regulation",
+    "summary": "Privacy advocates, regulators and subscribers invoke the GDPR to criticize Netflix’s collection, profiling and cross‑border transfer of viewing and behavioral data, demanding greater transparency, consent, portability and deletion rights—especially around opaque recommendation algorithms and any move toward ad‑supported personalization. Netflix in turn cites GDPR compliance as both a legal constraint and a legitimacy claim, using it to justify data‑handling decisions or to argue against requirements it says would hamper personalization and product features.",
+    "queries": [
+      "Is the general data protection regulation reasonable for Netflix's data practices?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "irish data protection commission",
+    "wiki_title": "data protection commissioner",
+    "summary": "Data protection commissioners are invoked in public debates about Netflix as the authoritative enforcers who investigate and rule on the service’s handling of personal data, shaping whether Netflix is portrayed as GDPR‑compliant or privacy‑abusing. Their findings are used by critics to demand penalties, greater transparency on profiling/recommendations, and limits on targeted advertising and data transfers, or by Netflix to legitimize its practices when regulators find no breach.",
+    "queries": [
+      "What effects has the Irish Data Protection Commission had on Netflix?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "standard contractual clauses",
+    "wiki_title": "contract",
+    "summary": "Contracts—from Netflix’s terms of service to its studio licensing and talent agreements—are used to justify the company’s choices on pricing, password‑sharing bans, content removal and regional availability, and to defend it legally against consumer or creative complaints. Critics counter that opaque, one‑sided contracts (mandatory arbitration, long exclusive output deals, restrictive licensing) demonstrate disproportionate market power and fuel calls for greater transparency, consumer protections, antitrust oversight, and stronger labor rights.",
+    "queries": [
+      "Are standard contractual clauses in Netflix contracts justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "gdpr fines",
+    "wiki_title": "gdpr fines and notices",
+    "summary": "GDPR fines and notices are invoked in debates about Netflix to criticize its data-collection, profiling, and personalization practices—privacy advocates cite enforcement actions to argue Netflix needs greater transparency, stricter oversight, and limits on targeting. Conversely, industry defenders use the same notices to frame regulators as overreaching, arguing fines can be disproportionate compliance burdens that risk stifling product innovation and personalization.",
+    "queries": [
+      "What consequences have Netflix’s gdpr fines caused?"
+    ]
+  },
+  {
+    "id": "C8-1-5",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "transatlantic data transfers",
+    "wiki_title": "wire transfer",
+    "summary": "Wire transfers appear in debates about how Netflix handles cross‑border payments to studios, creators, vendors and subscribers in underbanked regions; critics argue reliance on wires fosters high fees, delays, opaque settlement and potential tax‑shifting, while defenders say they’re a practical, compliant method for large, time‑sensitive licensing and vendor payouts.",
+    "queries": [
+      "How do people view transatlantic data transfers by Netflix?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "data protection officer",
+    "wiki_title": "data protection officer",
+    "summary": "When critics question Netflix’s collection, profiling and cross-border use of viewing and personal data, activists and regulators invoke the presence or actions of a data protection officer to demand transparency, audits, and stricter GDPR-style safeguards (especially around targeted recommendations and children’s data); supporters or Netflix itself point to a DPO as evidence of compliance and responsible governance. Opponents counter that the DPO role can be symbolic or constrained by corporate interests, framing it as a way for Netflix to deflect calls for stronger limits like data minimization and user control.",
+    "queries": [
+      "What impact has Netflix's data protection officer had on user privacy?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "california consumer privacy act",
+    "wiki_title": "california consumer privacy act",
+    "summary": "Advocates and critics cite the California Consumer Privacy Act when challenging Netflix’s use of viewing and personal data, arguing the law should force greater transparency, opt-outs, and deletion rights for profiling, recommendations, and any ad-targeting; meanwhile Netflix and industry defenders point to CCPA compliance to claim it already protects users and that stricter rules would impede personalization and content analytics.",
+    "queries": [
+      "Is the california consumer privacy act reasonable for companies like Netflix?"
+    ]
+  },
+  {
+    "id": "C8-2-1",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "xavier becerra",
+    "wiki_title": "xavier becerra",
+    "summary": "As a former California attorney general and current U.S. health official, Xavier Becerra is often invoked by advocates who argue for tougher oversight of platforms like Netflix—framing him as a proponent of antitrust, consumer‑protection, and limits on harmful or health misinformation in streaming content. Critics, meanwhile, use his name to warn that such regulation risks government overreach that could chill creative freedom and market competition.",
+    "queries": [
+      "How do people view xavier becerra’s influence on Netflix regulations?"
+    ]
+  },
+  {
+    "id": "C8-2-2",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "class-action lawsuits",
+    "wiki_title": "list of class-action lawsuits",
+    "summary": "Lists of class-action lawsuits against Netflix are used in public debates to portray the company as prone to systemic consumer, labor, or privacy abuses—bolstering calls for stricter regulation, penalties, or restitution—while defenders point to the same lists to argue the cases are isolated, overblown, or driven by opportunistic plaintiffs rather than evidence of widespread wrongdoing.",
+    "queries": [
+      "Are Netflix's class-action lawsuits justified or not?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "data brokers",
+    "wiki_title": "data broker",
+    "summary": "In debates about Netflix, critics invoke data brokers to frame the company as complicit in invasive audience profiling and ad-targeting—arguing that buying or sharing third‑party attributes violates privacy and strengthens calls for transparency and regulation. Proponents retort that brokered data enables better personalization and monetization (especially for an ad-supported tier), using it to justify targeted ads and business models that lower subscription costs.",
+    "queries": [
+      "How do people view Netflix using data brokers for personalization?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "electronic frontier foundation",
+    "wiki_title": "electronic frontier foundation",
+    "summary": "When Netflix-related debates touch on privacy, DRM, net neutrality or copyright enforcement, advocates and critics cite the EFF to argue that Netflix should minimize user surveillance, avoid heavy‑handed DRM or account‑sharing restrictions, and be transparent about algorithmic and data practices; the EFF’s legal-and-civil‑liberties framing is used to justify consumer protections and to criticize policies that constrain fair use or enable viewer surveillance.",
+    "queries": [
+      "What impacts has the Electronic Frontier Foundation had on Netflix practices?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "digital millennium copyright act",
+    "wiki_title": "digital millennium copyright act",
+    "summary": "The DMCA is routinely invoked in debates about Netflix to justify takedowns, DRM and anti-circumvention practices, and to shape how rights-holders and the service police piracy and unauthorized redistribution. Critics counter that its enforcement and safe-harbor rules can be used to limit competition, consumer choice (e.g., VPNs, device interoperability, fair use), and raise licensing costs — framing policy reform as consequential for Netflix's business model and content availability.",
+    "queries": [
+      "Is enforcement of the digital millennium copyright act fair for Netflix?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "digital rights management",
+    "wiki_title": "digital rights management",
+    "summary": "Studios and Netflix invoke DRM to justify geo‑blocking, limited offline downloads, and anti‑recording measures as necessary to enforce licensing deals and protect revenue. Critics counter that Netflix’s DRM frames users as renters rather than owners, undermines interoperability, accessibility and archival/fair‑use rights, and fuels calls for policy exceptions or weaker DRM requirements.",
+    "queries": [
+      "What impacts has Netflix's digital rights management had on users?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "alliance for creativity and entertainment",
+    "wiki_title": "alliance for creativity and entertainment",
+    "summary": "Advocates frequently invoke the Alliance for Creativity and Entertainment to argue that online piracy harms streaming services like Netflix and to justify stronger takedown regimes, site-blocking and enforcement actions; critics use ACE as an example of major media interests coordinating to lobby for rules that favor rights-holders over consumer protections, open‑internet norms, or nuanced copyright reform.",
+    "queries": [
+      "How do people view the alliance for creativity and entertainment?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "virtual private network",
+    "wiki_title": "virtual private network",
+    "summary": "VPNs feature prominently in debates about Netflix because users commonly rely on them to circumvent regional content blocks, a practice framed by supporters as protecting consumer access, privacy, and fairness across markets. Rights holders and some policymakers counter that VPN use breaches licensing agreements, bolsters Netflix’s VPN‑blocking moves, and is used to argue for stricter enforcement of geo‑restrictions.",
+    "queries": [
+      "Is using a virtual private network with Netflix reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "recommendation algorithm",
+    "wiki_title": "recommender system",
+    "summary": "Netflix’s recommender system is frequently cited to justify the service’s commercial success and editorial choices, portrayed as a data‑driven neutral tool that personalizes viewing, increases engagement, and guides commissioning decisions. Critics counter that its opaque algorithms shape tastes, amplify hits over niche or diverse work, and thus fuel calls for transparency, algorithmic audits, and policy interventions to protect cultural variety and consumer autonomy.",
+    "queries": [
+      "How do people view Netflix’s recommendation algorithm?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "dark patterns",
+    "wiki_title": "dark pattern",
+    "summary": "In debates about Netflix, critics invoke dark patterns to argue the service deliberately uses UI tricks—such as buried cancellation flows, pre‑selected upgrades or billing choices, and autoplay/“next episode” nudges—to maximize retention and make leaving harder, prompting calls for stronger consumer‑protection rules; defenders counter that these are common or benign design choices and caution against heavy regulation.",
+    "queries": [
+      "How do people view dark patterns on Netflix?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "false advertising",
+    "wiki_title": "false advertising",
+    "summary": "In debates about Netflix, accusations of false advertising are used to attack the company’s marketing tactics—misleading trailers, sensational thumbnails, and broad use of “Netflix Original” labeling—arguing these practices deceive viewers and justify consumer complaints, class actions, or regulatory scrutiny. Critics point to such cases to demand clearer disclosure and enforcement, while defenders often portray them as aggressive but typical promotion rather than unlawful conduct.",
+    "queries": [
+      "How do people view Netflix’s false advertising?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "data privacy",
+    "wiki_title": "information privacy",
+    "summary": "Information privacy is central to debates about Netflix’s collection and use of viewing, device, and account data—critics argue this enables intrusive profiling, opaque algorithmic decisions, and heavy-handed account‑sharing enforcement, while the company and some users defend those practices as necessary for personalization, recommendations, content development, and fraud prevention. Privacy advocates and regulators invoke data‑protection laws (e.g., GDPR/CCPA) to demand greater transparency, user control, and limits on retention or third‑party use of Netflix’s behavioral data.",
+    "queries": [
+      "How do people view Netflix's data privacy practices?"
+    ]
+  }
+]

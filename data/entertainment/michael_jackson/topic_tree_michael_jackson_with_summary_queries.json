@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Michael Jackson",
+    "wiki_title": "Michael Jackson",
+    "summary": "Michael Jackson is invoked both as the paradigmatic cultural icon—used to argue for the value of artistic genius, racial breakthrough, and the commercial power of music legacies—and as the focal figure in critiques of celebrity impunity, alleged child sexual abuse, and intrusive media coverage. Debates about him commonly frame polarized positions on whether and how to separate art from artist, what accountability and protections the law and industry should provide, and how to treat controversial legacies in public memory and commerce.",
+    "queries": [
+      "How do people perceive Michael Jackson’s artistic contributions today?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal controversies and allegations",
+    "wiki_title": "cnn controversies",
+    "summary": "Controversies over CNN’s reporting on Michael Jackson are invoked by defenders who claim the network sensationalized allegations and helped cement a presumption of guilt, and by critics who argue mainstream coverage validated survivor accounts and forced institutions to confront his legacy; these disputes are used to argue for either tighter journalistic restraint and corrections or for the legitimacy of investigative media scrutiny in high‑profile abuse cases.",
+    "queries": [
+      "How do people view Michael Jackson's legal controversies and allegations?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "wade robson",
+    "wiki_title": "wade robson",
+    "summary": "Wade Robson’s public shift from defending Michael Jackson to later accusing him of childhood sexual abuse is a focal point in arguments about Jackson’s legacy: supporters cite his earlier exoneration to cast doubt on accusers’ credibility and motives, while critics and survivor advocates point to his later claims as evidence of abuse and trauma-related delayed disclosure. His involvement—amplified by high-profile media like Leaving Neverland—has shaped public opinion, media narratives, and debates over legal time limits and institutional accountability for child sexual abuse.",
+    "queries": [
+      "How do people view Wade Robson's role in Michael Jackson discussions?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "hbo",
+    "wiki_title": "hbo",
+    "summary": "Through high-profile documentaries such as the 2019 co‑production Leaving Neverland, HBO has amplified allegations of child sexual abuse against Michael Jackson and helped reframe his legacy from untouchable pop icon to a contested figure, prompting boycotts and industry distancing. Jackson supporters and the estate have accused HBO of bias and sensationalism, framing the network as promoting a victim-centered narrative that critics say sidelines questions of evidence and due process.",
+    "queries": [
+      "How do people view HBO’s treatment of Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "2005 criminal trial",
+    "wiki_title": "jury trial",
+    "summary": "Michael Jackson's 2005 jury trial acquittal is frequently cited by supporters as definitive proof of his innocence and used to dismiss subsequent allegations; conversely, critics argue that celebrity status, wealth, media spectacle, and jury composition can skew outcomes, framing the verdict as legally exculpatory but not dispositive of moral culpability and fueling debates about fairness in high‑profile jury trials.",
+    "queries": [
+      "How do people view the 2005 criminal trial of Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "tom mesereau",
+    "wiki_title": "thomas mesereau",
+    "summary": "Mesereau is cited by Jackson’s supporters as the lawyer who legally vindicated him, and his successful defense is used to argue that allegations were unfounded and that media and prosecutors mistreated Jackson; opponents, however, invoke Mesereau’s high-profile tactics to claim celebrity resources can distort justice and that an acquittal does not settle moral or factual disputes.",
+    "queries": [
+      "Was Tom Mesereau's courtroom strategy reasonable in Michael Jackson's case?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "tom sneddon",
+    "wiki_title": "thomas sneddon",
+    "summary": "Thomas Sneddon, the prosecutor who pursued criminal cases against Michael Jackson, is invoked in public debates both as the symbol of alleged accountability for child-abuse claims and by Jackson’s defenders as evidence of a vindictive, media-driven persecution—his role polarizes discussions about Jackson’s guilt, the fairness of prosecuting celebrities, and the credibility of accusers.",
+    "queries": [
+      "What effects did Tom Sneddon have on Michael Jackson’s reputation?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "rodney melville",
+    "wiki_title": "rodney melville",
+    "summary": "As the judge who oversaw Michael Jackson's 2005 molestation trial, Rodney Melville is invoked by Jackson supporters as the legal authority who cleared him while critics point to his courtroom rulings and the acquittal to argue that trial procedures, evidentiary limits, and celebrity influence left unresolved questions — shaping debates about whether a not‑guilty verdict constitutes vindication or reflects flaws in how high‑profile allegations are handled.",
+    "queries": [
+      "How do people view rodney melville’s decisions in Michael Jackson’s case?"
+    ]
+  },
+  {
+    "id": "C2-4-8",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "acquittal",
+    "wiki_title": "acquittal",
+    "summary": "Michael Jackson's 2005 acquittal is repeatedly invoked by supporters as definitive proof of his innocence and used to rehabilitate his reputation, while critics counter that a criminal acquittal does not resolve factual allegations and point to later civil claims and allegations to challenge claims of exoneration. The acquittal also sharpens debates about celebrity privilege, evidentiary standards, and how the justice system handles historical sexual‑abuse accusations.",
+    "queries": [
+      "What impact did Michael Jackson's acquittal have?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "neverland ranch",
+    "wiki_title": "neverland ranch",
+    "summary": "Neverland Ranch is invoked in public debates as a powerful symbol that simultaneously bolsters narratives of Michael Jackson’s cultivated childlike innocence and philanthropic eccentricity (used by defenders to argue benign intent) and furnishes critics with tangible imagery—its isolation, children’s attractions, and association with allegations—used to argue grooming, exploitation, and the problem of celebrity privilege; its depiction feeds arguments about media sensationalism, trial fairness, and the need for stronger child-protection oversight.",
+    "queries": [
+      "How do people view Neverland Ranch in relation to Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C2-5-2",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "jordan chandler",
+    "wiki_title": "kyle chandler",
+    "summary": "Kyle Chandler is rarely central to discussions about Michael Jackson, but when mentioned he is used as a contrastive example of a low‑scandal, 'everyman' celebrity to frame arguments about public sympathy, accountability, and whether celebrity persona should affect judgments about alleged misconduct.",
+    "queries": [
+      "How do people view jordan chandler regarding Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "leaving neverland",
+    "wiki_title": "leaving neverland",
+    "summary": "The documentary Leaving Neverland is often cited in debates to portray Michael Jackson’s legacy as seriously tarnished by allegations of sexual abuse, motivating boycotts, removal of honors, and institutional reassessments of how his work is celebrated; conversely, defenders point to alleged bias and unproven claims in the film to argue for Jackson’s continued rehabilitation, insist on legal presumption of innocence, or separate his artistic contributions from the accusations.",
+    "queries": [
+      "What impact has Leaving Neverland had on views of Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "dan reed",
+    "wiki_title": "dan reed (director)",
+    "summary": "As director of the documentary Leaving Neverland, Dan Reed played a major role in framing Michael Jackson through the personal testimonies of alleged victims, helping to legitimize abuse claims and prompting institutions and parts of the public to reassess or distance themselves from Jackson’s legacy. His film also fuels debates over journalistic balance and due process, with defenders calling it one‑sided and critics arguing it advances a conviction-in-the-media narrative.",
+    "queries": [
+      "What do people think about Dan Reed’s treatment of Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "statute of limitations",
+    "wiki_title": "statute of limitations",
+    "summary": "Arguments about Michael Jackson commonly invoke statutes of limitations to justify why decades-old allegations could not be prosecuted or were dismissed, a point used by defenders to claim legal closure and by survivors and reform advocates to criticize the justice system and push for tolling, exceptions, or changes that would allow historical abuse claims to be heard.",
+    "queries": [
+      "Is the statute of limitations in Michael Jackson cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "child victims act",
+    "wiki_title": "maryland child victims act",
+    "summary": "The Maryland Child Victims Act is cited in discussions about Michael Jackson as a legal mechanism that can enable decades‑old abuse claims against him or his estate, supporting narratives that survivors deserve belated civil justice. Opponents use it to argue that retroactive windows invite opportunistic suits and can unfairly tarnish Jackson’s legacy, framing the debate around accountability versus potential abuse of the legal system.",
+    "queries": [
+      "How do people view the child victims act regarding Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "public image and media",
+    "wiki_title": "the public image",
+    "summary": "Michael Jackson’s public image—ranging from celebrated pop icon and humanitarian to eccentric, accused predator—is marshaled by defenders to preserve his artistic legacy and argue for separating art from the artist, while critics use it to justify skepticism, demands for accountability (including limiting honors or broadcasts), and broader debates about media sensationalism, race, and protections for child performers.",
+    "queries": [
+      "How do people view Michael Jackson’s public image and media?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "child sexual abuse allegations",
+    "wiki_title": "false allegation of child sexual abuse",
+    "summary": "Claims that allegations against Michael Jackson were false are frequently used by his defenders to argue he was a victim of opportunistic or malicious accusations, undermining accusers’ credibility and supporting efforts to rehabilitate his legacy; critics counter that stressing possible falsehoods can marginalize genuine survivors and be deployed to dismiss systemic concerns, influencing debates about media responsibility, legal standards, and how to treat posthumous accusations.",
+    "queries": [
+      "Are Michael Jackson’s child sexual abuse allegations credible or not?"
+    ]
+  },
+  {
+    "id": "C3-2-1",
+    "parent": "C3",
+    "level": 3,
+    "topic": "martin bashir",
+    "wiki_title": "martin bashir",
+    "summary": "Martin Bashir's reporting — most notably his televised profile of Michael Jackson — is often invoked by critics to portray Jackson as a suspicious, problematic figure whose parenting and interactions with children deserve public mistrust and legal scrutiny. Conversely, Jackson’s defenders point to Bashir’s alleged deceptive editing and sensationalism to argue media bias, using his work to justify defending Jackson and criticizing the press and authorities for rushing to judgment.",
+    "queries": [
+      "Is martin bashir’s Michael Jackson interview justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "itv",
+    "wiki_title": "itv",
+    "summary": "ITV's news programmes, talk shows and documentary slots have repeatedly amplified allegations and controversies about Michael Jackson, shaping public debate over his guilt, cultural legacy and whether to separate the artist from the alleged crimes. Critics say ITV often sensationalises or selectively edits material to attract viewers and tarnish Jackson's reputation, while defenders argue its coverage elevates victims’ accounts and serves the public interest.",
+    "queries": [
+      "How do people view itv's Michael Jackson reporting?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "abc",
+    "wiki_title": "abc",
+    "summary": "ABC’s television news and entertainment coverage has often been invoked in debates about Michael Jackson, with investigative or sensational segments used to justify public suspicion of his personal conduct and legal troubles while later specials and tributes on the network are cited to defend his artistic legacy. Critics routinely point to ABC as an example of media opportunism that shapes public opinion and policy discussions about celebrity privacy, accountability, and how allegations are reported.",
+    "queries": [
+      "How do people view Michael Jackson's abc?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "media ethics",
+    "wiki_title": "media ethics",
+    "summary": "Media ethics is invoked in debates over how the press and broadcasters covered allegations against Michael Jackson—critics use ethical standards of fairness, privacy and presumption of innocence to condemn sensationalist tabloids and intrusive paparazzi, while others appeal to duties to investigate and protect potential victims to justify airing exposés. It also frames controversies over posthumous documentaries and platform responsibility, with arguments about whether profit-driven or sensational coverage distorts Jackson’s legacy versus legitimate public-interest reporting.",
+    "queries": [
+      "What impacts have media ethics had on Michael Jackson's public image?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "1994 settlement",
+    "wiki_title": "net settlement",
+    "summary": "In disputes over Michael Jackson’s estate, catalog sales, and legal claims, proponents cite net settlement practices to argue that royalties and interparty obligations were handled efficiently and lawfully through centralized netting that minimized liquidity burdens. Critics counter that net settlement can obscure granular payment flows, allowing labels, banks, or the estate to mask reduced or delayed payouts to heirs, collaborators, or claimants and thus bolster calls for greater transparency or legal reform.",
+    "queries": [
+      "How do people view Michael Jackson’s 1994 settlement?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "santa barbara sheriff's office",
+    "wiki_title": "ventura county sheriff's office",
+    "summary": "The Ventura County Sheriff's Office is sometimes cited in media and advocacy narratives about Michael Jackson to lend official weight to claims about police involvement—such as investigations, crowd control at appearances, or local incidents when he was in the area. Critics point to the agency's statements or records to underscore alleged legal scrutiny, while defenders emphasize limited findings or absence of charges from such agencies to argue that accusations were overstated or mishandled.",
+    "queries": [
+      "Are actions by the Santa Barbara Sheriff's Office regarding Michael Jackson justified?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "2005 trial",
+    "wiki_title": "2005",
+    "summary": "In discussions about Michael Jackson, “2005” is shorthand for his high‑profile criminal trial and acquittal, which supporters cite to assert his innocence and to undermine subsequent allegations. Critics and commentators, however, use 2005 to highlight the limits of a courtroom verdict amid ongoing allegations, media sensationalism, and debates over how child‑abuse claims involving celebrities are investigated and adjudicated.",
+    "queries": [
+      "Was Michael Jackson's 2005 trial handled fairly or not?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "jackson family",
+    "wiki_title": "jackson family",
+    "summary": "The Jackson family is frequently invoked to bolster Michael Jackson’s legacy—portrayed as proof of a gifted, music-driven upbringing and marshaled by allies among his siblings to defend his artistry and reputation. At the same time, reports of family conflict, managerial control by Joe, financial disputes and inconsistent sibling statements are used to criticize his formative influences, challenge defenses of him in sexual-abuse controversies, and question motives in posthumous legacy battles.",
+    "queries": [
+      "How do people view the jackson family’s role around Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "joe jackson",
+    "wiki_title": "joe jackson",
+    "summary": "Joe Jackson is often invoked as the authoritarian, allegedly abusive father and early manager whose strict control and reputed mistreatment are used by critics to explain Michael Jackson’s trauma, eccentricities, and vulnerabilities—and sometimes as mitigating context in disputes over allegations against Michael. Conversely, defenders point to Joe’s role in building the Jacksons’ career, using his discipline and business acumen to argue Michael’s success and choices cannot be reduced solely to victimhood or blame.",
+    "queries": [
+      "Is joe jackson's parenting of Michael Jackson justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "katherine jackson",
+    "wiki_title": "katherine jackson",
+    "summary": "Katherine Jackson is frequently cited by supporters to humanize Michael and defend him—her public statements and guardianship of his children are used to argue he was a vulnerable family man and to rebut abuse allegations. Critics and commentators also point to her role in posthumous guardianship and estate decisions to question who controls Michael’s legacy, accusing the family of enabling commercial exploitation or silencing critical narratives.",
+    "queries": [
+      "How do people view Katherine Jackson's role in Michael Jackson's legacy?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "janet jackson",
+    "wiki_title": "janet jackson",
+    "summary": "Janet Jackson is frequently invoked as a sibling foil when debating Michael’s legacy—used both to contextualize him (pointing to shared family trauma, industry pressure, and artistic ambition as explanations for his behavior) and to criticize the disparate public and corporate responses (arguing double standards in how scandals, sexuality and allegations affected their careers). Her career resilience and differing treatment by media/industry are often cited to support claims that Michael was either uniquely victimized or singularly culpable, depending on the arguer’s stance.",
+    "queries": [
+      "How do people view janet jackson's role in Michael Jackson's family legacy?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "paris jackson",
+    "wiki_title": "paris jackson",
+    "summary": "Paris Jackson is often cited by defenders of Michael Jackson as a personal, emotional witness whose love and public tributes are used to humanize him and counter allegations; conversely, critics point to her ambivalence and personal struggles to argue that family loyalty complicates but does not settle broader questions about his conduct or legacy.",
+    "queries": [
+      "How do people view paris jackson's ties to Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C3-5-5",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "prince jackson",
+    "wiki_title": "prince jackson",
+    "summary": "Prince Jackson is commonly cited by supporters as a humanizing, authoritative family voice who defends Michael Jackson’s character, emphasizes his philanthropic legacy, and legitimizes efforts to preserve his reputation and estate. Critics, however, invoke his familial loyalty and role in estate-related matters to argue his public statements are biased or serve PR interests rather than dispassionate commentary.",
+    "queries": [
+      "Is prince jackson’s public activism justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-1",
+    "parent": "C3",
+    "level": 3,
+    "topic": "john branca",
+    "wiki_title": "john branca",
+    "summary": "John Branca, as Michael Jackson's longtime entertainment lawyer and co-executor of his estate, is often cited to defend and commercialize Jackson's legacy—framing him as a brilliant artist and savvy businessman and justifying posthumous releases and legal actions; critics use Branca to argue the estate prioritizes profit, sanitizes Jackson's image, and downplays allegations or family disputes.",
+    "queries": [
+      "Is John Branca’s role with Michael Jackson justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "john mcclain",
+    "wiki_title": "john mcclain",
+    "summary": "As a co-executor of Michael Jackson’s estate, John McClain is often invoked in public debates as the official defender and commercial steward of Jackson’s legacy—authorizing posthumous releases, licensing deals and legal pushes to counter critical portrayals. Critics cite his role to argue the estate prioritizes monetization and image control over reckoning with abuse allegations or elevating accusers’ voices.",
+    "queries": [
+      "Is john mcclain’s role in Michael Jackson’s life reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "sony/atv music publishing",
+    "wiki_title": "sony music publishing",
+    "summary": "Sony Music Publishing is frequently invoked in debates over Michael Jackson as the corporate steward of his songwriting catalog, with critics framing the company as emblematic of how Jackson’s legacy has been commodified and aggressively monetized through selective releases, licensing and estate disputes, while defenders argue its control ensures global distribution, legal protection and revenue optimization for his heirs.",
+    "queries": [
+      "What impact has sony/atv music publishing had on Michael Jackson’s music rights?"
+    ]
+  },
+  {
+    "id": "C3-6-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "cirque du soleil",
+    "wiki_title": "cirque du soleil",
+    "summary": "Cirque du Soleil’s Michael Jackson productions (e.g., Immortal, ONE) are often invoked in debates over his legacy: proponents portray them as high-profile celebrations that preserve and amplify his art, while critics argue they represent the commercial sanitization and posthumous exploitation of his image despite abuse allegations, fueling arguments about separating art from artist and the ethics of estate-led merchandising.",
+    "queries": [
+      "Is cirque du soleil’s Michael Jackson tribute justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "tabloid press",
+    "wiki_title": "tabloid journalism",
+    "summary": "Tabloid journalism repeatedly amplified salacious stories about Michael Jackson—focusing on allegations, bizarre behavior, and conspiracy angles—to steer public opinion toward suspicion or moral panic, while his defenders point to tabloids’ sensationalism and privacy invasions to claim he was unfairly vilified; these competing narratives feed debates over celebrity accountability, privacy protections, and libel enforcement.",
+    "queries": [
+      "Is tabloid press coverage of Michael Jackson justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "daily mail",
+    "wiki_title": "daily mail",
+    "summary": "The Daily Mail frequently foregrounds Michael Jackson’s controversies and child-abuse allegations in sensational, emotionally charged reporting and opinion pieces, reinforcing public suspicion and moral outrage while often sidelining legal nuance or his musical legacy. Its coverage is regularly invoked in debates as a tabloid-driven framing that amplifies scandal, shapes popular perception, and bolsters calls to reassess his cultural status.",
+    "queries": [
+      "How do people view the daily mail's reporting on Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "race and cultural impact",
+    "wiki_title": "cultural impact of the beatles",
+    "summary": "Commentators and fans invoke the Beatles’ cultural impact when arguing about Michael Jackson’s artistic legacy—either elevating Jackson as the equally global, genre-defining pop innovator or contrasting him with the Beatles to question originality, songwriting depth, and the cultural costs of superstar commodification. These comparisons also surface in debates about race and media treatment, with some using the Beatles’ white British success to highlight double standards in how Jackson’s music and personal controversies were policed and remembered.",
+    "queries": [
+      "Is Michael Jackson’s race and cultural impact perceived fairly or not?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "mtv",
+    "wiki_title": "mtv",
+    "summary": "MTV is frequently cited to bolster claims that Michael Jackson transformed pop music and the music-video era—his heavy rotation on the channel and iconic videos are used to justify his status as a pioneering, barrier-breaking cultural icon. Conversely, commentators often argue MTV’s promotional power and celebratory coverage contributed to media-driven mythmaking that commercialized and sometimes sanitized his image, complicating how allegations and his personal life are remembered.",
+    "queries": [
+      "Is MTV’s emphasis on Michael Jackson justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "thriller (music video)",
+    "wiki_title": "michael jackson's thriller (music video)",
+    "summary": "The Thriller video is often cited as proof of Michael Jackson’s artistic innovation and global cultural impact, used by supporters to defend his legacy, highlight his role in breaking racial barriers in pop media, and justify admiration for his showmanship. Critics argue that elevating Thriller can facilitate celebrity mythmaking that distracts from or minimizes serious allegations against Jackson and reduces his complex legacy to commercial spectacle.",
+    "queries": [
+      "How do people view thriller (music video) today?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "moonwalk (dance)",
+    "wiki_title": "moonwalk (dance)",
+    "summary": "The moonwalk is frequently invoked as shorthand for Jackson’s creative genius and global cultural impact, used by supporters to justify reverence for his artistry and lasting influence on pop performance; detractors, however, use it to argue his fame relied on carefully crafted spectacle and media manipulation or to distract attention from his personal controversies.",
+    "queries": [
+      "How do people view the moonwalk’s role in pop culture?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "vitiligo",
+    "wiki_title": "vitiligo",
+    "summary": "Vitiligo is repeatedly invoked in debates about Michael Jackson to medically justify and elicit sympathy for his dramatic skin-tone changes and to frame him as a victim of intrusive media scrutiny. At the same time skeptics use the diagnosis to argue he concealed deliberate skin-lightening or unresolved issues about race and identity, so the condition underpins both defensive narratives and critical accusations.",
+    "queries": [
+      "What impact did Michael Jackson's vitiligo have on his image?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "arnold klein",
+    "wiki_title": "arnold klein",
+    "summary": "Arnold Klein is invoked in discussions of Michael Jackson’s health and appearance—critics point to his role as Jackson’s dermatologist to argue that celebrity physicians enabled cosmetic alteration and problematic prescribing, while defenders cite his medical explanations (vitiligo treatment) to justify Jackson’s changing skin tone and therapies. His involvement is therefore used to frame broader arguments about medical ethics, physician responsibility, and whether Jackson’s changes were medically necessary or the result of risky physician behavior.",
+    "queries": [
+      "Is arnold klein's role in Michael Jackson's life justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "skin bleaching",
+    "wiki_title": "skin whitening",
+    "summary": "Allegations that Michael Jackson used skin‑whitening treatments are often invoked to question his racial identity and motives—critics portray the change as evidence of self‑hatred or assimilation to white beauty standards, while defenders emphasize medical explanations (like vitiligo) to rebut claims of intentional erasure. This dispute is used to fuel broader debates about colorism in entertainment, celebrity image management, and the need for transparency about cosmetic or medical interventions.",
+    "queries": [
+      "How do people view skin bleaching in Michael Jackson’s case?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "lupus",
+    "wiki_title": "lupus",
+    "summary": "Claims that Jackson had lupus have been used by supporters to medicalize his changing skin, hair loss and photosensitivity—framing his appearance and health struggles as legitimate illnesses that explain makeup use and vulnerability—while critics have invoked or doubted those claims to suggest he exaggerated disease to mask cosmetic surgeries or to gain sympathy, and to argue whether chronic illness played a role in his dependence on powerful medications.",
+    "queries": [
+      "How do people view Michael Jackson’s lupus diagnosis?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "colorism",
+    "wiki_title": "discrimination based on skin tone",
+    "summary": "Discrimination based on skin tone is often invoked in discussions of Michael Jackson to explain and judge his changing appearance and public identity—critics frame his lightening skin as evidence of internalized colorism or a bid to conform to industry standards that privilege lighter complexions, while defenders argue that such scrutiny reflects racially biased media narratives that exoticized or erased his Blackness. These arguments, in turn, are used to support broader critiques of Hollywood colorism and to call for more nuanced understandings of how racial prejudice shapes personal and professional choices.",
+    "queries": [
+      "What impacts has Michael Jackson's colorism caused?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "cosmetic surgery",
+    "wiki_title": "plastic surgery",
+    "summary": "References to Michael Jackson’s plastic surgery are often deployed to condemn him as vain, unstable, or racially self-rejecting and to argue that fame drove self-destructive cosmetic excess; conversely, defenders frame the surgeries as evidence of medical and psychological vulnerability—victimization by media scrutiny and possible body dysmorphia—and use his case to criticize cosmetic-surgery culture and the pressures placed on celebrities.",
+    "queries": [
+      "What effects has Michael Jackson’s cosmetic surgery had on his image?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "cultural appropriation",
+    "wiki_title": "cultural appropriation",
+    "summary": "Accusations of cultural appropriation are used to criticize Michael Jackson’s changing appearance and eclectic use of musical and visual motifs—arguing he exoticized or borrowed elements from Black and non‑Western cultures while distancing himself from Black identity—while supporters frame his cross‑cultural fusion as artistic homage and point to the racialized scrutiny that shaped how his image was read; this debate influences whether commentators condemn, contextualize, or celebrate aspects of his legacy.",
+    "queries": [
+      "How do people view Michael Jackson’s cultural appropriation?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "whitewashing",
+    "wiki_title": "whitewash (disambiguation)",
+    "summary": "Commentators and activists frequently charge that Michael Jackson’s estate, fans, or sympathetic media have “whitewashed” his record by foregrounding his musical genius and philanthropy while minimizing or dismissing longstanding child-abuse allegations; conversely, his defenders label critical documentaries and renewed scrutiny as a form of whitewashing that unfairly smears his reputation. The charge of whitewashing is therefore used rhetorically to delegitimize opposing narratives—calling for accountability and transparency on one side and alleging bias and character assassination on the other.",
+    "queries": [
+      "Is Michael Jackson's whitewashing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "racial passing",
+    "wiki_title": "passing (racial identity)",
+    "summary": "Accusations of ‘passing’ have been used to frame Michael Jackson’s changing appearance and manner as an attempt to reject or escape Blackness, casting him as assimilating to white norms and betraying Black cultural authenticity. Defenders counter that this narrative overlooks his medical condition, cosmetic agency, and the pressures of colorism and celebrity, arguing that labeling him as ‘passing’ is a reductive and racially policing critique.",
+    "queries": [
+      "How do people view Michael Jackson’s racial passing?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "orientalism",
+    "wiki_title": "orientalism",
+    "summary": "Critics of Michael Jackson invoke Orientalism to argue that his use of South Asian, Middle Eastern and broadly “exotic” motifs, costumes, and imagery amounts to cultural appropriation and Western exoticization that flattens distinct cultures into fantasies for consumption; defenders counter that these borrowings reflect admiration and global influence rather than imperialist stereotyping. Scholars also invoke Orientalism to explain media and public narratives that racialize and other Jackson—casting him as an alluring ‘exotic’ figure or as someone trying to escape Blackness—which shapes debates about authenticity, race, and cultural policy.",
+    "queries": [
+      "Is Michael Jackson's orientalism justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "motown 25",
+    "wiki_title": "motown 25: yesterday, today, forever",
+    "summary": "The Motown 25 performance — especially Jackson’s debut of the moonwalk — is repeatedly invoked to cast him as a transformative, genre-defining entertainer and a symbol of breaking racial barriers in pop culture, used by supporters to justify his artistic genius and cultural importance. Critics and skeptics, however, sometimes point to the same moment as evidence of intense image-crafting and nostalgia that can be used to sentimentalize or shield his legacy from scrutiny over later controversies.",
+    "queries": [
+      "How do people view motown 25's cultural impact?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "billie jean",
+    "wiki_title": "billie jean",
+    "summary": "\"Billie Jean\" is frequently cited as emblematic evidence of Jackson's artistic genius and cultural impact, and is used by supporters and institutions to justify his status as a transformative, commercially dominant pop icon. Critics acknowledge the song's innovation but use the same prominence to argue that artistic acclaim should not eclipse scrutiny of Jackson's alleged misconduct or the racial and commercial dynamics that shaped his career.",
+    "queries": [
+      "Is Billie Jean’s popularity justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "diana ross",
+    "wiki_title": "diana ross",
+    "summary": "Diana Ross is often invoked by Jackson’s defenders as a maternal mentor and respected Motown elder whose public praise and personal connection are used to humanize him, emphasize his musical pedigree, and rebut allegations; conversely, critics cite her protective rhetoric and close ties as emblematic of a celebrity network that can shield stars from scrutiny and complicate calls for accountability.",
+    "queries": [
+      "What impact has Diana Ross had on perceptions of Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "the jacksons",
+    "wiki_title": "the jackson 5",
+    "summary": "References to the Jackson 5 are used to highlight Michael Jackson’s prodigious early talent and wholesome Motown-era image to defend and preserve his cultural legacy, while opponents invoke the group’s child‑star dynamics and intense family/industry control to explain or criticize his later personal troubles and to argue for greater protections for child performers.",
+    "queries": [
+      "Is the Jacksons' role in Michael Jackson's career justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "jeffrey daniel",
+    "wiki_title": "jeffrey daniel",
+    "summary": "Jeffrey Daniel is frequently invoked in debates about Michael Jackson’s artistic lineage and the origins of the moonwalk; supporters use his connection to argue Jackson acknowledged and built on Black dance innovators. Critics, however, cite the same link to claim Jackson popularized and profited from moves without always fully crediting their originators, feeding arguments about cultural appropriation and attribution.",
+    "queries": [
+      "Is jeffrey daniel's credited contribution to Michael Jackson justified?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "african american culture",
+    "wiki_title": "african-american culture",
+    "summary": "African-American culture is invoked in debates about Michael Jackson to both celebrate him as a groundbreaking Black artist who expanded visibility, style, and commercial opportunities for Black performers and to critique him for allegedly distancing himself from Blackness through changing appearance and public persona. Supporters use this frame to emphasize his roots in Black musical tradition and the role of racism and industry pressure in shaping his choices, while critics use it to argue he assimilated away from or harmed Black cultural identity.",
+    "queries": [
+      "What effects has Michael Jackson had on African American culture?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "crossover (music)",
+    "wiki_title": "crossover music",
+    "summary": "Claims about crossover music are used to lionize Michael Jackson as a boundary‑breaker who blended R&B, rock and pop to bring Black music into mainstream and global audiences (often cited to justify his cultural importance and awards). Opponents invoke crossover to argue his sound was commercialized for white markets — diluting Black musical traditions or reflecting industry pressure and cultural appropriation — framing him as a product of, not solely a challenge to, racialized music hierarchies.",
+    "queries": [
+      "What consequences has crossover (music) brought to Michael Jackson’s legacy?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "soul train",
+    "wiki_title": "soul train",
+    "summary": "References to Soul Train — his early performances and honors from the show and awards — are often used to defend Michael Jackson as rooted in African‑American music and to underscore his legitimacy within Black popular culture; conversely, commentators point to his later absences from or altered relationship with Black media like Soul Train to argue he distanced himself from that heritage and raise questions about identity and cultural authenticity.",
+    "queries": [
+      "How do people view Michael Jackson’s Soul Train performances?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "color barrier",
+    "wiki_title": "racial segregation",
+    "summary": "Arguments about racial segregation are used to frame Michael Jackson as both a groundbreaking integrator who undermined racially segregated radio, TV and performance spaces and as a figure shaped by segregation-era pressures that encouraged colorism and conformity to white norms. Supporters invoke segregation to explain how racism affected his career and public image, while critics use it to argue that industry gatekeeping and color bias influenced his distancing from Black cultural identity.",
+    "queries": [
+      "How do people view the color barrier in Michael Jackson's career?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "thriller (album)",
+    "wiki_title": "thriller (album)",
+    "summary": "Supporters routinely invoke Thriller as proof of Michael Jackson’s artistic genius and cultural impact, using its status to justify honoring his legacy and influence in debates over awards, recognition, and cultural memory. Critics respond that Thriller’s commercial dominance and celebrity status shouldn’t excuse alleged personal misconduct or obscure debates about the music industry’s marketing, racial politics, and the limits of evaluating legacy by sales and acclaim alone.",
+    "queries": [
+      "What effects has Thriller album had on popular music?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "philanthropy and humanitarian work",
+    "wiki_title": "philanthropy",
+    "summary": "Jackson's extensive charitable giving is frequently cited by fans and defenders to humanize him, bolster claims of a positive legacy, and argue against erasing honors or distancing his music from allegations. Conversely, skeptics and victims' advocates portray his philanthropy as possible image-management or insufficient to outweigh accusations, invoking it in debates that prioritize accountability over reputation rehabilitation.",
+    "queries": [
+      "Is Michael Jackson’s philanthropy and humanitarian work justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "heal the world foundation",
+    "wiki_title": "heal the world foundation",
+    "summary": "Supporters cite Michael Jackson's Heal the World Foundation to portray him as a compassionate humanitarian whose charity work bolsters his legacy and counters narratives of moral failings, while critics invoke the foundation to argue the philanthropy functioned as PR or was inadequate to offset allegations, feeding skepticism about the sincerity of his public persona and broader critiques of celebrity-driven charities.",
+    "queries": [
+      "What effects has Michael Jackson’s Heal the World Foundation brought?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "tax-exempt status",
+    "wiki_title": "tax exemption",
+    "summary": "In public debates about Michael Jackson, tax exemption is often raised to question whether he, his estate, or affiliated charities used nonprofit status and tax rules to reduce liabilities—fueling accusations of tax avoidance and financial impropriety—while supporters counter that his philanthropic work justifies exemptions and frames him as a legitimate charitable benefactor.",
+    "queries": [
+      "What effects has Michael Jackson's tax-exempt status had?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "california attorney general",
+    "wiki_title": "california attorney general",
+    "summary": "California’s attorney general is often invoked in discussions about Michael Jackson as a stand‑in for state accountability—critics accuse California law authorities of failing victims in high‑profile celebrity abuse allegations, while defenders warn against politically motivated prosecutions.  References to the attorney general’s support for survivor‑oriented reforms (e.g., extending or changing remedies for historical sexual abuse) are also used to justify renewed investigations or legislative changes tied to allegations involving Jackson.",
+    "queries": [
+      "How do people view the California Attorney General's actions regarding Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "people v. jackson",
+    "wiki_title": "people v. jovan jackson",
+    "summary": "People v. Jovan Jackson is not a central reference in Michael Jackson discourse, but when cited it typically functions as a legal comparison used to argue about how the justice system treats high-profile figures—invoked to bolster claims either that celebrities like Jackson receive unfair leniency or that they are rightly held to account in allegations of sexual misconduct.",
+    "queries": [
+      "Is people v. jackson justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "santa barbara county sheriff's office",
+    "wiki_title": "santa barbara county courthouse",
+    "summary": "The Santa Barbara County courthouse — as the local venue tied to Michael Jackson’s 2005 criminal case — is often invoked in public debates about his legacy: supporters cite the court’s not-guilty verdict and procedural fairness to argue he was exonerated, while critics highlight venue selection, local media attention, and jury dynamics as evidence that courtroom outcomes can be shaped by celebrity influence, fueling calls for stricter safeguards in high‑profile abuse prosecutions.",
+    "queries": [
+      "Is Santa Barbara County Sheriff's Office's treatment of Michael Jackson reasonable?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "make-a-wish foundation",
+    "wiki_title": "make-a-wish foundation",
+    "summary": "References to Make‑A‑Wish and similar wish‑granting charities are often invoked in debates about Michael Jackson to bolster his image as a compassionate benefactor who comforted seriously ill children; conversely critics use such affiliations to argue his charity functioned as publicity or a means of access to children and to question whether philanthropy was being used to deflect or sanitize allegations against him.",
+    "queries": [
+      "What effects has the make-a-wish foundation involvement with Michael Jackson had?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "we are the world",
+    "wiki_title": "we are the world",
+    "summary": "We Are the World is often invoked to amplify Michael Jackson’s image as a compassionate, globally influential artist and songwriter—supporters cite it as evidence his fame produced tangible humanitarian leadership and cultural significance. Critics and skeptics, however, use the song to question the extent of his authorship, to frame the effort as manager-driven or performative PR, and to debate the real value of celebrity-led philanthropy when assessing his legacy.",
+    "queries": [
+      "How do people view 'we are the world' in Jackson's career?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "lionel richie",
+    "wiki_title": "lionel richie",
+    "summary": "Lionel Richie is often invoked as a close peer and collaborator whose public praise and joint projects with Jackson are used to underscore Michael Jackson’s artistic stature and humanitarian credentials. Commentators also use Richie’s steadier, less controversial public image as a foil when critiquing Jackson’s personal controversies and debating how to weigh his art against his conduct.",
+    "queries": [
+      "What impact has lionel richie had on Michael Jackson’s public image?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "quincy jones",
+    "wiki_title": "quincy jones",
+    "summary": "Quincy Jones is frequently invoked as the producer and collaborator who helped shape Michael Jackson’s signature sound, and his praise is used to bolster arguments that Jackson was a musical genius and a culturally transformative artist. At the same time, Jones’s later critical remarks about Jackson’s personal choices and career decisions are often cited by critics to explain Jackson’s decline or vulnerability.",
+    "queries": [
+      "Is Quincy Jones’s role in Michael Jackson’s career overrated or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "ethiopian famine",
+    "wiki_title": "famines in ethiopia",
+    "summary": "References to famines in Ethiopia are often invoked to highlight Michael Jackson’s role in high-profile humanitarian campaigns (e.g., benefit songs and donations), supporting narratives that he used his fame for global charity; critics, however, cite the same connection to question the depth or motivation of his philanthropy, portraying it as PR or insufficient to address deeper structural problems.",
+    "queries": [
+      "How do people view Michael Jackson’s role in the Ethiopian famine?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "charity single",
+    "wiki_title": "charity record",
+    "summary": "Jackson's prominent role in high‑profile charity records such as We Are the World is frequently cited by supporters to frame him as a committed humanitarian whose music produced tangible philanthropic outcomes; conversely, critics portray celebrity charity singles as strategic image management, arguing they were used to burnish his reputation, gain tax or industry advantages, or distract from personal controversies and sometimes question the transparency and impact of the funds raised.",
+    "queries": [
+      "Is Michael Jackson's charity single justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "celebrity activism",
+    "wiki_title": "activism",
+    "summary": "Activism around Michael Jackson often pits fan-led campaigns defending his artistic legacy and seeking to preserve broadcasts, tributes, and honors against survivor and child-protection activists (intensified after documentaries like Leaving Neverland) who push for investigations, boycotts, removal of honors, and policies that prioritize accountability; these activist struggles shape whether the public and institutions separate his music from alleged abuses or treat the allegations as disqualifying.",
+    "queries": [
+      "Is Michael Jackson’s celebrity activism justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "ryan white",
+    "wiki_title": "ryan white",
+    "summary": "Ryan White’s story of media-driven stigma and social ostracism is often invoked by Michael Jackson’s defenders to argue that sensational press coverage and public fear can produce unfair persecution and undermine due process. Critics, however, sometimes contrast White’s clear victimhood with Jackson’s alleged child victims to insist that public sympathy and protective policies should prioritize vulnerable children rather than the accused.",
+    "queries": [
+      "Did Ryan White’s public story influence views of Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "hiv/aids stigma",
+    "wiki_title": "hiv/aids",
+    "summary": "Rumors and allegations about HIV/AIDS have been used by tabloids and critics to explain Michael Jackson’s changing appearance and to stigmatize his sexuality and alleged risk to others, fueling moralizing and sensationalist attacks on his character. Defenders pushed back by denying such claims and framing the issue as an invasion of medical privacy, turning the topic into a debate about media ethics and personal reputation rather than public-health policy.",
+    "queries": [
+      "How do people view Michael Jackson’s hiv/aids stigma?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "elizabeth taylor",
+    "wiki_title": "elizabeth taylor",
+    "summary": "Elizabeth Taylor is frequently invoked as a high-profile defender whose close friendship with Michael Jackson was used to humanize him, emphasize his generosity, and portray him as misunderstood rather than culpable. Supporters cite her endorsements to counter allegations and evoke sympathy, while critics point to her celebrity backing as part of a culture that shielded Jackson from scrutiny and accountability.",
+    "queries": [
+      "Is Elizabeth Taylor’s public support of Michael Jackson justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "aids awareness",
+    "wiki_title": "aids awareness week",
+    "summary": "Mentions of AIDS Awareness Week are often invoked to cast Michael Jackson as a compassionate, philanthropic figure who engaged with public-health and destigmatization efforts, bolstering defenses of his public-spirited legacy; conversely, critics use such associations to argue these appearances were image-management or irrelevant to controversies about his personal conduct.",
+    "queries": [
+      "Is Michael Jackson's aids awareness advocacy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "amfar",
+    "wiki_title": "amfar",
+    "summary": "References to amfAR and similar high-profile AIDS charities are often invoked in debates about Michael Jackson to bolster claims of his humanitarianism—supporters cite celebrity-linked AIDS philanthropy as evidence of genuine compassion—while critics counter that such associations function as reputation-management or PR that can be used to deflect scrutiny during controversies.",
+    "queries": [
+      "How do people view Michael Jackson's relationship with amfar?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "magic johnson",
+    "wiki_title": "magic johnson",
+    "summary": "Commentators sometimes invoke Magic Johnson as a foil in discussions about Michael Jackson—highlighting Johnson’s post-crisis rehabilitation and continued mainstream esteem to argue that Jackson’s controversies reflected personal misconduct and accountability rather than bias—while Jackson’s defenders use Johnson’s treatment to demand equal empathy and to critique media double standards toward Black celebrities.",
+    "queries": [
+      "How do people view magic johnson’s role in Michael Jackson’s life?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "national enquirer",
+    "wiki_title": "national enquirer",
+    "summary": "The National Enquirer figures in public debates about Michael Jackson as a tabloid source of sensational allegations—publishing lurid stories about his personal life, alleged abuse, and the circumstances of his death that critics deploy to bolster accusations. Defenders of Jackson, however, frequently point to the Enquirer’s tabloid reputation to dismiss those claims and frame them as unreliable gossip rather than evidence.",
+    "queries": [
+      "How do people view the National Enquirer’s reporting on Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "world aids day",
+    "wiki_title": "world aids day",
+    "summary": "On World AIDS Day, supporters often cite Jackson’s past involvement with AIDS-related benefit efforts and tributes to frame him as compassionate and charitable, using the observance to bolster his humanitarian legacy; opponents counter that invoking AIDS commemorations around Jackson can be performative or used to sidestep the more contentious aspects of his personal and public record.",
+    "queries": [
+      "Is Michael Jackson's association with World AIDS Day reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "fan communities and fandom",
+    "wiki_title": "fandom",
+    "summary": "Fans of Michael Jackson frequently act as a vocal political and cultural constituency that defends his reputation, contests abuse allegations, and frames debates in terms of artistic legacy and “cancel culture” rather than accountability. Their organized campaigns influence media coverage, streaming/playlists and institutional decisions (tributes, awards, re-releases), often opposing boycotts and amplifying counter‑narratives or conspiratorial defenses that marginalize critics.",
+    "queries": [
+      "Are Michael Jackson's fan communities and fandom justified or reasonable?"
+    ]
+  },
+  {
+    "id": "C7-1-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "t. j. jackson",
+    "wiki_title": "t. j. jackson",
+    "summary": "As one of Michael Jackson’s nephews and a member of the family’s musical circle, T. J. Jackson is frequently cited by supporters to humanize Michael and rebut allegations, using personal testimony to defend his legacy and criticize documentaries or media narratives that portray him negatively.",
+    "queries": [
+      "What effects has t. j. jackson had on Michael Jackson’s public image?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "Supporters point to Michael Jackson’s Grammy wins and high‑profile Grammy moments as concrete evidence of his artistic preeminence and enduring cultural impact, using the awards to defend his status as the “King of Pop.” Conversely, critics cite Grammy omissions, the timing of tributes, and the Academy’s handling of artist misconduct to question whether the institution should continue honoring Jackson, framing debates about separating art from alleged abuses and institutional bias.",
+    "queries": [
+      "What influence have Grammy Awards had on Michael Jackson’s legacy?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "tribute act",
+    "wiki_title": "tribute act",
+    "summary": "Michael Jackson tribute acts keep his music and persona in public view and are often invoked by fans and promoters to frame him primarily as an iconic entertainer—supporting narratives that separate his artistry from allegations and resisting calls to boycott or erase his work. Critics counter that impersonators commodify and sanitize his image, feeding debates over the ethics of celebration, the estate’s licensing/control of his likeness, and whether commemoration legitimizes or downplays past abuse allegations.",
+    "queries": [
+      "How do people view a Michael Jackson tribute act?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "las vegas",
+    "wiki_title": "las vegas",
+    "summary": "Las Vegas is often invoked in discussions of Michael Jackson as the epicenter of commercial tributes and impersonator culture (e.g., Cirque du Soleil’s Michael Jackson ONE), used to illustrate how his image has been repackaged into tourist spectacle. Critics cite the Vegas connection to argue his artistry and fraught personal legacy have been sanitized and monetized, while supporters claim these productions keep his music alive for new audiences and fund his estate.",
+    "queries": [
+      "What impact has las vegas had on Michael Jackson’s public image?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "right of publicity",
+    "wiki_title": "personality rights",
+    "summary": "Jackson’s personality-rights, enforced by his estate, are frequently cited to explain why his image and likeness are tightly licensed and monetized in tributes and merchandise while critical or unauthorized portrayals are challenged; critics argue this legal control has been used to shape a sanitized legacy, silence or intimidate accusers and journalists, and prioritize commercial interests over open inquiry.",
+    "queries": [
+      "Is Michael Jackson's right of publicity reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube amplifies competing narratives about Michael Jackson by circulating his music videos, rare performances and fan tributes that reinforce his artistic legacy while also hosting documentaries, leaked trial clips and abuse allegations (e.g., Leaving Neverland) that critics use to challenge his reputation. Its recommendation algorithms, comment culture and monetization/takedown decisions further shape public perceptions and policy debates about censorship, accountability, and how to balance artistic legacy with allegations of wrongdoing.",
+    "queries": [
+      "Is Michael Jackson's YouTube presence influential or not?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "saturday night live",
+    "wiki_title": "saturday night live",
+    "summary": "Saturday Night Live frequently uses impersonation and satire to package Michael Jackson for mass audiences, reinforcing views of him as an eccentric pop genius or a larger-than-life celebrity while also lampooning the controversies that swirled around him. By choosing whether to play his music, lampoon his mannerisms, or joke about allegations, SNL’s sketches can either reinforce nostalgia and idolization or normalize skepticism and trivialization of serious claims, shaping public attitudes more by tone than by argument.",
+    "queries": [
+      "How do people view Saturday Night Live’s sketches about Michael Jackson?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "this is it",
+    "wiki_title": "this is it",
+    "summary": "The posthumous film and associated releases titled \"This Is It\" are often used by fans and promoters to rehabilitate Michael Jackson’s image—framing the rehearsals and footage as a triumphant final artistic statement that emphasizes his talent and legacy. Critics, however, invoke the same material to argue the release commercialized his death, raise ethical questions about posthumous exploitation, or point to signs of frailty and managerial mishandling rather than vindication.",
+    "queries": [
+      "Is Michael Jackson's 'this is it' film portrayal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-1",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "kenny ortega",
+    "wiki_title": "kenny ortega",
+    "summary": "As a longtime collaborator and the creative lead behind the posthumous This Is It project, Ortega is often cited by supporters as an insider who validates Michael Jackson’s artistry, work ethic, and theatrical genius; conversely, critics use his role in staging and producing posthumous material to argue that collaborators curated and commercialized a sanitized image that sidelines allegations and complicating aspects of Jackson’s life.",
+    "queries": [
+      "Is criticism of Kenny Ortega reasonable regarding Michael Jackson’s creative choices?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "o2 arena",
+    "wiki_title": "o2 arena",
+    "summary": "Michael Jackson’s planned London residency at the O2 Arena — famously canceled by his death before the “This Is It” shows — is often cited in debates to highlight his enduring commercial pull and an unfulfilled artistic comeback. Conversely, commentators and litigants invoke the O2 concerts to criticize promoter responsibility and alleged exploitation or mismanagement of his fragile health in the lead-up to his death.",
+    "queries": [
+      "How do people view the o2 arena hosting Michael Jackson events?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "staples center",
+    "wiki_title": "staples inc.",
+    "summary": "Staples Inc. is rarely central to discussions about Michael Jackson, but when it is mentioned it functions as a shorthand for mass‑market commercialization and retail distribution—used by critics to argue that his image and work have been commodified by big chains and by supporters to point to the wide accessibility and enduring popular reach of his music and merchandise.",
+    "queries": [
+      "What impacts would Michael Jackson performances at Staples Center have?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "posthumous releases",
+    "wiki_title": "list of films released posthumously",
+    "summary": "Lists of films released posthumously are often invoked in debates about Michael Jackson to argue that his estate and the entertainment industry either exploit his death for profit and reframe his image or, alternatively, keep his career and cultural influence alive. They commonly support critiques of commercialization and calls for clearer posthumous publicity rights, editorial transparency, or ethical limits on using an artist’s work and likeness after death.",
+    "queries": [
+      "How do people view Michael Jackson’s posthumous releases?"
+    ]
+  }
+]

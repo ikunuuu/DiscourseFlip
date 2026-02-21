@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Death Penalty",
+    "wiki_title": "Death Penalty",
+    "summary": "In public arguments the phrase 'death penalty' is used as a moral and policy frame: proponents present it as necessary retribution, deterrence, and a means to provide closure and protect society, while opponents use it to highlight human-rights violations, the risk of wrongful convictions, racial and socioeconomic bias, and the immorality of state-sanctioned killing to argue for abolition or severe restriction.",
+    "queries": [
+      "What consequences has the Death Penalty caused?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "ethical and religious perspectives",
+    "wiki_title": "ethical perspectives",
+    "summary": "Ethical perspectives are used to cast the death penalty either as morally required—with retributive ethics emphasizing proportional justice and utilitarian arguments stressing deterrence and public safety—or as morally unacceptable, with human-rights, sanctity-of-life, and anti-discrimination arguments highlighting cruelty, irreversibility, wrongful conviction, and systemic bias. Public debate therefore pivots on which moral framework (punishment, prevention, or protection of human dignity) people accept, shaping support for retention or abolition.",
+    "queries": [
+      "What role should ethical and religious perspectives play in death penalty decisions?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "pope francis",
+    "wiki_title": "pope francis",
+    "summary": "Abolition advocates invoke Pope Francis as a high-profile moral authority to frame the death penalty as a violation of human dignity and to pressure lawmakers toward abolition; opponents counter by dismissing his stance as a religiously grounded, nonbinding ethical claim that should not dictate secular criminal justice policy.",
+    "queries": [
+      "Is Pope Francis's opposition to the death penalty reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "catechism change",
+    "wiki_title": "catechism",
+    "summary": "Catechisms—most prominently the Catholic Catechism—are invoked in public debate to frame the death penalty as incompatible with human dignity and mercy, a stance reinforced by recent authoritative revisions declaring capital punishment inadmissible; conversely, opponents sometimes cite earlier catechetical interpretations that permitted execution for public order and retributive justice to justify retention.",
+    "queries": [
+      "What consequences might the catechism change produce for death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "catholic teaching",
+    "wiki_title": "catholic theology",
+    "summary": "Catholic theology is often invoked to argue for abolition of the death penalty, with proponents citing human dignity, mercy, the possibility of redemption, and recent papal teachings (including the 2018 Catechism revision) to label capital punishment inadmissible; a minority of conservatives invoke older theological arguments about legitimate state retribution and public order to defend retention, but Catholic leaders and institutions increasingly frame policy debates in favor of abolition and criminal‑justice reforms.",
+    "queries": [
+      "What reasons support or oppose catholic teaching on executions?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "cardinal raymond burke",
+    "wiki_title": "raymond leo burke",
+    "summary": "As a prominent conservative Catholic cardinal, Raymond Leo Burke is often invoked in death‑penalty debates as a religious authority who bolsters traditional or retributive readings of justice that push back against the Church’s recent repudiation of capital punishment; critics point to his role to illustrate conservative resistance to ‘consistent life’ arguments opposing the death penalty.",
+    "queries": [
+      "Is Cardinal Raymond Burke’s stance on the death penalty reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "human dignity",
+    "wiki_title": "dignity",
+    "summary": "In debates over the death penalty, appeals to human dignity are frequently used by abolitionists and courts to argue that state execution is degrading, cruel, and incompatible with respecting the intrinsic worth of persons, supporting policies of repeal or life imprisonment. Conversely, proponents sometimes frame dignity as owed to victims and to the moral order—arguing that capital punishment restores justice, honors victims, and affirms societal norms—so 'dignity' can be marshaled to support either abolition or retention depending on whether it is centered on the condemned or the victims.",
+    "queries": [
+      "Is prioritizing human dignity in death penalty cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "catholic church",
+    "wiki_title": "catholic church",
+    "summary": "The Catholic Church, especially under recent popes and changes to official teaching, frames the death penalty as a violation of human dignity and now actively urges abolition, using its moral authority to influence lawmakers, courts, and public opinion in Catholic communities; although proponents sometimes point to older theological arguments about state authority, contemporary Church teaching is commonly cited by abolitionists as a key religious rationale against executions.",
+    "queries": [
+      "How do people view the catholic church’s position on executions?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "pope john paul ii",
+    "wiki_title": "pope john paul ii",
+    "summary": "John Paul II is frequently cited in death-penalty debates as a papal authority who shifted Catholic teaching toward restricting—and ultimately treating capital punishment as morally unacceptable—by stressing human dignity and preferring nonlethal means, a stance used to bolster abolitionist policies; critics and retentionists, however, sometimes point to his caveat about extreme cases to argue he stopped short of unconditional abolition.",
+    "queries": [
+      "Did pope john paul ii’s stance change death penalty debates reasonably?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "pontifical academy for life",
+    "wiki_title": "pontifical academy for life",
+    "summary": "The Pontifical Academy for Life appears in death-penalty debates as a Vatican-linked moral and scientific advisory body that frames capital punishment as contrary to human dignity and the modern understanding of justice. Its statements and reports are cited to justify abolitionist policy positions and sway Catholic and secular audiences, while critics sometimes portray its influence as religious intrusion into secular criminal-justice decision-making.",
+    "queries": [
+      "How do people view the pontifical academy for life and capital punishment?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "usccb",
+    "wiki_title": "usccb publishing",
+    "summary": "USCCB Publishing issues statements, pastoral letters, and educational materials that frame the death penalty as a violation of human dignity and increasingly call for its abolition or strict limitation. These resources are used by bishops, Catholic organizations, and activists to justify opposition to capital punishment and to persuade lawmakers and Catholic voters toward restrictive or abolitionist policies.",
+    "queries": [
+      "Are usccb’s recommendations on capital punishment persuasive or not?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "evangelium vitae",
+    "wiki_title": "evangelium vitae",
+    "summary": "Evangelium Vitae is frequently cited in death-penalty debates as a moral foundation for opposing capital punishment—stress­ing human dignity and urging states to prefer non‑lethal means—so abolitionists use it to press for repeal. Retentionists, however, point to its allowance for extremely rare, defensive uses of the death penalty to argue the Church did not categorically forbid capital punishment in all circumstances.",
+    "queries": [
+      "How do people view evangelium vitae regarding the death penalty?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "evangelicalism",
+    "wiki_title": "evangelicalism",
+    "summary": "In public debate, many evangelical leaders and voters have justified support for the death penalty by appealing to scriptural notions of just retribution, law-and-order concerns, and deterrence—mobilizing conservative political pressure for capital punishment—while an increasing evangelical countercurrent invokes the sanctity of life, forgiveness, wrongful-conviction and racial-bias arguments to criticize or call for abolition or moratoria.",
+    "queries": [
+      "How do people view evangelicalism’s stance on the death penalty?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "christian right",
+    "wiki_title": "christian right",
+    "summary": "In debates over the death penalty the Christian right typically defends capital punishment as morally justified retribution and protection of society, invoking Biblical notions of justice and victims’ rights to bolster ‘tough‑on‑crime’ policy and oppose abolition; this framing is used to mobilize conservative voters and counter secular or abolitionist arguments, though it can conflict with other religious sanctity‑of‑life claims.",
+    "queries": [
+      "How do people view the christian right’s approach to the death penalty?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "southern baptist convention",
+    "wiki_title": "southern baptist convention",
+    "summary": "The Southern Baptist Convention frequently frames support for the death penalty as biblically sanctioned retributive justice—arguing capital punishment honors victims, protects society, and upholds moral order—and uses its influence to back conservative lawmakers and oppose abolition efforts. Although some members voice concern about wrongful convictions and urge procedural safeguards or mercy in specific cases, the Convention’s public posture generally supports retention and application of capital punishment.",
+    "queries": [
+      "Are southern baptist convention endorsements of executions justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "focus on the family",
+    "wiki_title": "focus on the family",
+    "summary": "In death‑penalty debates Focus on the Family is often cited to provide a theologically grounded, law‑and‑order rationale for capital punishment—emphasizing retribution, moral accountability, and victims’ rights to mobilize conservative Christian support—while critics use the group to charge religious hypocrisy, arguing its punitive stance conflicts with pro‑life commitments and sidelines calls for mercy and criminal‑justice reform.",
+    "queries": [
+      "Is focus on the family justified in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "moral majority",
+    "wiki_title": "moral majority",
+    "summary": "In death-penalty debates, supporters invoke the Moral Majority to frame capital punishment as a morally justified, law-and-order expression of Christian retributive justice; critics invoke it to highlight how evangelical political organizing promoted punitive sentencing and to accuse pro‑death‑penalty conservatives of inconsistent ‘pro‑life’ rhetoric.",
+    "queries": [
+      "What effects has the moral majority had on death penalty policies?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "prison ministry",
+    "wiki_title": "prison religion",
+    "summary": "Religious ministry in prisons is often invoked in death-penalty debates to highlight inmate conversion, remorse, and the possibility of moral rehabilitation as grounds for clemency or abolition. Conversely, some faith-based actors and accounts of staff trauma are used to emphasize retribution or victims’ rights, so chaplains’ testimonies and religious narratives can be marshaled to support either side of the policy debate.",
+    "queries": [
+      "What impacts has prison ministry had on death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International is widely used by abolitionist advocates and media to portray the death penalty as a human-rights violation—citing its research on executions, wrongful convictions, and discriminatory application to argue for moratoria and full abolition. Its authoritative reports and global tallies shape policy debates and public opinion, even as defenders of capital punishment sometimes challenge its findings as biased or politically motivated.",
+    "queries": [
+      "How do people view amnesty international's role in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "un general assembly",
+    "wiki_title": "united nations general assembly",
+    "summary": "The UN General Assembly frequently adopts non‑binding resolutions calling for a moratorium and eventual abolition of the death penalty, which abolitionists cite to frame capital punishment as a human‑rights violation—emphasizing the right to life, discrimination, and arbitrariness in sentencing. Opponents, however, cast UNGA positions as moralizing or overreaching, invoking sovereignty, crime‑control, and local context to resist international pressure.",
+    "queries": [
+      "Is UN General Assembly’s stance on the death penalty justified?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "china",
+    "wiki_title": "china",
+    "summary": "China's widespread and opaque use of the death penalty is invoked by supporters as a tool for deterrence, public order and harsh punishment for corruption, drugs, and violent crimes, while critics cite its high execution rates, broad criminal scope and lack of transparency as evidence of human-rights abuses and authoritarian overreach, using Chinese practice to argue for abolition or strict international scrutiny.",
+    "queries": [
+      "How do people view China’s death penalty practices?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "iran",
+    "wiki_title": "iran",
+    "summary": "Iran is frequently invoked in death-penalty debates as a cautionary example of state-sanctioned executions used both for ordinary crimes and for political repression, with critics pointing to public executions, application of Islamic penal codes (including for juveniles and disputed convictions), and opaque trials as evidence of human-rights abuses. Defenders or sovereignty-focused voices counter that Iran’s executions reflect its interpretation of Sharia and criminal justice priorities, framing capital punishment as legitimate deterrence or religiously mandated retribution.",
+    "queries": [
+      "How do people view Iran’s capital punishment practices?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "sanctity of life",
+    "wiki_title": "sanctity of life",
+    "summary": "In debates over the death penalty, appeals to the sanctity of life are frequently used by abolitionists to argue that the state must not take human life, shaping moral pressure for commutation, legal restrictions, or full abolition. Opponents of that view sometimes recast ‘sanctity’ to justify capital punishment as a proportionate defense of innocent life and moral order, so the concept frames a central moral fault line that informs policy and public rhetoric.",
+    "queries": [
+      "How do people view the sanctity of life in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Pro‑life activists often use a “consistent life” framing to argue that state execution is morally inconsistent with valuing unborn life, lobbying for abolition, clemency, or legislation curbing the death penalty; however, the movement is divided, with some factions endorsing capital punishment as a just response to heinous crimes, shaping public debate by highlighting either moral consistency or retributive justice.",
+    "queries": [
+      "Is it reasonable for the pro-life movement to oppose or support executions?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "restorative justice",
+    "wiki_title": "restorative justice",
+    "summary": "In debates over the death penalty, proponents of restorative justice are often cited by abolitionists to argue that execution forecloses victim-centered healing, offender accountability and the possibility of redemption, and therefore policy should prioritize reparative alternatives (e.g., life sentences with restorative processes) over capital punishment. Critics of this framing counter that restorative approaches are inadequate for the most heinous crimes and do not satisfy society’s demands for retribution or deterrence.",
+    "queries": [
+      "Is restorative justice a reasonable alternative to the death penalty?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "victim–offender mediation",
+    "wiki_title": "mediation",
+    "summary": "In death-penalty debates, mediation — especially victim–offender and restorative processes — is invoked by abolitionists and reformers as a humane alternative that can provide closure, secure negotiated resolutions (e.g., guilty pleas or life sentences) and thereby weaken calls for execution. Opponents counter that mediation cannot satisfy demands for retribution or general deterrence, framing it as an insufficient or inappropriate response to the most serious crimes.",
+    "queries": [
+      "Is victim–offender mediation appropriate in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "truth commission",
+    "wiki_title": "truth commission",
+    "summary": "Findings from truth commissions—such as documented wrongful convictions, systemic racial or political bias, and state-sanctioned violence—are frequently deployed to argue for abolition, moratoria, or clemency by framing the death penalty as an unjust tool of repression. Conversely, when commissions emphasize reconciliation or offer amnesty, opponents of harsh criminal sanctions cite them to argue that restorative approaches should replace capital punishment, while critics warn this can enable impunity and undermine calls for accountability.",
+    "queries": [
+      "Would a truth commission be reasonable for addressing death penalty harms?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "reparations",
+    "wiki_title": "reparation",
+    "summary": "In death-penalty debates, advocates for abolition and reform invoke reparations to stress that wrongful executions are irreversible and that the state should offer compensation, apologies, and restorative justice to victims’ families and exonerees. This rhetoric bolsters calls to abolish or limit capital punishment and to create compensation and review mechanisms, while opponents sometimes reject reparations as undermining retributive closure.",
+    "queries": [
+      "How do people view reparations related to the death penalty?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "circle sentencing",
+    "wiki_title": "indigenous australians and crime",
+    "summary": "In Australian death‑penalty debates, Indigenous Australians are often invoked to argue that capital punishment would be racially biased and unjust—pointing to over‑representation in the criminal justice system and historical uses of state violence to bolster abolitionist and human‑rights claims. Opposing narratives sometimes use crime statistics involving Indigenous communities to argue for tougher penalties, but these claims are frequently challenged as ignoring structural causes and perpetuating stereotypes.",
+    "queries": [
+      "Is circle sentencing a reasonable alternative within Death Penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "sharia",
+    "wiki_title": "sharia",
+    "summary": "Sharia is often invoked by proponents to justify capital punishment as divinely sanctioned—citing hudud, qisas or apostasy-related rulings to legitimize death sentences as retributive or deterrent measures. Critics and human-rights advocates counter that such sharia-based executions violate international human rights and gender equality norms, using calls for reinterpretation or abolition of religiously justified death penalties in policy debates.",
+    "queries": [
+      "How do people view sharia and its death penalty provisions?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "hudud punishments",
+    "wiki_title": "hudud",
+    "summary": "In death-penalty debates, advocates invoke hudud as a divinely mandated legal basis to justify reinstating or retaining capital punishment for certain crimes and to oppose abolition or discretionary reductions. Opponents counter that hudud’s harsh, public, and inflexible punishments—along with evidentiary and human-rights concerns—underscore arguments against state execution and for legal reform or international intervention.",
+    "queries": [
+      "How do people view hudud punishments within death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "qisas",
+    "wiki_title": "qisas",
+    "summary": "In debates over the death penalty, qisas is often cited by supporters as a religiously sanctioned, victim-centered justification for retaining capital punishment and for granting families the power to demand or commute executions, while opponents point to its retributive logic, potential for unequal application (by gender, class, or religion), and incompatibility with international human-rights and abolitionist arguments.",
+    "queries": [
+      "How do people view qisas in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "apostasy laws",
+    "wiki_title": "apostasy",
+    "summary": "In debates over capital punishment, accusations of apostasy are often invoked by supporters in religiously governed societies to justify execution as a legitimate penalty for abandoning or betraying faith and to frame such killings as necessary for social or moral order. Human-rights advocates and abolitionists, by contrast, point to death sentences for apostasy as emblematic of conscience-crushing repression, using these cases to argue against capital punishment and for stronger protections of freedom of belief and expression.",
+    "queries": [
+      "Is applying the death penalty under apostasy laws justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "blasphemy laws",
+    "wiki_title": "blasphemy law",
+    "summary": "Blasphemy laws are frequently cited to justify death sentences in the name of defending sacred values and social order, portraying capital punishment as a legitimate deterrent against religious insult. Critics use the link between blasphemy and the death penalty to argue that such laws enable persecution of minorities, suppress dissent, and represent disproportionate, human-rights–violating uses of state power.",
+    "queries": [
+      "Is the death penalty for blasphemy laws justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "stoning",
+    "wiki_title": "stoning",
+    "summary": "Stoning is invoked in death‑penalty debates as a stark exemplar: proponents appeal to its scriptural or traditional legitimacy to justify capital punishment, while critics wield it as evidence that state executions are inherently cruel, archaic, and susceptible to religious or extrajudicial abuse, bolstering abolitionist and human‑rights arguments.",
+    "queries": [
+      "Is stoning reasonable or not as a method of execution?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "saudi arabia",
+    "wiki_title": "saudi arabia",
+    "summary": "Saudi Arabia is frequently invoked in death-penalty debates as a high-profile example of extensive capital punishment justified through religiously framed laws and state sovereignty; critics use it to highlight human-rights abuses, opaque trials, and executions for political dissent, blasphemy, or sexual conduct. Its high‑profile mass executions and international condemnation are in turn used by abolitionists or reformers to argue for abolition or stronger due‑process and proportionality safeguards, while some defenders cite cultural/religious norms and deterrence to justify its practices.",
+    "queries": [
+      "How do people view saudi arabia’s capital punishment practices?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "pakistan",
+    "wiki_title": "pakistan",
+    "summary": "Pakistan is frequently invoked in death-penalty debates as a case where the state has reinstated and broadened executions—particularly for terrorism, blasphemy, and related offenses—framing capital punishment as a needed deterrent and religiously justified response to violence. Human rights groups and international critics counter by pointing to Pakistan to illustrate risks of procedural unfairness, politicized prosecutions, and disproportionate impacts on minorities and vulnerable defendants.",
+    "queries": [
+      "What impacts has Pakistan’s death penalty enforcement caused?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and constitutional issues",
+    "wiki_title": "all-party parliamentary group for legal and constitutional affairs",
+    "summary": "The all-party parliamentary group for legal and constitutional affairs is often cited in death-penalty debates to frame capital punishment as a legal and constitutional problem, supplying expert analysis that abolitionists use to stress incompatibility with human-rights obligations and the risks of miscarriages of justice. Its reports and briefings are commonly employed to criticize proposals to reintroduce the death penalty by foregrounding rule-of-law, due-process and international treaty constraints.",
+    "queries": [
+      "What consequences do legal and constitutional issues have for the death penalty?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "eighth amendment",
+    "wiki_title": "eighth amendment",
+    "summary": "In U.S. death-penalty debates the Eighth Amendment’s ban on \"cruel and unusual punishments\" is the constitutional linchpin used by opponents to argue that capital punishment — or specific execution methods and discriminatory application — is unconstitutional under evolving standards of decency, while supporters invoke precedent and procedural safeguards under the Amendment to defend the constitutionality and proportionality of capital sentences. Litigation invoking the Eighth Amendment shapes public narratives about whether executions are barbaric, arbitrary, or legally permissible, influencing policy reform, moratoria on methods, and Supreme Court rulings.",
+    "queries": [
+      "How do people view the eighth amendment in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "cruel and unusual punishment",
+    "wiki_title": "cruel and unusual punishment",
+    "summary": "Opponents use the phrase to portray capital punishment as constitutionally and morally intolerable—citing botched executions, disproportionate application, and needless suffering—to support abolition, moratoria, and legal challenges. Supporters respond that carefully limited, proportional use can avoid 'cruel and unusual' findings, so the term often drives disputes over methods and eligibility even when it doesn’t settle the broader policy question.",
+    "queries": [
+      "Is cruel and unusual punishment reasonable or not in executions?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "roper v. simmons",
+    "wiki_title": "roper v. simmons",
+    "summary": "Roper v. Simmons is invoked by opponents of capital punishment as a precedent that the Eighth Amendment and contemporary science can constitutionally bar executions for groups deemed less culpable, bolstering arguments to narrow or abolish the death penalty. It also serves as a legal touchstone for pushing incremental restrictions (juveniles, developmental disabilities) and for reframing the debate around evolving moral, scientific and international standards rather than retribution.",
+    "queries": [
+      "What impacts has roper v. simmons had on capital punishment?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "graham v. florida",
+    "wiki_title": "graham v. florida",
+    "summary": "Graham v. Florida is cited in death-penalty debates to stress that juveniles’ diminished culpability and greater capacity for rehabilitation make the harshest punishments—like life without parole and by extension the death penalty for young offenders—constitutionally and morally suspect. Opponents of capital punishment use it to argue for limits or abolition of death sentences for youth, while supporters point to its narrow ruling to justify retaining severe penalties for adult homicide cases.",
+    "queries": [
+      "How do people view graham v. florida overall?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "american civil liberties union",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU frames the death penalty as a civil‑rights and constitutional issue, using litigation, reports, and advocacy to argue that capital punishment is prone to wrongful convictions, racial and socioeconomic bias, inadequate legal counsel, and cruel or unusual punishment. It consistently supports moratoria and abolitionist policies or reforms that remove the death penalty and expand humane alternatives such as life imprisonment without parole.",
+    "queries": [
+      "How is the american civil liberties union viewed regarding the death penalty?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "atkins v. virginia",
+    "wiki_title": "atkins v. virginia",
+    "summary": "Atkins v. Virginia is frequently cited by opponents of capital punishment to argue that executing people with intellectual disabilities is cruel and constitutionally impermissible, bolstering calls to limit or abolish the death penalty and to enact statutory protections.  At the same time, debates over how Atkins defines and applies intellectual disability are used by critics and defenders to frame disputes about fairness, administrative consistency, and whether capital punishment can be confined to morally acceptable cases rather than ended outright.",
+    "queries": [
+      "How do people view atkins v. virginia within the death penalty debate?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "intellectual disability",
+    "wiki_title": "intellectual disability",
+    "summary": "Allegations of intellectual disability are central to arguments against executing condemned people—invoked by defense attorneys, courts and human-rights advocates to seek exemption from capital punishment, mitigation to life sentences, and constitutional bans (e.g., Atkins). Conversely, prosecutors, policymakers and some courts challenge or narrowly define disability (IQ cutoffs, adaptive-functioning tests, malingering claims) to limit exemptions, so disputes over diagnosis and standards critically shape who is eligible for the death penalty.",
+    "queries": [
+      "Is excluding defendants with intellectual disability from execution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "iq test",
+    "wiki_title": "intelligence quotient",
+    "summary": "IQ scores are frequently invoked in death-penalty debates as mitigating evidence to oppose executing people with intellectual disability or borderline cognitive functioning (e.g., claims of diminished culpability or incompetence to be executed), while opponents warn that reliance on IQ tests—given cultural bias and socioeconomic disparities—can produce unfair, racially skewed outcomes and be misused to both excuse and condemn defendants depending on narrative framing.",
+    "queries": [
+      "Is using an iq test in death penalty cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "hall v. florida",
+    "wiki_title": "hall v. florida",
+    "summary": "Hall v. Florida is frequently invoked in death-penalty debates to argue that executing people with intellectual disabilities is unconstitutional and that rigid IQ cutoffs are an inadequate way to determine eligibility for capital punishment. Advocates use it to push for individualized, clinically informed assessments and to criticize states’ arbitrary or procedural practices that risk wrongful executions, while opponents sometimes complain it injects uncertainty into eligibility standards.",
+    "queries": [
+      "How do people view hall v. florida in death penalty?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "moore v. texas",
+    "wiki_title": "moore v. texas",
+    "summary": "Moore v. Texas is invoked in death-penalty debates to argue that executing people with intellectual disabilities violates the Eighth Amendment, and to expose and condemn state use of outdated or non‑clinical tests that keep vulnerable defendants on death row. Its citation typically supports calls for stronger legal safeguards or abolition of capital punishment in such cases, while opponents portray it as limiting state discretion in imposing capital sentences.",
+    "queries": [
+      "How do people view moore v. texas’s impact on executions?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "american association on intellectual and developmental disabilities",
+    "wiki_title": "american association on intellectual and developmental disabilities",
+    "summary": "AAIDD routinely intervenes in death‑penalty debates as an expert authority arguing that people with intellectual and developmental disabilities should not be executed—filing amicus briefs and advising courts and legislatures that diminished culpability, assessment failures, and heightened risk of inhumane or wrongful sentencing justify exemptions. Its statements and research are invoked to support moratoria, oppose capital punishment for this population, and push for disability‑informed legal standards and alternative sentences.",
+    "queries": [
+      "Should american association on intellectual and developmental disabilities influence death penalty policy?"
+    ]
+  },
+  {
+    "id": "C2-4-7",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "disability rights movement",
+    "wiki_title": "disability rights movement",
+    "summary": "Disability rights advocates frame the death penalty as a human-rights and anti-discrimination issue, arguing that people with intellectual or mental disabilities are disproportionately likely to be unfairly convicted or sentenced to death and that executing them is cruel and often unconstitutional — prompting pushes for legal exemptions, reforms, moratoria, or abolition. They also criticize capital procedures for failing to accommodate disabilities (undermining competence determinations, access to counsel, and mitigation), using these failures to justify limiting or ending capital punishment.",
+    "queries": [
+      "How do people view the disability rights movement’s role in death penalty?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2",
+    "level": 3,
+    "topic": "barry scheck",
+    "wiki_title": "barry scheck",
+    "summary": "Barry Scheck, through his Innocence Project work, is frequently cited in death‑penalty debates to underscore the risk of executing the innocent, using DNA exonerations to argue for moratoriums, expanded post‑conviction testing, and tighter forensic standards. His contributions are used to criticize the reliability of evidence and systemic biases in capital trials and to justify reforms or opposition to capital punishment.",
+    "queries": [
+      "How do people view Barry Scheck’s role in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "innocence protection act",
+    "wiki_title": "innocence protection act",
+    "summary": "In debates over the death penalty the Innocence Protection Act is frequently cited by opponents to underscore how wrongful convictions can occur and to demand mandatory DNA testing, better defense counsel, and expanded post‑conviction review to prevent executing the innocent. Proponents often point to the Act as evidence that safeguards exist, while critics argue it doesn’t go far enough and use its limitations to justify calls for a moratorium or abolition.",
+    "queries": [
+      "Does the innocence protection act adequately protect against wrongful executions?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "kirk bloodsworth",
+    "wiki_title": "kirk bloodsworth",
+    "summary": "Kirk Bloodsworth’s wrongful-conviction-and-exoneration story is routinely invoked by death-penalty opponents as a stark illustration of the risk of executing innocents, reinforcing calls for abolition, moratoria, and stronger post-conviction DNA testing. His case is used to undermine claims of judicial infallibility and deterrent benefit, while proponents typically counter that such errors are rare and favor procedural safeguards rather than ending capital punishment.",
+    "queries": [
+      "Is Kirk Bloodsworth's wrongful conviction relevant to death penalty reform?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "pentobarbital",
+    "wiki_title": "pentobarbital",
+    "summary": "Pentobarbital figures centrally in lethal‑injection controversies: opponents cite botched uses, manufacturer refusals, and the medicalization of killing to argue the death penalty is cruel, unreliable, and should be abolished; supporters portray its availability as enabling a supposedly more humane, painless execution method and focus disputes on drug access and regulation rather than capital punishment’s morality.",
+    "queries": [
+      "Is using pentobarbital in the death penalty justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "pharmaceutical companies",
+    "wiki_title": "pharmaceutical industry",
+    "summary": "The pharmaceutical industry shapes death-penalty debates by restricting access to commonly used execution drugs and publicly opposing their use in lethal injection, which opponents cite to argue the system is unreliable, secretive, and increasingly impractical; at the same time, clandestine sourcing by compounding pharmacies or foreign suppliers—sometimes highlighted by proponents—has been used to defend states’ ability to carry out executions.",
+    "queries": [
+      "How do people view pharmaceutical companies' role in death penalty executions?"
+    ]
+  },
+  {
+    "id": "C2-8-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "peremptory challenge",
+    "wiki_title": "peremptory challenge",
+    "summary": "In capital trials attorneys often use peremptory challenges to exclude jurors perceived as likely to oppose (or favor) the death penalty, a practice critics say tilts juries toward death sentences and amplifies racial and ideological bias; proponents counter that strikes help both sides avoid intolerably biased jurors. As a result, peremptory challenges are central in debates over death penalty legitimacy, with reformers pushing limits or bans in capital cases to reduce arbitrariness and discriminatory sentencing.",
+    "queries": [
+      "Is peremptory challenge reasonable or not in death penalty proceedings?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "criminal justice and public safety",
+    "wiki_title": "public security",
+    "summary": "Arguments invoking public security often frame the death penalty as a necessary tool for protecting communities—emphasizing deterrence, permanent incapacitation of violent offenders, and backing from police, prosecutors, and victim advocates. Opponents use public-safety reasoning to criticize capital punishment too, arguing empirical evidence fails to show improved safety, that wrongful or biased executions erode trust in law enforcement, and that resources would be better spent on prevention, policing, and rehabilitation.",
+    "queries": [
+      "Is criminal justice and public safety balanced by using the death penalty?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "innocence project",
+    "wiki_title": "innocence project",
+    "summary": "The Innocence Project is frequently invoked by death-penalty opponents to highlight concrete cases of wrongful conviction and argue that the risk of executing an innocent person justifies moratoria or abolition; proponents of capital punishment often respond by questioning how representative those exonerations are or disputing broader error-rate estimates.",
+    "queries": [
+      "How do people view the Innocence Project’s influence on death penalty decisions?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "dna testing",
+    "wiki_title": "genetic testing",
+    "summary": "Genetic testing is central to death-penalty debates because DNA exonerations are used by abolitionists and innocence projects to argue that wrongful convictions — and thus wrongful executions — occur, prompting calls for routine post-conviction testing and stricter evidentiary safeguards. At the same time prosecutors rely on DNA matches to justify death sentences, and disputed interpretations (lab error, partial matches, or contested claims about genetic predisposition to violence) drive policy fights over access to testing and standards for admitting genetic evidence.",
+    "queries": [
+      "What impact has dna testing had on death penalty outcomes?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "eyewitness misidentification",
+    "wiki_title": "eyewitness identification",
+    "summary": "Eyewitness identification often figures prominently in death-penalty debates as a focal example of how unreliable testimony can produce wrongful capital convictions, bolstering abolitionist and moratorium arguments that the state risks executing innocents. It also drives calls for stronger safeguards (recorded lineups, expert testimony, double‑blind procedures) while proponents counter that reliable corroborated IDs can justify capital punishment in some cases.",
+    "queries": [
+      "Is eyewitness misidentification in death penalty cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "prosecutorial misconduct",
+    "wiki_title": "prosecutorial misconduct",
+    "summary": "Allegations of prosecutorial misconduct are frequently invoked to argue the death penalty is uniquely dangerous because misconduct can produce irreversible wrongful executions, bolstering abolitionist campaigns, moratorium calls, and demands for independent review and disclosure reforms. Supporters of capital punishment typically concede misconduct is harmful but treat it as exceptional, using it to press for better oversight and safeguards rather than abolition.",
+    "queries": [
+      "How do people view prosecutorial misconduct in the death penalty context?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "troy davis",
+    "wiki_title": "troy davis",
+    "summary": "Troy Davis’s contested case is frequently invoked by death-penalty opponents as emblematic of the risk of wrongful execution—highlighting recanted eyewitness testimony, racial bias, and international outrage to argue for abolition, moratoria, or much tighter safeguards—while defenders of capital punishment point to the multiple judicial reviews and upheld conviction to argue the system’s procedures were followed and executions can be legitimate. His high-profile mobilization of human-rights groups and public figures is used to frame the death penalty as a moral and procedural crisis requiring reform.",
+    "queries": [
+      "Has Troy Davis's case changed views on capital punishment?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "lethal injection",
+    "wiki_title": "lethal injection",
+    "summary": "Lethal injection is often invoked by proponents to medicalize and legitimize the death penalty—portraying executions as clinical, humane, and therefore more publicly acceptable—thereby supporting retentionist or reformist policies. Critics, however, highlight botched injections, the risk of conscious suffering, and pharmaceutical restrictions to argue the method obscures cruelty, invites legal challenges, and strengthens abolitionist or moratorium calls.",
+    "queries": [
+      "What effects has lethal injection had on death penalty practices?"
+    ]
+  },
+  {
+    "id": "C3-2-1",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "midazolam",
+    "wiki_title": "midazolam",
+    "summary": "Midazolam has become a flashpoint in death‑penalty debates because its use in lethal‑injection protocols — and high‑profile botched executions — is cited by opponents as evidence that capital punishment causes cruel and unusual suffering and warrants moratoria or abolition; defenders and some courts have countered that it can serve as an acceptable sedative or that procedural safeguards, alternative drugs, or legal standards should govern its use, while drug shortages and manufacturer restrictions have further shaped policy and practice.",
+    "queries": [
+      "How do people view midazolam in death penalty lethal injections?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "sodium thiopental",
+    "wiki_title": "sodium thiopental",
+    "summary": "As the anesthetic long used in lethal injections, sodium thiopental figures in death-penalty debates as evidence both that capital punishment has been medicalized and that flawed access or administration can produce painful, unconstitutional executions—an argument opponents use to call for abolition or moratoria—while proponents invoke it as a means of making executions more ‘humane’ and attribute controversies to logistical or regulatory (rather than moral) objections.",
+    "queries": [
+      "How do people view sodium thiopental’s role in capital punishment?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "baze v. rees",
+    "wiki_title": "baze v. rees",
+    "summary": "Baze v. Rees is routinely cited by death‑penalty proponents to justify use of current lethal‑injection protocols and to argue courts should defer to states unless an inmate can show a substantial risk of severe pain and a readily implementable alternative; critics use the decision to argue the Court set an unreasonably high bar that shields problematic or botched executions from constitutional scrutiny and impedes reform.",
+    "queries": [
+      "What impact has baze v. rees had on death penalty practices?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "glossip v. gross",
+    "wiki_title": "glossip v. gross",
+    "summary": "Glossip v. Gross is invoked in death-penalty debates as legal cover for states’ use of contested lethal‑injection protocols by imposing a high burden on prisoners to prove a method is cruel and to propose feasible alternatives, a framing used to defend the continued administration of capital punishment. Critics counter that the decision effectively permits painful or experimental executions and is cited to argue for abolition, stricter Eighth Amendment scrutiny, or legislative reform of execution methods.",
+    "queries": [
+      "How do people view glossip v. gross regarding lethal injection standards?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "clayton lockett",
+    "wiki_title": "execution of clayton lockett",
+    "summary": "Clayton Lockett’s widely publicized botched execution is invoked by abolitionists and critics to argue that capital punishment is inhuman, constitutionally cruel, and too error-prone to trust, bolstering calls for moratoria or abolition. Others use the incident to push for tighter protocols and oversight—framing it as a fixable procedural failure rather than a reason to end the death penalty entirely.",
+    "queries": [
+      "How do people view Clayton Lockett’s case in debates about capital punishment?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "compounding pharmacy",
+    "wiki_title": "compounding",
+    "summary": "Compounding pharmacies are frequently cited in death-penalty debates as a way for states to obtain bespoke lethal-injection drugs when mainstream manufacturers refuse to supply them, effectively enabling executions to proceed. Opponents argue this circumvents safety standards and medical ethics—heightening risks of botched executions and reducing accountability—while proponents portray compounding as a pragmatic workaround to enforce capital sentences.",
+    "queries": [
+      "How do people view compounding pharmacy involvement in death penalty drug supply?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "pfizer",
+    "wiki_title": "pfizer",
+    "summary": "Pfizer's policies restricting the sale and distribution of medicines for use in executions are often cited in death-penalty debates: opponents use Pfizer's refusals as proof that lethal injection is ethically fraught and practically unworkable, bolstering calls for moratoria or abolition, while supporters condemn the company for what they see as corporate interference with states' ability to carry out lawful sentences.",
+    "queries": [
+      "How do people view Pfizer’s role in death penalty drug access?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "death row",
+    "wiki_title": "death row",
+    "summary": "Abolitionists and critics use the existence and conditions of death row to emphasize prolonged uncertainty, psychological harm (the “death row phenomenon”), and the risk of executing mentally ill or wrongly convicted people, arguing these realities render capital punishment inhumane or unworkable; proponents counter that lengthy death-row processes reflect necessary appeals and due process or press for swifter enforcement to provide finality, deterrence, and justice for victims.",
+    "queries": [
+      "How do people view death row in modern justice systems?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "solitary confinement",
+    "wiki_title": "solitary confinement",
+    "summary": "In death‑penalty debates, the harsh psychological effects of prolonged solitary—especially on death row—are cited by opponents to argue that capital punishment compounds torture and is constitutionally and morally unacceptable, bolstering abolitionist and reform claims; proponents sometimes counter that isolation is a security necessity, but evidence of solitary’s harms is frequently used in appeals and policy arguments to oppose executions or limit death‑row practices.",
+    "queries": [
+      "How do people view solitary confinement in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "racial disparities",
+    "wiki_title": "racial inequality in the united states",
+    "summary": "Claims of racial inequality—highlighting disproportionate death sentences for Black and minority defendants, biased jury selection, and victim-race effects—are deployed to argue the death penalty is applied in a racially discriminatory and therefore illegitimate way. That framing is commonly used to justify abolition, moratoriums, or major procedural reforms, while opponents often counter that disparities can be addressed by targeted reforms rather than ending capital punishment.",
+    "queries": [
+      "What effects have racial disparities in death penalty cases caused?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "wrongful conviction",
+    "wiki_title": "miscarriage of justice",
+    "summary": "Documented miscarriages of justice are a linchpin of anti–death-penalty rhetoric, used to argue that the irreversible risk of executing an innocent person makes capital punishment morally unacceptable and justifies abolition, moratoria, or substitution with life sentences plus stricter safeguards; supporters of the death penalty typically concede the problem but frame such cases as rare or fixable through improved forensics, higher proof standards, and better defense rather than grounds for repeal.",
+    "queries": [
+      "Is wrongful conviction a significant concern for the death penalty?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "false confession",
+    "wiki_title": "false confession",
+    "summary": "In death-penalty debates false confessions are frequently deployed by abolitionists and defense advocates to demonstrate that the system can and has condemned innocent people, bolstering calls for moratoria, abolition, or strict procedural safeguards (e.g., recorded interrogations, higher evidentiary thresholds). Supporters of capital punishment may acknowledge the risk while arguing it can be managed through reforms, so the topic mainly functions to frame the death penalty as either an unacceptably fallible practice or one that requires tighter protections.",
+    "queries": [
+      "How do people view false confession in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "brady v. maryland",
+    "wiki_title": "brady v. maryland",
+    "summary": "Brady v. Maryland is invoked in death-penalty debates as the key precedent requiring prosecutors to hand over exculpatory evidence; advocates against capital punishment point to frequent Brady violations as proof the system risks wrongful executions and thus call for abolition or moratoria, while others use Brady compliance as evidence that procedural safeguards can make capital sentencing fair if properly enforced and reformed (e.g., open-file discovery, sanctions for misconduct).",
+    "queries": [
+      "How do people view brady v. maryland in capital prosecutions?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "national registry of exonerations",
+    "wiki_title": "national registry of exonerations",
+    "summary": "The National Registry of Exonerations is frequently cited by death-penalty critics to document wrongful convictions and exonerations—especially cases involving people who faced capital sentences—bolstering claims that the system risks executing innocents and reflects systemic errors and racial bias. Supporters of abolition or moratoria use its data to argue for repeal or sweeping reforms, while some pro‑death-penalty voices point to the registry to argue for procedural fixes rather than abolition, making it a key evidentiary resource that frames the debate around risk and reform.",
+    "queries": [
+      "Is the national registry of exonerations justified in death penalty oversight?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "race and capital punishment",
+    "wiki_title": "capital punishment",
+    "summary": "In debates over the death penalty, 'capital punishment' is often invoked by supporters to legitimize executions as necessary retribution, deterrence, or protection of public safety, shaping arguments for retention and stricter sentencing; conversely, critics use the term to emphasize wrongful convictions, discriminatory application, state-sanctioned violence, and human-rights obligations, framing calls for moratoria or abolition as moral and legal imperatives.",
+    "queries": [
+      "Is race and capital punishment influencing verdicts justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "mccleskey v. kemp",
+    "wiki_title": "mccleskey v. kemp",
+    "summary": "McCleskey v. Kemp is frequently cited in death-penalty debates as evidence that the courts will not treat statistical racial disparities in capital sentencing as sufficient proof of unconstitutional discrimination, a point opponents use to argue the system is irredeemably biased and needs abolition or major reform. Supporters of the death penalty invoke the decision to justify retaining capital punishment unless explicit discriminatory intent can be shown, arguing that broad statistical disparities alone do not invalidate individual sentences.",
+    "queries": [
+      "Is mccleskey v. kemp reasonable in death penalty practice or not?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "batson v. kentucky",
+    "wiki_title": "batson v. kentucky",
+    "summary": "In death-penalty debates Batson v. Kentucky is invoked to argue that racial discrimination in juror strikes corrupts capital trials, serving as a frequent basis for appeals, sentence reversals, and claims that the death penalty is applied in an arbitrary, racially biased way. Advocates use it to justify abolition or stricter procedural safeguards; critics concede it addresses discrimination but argue its remedies are often ineffective, favoring limited reforms instead of scrapping capital punishment.",
+    "queries": [
+      "How do people view batson v. kentucky in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "equal justice initiative",
+    "wiki_title": "equal justice initiative",
+    "summary": "The Equal Justice Initiative is frequently invoked by opponents of the death penalty—through its litigation, reporting, and client advocacy—to argue that capital punishment is racially biased, prone to wrongful conviction, and applied unfairly, thereby justifying moratoriums or abolition. Its work reframes the death-penalty debate as a civil-rights and systemic-justice issue and supports policies that limit or end use of capital punishment.",
+    "queries": [
+      "How do people view equal justice initiative's influence on death penalty cases?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "supreme court of the united states",
+    "wiki_title": "supreme court of the united states",
+    "summary": "In death-penalty debates the Supreme Court functions as the decisive legal referee whose Eighth Amendment rulings on proportionality, methods, and defendant categories (e.g., juveniles, intellectually disabled) are invoked by abolitionists to push restrictions or by retentionists to defend capital sentences. Its ideological composition and precedents thus shape public policy, producing moratoria, procedural reforms, or affirmations of state death-penalty practices.",
+    "queries": [
+      "Is the supreme court of the united states reasonable on capital punishment?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "gregg v. georgia",
+    "wiki_title": "gregg v. georgia",
+    "summary": "Gregg v. Georgia is frequently cited by proponents to argue the death penalty is constitutionally permissible if states implement guided-discretion procedures (bifurcated trials, aggravating/mitigating factors), framing reform and procedural safeguards as the solution to arbitrariness. Opponents, however, use Gregg to criticize that those safeguards have not prevented racial bias and inconsistent application, arguing it demonstrates why abolition — not procedural fixes — is necessary.",
+    "queries": [
+      "How do people view gregg v. georgia’s impact on capital punishment?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "clemency",
+    "wiki_title": "pardon",
+    "summary": "Pardons/clemency are framed in death-penalty debates as the final safeguard against wrongful or excessive executions—used by proponents to justify retaining capital punishment as controllable, and by abolitionists to highlight the system’s fallibility and the moral danger of relying on discretionary mercy. Critics also point to the politicized or arbitrary use of pardons to argue that clemency cannot reliably correct errors, bolstering calls for abolition or alternative punishments.",
+    "queries": [
+      "What consequences has clemency had in death penalty systems?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "commutation",
+    "wiki_title": "commute",
+    "summary": "Requests to commute death sentences to life imprisonment are frequently used by abolitionists to emphasize mercy, the risk of wrongful convictions and systemic bias, and the need to preserve a reversible alternative to execution. Opponents counter that commuting undermines deterrence and victims’ sense of justice and represents an overreach of executive clemency, so the use of commutation becomes a flashpoint in arguments about finality, accountability, and proportional punishment.",
+    "queries": [
+      "What effects has commutation had on death penalty outcomes?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "pardon and parole board",
+    "wiki_title": "parole board",
+    "summary": "Parole boards are often cited in death-penalty debates as the institutional mechanism that can provide alternatives to execution—through clemency, commutation, or life-without-parole—supporting arguments that offenders can be rehabilitated or that miscarriage of justice can be corrected. Conversely, critics point to parole-board denials, politically influenced appointments, or perceived failures to protect public safety to argue that some offenders should be permanently incapacitated or executed, using board decisions to justify harsher sentencing.",
+    "queries": [
+      "How do people view the pardon and parole board’s decisions on clemency?"
+    ]
+  },
+  {
+    "id": "C3-7-7",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "religious leaders",
+    "wiki_title": "islamic religious leaders",
+    "summary": "Islamic religious leaders frequently shape death-penalty debates by invoking religious law and issuing fatwas that can legitimize capital punishment for crimes such as murder, hudud offenses, or apostasy, lending moral and institutional support to executions in many Muslim-majority contexts. Conversely, reformist or context-sensitive leaders emphasize mercy, due process, and contemporary human-rights norms to criticize harsh applications or advocate clemency, making clerical stance a pivotal influence on policy and public opinion.",
+    "queries": [
+      "How do people view religious leaders' influence on death penalty debates?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "human rights and international law",
+    "wiki_title": "international human rights law",
+    "summary": "International human rights law is routinely cited by abolitionists to portray the death penalty as an arbitrary, disproportionate and cruel denial of the right to life and fair trial — using treaties, UN resolutions and human-rights bodies to push moratoria, restrictions (e.g., juveniles, mentally impaired, pregnant women) and outright abolition. Supporters of capital punishment counter by arguing IHRL allows states to retain the death penalty under strict due-process safeguards and invoke sovereignty or cultural/contextual claims to resist international pressure.",
+    "queries": [
+      "How do people view human rights and international law regarding death penalty?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "human rights watch",
+    "wiki_title": "human rights watch",
+    "summary": "Human Rights Watch documents and publicizes wrongful convictions, discriminatory application, and due‑process failings in death‑penalty cases, supplying evidence abolitionists use to argue the punishment is arbitrary, cruel, and incompatible with international human‑rights norms. Its reports and campaigns pressure governments for moratoria or abolition and to halt executions in politically motivated, juvenile, or torture‑tainted cases, framing the death penalty primarily as a human‑rights violation.",
+    "queries": [
+      "What impact does Human Rights Watch have on death penalty policies?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "un moratorium",
+    "wiki_title": "moratorium",
+    "summary": "Calls for a moratorium on executions are used by abolitionists, human-rights groups, and reformers to frame the death penalty as a policy in need of urgent review—citing wrongful convictions, racial disparities, botched executions, and procedural failings—and to justify a temporary halt while reforms or abolition are pursued. Opponents cast moratoria as politically motivated delays that deny justice and closure to victims, portraying them as a stealth step toward permanent abolition rather than a neutral safety pause.",
+    "queries": [
+      "Is un moratorium on the death penalty reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "european union",
+    "wiki_title": "european union",
+    "summary": "The EU is routinely invoked in death-penalty debates as a leading abolitionist authority—using diplomatic pressure, conditionality in accession and cooperation agreements, UN voting and funding for moratorium campaigns to promote abolition as a human-rights norm—while opponents sometimes portray its stance as moralizing or hypocritical when strategic interests require engagement with retentionist states.",
+    "queries": [
+      "How do people view the European Union’s influence on death penalty policies?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "echr",
+    "wiki_title": "echr",
+    "summary": "Abolition advocates invoke ECHR jurisprudence and treaty commitments to argue that the death penalty violates European human-rights norms (life, dignity, fair trial) and to litigate against or prevent reinstatement in member states; opponents typically respond by disputing ECHR authority or emphasizing national sovereignty and public-safety arguments to justify retention or reintroduction.",
+    "queries": [
+      "What impacts has echr involvement had on death penalty practices?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "protocol no.6",
+    "wiki_title": "communication protocol",
+    "summary": "Rules and channels for exchanging evidence, official statements, and execution information shape public trust in death‑penalty cases by controlling transparency—e.g., chain‑of‑custody and records‑release protocols affect confidence in convictions, and media/agency communication rules determine what the public sees of executions. Reformers point to opaque or ad‑hoc communication protocols as proof of systemic error and argue for moratoria or abolition, while supporters claim standardized, secure protocols uphold due process and legitimate implementation.",
+    "queries": [
+      "How do people view protocol no.6?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "protocol no.13",
+    "wiki_title": "at protocol",
+    "summary": "The AT Protocol functions as the communication backbone for decentralized social platforms where both opponents and proponents of the death penalty circulate legal analysis, victim or exoneree stories, and mobilization calls, helping grassroots framings reach audiences without traditional media gatekeepers. By reducing centralized moderation and enabling tightly aligned networks, it often amplifies emotionally charged or polarizing narratives that can harden policy positions and boost either abolitionist campaigning or pro‑punishment advocacy depending on the community.",
+    "queries": [
+      "Is protocol no.13 on the death penalty reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "soering v. united kingdom",
+    "wiki_title": "soering v united kingdom",
+    "summary": "Soering v United Kingdom is commonly invoked to argue that extraditing suspects to face execution or prolonged death-row conditions violates human-rights norms, bolstering abolitionist claims and policies that refuse extradition without assurances against the death penalty. Critics of the decision use it to frame such rulings as judicial interference that can impede prosecutions and respect for domestic capital sentences.",
+    "queries": [
+      "How do people view soering v. united kingdom’s impact on executions?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "extradition assurances",
+    "wiki_title": "extradition",
+    "summary": "Extradition disputes are often invoked in death-penalty debates: abolitionists use a state’s refusal to extradite without assurances against execution to frame capital punishment as a human‑rights violation that should not be exported, while proponents argue that withholding suspects on those grounds obstructs justice and enables impunity, pressing for legal or diplomatic rules that allow transfers despite abolitionist objections.",
+    "queries": [
+      "Should extradition assurances be required before extraditing suspects facing death penalty?"
+    ]
+  },
+  {
+    "id": "C5-8",
+    "parent": "C5",
+    "level": 2,
+    "topic": "wrongful execution",
+    "wiki_title": "wrongful execution",
+    "summary": "Claims and documented cases of wrongful execution are wielded by abolitionists to argue that the irreversible risk of killing innocents makes capital punishment unjust and requires moratoria, higher evidentiary standards, or abolition; supporters typically counter that such errors are either rare or evidence of wider justice-system failures that should be fixed without eliminating the death penalty.",
+    "queries": [
+      "How do people view wrongful execution in Death Penalty discussions?"
+    ]
+  },
+  {
+    "id": "C5-8-5",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "cameron todd willingham",
+    "wiki_title": "cameron todd willingham",
+    "summary": "The controversy over Cameron Todd Willingham’s conviction and execution—whose arson evidence was later widely challenged by fire science experts—is frequently invoked by opponents of capital punishment as a powerful example of wrongful execution and unreliable forensic practices, strengthening arguments for abolition, moratoriums, or stricter evidentiary standards; supporters of the death penalty sometimes counter that legal process was followed, but the case mainly fuels public doubt about the system’s infallibility.",
+    "queries": [
+      "Is concern about wrongful convictions in cameron todd willingham reasonable?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "juvenile justice",
+    "wiki_title": "juvenile court",
+    "summary": "Arguments against the death penalty often invoke juvenile court principles—diminished culpability, priority on rehabilitation, and international norms protecting children—to argue that minors should be exempt from capital punishment. Opponents of leniency counter by highlighting transfer mechanisms that send serious juvenile cases to adult courts, using those procedural paths to justify applying the death penalty in extreme cases.",
+    "queries": [
+      "How do people view juvenile justice in death penalty situations?"
+    ]
+  },
+  {
+    "id": "C5-7-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "life without parole",
+    "wiki_title": "life imprisonment",
+    "summary": "Opponents of the death penalty frequently point to life imprisonment—especially life without parole—as a reversible, humane alternative that preserves public safety and bolsters arguments for abolition or commutation. Supporters of capital punishment counter that life terms can be seen as insufficiently retributive, costly, or allow prolonged legal limbo, so the availability and terms of life sentences strongly influence whether people favor keeping or abolishing execution.",
+    "queries": [
+      "What consequences has life without parole had on the justice system?"
+    ]
+  },
+  {
+    "id": "C5-6-1",
+    "parent": "C5",
+    "level": 3,
+    "topic": "supreme people's court",
+    "wiki_title": "supreme people's court",
+    "summary": "In public debates about the death penalty, the Supreme People’s Court is invoked as the ultimate gatekeeper whose centralized review and judicial interpretations are used by proponents to claim procedural safeguards and a trend toward fewer executions. Critics, however, point to its opaque decision-making and retained authority over approvals as evidence of political influence that perpetuates capital punishment and underscores calls for abolition or greater transparency.",
+    "queries": [
+      "How do people view the supreme people's court's death penalty reviews?"
+    ]
+  },
+  {
+    "id": "C5-6-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "death sentence with reprieve",
+    "wiki_title": "death sentence with reprieve",
+    "summary": "Death-with-reprieve is cited in public debates as a pragmatic compromise that lets authorities appear both firm and humane—reducing executions while retaining capital punishment’s symbolic deterrence—and is used to justify incremental reform rather than abolition. Critics counter that it functions as a political or rhetorical device that masks ongoing harsh punishment, preserves state control over life-and-death decisions, and avoids addressing core justice and human-rights objections to the death penalty.",
+    "queries": [
+      "Is the death sentence with reprieve reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "drug trafficking",
+    "wiki_title": "illegal drug trade",
+    "summary": "Proponents cite the scale and violence of the illegal drug trade to justify harsh sentences — including executions for major traffickers or violent drug-related crimes — as necessary deterrence and public-protection measures. Critics counter that applying the death penalty in drug cases is disproportionate, often targets marginalized or politically vulnerable people, risks irreversible wrongful executions, and has little evidence of reducing trafficking, framing such use as a human-rights abuse.",
+    "queries": [
+      "Is imposing the death penalty for drug trafficking proportionate?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "racial and social equity",
+    "wiki_title": "social equity",
+    "summary": "In debates over the death penalty, social equity is invoked to highlight how capital punishment is applied unevenly—disproportionately affecting racial minorities, the poor, and those with inadequate counsel—and to argue that these systemic disparities justify abolition or moratoriums. While some defenders respond by calling for procedural fixes, the social-equity frame generally strengthens claims that the death penalty is unjust because it violates substantive equality in punishment.",
+    "queries": [
+      "Is racial and social equity adequately addressed in the death penalty?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "naacp legal defense fund",
+    "wiki_title": "naacp legal defense and educational fund",
+    "summary": "The NAACP Legal Defense and Educational Fund frames the death penalty as a civil‑rights problem, using litigation, amicus briefs, and public advocacy to highlight racial bias, inadequate counsel, and wrongful convictions to argue against capital punishment or for moratoria and reforms. By documenting disparities in charging, sentencing, and jury selection it shapes public and judicial views that the death penalty is discriminatory and unreliable.",
+    "queries": [
+      "How do people view naacp legal defense fund’s stance on death penalty?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter frames the death penalty as a racially biased, state-sanctioned form of violence—citing sentencing disparities, wrongful convictions, and disproportionate harm to Black communities—to justify moratoriums, abolition, and broader criminal‑justice reform. In public debates BLM-aligned voices use this narrative to oppose capital punishment and push policy change, while opponents typically counter with law-and-order or deterrence arguments.",
+    "queries": [
+      "What effects has black lives matter had on death penalty debates?"
+    ]
+  },
+  {
+    "id": "C6-3-7",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "prison abolition",
+    "wiki_title": "prison abolition",
+    "summary": "Prison abolitionists frame the death penalty as the ultimate expression of a punitive, racist carceral logic and use that framing to argue for abolishing capital punishment alongside imprisonment, citing racial disparities, human-rights harm, and lack of proven deterrent value. They advocate commutations, moratoria, and restorative/community-based responses rather than incremental reforms that replace execution with long-term incarceration, which they see as perpetuating the same injustices.",
+    "queries": [
+      "How do people view prison abolition within death penalty discussions?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "racial bias",
+    "wiki_title": "racism",
+    "summary": "Racism is invoked in death-penalty debates to highlight systemic racial disparities—such as disproportionate death sentences for Black, Indigenous, and other marginalized defendants, racially biased jury selection, and prosecutorial discretion—which critics use to argue for abolition, moratoria, or major reforms. Supporters of capital punishment often downplay or contest these disparities to defend its legitimacy, so claims about racial bias become a central fault line shaping policy and public opinion.",
+    "queries": [
+      "Is racial bias in the death penalty justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "victim race effect",
+    "wiki_title": "identifiable victim effect",
+    "summary": "Pro-death-penalty advocates and prosecutors frequently foreground vivid individual victim stories and impact statements to evoke sympathy and moral outrage, boosting public and jury support for capital sentences. Critics counter that this emotionally driven focus—the identifiable victim effect—distorts policy debates by obscuring statistical evidence of wrongful convictions, racial disparities, limited deterrence, and the broader costs that argue for abolition or reform.",
+    "queries": [
+      "How do people view the victim race effect in capital punishment?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "prosecutorial discretion",
+    "wiki_title": "prosecutorial discretion",
+    "summary": "Decisions by prosecutors about whether to seek capital charges are central in death-penalty debates: supporters argue prosecutorial discretion allows morally sensitive, case-by-case use of the ultimate punishment, while critics use it to highlight arbitrariness, racial and geographic disparities, and the risk that personal, political, or resource factors—not consistent legal standards—determine who faces execution. That critique is often deployed to justify tighter charging guidelines, independent review, or outright abolition of the death penalty as a remedy for unequal and biased application.",
+    "queries": [
+      "Is prosecutorial discretion in death penalty cases justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "african americans",
+    "wiki_title": "african americans",
+    "summary": "References to African Americans are central to death-penalty debates as evidence of racial bias and unequal treatment—advocates for abolition or moratoria cite the disproportionate representation of Black defendants on death row, racially biased jury selection, and wrongful convictions to argue the punishment is unjust; supporters of capital punishment often counter with claims about crime rates or legal safeguards, framing disparities as the result of broader social factors rather than the death penalty itself.",
+    "queries": [
+      "What consequences has the death penalty had for african americans?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "furman v. georgia",
+    "wiki_title": "furman v. georgia",
+    "summary": "Furman v. Georgia is frequently cited by abolitionists to illustrate that capital punishment was being applied in an arbitrary, often discriminatory way and therefore cannot be trusted as a just policy, bolstering calls to abolish or overhaul the system; proponents, however, treat Furman as a demand for procedural reform (and point to subsequent cases) to justify retaining the death penalty under stricter, guided sentencing rules.",
+    "queries": [
+      "How do people view furman v. georgia today?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "bifurcated trial",
+    "wiki_title": "bifurcation",
+    "summary": "In death-penalty debates, 'bifurcation' is cited as a procedural safeguard—supporters argue separating guilt and sentencing phases reduces prejudice, protects due process, and allows juries to consider mitigating evidence fairly; opponents counter that it can complicate trials, produce inconsistent or less transparent outcomes, and be used strategically by either side, making it a flashpoint in arguments over the fairness and reliability of capital punishment.",
+    "queries": [
+      "How do people view the bifurcated trial procedure?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "william brennan",
+    "wiki_title": "william brennan",
+    "summary": "William Brennan is frequently invoked in death-penalty debates as a leading judicial critic who framed capital punishment as cruel, arbitrary, and incompatible with modern Eighth Amendment standards, bolstering abolitionist legal and moral arguments. His dissents are used by opponents of capital sentences to argue for repeal, while supporters cast his positions as judicial activism that overrides democratic choices.",
+    "queries": [
+      "What effects has william brennan had on death penalty policy?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "coerced confessions",
+    "wiki_title": "forced confession",
+    "summary": "In death-penalty debates, forced confessions are cited by critics as a key reason the state cannot reliably identify guilt, strengthening arguments that capital punishment risks executing innocent or vulnerable people and thus should be abolished or subject to moratoriums and stricter evidentiary safeguards. They are used to frame the death penalty as procedurally unjust and to push for excluding coerced statements, while defenders may counter by emphasizing procedural protections or limiting such cases as atypical.",
+    "queries": [
+      "Are coerced confessions reasonable in death penalty cases or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "victims and families",
+    "wiki_title": "victims family",
+    "summary": "In public debates over the death penalty, victims' families are often presented as moral authorities whose demands for retribution, closure, or symbolic justice are used to justify executions and support tough-on-crime policies. Conversely, families who oppose capital punishment—citing healing, forgiveness, fiscal and ethical concerns, or the risk of executing the innocent—are invoked by abolitionists to challenge the legitimacy and effectiveness of the death penalty.",
+    "queries": [
+      "How do people view victims and families in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "victim impact statement",
+    "wiki_title": "victim impact statement",
+    "summary": "In death-penalty debates, prosecutors and supporters cite victim impact statements to humanize victims, heighten perceived harm, and emotionally justify capital sentences as retribution or closure. Critics counter that they inflame juror bias, privilege emotion over consistent legal standards, exacerbate sentencing disparities, and sometimes bolster restorative or anti‑capital arguments when victims urge mercy.",
+    "queries": [
+      "Is a victim impact statement justified in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C7-1-1",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "payne v. tennessee",
+    "wiki_title": "payne v. tennessee",
+    "summary": "Payne v. Tennessee is invoked by death-penalty supporters to legitimize victim-impact evidence and expand juror discretion toward retribution and victim-centered justifications for capital sentences. Critics cite the decision to argue that such emotional testimony injects bias and arbitrariness into sentencing, fueling concerns about unfairness, racial disparities, and arguments for limiting or abolishing the death penalty.",
+    "queries": [
+      "How do people view Payne v. Tennessee’s effect on death penalty fairness?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "aggravating circumstances",
+    "wiki_title": "aggravation (law)",
+    "summary": "Prosecutors and death-penalty advocates invoke aggravating circumstances to argue that certain murders — e.g., those especially heinous, premeditated, or motivated by hate — merit capital punishment, framing the death penalty as a proportionate response to heightened culpability. Opponents use the same concept to criticize the practice, arguing aggravators are variably defined and applied, magnify racial and socioeconomic bias, and enable arbitrary or excessive use of the death sentence.",
+    "queries": [
+      "Are aggravating circumstances reasonable grounds for death penalty eligibility?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "marsy's law",
+    "wiki_title": "marsy's law",
+    "summary": "Marsy’s Law is frequently invoked in death-penalty debates to center victims’ families—used by proponents to justify capital sentences, demand victim input at sentencing, and press for finality or quicker executions—while critics argue it privileges victims’ wishes over defendants’ due process, can curtail appeals or clemency, and is rhetorically deployed to resist abolition or mitigation.",
+    "queries": [
+      "How do people view Marsy's Law regarding death penalty cases?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "ballot initiatives",
+    "wiki_title": "popular initiative",
+    "summary": "In death penalty debates, popular initiatives are used by proponents to bypass legislatures and claim direct democratic legitimacy for reinstating or expanding capital punishment, often framed with victims’-rights and ‘tough on crime’ messaging to mobilize voters. Critics counter that emotionally charged wording, misleading campaigns and paid signature drives can produce polarizing, hard-to-reverse policies, arguing such complex legal choices require legislative deliberation or stronger procedural safeguards.",
+    "queries": [
+      "How do people view ballot initiatives about the death penalty?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "parents of murdered children",
+    "wiki_title": "parents of murdered children memorial",
+    "summary": "Memorials for parents of murdered children are frequently invoked by pro‑death‑penalty advocates to humanize victims, legitimize retributive justice, and argue that execution offers closure and moral recognition of the loss. Critics and abolitionists counter that these memorials emphasize enduring grief and the harms of state violence, using them to promote restorative justice and argue that capital punishment neither heals families nor prevents future killings.",
+    "queries": [
+      "Are parents of murdered children justified in supporting the death penalty?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "closure",
+    "wiki_title": "closure",
+    "summary": "In death penalty debates, 'closure' is often invoked by prosecutors, victims' families, and proponents to justify executions as providing emotional or moral resolution and the sense that justice has been served. Critics respond that such closure is frequently illusory or exploited—arguing executions do not reliably heal trauma, can retraumatize survivors, and are used to obscure moral, practical, and systemic objections while promoting alternatives like life imprisonment or restorative justice.",
+    "queries": [
+      "Is closure from executions reasonable to expect in capital cases?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "victims' rights movement",
+    "wiki_title": "victims' rights",
+    "summary": "Proponents invoke victims' rights to justify the death penalty as a means to deliver retributive justice, honor victims’ dignity, and give families a central voice in sentencing. Critics counter that centering victims’ rights can perpetuate secondary victimization, legitimize retribution over rehabilitation or restorative remedies, and obscure risks of wrongful execution—strengthening arguments against capital punishment.",
+    "queries": [
+      "How do people view the victims' rights movement in death penalty debates?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "retribution",
+    "wiki_title": "retribution",
+    "summary": "Proponents invoke retribution to argue the death penalty is a morally necessary, proportionate response that gives offenders their ‘just deserts’ and affirms social order and victims’ closure. Critics counter that framing legitimizes state-sanctioned vengeance, sidelines rehabilitation and human-rights concerns, and masks unequal or arbitrary application of capital punishment.",
+    "queries": [
+      "Is retribution reasonable as justification for executions?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "clemency and pardons",
+    "wiki_title": "federal pardons in the united states",
+    "summary": "Federal pardons are invoked in death-penalty debates as an executive safety valve and moral corrective—used to justify mercy in individual cases, prevent wrongful executions, or call attention to systemic failures. Advocates for abolition lean on clemency as proof the system cannot reliably administer irreversible punishment, while critics say reliance on pardons highlights politicization and inconsistency rather than serving as a principled substitute for legal reform.",
+    "queries": [
+      "Do people think clemency and pardons are justified?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and advocacy",
+    "wiki_title": "advocacy",
+    "summary": "In death-penalty debates, advocacy organizations frame the issue either as necessary retribution and deterrence—mobilizing victims’ stories and crime-focused rhetoric to defend capital punishment—or as a wrongful, biased, and costly system—using exoneree cases, racial-disparity data, and moral/human-rights arguments to push for moratoria or abolition. These campaigns shape public opinion and political outcomes by influencing prosecutors, legislators, clemency decisions, and referendums through targeted media exposure and policy pressure.",
+    "queries": [
+      "Is media and advocacy around the death penalty justified or not?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "botched executions",
+    "wiki_title": "list of botched executions",
+    "summary": "A compiled list of botched executions is frequently cited by opponents to argue that capital punishment is inherently cruel, error-prone, and incompatible with humane or constitutional standards, strengthening calls for abolition or moratoria. Supporters or procedural reformers counter that such incidents are exceptions that justify tighter safeguards, training, or method changes rather than ending the death penalty.",
+    "queries": [
+      "Do botched executions affect public support for the death penalty?"
+    ]
+  },
+  {
+    "id": "C9-5-2",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "joseph wood",
+    "wiki_title": "joseph wood",
+    "summary": "Joseph Wood’s prolonged, visibly distressing 2014 execution is frequently invoked by opponents of capital punishment as stark evidence that lethal injection can be cruel, arbitrary, and constitutionally troubling, strengthening calls for abolition, moratoria, or heightened legal oversight of execution methods. Proponents and some policymakers, by contrast, point to the case as a procedural or drug-protocol failure to argue for reform of execution practices rather than abandonment of the death penalty itself.",
+    "queries": [
+      "How do people view Joseph Wood’s execution in the death penalty?"
+    ]
+  },
+  {
+    "id": "C9-8",
+    "parent": "C9",
+    "level": 2,
+    "topic": "the new york times",
+    "wiki_title": "the new york times",
+    "summary": "The New York Times shapes death-penalty debates by publishing investigative reports and editorials that highlight wrongful convictions, racial bias, legal errors, and botched executions, framing capital punishment as a flawed, unjust system that requires moratoria or abolition. While it runs occasional opposing op-eds, its editorial and news emphasis typically supports reform or repeal and aims to influence policymakers and public opinion toward limiting or ending the death penalty.",
+    "queries": [
+      "Is the new york times death penalty coverage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-6",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "texas executions",
+    "wiki_title": "lists of people executed in texas",
+    "summary": "Lists of people executed in Texas are frequently invoked in death-penalty debates as concrete evidence about how the punishment is applied: critics cite the high numbers, geographic and racial patterns, and cases later questioned for innocence to argue the system is arbitrary, biased, and grounds for abolition or moratoriums, while supporters point to the same lists as proof that verdicts are enforced, providing closure and deterrence. Advocates and researchers also use these lists to quantify trends and bolster calls either for reforms (e.g., transparency, legal safeguards) or for maintaining capital punishment as a tool of criminal justice.",
+    "queries": [
+      "Are texas executions justified within the death penalty system or not?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "death row exonerations",
+    "wiki_title": "exoneration",
+    "summary": "Exonerations—especially high-profile or posthumous ones—are wielded by death-penalty opponents to argue that capital punishment risks irreversible error and therefore warrants abolition, moratoria, or strict safeguards (e.g., mandatory DNA testing and independent review); advocates downplay their frequency or attribute them to procedural failures rather than the punishment itself, but even rare exonerations tend to erode public confidence and drive reforms around review, compensation, and prosecutorial accountability.",
+    "queries": [
+      "Should death row exonerations change death penalty policy or not?"
+    ]
+  },
+  {
+    "id": "C9-1-3",
+    "parent": "C9",
+    "level": 3,
+    "topic": "urgent action",
+    "wiki_title": "action alert",
+    "summary": "In death-penalty debates, action alerts are used by both abolitionist and retentionist groups to drive immediate public pressure—abolitionists typically push clemency petitions and emphasize wrongful convictions, racial bias, and costs to delegitimize capital punishment, while pro‑death‑penalty actors mobilize victims’ rights and deterrence narratives to defend or expand it. By urging rapid contacts with legislators, attendance at hearings, or petition signatures, these alerts frame the issue as an urgent moral or public‑safety decision requiring quick political action.",
+    "queries": [
+      "How do people view urgent action in death penalty policy?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9",
+    "level": 3,
+    "topic": "forensic science",
+    "wiki_title": "forensic science",
+    "summary": "Forensic science is often cited in death-penalty debates both to justify executions—when DNA, ballistics, or expert testimony is portrayed as conclusive proof of guilt—and to challenge them, as post-conviction DNA exonerations and revelations of flawed or overstated forensic methods fuel arguments about wrongful executions and call for moratoria or higher evidentiary standards. Public trust or skepticism in forensic reliability therefore directly shapes whether people favor capital punishment, reforms, or abolition.",
+    "queries": [
+      "How do people view forensic science in death penalty cases?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "innocence network",
+    "wiki_title": "innocence network",
+    "summary": "Innocence networks' documented exonerations are regularly cited by critics of capital punishment to argue that the death penalty is unacceptably error-prone and irreversible, strengthening calls for abolition, moratoria, or reforms such as universal DNA testing and automatic review of convictions. Supporters of the death penalty often portray these cases as rare anomalies or correctable system failures, using that framing to resist abolition and argue for targeted procedural fixes instead.",
+    "queries": [
+      "Is the innocence network’s role in death penalty cases justified or not?"
+    ]
+  }
+]

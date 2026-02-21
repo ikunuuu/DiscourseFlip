@@ -1,0 +1,1883 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "George Washington",
+    "wiki_title": "George Washington",
+    "summary": "George Washington is routinely invoked as the archetype of republican virtue and precedent-setting presidential conduct to justify arguments for national unity, restrained executive power, and nonpartisan statesmanship. At the same time critics cite his slaveholding, elite interests, and contested legacy to challenge heroic narratives, call for monument renaming or contextualization, and argue for more inclusive accounts of American history.",
+    "queries": [
+      "How do people view George Washington today?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "slavery and race",
+    "wiki_title": "slavery",
+    "summary": "Slavery is central to debates about Washington’s legacy: critics use his role as a substantial slaveholder to highlight hypocrisy between his liberty rhetoric and personal practice, arguing for removal or contextualization of honors, changes to curricula, and support for reparative measures; defenders point to his private misgivings and the emancipation provisions in his will (and to 18th‑century norms) to argue for nuance and against wholesale condemnation.",
+    "queries": [
+      "Is George Washington's position on slavery and race justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "mount vernon",
+    "wiki_title": "mount vernon",
+    "summary": "Mount Vernon is often invoked as a tangible symbol of Washington’s stature as a founding father and Virginia gentleman, used to romanticize his leadership, civic virtue, and the pastoral origins of the republic. It is also central to critiques that foreground his role as a slaveholder and to debates over how museum interpretation and preservation either confront or sanitize that contradiction, shaping arguments about national memory, race, and how to commemorate him.",
+    "queries": [
+      "How do people view Mount Vernon’s role in interpreting Washington’s legacy?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "ona judge",
+    "wiki_title": "ona judge",
+    "summary": "Ona Judge’s story is invoked to puncture the heroic founding‑father narrative of George Washington, used by critics to highlight his complicity in slavery and to justify calls for revised school curricula, museum interpretation, recontextualized monuments, and even reparative measures; defenders typically cite her case to argue for historical context and caution against presentist moral judgments of Washington.",
+    "queries": [
+      "How do people view Ona Judge’s decision to flee slavery?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "historic house museum",
+    "wiki_title": "historic house museum",
+    "summary": "Historic house museums such as Mount Vernon are frequently invoked to reinforce a reverent, foundational image of George Washington—using preserved rooms and artifacts to justify patriotic narratives, tourism funding, and elite preservation priorities. They are also focal points for criticism that museum interpretation has long sanitized Washington’s role as a slaveholder and marginalized enslaved peoples’ stories, fueling calls for more honest, inclusive exhibits and public-history policy changes.",
+    "queries": [
+      "Is funding for George Washington's historic house museum reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "martha washington",
+    "wiki_title": "martha washington",
+    "summary": "Martha Washington is often invoked to humanize and sanctify George Washington—portrayed as a devoted wife and model of republican domestic virtue—to bolster narratives of his moral character and steady, family-centered leadership. Conversely, critics point to her role in the plantation household and the management of enslaved labor to expose tensions between Washington’s republican ideals and the patriarchal, slaveholding realities of his private life, using her to complicate or condemn his legacy.",
+    "queries": [
+      "Was Martha Washington’s social prominence justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "first lady of the united states",
+    "wiki_title": "first lady of the united states",
+    "summary": "References to the First Lady in discussions of George Washington usually invoke Martha Washington as a precedent-setting presidential spouse to humanize him, justify the ceremonial trappings of the new executive, and argue that his household established early norms for civic domesticity and the dignity of the office. Critics and revisionist accounts use the same framing to complicate his legacy—pointing to Martha’s elite entertaining and the couple’s slaveholding—to argue that Washington’s republican virtue coexisted with elitism, gendered power, and moral contradictions that should shape how he is remembered and memorialized.",
+    "queries": [
+      "Is George Washington's first lady of the united states justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "dower rights",
+    "wiki_title": "dower",
+    "summary": "References to dower are often invoked in debates over Washington’s legacy to explain why not all enslaved people associated with his household could be emancipated — defenders cite legal dower rights and obligations to protect Martha’s life interest as justification for his limited manumissions, while critics use dower to portray Washington as complicit in preserving elite property and patriarchal inheritance systems that sustained slavery and concentrated wealth.",
+    "queries": [
+      "How do historians view dower rights in Washington’s era?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "john parke custis",
+    "wiki_title": "john parke custis",
+    "summary": "References to John Parke Custis are often used to humanize George Washington—highlighting his role as a devoted stepfather and estate manager to argue for Washington’s private virtues and domestic sacrifices—while Custis’s position as heir to a slaveholding estate is also invoked to complicate or criticize Washington’s legacy on slavery and his economic dependence on enslaved labor.",
+    "queries": [
+      "How do people view john parke custis within Washington's family circle?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "eleanor parke custis",
+    "wiki_title": "eleanor parke custis",
+    "summary": "Eleanor Parke Custis is frequently invoked to humanize Washington—his affectionate guardianship of his step‑granddaughter is cited by admirers to emphasize his domestic virtues and paternal character. Critics and historians, however, use her presence to underscore tensions in his legacy, arguing that his role as a devoted family patriarch did not translate into a consistent moral challenge to slavery or to the unequal social order he helped sustain.",
+    "queries": [
+      "Is Eleanor Parke Custis's role in Washington's household reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "manumission",
+    "wiki_title": "manumission",
+    "summary": "Manumission is used in arguments about Washington to bolster a narrative of moral evolution—his will freeing the people he owned is cited by defenders as evidence of enlightened, humane intent—while opponents use the delayed, conditional, and incomplete nature of that emancipation to argue it was insufficient, self-serving, and does not absolve his role as a slaveholder.",
+    "queries": [
+      "How do people view Washington's manumission?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "william lee",
+    "wiki_title": "william lee",
+    "summary": "References to William Lee are frequently invoked to expose the tension between George Washington’s image as a liberty-loving founding father and his role in slavery, with critics using Lee to argue hypocrisy and to demand fuller, reparative interpretation of Washington’s legacy in museums, schools, and public policy. Defenders, by contrast, sometimes point to Washington’s personal relationship with Lee or his late-life actions regarding emancipation to soften criticism and argue for a more nuanced or sympathetic reading of Washington’s character.",
+    "queries": [
+      "Is George Washington’s treatment of william lee justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "gradual emancipation",
+    "wiki_title": "gradual emancipation (united states)",
+    "summary": "In debates about George Washington, proponents use ‘gradual emancipation’ to cast him as a pragmatic, morally evolving leader who favored phased or compensated ends to slavery and took measured steps (e.g., provisions in his will) toward that goal; critics use the same frame to argue that appeals to gradualism excuse his continued use of enslaved labor and fall short of the moral urgency demanded by abolitionists, portraying his actions as cautious compromise rather than full commitment to racial justice.",
+    "queries": [
+      "How do people view gradual emancipation under George Washington?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "dunmore's proclamation",
+    "wiki_title": "dunmore's proclamation",
+    "summary": "Dunmore's Proclamation is often invoked to criticize George Washington as a leader who prioritized slaveholding and social order—arguing that the British promise of freedom forced him into cautious, security-first policies rather than moral opposition to slavery—and to challenge the image of Washington as a consistent advocate of liberty. Defenders counter that his measured reaction (and later limited use of Black troops) reflects military pragmatism and political constraints in Revolutionary Virginia rather than outright support for emancipation.",
+    "queries": [
+      "Was dunmore's proclamation justified during George Washington's time?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "lord dunmore",
+    "wiki_title": "lord dunmore's war",
+    "summary": "References to Lord Dunmore’s War are used to place Washington in the context of the Virginia planter‑military elite, framing him as shaped by frontier defense and conflicts over Indigenous lands and royal authority; critics cite that context to portray him as complicit in settler colonial violence and expansionism, while defenders use it to emphasize his early military credentials and commitment to protecting colonial communities.",
+    "queries": [
+      "Is Lord Dunmore’s response to colonial unrest reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ethiopian regiment",
+    "wiki_title": "royal ethiopian regiment",
+    "summary": "References to the Royal Ethiopian Regiment are invoked in debates about George Washington to underscore the Revolution’s racial contradictions—critics point to the British offer of freedom to enslaved men (via Dunmore’s regiment) as exposing Washington’s reluctance to arm or emancipate Black people and as evidence of his compromise between liberty rhetoric and slaveholding; supporters tend to frame the episode as a pragmatic pressure that forced Washington into limited recruitment rather than proof of abolitionist intent.",
+    "queries": [
+      "How do people view the ethiopian regiment under George Washington?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "black loyalists",
+    "wiki_title": "black loyalist",
+    "summary": "References to Black Loyalists are used to challenge George Washington’s image as a champion of liberty by pointing out that enslaved people fled Patriot control for British promises of freedom, highlighting contradictions between his leadership and slaveholding. Defenders counter that their flight reflects wartime legal and social constraints rather than Washington’s singular malice, a framing that influences debates over his legacy, monuments, teaching, and calls for reparative measures.",
+    "queries": [
+      "Was George Washington's treatment of black loyalists justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "slave insurrection fears",
+    "wiki_title": "slave rebellion",
+    "summary": "References to slave rebellions (e.g., Haiti, Gabriel’s planned uprising) are often invoked to argue that Washington prioritized property, social order and elite stability over immediate emancipation—shaping critiques of his policies as oriented toward suppressing insurrection and preserving the slave system—while defenders point to his eventual manumission of his own slaves as evidence of moral evolution and pragmatic restraint rather than endorsement of revolt.",
+    "queries": [
+      "Are slave insurrection fears reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "virginia militia",
+    "wiki_title": "virginian militia",
+    "summary": "Washington’s service in the Virginia militia is frequently invoked to cast him as a self-made frontier leader and exemplar of the citizen‑soldier, bolstering arguments that his military authority and preference for civilian control legitimized the Revolutionary cause and early republican distrust of standing armies. Critics point to his militia setbacks and ultimate reliance on a professional Continental Army to challenge myths of infallible competence and to temper claims by modern militia or gun‑rights advocates who seek to hold him up as a simple precedent for contemporary paramilitary or anti‑federal positions.",
+    "queries": [
+      "How do people view the virginia militia's conduct during early conflicts?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "continental congress",
+    "wiki_title": "continental congress",
+    "summary": "The Continental Congress is often invoked to legitimize Washington’s image as a consensual, civilian leader—his selection, commissioning, and later resignation are used to argue he embodied republican virtues and subordination of the military to civilian authority. Conversely, critics point to Congress’s constraints, resource shortfalls, and elite character to portray Washington as either constrained by or complicit with a legislative establishment that limited popular democracy or his independent authority.",
+    "queries": [
+      "Was the Continental Congress’s selection of Washington justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2",
+    "level": 3,
+    "topic": "ann pamela cunningham",
+    "wiki_title": "ann pamela cunningham",
+    "summary": "Cunningham is frequently cited to legitimize reverent, preservation-focused portrayals of George Washington—her 19th‑century campaign to save Mount Vernon is used to argue for honoring his memory, promoting heritage tourism, and highlighting women's civic stewardship of the founding era. Critics, however, use her as an example of selective commemoration that helped sanitize plantation slavery and entrench a heroic founder narrative, arguing for more critical and inclusive interpretations of Washington's life.",
+    "queries": [
+      "How do people view ann pamela cunningham’s role in Washington preservation?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "historic preservation movement",
+    "wiki_title": "historic preservation",
+    "summary": "Historic preservation of Washington’s homes, monuments, and battlefields is often invoked to defend reverent, nation‑building narratives, secure public funding and legal protections for sites like Mount Vernon and the Washington Monument, and resist removal or alteration of commemorative landscapes. Critics use preservation debates to challenge sanitized portrayals, demand interpretation that foregrounds his role as a slaveowner, or argue that preservation priorities can reinforce elite, exclusionary memories at the expense of present social justice needs.",
+    "queries": [
+      "Is the historic preservation movement around George Washington justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "national park service",
+    "wiki_title": "national park service",
+    "summary": "The National Park Service shapes public views of George Washington through how it preserves and interprets sites and memorials tied to him—framing him either as a heroic founding father in patriotic displays or, when exhibits emphasize his slavery and the Indigenous displacement of the era, as a more conflicted historical figure. Those interpretive choices feed political debates: critics decry ‘revisionist’ reinterpretations and removal of hagiography, while advocates argue for fuller contextualization and truth-telling at federal historic sites.",
+    "queries": [
+      "What impacts does the national park service have on George Washington’s legacy?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter activists invoke George Washington’s role as a slaveholding founding father to challenge uncritical veneration, urging removal or contextualization of his statues, renaming of institutions, and curricular reforms that acknowledge enslaved people and systemic racism. Opponents often frame BLM’s demands as an attack on national heritage, using them to defend Washington’s iconic status and reject ‘‘cancel culture’’ reforms.",
+    "queries": [
+      "Is black lives matter relevant to evaluating George Washington’s legacy?"
+    ]
+  },
+  {
+    "id": "C2-6-8",
+    "parent": "C2",
+    "level": 3,
+    "topic": "equestrian statue",
+    "wiki_title": "equestrian statue",
+    "summary": "Equestrian statues of George Washington are invoked as powerful symbols of martial leadership and foundational authority—used by supporters to legitimize his heroic, unifying status and by critics to spotlight his role as a slaveholding military elite and to argue against celebratory public monuments. Debates about these statues often drive policy fights over removal, relocation to museums, or contextualization plaques, reflecting broader disputes over public memory, race, and who deserves civic honor.",
+    "queries": [
+      "Is the equestrian statue of George Washington justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "black patriots",
+    "wiki_title": "black patriot",
+    "summary": "References to Black patriots are used to complicate George Washington’s legacy—supporters invoke Black soldiers’ service under his command to portray him as a pragmatic leader who included Black contributions to the founding, while critics cite their service to underscore the hypocrisy of his slaveholding and press for a more critical, multiracial accounting of his role in American history.",
+    "queries": [
+      "Is George Washington’s treatment of black patriots justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "peter salem",
+    "wiki_title": "peter salem",
+    "summary": "Peter Salem is invoked to complicate or defend Washington’s legacy: critics and Black-history advocates cite his service to highlight the contributions of African American patriots and to condemn Washington’s slaveholding and the erasure of Black veterans, while celebratory narratives point to Salem to argue Washington led a broadly inclusive Revolutionary army and to soften criticisms of his record on slavery.",
+    "queries": [
+      "Is peter salem’s recognition in George Washington histories justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "james armistead lafayette",
+    "wiki_title": "james armistead lafayette",
+    "summary": "James Armistead Lafayette’s service as an enslaved spy whose intelligence helped secure victory at Yorktown is frequently invoked to complicate celebratory narratives about George Washington—used both to acknowledge that Washington’s success relied on Black sacrifice and to criticize him for remaining a slaveholder who did not adequately honor or emancipate Black contributors. Advocates and historians cite Armistead to push for more inclusive memorials and interpretations of Washington that confront slavery and demand recognition or reparative measures for overlooked African American patriots.",
+    "queries": [
+      "Is George Washington’s support for James Armistead Lafayette justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "1st rhode island regiment",
+    "wiki_title": "1st rhode island regiment",
+    "summary": "The 1st Rhode Island Regiment is cited in arguments about George Washington to show that his army accepted racially integrated service when it suited military needs, feeding portrayals of Washington as either a pragmatic leader who tolerated Black enlistment or as a commander whose actions on race were tactical rather than principled. Supporters use it to soften critiques of Washington’s slaveholding, while critics use it to argue his acceptance of Black soldiers reflected expediency, not a commitment to abolition.",
+    "queries": [
+      "Was the 1st Rhode Island Regiment’s role under Washington justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "african americans in the american revolution",
+    "wiki_title": "african americans in the revolutionary war",
+    "summary": "Debates about African Americans in the Revolutionary War are often invoked to attack Washington’s moral credibility—portraying him as a slaveholder whose commitment to liberty was hypocritical and driving calls to reassess monuments, school curricula, and reparative policies. Conversely, defenders point to Black Patriot service to argue for a more nuanced legacy of Washington as a pragmatic leader who evolved incrementally, supporting contextualized commemoration rather than erasure.",
+    "queries": [
+      "Are African Americans in the American Revolution fairly represented?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "executive power and precedent",
+    "wiki_title": "unitary executive theory",
+    "summary": "Advocates invoke Washington as the exemplar founder who centralized executive authority—pointing to his decisive leadership and precedent-setting actions—to argue that the presidency was meant to control the entire executive branch; critics counter that Washington’s restraint, reliance on Congress and cabinet advice, and institution-building show he favored limited, accountable executive power and do not justify modern expansive claims.",
+    "queries": [
+      "Is George Washington’s executive power and precedent justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "farewell address",
+    "wiki_title": "farewell speech",
+    "summary": "Washington's Farewell Address is frequently invoked to legitimize policy stances—especially isolationist foreign policy, warnings against political parties, and the civic virtue of voluntary retirement—casting Washington as a precedent-setting, disinterested founder. Critics reply that the Address is historically specific and often cherry-picked, used either to block international engagement or to claim immutable 'founders' intent' in partisan disputes.",
+    "queries": [
+      "What consequences has Washington's farewell address caused?"
+    ]
+  },
+  {
+    "id": "C3-1-2",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "federalist party",
+    "wiki_title": "federalist party",
+    "summary": "In debates about George Washington, the Federalist Party is invoked to portray him as a founder whose policies validated a strong, pro‑commerce national government and conciliatory ties with Britain; defenders cite that Federalist alignment to justify his precedent‑setting use of federal power, while critics use it to argue he favored elite, Anglophile interests and was not the purely nonpartisan leader he presented himself as.",
+    "queries": [
+      "Was George Washington’s support for the federalist party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "non-interventionism",
+    "wiki_title": "non-interventionism",
+    "summary": "Arguments invoking non-interventionism cast Washington as the founding advocate of avoiding entangling alliances and overseas military adventures, using his Farewell Address and neutrality policies to justify modern restraint and opposition to foreign wars. Critics counter that Washington’s selective engagements and domestic enforcement show pragmatic statecraft rather than rigid isolationism, so appeals to him are often framed to support either limited international involvement or to reject absolutist non‑interventionist readings.",
+    "queries": [
+      "Is George Washington's non-interventionism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "sectionalism",
+    "wiki_title": "sectionalism",
+    "summary": "Washington’s warnings about regional factions in his Farewell Address are often cited to portray him as a defender of national unity who opposed North–South partisanship, and to justify federal policies aimed at tempering sectional rivalries.  Opposing readings invoke his compromises with Southern slaveholders to argue that he sometimes prioritized union over justice, a stance critics say helped entrench the very sectional divides later blamed for civil conflict.",
+    "queries": [
+      "How do people view sectionalism in George Washington’s era?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "twenty-second amendment",
+    "wiki_title": "twenty-second amendment to the united states constitution",
+    "summary": "The Twenty‑second Amendment is invoked against the backdrop of Washington’s voluntary two‑term precedent: advocates of hard term limits point to his refusal to cling to power as moral justification for legally binding limits, while critics counter that Washington’s example supports relying on republican virtue and electoral choice rather than a constitutional cap.",
+    "queries": [
+      "What effects has the twenty-second amendment produced?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "two-term tradition",
+    "wiki_title": "term limits in the united states",
+    "summary": "Washington’s voluntary retirement after two terms is routinely invoked as the founding-era exemplar of restraint and non‑entrenchment, used to justify presidential term limits and to criticize leaders who seek to extend power.  Opponents of strict caps also point to his unique circumstances to argue his precedent shouldn’t rigidly constrain exceptional leaders, so his example is cited on both sides of the term‑limits debate.",
+    "queries": [
+      "How do people view the two-term tradition from George Washington?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "franklin d. roosevelt",
+    "wiki_title": "franklin d. roosevelt",
+    "summary": "Franklin D. Roosevelt is invoked in debates about George Washington as a foil and contrast: critics point to FDR’s four terms and New Deal expansion of federal power to argue later presidents abandoned Washington’s norms of limited, nonpartisan leadership and voluntary two-term retirement, while defenders portray FDR’s strong crisis-era presidency as a necessary evolution that reframes rather than repudiates Washington’s precedents.",
+    "queries": [
+      "Was franklin d. roosevelt’s expansion of executive power justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "presidential term limits",
+    "wiki_title": "term limit",
+    "summary": "Washington’s voluntary refusal to seek a third term is routinely invoked as the exemplar of republican virtue, used to justify limits on executive tenure and the peaceful transfer of power; conversely, opponents of power consolidation invoke his precedent to criticize modern leaders who cling to office. Debates about whether term limits should be constitutionalized often cite Washington—some argue his personal restraint shows norms can work, while others point to his example as reason to formalize limits to prevent authoritarian backsliding.",
+    "queries": [
+      "How do people view presidential term limits today?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "proclamation of neutrality",
+    "wiki_title": "proclamation of neutrality",
+    "summary": "Washington’s Proclamation of Neutrality is often invoked to cast him as a pragmatic, precedent-setting founder who prioritized American independence from European wars and broadened executive authority in foreign policy, used by supporters to justify restrained or realist U.S. diplomacy. Critics, however, cite the proclamation to portray Washington as siding with commercial/Anglophile elites, suppressing pro-French republican sentiment, and creating a troubling precedent for executive overreach in shaping national policy.",
+    "queries": [
+      "How do people view Washington's proclamation of neutrality?"
+    ]
+  },
+  {
+    "id": "C3-3-4",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "neutrality act of 1794",
+    "wiki_title": "neutrality act of 1794",
+    "summary": "The Neutrality Act of 1794 is often invoked to portray Washington as a pragmatic, law‑bound leader who prioritized American neutrality and federal authority in foreign policy, reinforcing narratives of him as a sober steward who restrained pro‑French popular impulses. Critics use it to argue he favored elite commercial and state stability interests over revolutionary solidarity and popular republicanism, framing his presidency as one that expanded executive power at the expense of grassroots foreign policy preferences.",
+    "queries": [
+      "Was the Neutrality Act of 1794 appropriate for Washington's presidency?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "jay treaty",
+    "wiki_title": "jay treaty",
+    "summary": "Washington’s support for the Jay Treaty is often cited to justify his image as a pragmatic, neutrality‑focused statesman who prioritized economic stability and avoided war, while critics use it to portray him as aligned with Hamiltonian, pro‑British elites who weakened republican principles and fueled partisan divisions.",
+    "queries": [
+      "How do people view the jay treaty today?"
+    ]
+  },
+  {
+    "id": "C3-3-7",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "executive authority",
+    "wiki_title": "executive (government)",
+    "summary": "Arguments about the executive frequently invoke Washington as the foundational model whose actions—using federal force in the Whiskey Rebellion, defining commander-in-chief powers, and voluntarily relinquishing power—are cited to legitimize a strong, independent presidency while also establishing norms of restraint and peaceful transfer. Supporters point to him to justify decisive executive action and nonpartisanship; critics use his federal-strengthening moves and elite appointments to argue for limits on executive overreach and greater democratic accountability.",
+    "queries": [
+      "Was George Washington’s executive authority justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "whiskey rebellion",
+    "wiki_title": "whiskey rebellion",
+    "summary": "The Whiskey Rebellion is often invoked to cast Washington as a decisive defender of federal authority whose willingness to use force is credited with securing the Constitution’s power to enforce law; conversely, critics use it to argue he set a dangerous precedent for executive overreach and militarized domestic policy, shaping debates over limits on presidential power and federal coercion.",
+    "queries": [
+      "Was using military force in the Whiskey Rebellion reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "excise tax",
+    "wiki_title": "excise",
+    "summary": "Debates over the federal excise on distilled spirits (the Whiskey Tax) are used to cast Washington either as a pragmatic leader who enforced taxation to secure the new republic’s finances and rule of law, or as an authoritarian figure who betrayed revolutionary anti‑tax sentiment by using federal force to suppress popular protest — framing his legacy around fiscal necessity versus perceived overreach.",
+    "queries": [
+      "Is George Washington’s excise tax reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "militia act of 1792",
+    "wiki_title": "militia acts of 1792",
+    "summary": "References to the Militia Acts of 1792 are used to depict Washington as the founder who asserted federal control over military force and set a precedent for using federal troops to enforce order (as in the Whiskey Rebellion), reinforcing portrayals of him as a decisive guardian of the Constitution. Opponents invoke the same Acts to argue he centralized military power and tolerated restrictions on civil liberties, framing his legacy as an early instance of executive overreach.",
+    "queries": [
+      "Is the Militia Act of 1792 justified under Washington's leadership?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "pittsburgh",
+    "wiki_title": "pittsburgh",
+    "summary": "Pittsburgh and the surrounding western Pennsylvania frontier are often invoked in debates about Washington’s legacy — defenders point to his decisive suppression of the Whiskey Rebellion near Pittsburgh as proof he preserved the rule of law and federal authority, while critics use the same episode to accuse him of elitist overreach. The city’s role in the Ohio Valley struggles (e.g., Fort Duquesne) is also cited to frame Washington as a driver of westward expansion and Indigenous dispossession, shaping views that he was either a necessary nation-builder or a settler‑colonial aggressor.",
+    "queries": [
+      "How do people view pittsburgh’s historical ties to Washington?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "democratic-republican party",
+    "wiki_title": "democratic-republican party",
+    "summary": "Invocations of the Democratic-Republican Party are used to criticize Washington for presiding over an administration that Democratic-Republicans accused of Federalist centralization and favoritism toward Hamiltonian fiscal and diplomatic policies. Conversely, the party is also cited to argue that Washington’s farewell warnings about factionalism conflicted with his tacit support for a strong federal government, framing debates about his true commitment to states' rights and limited government.",
+    "queries": [
+      "How do people view the democratic-republican party’s role regarding Washington?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "federalism in the united states",
+    "wiki_title": "federalism in the united states",
+    "summary": "Debates about federalism use Washington as a precedent-setter: his support for national institutions and his forceful response to the Whiskey Rebellion are cited to justify a strong central government and expansive executive authority. Conversely, states'-rights advocates invoke federalism to criticize Washington for centralizing power and to argue for limiting the federal reach he helped normalize.",
+    "queries": [
+      "Is federalism in the united states reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "presidential cabinet",
+    "wiki_title": "cabinet (government)",
+    "summary": "Washington’s formation and use of the first presidential cabinet is often cited to justify a strong, advisor-driven presidency and the norm of relying on expert departmental heads for policy and administration; conversely, critics invoke the factional battles within his cabinet (especially Hamilton vs. Jefferson) to warn against executive overreach, partisan influence, and centralization set during his administration.",
+    "queries": [
+      "What impacts did Washington's presidential cabinet have on governance?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "henry knox",
+    "wiki_title": "henry knox",
+    "summary": "Henry Knox is often invoked to illustrate Washington's role as a military organizer and cabinet-building founder—his close partnership with Knox supports portrayals of Washington as a pragmatic, institution-building leader who professionalized the army and relied on trusted veterans. Conversely, Knox's advocacy for aggressive frontier and Indian policies is cited to critique Washington's presidency as complicit in militarized westward expansion and coercive Native American policy.",
+    "queries": [
+      "How do people view henry knox's leadership during the Revolution?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "edmund randolph",
+    "wiki_title": "edmund randolph",
+    "summary": "As Washington’s first Attorney General and later Secretary of State, Edmund Randolph is often invoked in debates over Washington’s choice of advisors and the early republic’s handling of executive power and foreign neutrality. Critics point to Randolph’s later controversies and resignation to argue Washington showed poor judgment or tolerated weak loyalty in his cabinet, while defenders use Randolph’s experience and service to justify Washington’s pragmatic, coalition-building leadership.",
+    "queries": [
+      "Were edmund randolph’s political choices justified in Washington-era debates?"
+    ]
+  },
+  {
+    "id": "C3-5-5",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "jefferson–hamilton rivalry",
+    "wiki_title": "burr–hamilton duel",
+    "summary": "The Burr–Hamilton duel is frequently cited in discussions of Washington’s legacy as evidence that his warnings about partisan factionalism and the erosion of civic virtue were prophetic, used to justify arguments for stronger norms or institutions to prevent political violence. Conversely, critics invoke the duel to argue that Washington and his contemporaries failed to check an honor-driven, factional culture they helped create, undermining his image as guarantor of republican stability.",
+    "queries": [
+      "Was the jefferson–hamilton rivalry reasonable during Washington's presidency or not?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "secretary of state",
+    "wiki_title": "secretary of state",
+    "summary": "Washington’s choices and interactions with his secretaries of state are often invoked to portray him as an institution-builder and conciliatory leader—appointing rivals to cabinet posts (most famously Jefferson) is used to justify his commitment to balanced, civilian-led governance and to defend a cautious, nonpartisan foreign policy. Critics, however, point to the secretary of state’s prominence and the Jefferson–Hamilton cabinet conflicts to argue Washington enabled partisan power dynamics and centralized executive influence, a precedent cited in debates over the scope of presidential appointments and administrative authority.",
+    "queries": [
+      "How do people view the secretary of state's role in Washington's cabinet?"
+    ]
+  },
+  {
+    "id": "C3-5-8",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "secretary of the treasury",
+    "wiki_title": "united states secretary of the treasury",
+    "summary": "Washington’s choice of the United States Secretary of the Treasury—most notably his appointment of Alexander Hamilton—is often invoked to cast him as a nation-builder who prioritized a strong federal financial system, central banking, and pragmatic fiscal authority. Critics, conversely, point to Treasury-backed policies (debt assumption, banking) to argue Washington favored elite creditors and centralized power at the expense of republican/agrarian ideals.",
+    "queries": [
+      "Was Washington’s selection of secretary of the treasury justified?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "presidential veto",
+    "wiki_title": "veto",
+    "summary": "In discussions of George Washington, the veto is invoked to frame him as a model of restrained, constitutionally cautious executive power—his sparing use of the veto is cited by advocates of limited presidential authority and deference to Congress. Conversely, opponents of modern expansive vetoes use Washington’s example to criticize aggressive unilateralism and argue contemporary presidents have departed from his precedent.",
+    "queries": [
+      "How do people view Washington’s presidential veto?"
+    ]
+  },
+  {
+    "id": "C3-6-1",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "apportionment act of 1792",
+    "wiki_title": "apportionment act of 1792",
+    "summary": "The Apportionment Act of 1792 is often invoked in discussions of Washington to portray his administration as shaping the young republic’s political architecture—praised by some as pragmatic institution-building that stabilized governance, and criticized by others as acquiescing to Federalist formulas that entrenched unequal representation and bolstered slaveholding states’ influence.",
+    "queries": [
+      "What consequences has the apportionment act of 1792 had?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "1st united states congress",
+    "wiki_title": "1st united states congress",
+    "summary": "References to the 1st United States Congress are used to frame Washington either as the collaborative architect of the new federal government—working with Congress to establish the judiciary, a revenue system, and the Bill of Rights—or as a leader whose policy legacy (especially debt assumption and early federal powers) was shaped and sometimes criticized as being driven by Congressional and cabinet influence rather than purely independent presidential vision.",
+    "queries": [
+      "Is the 1st United States Congress's legislation during Washington reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "separation of powers",
+    "wiki_title": "separation of powers",
+    "summary": "In debates about Washington, separation of powers is invoked to portray him either as the model of a restrained, constitutionally bounded executive—cited for his deference to Congress, judicial appointments and the two‑term precedent—or as evidence that decisive, centralized presidential action can be legitimate, given his wartime authority and pivotal role at the Constitutional Convention. Consequently, advocates of limiting modern presidents point to Washington’s institutional restraint, while proponents of a strong executive emphasize his pragmatic use of federal power when national survival or order was at stake.",
+    "queries": [
+      "Is separation of powers in Washington's government reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "list of united states presidential vetoes",
+    "wiki_title": "list of united states presidential vetoes",
+    "summary": "Observers cite the record of presidential vetoes to frame Washington either as a model of restrained, nonpartisan leadership whose sparing use of the veto set an early precedent of deference to Congress, or conversely as an origin point for executive assertion when his few vetoes are invoked to justify stronger presidential checks on legislation. Debates about executive power and constitutional interpretation often reference this list to support arguments for limited versus robust presidential authority rooted in Washington’s practice.",
+    "queries": [
+      "How do people view the list of united states presidential vetoes?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "peaceful transfer of power",
+    "wiki_title": "peaceful transition of power",
+    "summary": "Washington’s voluntary relinquishment of power is cited as the founding exemplar of peaceful transfer, used to praise his civic restraint and justify norms like term limits and limited executive ambition; it is also invoked to criticize modern leaders who cling to power or to argue that American democracy rests on elite precedent rather than continuous popular consent.",
+    "queries": [
+      "Is George Washington’s peaceful transfer of power reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "john adams",
+    "wiki_title": "john adams",
+    "summary": "John Adams is invoked as a foil to Washington: supporters of a strong, independent presidency point to Adams’s insistence on executive authority and neutrality as a continuation of Washingtonian precedent, while critics cite Adams’s partisan clashes and repressive policies to argue that Washington’s deference to Federalist institutions helped enable an over‑powerful, faction‑driven executive.",
+    "queries": [
+      "How do people view John Adams’s influence on George Washington?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "civilian control of military",
+    "wiki_title": "civil control of the military",
+    "summary": "Supporters of civilian control point to Washington’s resignation of his commission and rejection of monarchic temptations as the founding exemplar who subordinated the army to republican authority, using his example to argue for strong civilian oversight and limits on executive military power. Opponents or skeptics either downplay that restraint or invoke Washington to criticize modern leaders who centralize military authority as betraying his precedent.",
+    "queries": [
+      "Was George Washington’s support for civilian control of military justified?"
+    ]
+  },
+  {
+    "id": "C3-7-7",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "presidential transition",
+    "wiki_title": "presidential transition",
+    "summary": "References to presidential transitions commonly invoke George Washington’s voluntary handover of power as the founding exemplar of peaceful, constitutional transfer and two-term restraint, used to justify norms of orderly inaugurations, limits on executive ambition, and civic virtue. Critics say such invocations are often idealized or anachronistic and are selectively deployed to attack contemporary leaders or to defend institutional continuity over necessary change.",
+    "queries": [
+      "Is George Washington's presidential transition justified or not?"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "parent": "C3",
+    "level": 2,
+    "topic": "commander-in-chief",
+    "wiki_title": "commander-in-chief",
+    "summary": "References to Washington as commander‑in‑chief are frequently used to frame him as the founding model for civilian control of the military and constitutional restraint—cited by those arguing for limits on presidential war powers and norms like peaceful transfer of authority. Conversely, opponents or realists invoke his decisive wartime leadership to justify a strong, assertive executive in times of crisis.",
+    "queries": [
+      "How do people view commander-in-chief decisions during Washington’s leadership?"
+    ]
+  },
+  {
+    "id": "C3-8-5",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "civil-military relations",
+    "wiki_title": "civil–military relations",
+    "summary": "Invocations of civil–military relations portray Washington as the founding exemplar who subordinated military authority to civilian rule—his resignation and rejection of monarchical power are used to justify civilian control, nonpartisan armed forces, and norms against military intervention in politics. Critics and defenders alike cite that precedent to attack contemporary military politicization or to demand stronger civilian oversight of generals and veterans in public life.",
+    "queries": [
+      "What consequences did Washington’s civil-military relations have?"
+    ]
+  },
+  {
+    "id": "C3-8-7",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "presidential war powers",
+    "wiki_title": "war powers clause",
+    "summary": "The War Powers Clause is invoked in debates about George Washington to either laud his precedent of limited, constitutionally grounded military authority—emphasizing his restraint and reliance on militias and Congress—or to critique him for asserting robust executive power (e.g., during the Whiskey Rebellion and neutrality enforcement), making him a touchstone for arguments about presidential war-making and separation of powers.",
+    "queries": [
+      "What consequences have presidential war powers had for U.S. constitutional norms?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "monuments and memorials",
+    "wiki_title": "lists of monuments and memorials",
+    "summary": "Catalogs of Washington monuments and memorials are used by supporters to demonstrate his national significance and to justify preservation, public funding, and patriotic education tied to his image as a founding father. Critics and activists use the same lists to highlight the ubiquity and geography of his commemoration as evidence of a sanitized public memory, arguing for contextual plaques, reinterpretation, or removal because of his slaveholding and contested legacy.",
+    "queries": [
+      "How do people view monuments and memorials honoring George Washington?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "washington monument",
+    "wiki_title": "washington monument",
+    "summary": "The Washington Monument is often invoked as a powerful symbol to legitimize reverent, unifying narratives of George Washington as the indispensable Father of the Republic and to lend historical authority to contemporary leaders and patriotic causes. Critics, however, use debates over the monument to challenge that celebratory framing—arguing its prominence can whitewash Washington’s slaveholding and exclusionary founding myths and therefore should be contextualized or reinterpreted rather than simply venerated.",
+    "queries": [
+      "How do people view the role of the washington monument?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "robert mills",
+    "wiki_title": "robert mills",
+    "summary": "Architect Robert Mills — best known for his work on the Washington Monument — is cited in debates about how George Washington should be remembered: his neoclassical, monumental designs are used to justify portraying Washington as a timeless republican hero through grand, apolitical memorials, while critics point to those same designs and the monumentization process to argue that Washington’s legacy has been mythologized and simplified, obscuring moral and political complexities.",
+    "queries": [
+      "What effects has Robert Mills had on George Washington's public image?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "freemasonry",
+    "wiki_title": "freemasonry",
+    "summary": "Washington’s membership in Freemasonry is often invoked to frame him as an Enlightenment‑minded, civic leader who valued fraternity, religious tolerance, and secular republican principles; conversely, critics and conspiracy theorists point to his Masonic ties to suggest secret influence, anti‑Christian motives, or hidden agendas behind the founding era.",
+    "queries": [
+      "Is George Washington's freemasonry justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "2011 virginia earthquake",
+    "wiki_title": "2011 virginia earthquake",
+    "summary": "When the 2011 Virginia earthquake damaged national memorials associated with Washington (notably the Washington Monument), it was invoked in debates to justify increased funding, preservation and seismic retrofitting of sites tied to George Washington and the nation’s founding; conversely, others cited the repair costs to criticize prioritizing monument restoration over social spending, or used the quake as a metaphor to question the durability of Washington’s legacy.",
+    "queries": [
+      "Was the 2011 Virginia earthquake's impact on George Washington landmarks significant?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "slave quarters",
+    "wiki_title": "slave quarters",
+    "summary": "The presence and interpretation of Washington’s slave quarters at Mount Vernon are frequently invoked to expose the contradiction between his republican ideals and his status as a slaveholder, driving calls from critics to reframe museum narratives, school curricula, and monuments to center the lives and labor of the enslaved. Defenders tend to downplay or contextualize the quarters as period practice or evidence of paternal stewardship, using them to argue against renaming, removal of honors, or expansive reparative policies, so the quarters function as a focal point in debates over reckoning versus commemoration.",
+    "queries": [
+      "Is George Washington’s slave quarters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "plantation tourism",
+    "wiki_title": "plantation complexes in the southern united states",
+    "summary": "Southern plantation complexes, especially Mount Vernon, are often invoked to criticize Washington as a slaveholding elite whose practices contradicted his rhetoric about liberty, while defenders frame them as context for his leadership and agricultural stewardship. These sites also fuel policy and memory debates—driving calls for reinterpretation, curriculum changes, reparative measures, or, conversely, preservation as part of national heritage.",
+    "queries": [
+      "Is plantation tourism at George Washington sites appropriate or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "mount rushmore",
+    "wiki_title": "mount rushmore",
+    "summary": "Mount Rushmore’s giant likeness of George Washington is frequently invoked by patriotic defenders to symbolize his central, heroic role in the nation’s founding and to justify preserving monuments, civic education, and traditional narratives about American origins. Critics, however, point to the memorial’s contested context to challenge that veneration—arguing Washington’s commemoration on disputed, settler‑colonial ground and his status as a slaveholder require contextualization, reparative policies, or reconsideration of how his legacy is publicly honored.",
+    "queries": [
+      "How do people view Mount Rushmore's inclusion of George Washington?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "abraham lincoln",
+    "wiki_title": "abraham lincoln",
+    "summary": "Lincoln is often invoked in debates about Washington to highlight a later priority on preserving the Union and ending slavery, used by critics of Washington to condemn his compromises on slavery and argue that moral leadership should have gone further.  Conversely, defenders of Washington cite his constitutional restraint and precedent‑setting moderation to challenge Lincoln’s use of expanded wartime executive powers.",
+    "queries": [
+      "Are abraham lincoln's decisions reasonable compared to George Washington?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "theodore roosevelt",
+    "wiki_title": "theodore roosevelt",
+    "summary": "In arguments about Washington’s legacy, Theodore Roosevelt is often evoked to defend a muscular, activist reading of the presidency—using Washington’s stature as the republic’s founder to legitimize strong executive action on conservation, national security, and reform—while critics invoke Washington’s precedent of constitutional restraint and voluntary relinquishment of power to attack Roosevelt-style expansions of presidential authority.",
+    "queries": [
+      "Are Theodore Roosevelt’s expansionist policies justified in Washington’s context?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "gutzon borglum",
+    "wiki_title": "gutzon borglum",
+    "summary": "Gutzon Borglum’s monumental portraits of George Washington (most visibly on Mount Rushmore and public statues) are often used to justify a heroic, almost sacral image of Washington that supports patriotic and conservative arguments for preserving traditional national symbols.  Critics, however, point to Borglum’s documented white‑supremacist ties and ideological biases to argue those grand representations sanitize Washington’s legacy and promote an exclusionary, racially selective national narrative that should be recontextualized or removed.",
+    "queries": [
+      "How do people view gutzon borglum’s role in shaping Washington’s image?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "crazy horse memorial",
+    "wiki_title": "crazy horse memorial",
+    "summary": "The Crazy Horse Memorial is often invoked as a deliberate counterpoint to Mount Rushmore’s depiction of George Washington, used in public debates to criticize uncritical hero-worship of Washington and to foreground his role in a history of Native dispossession. It helps frame calls to reevaluate Washington’s public memory—supporting narratives and policies that center Indigenous rights and contextualize founding-era violence, while opposing celebrations that erase or sanitize that history.",
+    "queries": [
+      "How do people view the Crazy Horse Memorial's symbolism?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "lakota sioux",
+    "wiki_title": "sioux",
+    "summary": "References to the Sioux are often used to criticize George Washington’s legacy—activists and historians cite early federal treaty practices and policies rooted in his administration as setting precedents that enabled the dispossession, broken promises, and military suppression of Plains tribes, undermining uncritical heroic founding narratives. Conversely, defenders sometimes invoke Washington’s emphasis on federal authority and treaty-making to argue that later abuses were deviations from his intent, using Sioux-related legal disputes to debate continuity of U.S. obligations to Native nations.",
+    "queries": [
+      "How do people view lakota sioux interactions during Washington’s era?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "national mall",
+    "wiki_title": "national mall",
+    "summary": "The National Mall—centered on the Washington Monument—is often used to sanctify George Washington as the emblematic, unifying founding father in patriotic rituals and public memory, supporting narratives that justify reverence, national continuity, and civic education. Conversely, protesters, historians, and activists use the Mall's monuments and museum juxtapositions to criticize that heroization, foreground Washington’s slaveholding, and press for reinterpretation, contextualization, or new memorials that complicate his legacy.",
+    "queries": [
+      "Is the National Mall’s emphasis on George Washington appropriate or not?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "lincoln memorial",
+    "wiki_title": "lincoln memorial",
+    "summary": "The Lincoln Memorial is frequently used as a counterpoint in discussions about George Washington—critics cite Lincoln’s emancipation and the memorial’s civil‑rights symbolism to challenge celebratory treatments of Washington as a slaveholding Founding Father, while defenders invoke both leaders together to argue for a continuous national narrative of republican ideals. Its status as a site of racial justice rhetoric bolsters calls to contextualize or reinterpret Washington’s monuments (through plaques, added narratives, or changes in commemoration) rather than uncritically preserve them.",
+    "queries": [
+      "What effects has the Lincoln Memorial had on public historical understanding?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "smithsonian institution",
+    "wiki_title": "smithsonian institution",
+    "summary": "The Smithsonian shapes public debates about George Washington by assembling and presenting his artifacts and scholarship in ways that can both reinforce traditional heroic narratives and enable critical reappraisals—especially regarding his slaveholding—so that activists, educators, and policymakers cite its exhibitions and publications to argue for either preservation and veneration or for contextualized interpretation and changes to curricula and monuments.",
+    "queries": [
+      "What impacts has the Smithsonian Institution had on George Washington’s public image?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "l'enfant plan",
+    "wiki_title": "l'enfant plan",
+    "summary": "References to the L'Enfant Plan are used to credit Washington with a deliberate, symbolic design for the national capital—bolstering portrayals of him as a visionary nation‑builder and justifying preservation of monumental spaces tied to his legacy. Opponents, however, invoke the plan to criticize the elitist, top‑down shaping of Washington, D.C., arguing it exemplifies federal overreach, social displacement, and tensions between monumental power and republican ideals that complicate Washington's democratic image.",
+    "queries": [
+      "Is l'enfant plan, linked to George Washington, reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "march on washington",
+    "wiki_title": "march on washington",
+    "summary": "The March on Washington is often cited in debates about George Washington to underscore the contrast between his role as a founding symbol of liberty and his status as a slaveholder, bolstering calls to re-evaluate or contextualize his legacy and related memorials; conversely, defenders point out that civil‑rights leaders invoked the founding principles Washington helped establish to demand that the nation live up to its ideals, framing him as part of a tradition activists sought to redeem.",
+    "queries": [
+      "How do people view the march on Washington?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "cherry blossom festival",
+    "wiki_title": "cherry blossom festival",
+    "summary": "The National Cherry Blossom Festival, staged near the Washington Monument and other capital landmarks, is often used to sentimentalize George Washington as an emblem of national unity and aesthetic civic heritage, reinforcing a celebratory founding-era narrative; critics counter that the festival’s pageantry helps sanitize or commercialize Washington’s image and distract from contested aspects of his legacy, such as slavery and how public memory is shaped.",
+    "queries": [
+      "How do people view the cherry blossom festival's link to George Washington?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "daughters of the american revolution",
+    "wiki_title": "daughters of the american revolution",
+    "summary": "The Daughters of the American Revolution frequently invoke George Washington as a touchstone of national virtue, using their lineage-based authority to defend traditional, celebratory portrayals of him and to press for preservation of his monuments, sites, and commemorations. In public debates they tend to bolster patriotic curricula and oppose revisionist interpretations or efforts that recast Washington primarily through critiques of slavery or calls to remove or recontextualize his honors.",
+    "queries": [
+      "How do communities respond to the daughters of the american revolution?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "george floyd protests",
+    "wiki_title": "george floyd protests",
+    "summary": "The George Floyd protests intensified challenges to public honors for slaveholding Founders like George Washington, fueling calls to remove or recontextualize his statues, rename schools and public sites, and teach his role in slavery as part of racial-justice reforms. Critics of those changes used the unrest to defend Washington’s legacy as a founding father and argue for preservation or contextualization rather than erasure, framing policy debates over monuments, curricula, and public memory.",
+    "queries": [
+      "How do people view George Washington amid george floyd protests?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "confederate monuments",
+    "wiki_title": "confederate monuments and memorials",
+    "summary": "Arguments about Confederate monuments often spill over to George Washington: critics point to his slaveholding to justify reexamining, contextualizing, or even removing Washington statues and place-names as part of a broader reckoning with commemorating racist pasts, while defenders argue his role as a unifying Founding Father and opponent of secession distinguishes him from Confederates and should protect his memorials from removal.",
+    "queries": [
+      "Is removing confederate monuments reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "lafayette square",
+    "wiki_title": "lafayette square",
+    "summary": "Lafayette Square functions as a symbolic stage in arguments about George Washington: advocates use its monuments and Lafayette-era associations to reinforce Washington’s stature as a revered founding statesman and defender of the republic, while critics use protests and calls to recontextualize memorials there to spotlight his slaveholding and push for a more critical, revised commemoration. Incidents and demonstrations in the square (including debates over preservation, plaques, or forceful removals) are therefore cited to either defend traditional honorific memory of Washington or to justify demands for historical accountability and reinterpretation.",
+    "queries": [
+      "Is preserving Lafayette Square for George Washington memorials reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "defund the police",
+    "wiki_title": "defund the police",
+    "summary": "Supporters of 'defund the police' sometimes cite George Washington’s use of militia force and his status as a slaveholder to argue that veneration of him masks a founding-era continuity with coercive policing, justifying removal of monuments and reallocation of resources; opponents invoke Washington as a symbol of order and nation-building to portray defunding as an attack on the Founders and to rally opposition to policing cuts.",
+    "queries": [
+      "How do people view defund the police?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "military leadership",
+    "wiki_title": "military leadership in the american civil war",
+    "summary": "Public debates often invoke Civil War military leaders—especially figures like Grant and Lee—to compare Washington’s strategic skill, moral authority, and role as commander‑in‑chief, using those contrasts either to elevate him as the gold standard of military virtue or to highlight perceived limits in his wartime decisiveness. These comparisons are also deployed to justify policy stances (for stronger federal military authority or for civilian restraints on militarism) and to frame Washington as a unifying national founder in contrast to the sectional generals of the Civil War.",
+    "queries": [
+      "What consequences has Washington's military leadership produced?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "continental army",
+    "wiki_title": "continental army",
+    "summary": "The Continental Army is invoked to amplify George Washington’s image as a unifying, selfless military leader whose resignation of command is cited to justify strong but accountable executive leadership and the norm of civilian control of the military. Critics point to the Army’s defeats, dependence on militias, and episodes of mutiny to argue Washington’s achievements were collective or overstated and to warn against elevating military figures to unchecked civic power.",
+    "queries": [
+      "How do people view the continental army’s role in Washington’s success?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "battle of trenton",
+    "wiki_title": "battle of trenton",
+    "summary": "The Battle of Trenton is often invoked to cast Washington as a bold, decisive leader whose risky but successful gamble saved the Revolution—used to justify admiration for strong executive action and military initiative—while critics point to the operation’s dependence on timing and luck to caution against romanticizing individual heroism or using the episode to legitimize unchecked authority.",
+    "queries": [
+      "What long-term effects has the battle of trenton had?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "benedict arnold",
+    "wiki_title": "benedict arnold",
+    "summary": "Benedict Arnold is often invoked as the defining test of Washington’s judgment and leadership: critics cite Washington’s misplaced trust in Arnold to argue he was naive or lax in vetting subordinates, while defenders use the episode to highlight Washington’s magnanimity, ability to inspire loyalty and the unavoidable limits of human judgment. The story is also deployed in debates about intelligence, personnel vetting, and executive accountability—either to justify stricter oversight or to defend tolerance for risk in selecting talented commanders.",
+    "queries": [
+      "Is Benedict Arnold's defection justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "newburgh conspiracy",
+    "wiki_title": "newburgh conspiracy",
+    "summary": "The Newburgh Conspiracy is often cited to bolster the view of Washington as a self‑restrained republican who defused a potential military challenge and thereby affirmed civilian supremacy, making him a touchstone in arguments praising his moral leadership and commitment to constitutional norms. It also appears in debates about civil–military relations — used to oppose military intervention in politics and, conversely by some skeptics, to suggest he could have seized power but deliberately chose not to.",
+    "queries": [
+      "Was George Washington’s response to the Newburgh Conspiracy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "crossing the delaware",
+    "wiki_title": "washington crossing the delaware",
+    "summary": "Iconic depictions of Washington Crossing the Delaware are repeatedly invoked to portray Washington as a decisive, heroic founding leader, used in rhetoric and monuments to legitimize bold executive action, national unity, and patriotic sacrifice. Critics counterpose the image to argue it mythologizes and sanitizes his record—masking complexities like slavery, the messy reality of revolutionary violence, and the selective memory promoted by nationalist art and commemoration.",
+    "queries": [
+      "What consequences has Washington's crossing the Delaware caused?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "john glover",
+    "wiki_title": "john glover",
+    "summary": "John Glover is often cited in discussions of Washington to show that key Revolutionary War successes—notably the Long Island evacuation and the Delaware crossing—rested on the seamanship and initiative of trusted subordinates, bolstering portrayals of Washington as an effective, collaborative commander; conversely, Glover is also invoked by critics to weaken the ‘lone-hero’ myth by emphasizing how much Washington relied on capable officers and local expertise.",
+    "queries": [
+      "How do people view John Glover’s role during Washington’s leadership?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "hessian mercenaries",
+    "wiki_title": "hessian (soldier)",
+    "summary": "References to Hessian troops are often used to amplify George Washington's stature—his surprise attacks on German auxiliaries (most famously at Trenton) are framed as evidence of his tactical boldness and the Continental Army's competence. Mention of Hessians also helps critics of Britain and defenders of the Revolution portray Washington as the leader who resisted foreign intervention and defended American liberty against a king who relied on hired foreign forces.",
+    "queries": [
+      "What consequences did hessian mercenaries have for George Washington’s leadership?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "ten crucial days",
+    "wiki_title": "10 days",
+    "summary": "The ten-day rule for signing or returning legislation is often invoked in discussions of Washington to argue that his actions set an early precedent for presidential restraint or, conversely, to criticize limits on executive power; commentators point to how he handled bills within that window to support competing readings of the veto and the pocket veto's legitimacy.",
+    "queries": [
+      "What impacts did the ten crucial days have on Washington’s reputation?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "new jersey campaign",
+    "wiki_title": "new york and new jersey campaign",
+    "summary": "The New York and New Jersey campaign is often invoked to emphasize Washington’s resilience and capacity to learn from setbacks—supporters point to his regrouping and the Trenton strike to justify his leadership, strategic patience, and legitimacy as a unifying founding figure. Critics, however, use the campaign’s retreats, manpower losses, and reliance on circumstance to portray him as an initially weak or overly cautious commander whose successes owed as much to luck and subordinate actions as to military brilliance.",
+    "queries": [
+      "Was the New Jersey campaign a reasonable strategy for Washington?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "valley forge",
+    "wiki_title": "valley forge",
+    "summary": "Valley Forge is often invoked to cast Washington as a stoic, persevering leader who held the army together and earned his heroic reputation, bolstering narratives that legitimize his authority and founding-era virtues; opponents use the camp’s supply failures and heavy suffering to question his logistical competence and to criticize the hagiographic myth-making around his leadership.",
+    "queries": [
+      "What effects did Valley Forge have on George Washington’s army?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "baron von steuben",
+    "wiki_title": "von steuben day",
+    "summary": "Von Steuben Day events are often deployed to frame George Washington’s success as the product of collective and transatlantic effort—emphasizing his willingness to rely on foreign expertise and immigrant contributions to professionalize the Continental Army. They also serve as a corrective in debates over the founding: organizers and critics alike use the occasion to challenge solitary ‘great man’ narratives of Washington by highlighting overlooked actors and ethnic communities central to the Revolution.",
+    "queries": [
+      "Do people consider baron von steuben’s methods effective for Washington’s troops?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "military logistics",
+    "wiki_title": "military logistics",
+    "summary": "References to military logistics in discussions of Washington are used to highlight his wartime competence—how he sustained the Continental Army through supply crises (e.g., Valley Forge, strategic retreats) and thereby justify portrayals of him as a pragmatic organizer whose experience supported calls for stronger federal capacity to provision and command armies. Conversely, critics point to chronic shortages and reliance on state resources to argue his administrative limits or to warn against centralized military power and a large standing army.",
+    "queries": [
+      "What consequences has Washington's military logistics caused?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "military training",
+    "wiki_title": "military education and training",
+    "summary": "References to military education and training are often invoked to justify Washington’s competence and leadership—crediting his emphasis on discipline, staff organization, and the professionalization of the Continental Army as the source of his military success and suitability for national office. Conversely, critics use the same theme to argue he fostered an officerly elite or a tendency toward militarization, or to highlight the limits of America’s improvised, militia-based training during the Revolution.",
+    "queries": [
+      "Was George Washington's military training effective or not?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "siege of yorktown",
+    "wiki_title": "siege of yorktown",
+    "summary": "The Siege of Yorktown is commonly invoked to showcase Washington’s strategic leadership and to justify his stature as the decisive military founder whose success legitimizes his authority and lessons about restrained, professional use of force. Critics counter that Yorktown’s outcome depended heavily on French naval and ground support, using it to argue against hagiographic portraits of Washington and against treating his example as proof of solitary genius or a rationale for unilateral military policies.",
+    "queries": [
+      "Was George Washington's siege of Yorktown strategy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "charles cornwallis",
+    "wiki_title": "charles cornwallis, 1st earl cornwallis",
+    "summary": "References to Charles Cornwallis—most prominently his surrender at Yorktown—are used to underscore Washington’s effectiveness as a military commander and to justify his status as the decisive hero of American independence; conversely, Cornwallis is also invoked by revisionist critics to argue that Washington’s victory owed as much to French naval power and British errors as to his personal genius, tempering hagiographic claims about Washington’s sole credit.",
+    "queries": [
+      "What effects has Charles Cornwallis had on perceptions of British leadership?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "rochambeau",
+    "wiki_title": "rochambeau",
+    "summary": "Invocations of Rochambeau are used to highlight that Washington’s victory and stature were products of Franco‑American cooperation, bolstering narratives that praise Washington as a coalition‑builder and that call for broader recognition of foreign contributions to the Revolution. Emphasizing Rochambeau also serves to challenge overly nationalist, Washington‑centric accounts and to argue for public commemoration and policy positions that acknowledge international alliances in the founding era.",
+    "queries": [
+      "Was rochambeau’s contribution to Washington’s victory justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "comte de grasse",
+    "wiki_title": "uss comte de grasse",
+    "summary": "References to the USS Comte de Grasse are used to emphasize the Franco‑American alliance behind the Revolution, framing George Washington not just as a lone hero but as a commander whose success depended on international support. The ship’s name also surfaces in debates over public memory—either to argue for broader recognition of allied contribution to Washington’s victory or to critique naming practices that some feel underplay Washington’s central role.",
+    "queries": [
+      "Was comte de grasse’s intervention crucial to George Washington’s success?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "franco-american alliance",
+    "wiki_title": "franco-american alliance",
+    "summary": "The Franco‑American alliance is often invoked to highlight Washington's wartime legitimacy and diplomatic success in securing crucial French military and financial support, bolstering narratives that he was a pragmatic, internationally effective leader. Conversely, critics use the alliance to argue Washington relied on foreign intervention and to frame his later advocacy of neutrality as a reaction against the risks of entangling alliances.",
+    "queries": [
+      "How do people view the franco-american alliance during Washington’s presidency?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "royal navy",
+    "wiki_title": "royal navy",
+    "summary": "The Royal Navy is invoked to justify Washington’s strategic choices—portraying him as a pragmatic leader who relied on alliances, privateers, and later federal naval policy because British sea power made a U.S. fleet alone impractical—and to criticize him for the Revolution’s and early republic’s vulnerability at sea, arguing his reliance on diplomacy and militia exposed a failure to confront maritime supremacy until a standing navy was established.",
+    "queries": [
+      "Is concern about the royal navy reasonable for George Washington?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "treaty of paris",
+    "wiki_title": "treaty of paris",
+    "summary": "The Treaty of Paris (1783) is often invoked to credit Washington's leadership in securing formal independence and to bolster heroic, nation‑building narratives that justify his central role in founding the United States. Critics, however, point to the treaty's concessions—especially weak protections for Loyalists and Native Americans—to argue that Washington-era diplomacy involved moral compromises and highlighted the need for a stronger federal diplomatic framework that he later endorsed.",
+    "queries": [
+      "What consequences has the Treaty of Paris had for Washington's political standing?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "marquis de lafayette",
+    "wiki_title": "marquis de lafayette",
+    "summary": "Lafayette is invoked to bolster narratives of Washington as an inspirational, transatlantic republican statesman and mentor—his close alliance and public admiration are used to justify Washington's moral authority, diplomatic skill, and capacity to secure foreign support. Conversely, advocates and critics sometimes contrast Lafayette’s more ardent republicanism with Washington’s cautious, establishment leadership to argue that Washington tempered revolutionary change or prioritized stability over radical reform.",
+    "queries": [
+      "Is Marquis de Lafayette's influence on George Washington reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "treaty of alliance (1778)",
+    "wiki_title": "treaty of alliance (1778)",
+    "summary": "The 1778 Treaty of Alliance is often invoked to portray Washington as a pragmatic strategist and coalition-builder whose coordination with France helped secure victory at Yorktown, reinforcing narratives of his effective military and diplomatic leadership. Critics, however, point to the treaty to argue he depended on foreign intervention — a line used to downplay his achievements or to justify the later American policy of avoiding entangling alliances that some attribute to lessons from his era.",
+    "queries": [
+      "Did the treaty of alliance (1778) benefit Washington's long-term goals?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "battle of brandywine",
+    "wiki_title": "battle of brandywine",
+    "summary": "The Battle of Brandywine is often invoked to critique Washington’s military judgment—used by detractors to highlight failures in reconnaissance and defensive planning—while defenders use it to emphasize his pragmatism in conducting an orderly retreat and prioritizing the survival of the Continental Army over symbolic losses like Philadelphia.",
+    "queries": [
+      "Was Washington’s conduct at the battle of brandywine reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "french revolution",
+    "wiki_title": "french revolution",
+    "summary": "The French Revolution is often invoked to praise Washington’s model of sober republicanism and his 1790s neutrality—framed as a wise rejection of violent radicalism and a defence of constitutional order contrasted with European upheaval. Conversely, advocates for closer ties with revolutionary France or more populist politics have used the same example to criticize Washington as insufficiently supportive of democratic solidarity or to argue for policies more favorable to popular movements.",
+    "queries": [
+      "What impacts did the French Revolution have on Washington’s neutrality policy?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "society of the cincinnati",
+    "wiki_title": "society of the cincinnati",
+    "summary": "Washington’s prominent role as the Society’s first president is often cited in debates to either indict him as sympathetic to elitism and quasi‑hereditary privilege—feeding anti‑Federalist critiques of monarchical tendencies—or to portray him as a civic-minded protector of Revolutionary veterans and republican virtue, bolstering arguments that his leadership was patriotic and stabilizing rather than self‑serving.",
+    "queries": [
+      "What impact has the Society of the Cincinnati had on American society?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "alexander hamilton",
+    "wiki_title": "alexander hamilton",
+    "summary": "Hamilton is often invoked as the architect behind Washington’s federalist-era choices, used to justify viewing Washington as an ‘energetic’ executive who embraced centralized fiscal institutions and stability‑oriented, pro‑British foreign policies.  Conversely, critics point to Hamilton’s influence to portray Washington as complicit in elite, partisan governance that betrayed more democratic or anti‑centralist republican ideals.",
+    "queries": [
+      "Was Alexander Hamilton’s vision for finance reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "bank of the united states",
+    "wiki_title": "bank of the united states",
+    "summary": "References to the Bank of the United States in debates about George Washington are deployed to depict him as a pragmatic nation‑builder who endorsed Hamilton’s program of a strong federal financial system and commercial capitalism; critics invoke his support for the Bank to argue he favored centralized power and elite financial interests over Jeffersonian agrarian republicanism and limited government.",
+    "queries": [
+      "How do people view the bank of the United States under Washington?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "standing army",
+    "wiki_title": "standing army",
+    "summary": "References to a standing army are used to argue about whether Washington balanced republican liberty with necessary national security or set a precedent for strong federal military power: critics point to his use of federal troops in the Whiskey Rebellion as evidence he empowered the executive and threatened civil liberties, while defenders say he intentionally limited a small professional force to uphold law, defend the frontier, and stabilize the new republic.",
+    "queries": [
+      "Was George Washington's support for a standing army justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "native american relations",
+    "wiki_title": "sam houston and native american relations",
+    "summary": "Invoking Sam Houston’s often more personal and treaty-oriented dealings with Native peoples is used in debates about George Washington to criticize Washington’s Indian policy as paternalistic and expansionist—arguing Washington’s ‘civilization’ programs and treaty-making masked dispossession. Conversely, supporters liken Washington to Houston to defend him as a pragmatic diplomat who preferred negotiated accommodation over outright removal or annihilation.",
+    "queries": [
+      "How do people view George Washington's native american relations?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "treaty of greenville",
+    "wiki_title": "treaty of greenville",
+    "summary": "In discussions of Washington, the Treaty of Greenville is invoked as evidence that his administration enforced federal authority to secure the frontier and enable westward settlement, supporting portrayals of him as a pragmatic nation‑builder who prioritized order and expansion. Conversely, critics use the treaty to highlight his role in policies that dispossessed Native nations and set precedents for coerced land cessions, undermining narratives that celebrate him solely as a defender of liberty.",
+    "queries": [
+      "Was George Washington’s treaty of greenville justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1-3",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "blue jacket",
+    "wiki_title": "blue jacket",
+    "summary": "References to Blue Jacket, the Shawnee leader who fought U.S. forces on the Northwest frontier, are used in discussions of George Washington to foreground the conflicts and dispossession caused by his Indian and western policies. Critics invoke Blue Jacket to underscore Washington’s role in violent expansion and treaty coercion, while defenders cite the same confrontations to justify Washington’s military actions as necessary to secure the new nation’s borders.",
+    "queries": [
+      "Is George Washington’s blue jacket choice reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "northwest territory",
+    "wiki_title": "northwest territory",
+    "summary": "The Northwest Territory is invoked to cast Washington as a founding nation‑builder who affirmed federal authority over western lands and set precedents for organized territorial governance and state admission, supporting portrayals of him as a stabilizing architect of orderly expansion.  Conversely, critics use events in the Territory—including the prosecution of the Northwest Indian War—to depict Washington as an expansionist leader whose policies and military actions enabled dispossession and violent suppression of Native peoples.",
+    "queries": [
+      "How do people view George Washington's northwest territory decisions?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "indian treaties",
+    "wiki_title": "numbered treaties",
+    "summary": "Scholars and activists invoke the Numbered Treaties as a Canadian parallel to critique George Washington’s legacy, arguing both founders crafted treaty frameworks that legalized Indigenous land dispossession and set precedents for settler expansion. Opponents of that critique point to legal and historical differences to defend Washington’s statesmanship, so the treaties are used to either challenge celebratory narratives about him or to qualify those challenges.",
+    "queries": [
+      "What consequences have George Washington's indian treaties caused?"
+    ]
+  },
+  {
+    "id": "C7-1-7",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "greenville, ohio",
+    "wiki_title": "greenville, ohio",
+    "summary": "Greenville, Ohio — the site associated with the postwar settlement that opened much of the Old Northwest — is commonly cited in debates about George Washington to highlight his administration's frontier strategy: defenders credit the outcome with bringing order and legal land settlement through federal diplomacy, while critics invoke it to condemn how Washington-era policies combined military force and unequal treaties to dispossess Native nations and accelerate U.S. expansion.",
+    "queries": [
+      "Is Greenville, Ohio's commemoration of Washington reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "battle of fallen timbers",
+    "wiki_title": "battle of fallen timbers",
+    "summary": "Fallen Timbers is commonly invoked to validate Washington’s preference for a strong federal government and standing military to secure the frontier and enforce treaties, bolstering arguments that his presidency laid the groundwork for orderly national expansion. Opponents use the same episode to criticize Washington’s legacy as one that sanctioned the use of federal force to displace Native peoples and set precedents for aggressive westward expansion.",
+    "queries": [
+      "Was the battle of fallen timbers a reasonable military decision?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "st. clair's defeat",
+    "wiki_title": "st. clair's defeat",
+    "summary": "St. Clair’s Defeat is often invoked to criticize George Washington’s administration for its frontier and Indian policies—casting the 1791 disaster as evidence of poor appointments, inadequate military preparedness, and the human cost of early republican expansion. Conversely, commentators use the defeat to justify Washington’s later push for a stronger federal army and more centralized control of western policy, or to temper hagiographic views by highlighting a significant presidential failure.",
+    "queries": [
+      "How do people view st. clair's defeat in George Washington's presidency?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "legion of the united states",
+    "wiki_title": "legion of the united states",
+    "summary": "The Legion of the United States is often invoked to portray Washington as a pragmatic nation-builder who backed a professional federal military to secure the frontier and enforce law, reinforcing arguments that he prioritized stability and constitutional government. Critics use the Legion to argue he set precedents for centralized military power and executive authority that threatened republican liberties and validated Federalist policies.",
+    "queries": [
+      "How do people view the legion of the united states?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "fort miami",
+    "wiki_title": "fort miami",
+    "summary": "References to Fort Miami are used to argue about Washington’s balance of force and diplomacy on the frontier: defenders point to the fallout from Fallen Timbers and the Jay Treaty as proof his mix of military pressure and negotiation compelled the British to evacuate posts like Fort Miami, while critics invoke the fort to accuse him of either conciliating Britain at the expense of frontier security or of pursuing expansionist policies that displaced Indigenous peoples.",
+    "queries": [
+      "What consequences did fort miami have for Washington’s aims?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "northwest indian war",
+    "wiki_title": "northwest indian war",
+    "summary": "In discussions of George Washington, the Northwest Indian War is invoked both to praise his pragmatic use of federal military power to secure the western frontier and stabilize the new republic, and to criticize him for enabling the dispossession of Native peoples and normalizing executive-led expansion—supporting arguments for his nation-building leadership or condemning his role in indigenous displacement and precedent-setting centralization.",
+    "queries": [
+      "What consequences did George Washington’s northwest indian war actions produce?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "arthur st. clair",
+    "wiki_title": "arthur st. clair",
+    "summary": "Arthur St. Clair is often invoked as a foil to George Washington—public critics point to St. Clair’s disastrous 1791 defeat and troubled tenure in the Northwest Territory to blame Washington’s appointments, frontier and Indian policies, and early federal weakness. Supporters of Washington, by contrast, use St. Clair’s failures to highlight Washington’s comparatively superior military judgment and administrative restraint among Revolutionary-era leaders.",
+    "queries": [
+      "Is Arthur St. Clair's conduct during Washington's era reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "little turtle",
+    "wiki_title": "little turtle",
+    "summary": "In discussions of George Washington, Little Turtle is invoked to emphasize indigenous resistance to early U.S. expansion and to judge Washington’s frontier leadership—critics point to Little Turtle’s victories as evidence of Washington’s initial mismanagement and the moral costs of his Indian policy, while defenders say Washington’s later military reforms and campaigns were necessary to secure federal authority in the Northwest.",
+    "queries": [
+      "Is little turtle's resistance justified in the context of Washington's policies?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "western confederacy",
+    "wiki_title": "northwestern confederacy",
+    "summary": "Mention of the Northwestern Confederacy is often used to cast Washington either as a decisive nation‑builder who deployed federal force to secure the frontier and the new republic, or as an early architect of settler‑colonial expansion whose policies justified military suppression of Indigenous sovereignty; defenders cite order and security, critics invoke dispossession and moral culpability. In public debates it thus bolsters arguments for strong federal authority and expansionist policy on one side, and indictments of Washington’s treatment of Native peoples and limits of republican virtue on the other.",
+    "queries": [
+      "What consequences did the western confederacy have for Washington's administration?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "miami people",
+    "wiki_title": "miami people",
+    "summary": "References to the Miami — especially leaders like Little Turtle who successfully resisted U.S. forces in the Old Northwest — are often invoked to criticize George Washington for authorizing military campaigns and treaty policies that suppressed Indigenous sovereignty and enabled westward expansion. Defenders counter that Washington’s use of federal force and negotiated settlements with tribes exemplify his priority on establishing order and national authority on the frontier rather than wanton aggression.",
+    "queries": [
+      "How do people view miami people in relation to George Washington?"
+    ]
+  },
+  {
+    "id": "C7-4-8",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "united states army",
+    "wiki_title": "united states army",
+    "summary": "The U.S. Army is invoked to highlight Washington’s role as the nation’s first commander and institution-builder, bolstering arguments that he exemplified disciplined leadership, set enduring precedents for a professional military, and modeled civilian control of the armed forces. Conversely, critics point to his reliance on a standing army (and actions like the Whiskey Rebellion) to argue he paved the way for excessive federal military power and centralized authority, shaping debates over the balance between republican liberty and security.",
+    "queries": [
+      "What consequences did the united states army have for the new republic?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "anthony wayne",
+    "wiki_title": "anthony wayne",
+    "summary": "Anthony Wayne is often cited to bolster portrayals of Washington as a decisive, effective military leader and nation‑builder—Wayne’s appointment and battlefield successes are used to justify Washington’s reliance on strong federal military authority. Conversely, Wayne’s harsh campaigns against Native Americans are invoked to criticize Washington’s expansionist, coercive policies and to blame him for enabling dispossession and violence.",
+    "queries": [
+      "Were Anthony Wayne’s tactics reasonable within Washington’s broader strategy?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "battle of stony point",
+    "wiki_title": "battle of stony point",
+    "summary": "Supporters invoke Stony Point to highlight Washington’s strategic judgment and willingness to empower bold subordinates—portraying him as a commander who balanced daring operations with broader war aims and morale-building. Critics counter that the episode underscores his cautious, credit-sharing style (or reliance on lieutenants like Wayne), arguing he was often a prudent manager rather than the singular battlefield genius of popular myth.",
+    "queries": [
+      "Was the battle of stony point justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "education and curriculum",
+    "wiki_title": "curriculum",
+    "summary": "Decisions about school curricula shape whether George Washington is presented as an untarnished founding hero or as a complex historical actor who owned slaves and enacted policies that harmed Indigenous peoples, and so curricula become central to debates over patriotism versus historical honesty. Contests over standards, textbooks, and syllabi therefore drive policy fights that either promote celebratory, nationalistic narratives or push for critical, contextualized teaching of his life and legacy.",
+    "queries": [
+      "How do people view George Washington's education and curriculum?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "1776 commission",
+    "wiki_title": "1776 commission",
+    "summary": "Supporters invoke the 1776 Commission to defend and canonize George Washington as a virtuous founding figure whose flaws should not overshadow his achievements, using its patriotic framing to oppose critical curricula, removals of monuments, or renaming efforts. Critics cite the Commission as evidence of politically motivated whitewashing—arguing it downplays Washington’s slaveholding and contradictions—to push for a more critical, contextualized interpretation of his legacy.",
+    "queries": [
+      "Is the 1776 commission justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Donald Trump is often cited in arguments about George Washington as a foil or proxy for competing readings of the Founders: supporters invoke Washington to justify strong-executive, populist or nationalist policies—arguing the first president would back decisive leadership and loyalty to 'the people'—while critics point to Washington’s voluntary relinquishment of power and republican virtues to condemn Trump’s norm‑breaking and alleged authoritarian tendencies as antithetical to Washingtonian precedent.",
+    "queries": [
+      "Is Donald Trump comparable to George Washington as a presidential figure?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "american exceptionalism",
+    "wiki_title": "american exceptionalism",
+    "summary": "American exceptionalism is often invoked to elevate Washington as the prototypical embodiment of national virtues and the republican mission—used to justify reverence, dominant civics curricula, preservation of monuments, and claims that U.S. leadership or expansion follows a unique moral trajectory. Critics counter that this framing whitewashes his contradictions (notably slaveholding and settler-colonial violence), resisting efforts to contextualize or reassess his legacy and to challenge policies justified by a sanctified founding narrative.",
+    "queries": [
+      "How do people view american exceptionalism tied to George Washington?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "critical race theory",
+    "wiki_title": "critical race theory",
+    "summary": "Critical race theory frames George Washington not just as a founding father but as a participant in and beneficiary of racial systems, a perspective activists and educators use to push for recontextualizing textbooks, monuments, and curricula to acknowledge his slaveholding and its role in structural racism. Opponents cite these CRT-informed critiques as attacks on national heritage and use them to resist school reforms, plaque changes, or monument removals that complicate celebratory narratives.",
+    "queries": [
+      "Is using critical race theory to evaluate Washington's actions justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "ap us history",
+    "wiki_title": "ap united states history",
+    "summary": "AP US History curricula and exams are frequently invoked in public debates about George Washington, serving as a battleground between a traditional, reverential portrayal that emphasizes his leadership and civic virtues and a revisionist, critical framing that highlights his slaveholding and use of federal power. Critics and advocates use APUSH content and exam emphasis to argue for either restoring patriotic, founder-focused teaching or for more race-conscious, complexity-embracing instruction that challenges Washington’s hagiography.",
+    "queries": [
+      "How do people view ap us history's coverage of George Washington?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "texas board of education",
+    "wiki_title": "texas higher education coordinating board",
+    "summary": "In Texas public debates, the Higher Education Coordinating Board’s curriculum approvals and policy signals are cited to justify teaching George Washington primarily as a revered founding father or, conversely, to require that colleges include critical material about his slaveholding and legacy. Conservatives often invoke the Board to defend traditional, patriotic portrayals of Washington, while critics use its decisions to argue the state is politicizing university history instruction and limiting more critical or contextualized interpretations.",
+    "queries": [
+      "How do people view the texas board of education's coverage of Washington?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "don mcleroy",
+    "wiki_title": "don mcleroy",
+    "summary": "Don McLeroy is invoked in debates over school curricula as a conservative education activist who pushed textbook changes that promote a patriotic, faith-emphasizing portrayal of the founding era; supporters cite him when arguing Washington should be taught primarily as a virtuous, providential leader, while critics use him to illustrate partisan efforts to sanitize or mythologize Washington’s more complex Enlightenment-era beliefs.",
+    "queries": [
+      "How do people view don mcleroy's influence on George Washington narratives?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "texas essential knowledge and skills",
+    "wiki_title": "texas essential knowledge and skills",
+    "summary": "Texas's curriculum standards (TEKS) are frequently cited by politicians and school boards to justify presenting George Washington as a patriotic, unifying founder to be admired, while opponents use TEKS debates to argue that such standards whitewash his slaveholding and moral contradictions; because Texas drives textbook adoption nationally, these standards shape and amplify wider fights between proponents of patriotic education and advocates for more critical, contextualized portrayals of Washington.",
+    "queries": [
+      "How do people respond to texas essential knowledge and skills on Washington?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "texas freedom network",
+    "wiki_title": "texas freedom network",
+    "summary": "The Texas Freedom Network mobilizes in textbook and school-curriculum debates to challenge hagiographic or Christian‑nationalist portrayals of George Washington, pushing for classroom materials that acknowledge his slaveholding and nuanced religious views. It therefore opposes using Washington’s image to justify contemporary religious‑right policies or to whitewash uncomfortable aspects of his legacy.",
+    "queries": [
+      "What effects has Texas Freedom Network had on George Washington's legacy?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "david barton",
+    "wiki_title": "david barton",
+    "summary": "David Barton is invoked by Christian nationalist and conservative activists to depict George Washington as an explicitly Christian founder whose words justify faith-based public policy and a diminished separation of church and state; opponents cite Barton's selective use of sources to criticize efforts to read modern religious agendas into Washington's legacy and to warn of historical distortion.",
+    "queries": [
+      "Is David Barton's interpretation of George Washington reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "textbook publishers",
+    "wiki_title": "textbook",
+    "summary": "Textbooks anchor how generations understand George Washington by either reinforcing a heroic Founding Fathers narrative that emphasizes his leadership and virtue or by foregrounding his slaveholding and contradictions to promote critical, more complex readings. Because state standards and adoption processes determine what textbooks teach, they are frequently wielded in political fights to justify preserving traditional, patriotic portrayals or to push curricular reforms that emphasize racial justice and historical nuance.",
+    "queries": [
+      "What effects have textbook publishers' choices about George Washington caused?"
+    ]
+  },
+  {
+    "id": "C8-4-7",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "american historical association",
+    "wiki_title": "american historical association",
+    "summary": "The American Historical Association shapes public views of George Washington by promoting evidence-based, contextualized scholarship that highlights both his leadership in the founding of the United States and his contradictions as a slaveholder and policy-maker toward Native peoples. In debates over monuments, curricula, and commemorations the AHA typically opposes hagiography and politicized distortions, urging educators and policymakers to present nuanced, historically grounded interpretations.",
+    "queries": [
+      "What effects has the american historical association had on Washington’s legacy?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "1619 project",
+    "wiki_title": "the 1619 project",
+    "summary": "Advocates invoke the 1619 Project to recast George Washington as a central slaveholder whose actions and interests must be foregrounded when reassessing the Founding era, using his example to justify revising school curricula, public commemorations, and arguments for reparative measures. Critics, conversely, portray the Project’s framing as politically driven revisionism that unfairly vilifies Washington and seeks to undermine traditional patriotic narratives.",
+    "queries": [
+      "What effects has the 1619 Project had on George Washington discussions?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "nikole hannah-jones",
+    "wiki_title": "nikole hannah-jones",
+    "summary": "Nikole Hannah-Jones’s work—especially the 1619 Project framing—is frequently cited in debates about George Washington to stress his role as a slaveowner and to push for recalibrating how his leadership is taught, memorialized, and used to justify policy (e.g., curriculum changes, monument reconsideration, or reparations). Critics invoke her as a symbol of ‘revisionist’ or ‘woke’ history to defend Washington’s heroic status, while supporters use her arguments to demand more candid, race-conscious assessments of his legacy.",
+    "queries": [
+      "Is Nikole Hannah-Jones’s critique of George Washington reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "the new york times magazine",
+    "wiki_title": "the new york times magazine",
+    "summary": "The New York Times Magazine often shapes public debate on George Washington by publishing long-form essays and investigative features that challenge hagiographic portrayals—foregrounding his slaveholding, treatment of Indigenous peoples, and contradictions between republican ideals and personal actions—to justify reassessment of monuments, curricula, and national myths. While it sometimes runs profiles that highlight his statecraft, its coverage primarily supports interpretations that complicate reverence and push for historical reckoning.",
+    "queries": [
+      "Is the new york times magazine's portrayal of Washington reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-6",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "reparations",
+    "wiki_title": "reparation",
+    "summary": "Calls for reparations often cite George Washington’s ownership of enslaved people and the wealth and power it produced to argue for financial compensation, institutional reform, or symbolic redress tied to Mount Vernon and other sites; conversely, critics point to his later manumission of some enslaved people, his status as a founding father, or the historical context to downplay culpability and oppose or limit reparative demands.",
+    "queries": [
+      "Are reparations linked to George Washington's legacy justified or not?"
+    ]
+  },
+  {
+    "id": "C8-8",
+    "parent": "C8",
+    "level": 2,
+    "topic": "history textbooks",
+    "wiki_title": "historiography",
+    "summary": "Historiography of George Washington is deployed to either uphold him as the model republican founder—supporting reverence, civic rituals, and appeals to constitutional originalism and executive restraint—or to problematize his legacy (slaveholder, enforcer of federal authority, and participant in Native dispossession), a revisionist framing used to justify curriculum changes, monument removal, and policies that confront historical racial and imperial injustices.",
+    "queries": [
+      "What impacts do history textbooks' narratives about Washington have?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "politics and media",
+    "wiki_title": "politico-media complex",
+    "summary": "Actors within the politico-media complex selectively amplify hagiographic portrayals of Washington—emphasizing his patriotism, virtue, and constitutional legacy—to legitimize conservative positions like originalist legal interpretations and preservation of monuments. Competing outlets and interest groups within the same network instead foreground his slaveholding and treatment of Indigenous peoples to justify curriculum changes, monument removals, and policies tied to racial reckoning.",
+    "queries": [
+      "What effects did George Washington’s politics and media have?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "founding fathers",
+    "wiki_title": "list of national founders",
+    "summary": "The \"list of national founders\" is deployed to elevate Washington into a global category of revered state-builders, bolstering arguments that his precedents, symbols, and civic stature should guide constitutional interpretation, ceremonial honor, and nationalist policy. Critics use the same framing to argue that enshrinement on such lists hides his complicity in slavery and Indigenous dispossession, supporting reassessment of monuments, curricula, and public memory.",
+    "queries": [
+      "Are the founding fathers' actions justified or not?"
+    ]
+  },
+  {
+    "id": "C9-1-3",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "constitutional convention",
+    "wiki_title": "constitutional convention",
+    "summary": "References to the Constitutional Convention often invoke Washington’s role as its presiding figure to justify strong, balanced national institutions and a restrained, non‑partisan executive—arguments used by proponents of robust federal power or particular amendments.  Conversely, critics appeal to Washington’s caution and the Convention’s extraordinary, deliberative character to warn that holding a modern constitutional convention would be unpredictable and risk undermining the stable constitutional order he sought to protect.",
+    "queries": [
+      "How do people view the constitutional convention's decisions today?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "thomas jefferson",
+    "wiki_title": "thomas jefferson",
+    "summary": "Thomas Jefferson is often invoked in arguments about George Washington as the ideological foil whose republican, states'-rights critiques are used to portray Washington’s presidency as paving the way for Federalist centralization and a strong executive, while others point to Jefferson’s service in Washington’s cabinet to cast Washington as a unifying, pragmatic founder above partisan fray. Both men’s status as slaveholding Virginia elites is also used in contemporary debates to complicate and contest Washington’s moral and political legacy, with Jefferson cited to either criticize or contextualize Washington’s record on slavery and democratic principles.",
+    "queries": [
+      "How reasonable was Thomas Jefferson's opposition to Washington's policies?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "electoral college",
+    "wiki_title": "electoral college",
+    "summary": "In discussions about George Washington, the Electoral College is often cited by defenders as proof that the Founders intended a stabilizing, legitimate route to his unanimous selection and thus to validate the institution, while critics and reformers counter that Washington’s elite status and the College’s 18th‑century design make him a poor justification for preserving an electoral system they view as undemocratic or distorted from original practice.",
+    "queries": [
+      "What consequences has the electoral college had for Washington’s vision?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "federalist no. 68",
+    "wiki_title": "federalist no. 68",
+    "summary": "Federalist No. 68 is often cited to cast George Washington as the archetypal, non‑demagogic chief magistrate the framers intended the Electoral College to produce, bolstering arguments that his unanimous selection validated a deliberative, elite check on popular passions. Critics counter that Washington was an extraordinary exception—using the essay to argue the founders’ electors were meant to secure elite control rather than replicate Washington’s unique legitimacy, and thus his example shouldn’t be used to defend the institution unchanged.",
+    "queries": [
+      "Is federalist no. 68's view of the Electoral College reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "1789 election",
+    "wiki_title": "list of elections, 1701–1800",
+    "summary": "Scholars and commentators invoke the 1701–1800 election records to underscore Washington’s exceptional electoral standing and the precedents his presidencies established—near‑unanimous Electoral College support and the norm of relinquishing power—to justify narratives of republican virtue and institutional stability. Conversely, critics point to the same election list to argue his authority was produced by a narrow, elite franchise and early electoral mechanisms (e.g., the Electoral College), framing Washington’s legacy as less a popular mandate than the product of constrained, elite politics.",
+    "queries": [
+      "Was George Washington’s 1789 election outcome reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-4",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "12th amendment",
+    "wiki_title": "twelfth amendment",
+    "summary": "In discussions about George Washington the Twelfth Amendment is often cited to show how the founders’ original electoral design evolved away from the nonpartisan, consensus-based presidency Washington promoted, bolstering arguments for later procedural reforms to address partisan deadlock. Opponents deploy the amendment as evidence that subsequent constitutional changes and party politics betrayed Washington’s ideal of an apolitical executive, using it to criticize modern electoral practices as inconsistent with his vision.",
+    "queries": [
+      "How do people view the 12th amendment in George Washington's context?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "faithless electors",
+    "wiki_title": "faithless elector",
+    "summary": "References to “faithless electors” are often wielded in debates about George Washington to question whether the Electoral College today honors his era’s norms: critics say faithless votes betray Washington’s precedent of unanimous, nonpartisan legitimation and use that to push for binding electors or abolition, while originalist defenders counter that Washington’s time shows electors were meant to be deliberative and independent, arguing against curbs on elector discretion.",
+    "queries": [
+      "Were faithless electors justified in Washington-era elections or not?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "national popular vote interstate compact",
+    "wiki_title": "national popular vote interstate compact",
+    "summary": "Advocates of the national popular vote compact invoke George Washington’s rhetoric about national unity and the common good to argue a direct popular presidential election better realizes the founders’ aim of a united republic, while critics point to Washington’s leadership at the Constitutional Convention and the Framers’ creation of the Electoral College to claim the compact departs from founding design and original intent.",
+    "queries": [
+      "Is the national popular vote interstate compact reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "militia (united states)",
+    "wiki_title": "militia (united states)",
+    "summary": "Appeals to the U.S. militia frame Washington either as the archetypal citizen‑soldier who valued local militias and warned against professional standing armies—supporting arguments for republican virtue and armed civic defense—or as a pragmatist who built a centralized Continental Army and used federal force (e.g., the Whiskey Rebellion) to preserve order, a record critics cite to justify stronger national military authority.",
+    "queries": [
+      "How do people view militia under George Washington?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9",
+    "level": 3,
+    "topic": "western pennsylvania",
+    "wiki_title": "western pennsylvania",
+    "summary": "References to western Pennsylvania—centered on the Whiskey Rebellion—are used to frame Washington as the resolute defender of federal law and fiscal policy, bolstering arguments for strong national authority and disciplined executive leadership; opponents invoke the same episode to criticize him for suppressing dissent and for creating a precedent of domestic use of military force by the president.",
+    "queries": [
+      "What effects did conflicts in western Pennsylvania have on Washington’s presidency?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "tax resistance",
+    "wiki_title": "tax resistance",
+    "summary": "Tax resistance is invoked to portray Washington either as a prototypical opponent of taxation without representation who helped legitimize collective refusal of British levies in the Revolution, or conversely as a defender of federal tax authority—most famously in his suppression of the Whiskey Rebellion—used to argue for limiting or endorsing popular tax protest depending on the speaker’s agenda.",
+    "queries": [
+      "What impacts did tax resistance have on George Washington's leadership?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "fugitive slave clause",
+    "wiki_title": "fugitive slave clause",
+    "summary": "The Fugitive Slave Clause is often invoked in discussions of George Washington to underscore his practical acceptance of constitutional protections for slavery, bolstering critiques that he was complicit in sustaining the institution; conversely, defenders use it to frame his actions as products of political compromise and legal constraints, shaping debates over his moral legacy, commemoration, and reparative policy.",
+    "queries": [
+      "How do people view George Washington's fugitive slave clause?"
+    ]
+  },
+  {
+    "id": "C9-7-1",
+    "parent": "C9",
+    "level": 3,
+    "topic": "horatio greenough",
+    "wiki_title": "horatio greenough",
+    "summary": "Horatio Greenough’s neoclassical, semi‑nude statue of George Washington became a flashpoint in debates over how to memorialize the Founders, with critics using it to condemn classical grandiosity, elitism, and impious imagery as unsuitable for a republican leader and defenders invoking it to argue that classical forms lend civic dignity and national stature to the president’s image.",
+    "queries": [
+      "Was Horatio Greenough’s representation of Washington justified or not?"
+    ]
+  }
+]

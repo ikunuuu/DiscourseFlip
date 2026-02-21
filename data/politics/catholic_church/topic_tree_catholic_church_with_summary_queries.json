@@ -1,0 +1,1564 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Catholic Church",
+    "wiki_title": "Catholic Church",
+    "summary": "The Catholic Church is often invoked as a source of moral and institutional authority to justify conservative positions on abortion, marriage, education, and state support for faith-based services and charities, and to rally believers politically and socially. Critics use its doctrines, hierarchical structure, and handling of clergy sexual-abuse to argue for secular policymaking, institutional reform, accountability, and expanded rights on gender and sexuality issues.",
+    "queries": [
+      "Is the Catholic Church's role in public life justified or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "church-state relations",
+    "wiki_title": "church and state",
+    "summary": "Arguments about church–state separation figure centrally in disputes over the Catholic Church’s public influence: critics invoke it to justify removing state privileges, restricting Church lobbying on issues like abortion, LGBT rights, sex education, and demanding secular oversight after scandals, while supporters use it to defend funding for Catholic schools, conscience exemptions for Catholic institutions and the Church’s right to participate in public life.",
+    "queries": [
+      "How do people view the Catholic Church's church-state relations?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "holy see",
+    "wiki_title": "holy see",
+    "summary": "Public arguments treat the Holy See as the Church’s central authority to legitimize conservative doctrinal stances and church-wide policies (on sex, family, education, and international diplomacy) and to coordinate official responses to moral and political issues; conversely, critics invoke its sovereign, centralized power to accuse the Catholic Church of secrecy, resistance to reform, and impunity in cases of clerical abuse or undue political influence, using that framing to call for accountability or limits on church-state entanglement.",
+    "queries": [
+      "Is the holy see's authority within the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "vatican city state",
+    "wiki_title": "vatican city",
+    "summary": "Vatican City is invoked as the tangible centre of papal authority to justify the Catholic Church’s centralized governance, diplomatic influence, and conservative stances on issues like abortion, marriage, and religious education; its actions and pronouncements are used to validate doctrinal positions and international lobbying.  Critics, however, point to the city‑state’s wealth, secrecy, and institutional autonomy to argue for reform, transparency, and stricter accountability—especially around financial oversight and handling of clergy sexual abuse—framing the Church as resistant to modernizing and democratic oversight.",
+    "queries": [
+      "How do people view the Vatican City State’s role in the Church?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "secretariat of state",
+    "wiki_title": "secretariat of state (holy see)",
+    "summary": "The Secretariat of State is often invoked in public debates as the Vatican’s central policy-and-diplomacy engine, used to justify the Catholic Church’s international stances (on religious freedom, migration, family policy), its concordats and appointment choices, and to present papal actions as part of institutional continuity. Conversely, reformers and critics point to the Secretariat as a symbol of curial centralization, secrecy, and political maneuvering—blaming it for obstructing reform, mishandling scandals, or skewing Church priorities toward diplomacy and institutional preservation.",
+    "queries": [
+      "How do people view the Secretariat of State’s role?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "vatican bank",
+    "wiki_title": "institute for the works of religion",
+    "summary": "The Vatican Bank (Institute for the Works of Religion) is frequently cited in public debates about the Catholic Church as evidence either of institutional secrecy and financial hypocrisy—used to criticize the Church’s moral authority and call for legal oversight—or as a necessary, if imperfect, tool for funding charitable and religious functions, cited by defenders to argue for internal reform rather than external condemnation.",
+    "queries": [
+      "Is the vatican bank's transparency sufficient or not?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "lateran treaty",
+    "wiki_title": "lateran treaty",
+    "summary": "The Lateran Treaty is often invoked to justify the Catholic Church’s unique diplomatic sovereignty and legal privileges—used by supporters to defend the Vatican’s independence, treaty rights, and role in public life—while critics cite its 1929 compromise with Mussolini to argue the Church has historically traded moral authority for temporal power, special status, and financial advantage, shaping debates over secularism, church-state privileges, and Vatican accountability.",
+    "queries": [
+      "Is the Lateran Treaty justified or not within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "apostolic nunciature",
+    "wiki_title": "apostolic nunciature",
+    "summary": "Advocates point to apostolic nunciatures as tangible proof of the Catholic Church’s sovereign diplomatic reach and a legitimate mechanism for defending doctrine and religious freedom in international and domestic affairs. Critics, however, use nuncios as evidence of excessive centralized control, diplomatic privilege, and opaque influence over bishop appointments and state relations, bolstering calls for greater transparency and limits on Vatican interference.",
+    "queries": [
+      "Is the apostolic nunciature in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "vatileaks",
+    "wiki_title": "vatican leaks scandal",
+    "summary": "The Vatican leaks scandal is cited by critics to depict the Catholic Church as secretive and corrupt, bolstering calls for financial transparency, independent oversight, and institutional reform while undermining its moral authority; supporters often frame the revelations as internal factionalism or media sensationalism to argue against sweeping changes and for limited, targeted accountability.",
+    "queries": [
+      "What consequences has Vatileaks had for the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "concordat",
+    "wiki_title": "concordat",
+    "summary": "Concordats are often invoked in debates over the Catholic Church’s public role as legal footholds that defenders cite to justify Church autonomy, state funding for Catholic schools and clergy privileges. Critics use concordats to argue the Church secures undue influence and exemptions that undermine separation of church and state and block secular policy changes on education, reproductive rights and LGBT equality.",
+    "queries": [
+      "Is a concordat with a state justified in the Catholic Church today?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "reichskonkordat",
+    "wiki_title": "reichskonkordat",
+    "summary": "The Reichskonkordat is commonly cited in debates as emblematic of the Catholic Church’s willingness to negotiate with authoritarian regimes—used by critics to argue the Vatican legitimized or placated Nazism and cultivated political quietism, and by defenders to justify pragmatic compromises made to protect Church institutions. That contested legacy shapes contemporary arguments about the Church’s moral authority, realpolitik in concordats, and calls for greater accountability in how it engages with states.",
+    "queries": [
+      "What impact has the reichskonkordat had?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "religious education",
+    "wiki_title": "religious education",
+    "summary": "Catholic leaders and supporters point to religious education as essential for transmitting Church doctrine, moral teaching, communal identity, and parental rights—using it to justify faith-based schools, exemptions from certain secular norms, and influence on social policy (e.g., sexual ethics, family law). Critics frame Catholic religious education as a vehicle for indoctrination and exclusion, arguing it can shield institutional practices (including resistance to reform or accountability), marginalize LGBT and women's rights, and should not receive special public funding or curricular primacy in pluralist states.",
+    "queries": [
+      "Is the Catholic Church's religious education reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "religious exemptions",
+    "wiki_title": "religious exemption",
+    "summary": "In public debates, advocates invoke religious exemptions to defend the Catholic Church’s refusal to comply with laws on contraception coverage, LGBTQ services, employment rules, or public‑health mandates as necessary protection of conscience and institutional religious liberty. Critics counter that such exemptions let the Church impose religious norms on others, enable discrimination, and should be curtailed to preserve equal access and the secular rule of law.",
+    "queries": [
+      "Are religious exemptions within the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "hobby lobby",
+    "wiki_title": "hobby lobby",
+    "summary": "Hobby Lobby’s high‑profile legal battles over contraception and its outspoken evangelical corporate identity are frequently invoked in public debates about the Catholic Church as a precedent for religious‑liberty claims. Catholic supporters cite Hobby Lobby to justify exemptions for church‑affiliated institutions, while critics point to it to argue that faith‑based corporate assertions privilege particular religious views and can undermine secular accountability and access to reproductive services.",
+    "queries": [
+      "Is Hobby Lobby’s standoff with the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "little sisters of the poor",
+    "wiki_title": "little sisters of the poor",
+    "summary": "The Little Sisters of the Poor are often invoked as a tangible example of the Catholic Church’s charitable witness and as a legal test case for religious liberty—supporters cite their challenges to contraceptive mandates to argue for conscience protections for faith-based institutions. Critics use the order’s litigation to argue that Catholic organizations seek special legal exemptions that can limit access to reproductive health services and complicate church–state boundaries.",
+    "queries": [
+      "Are the Little Sisters of the Poor's actions reasonable within Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "religious freedom restoration act",
+    "wiki_title": "religious freedom restoration act",
+    "summary": "Catholic institutions and leaders often invoke RFRA to justify exemptions from contraceptive mandates, anti‑discrimination rules, and public‑health orders, framing it as necessary to protect Catholic conscience and institutional autonomy. Critics argue RFRA is used by the Church to shield discriminatory practices against women and LGBTQ people and to resist secular accountability and equal‑access regulations.",
+    "queries": [
+      "Is the religious freedom restoration act justified for the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "contraceptive mandate",
+    "wiki_title": "contraceptive mandate",
+    "summary": "The contraceptive mandate is often invoked to portray the Catholic Church as defending religious liberty and institutional conscience when it resists government requirements to provide contraception through its hospitals and schools; conversely, advocates of the mandate use it to criticize the Church as obstructing women’s reproductive healthcare and public-health access, shaping debates over church–state separation and exemptions in healthcare policy.",
+    "queries": [
+      "How do people view the contraceptive mandate within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "adoption agencies",
+    "wiki_title": "adoption",
+    "summary": "Adoption is used in public debates about the Catholic Church both to bolster its pro‑life, pro‑family narrative—presenting adoption as a moral alternative to abortion—and to spotlight conflicts when Church‑run agencies refuse placements for same‑sex or unmarried couples, fueling disputes between religious‑freedom claims and anti‑discrimination policies over licensing, funding, and exemptions for faith‑based agencies.",
+    "queries": [
+      "Is it reasonable for Catholic Church adoption agencies to consider religious matching?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "church tax",
+    "wiki_title": "church tax",
+    "summary": "In debates about the Catholic Church, the church tax is used to spotlight the institution’s public funding and perceived privilege—critics cite it to argue the Church shouldn’t receive state-backed revenues (especially amid abuse scandals) and to push fiscal separation, while supporters frame it as a membership-based mechanism that legitimately funds the Church’s charitable and pastoral work. It also fuels policy fights over transparency, accountability, and whether leaving the Church to avoid the tax is a form of protest or a distortion of religious freedom.",
+    "queries": [
+      "Is the church tax in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "german bishops' conference",
+    "wiki_title": "german bishops' conference",
+    "summary": "In public debates the German Bishops' Conference is often cited as the most prominent national voice pushing progressive reform within the Catholic Church—advocating measures like revisiting clerical celibacy, expanding lay and women's roles, pastoral care for LGBTQ people, and stronger abuse accountability—and its Synodal Path is frequently framed as a flashpoint with Rome. Supporters portray it as a necessary agent of renewal and transparency, while critics accuse it of promoting doctrinal deviation and risking rupture with broader Church teaching.",
+    "queries": [
+      "Is the german bishops' conference's direction within the Catholic Church reasonable?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "tax-exempt status",
+    "wiki_title": "tax exemption",
+    "summary": "The Catholic Church’s tax-exempt status is a focal point in public debates where supporters frame it as recognition of the Church’s charitable roles and protection of religious freedom, while critics use it to argue the Church unfairly shelters wealth, deprives governments of revenue, and should face greater financial transparency or lose exemptions when implicated in political activity or institutional abuse.",
+    "queries": [
+      "What consequences has the tax-exempt status of the Catholic Church caused?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "abortion laws",
+    "wiki_title": "abortion law",
+    "summary": "Abortion law is a central touchstone in debates about the Catholic Church: advocates of the Church’s stance cite its anti‑abortion teaching to justify restrictive legislation and pro‑life activism, while critics argue the Church’s influence on abortion policy imposes religious doctrine on secular law and undermines reproductive rights and women’s autonomy. These disputes are used to praise the Church’s moral authority or to condemn its political role, often highlighting tensions between official doctrine, pastoral care, and the views of lay Catholics and politicians.",
+    "queries": [
+      "Is the Catholic Church’s stance on abortion laws reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "hyde amendment",
+    "wiki_title": "hyde amendment",
+    "summary": "Advocates and bishops cite the Hyde Amendment as evidence of the Catholic Church’s practical influence in limiting abortion access and advancing its pro‑life agenda; opponents use it to criticize the Church for imposing religious values on public policy and for contributing to unequal healthcare access for low‑income women.",
+    "queries": [
+      "Is the Hyde Amendment consistent with Catholic Church teaching or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "roe v. wade",
+    "wiki_title": "roe v. wade",
+    "summary": "Roe v. Wade is cited to illustrate and justify the Catholic Church’s strong pro‑life activism—used by supporters to defend the Church’s advocacy for abortion restrictions, mobilize Catholic voters, and claim conscience protections in healthcare policy. Critics invoke Roe (and its overturning) to argue the Church exerts undue political influence, to contest prioritizing anti‑abortion stances over other social‑justice teachings, and to question whether clerical doctrine should shape secular law.",
+    "queries": [
+      "What impacts has roe v. wade had on the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "catholic hospitals",
+    "wiki_title": "hospital",
+    "summary": "Catholic-run hospitals are often invoked as evidence of the Church’s historic charitable role and practical contribution to healthcare, but they are equally a flashpoint in public arguments when institutional religious policies restrict abortion, contraception, sterilization or gender-affirming care. Debates about these hospitals therefore frame policy positions about public funding, conscience protections for faith-based providers, and limits on religious exemptions to ensure patient rights and access.",
+    "queries": [
+      "How do people view Catholic hospitals within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "conscientious objection",
+    "wiki_title": "conscientious objector",
+    "summary": "Conscientious objection is invoked in Catholic debates to legitimize anti‑war, pro‑conscience stances—used by Catholic pacifists and rights advocates to ground refusal of military service in Church teachings about the primacy of conscience and the sanctity of life. It is also deployed to criticize the institutional Church when its leaders appear to favor state or military policies, and to press for conscience exemptions and alternative civilian service in Church‑related policy battles (healthcare, military chaplaincy, public funding).",
+    "queries": [
+      "What consequences has conscientious objection in the Catholic Church caused?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "same-sex marriage",
+    "wiki_title": "same-sex marriage",
+    "summary": "Same-sex marriage serves as a major flashpoint in public debates about the Catholic Church, with conservatives citing it to defend traditional doctrine, sacramental definitions of marriage, and claims to religious freedom while opposing legal recognition. Conversely, critics and progressive Catholics invoke marriage-equality arguments to portray the Church as discriminatory, press for pastoral change or legal separation of church and state, and challenge its moral authority in public policy.",
+    "queries": [
+      "Is the Catholic Church’s stance on same-sex marriage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "us conference of catholic bishops",
+    "wiki_title": "united states conference of catholic bishops",
+    "summary": "The USCCB functions as the public voice of the American Catholic hierarchy, deploying Church teaching to influence debates over abortion, marriage, religious liberty, immigration, education, and social policy—typically championing pro‑life positions, traditional marriage, and conscience protections while urging a prominent role for Catholic institutions in public life. Its statements are used both to justify conservative policy stances and to criticize perceived political partisanship or failures in handling clergy sexual abuse, thereby shaping arguments about the Church’s moral authority and institutional accountability.",
+    "queries": [
+      "How do people view the us conference of catholic bishops?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "obergefell v. hodges",
+    "wiki_title": "obergefell v. hodges",
+    "summary": "Obergefell v. Hodges is frequently invoked in debates about the Catholic Church as a watershed legal change that pits civil marriage equality against Church teaching: defenders of the Church cite the decision as evidence of a legal imposition that threatens religious liberty and justify calls for conscience protections and institutional exemptions, while critics use it to portray Church resistance as discriminatory and to press for compliance and accountability in areas like adoption, employment, and public ministry.",
+    "queries": [
+      "How do Catholics view Obergefell v. Hodges within Church life?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "amoris laetitia",
+    "wiki_title": "amoris laetitia",
+    "summary": "Amoris laetitia is cited by reform-minded Catholics and commentators to justify a more pastoral, mercy-centered and synodal approach within the Catholic Church—especially arguing for flexible accompaniment and possible access to sacraments for divorced and remarried people. Critics counter that it exemplifies doctrinal ambiguity or a decentralizing shift in papal authority, using it to argue against perceived liberalization of Church discipline and to defend stricter traditional norms.",
+    "queries": [
+      "What effects has amoris laetitia had on Church teaching?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "blessing of same-sex unions",
+    "wiki_title": "blessing of same-sex unions in christian churches",
+    "summary": "The practice of other Christian churches blessing same-sex unions is frequently invoked in debates about the Catholic Church to portray it as either too rigid and in need of pastoral reform or as a bulwark defending traditional doctrine; advocates cite these blessings to pressure Catholic leaders toward greater inclusion, while critics point to them as warnings of doctrinal erosion and a threat to sacramental understanding and episcopal authority.",
+    "queries": [
+      "How do people view the blessing of same-sex unions?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "lgbt catholics",
+    "wiki_title": "pastoral care for lgbtq catholics",
+    "summary": "References to pastoral care for LGBTQ Catholics are used by advocates to pressure the Church toward more inclusive, compassionate practices (such as blessings and anti‑discrimination measures) and to reframe institutional priorities around accompaniment rather than punishment. Conversely, critics argue the phrase masks doctrinal compromise or tokenism, and conservatives insist pastoral outreach must not be read as endorsement of same‑sex relationships or a change in Church teaching.",
+    "queries": [
+      "How do people view lgbt catholics within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "usccb",
+    "wiki_title": "usccb publishing",
+    "summary": "USCCB Publishing, as the U.S. bishops’ official publisher, is often cited in public debates to authorize and amplify the Church’s positions on doctrine, liturgy, and social policy—used to justify traditional stances on abortion, marriage, religious freedom, and immigration. Opponents and critics likewise point to its materials to argue that the institutional Church is politicized or to hold bishops publicly accountable for doctrinal or moral inconsistencies.",
+    "queries": [
+      "What impacts has the usccb had on Catholics’ public positions?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "faithful citizenship",
+    "wiki_title": "oath of citizenship",
+    "summary": "Oaths of citizenship are frequently invoked in debates about Catholic loyalty and religious freedom—historically used to demand renunciations of papal authority or to exclude Catholic immigrants, and today used to argue either that Catholics must demonstrate exclusive civic allegiance or that the state must accommodate Catholic conscience (e.g., optional religious language). These disputes shape policy positions on naturalization ceremonies, immigrant assimilation, and whether the Church’s transnational ties justify special tests of loyalty.",
+    "queries": [
+      "Is faithful citizenship within the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "sexual abuse and accountability",
+    "wiki_title": "sexual abuse",
+    "summary": "Revelations of sexual abuse by clergy and patterns of institutional cover‑ups are used to depict the Catholic Church as morally compromised and systemically irresponsible, fueling demands for accountability, legal redress, mandatory safeguarding, and limits on clerical autonomy. Defenders counter by stressing reforms, repentance, or the non‑representative nature of offenders to argue against broad structural changes or external control, shaping debates over transparency, celibacy, and Church authority.",
+    "queries": [
+      "What consequences has sexual abuse and accountability had for the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "pope francis",
+    "wiki_title": "pope francis",
+    "summary": "Pope Francis is frequently invoked in debates over the Catholic Church’s direction: supporters point to him as a reforming, pastoral exemplar who justifies emphasis on mercy, social justice, climate action, synodality, and more inclusive pastoral approaches (including greater roles for laity and a more accommodating stance toward LGBT people). Critics use him to argue the Church is straying from tradition or becoming politicized, making him a polarizing touchstone in discussions of doctrine, governance, and Church identity.",
+    "queries": [
+      "Are Pope Francis’s public statements justified or cause for concern?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "laudato si'",
+    "wiki_title": "laudato si'",
+    "summary": "Laudato si' is commonly invoked to frame the Catholic Church as a moral leader on climate, economic justice, and care for the poor—used by supporters to justify church advocacy for environmental policy, sustainable development, and solidarity-based economic reforms. Conversely, critics use it in debates to argue the Church under Pope Francis has become politicized or prioritizes progressive environmental and social agendas over traditional doctrinal concerns, fueling intra‑church disputes about papal direction and Catholic identity.",
+    "queries": [
+      "Is laudato si' by the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "same-sex civil unions",
+    "wiki_title": "civil union",
+    "summary": "Civil unions are deployed in debates to challenge or defend the Catholic Church’s social authority: advocates cite civil-union recognition — and Pope Francis’s more pastoral remarks — as evidence the Church can soften toward LGBTQ people, while opponents portray them as either a necessary civil compromise or a betrayal of sacramental marriage that the Church should resist. The issue is thus used to argue whether Catholic teaching should shape civil law or be limited to pastoral guidance.",
+    "queries": [
+      "What effects would Church acceptance of same-sex civil unions cause?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "traditionalist catholics",
+    "wiki_title": "traditionalist catholicism",
+    "summary": "Traditionalist Catholicism is invoked in debates about the Catholic Church to argue for a return to pre‑Vatican II liturgy, doctrine, and discipline—used to justify stricter moral teaching, opposition to liturgical and ecumenical reforms, and resistance to liberalizing policies on sexuality and gender. Opponents portray it as a reactionary force that critiques current Church leadership for doctrinal erosion and as a movement that can fragment ecclesial unity or exclude modern pastoral approaches.",
+    "queries": [
+      "What impacts have traditionalist catholics had on Catholic Church practices?"
+    ]
+  },
+  {
+    "id": "C4-1-7",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "synod on synodality",
+    "wiki_title": "synod on synodality",
+    "summary": "The Synod on Synodality is invoked by reform-minded Catholics and commentators as evidence the Church under Francis is moving toward more consultative, decentralized governance and greater inclusion (e.g., expanded roles for women and lay participation), used to justify pastoral openness on issues like climate and institutional reform.  Opponents frame the synod as undermining traditional doctrinal authority and use it to argue the Church is departing from established teachings, making it a lightning‑rod in debates over legitimacy, authority, and the Church’s future direction.",
+    "queries": [
+      "Is the synod on synodality in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "theodore mccarrick",
+    "wiki_title": "theodore mccarrick",
+    "summary": "Theodore McCarrick’s case is often cited to condemn the Catholic hierarchy’s handling of clerical sexual abuse and to argue for radical institutional reforms—independent investigations, greater transparency, and stronger safeguarding and accountability measures. It is also deployed in contested cultural arguments: critics use it as evidence of systemic cover-ups, defenders point to his punishment as corrective action, and some groups exploit allegations about his sexuality to push anti-LGBT or celibacy-change agendas.",
+    "queries": [
+      "Is scrutiny of theodore mccarrick justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "pope benedict xvi",
+    "wiki_title": "pope benedict xvi",
+    "summary": "In debates about the Catholic Church, Benedict XVI is often invoked by conservatives as a theological and institutional exemplar—used to justify restoring traditional liturgy, reinforcing doctrinal orthodoxy, and resisting secularizing or liberal reforms on sexuality and church practice. Conversely, critics cite his stances on contraception, his handling of clergy sexual‑abuse issues, and his unprecedented resignation to argue the Church needs greater transparency, accountability, and institutional reform.",
+    "queries": [
+      "Is pope benedict xvi's leadership in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "archdiocese of washington",
+    "wiki_title": "archdiocese of washington",
+    "summary": "The Archdiocese of Washington is frequently cited in debates about the Catholic Church’s political and moral influence—used to illustrate how U.S. bishops weigh doctrine against engagement with federal policymakers on issues like abortion, religious liberty, and social welfare. Its public statements and handling of clergy issues are often deployed both to criticize the Church’s perceived political conservatism or failures on abuse and racial justice, and to justify calls for a more pastoral, reform-minded church.",
+    "queries": [
+      "What effect has the archdiocese of washington had on local parish communities?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "laicization",
+    "wiki_title": "defrocking",
+    "summary": "References to defrocking are used to argue about the Catholic Church’s willingness to hold clergy accountable—proponents point to laicization of abusive or renegade priests as evidence of reform and moral policing, while critics say it can be a symbolic remedy that conceals institutional failures or avoids civil prosecution. It’s also invoked in debates over doctrinal discipline (e.g., dissenting theologians, priests in same-sex relationships), where laicization is framed either as necessary protection of church doctrine or as punitive enforcement of clerical conformity and clericalism.",
+    "queries": [
+      "Is laicization in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-8",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "donald wuerl",
+    "wiki_title": "donald wuerl",
+    "summary": "Donald Wuerl is often invoked in debates about the Catholic Church as a test case of how the hierarchy handles clerical sexual abuse — critics cite his record and resignation to argue the Church protects bishops and lacks accountability, while defenders portray him as a moderate, pastoral administrator who worked within Vatican procedures. His involvement in the McCarrick investigation and subsequent controversy is used to push arguments for greater transparency and systemic reform or, conversely, for measured, procedural reform rather than public shaming.",
+    "queries": [
+      "Is Donald Wuerl's leadership in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "pennsylvania grand jury",
+    "wiki_title": "grand jury",
+    "summary": "State grand jury investigations and high‑profile reports of clergy abuse are frequently cited by critics to demonstrate systemic cover‑ups within the Catholic Church and to justify criminal accountability, transparency measures, and institutional reform; defenders and some church officials, however, often invoke grand jury secrecy, alleged prosecutorial overreach, or statute‑of‑limitations concerns to argue against politicized prosecutions or retroactive liability.",
+    "queries": [
+      "How do people view the pennsylvania grand jury's findings?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "diocese of pittsburgh",
+    "wiki_title": "diocese of pittsburgh",
+    "summary": "The Diocese of Pittsburgh is often cited in public debates about the Catholic Church as a case study in episcopal authority and accountability: critics point to its bishops’ management of clergy sexual-abuse cases and parish closures to argue the hierarchy shields clergy and resists transparency, while supporters use diocesan reform efforts and conservative governance as evidence of necessary institutional discipline and traditional pastoral priorities.",
+    "queries": [
+      "Is the diocese of pittsburgh's leadership response reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "philadelphia inquirer",
+    "wiki_title": "the philadelphia inquirer",
+    "summary": "The Philadelphia Inquirer’s investigative reporting and editorials have frequently been used to expose and criticize the Archdiocese of Philadelphia—most prominently in coverage of clergy sexual‑abuse and alleged cover‑ups—thereby fueling public demands for transparency, victim compensation, and institutional reform. Its opinion pages also frame debates about the Church’s political influence and social services, sometimes defending local parish contributions while insisting on accountability from Church leadership.",
+    "queries": [
+      "Is the Philadelphia Inquirer’s coverage of the Catholic Church fair or not?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "clericalism",
+    "wiki_title": "clericalism",
+    "summary": "In public debates about the Catholic Church, critics use “clericalism” to blame concentrated clerical authority and privilege for cover-ups, abuses, and democratic deficits—using the label to push for lay empowerment, transparency, accountability, and limits on clerical immunities. Supporters or defenders tend to reject that critique or reframe hierarchical authority as necessary for doctrinal unity and institutional stability, so the term often polarizes reformers versus traditionalists.",
+    "queries": [
+      "How do people view clericalism today?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "survivors network",
+    "wiki_title": "survivors network of those abused by priests",
+    "summary": "Survivor networks amplify testimony and legal claims to portray the Catholic Church as institutionally culpable for protecting abusers, using visceral accounts to justify demands for transparency, accountability, compensation, independent investigations, and structural reform. In public debates they bolster calls for stricter civil oversight and oppose narratives or policies that prioritize clerical autonomy, internal handling of abuse, or minimization of victims’ experiences.",
+    "queries": [
+      "What effects has the survivors network had on church communities?"
+    ]
+  },
+  {
+    "id": "C4-3-8",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "josh shapiro",
+    "wiki_title": "josh shapiro",
+    "summary": "Shapiro’s high-profile legal actions against clergy and church leadership are frequently invoked by critics to demonstrate systemic abuse and cover-up within the Catholic Church and to justify calls for transparency, criminal accountability, and institutional reform. Conversely, defenders of the Church sometimes frame his interventions as politically motivated or as evidence of secular overreach into religious institutions.",
+    "queries": [
+      "How do people view josh shapiro's stance on Catholic Church issues?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "boston globe spotlight",
+    "wiki_title": "the boston globe",
+    "summary": "Through investigative reporting—most famously the Spotlight series—the Boston Globe frames the Catholic Church as an institution that has too often covered up clergy abuse and therefore requires transparency, accountability, and legal/institutional reform. Its news and editorials typically bolster victims’ rights and stronger oversight while providing ammunition to Church critics and drawing pushback from defenders who see the paper as adversarial.",
+    "queries": [
+      "What effects has Boston Globe Spotlight had on Catholic Church accountability?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "cardinal bernard law",
+    "wiki_title": "bernard francis law",
+    "summary": "Bernard Francis Law is invoked as the emblematic evidence of the Catholic Church’s institutional cover-up of clergy sexual abuse, used by critics to demand transparency, independent oversight, and accountability for bishops; defenders sometimes portray him as a scapegoat or the product of bureaucratic failures, a framing that fuels debates over reform versus institutional protection.",
+    "queries": [
+      "How do people view cardinal bernard law within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "john geoghan",
+    "wiki_title": "john geoghan",
+    "summary": "John Geoghan’s case is invoked as an emblem of clerical sexual-abuse and episcopal cover-up, frequently cited by critics to demand accountability, transparency, and legal reform within the Catholic Church, while defenders sometimes portray him as an isolated aberration to resist sweeping institutional blame.",
+    "queries": [
+      "What impact did john geoghan have on public trust in the Church?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "archdiocese of boston",
+    "wiki_title": "archdiocese of boston",
+    "summary": "The Archdiocese of Boston is frequently invoked as the emblematic case of the Catholic Church's sexual-abuse crisis and hierarchical cover‑up, used by critics to argue that clericalism, secrecy, and lack of accountability are systemic problems requiring major governance and legal reforms. It also appears in debates where defenders point to subsequent investigations and policy changes as evidence of the Church’s capacity for reform, or where others use it to press for stricter discipline and renewed moral authority.",
+    "queries": [
+      "What impact has the archdiocese of boston had on the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "legal settlements",
+    "wiki_title": "settlement (litigation)",
+    "summary": "Civil settlements in clergy-abuse cases are frequently invoked to frame the Catholic Church as either an institution that bought silence and evaded accountability or one that provided victims with compensation and closure; critics cite large collective settlements and secretive payout terms as evidence of cover-up, while supporters point to structured settlements as pragmatic remediation. Debates over diocesan bankruptcies and asset sales tied to settlements also drive calls for greater transparency, mandatory reporting, and legal reforms versus arguments that litigation-driven remedies unfairly punish local parishes and threaten Church services.",
+    "queries": [
+      "Are the Catholic Church's legal settlements reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "communion for politicians",
+    "wiki_title": "communion and liberation",
+    "summary": "Communion and Liberation is often invoked in discussions of the Catholic Church as an exemplar of lay-driven renewal that defends close collaboration with bishops and a culturally engaged yet doctrinally conservative Catholicism, used to justify active Church influence in education and public life. Critics, however, use CL to illustrate concerns about insider networks and political entanglement within the Church, arguing it can concentrate influence over diocesan priorities and public-policy positions in line with conservative agendas.",
+    "queries": [
+      "How do people view communion for politicians?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "traditional latin mass",
+    "wiki_title": "tridentine mass",
+    "summary": "The Tridentine Mass is deployed by traditionalist Catholics as a symbol of authentic continuity, reverent worship, and resistance to post‑Vatican II reforms—used to justify calls for stricter liturgical, doctrinal, and clerical norms—while critics and recent popes portray restrictions on it as necessary to uphold papal authority, promote pastoral unity, and prevent schism, making the rite a focal point in wider debates over the Church’s identity and direction.",
+    "queries": [
+      "What impacts has the traditional Latin Mass had on Catholic communities?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "national catholic reporter",
+    "wiki_title": "national catholic reporter",
+    "summary": "The National Catholic Reporter shapes debates about the Catholic Church by amplifying progressive and reformist perspectives through investigative reporting and commentary, often highlighting clergy sexual-abuse accountability and calls for greater transparency. It typically supports expanded lay and women's roles, social-justice and inclusionist stances (including LGBTQ inclusion), while criticizing Vatican conservatism and hierarchical policies it views as obstructing reform.",
+    "queries": [
+      "How do people view National Catholic Reporter's role in Catholic Church debates?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "immigration policy",
+    "wiki_title": "immigration law",
+    "summary": "Immigration law features in public disputes over the Catholic Church when clergy and dioceses invoke Catholic social teaching to lobby for more generous asylum, family‑unity, and regularization policies—using moral authority to frame stricter enforcement or deportations as unjust. Critics counter by citing immigration law to accuse the Church of enabling illegal entry or sanctuary practices that they say undermine the rule of law and burden communities, turning the issue into a clash between compassion-based ethics and legal/sovereignty arguments.",
+    "queries": [
+      "What impacts has the Catholic Church's immigration policy had?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "statute of limitations",
+    "wiki_title": "statute of limitations",
+    "summary": "In public debates about the Catholic Church, calls to extend or abolish statutes of limitations are central to demands for accountability in clerical sexual‑abuse cases, because changing time limits enables survivors to bring civil suits, seek compensation, and force disclosure of church records. Opponents — including some Church defenders and legal conservatives — counter that retroactive extensions are unfair or politically motivated, so statute‑of‑limitations battles shape policy proposals, settlements, and public perceptions of institutional culpability.",
+    "queries": [
+      "Is the Catholic Church's statute of limitations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "john jay report",
+    "wiki_title": "john jay report",
+    "summary": "The John Jay Report is often cited by defenders of the Catholic Church to argue that clergy sexual abuse was concentrated in past decades and has declined after reforms, framing the crisis as largely addressed; critics counter that its reliance on church-supplied data and methodological limits understates victim numbers and responsibility, using those critiques to demand greater transparency, accountability, and legal remedies.",
+    "queries": [
+      "What impacts has the john jay report had on the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "tolling laws",
+    "wiki_title": "toll",
+    "summary": "In public debates about the Catholic Church, 'toll' is often invoked to quantify the human cost of scandals (e.g., numbers of victims or a 'death toll'), a framing critics use to press for accountability and institutional reform; conversely, imagery of bells tolling and similar sacramental language is used by defenders to evoke tradition, mourning, and moral authority, resisting purely secular critiques.",
+    "queries": [
+      "Are the Catholic Church's tolling laws justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "state legislatures",
+    "wiki_title": "state legislature",
+    "summary": "State legislatures are frequent battlegrounds where laws on abortion, school vouchers, religious exemptions, marriage, and clergy abuse are framed to either protect Catholic institutional interests or to curb them; advocates invoke state lawmaking to defend the Church’s conscience rights while critics use the same venues to argue the Church receives undue privileges or needs stronger accountability.",
+    "queries": [
+      "How do people view state legislatures' influence on Catholic Church issues?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "diocese bankruptcies",
+    "wiki_title": "settlements and bankruptcies in catholic sex abuse cases",
+    "summary": "The scale of settlements and the use of bankruptcy by dioceses are frequently invoked as evidence that the Catholic Church systematically protected abusive clergy and prioritized institutional interests over victims, bolstering calls for transparency, criminal accountability, and reforms to clergy oversight. Church defenders and some officials frame settlements and bankruptcy protection as pragmatic steps to provide compensation and preserve parish services, while critics argue these tactics shield files and limit victims’ legal recourse, fueling demands for stronger civil remedies and disclosure requirements.",
+    "queries": [
+      "How do people view diocese bankruptcies in the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "snap",
+    "wiki_title": "snap",
+    "summary": "U.S. Catholic leaders and charities frequently invoke SNAP in public debates as a practical expression of Catholic social teaching—arguing for expanded benefits and opposing cuts as necessary to protect the poor—while opponents (including some conservative Catholics) use SNAP to argue for greater private charity, fiscal restraint, or limits on government aid; disputes over immigrant eligibility and whether Church agencies should accept or be regulated by government funds also shape arguments about religious duty, autonomy, and how best to care for the needy.",
+    "queries": [
+      "What impacts has snap had on the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "spotlight (film)",
+    "wiki_title": "spotlight (film)",
+    "summary": "Spotlight is often invoked in public debates as vivid evidence of systemic abuse and institutional cover‑up within the Catholic Church, bolstering calls for transparency, mandatory reporting, survivor-centered reforms, and civil accountability. By legitimizing survivors’ claims and spotlighting clerical secrecy, the film reinforces skeptical attitudes toward clerical authority, though some defenders argue it simplifies complex institutional and pastoral realities.",
+    "queries": [
+      "Is spotlight (film)'s impact on views of the Catholic Church justified?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "social services and education",
+    "wiki_title": "social services",
+    "summary": "Supporters point to the Catholic Church’s long-running role in hospitals, schools and charities to defend its moral authority, argue for public funding or legal exemptions for faith-based providers, and portray the Church as indispensable to the social safety net. Critics counter that Church-run social services can mask institutional abuses, discriminate on issues like reproductive health or LGBTQ+ rights, and be used for proselytism or to resist secular welfare expansion, so they call for tighter regulation or separation of state funding.",
+    "queries": [
+      "Is the Catholic Church's social services and education justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "catholic charities",
+    "wiki_title": "catholic charities",
+    "summary": "Supporters cite Catholic charities to portray the Catholic Church as an indispensable provider of social services and to justify public funding, legal exemptions, and a seat at policy-making tables. Critics use them to question whether charity should excuse institutional accountability or the Church’s doctrinal stances—arguing public support should be conditioned on nondiscrimination and transparency.",
+    "queries": [
+      "Are the actions of catholic charities reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "refugee resettlement",
+    "wiki_title": "third-country resettlement",
+    "summary": "Third-country resettlement is cited by supporters to frame the Catholic Church as morally obligated to welcome refugees—justifying papal appeals, parish sponsorship programs, and advocacy for generous government quotas—while opponents use resettlement debates to criticize the Church as overstepping into politics or prioritizing migrants in ways they say strain parish resources and social cohesion.",
+    "queries": [
+      "Is the Catholic Church’s refugee resettlement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "faith-based initiatives",
+    "wiki_title": "white house office of faith-based and neighborhood partnerships",
+    "summary": "Supporters point to the White House Office of Faith-based and Neighborhood Partnerships to argue that the Catholic Church deserves government partnerships and support for its charities, and to justify religious exemptions and a formal voice for Catholic moral teaching in policy. Critics use the office to claim such partnerships blur church–state lines, enable Catholic institutions to refuse reproductive or LGBTQ-related services, and privilege religious doctrine over secular civil-rights protections.",
+    "queries": [
+      "How do people view faith-based initiatives within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "caritas internationalis",
+    "wiki_title": "caritas internationalis",
+    "summary": "Caritas Internationalis is often cited to showcase the Catholic Church’s global humanitarian work and commitment to social justice, bolstering arguments that the Church plays a constructive public role; critics, however, use its doctrinal alignment and institutional ties to argue that its aid reflects and reinforces conservative Church policies (e.g., on reproductive health and LGBTQ issues) and cannot substitute for accountability on other institutional failures.",
+    "queries": [
+      "How do people view Caritas Internationalis’s role in Catholic Church aid?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "unhcr",
+    "wiki_title": "united nations high commissioner for refugees",
+    "summary": "Advocates frequently cite UNHCR data and collaborations to bolster claims that the Catholic Church plays a vital humanitarian role defending refugees and promoting humane asylum, resettlement, and integration policies. Critics likewise invoke UNHCR protection standards and statistics to challenge Church bodies or Catholic‑led governments when they appear to fall short of international obligations or when Church rhetoric aligns with restrictive immigration politics.",
+    "queries": [
+      "How do people view UNHCR's work alongside Catholic organizations?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "european migrant crisis",
+    "wiki_title": "2015 european migrant crisis",
+    "summary": "During the 2015 European migrant crisis, supporters cited Pope Francis’s pronouncements and Catholic charities’ refugee work to portray the Church as a moral leader of openness, solidarity, and humanitarian responsibility. Critics used the crisis to accuse the Church of political activism or cultural naivety, arguing its pro-refugee stance can conflict with concerns about social cohesion, security, or traditionalist Catholic priorities.",
+    "queries": [
+      "Is the Catholic Church justified on the european migrant crisis?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "disaster relief",
+    "wiki_title": "emergency management",
+    "summary": "In public debates, emergency management is often used to highlight the Catholic Church’s practical role as a large relief provider—cited by supporters to justify partnerships, public funding, and subsidiarity-based involvement of parishes and Catholic agencies in disaster relief and community resilience. Critics, however, invoke emergency-management concerns about transparency, discrimination, proselytism, and resource misuse to argue for secular oversight, strict accountability, and limits on preferential treatment of Church-run emergency services.",
+    "queries": [
+      "Is the Catholic Church's disaster relief justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "catholic relief services",
+    "wiki_title": "catholic relief services",
+    "summary": "Catholic Relief Services is often cited by supporters to demonstrate the Catholic Church’s global commitment to social justice and humanitarian aid, bolstering claims that the Church has moral authority and practical impact on poverty, migration, and development policy. Critics, however, point to CRS as an instrument of the Church’s soft power—raising debates about proselytism, doctrinal influence over aid (e.g., on reproductive health), accountability, or as a public-relations counterweight to institutional scandals.",
+    "queries": [
+      "How do people view Catholic Relief Services’ handling of aid?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "usaid",
+    "wiki_title": "united states agency for international development",
+    "summary": "USAID is invoked in debates about the Catholic Church both as evidence of the Church’s positive humanitarian role—through partnerships with Catholic relief agencies to deliver health and development aid—and as a point of contention, with critics arguing U.S. aid policies (especially on reproductive health, contraception, and secularizing conditions) conflict with Catholic doctrine and are used to pressure or undermine Church positions.",
+    "queries": [
+      "What consequences has usaid involvement with the Catholic Church caused?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "refugee crisis",
+    "wiki_title": "refugee crisis",
+    "summary": "The refugee crisis is frequently invoked to amplify the Catholic Church’s teaching on hospitality and human dignity—Pope Francis and many clergy cite refugee suffering to justify humanitarian aid, sanctuary, and pro‑immigrant policies, framing the Church as a moral advocate for migrants. At the same time critics use the crisis to accuse the Church of hypocrisy or to push it toward stricter immigration stances, making refugees a flashpoint in debates over charity versus national security, integration, and the Church’s role in politics.",
+    "queries": [
+      "What consequences has the Catholic Church's stance on the refugee crisis caused?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "parochial schools",
+    "wiki_title": "parochial school",
+    "summary": "Parochial schools are invoked as tangible proof of the Catholic Church’s social role—advocates portray them as institutions that nurture faith, community values, and parental choice and use them to argue for religious exemptions and public support such as vouchers. Critics, however, cite parochial schools to challenge the Church on indoctrination, unequal access, state funding of religion, and historical failures of oversight (including abuse cover‑ups), arguing they can perpetuate clerical power and evade public accountability.",
+    "queries": [
+      "What effects have parochial schools had within the Catholic Church community?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "national catholic educational association",
+    "wiki_title": "national catholic educational association",
+    "summary": "Advocates and commentators cite the National Catholic Educational Association to portray the Catholic Church as a committed public educator and defender of religious freedom—using its advocacy for Catholic schools, teacher formation, and school‑choice/voucher positions to justify funding or legal exemptions.  Critics likewise invoke its enrollment data and policy stances to argue the Church is either clinging to tradition and resisting inclusion or struggling to modernize and retain influence.",
+    "queries": [
+      "How do people view the national catholic educational association?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "espinoza v. montana",
+    "wiki_title": "espinoza v. montana department of revenue",
+    "summary": "Advocates for the Catholic Church cite Espinoza v. Montana to argue that public scholarship and voucher programs cannot exclude Catholic schools on the basis of religion, using the decision to push for expanded state support of parochial education and other faith-based services. Critics invoke the case to warn that it weakens separation of church and state by enabling public funds to flow to institutions that promote Catholic doctrine, fueling debates over religious liberty, equal treatment of minorities, and limits on taxpayer-funded proselytizing.",
+    "queries": [
+      "Is espinoza v. montana's decision justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "sex abuse scandal",
+    "wiki_title": "penn state child sex abuse scandal",
+    "summary": "The Penn State child sex abuse scandal is often invoked in debates about the Catholic Church as a secular analogue of institutional failure—used by critics to highlight patterns of cover‑up, inadequate oversight, and the need for transparent legal accountability. Defenders sometimes use it to argue abuse is a broader social problem, supporting calls for systemic safeguards (mandatory reporting, independent investigations) rather than singling out the Church.",
+    "queries": [
+      "What consequences has the sex abuse scandal had for the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "catholic universities",
+    "wiki_title": "international federation of catholic universities",
+    "summary": "The International Federation of Catholic Universities is invoked in public debates as evidence of the Church’s global intellectual and educational network, used to legitimize positions on Catholic teaching, social justice, and higher-education policy by citing research and statements from Catholic scholars. Its work is also marshaled both to defend traditional Church stances and, when member institutions advance reformist interpretations, to criticize or press for modernization of Church practice and policy.",
+    "queries": [
+      "Is the Catholic Church's support for catholic universities justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "ex corde ecclesiae",
+    "wiki_title": "ex corde ecclesiae",
+    "summary": "Ex corde Ecclesiae is frequently invoked by Vatican-aligned conservatives to justify stronger hierarchical oversight and doctrinal conformity in Catholic institutions, framing the Church as the primary guardian of Catholic identity; critics and academic defenders use it to argue that such controls undermine academic freedom, pluralism, and the autonomy of Catholic universities, making it a focal point in debates over Church authority versus institutional independence.",
+    "queries": [
+      "What effects has ex corde ecclesiae had on Catholic higher education?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "academic freedom",
+    "wiki_title": "academic freedom",
+    "summary": "Academic freedom is a flashpoint in debates over Catholic universities and theologians: critics point to dismissals or censure of faculty who challenge Church teaching (on contraception, LGBT issues, women’s ordination, sexual‑abuse policy) to argue the Church enforces doctrinal conformity, while bishops and Catholic institutions invoke religious mission and institutional autonomy to justify limits on hiring, curriculum, and public speech. Those opposing Church control use academic‑freedom claims to push for legal protections and secular oversight, while defenders invoke it to argue for exemptions from nondiscrimination rules and preservation of Catholic identity.",
+    "queries": [
+      "How do people view academic freedom in Catholic institutions?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "university of notre dame",
+    "wiki_title": "university of notre dame",
+    "summary": "As one of the most prominent Catholic universities in the U.S., Notre Dame is frequently cited in public debates as an authoritative defender of the Church’s intellectual tradition and religious‑liberty claims, lending academic credibility to Catholic positions on issues like abortion, contraception mandates, and faith‑based exemptions. Critics, however, use Notre Dame to argue that major Catholic institutions are politically conservative, elite, or too willing to align with partisan causes, raising questions about how the Church balances doctrinal fidelity with academic freedom and pluralism.",
+    "queries": [
+      "How do people view University of Notre Dame's role in Catholic life?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "jesuit universities",
+    "wiki_title": "list of jesuit educational institutions",
+    "summary": "Lists of Jesuit educational institutions are commonly cited in debates about the Catholic Church to showcase the Jesuits’ global institutional reach and role in forming intellectual and elite networks; advocates point to them as evidence of the Church’s commitment to education, social justice, and engagement with modernity, while critics invoke the list to argue for perceived liberal bias, secularizing influence, or disproportionate sway over clergy formation and doctrinal debates.",
+    "queries": [
+      "Is the influence of jesuit universities on Catholic doctrine reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "title ix",
+    "wiki_title": "title ix",
+    "summary": "Title IX is invoked in public debates about the Catholic Church primarily around Catholic schools and universities: survivors and advocates use it to demand accountability for sexual abuse and to secure equal access and protections for women and LGBTQ+ students, while Church leaders and supporters often argue for religious‑exemption claims, warning that strict Title IX enforcement can impinge on doctrinal freedom in hiring, curriculum, and institutional governance.",
+    "queries": [
+      "How do people view Title IX’s impact within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "campus ministry",
+    "wiki_title": "college religious organizations",
+    "summary": "College religious organizations are frequently invoked to defend the Catholic Church’s institutional presence on campus, used to justify recognition, funding, and legal protections or exemptions so Catholic student groups can practice and promote church teachings. Conversely, they serve as focal points for criticism—especially over sexuality, gender, and hiring—where opponents argue Catholic-affiliated groups can foster exclusion and require stronger nondiscrimination or secular policy enforcement.",
+    "queries": [
+      "Is campus ministry within the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-8",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "board of trustees",
+    "wiki_title": "board of directors",
+    "summary": "In debates about the Catholic Church, proposing boards of directors—such as independent review panels, lay boards for diocesan schools/hospitals, or financial oversight committees—is a common argument for increasing transparency, professionalizing management, and holding clergy accountable after abuse or financial scandals. Critics respond that corporate-style boards secularize governance, undermine episcopal authority, and risk prioritizing institutional efficiency or reputation over sacramental and pastoral priorities.",
+    "queries": [
+      "What consequences has the board of trustees in the Catholic Church caused?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "school vouchers",
+    "wiki_title": "school voucher",
+    "summary": "School vouchers are often championed by Catholic leaders and advocates as a policy tool to expand access to parochial education, frame parental choice as religious freedom, and justify public funding for Catholic schools; they are cited in Church messaging as a way to sustain faith-based schooling. Critics, meanwhile, invoke vouchers in debates about the Catholic Church to argue that public funds are being diverted to religious institutions, undermining church/state separation, public-school equity, and accountability for admissions or nondiscrimination.",
+    "queries": [
+      "How do people view school vouchers within Catholic education?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "blaine amendments",
+    "wiki_title": "blaine amendment",
+    "summary": "In debates about the Catholic Church the Blaine Amendment is often cited as historical evidence that public policy has been used to exclude and stigmatize Catholic institutions, bolstering arguments that Catholics were singled out for discrimination; conversely, advocates invoke it to defend secular public education and to justify limits on government funding for Catholic parochial schools to prevent sectarian influence.",
+    "queries": [
+      "How do people view the blaine amendments affecting Catholic schools?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "zelman v. simmons-harris",
+    "wiki_title": "zelman v. simmons-harris",
+    "summary": "Zelman v. Simmons-Harris is frequently cited in debates over the Catholic Church to justify public school-voucher programs that send taxpayer-funded students to Catholic parochial schools, bolstering Catholic and school-choice advocates’ claims that such aid is constitutionally permissible. Opponents use the case to argue it weakens church–state separation by effectively subsidizing Catholic institutions and expanding the Church’s influence in education policy.",
+    "queries": [
+      "How do people view zelman v. simmons-harris?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "tax-credit scholarships",
+    "wiki_title": "tax credit",
+    "summary": "Tax credits frequently appear in debates over public support for Catholic schools and charities, with proponents framing them as a way to advance parental choice, religious freedom, and the Church’s social services by incentivizing donations or subsidizing tuition. Critics counter that such credits effectively channel public resources to a religious institution, undermining church–state separation, diverting funds from public education, and reducing accountability for discriminatory or sectarian practices.",
+    "queries": [
+      "How do people view Catholic Church tax-credit scholarships?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "conscience clause",
+    "wiki_title": "conscience clause",
+    "summary": "In public debates the 'conscience clause' is invoked by Catholic leaders and allies to justify institutional refusals—by hospitals, schools, and clergy—to provide or participate in abortions, contraception, gender‑affirming care, or same‑sex wedding services, framing such refusals as protected religious liberty. Critics counter that these clauses allow the Catholic Church to impose doctrine and deny civil rights and access to healthcare, supporting religious exemptions while opposing mandates for nondiscrimination and patient access.",
+    "queries": [
+      "What effects has the conscience clause had in Catholic Church practice?"
+    ]
+  },
+  {
+    "id": "C5-8",
+    "parent": "C5",
+    "level": 2,
+    "topic": "catholic social teaching",
+    "wiki_title": "catholic social teaching",
+    "summary": "Catholic social teaching is invoked to portray the Church as a moral authority on social and economic questions—used to justify policies favoring poverty relief, labor protections, subsidiarity, and market regulation while criticizing both unfettered capitalism and totalizing ideologies. In public debates it also functions as a tool for opponents and supporters alike to challenge or defend the Church’s political role and consistency on issues like immigration, taxation, healthcare, and welfare.",
+    "queries": [
+      "What impacts has Catholic social teaching had on Church policies?"
+    ]
+  },
+  {
+    "id": "C5-8-1",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "preferential option for the poor",
+    "wiki_title": "option for the poor",
+    "summary": "In public debates about the Catholic Church, the option for the poor is invoked to argue that the Church must prioritize social justice and policy stances that defend the marginalized—shaping praise for papal initiatives, advocacy on immigration, labor and welfare, and calls for institutional reform. Critics counter that invoking this option politicizes church teaching and reflects a liberation-theology leaning that can conflict with conservative priorities, so the concept is often used to justify progressive action or to challenge it as ideological.",
+    "queries": [
+      "Is the Catholic Church's preferential option for the poor justified or not?"
+    ]
+  },
+  {
+    "id": "C5-8-2",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "rerum novarum",
+    "wiki_title": "rerum novarum",
+    "summary": "Rerum novarum serves as a doctrinal touchstone for framing the Catholic Church’s public role in economic and social policy—used by Church leaders to legitimize advocacy on labor, welfare, and moral limits to markets, while critics on the left and right invoke it to press the Church either toward more redistributive action or to defend private property and oppose socialism.",
+    "queries": [
+      "What effects has Rerum Novarum had on labor and policy?"
+    ]
+  },
+  {
+    "id": "C5-8-3",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "subsidiarity",
+    "wiki_title": "subsidiarity",
+    "summary": "In debates about the Catholic Church, subsidiarity is often invoked to argue that authority and pastoral decisions belong first to local bishops, parishes, and lay communities rather than to a remote Vatican bureaucracy, supporting greater lay involvement and contextual pastoral practices (e.g., synodality, local liturgical adaptation). It is also used to justify Church-run social services and to criticize both state overreach and excessive centralization in Church governance, aligning with calls for decentralized decision‑making in ecclesial and public policy matters.",
+    "queries": [
+      "Is subsidiarity in the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-8-4",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "common good",
+    "wiki_title": "common good",
+    "summary": "Catholic leaders and advocates frequently invoke the common good to justify the Church’s social teaching—arguing for policies that protect life, family, workers, the poor, and limits on unregulated markets under principles like solidarity and subsidiarity. Opponents and secular critics use the same idea to challenge the Church either for pressing religiously grounded norms into public law or for failing to serve the common good when institutional interests or abuse scandals override protection of people.",
+    "queries": [
+      "What consequences has the Catholic Church's focus on common good had?"
+    ]
+  },
+  {
+    "id": "C5-8-7",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "liberation theology",
+    "wiki_title": "liberation theology",
+    "summary": "In public debates about the Catholic Church, liberation theology is often cited to push the Church toward outspoken, pro‑poor activism and policy engagement on poverty, land reform, and human rights, framing clergy involvement as a prophetic duty. Critics counterpose it as evidence of politicization or Marxist influence and justify Vatican or episcopal efforts to reassert hierarchical control and doctrinal limits.",
+    "queries": [
+      "Is liberation theology within the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "international relations and diplomacy",
+    "wiki_title": "diplomacy",
+    "summary": "Vatican diplomacy is invoked to portray the Catholic Church as a sovereign, pragmatic global actor that secures legal privileges, shapes norms on religious freedom, family and bioethics, and mediates conflicts—framing used to justify its political interventions and conservative policy aims. Critics counter that the Church’s diplomatic practices (concordats, immunities, backroom bargaining) are evidence of secretive statecraft that protects institutions and clergy from accountability and resists secular reform.",
+    "queries": [
+      "What consequences has the Catholic Church's international relations and diplomacy caused?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "roman curia",
+    "wiki_title": "roman curia",
+    "summary": "In public debates about the Catholic Church the Roman Curia is often invoked as the locus of institutional power: supporters portray it as essential for papal authority, doctrinal unity and coordinated global governance, while critics use it to exemplify centralization, bureaucratic inertia, secrecy and resistance to local reform. High-profile disputes over curial appointments, finances and reforms (e.g., Francis’s reorganization) are therefore leveraged to argue either for stronger centralized oversight or for greater synodality, transparency and decentralization in Church governance.",
+    "queries": [
+      "Is the roman curia's power within the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "pan-amazon synod",
+    "wiki_title": "synod of bishops for the pan-amazon region",
+    "summary": "The Pan-Amazon Synod is often invoked in public debates to portray the Catholic Church as either embracing ecological justice, indigenous rights, inculturation, and pastoral innovation (e.g., discussions about ordaining married local leaders) or, conversely, as evidence of doctrinal watering-down, decentralization, and politicization by critics who see the Church drifting from traditional discipline and universal norms.",
+    "queries": [
+      "How do Catholics view the pan-amazon synod?"
+    ]
+  },
+  {
+    "id": "C7-3-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "francoist spain",
+    "wiki_title": "francoist spain",
+    "summary": "Francoist Spain is frequently cited in debates about the Catholic Church as the canonical example of the Church’s close alliance with an authoritarian state—used by critics to argue the Church enabled repression, moral conservatism, and political privilege, and by defenders to claim the Church safeguarded social order against secularism and communism. Appeals to that era shape contemporary arguments over state funding, clerical influence in education and law, and calls for historical memory or legal accountability.",
+    "queries": [
+      "Was the Catholic Church’s support for francoist spain justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "apostolic nuncio",
+    "wiki_title": "nuncio",
+    "summary": "Publicly, nuncios are depicted as the Vatican’s local power‑brokers whose influence over episcopal appointments and church policy is cited by supporters as necessary to preserve doctrinal unity and by critics as evidence of top‑down centralization, politicized patronage, and an obstacle to local reform and accountability.",
+    "queries": [
+      "Is the apostolic nuncio's role in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "episcopal appointments",
+    "wiki_title": "list of episcopal appointments by pope leo xiv",
+    "summary": "Lists of episcopal appointments by Pope Leo XIV are often deployed to argue about the Church’s direction—supporters cite them as proof of his pastoral priorities and doctrinal consistency, while critics point to patterns in appointments to allege ideological control, centralization, or cronyism. Debates using these lists commonly feed calls for greater transparency, synodality, or reform of the episcopal selection process within the Catholic Church.",
+    "queries": [
+      "What effects have episcopal appointments had?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "carlo maria viganò",
+    "wiki_title": "carlo maria viganò",
+    "summary": "Carlo Maria Viganò is frequently invoked by critics of Pope Francis as a whistleblower whose accusations are used to justify calls for papal resignation and a conservative, traditionalist rollback of reforms; at the same time his promotion of conspiratorial and far‑right narratives is cited by others as evidence that such allegations delegitimize reform efforts and deepen polarization within the Church.",
+    "queries": [
+      "How do people view Carlo Maria Viganò within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "diplomatic immunity",
+    "wiki_title": "diplomatic immunity",
+    "summary": "Critics often argue that the Vatican and its diplomatic corps exploit diplomatic immunity to shield clergy and church officials from criminal investigation or to facilitate secret transfers of accused priests, framing the Church as using sovereignty to evade accountability and prompting demands to limit or waive immunity in abuse and financial cases. Supporters counter that such protections are standard tools of statecraft necessary for the Holy See’s diplomatic and pastoral functions, favoring waivers, extradition cooperation, or internal prosecution rather than undermining diplomatic norms.",
+    "queries": [
+      "Is diplomatic immunity for Catholic Church representatives justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "china–holy see relations",
+    "wiki_title": "china–holy see relations",
+    "summary": "China–Holy See relations are invoked in debates over whether the Catholic Church should pursue pragmatic diplomacy with authoritarian regimes to preserve pastoral access and formal recognition of clergy in China. Supporters frame the Vatican’s engagement as necessary compromise to protect Chinese Catholics, while critics say it concedes too much to the Chinese Communist Party, undermines papal authority over bishops and weakens the Church’s moral stance on religious freedom.",
+    "queries": [
+      "How do people view china–holy see relations within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "chinese patriotic catholic association",
+    "wiki_title": "chinese catholic patriotic association",
+    "summary": "In public debates about the Catholic Church the Chinese Catholic Patriotic Association is invoked as the symbol of state-managed religion—used by critics to argue Beijing usurps papal authority and violates religious freedom by appointing bishops and enforcing a 'patriotic' church, and by Chinese officials and some commentators to justify a sinicized, nationally controlled Catholicism. Its existence drives disputes over the legitimacy of clergy and sacraments and shapes international policy arguments about Vatican–China relations.",
+    "queries": [
+      "How do people view the chinese patriotic catholic association?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "underground church",
+    "wiki_title": "underground church",
+    "summary": "In public debates about the Catholic Church, references to the “underground church” are used to frame loyalists to the Pope as principled defenders of ecclesial autonomy and victims of state repression, thereby bolstering arguments for religious freedom and resistance to government control; conversely, supporters of the state‑sanctioned church invoke the label to portray such communities as disobedient or destabilizing, justifying oversight, negotiation, or compromise with Beijing.",
+    "queries": [
+      "Is underground church justified or not within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "bishop appointments",
+    "wiki_title": "appointment of church of england bishops",
+    "summary": "Arguments about how Church of England bishops are chosen are often deployed to critique the Catholic Church’s centralized, papal appointment system—reformers cite the Church of England’s negotiated, locally-influenced process as a model for making Catholic episcopal appointments more accountable and responsive. Conversely, defenders of Catholic governance point to the Church of England’s politicized, compromise-driven selection as a warning, arguing that a strong, universal appointment system preserves doctrinal unity and resists local factions.",
+    "queries": [
+      "Are the Catholic Church's bishop appointments reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "sinicization of religion",
+    "wiki_title": "sinicization",
+    "summary": "In debates about the Catholic Church, “sinicization” is invoked to justify a China‑aligned, state‑supervised form of Catholicism—supporters argue it legitimizes local adaptation, state appointment of clergy, and national unity, while critics portray it as coercive assimilation that undermines papal authority, religious freedom, and core Catholic doctrine.",
+    "queries": [
+      "Is the sinicization of religion for the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-7",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "taiwan–vatican relations",
+    "wiki_title": "holy see–taiwan relations",
+    "summary": "The Holy See–Taiwan relationship is often cited in debates to portray the Catholic Church as taking a concrete geopolitical stance—either lauded for upholding Taiwan’s democratic sovereignty and religious freedom or criticized for entangling the Church in partisan international politics. Critics argue the Vatican’s recognition of Taipei reflects diplomatic priorities that can undermine rapprochement with the People’s Republic of China and complicate pastoral care for Chinese Catholics, while supporters frame it as a moral defense of a marginalized democracy.",
+    "queries": [
+      "What effects have taiwan–vatican relations had on Catholic Church diplomacy?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "un human rights council",
+    "wiki_title": "united nations human rights council",
+    "summary": "The UN Human Rights Council is frequently cited by critics to spotlight and legitimize international concerns about the Catholic Church’s handling of clergy sexual abuse, its stances on LGBT rights and reproductive health, and to press for accountability, legal reforms, and victim remedies. Defenders of the Church, however, invoke the Council as evidence of secular overreach or anti‑religious bias, arguing that its recommendations can threaten religious freedom and doctrinal integrity.",
+    "queries": [
+      "How is the un human rights council viewed regarding the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "abortion rights",
+    "wiki_title": "abortion-rights movement",
+    "summary": "Abortion-rights advocates cast the Catholic Church as a major institutional opponent whose anti-abortion teachings and political lobbying threaten women’s autonomy and secular policymaking, using that portrayal to push limits on Church influence in healthcare, law, and public institutions. Conversely, critics note that the movement’s framing also allows the Church to rally believers by depicting pro‑choice activism as moral relativism that endangers unborn life and religious freedom.",
+    "queries": [
+      "How do people view the Catholic Church’s abortion rights position?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "lgbt rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Cross-country comparisons of LGBTQ rights are frequently used to criticize the Catholic Church by linking its teachings, political lobbying, and cultural influence to weaker legal protections and discrimination in places where it is powerful; defenders counter by pointing to international variation as evidence the Church respects local values or religious-freedom claims, and reformers within Catholic communities use the data to argue for pastoral change in more liberal societies.",
+    "queries": [
+      "How do people view the Catholic Church’s approach to lgbt rights?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "religious freedom",
+    "wiki_title": "freedom of religion",
+    "summary": "Freedom of religion is often invoked to defend the Catholic Church’s claims to conscience exemptions, public funding for Catholic schools and hospitals, and the right to teach and practice Church doctrine in public settings. Critics counter that those appeals should not permit avoidance of anti‑discrimination laws, accountability for abuse, or compliance with secular obligations, framing disputes over abortion, contraception, LGBT rights and education as battles over the proper limits of religious liberty.",
+    "queries": [
+      "How do people view religious freedom in the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "cultural identity and community life",
+    "wiki_title": "cultural identity",
+    "summary": "Cultural identity is often invoked to defend the Catholic Church as a cornerstone of communal traditions, national identity, and moral values—used to justify opposition to secularization, abortion, same-sex marriage, and liturgical change. Conversely, critics frame the Church’s cultural authority as exclusionary or colonial, arguing it entrenches conservative gender roles, marginalizes minorities and immigrants, and resists social progress and pluralism.",
+    "queries": [
+      "What consequences has cultural identity and community life had in Catholic communities?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "catholic schools",
+    "wiki_title": "catholic school",
+    "summary": "Supporters point to Catholic schools to portray the Church as a beneficent civic actor that forms morals and therefore merits public support or legal exemptions in education; critics invoke them to argue the Church wields ideological power, resists secular and LGBTQ-inclusive norms, and thus should face stricter oversight and limits on public funding and discriminatory practices.",
+    "queries": [
+      "Are catholic schools' admissions policies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "parish community",
+    "wiki_title": "parish",
+    "summary": "Parishes are invoked as the Catholic Church’s primary ground-level institution, used to argue for either decentralizing pastoral authority and empowering laity to adapt liturgy and outreach to local needs, or to indict the institution when parish-level failures (e.g., clergy abuse cover-ups, closures) reveal systemic problems. Debates about parish governance and culture thus shape positions on liturgy, LGBTQ inclusion, clerical accountability, and resource allocation, with conservatives appealing to parish tradition to defend orthodoxy and progressives pointing to parish pastoral needs to press for reform.",
+    "queries": [
+      "Is the parish community’s role in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "sunday mass",
+    "wiki_title": "mass (liturgy)",
+    "summary": "The Mass functions as a potent symbol in debates over the Catholic Church's identity, with the traditional Latin Mass invoked by conservatives to justify doctrinal continuity and resistance to post‑Conciliar reforms while vernacular, reformed liturgies are cited by progressives to argue for modernization and pastoral openness. Practical disputes over who may preside or receive Communion, music and language choices, attendance trends, and pandemic restrictions are routinely mobilized to critique or defend clerical authority, cultural relevance, and claims of religious freedom, shaping public perceptions and internal policy agendas.",
+    "queries": [
+      "What effects has Sunday mass had on Catholic Church communities?"
+    ]
+  },
+  {
+    "id": "C8-2-4",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "eucharistic adoration",
+    "wiki_title": "eucharistic adoration",
+    "summary": "Eucharistic adoration is used by conservatives and traditionalists to legitimize a sacramental, devotional image of the Catholic Church—supporting liturgical conservatism, clerical authority, and mobilizing prayerful activism—while critics use its prominence to argue the institution is inward‑facing, ritual‑focused, and resistant to social‑justice or modernizing reforms; its public displays also fuel debates over the Church’s role in the public square.",
+    "queries": [
+      "How do people view eucharistic adoration among Catholics today?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "rcia",
+    "wiki_title": "order of christian initiation of adults",
+    "summary": "The Rite of Christian Initiation of Adults is often cited in debates about how open and pastoral the Catholic Church is—advocates point to it as proof of post‑Vatican II evangelization, local adaptation, and lay involvement, while critics highlight its uneven implementation to argue the Church either bureaucratizes conversion or fails to properly catechize and integrate newcomers. As a result it is used to justify reforms (greater pastoral flexibility, ecumenical outreach, immigrant integration) or to criticize perceived laxity, clerical control, or dilution of traditional doctrine.",
+    "queries": [
+      "How do people view RCIA’s role in the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "lay ministry",
+    "wiki_title": "lay ministry",
+    "summary": "In public debates about the Catholic Church, lay ministry is often invoked by reformers to argue for more democratized parish leadership, greater roles for women, and shared governance as a response to priest shortages, while conservatives point to lay ministry to reinforce limits on non‑ordained people’s authority and protect clerical control of sacraments and doctrine. The growing visibility of lay ministers therefore colors policy disputes over synodality, priestly formation, celibacy, and potential ordination reforms.",
+    "queries": [
+      "How do people view lay ministry’s role within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C8-3-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "eucharist",
+    "wiki_title": "eucharist",
+    "summary": "Debates over the Eucharist are used to assert the Catholic Church’s authority and distinctive moral teaching—shaping policies on who may receive communion (e.g., restrictions for divorced-and-remarried Catholics or pro‑choice politicians) and justifying public sacramental practices as signs of Catholic identity. They also fuel criticism and political controversy—accusations of exclusionary or partisan behavior, and ecumenical disputes over intercommunion—so Eucharistic theology often functions as both a litmus test of fidelity to the Church and a flashpoint in broader culture‑war and unity debates.",
+    "queries": [
+      "How do people view the eucharist within the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8",
+    "level": 3,
+    "topic": "penance",
+    "wiki_title": "penance",
+    "summary": "In public debate, 'penance' is invoked by defenders of the Catholic Church to justify sacramental confession and the institution's authority to govern moral reform, while critics use it to argue the Church prioritizes private contrition over public accountability—especially in abuse scandals where survivors demand reparations and structural change rather than symbolic apologies. It therefore helps frame policy attitudes, with conservatives emphasizing personal repentance and restoration and reformers insisting on institutional transparency and justice.",
+    "queries": [
+      "Is penance justified as a means of personal moral reform?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "baptism",
+    "wiki_title": "baptism",
+    "summary": "Claims about baptism’s sacramental role in Catholic theology are frequently invoked to justify the Church’s authority to define membership, sacramental access, and moral-pastoral boundaries (e.g., infant baptism, baptismal regeneration, and baptism of desire), while critics use the same topic to argue the Church is exclusionary or doctrinally rigid; disputes over recognition of other denominations’ baptisms and baptismal formulas also drive ecumenical and policy debates about who counts as ‘Catholic’ and who may partake in sacraments.",
+    "queries": [
+      "Is baptism in the Catholic Church reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "annulment",
+    "wiki_title": "annulment",
+    "summary": "In public debates about the Catholic Church, annulment is used both to defend the Church’s commitment to sacramental marriage and to frame it as a channel of pastoral mercy—reformers cite streamlined annulment processes as proof the Church adapts to help divorced faithful, while critics portray annulments as an inconsistent, sometimes elitist loophole that undermines doctrinal integrity or reveals bureaucratic secrecy.",
+    "queries": [
+      "Is the Catholic Church’s annulment process reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "ordination of women",
+    "wiki_title": "ordination of women",
+    "summary": "Debates over the ordination of women are often deployed to criticize the Catholic Church’s gender hierarchy and argue it undermines equality, pastoral relevance, and institutional credibility, while defenders cite doctrinal, sacramental, and tradition-based arguments to frame female ordination as incompatible with apostolic continuity and ecclesial identity.",
+    "queries": [
+      "Is the ordination of women in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Anti-abortion movements frequently invoke the Catholic Church as a moral authority and institutional ally, using its teachings and parish networks to legitimize campaigns, mobilize voters, and press for restrictive abortion laws while framing the Church as defender of life. Critics use the movements to portray the Church as exerting undue influence on secular policy, to challenge its consistency or priorities, and to depict it as a barrier to reproductive rights.",
+    "queries": [
+      "What impacts has the pro-life movement had on Catholic Church policies?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "march for life",
+    "wiki_title": "march for life",
+    "summary": "March for Life rallies are cited as evidence of the Catholic Church’s active role in promoting its pro‑life doctrine into public policy, bolstering arguments that the Church mobilizes believers to oppose abortion and shape family-related law. Opponents invoke the marches to criticize the Church’s political influence and to portray its social teaching as aligned with conservative agendas that seek to impose religious norms on secular governance.",
+    "queries": [
+      "How do people view the march for life within Catholic communities?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "crisis pregnancy centers",
+    "wiki_title": "crisis pregnancy center",
+    "summary": "Crisis pregnancy centers are often cited as tangible evidence of the Catholic Church’s on‑the‑ground pro‑life ministry and are used to justify the Church’s moral authority and political advocacy for anti‑abortion policies and public support for faith‑based alternatives. Critics, however, point to CPCs’ ties to Catholic and other Christian groups, allegations of misinformation, and receipt of public funds to argue that the Church undermines reproductive rights and exerts undue political influence.",
+    "queries": [
+      "What effects have crisis pregnancy centers brought to Catholic communities?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "california proposition 8",
+    "wiki_title": "2008 california proposition 8",
+    "summary": "During the Prop 8 campaign the Catholic Church's financial and organizational backing for a same-sex marriage ban is frequently invoked as evidence of the Church's political power and commitment to traditional marriage. Critics use its role to argue the Church promotes discrimination and oversteps separation of church and state, while supporters frame its involvement as defending religious liberty and moral teaching.",
+    "queries": [
+      "Was the Catholic Church’s support for california proposition 8 reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "dignityusa",
+    "wiki_title": "dignityusa",
+    "summary": "DignityUSA is cited in public debates as a visible example of lay-led dissent that frames the Catholic Church as in need of doctrinal and pastoral reform on sexuality; proponents use it to argue for LGBT-affirming policies and greater pastoral inclusion, while critics invoke it as evidence of theological departure from Church teaching and challenges to ecclesial authority.",
+    "queries": [
+      "How do people within the Church view dignityusa?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "world youth day",
+    "wiki_title": "world youth day",
+    "summary": "Supporters invoke World Youth Day as visible proof of the Catholic Church’s global relevance, youth engagement, and the pope’s ability to mobilize faith communities, using it to rebut claims of decline and to justify outreach and evangelization priorities. Critics counter that WYD functions as spectacle and public-relations soft power—sometimes used to polish institutional image or bolster conservative authority—while diverting attention and resources from internal reform, abuse accountability, or social-justice priorities.",
+    "queries": [
+      "Is World Youth Day an appropriate use of Church resources?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "pope john paul ii",
+    "wiki_title": "pope john paul ii",
+    "summary": "Supporters of the Catholic Church invoke John Paul II as a symbol of papal authority, moral clarity, and global outreach—using his legacy to defend traditional doctrines, oppose liberalizing reforms, and legitimize the Church’s geopolitical and pastoral priorities. Critics cite his canonization and managerial choices (especially the Church’s handling of clergy sexual abuse and steadfast conservative positions on sex, gender, and ordination) to argue the institution needs greater accountability, transparency, and doctrinal change.",
+    "queries": [
+      "Is pope john paul ii's influence on the Church justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "catholic youth ministry",
+    "wiki_title": "youth ministry",
+    "summary": "In public debates about the Catholic Church, youth ministry is often cited as evidence of the institution’s investment in future membership and used to justify funding, catechesis, and conservative pastoral priorities; conversely it is deployed by critics as a site of problematic socialization—excluding LGBTQ youth, promoting doctrinal conformity, or needing reform and accountability after abuse scandals, with disputes also over lay versus clerical control of programs.",
+    "queries": [
+      "How do people view catholic youth ministry today?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "pilgrimage",
+    "wiki_title": "pilgrimage",
+    "summary": "Pilgrimage is invoked to defend the Catholic Church’s role in cultivating embodied, communal devotion and continuity of tradition—used by supporters to justify maintaining shrines, liturgical practices, and pastoral programs that reinforce Catholic identity. Critics, however, point to pilgrimages to argue the Church can commodify faith, prioritize spectacle over reform, or improperly leverage public resources and tourism, shaping debates over funding, heritage protection, and clerical authority.",
+    "queries": [
+      "What effects has pilgrimage produced in the Catholic Church?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "taizé community",
+    "wiki_title": "taizé community",
+    "summary": "In public debates about the Catholic Church, Taizé is often invoked by reformers as a practical model of ecumenism and youth-focused pastoral outreach—used to argue for more dialogue, simpler communal worship, and openness to Protestant practices. Critics and traditionalists counter that Taizé-style worship exemplifies doctrinal dilution and a weakening of distinct Catholic sacramental and liturgical identity.",
+    "queries": [
+      "Is the Taizé community’s influence in the Catholic Church justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-7",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "religious vocations",
+    "wiki_title": "vocation",
+    "summary": "Within debates about the Catholic Church, appeals to 'vocation' are frequently used to legitimize institutional arrangements—especially male-only priesthood, clerical celibacy, and distinct clerical/laity roles—and to argue for policies that prioritize seminary formation and pastoral authority. Critics counter that invoking vocation can entrench clericalism, exclude women and lay leadership, resist reforms (e.g., ordaining women or expanding lay ministries), and sometimes be used to deflect accountability in institutional failures.",
+    "queries": [
+      "How do people view religious vocations in the Catholic Church?"
+    ]
+  }
+]

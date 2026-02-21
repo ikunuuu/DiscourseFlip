@@ -1,0 +1,761 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Kane (wrestler)",
+    "wiki_title": "Kane (wrestler)",
+    "summary": "Kane is invoked both as cultural evidence and a political symbol: wrestling fans and commentators cite his longevity and memorable character to argue for the artistic and historical importance of professional wrestling, while detractors use his sensational storylines to criticize the sport’s theatrical excesses. His real‑life turn to politics is used in debates over celebrity office‑holders—supporters point to his outsider, libertarian identity to justify small‑government or anti‑establishment positions, whereas critics question his political experience and whether a performer’s persona is appropriate for public leadership.",
+    "queries": [
+      "Is Kane (wrestler)’s character evolution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "character and storyline",
+    "wiki_title": "storyline",
+    "summary": "Public debates about Kane’s storylines are often invoked to defend his legacy — proponents cite long-running angles (his Undertaker feud, mask/unmask saga, and Authority role) as proof of memorable character work and longevity in WWE. Critics use the same storylines to argue inconsistent booking, reliance on supernatural gimmickry, and frequent creative reversals undermined his credibility and to question how the fictional Kane aligns with Glenn Jacobs’ real-life political persona.",
+    "queries": [
+      "How do fans view Kane's character and storyline?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "paul bearer",
+    "wiki_title": "paul bearer",
+    "summary": "Paul Bearer is frequently cited as the emotional and narrative anchor that legitimized Kane’s supernatural backstory and family feud with The Undertaker, with fans arguing Bearer gave Kane tragic depth and theatrical credibility while critics use his melodramatic presence to claim Kane depended more on macabre managerial storytelling than on-ring substance.",
+    "queries": [
+      "How do people view paul bearer’s role alongside Kane?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "manager (professional wrestling)",
+    "wiki_title": "manager (professional wrestling)",
+    "summary": "Kane's long partnership with managers—most famously Paul Bearer—is frequently cited in discussions to explain and legitimize his supernatural origin, motivations, and theatrical menace, with supporters arguing the manager added emotional depth and cohesion to his mystique. Critics, however, use the manager relationship to claim Kane leaned on Bearer to sell storylines and hide promo weaknesses, and debates about removing or replacing a manager are used to argue whether Kane evolved into a more credible standalone or authority figure.",
+    "queries": [
+      "Is Kane using a manager (professional wrestling) justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "kayfabe",
+    "wiki_title": "kayfabe",
+    "summary": "Kayfabe is invoked in discussions about Kane to defend the character’s monstrous actions, unmaskings, and dramatic feuds as storyline necessities that preserve his mystique, while critics point to moments when kayfabe was broken (the unmasking, Glenn Jacobs’ political life) to argue the persona was diluted or exploited. It also functions as a shield in debates over booking and injuries—supporters use kayfabe to justify creative choices, opponents use its breach to call for greater transparency or criticize WWE’s handling of the character.",
+    "queries": [
+      "Is Kane's kayfabe maintained reasonably well or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "team hell no",
+    "wiki_title": "team hell no",
+    "summary": "References to Team Hell No are often invoked to show how Kane transitioned from a menacing, supernatural character to a more humanized, comedic performer, bolstering arguments that the pairing broadened his appeal and extended his career. Critics counter that the team softened Kane’s aura and undermined his credibility as a dominant singles star, using the stint to argue WWE’s repackaging sometimes diluted long-established characters.",
+    "queries": [
+      "How do people view Team Hell No's dynamic with Kane?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "daniel bryan",
+    "wiki_title": "bryan danielson",
+    "summary": "Bryan Danielson is frequently cited in debates about Kane to explain how Kane’s modern-era relevance was shaped: critics argue Danielson’s technical skill and massive fan heat carried Team Hell No and masked Kane’s limited singles charisma, while defenders point to Kane’s veteran timing and willingness to play the straight man/monster as evidence of his versatility and backstage value.",
+    "queries": [
+      "Is Daniel Bryan’s rivalry with Kane justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "the shield",
+    "wiki_title": "the shield",
+    "summary": "Commentators and fans invoke The Shield’s gritty, morally ambiguous depiction of corrupt authority when debating Kane’s on-screen authority turns, using the series to argue WWE should have given Kane more complex, realistic storylines instead of melodramatic horror gimmicks. Conversely, the show is also used to criticize WWE for normalizing corrupt or authoritarian figures—saying Kane’s later corporate/authority roles felt like cartoonish echoes of the real-world abuses The Shield dramatizes.",
+    "queries": [
+      "How do people view the Shield’s role in Kane’s storylines?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "anger management",
+    "wiki_title": "anger management",
+    "summary": "In debates about Kane, “anger management” is used to explain or contest his violent, pyrotechnic persona — either as a storyline device that justifies redemption and repackaging (portraying Kane as a rage-prone character who can be treated or reformed) or as a criticism that WWE profits by glamorizing uncontrolled anger; defenders use it to humanize the character and support narrative shifts, while critics invoke it to argue the franchise exploits and normalizes violent behavior.",
+    "queries": [
+      "What effects has anger management had on Kane’s persona?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "yes! movement",
+    "wiki_title": "yes means yes",
+    "summary": "Commentators and activists invoke Yes Means Yes to critique how WWE storylines—particularly those featuring Kane’s monstrous, violent persona—can normalize coercion and blur consent, using the book’s framework to argue such portrayals perpetuate harmful attitudes about sexual violence. Defenders of the product typically counter that Kane’s character is theatrical entertainment and not an endorsement of nonconsensual behavior.",
+    "queries": [
+      "What impact has the yes! movement had on Kane's legacy?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "hell in a cell",
+    "wiki_title": "hell in a cell",
+    "summary": "Hell in a Cell matches are often invoked to bolster Kane’s image as a monstrous, big‑match performer and legitimize his place in main‑event feuds, with supporters pointing to his brutal Cell encounters as proof of his toughness and drawing power; critics, however, use his Cell appearances to argue WWE relied on gimmick violence to prop up his character or to criticize booking that devalues the stipulation by overusing it on Kane.",
+    "queries": [
+      "Is Kane's hell in a cell legacy justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "triple h",
+    "wiki_title": "triple h",
+    "summary": "Triple H is frequently invoked as both Kane’s high-profile on-screen foil and as a backstage power broker whose creative influence affected Kane’s trajectory; commentators use their matches and storylines to argue either that Kane was legitimized through marquee rivalries with Triple H or that he was underused and miscast due to WWE booking decisions tied to Triple H’s era. As a result, Triple H’s involvement is often cited to support critiques or defenses of Kane’s standing, character shifts (monster vs. corporate), and overall legacy.",
+    "queries": [
+      "Is triple h’s portrayal of Kane fair or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "chokeslam",
+    "wiki_title": "chokeslam",
+    "summary": "Kane’s frequent use of the chokeslam is often cited to reinforce his monstrous, powerhouse persona and to justify his portrayal and booking as an intimidating main‑event heel; conversely, critics invoke his reliance on the move to argue he depended on spectacle over technical variety, shaping debates about the quality and legacy of his in‑ring work.",
+    "queries": [
+      "What impact has Kane's chokeslam had on wrestling storytelling?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "ministry of darkness",
+    "wiki_title": "ministry of darkness",
+    "summary": "References to the Ministry of Darkness are often used to frame Kane’s late-1990s/early-2000s turn as a full-on supernatural heel, justifying his violent, cult-like imagery and positioning him as a top enforcer/villain in storylines. Fans and critics invoke the Ministry to either praise that era for boosting Kane’s mystique and main-event status or to criticize booking that subsumed his individuality into Undertaker-led occult plots and fed controversies about WWE’s sensational use of satanic themes.",
+    "queries": [
+      "Is Kane’s Ministry of Darkness justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "tombstone piledriver",
+    "wiki_title": "piledriver (professional wrestling)",
+    "summary": "The piledriver is often invoked to justify Kane’s status and legitimacy — supporters point to his experience and established use of the move (and the Tombstone variant) to argue he alone merits the WWE exception and that it reinforces his destructive, monster persona. Critics, however, use the piledriver allowance to challenge WWE’s inconsistent safety enforcement and accuse the company of favoritism, while also highlighting ongoing concerns about dangerous in-ring maneuvers.",
+    "queries": [
+      "What effects has Kane’s tombstone piledriver had on his legacy?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and popular culture",
+    "wiki_title": "popular culture",
+    "summary": "Popular culture casts Kane as a larger‑than‑life horror icon and WWE mascot—his mask, pyrotechnics, merchandise and media cameos are invoked by fans to celebrate spectacle, nostalgia, and theatricality. Critics use the same pop‑cultural framing to argue WWE commodifies trauma and sensationalizes violence, fueling debates about wrestling’s legitimacy and the ethics of portraying violent/psychological themes for mass entertainment.",
+    "queries": [
+      "How do people view media and popular culture’s depiction of Kane?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "the undertaker",
+    "wiki_title": "the undertaker",
+    "summary": "The Undertaker is used as Kane’s benchmark and narrative foil: commentators and fans invoke their long-running alliance/feud to either legitimize Kane’s importance (pointing to his main‑event and tag‑team credibility) or to argue he was perpetually overshadowed and reliant on association. Debates about Kane’s booking, legacy, and Hall of Fame standing often hinge on whether he proved himself independently of The Undertaker or mainly benefited from proximity to WWE’s most iconic figure.",
+    "queries": [
+      "Is the Undertaker’s feud with Kane justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "casket match",
+    "wiki_title": "professional wrestling match types",
+    "summary": "Commentators and fans use Kane’s frequent placement in gimmick matches (Inferno, Buried Alive, Boiler Room, etc.) to frame his career either as a masterfully sustained supernatural enforcer—arguing those match types justified and amplified his legacy—or as evidence WWE relied on spectacle to mask inconsistent booking or limited in-ring nuance; supporters point to the matches as essential character-building, while critics cite them as gimmicky crutches that distorted his long‑term development.",
+    "queries": [
+      "How do fans view Kane's casket match nowadays?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "world wrestling entertainment",
+    "wiki_title": "wwe",
+    "summary": "WWE is invoked as the origin and engine of Kane’s public identity—supporters credit the company’s storytelling and promotion for creating his enduring ‘monster’ persona and giving him the visibility to parlay wrestling fame into a political career. Critics, however, point to WWE’s inconsistent booking, overuse, and sensationalist approach to argue he was often underutilized or treated as a utility character, and they use his WWE celebrity to debate whether wrestling fame should translate into civic authority.",
+    "queries": [
+      "How do fans view world wrestling entertainment’s treatment of Kane?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "world heavyweight championship",
+    "wiki_title": "world heavyweight championship",
+    "summary": "References to the world heavyweight championship are regularly invoked to frame Kane’s legacy: supporters cite his world title reign to justify him as a legitimate main‑event performer and cornerstone of WWE’s monster archetype, while critics point to the timing, brevity and booking around his reigns (and his later authority/gimmick roles) to argue he was underutilized and not consistently treated like a true world‑level superstar.",
+    "queries": [
+      "How do fans view Kane’s world heavyweight championship tenure?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "wrestlemania",
+    "wiki_title": "wrestlemania",
+    "summary": "WrestleMania is routinely invoked to gauge Kane’s legacy—supporters point to his recurring, high-profile Mania moments and theatrical presentation on that stage to argue he’s an enduring, iconic WWE figure; critics use his mixed WrestleMania booking (frequent tag or midcard roles rather than sustained world-title main events) to argue he was often underutilized despite his star power.",
+    "queries": [
+      "Is Kane's WrestleMania portrayal justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "undertaker's streak",
+    "wiki_title": "the streak (professional wrestling)",
+    "summary": "The Streak is frequently invoked in discussions of Kane to frame his WrestleMania history with The Undertaker: critics use his repeated losses to argue WWE under‑used Kane and missed an opportunity to elevate him by having him break the Streak, while defenders counter that Kane’s role as a believable, recurring challenger enhanced both men’s mythology and reinforced his identity as a top, enduring character.",
+    "queries": [
+      "What impact did Undertaker's streak have on Kane's career?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "attitude era",
+    "wiki_title": "attitude era",
+    "summary": "The Attitude Era is often invoked to frame Kane as an emblematic product of WWE’s late‑1990s edgier, shock‑driven storytelling—used to justify his popularity, ruthless persona, and Hall of Fame status, or conversely to argue his success depended on the era’s permissive embrace of violence and sensationalism. In debates about nostalgia and modern booking, Kane is cited as both a high point of that creative freedom and an example of the era’s problematic excesses.",
+    "queries": [
+      "What cultural effects did the attitude era have on Kane’s legacy?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "badd blood 1997",
+    "wiki_title": "badd blood: in your house",
+    "summary": "Kane’s surprise arrival at Badd Blood: In Your House is often cited as the canonical origin that frames him as a supernatural, vengeful figure tied to The Undertaker and is used to justify his long-running main‑event status and monstrous persona. Critics, however, invoke the same moment to argue WWE leaned on shock entrances and contrived family lore at Badd Blood to manufacture a star rather than build one organically.",
+    "queries": [
+      "How do fans view Kane at badd blood 1997?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "stone cold steve austin",
+    "wiki_title": "stone cold steve austin",
+    "summary": "Steve Austin is often used as a benchmark in debates about Kane — commentators compare Austin’s charismatic antihero booking and mainstream drawing power to argue that Kane was underutilized or hamstrung by creative choices rather than lacking ability.  Conversely, references to Austin’s matches or praise for Kane are also deployed to defend Kane’s toughness and legacy, framing him as a credible top-tier presence whose potential was unevenly realized.",
+    "queries": [
+      "Is stone cold steve austin's feud with Kane justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "vince mcmahon",
+    "wiki_title": "vince mcmahon",
+    "summary": "Vince McMahon is invoked as the chief architect and gatekeeper behind Kane’s on‑screen life — commentators and fans credit or blame his booking decisions (the monstrous debut, the Undertaker feud, unmasking, comedic turns like Team Hell No) for framing Kane as either a durable top character or a corporate‑crafted gimmick. Critics cite McMahon’s creative control and later misconduct to argue Kane’s career illustrates how WWE’s promotion‑driven storytelling and power imbalances prioritized spectacle over performer autonomy and welfare, while defenders point to McMahon as the one who gave Kane sustained visibility and opportunity.",
+    "queries": [
+      "How do people view Vince McMahon's influence on Kane's career?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "brothers of destruction",
+    "wiki_title": "brothers of destruction",
+    "summary": "References to the Brothers of Destruction are used to bolster Kane’s legacy—highlighting his versatility, emotional complexity, and central role in one of WWE’s most celebrated storylines to justify nostalgia-driven returns, merchandise, and Hall of Fame recognition. Conversely, critics invoke the pairing to argue Kane’s prominence depended on The Undertaker’s aura, framing him as overshadowed or more of a supporting figure than an equal main-event star.",
+    "queries": [
+      "What impact has brothers of destruction had on Kane’s career?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "world tag team championship",
+    "wiki_title": "professional wrestling championship",
+    "summary": "Fans and commentators point to Kane’s collection of championships—especially tag and secondary titles—as evidence of his longevity, versatility, and value to WWE, using those reigns to justify his legacy and Hall of Fame status. Conversely, critics invoke the nature and timing of many of his title runs (short, storyline-driven, or secondary) to argue he was under‑pushed as a true top-tier world champion or was used strategically to bolster others rather than built up as a dominant solo star.",
+    "queries": [
+      "What impact did Kane’s world tag team championship have on his legacy?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "d-generation x",
+    "wiki_title": "d-generation x",
+    "summary": "References to D‑Generation X—especially their televised matches and reunion appearances opposite The Brothers of Destruction—are often invoked to argue that Kane’s later-career booking shifted him from an intimidating, dominant monster to a nostalgia-era foil, which critics use to condemn WWE’s reliance on nostalgia. Supporters counter that DX’s programs with Kane instead highlight his longevity and versatility, using those encounters to defend his legacy rather than diminish it.",
+    "queries": [
+      "How do people see d-generation x’s influence on Kane?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "political career and governance",
+    "wiki_title": "politician",
+    "summary": "Invocations of 'politician' frame Kane (Glenn Jacobs) as either a legitimate elected leader whose celebrity outsider status and conservative/libertarian policy stances (on taxes, regulation, public safety) justify voter support, or as a figure whose wrestling persona and lack of traditional political experience invite criticism about qualifications and the appropriateness of celebrity-to-office transitions.",
+    "queries": [
+      "How do people view Kane's political career and governance?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "mayor of knox county",
+    "wiki_title": "2018 knox county, tennessee mayoral election",
+    "summary": "The 2018 Knox County mayoral election is invoked to argue that Kane (Glenn Jacobs) successfully converted WWE celebrity into real political power, bolstering claims that name recognition and his conservative, small‑government messaging justified electing a non‑traditional candidate; critics use the race to warn about the normalization of celebrity politicians and to question whether voters prioritized persona and fame over governing experience and policy expertise.",
+    "queries": [
+      "What impacts does being mayor of Knox County have on Kane's image?"
+    ]
+  },
+  {
+    "id": "C4-1-4",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "2018 mayoral election",
+    "wiki_title": "2018 toronto mayoral election",
+    "summary": "Commentators invoke the 2018 Toronto mayoral election as a comparative example when discussing Kane (wrestler) — Glenn Jacobs’ shift into elected office — with supporters pointing to outsider/celebrity victories as justification for his political legitimacy, while critics use the Toronto race’s personality-driven controversies to argue that celebrity fame from wrestling does not substitute for policy expertise or accountability.",
+    "queries": [
+      "Is Kane's 2018 mayoral election bid reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-7",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "knoxville news sentinel",
+    "wiki_title": "knoxville news sentinel",
+    "summary": "The Knoxville News Sentinel is often cited in debates about Kane (Glenn Jacobs), using local reporting and editorials to connect his WWE past with his record as Knox County mayor and thereby influence whether he’s seen as a celebrity or a serious politician. Commentators rely on its coverage—fact reporting, investigations and opinion pieces—to bolster criticisms of his policies (budget, public health, governance) or to defend him as an effective hometown leader.",
+    "queries": [
+      "How do people view Knoxville News Sentinel's reporting on Kane?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "republican party",
+    "wiki_title": "republican party",
+    "summary": "Republican Party supporters present Kane (Glenn Jacobs) as a celebrity-turned-conservative leader who embodies law-and-order, pro-business, low-tax and pro-gun priorities, using his fame to broaden the party’s outsider appeal; critics counter that his GOP backing illustrates the party’s willingness to elevate celebrity candidates over experienced policymakers and to gloss over the dissonance between his theatrical wrestling past and mainstream conservative norms.",
+    "queries": [
+      "What effects has Kane’s alignment with the republican party had?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "gun rights",
+    "wiki_title": "right to keep and bear arms",
+    "summary": "Supporters point to Glenn “Kane” Jacobs’s advocacy for the right to keep and bear arms to cast him as a defender of individual liberty and law‑abiding self‑defense, enhancing his appeal to conservative and libertarian constituents; critics invoke the same stance to frame him as aligned with pro‑gun groups and favoring permissive gun policies that could compromise public safety.",
+    "queries": [
+      "Is Kane’s stance on gun rights reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "covid-19 vaccine mandates",
+    "wiki_title": "covid-19 vaccination mandates in the united states",
+    "summary": "In debates about Kane (wrestler), COVID‑19 vaccination mandates in the United States are often used to spotlight and contest Glenn Jacobs’s real‑world political actions as mayor — critics use mandates to attack him for privileging individual liberty over public‑health measures, while supporters invoke opposition to mandates as evidence of his commitment to limited government and local control.",
+    "queries": [
+      "What consequences has Kane's stance on covid-19 vaccine mandates caused?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "bill lee",
+    "wiki_title": "bill lee (musician)",
+    "summary": "Bill Lee (musician) is rarely invoked in debates about Kane; when he is mentioned it’s typically as a contrast—using Lee’s reputation for serious, improvisational musicianship to criticize WWE’s theatrical, mass-produced approach to entrance music and to frame Kane as spectacle rather than a form of ‘authentic’ musical or artistic performance.",
+    "queries": [
+      "Is bill lee’s involvement with Kane reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "vaccine passport",
+    "wiki_title": "vaccine passport",
+    "summary": "Debate over vaccine passports is used to frame Kane (Glenn Jacobs)’s political record, with allies pointing to opposition to passport schemes as evidence he defends individual liberty and limited government, while critics argue those positions prioritized personal freedom over public-health protections. Commentators sometimes invoke his masked wrestling persona to caricature vaccine documentation as intrusive or performative when critiquing or defending his pandemic-era choices.",
+    "queries": [
+      "How do people view vaccine passport for wrestling events?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "anti-vaccination movement",
+    "wiki_title": "anti-vaccine activism",
+    "summary": "Anti-vaccine activism is invoked in debates about Kane (wrestler) to frame him politically: supporters lean on vaccine‑skeptic themes to portray him as a defender of personal liberty and opposition to mandates, while critics use anti‑vax associations to argue his positions are irresponsible or aligned with misinformation that undermines public‑health credibility.",
+    "queries": [
+      "How do fans view Kane’s ties to the anti-vaccination movement?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News has highlighted Glenn “Kane” Jacobs’s celebrity-to-politician story and conservative credentials to legitimize his pro‑business, small‑government and law‑and‑order positions, using his fame to bolster Republican narratives; critics argue that such sympathetic coverage normalizes celebrity politicians and shields Jacobs from tougher scrutiny of his policy record.",
+    "queries": [
+      "How do people view Fox News' portrayal of Kane?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "mask mandates",
+    "wiki_title": "face masks during the covid-19 pandemic",
+    "summary": "Kane’s iconic full-face costume was deployed in COVID-19 mask debates as a cultural shorthand: supporters used his masked image to normalize and even gamify public face-covering (“if even Kane wears a mask, so can you”), while critics and skeptics contrasted theatrical masks with medical-grade protection to mock mandates or argue they’re performative. His persona and behind-the-scenes compliance also featured in arguments about celebrity responsibility and wrestler safety protocols, with opponents highlighting that costume masks don’t equal public-health measures.",
+    "queries": [
+      "Are mask mandates reasonable at Kane wrestling events or not?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "anti-mask movement",
+    "wiki_title": "anti-mask law",
+    "summary": "References to anti-mask laws appear in debates about Kane when critics invoke public-safety and identification concerns to argue that masked public figures should face limits on appearances or be forced to unmask, while fans and free-expression advocates use opposition to such laws to defend Kane’s mask as essential to his persona and artistic freedom.",
+    "queries": [
+      "How do people view the anti-mask movement in Kane's case?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "covid-19 in tennessee",
+    "wiki_title": "covid-19 pandemic in tennessee",
+    "summary": "During the COVID-19 pandemic in Tennessee, Kane (Glenn Jacobs) was cast by supporters as a defender of personal liberty and pro‑business reopening policies, while critics used the pandemic to portray his hands‑off, anti‑mandate approach as irresponsible and indicative of prioritizing ideological small‑government positions over public health and community safety.",
+    "queries": [
+      "Is Kane’s reaction to covid-19 in tennessee reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "national rifle association",
+    "wiki_title": "national rifle association",
+    "summary": "Opponents and supporters alike invoke the National Rifle Association when discussing Kane (Glenn Jacobs) to signal his conservative, pro‑gun credentials — his alignment with NRA positions is used to justify his votes and rhetoric opposing gun‑control measures. Critics use his NRA ties to frame him as beholden to gun‑lobby interests and to argue he prioritizes gun rights over public‑safety or common‑sense regulation.",
+    "queries": [
+      "What consequences has Kane’s national rifle association affiliation caused?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "second amendment",
+    "wiki_title": "second amendment to the united states constitution",
+    "summary": "As the public persona behind Kane — wrestler Glenn Jacobs in his political role — the Second Amendment is invoked to signal staunch pro-gun, small‑government credentials and to justify opposing stricter gun‑control measures, appealing to conservative and rural voters. Critics use his Second Amendment rhetoric to portray him as prioritizing permissive gun policy over public‑safety concerns and to frame his celebrity political career as bolstering gun‑rights absolutism.",
+    "queries": [
+      "What impact does Kane's position on the Second Amendment have?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "nra political victory fund",
+    "wiki_title": "political victory fund",
+    "summary": "Kane (wrestler)’s political victory fund is often cited by supporters to show he has real campaign infrastructure and fundraising strength beyond his celebrity, while critics use it to suggest he’s leveraging fame for political influence and may be beholden to donor interests; public debates about the fund tend to frame broader questions of whether his priorities reflect constituents or contributors.",
+    "queries": [
+      "How do people view the nra political victory fund connection to Kane?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "wayne lapierre",
+    "wiki_title": "wayne lapierre",
+    "summary": "Wayne LaPierre is often invoked in discussions of Kane (Glenn Jacobs) to signal or critique an alignment with NRA-style, pro-gun, tough-on-crime conservatism; critics use LaPierre as shorthand to portray Jacobs as backing armed-security and resisting gun-control, while supporters cite LaPierre-like positions to justify his law-and-order and Second Amendment credentials.",
+    "queries": [
+      "What impact has wayne lapierre had on public views of Kane?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "celebrity politicians",
+    "wiki_title": "celebrity influence in politics",
+    "summary": "Kane’s celebrity is routinely cited in debates over his political role—supporters argue his WWE fame and name recognition helped him communicate and win local office and amplify his conservative/libertarian policy positions, while critics use his star-power to question his seriousness, claim it lets him sidestep traditional scrutiny, and warn against the blurring of entertainment and governance.",
+    "queries": [
+      "What effects have celebrity politicians like Kane had on local governance?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "jesse ventura",
+    "wiki_title": "jesse ventura",
+    "summary": "Jesse Ventura is often cited when debating Kane (wrestler)’s political ambitions or public service, used by supporters as a proof-of-concept that a wrestling celebrity can win office and appeal as an outsider, and by critics as a cautionary example of the risks and controversies that can accompany electing a high-profile entertainer with limited political experience.",
+    "queries": [
+      "Were jesse ventura’s remarks about Kane justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "arnold schwarzenegger",
+    "wiki_title": "arnold schwarzenegger",
+    "summary": "Schwarzenegger is invoked as a high-profile precedent when discussing Kane’s move from wrestling to politics — supporters point to Schwarzenegger’s successful entertainer-to-governor transition to justify Glenn Jacobs’ candidacy and outsider appeal, while critics cite Schwarzenegger as a cautionary example of celebrity politics and contested policy outcomes to question Jacobs’ qualifications and ideological choices. His Republican celebrity status is also used to frame or contrast Kane’s conservative/libertarian policy positions in public debates.",
+    "queries": [
+      "What impact has arnold schwarzenegger had on Kane's public image?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Donald Trump is invoked in discussions of Kane to situate the wrestler-turned-politician within the celebrity/outsider, pro‑business wing of the GOP—supporters point to shared anti‑regulation, law‑and‑order and populist credentials to justify Kane’s policies. Critics use the Trump association to cast Kane as aligned with Trumpism’s more controversial traits (authoritarian tendencies, culture‑war positions), using that linkage to attack his judgment and public‑policy priorities.",
+    "queries": [
+      "What impact does donald trump’s connection to Kane have?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "knox county schools",
+    "wiki_title": "knox county schools",
+    "summary": "Knox County Schools is frequently invoked when assessing Kane (wrestler)’s record as a local politician: supporters cite his positions on school budgets, school choice and local control to frame him as a fiscally conservative leader, while critics point to disputes over district policies, pandemic responses, and curriculum issues to argue he politicizes education and harms students' interests.",
+    "queries": [
+      "What do people think about knox county schools hosting Kane appearances?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "performance safety and regulation",
+    "wiki_title": "vehicle regulation",
+    "summary": "Discussions of vehicle regulation are used to illustrate Glenn Jacobs’s (Kane) political identity: supporters cast his limited‑government stance as favoring reduced auto rules to cut costs and expand individual and business freedom, while critics invoke vehicle‑safety and emissions regulations to argue his deregulatory approach would weaken consumer and environmental protections.",
+    "queries": [
+      "What effects has performance safety and regulation had on Kane matches?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "independent contractor status",
+    "wiki_title": "independent contracting in the united states",
+    "summary": "Supporters of Kane (Glenn Jacobs) use the U.S. independent-contractor framing to cast his long WWE career and outside bookings as entrepreneurial autonomy and self-reliance, while critics and labor advocates invoke the same status to argue WWE exploits performers by denying benefits, creating tax and transparency concerns — criticisms that become politically charged given Jacobs’s role as an elected official. This debate is used to justify praise for his business savvy or to challenge the ethics and protections surrounding his income and public responsibilities.",
+    "queries": [
+      "How do people view Kane’s independent contractor status?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "national labor relations board",
+    "wiki_title": "national labor relations board",
+    "summary": "In debates about WWE labor practices, the National Labor Relations Board is invoked to argue that performers like Kane should be classified as employees with rights to unionize and collective bargaining, a line used by critics to condemn WWE’s contractor model. Conversely, supporters and those defending Glenn Jacobs’ later pro-business politics cite NLRB precedent and labor-law interpretations to justify performer independence and downplay regulatory intervention.",
+    "queries": [
+      "How do people view the national labor relations board and Kane's wrestling?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "fair labor standards act",
+    "wiki_title": "fair labor standards act of 1938",
+    "summary": "The Fair Labor Standards Act is invoked in arguments over whether WWE treated Kane and other performers as employees deserving minimum wage, overtime and benefits, with critics using FLSA principles to argue wrestlers were misclassified as independent contractors and denied protections. As Glenn Jacobs moved into politics, opponents have used FLSA-related critiques to challenge his association with WWE on worker-rights grounds, while supporters frame the issue around performer autonomy and resistance to additional labor regulation.",
+    "queries": [
+      "Is the fair labor standards act justified in Kane's wrestling industry context?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "labor union",
+    "wiki_title": "trade union",
+    "summary": "References to trade unions crop up in debates about Kane when commentators use his high-profile WWE career to argue for or against wrestler collective bargaining—pro-union voices point to the industry’s lack of protections and cite stars like Kane as examples needing collective support, while opponents highlight his individual success to argue unions aren’t necessary; the topic also shapes how people judge his public/political persona (Glenn Jacobs) on labor-related policy matters.",
+    "queries": [
+      "What impacts has Kane’s labor union stance brought?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "occupational safety and health administration",
+    "wiki_title": "occupational safety and health administration",
+    "summary": "References to the Occupational Safety and Health Administration crop up when critics argue that WWE exposed Kane and other performers to preventable hazards—pyrotechnics, stunt-related burns, concussions and grueling schedules—and use OSHA standards to demand stronger protections, oversight, or reclassification of wrestlers. Defenders and some of Kane’s supporters counter by framing OSHA enforcement as ill-fitting or overreaching for the live-entertainment context (and, now that Glenn Jacobs is a politician, as an unnecessary regulatory burden), using that argument to reject stricter intervention.",
+    "queries": [
+      "Is occupational safety and health administration oversight of Kane’s wrestling reasonable?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "fire safety",
+    "wiki_title": "fire safety",
+    "summary": "Fire safety frequently frames debates about Kane (wrestler) because his burnbackstory and pyro-heavy entrances make WWE’s use of flames and special effects a focal point for safety concerns; critics use fire-safety failures to condemn risky stunts and push for tighter pyrotechnic regulation and venue enforcement.  Conversely, promoters and some fans invoke compliance with fire-safety protocols to justify the theatrical spectacle and defend Kane-related pyrotechnics as controlled, necessary elements of the character’s presentation.",
+    "queries": [
+      "How do people view Kane's fire safety practices?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "professional wrestling injuries",
+    "wiki_title": "glossary of professional wrestling terms",
+    "summary": "Commentators and fans invoke glossary terms—like gimmick, kayfabe, heel/face turn, push, and bury—to frame debates about Kane’s career, using that vocabulary to defend nostalgia for his masked 'Demon' character or to condemn WWE booking as inconsistent or devaluing. The same lexicon (e.g., 'breaking kayfabe' or 'shoot') is also used to interpret and criticize how Glenn Jacobs’ real‑world political life intersected with, or exposed, the fictional Kane persona.",
+    "queries": [
+      "How do fans view professional wrestling injuries linked to Kane's career?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "independent contractor",
+    "wiki_title": "employment",
+    "summary": "Kane’s long-term employment with WWE and his roles both on-screen and backstage are frequently invoked in debates about wrestler labor rights and corporate treatment—supporters point to his tenure and backstage responsibilities as evidence of professional credibility and insider knowledge, while critics cite WWE’s contractor practices and lack of protections to argue performers like him exemplify exploitative industry norms. His later election as Mayor is also used to frame arguments about celebrity politicians, with proponents seeing his entertainment career as leadership experience and detractors claiming it underscores questions about qualifications and conflicts between public service and commercial entertainment ties.",
+    "queries": [
+      "How do people view Kane's independent contractor status?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "workers' compensation",
+    "wiki_title": "workers' compensation",
+    "summary": "Workers’ compensation is often invoked to highlight the physical toll on Kane and other pro wrestlers, used by advocates to argue WWE should provide wage-replacement, medical care and long-term benefits for injuries sustained in-ring. In political contexts surrounding Glenn Jacobs, references to workers’ comp are also used to critique or defend his free‑market positions on labor regulation—framing him either as disregarding wrestler protections or as defending industry flexibility and employer liability limits.",
+    "queries": [
+      "Is Kane’s workers' compensation claim justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "chronic traumatic encephalopathy",
+    "wiki_title": "chronic traumatic encephalopathy",
+    "summary": "Discussions of CTE frequently surface in debates about Kane to highlight the long-term brain-injury risks tied to his decades of spot-heavy and hardcore matches, strengthening arguments that WWE must improve medical care, restrict dangerous head impacts, and expand retiree benefits. At the same time CTE references are used to caution against making definitive medical claims about Kane without postmortem evidence, or to reframe any later behavioral or health problems as occupationally caused rather than personal failings.",
+    "queries": [
+      "Is concern about chronic traumatic encephalopathy in Kane’s career reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "chris benoit",
+    "wiki_title": "chris benoit",
+    "summary": "Chris Benoit’s crimes are often invoked in debates about Kane to warn against conflating a wrestler’s on‑screen monstrosity with real‑world danger, leading supporters to stress that Kane’s violence is theatrical and to back stronger concussion and wellness policies; critics use Benoit as a cautionary benchmark when arguing against celebrating or politically elevating performers with fearsome personas.",
+    "queries": [
+      "How do people view Chris Benoit’s role in Kane’s career?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "bennet omalu",
+    "wiki_title": "bennet omalu",
+    "summary": "Bennett Omalu's research on chronic traumatic encephalopathy (CTE) is frequently invoked in discussions about Kane (wrestler) to emphasize the long-term brain‑injury risks of a decades‑long career and to justify calls for stricter concussion protocols, fewer high‑risk spots, and improved medical care for performers. Defenders of the industry sometimes question the direct applicability of Omalu's findings to staged wrestling or downplay the evidence to resist regulatory change.",
+    "queries": [
+      "Is bennet omalu's research relevant to discussions about Kane's health?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "pyrotechnics safety",
+    "wiki_title": "pyrotechnics",
+    "summary": "Kane’s fiery, pyrotechnic-laden entrances are often invoked by fans and promoters to justify his larger‑than‑life, horror-themed persona and the use of theatrical effects to sell wrestling drama; conversely, critics point to those same pyrotechnics to argue they mask in‑ring shortcomings, raise safety and cost concerns, and bolster calls for stricter venue regulations or reduced reliance on explosive spectacle.",
+    "queries": [
+      "How do people view pyrotechnics safety at Kane's events?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "list of fireworks accidents",
+    "wiki_title": "list of fireworks accidents and incidents",
+    "summary": "Lists of fireworks accidents are often cited in debates about Kane’s fire‑and‑pyro‑heavy entrance to underscore the real safety risks of WWE’s theatrics, used by critics to demand tighter regulation and to blame the promotion for risky staging; conversely, some fans point to such incidents to emphasize the danger and authenticity of Kane’s fearsome character.",
+    "queries": [
+      "What impact does the list of fireworks accidents have on Kane's legacy?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "wrestling observer newsletter",
+    "wiki_title": "wrestling observer newsletter",
+    "summary": "The Wrestling Observer Newsletter is frequently cited in debates over Kane’s legacy, using match ratings, insider reports and Meltzer’s commentary to bolster claims about his in-ring quality, drawing power and whether WWE misused or undercut the character. Its numerical ratings and backstage scoops are often invoked to justify praise (Hall of Fame/long-term value) or criticism (poor booking, ill-conceived character changes like mask removal) of WWE’s treatment of Kane.",
+    "queries": [
+      "Is the Wrestling Observer Newsletter’s coverage of Kane fair or not?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "royal rumble",
+    "wiki_title": "royal rumble",
+    "summary": "Kane's Royal Rumble appearances, eliminations, and surprise returns are often cited to argue either that he’s an enduring, dominant big‑man who deserves main‑event status or that WWE has repeatedly underused him; commentators use strong Rumble showings to praise his legacy and early eliminations or forgettable spots to criticize his booking. Rumble moments are also deployed in debates about Kane’s character shifts and nostalgia value, supporting narratives that he’s either a reliable spectacle performer or a wrestler whose potential was squandered for short‑term shock spots.",
+    "queries": [
+      "Is Kane’s Royal Rumble role justified or not?"
+    ]
+  }
+]

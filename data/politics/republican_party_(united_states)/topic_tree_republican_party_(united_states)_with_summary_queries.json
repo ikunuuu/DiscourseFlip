@@ -1,0 +1,2499 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Republican Party (United States)",
+    "wiki_title": "Republican Party (United States)",
+    "summary": "Actors invoke the Republican Party (United States) to justify free‑market, low‑tax, deregulation and socially conservative policies—framing them as defenses of economic liberty, public order, and traditional values. Critics use the Republican Party (United States) as shorthand for rising right‑wing populism, nativist or illiberal tendencies and policy choices they say undermine civil‑rights protections, immigrant inclusion, and democratic norms.",
+    "queries": [
+      "How do people view the Republican Party (United States) today?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "ideology and principles",
+    "wiki_title": "ideology",
+    "summary": "Political ideology is used to cast the Republican Party as the defender of limited government, free markets, traditional social values and a strong national defense—language supporters use to justify tax cuts, deregulation, conservative judicial picks, restrictions on abortion and tougher immigration, while critics use ideological framing to accuse the party of privileging corporate interests, eroding social safety nets, or fostering nativist/populist trends. Competing labels (libertarian, fiscal conservative, Christian conservative, Trumpist) shape intra‑party fights and public narratives about which policy priorities should dominate.",
+    "queries": [
+      "What effects has the Republican Party’s ideology and principles had?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "conservatism in the united states",
+    "wiki_title": "conservatism in the united states",
+    "summary": "Conservatism is used by Republicans and their allies to justify the party’s emphasis on limited government, free markets, traditional social values, strong defense and gun rights, and to claim fidelity to American founding principles; opponents and internal critics invoke it to portray the party as resistant to social change, prone to cultural or nationalist rhetoric, and to challenge its stances on science, climate policy, and minority rights when those positions become politically salient.",
+    "queries": [
+      "How do people view conservatism in the united states overall?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "religious right",
+    "wiki_title": "religious right",
+    "summary": "In discussions of the Republican Party, the \"religious right\" is portrayed as the influential social‑conservative bloc that pushes GOP policy toward restricting abortion, opposing same‑sex marriage and LGBTQ rights, promoting school prayer and religious exemptions, and mobilizing evangelical voters. Supporters cast it as the party’s moral compass defending religious liberty and family values, while critics argue it steers the GOP into theocracy‑leaning, culture‑war positions that alienate moderates.",
+    "queries": [
+      "How do people view the religious right within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-1-8",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "second amendment",
+    "wiki_title": "second amendment to the united states constitution",
+    "summary": "Republicans commonly invoke the Second Amendment to justify broad gun-rights policies and oppose strict gun-control measures, framing their position as defending individual liberty, self‑defense, and constitutional fidelity. Critics say this use highlights the party’s alignment with gun‑rights groups and rural voters and accuse it of prioritizing legal protections for firearms over public‑safety reforms.",
+    "queries": [
+      "What effects has the second amendment emphasis by Republicans had?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "reaganism",
+    "wiki_title": "political positions of ronald reagan",
+    "summary": "Ronald Reagan’s political positions are frequently held up by Republicans as the party’s ideological lodestar—used to justify low taxes, deregulation, limited government, strong national defense, and tough anti-communist rhetoric—and to marginalize rivals as insufficiently conservative. Critics invoke Reagan to argue the modern GOP either selectively appeals to his legacy while abandoning his fiscal restraint and institutional norms or has drifted toward populism and protectionism that contradict his free-market premises.",
+    "queries": [
+      "What consequences has reaganism produced within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "supply-side economics",
+    "wiki_title": "supply-side economics",
+    "summary": "Supply-side economics is routinely deployed by Republicans to justify tax cuts, deregulation, and pro-business policies as necessary for economic growth and job creation, framing the party as pro-market and anti-tax; opponents use it to portray the GOP as prioritizing wealthy interests, increasing inequality, and expanding deficits at the expense of social programs.",
+    "queries": [
+      "How do people view supply-side economics in the GOP?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "iran-contra affair",
+    "wiki_title": "iran–contra affair",
+    "summary": "The Iran–Contra affair is often used by critics to portray the Republican Party as susceptible to secretive, law‑bending foreign‑policy tactics and executive overreach—evidence, they argue, that GOP priorities (anti‑communist hawkishness, national‑security expediency) can trump legal and ethical accountability. Supporters or defenders counter that it reflects Cold War urgency and a few rogue actors, framing the episode as justification for tough, interventionist stances while minimizing broad party culpability.",
+    "queries": [
+      "Is the Republican Party’s role in the Iran-Contra affair justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "reagan democrats",
+    "wiki_title": "reagan democrat",
+    "summary": "Political commentators invoke “Reagan Democrats” to claim the Republican Party can peel off working‑class, socially conservative voters by emphasizing tax cuts, tough‑on‑crime and patriotic/cultural appeals; Republicans cite the label to justify outreach and populist messaging, while critics use it to argue the party opportunistically courted those voters with promises it later abandoned or to highlight a shift toward elite‑friendly economic policies.",
+    "queries": [
+      "What effects have Reagan Democrats had on Republican Party policies?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "strategic defense initiative",
+    "wiki_title": "strategic defense initiative",
+    "summary": "The Strategic Defense Initiative is invoked in debates about the Republican Party as a symbol of its hawkish, technologically optimistic defense posture — used to portray Republicans as prioritizing strong deterrence, military innovation, and assertive posture against adversaries. Critics counterpose SDI as shorthand for GOP tendencies toward costly, militarized solutions that can undermine arms control and favor high‑risk spending over diplomacy or restraint.",
+    "queries": [
+      "Is the strategic defense initiative justified within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "morning in america",
+    "wiki_title": "morning in america",
+    "summary": "In debates about the Republican Party, “Morning in America” is invoked as an emblematic rhetorical device that frames Republican policies—especially Reagan-era tax cuts, deregulation, and small-government rhetoric—as delivering broad economic renewal and national optimism. Supporters use it to justify pro-business, market-oriented policies, while critics use it to argue the image glosses over inequality, social costs, and selective nostalgia.",
+    "queries": [
+      "What effects has morning in america had on Republican Party perception?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "tea party movement",
+    "wiki_title": "tea party movement",
+    "summary": "Supporters invoke the Tea Party to argue the Republican Party must prioritize small-government, low-tax, anti-establishment principles and to justify nominating and pressuring more ideologically pure conservative candidates. Critics use it to portray the GOP as captured by right‑wing populists or outside money, blaming the movement for pushing the party toward greater ideological rigidity even as many Tea Party priorities became absorbed into mainstream Republican policy.",
+    "queries": [
+      "Is the tea party movement within the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "house freedom caucus",
+    "wiki_title": "freedom caucus",
+    "summary": "The Freedom Caucus is often held up as the internal force pushing the Republican Party toward a more confrontational, populist and hard‑right stance—used by critics to argue the GOP is drifting from mainstream conservatism and by allies to justify uncompromising fiscal and social‑conservative purity and pressure on party leaders to adopt more aggressive anti‑establishment policies.",
+    "queries": [
+      "Is the House Freedom Caucus justified within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "tea party patriots",
+    "wiki_title": "tea party patriots",
+    "summary": "The Tea Party Patriots are invoked in debates about the Republican Party as a grassroots standard-bearer demanding a hard-line return to small-government fiscal conservatism—using primary challenges, protests, and messaging to push Republicans toward deep tax cuts, deregulation, reduced deficits and opposition to policies like the Affordable Care Act. Critics point to the group's influence to argue the GOP has been captured by uncompromising populist purists whose obstructionist tactics and anti‑establishment rhetoric polarize the party and complicate coalition‑building.",
+    "queries": [
+      "Are the tea party patriots justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "2010 midterm elections",
+    "wiki_title": "2010 united states elections",
+    "summary": "The 2010 elections are cited by Republicans as proof of a popular backlash that legitimized the party’s turn toward fiscal austerity, tax cuts, and a hard-line stance against the Obama administration (including opposition to the Affordable Care Act); critics, however, use 2010 to portray the GOP as captured by Tea Party populism, increased polarization, and obstructionist tactics rather than constructive governance.",
+    "queries": [
+      "How did the Republican Party's 2010 midterm elections reshape public perception?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "grover norquist",
+    "wiki_title": "grover norquist",
+    "summary": "Grover Norquist is depicted as the GOP’s anti‑tax enforcer who uses pledges and advocacy to pressure Republican lawmakers to reject tax increases and prioritize small‑government, pro‑tax‑cut policies; supporters praise his role in keeping the party fiscally conservative, while critics argue he rigidly constrains compromise and pragmatic budgeting within the Republican Party.",
+    "queries": [
+      "Are Grover Norquist's tax-cut priorities justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "fiscal conservatism",
+    "wiki_title": "fiscal conservatism",
+    "summary": "Within debates about the Republican Party, fiscal conservatism is invoked by supporters to justify core GOP policies—tax cuts, deregulation, privatization, and entitlement reform—as necessary limits on government and engines of economic growth, while critics use the label to argue the party prioritizes wealthy interests and austerity for social programs. It also frames intra-party conflicts, with some Republicans accused of hypocrisy when embracing large deficits for tax cuts or military spending despite professed fiscal restraint, and others pushing a return to strict budget discipline.",
+    "queries": [
+      "How do people view fiscal conservatism within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "balanced budget amendment",
+    "wiki_title": "balanced budget amendment",
+    "summary": "Republicans frequently invoke a balanced-budget amendment as a political symbol of fiscal discipline—using it to justify spending cuts, curb entitlement growth, and portray the party as the guardian against deficits—while opponents accuse Republicans of using the amendment to impose austerity that deepens recessions and limits social-policy options.",
+    "queries": [
+      "How do people view the Republican Party’s balanced budget amendment proposal?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "paul ryan",
+    "wiki_title": "paul ryan",
+    "summary": "Paul Ryan is often cited as the Republican Party’s technocratic fiscal-policy avatar, used to justify entitlement reform, large tax cuts, and a market-oriented approach to governance. Critics invoke him to argue the party prioritizes tax breaks for the wealthy and rollbacks of the social safety net, while supporters point to his budget expertise and policy-driven conservatism as legitimizing the GOP’s economic agenda.",
+    "queries": [
+      "Are Paul Ryan's leadership choices reasonable or problematic?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "debt ceiling",
+    "wiki_title": "debt limit",
+    "summary": "Republicans frequently use the debt limit as political leverage to press for spending cuts, entitlement reform, or pay-as-you-go rules—casting the party as the defender of fiscal responsibility—while critics portray GOP brinkmanship over ceiling votes as risky hostage-taking that can split hardline conservatives from establishment Republicans.",
+    "queries": [
+      "How do people view the debt ceiling approach by Republicans?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "social conservatism",
+    "wiki_title": "social conservatism",
+    "summary": "Within debates over the Republican Party, social conservatism is invoked to justify laws and platforms defending traditional family and religious values—shaping GOP stances on abortion restrictions, school curricula, same-sex marriage and “religious liberty” exemptions—and to mobilize evangelical and culturally conservative voters. It also functions as a litmus test for candidates and is used by critics to portray the party as socially reactionary or intolerant.",
+    "queries": [
+      "How do people view the Republican Party's social conservatism?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "christian coalition of america",
+    "wiki_title": "christian coalition of america",
+    "summary": "The Christian Coalition of America is often invoked as a key evangelical mobilizer that pushes the Republican Party toward socially conservative positions—abortion restrictions, opposition to LGBTQ expansions, and religious-liberty claims—and helps justify GOP outreach to faith voters; critics use its influence to argue the party is captured by the religious right while supporters point to it as grassroots legitimacy for Republican social policy.",
+    "queries": [
+      "How do people view the Christian Coalition of America’s role?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "dobbs v. jackson women's health organization",
+    "wiki_title": "dobbs v. jackson women's health organization",
+    "summary": "Dobbs is invoked by supporters to portray the Republican Party as achieving a long‑sought pro‑life victory and vindicating conservative judicial strategy and states’ rights, while critics use it to argue Republicans enable severe restrictions on reproductive freedom, have politicized the courts, and risk electoral backlash and intra‑party tension.",
+    "queries": [
+      "What effects has dobbs v. jackson women's health organization produced?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "same-sex marriage in the united states",
+    "wiki_title": "same-sex marriage in the united states",
+    "summary": "Same-sex marriage is used as a political litmus test for the Republican Party, with supporters of GOP social conservatism citing it to justify traditional, religion-informed policies and to mobilize the base, while opponents and Democrats use it to portray the party as intolerant and out of step with public opinion. Debates over rising GOP supporters of marriage equality are then leveraged to argue whether the party is modernizing and electorally pragmatic or remains beholden to its conservative wing.",
+    "queries": [
+      "Has Republican opposition affected same-sex marriage in the united states?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "transgender rights in the united states",
+    "wiki_title": "transgender rights in the united states",
+    "summary": "Debates over transgender rights are frequently used by supporters of the Republican Party (United States) as a wedge issue—promoting restrictions on gender‑affirming care for minors, bans in school sports and restroom policies, and exemptions for religious liberty—framed as protecting children, privacy, and safety to mobilize conservative voters. Opponents use these fights to criticize the party as discriminatory and hostile to LGBTQ+ rights, while internal moderates sometimes push back to avoid alienating younger or swing constituencies.",
+    "queries": [
+      "How do Republicans view transgender rights in the United States?"
+    ]
+  },
+  {
+    "id": "C1-5-8",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "family values",
+    "wiki_title": "family values",
+    "summary": "Republicans frequently invoke “family values” to justify socially conservative policies—opposing abortion and same‑sex marriage, promoting traditional marriage, parental control over education, and faith‑based programs—as a way to mobilize evangelical and culturally conservative voters. Critics counter that the slogan masks policy choices that favor the wealthy, neglect caregivers and social supports, and is often applied hypocritically when party figures violate professed moral standards.",
+    "queries": [
+      "What consequences have the Republican Party’s family values had?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "national rifle association",
+    "wiki_title": "national rifle association",
+    "summary": "The NRA is invoked to portray the Republican Party as the staunch defender of Second Amendment rights—mobilizing voters, endorsing and funding GOP candidates, and framing gun-control proposals as attacks on liberty. Critics use the NRA to argue that the party is captured by the gun lobby, prioritizing firearms industry and donor interests over public safety.",
+    "queries": [
+      "Is the national rifle association's influence on the Republican Party justified?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "wayne lapierre",
+    "wiki_title": "wayne lapierre",
+    "summary": "LaPierre is invoked as a symbol of the Republican Party’s close alignment with the gun-rights movement and is used to justify GOP opposition to many gun-control measures and emphasize the party’s prioritization of Second Amendment advocacy and donor influence. His controversies and legal troubles are likewise cited by critics to argue the party is beholden to powerful interests and resistant to reform or accountability.",
+    "queries": [
+      "Is Wayne LaPierre's influence in the Republican Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "campaign finance",
+    "wiki_title": "campaign finance",
+    "summary": "In debates about the Republican Party, campaign finance is often framed by Republicans as a free‑speech issue—defending Super PACs, corporate and wealthy donor activity (e.g., Citizens United) and resisting stricter limits or disclosure—while critics use those same funding patterns to argue the party is beholden to elite and corporate interests and to push for tighter limits and transparency.",
+    "queries": [
+      "What effects has Republican Party campaign finance had?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "background checks",
+    "wiki_title": "background check",
+    "summary": "In public debates, “background checks” are frequently invoked to criticize the Republican Party’s approach to gun policy—opponents argue GOP resistance to universal or expanded checks reflects prioritizing gun rights and industry donors over public safety, while Republicans counter that broader checks are ineffective or violate rights. The term is also used to frame the party’s law-and-order messaging on immigration and appointee vetting (supporting stricter screening), though critics seize vetting failures or uneven enforcement to charge hypocrisy.",
+    "queries": [
+      "What impacts have Republican Party background checks had?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "assault weapons ban",
+    "wiki_title": "assault weapons ban",
+    "summary": "Assault weapons bans are often used as a litmus test for the Republican Party — Republicans are typically depicted as opposing bans on Second Amendment and self‑defense grounds, arguing they’re ineffective or unconstitutional, while framing policy responses around enforcement and mental‑health solutions. Opponents of the party use Republicans’ resistance to such bans to portray them as aligned with the NRA and obstructive to gun‑safety reforms, even as a small number of moderates sometimes back limited restrictions after mass shootings.",
+    "queries": [
+      "Is the Republican Party supporting an assault weapons ban reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "d.c. v. heller",
+    "wiki_title": "district of columbia v. heller",
+    "summary": "Republicans frequently invoke District of Columbia v. Heller as legal and rhetorical ammunition to defend broad individual gun rights, justify opposition to gun-control legislation, and validate conservative judicial nominations. Critics argue the party uses Heller selectively to frame itself as the defender of constitutional liberties while blocking moderate reforms and enabling expansive Second Amendment interpretations linked to higher gun violence.",
+    "queries": [
+      "Is d.c. v. heller’s impact on gun rights reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-8",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "mass shootings",
+    "wiki_title": "mass shooting",
+    "summary": "Mass shootings are frequently used by critics to portray the Republican Party as beholden to gun-rights interests and resistant to broad gun-safety reforms (background checks, assault‑weapon limits), while Republicans frame such incidents as failures of mental‑health care, cultural decay, or law enforcement that justify defending the Second Amendment and pursuing targeted security or enforcement measures rather than sweeping bans.",
+    "queries": [
+      "Is the Republican Party's response to mass shootings reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News serves as a primary media amplifier and legitimizing force for the Republican Party, framing GOP leaders, policies, and pro‑Trump positions favorably while mobilizing conservative voters and portraying Democratic opponents as hostile or illegitimate. In public debates it advances narratives that defend Republican electoral claims and policy goals—sometimes by minimizing scandals and promoting contested or false claims—to shape popular perceptions and party direction.",
+    "queries": [
+      "How do people view Fox News’s role within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "2020 election",
+    "wiki_title": "2020 national electoral calendar",
+    "summary": "The 2020 national electoral calendar is invoked in GOP debates to show how pandemic-driven changes to primary and general-election timing, mail-in voting, and key runoffs (notably Georgia) reshaped Republican turnout strategy and post-election narratives. Supporters use the calendar to justify tighter absentee and ID rules and to question last-minute changes as partisan, while critics argue GOP opposition to expanded voting access suppressed participation and fueled legitimacy claims.",
+    "queries": [
+      "How do people view the Republican Party's stance on the 2020 election?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "border security",
+    "wiki_title": "border control",
+    "summary": "In U.S. debates 'border control' is frequently used to cast the Republican Party as the defender of national sovereignty and public safety, justifying policies like tougher enforcement, a border wall, expanded deportations, and travel restrictions to mobilize security-minded and nativist voters. Opponents use the same term to criticize Republicans for promoting xenophobia, human-rights abuses and economic harm, or to expose rifts between hardline restrictionists and business-oriented conservatives who support targeted legal immigration.",
+    "queries": [
+      "How do people view border security policies promoted by the Republican Party?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "sean hannity",
+    "wiki_title": "sean hannity",
+    "summary": "As a high-profile conservative broadcaster, Hannity frames the Republican Party as the defender of pro‑Trump, free‑market and law‑and‑order priorities, amplifying defenses of tax cuts, deregulation and strict immigration enforcement while attacking Democrats and the mainstream media. He often legitimizes party strategies by downplaying scandals and promoting populist or grievance‑based narratives to mobilize and justify the GOP base.",
+    "queries": [
+      "How do people view sean hannity's role in Republican politics?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral strategy",
+    "wiki_title": "southern strategy",
+    "summary": "Critics use the \"Southern strategy\" as a lens to portray the Republican Party as having built its Southern base by exploiting white racial grievances, casting many GOP policy positions and campaign messages (on crime, voting, immigration, welfare) as racially coded or exclusionary; defenders and some analysts dispute that label, arguing it overstates intentional racism and instead reflects electoral pragmatism or appeals to cultural conservatism, so the term is a contested frame in debates over the party’s motives and priorities.",
+    "queries": [
+      "Is the Republican Party's electoral strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2",
+    "level": 3,
+    "topic": "richard nixon",
+    "wiki_title": "richard nixon",
+    "summary": "Republican politicians and commentators often invoke Nixon to justify a pragmatic, realist wing of the party—pointing to his national-security credentials, diplomatic initiatives, and willingness to accept some federal programs—as proof the GOP can govern flexibly. Conversely, critics use “Nixon” as shorthand for corruption, secrecy, and executive overreach (Watergate-era abuses) to argue the party harbors authoritarian tendencies and ethical hypocrisy.",
+    "queries": [
+      "Is Richard Nixon’s legacy within the Republican Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "lee atwater",
+    "wiki_title": "lee atwater",
+    "summary": "Lee Atwater is invoked as the archetypal Republican strategist who normalized hard‑ball, negative and racially coded campaigning; critics use him to argue the GOP relies on divisive, dog‑whistle tactics and prioritizes electoral victory over democratic norms, while defenders point to his effectiveness in crafting disciplined, tough‑minded messaging that brought Republican wins.",
+    "queries": [
+      "Is Lee Atwater’s approach to negative campaigning reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "barry goldwater",
+    "wiki_title": "barry goldwater",
+    "summary": "Barry Goldwater is frequently invoked as the intellectual and symbolic origin of today's small‑government, activist conservative wing of the Republican Party—used by conservatives to justify ideological purity and grassroots mobilization and by critics to trace the party’s hard right turn and its electoral risks. His later libertarian social views and principled breaks with party figures are also cited by moderates and libertarian Republicans to argue the GOP could be more socially tolerant, and by opponents to highlight internal tensions between fiscal conservatism and civil‑rights or inclusion concerns.",
+    "queries": [
+      "Is Barry Goldwater’s libertarian streak reasonable or problematic for Republicans?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "willie horton",
+    "wiki_title": "willie horton",
+    "summary": "The Willie Horton case is often invoked in critiques and defenses of the Republican Party — GOP strategists cite it as a successful example of tough‑on‑crime messaging used to portray Democrats as soft on public safety and to justify harsher sentencing and law‑and‑order policies, while opponents point to the ad’s racialized fear‑mongering as emblematic of the party’s willingness to use dog‑whistle tactics in campaigns.",
+    "queries": [
+      "Are attacks invoking Willie Horton effective or reasonable in campaigns?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "dog-whistle politics",
+    "wiki_title": "dog whistle (politics)",
+    "summary": "In American debates about the Republican Party, critics allege GOP figures use dog‑whistle language to mobilize support for anti‑immigrant, racially coded, law‑and‑order, or socially conservative policies while avoiding explicit statements that would provoke backlash. Supporters counter that such phrasing signals mainstream priorities like border security and traditional values without endorsing overt extremism, making dog whistles a focal point in how Republican positions are framed and contested.",
+    "queries": [
+      "Is dog-whistle politics within the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "civil rights act of 1964",
+    "wiki_title": "civil rights act of 1964",
+    "summary": "In debates about the Republican Party, the Civil Rights Act of 1964 is invoked both as evidence of an early GOP commitment to racial equality—used by Republicans to claim a civil‑rights legacy—and as a yardstick to criticize the party’s later realignment and contemporary stances (e.g., voting‑law reforms and limits on federal enforcement) as departures from that legacy. Critics use the Act to frame modern Republican policies as undermining civil‑rights gains, while defenders point to historical votes and federalism arguments to justify current positions.",
+    "queries": [
+      "How do Republicans view the civil rights act of 1964?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "voting rights act of 1965",
+    "wiki_title": "voting rights act of 1965",
+    "summary": "The Voting Rights Act is frequently invoked in arguments about the Republican Party, with critics saying GOP-supported legal changes (including support for Shelby County v. Holder) have weakened federal protections and enabled state-level rules that disproportionately suppress minority turnout, while Republicans counter that preclearance and other VRA-era mandates were outdated federal overreach and that their voting reforms promote state sovereignty and election integrity.",
+    "queries": [
+      "What effects has the voting rights act of 1965 had on Republicans?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "gerrymandering",
+    "wiki_title": "gerrymandering",
+    "summary": "In debates about the Republican Party, gerrymandering is often cited by critics to argue that GOP lawmakers deliberately engineer districts to lock in conservative majorities and protect incumbents, framing the party as prioritizing power retention over fair representation. Republican defenders portray partisan map‑drawing as a legal political tactic or point to Democratic examples, fueling disputes over independent redistricting commissions, court challenges, and voting‑rights reforms.",
+    "queries": [
+      "How do people view gerrymandering by the Republican Party?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "rucho v. common cause",
+    "wiki_title": "rucho v. common cause",
+    "summary": "Rucho v. Common Cause is often invoked to defend Republican-led redistricting by framing partisan gerrymanders as outside the judiciary’s purview, thereby legitimizing state GOP strategies to secure legislative and congressional majorities. Critics use the ruling to accuse the Republican Party of entrenching power and undermining democratic fairness, bolstering calls for independent commissions or federal anti-gerrymandering reforms.",
+    "queries": [
+      "How do people view rucho v. common cause?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "shelby county v. holder",
+    "wiki_title": "shelby county v. holder",
+    "summary": "Shelby County v. Holder is cited as a legal turning point in debates about the Republican Party: supporters frame the ruling as restoring state sovereignty and ending outdated federal oversight, while critics argue it enabled GOP-led states to pass voter-ID and other restrictions that disproportionately suppress turnout among Democratic-leaning groups, casting the party as pursuing partisan advantage through voting-rule changes.",
+    "queries": [
+      "What effects has shelby county v. holder had on the Republican Party?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "tom delay",
+    "wiki_title": "tom delay",
+    "summary": "Tom DeLay is often cited in discussions of the Republican Party as an emblem of its turn toward aggressive, top‑down party discipline and close ties to lobbyists and corporate interests, with critics using him to argue the GOP tolerates cronyism and ethical overreach. Supporters, however, frame him as a hard‑nosed organizer who forced unified conservative action on issues like tax cuts and deregulation, and his legal saga is invoked on both sides to accuse opponents of political persecution or to highlight accountability issues within the party.",
+    "queries": [
+      "Was tom delay’s political conduct reasonable or problematic for Republicans?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "independent redistricting commission",
+    "wiki_title": "redistricting commission",
+    "summary": "Independent or bipartisan redistricting commissions are frequently cited by critics as a remedy to Republican-controlled mapmaking and used to lampoon the GOP for partisan gerrymanders, while many Republican politicians portray commissions as unaccountable institutions that unfairly remove electoral control from voters and state legislatures when commissions threaten Republican advantage.",
+    "queries": [
+      "How do Republican voters view an independent redistricting commission?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "gerrymandering in north carolina",
+    "wiki_title": "redistricting in north carolina",
+    "summary": "Redistricting in North Carolina is frequently cited by critics as a prime example of how the Republican Party uses partisan (and at times racially contested) map-drawing to entrench its electoral advantage, prompting court challenges and narratives of anti-democratic manipulation. Defenders within and allied with the party argue the maps reflect lawful protection of communities and political interests and oppose independent commissions as politically motivated constraints on state-level control.",
+    "queries": [
+      "What consequences has gerrymandering in north carolina had?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "gerrymandering in wisconsin",
+    "wiki_title": "redistricting in wisconsin",
+    "summary": "Redistricting in Wisconsin is frequently cited to portray the Republican Party as using partisan map-drawing to entrench legislative and congressional majorities despite vote totals, fueling criticisms that the party prioritizes power retention over democratic fairness and prompting calls for independent commissions and court intervention. Republicans counter that the maps reflect lawful districting, community boundaries, and the urban–rural partisan geography, framing legal challenges as political attacks rather than principled grievances.",
+    "queries": [
+      "What effects has gerrymandering in Wisconsin had on Republican Party politics?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "voter id laws",
+    "wiki_title": "voter identification laws",
+    "summary": "Voter identification laws are often cited to cast the Republican Party as prioritizing election integrity and law-and-order, with GOP advocates arguing stricter ID requirements prevent fraud and boost confidence in results. Critics use these laws to portray Republicans as pursuing partisan voter suppression that disproportionately burdens minorities, low-income voters, students, and the elderly.",
+    "queries": [
+      "What consequences have the Republican Party’s voter id laws had?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "naacp legal defense fund",
+    "wiki_title": "naacp legal defense and educational fund",
+    "summary": "The NAACP Legal Defense and Educational Fund is frequently invoked in battles over Republican-led voting, redistricting, education, and criminal-justice policies: opponents of GOP measures cite its lawsuits and briefs as authoritative evidence that those policies are racially discriminatory, while many Republicans frame LDF as a partisan, activist legal arm unfairly blocking ‘election integrity’ and local policymaking.",
+    "queries": [
+      "Is the naacp legal defense fund's criticism of the Republican Party justified?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "heritage foundation",
+    "wiki_title": "the heritage foundation",
+    "summary": "Commentators and Republican leaders invoke the Heritage Foundation as a chief source of conservative policy blueprints and talking points, using its research to justify GOP positions on limited government, tax cuts, deregulation, a strong national defense, and conservative social policies. It also functions as a litmus test and pressure group within GOP debates—pushing the party rightward and criticizing Republicans deemed insufficiently conservative on legislation, judicial nominations, and party platforms.",
+    "queries": [
+      "Are the Heritage Foundation's recommendations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "voter suppression",
+    "wiki_title": "voter suppression",
+    "summary": "Accusations of voter suppression are frequently applied to Republican-led laws and practices—like strict ID requirements, roll purges, limits on mail or early voting, and selective polling-place reductions—to argue the party is curbing turnout among Black, Latino, young, and Democratic-leaning voters. Republicans typically defend those measures as necessary election-integrity reforms, while critics use the “voter suppression” frame to justify litigation, mobilization, and claims that the party is undermining democratic participation.",
+    "queries": [
+      "How do people view voter suppression linked to the Republican Party?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "republican state legislatures",
+    "wiki_title": "list of united states state legislatures",
+    "summary": "Lists of state legislatures are cited by both supporters and critics to argue about the Republican Party’s real power: proponents point to GOP control of numerous statehouses to justify conservative policy experimentation (tax cuts, restrictive abortion and voting laws, and aggressive redistricting), while opponents use those same lists to frame the party as imposing anti-democratic changes at the state level through gerrymandering and rollbacks of rights and voting access.",
+    "queries": [
+      "Are republican state legislatures acting in the Republican Party’s best interest?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "latino voters",
+    "wiki_title": "latino vote",
+    "summary": "In debates about the Republican Party, the \"Latino vote\" is invoked by strategists to justify outreach, bilingual messaging, and softened immigration positions as a way to broaden the GOP coalition and improve electoral prospects. Opponents and critics use Latino voting patterns to argue that the party’s hardline immigration rhetoric and cultural appeals are alienating and electorally damaging, pressuring Republicans to change tone or policy.",
+    "queries": [
+      "Is the Republican Party’s outreach to latino voters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "border wall",
+    "wiki_title": "border barrier",
+    "summary": "Advocates present a border barrier as a signature Republican policy and campaign symbol that signals toughness on illegal immigration and national security, justifying funding, stricter enforcement, and executive action. Opponents use the wall to portray the GOP as xenophobic, costly, and politically opportunistic, and it also fuels intra-party disputes over feasibility, spending priorities, and the limits of presidential power.",
+    "queries": [
+      "Is the Republican Party's border wall proposal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "daca",
+    "wiki_title": "deferred action for childhood arrivals",
+    "summary": "DACA is a frequent flashpoint used to define the Republican Party’s immigration identity: critics portray GOP opposition to automatic Dreamer legalization as cruel or anti-immigrant, while Republicans commonly justify resistance on grounds of rule-of-law, border security, and opposition to unilateral executive action. The issue also highlights intra-party splits—some Republicans use DACA to argue for a negotiated pathway tied to tougher enforcement or merit-based reforms, while hardliners reject protections as amnesty.",
+    "queries": [
+      "How do people view DACA within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "cuban americans",
+    "wiki_title": "cuban americans",
+    "summary": "Republican operatives and commentators often cite Cuban Americans—particularly older, anti‑communist refugees in Florida—to justify the GOP’s hardline Cuba policy, tough immigration and law‑and‑order messaging, and to claim Hispanic outreach successes; critics counter that Cuban Americans are atypical among Latinos and that leaning on their support obscures broader Hispanic skepticism of Republican positions and a generational shift away from the party.",
+    "queries": [
+      "Is the Republican Party’s outreach to Cuban Americans reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "univision",
+    "wiki_title": "univision",
+    "summary": "Univision frequently highlights Republican immigration policies, rhetoric, and voting outreach in ways that portray the GOP as out of step with Latino communities, using reporting and opinion to criticize the party and mobilize Hispanic voters; critics on the right, in turn, invoke alleged Univision bias to dismiss those critiques and argue the network’s coverage underscores the need for Republicans to change messaging or pursue targeted outreach.",
+    "queries": [
+      "How do people view univision’s portrayal of Republican Party issues?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "republican national committee",
+    "wiki_title": "republican national committee",
+    "summary": "The Republican National Committee is frequently invoked as the GOP’s institutional organizer—framing arguments about who the party backs, how it raises and spends money, and what messaging and rules define the party’s priorities and electability. Supporters point to its role in coordinating campaigns and enforcing party unity around conservative platforms, while critics cast it as an establishment gatekeeper that protects incumbents, caters to big donors, and enables controversial tactics like targeted voter outreach or legal strategies.",
+    "queries": [
+      "How do people view the Republican National Committee's influence?"
+    ]
+  },
+  {
+    "id": "C2-4-7",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "family separation",
+    "wiki_title": "family separation",
+    "summary": "Family separation is used as a potent political symbol in debates over the Republican Party’s immigration and border-enforcement stance—critics brand GOP policies as inhumane by highlighting separated children, while defenders frame enforcement as necessary for rule of law and deterrence or blame policy implementation. The controversy both fuels Democratic attack messaging and pressures Republicans internally to balance tougher immigration controls with humanitarian reforms to avoid electoral backlash.",
+    "queries": [
+      "What consequences has the Republican Party's family separation caused?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "tucker carlson",
+    "wiki_title": "tucker carlson",
+    "summary": "Tucker Carlson reframes the Republican Party as a populist, nationalist movement by amplifying anti-immigrant, protectionist, anti-elite, and isolationist arguments while publicly shaming establishment Republicans for failing to follow “Trumpism.” His prominence has helped shift GOP discourse rightward by normalizing nativist and conspiratorial claims and pressuring party figures to embrace harderline cultural‑war and foreign‑policy positions.",
+    "queries": [
+      "How do people view tucker carlson’s messaging in Republican circles?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "tax cuts",
+    "wiki_title": "tax cut",
+    "summary": "Supporters portray tax cuts as a core Republican tool to shrink government, spur growth, and reward investment, using them to justify pro-business and low-tax messaging; critics deploy tax cuts to argue the GOP prioritizes the wealthy, deepens deficits, and underfunds public services, framing them as evidence of inequality and misplaced priorities.",
+    "queries": [
+      "What effects have tax cuts had on public opinion and elections?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "super pacs",
+    "wiki_title": "super pac",
+    "summary": "Within Republican Party politics, super PACs are depicted as the high-dollar engine that bankrolls GOP nominees, aggressive attack ads, and priority agendas like tax cuts, deregulation, conservative judges, and immigration restrictions—shaping which factions and candidates prevail in primaries and general elections. They are also a flashpoint in debates: defenders say they level the playing field against Democratic fundraising, while critics charge they concentrate donor influence, encourage ‘dark money’ spending, and pull party priorities toward wealthy backers rather than grassroots voters.",
+    "queries": [
+      "What effects have Republican Party super pacs produced?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "restore our future",
+    "wiki_title": "restore our future",
+    "summary": "Restore Our Future is invoked in debates about the Republican Party as an example of establishment, big‑money efforts to steer the party toward pragmatic, electability‑focused conservatism (e.g., Romney‑style economic moderation), and is criticized by insurgent conservatives and reformers as evidence that corporate-funded super PACs and elite networks override grassroots preferences and pull the party away from purist or populist positions.",
+    "queries": [
+      "What impacts has restore our future had on Republican Party politics?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "right to rise usa",
+    "wiki_title": "right to rise",
+    "summary": "The 'Right to Rise' super PAC from Jeb Bush’s 2016 effort is invoked in debates about the Republican Party as a symbol of establishment, big‑donor politics — critics use it to argue the party is beholden to wealthy interests and stifles insurgent populists, while defenders frame it as a pragmatic, electability‑focused vehicle for advancing fiscal conservatism and moderate Republican policies.",
+    "queries": [
+      "Is right to rise usa’s influence on Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "senate leadership fund",
+    "wiki_title": "senate leadership fund",
+    "summary": "The Senate Leadership Fund is cited in debates about the Republican Party as the super‑PAC that bankrolls establishment Senate races and negative ad campaigns to secure GOP control of the chamber, reinforcing portrayals of the party as pragmatic, pro‑business, and centered on winning power. Critics point to its spending and coordination with party leaders to argue the party prioritizes wealthy donor interests and electoral calculus over ideological purity or grassroots accountability.",
+    "queries": [
+      "How do people view the Republican Party's senate leadership fund?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "congressional leadership fund",
+    "wiki_title": "congressional leadership fund",
+    "summary": "In public debates the Congressional Leadership Fund is portrayed by supporters as the GOP’s outside engine for financing and coordinating House campaigns—signaling establishment strength and message discipline—while critics point to its aggressive, sometimes misleading ad tactics to argue the Republican Party relies on deep-pocketed, partisan and ethically questionable campaign methods.",
+    "queries": [
+      "Is the Republican Party's congressional leadership fund justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "american crossroads",
+    "wiki_title": "american crossroads",
+    "summary": "American Crossroads is cited in debates about the Republican Party as a prime example of the party’s reliance on wealthy, outside super‑PACs to finance aggressive ad campaigns and electoral strategy—used by supporters to justify independent expenditures that bolster Republican candidates and conservative policies, and by critics to argue the party is beholden to big‑money donors and ‘dark money’ influence that undercuts grassroots accountability.",
+    "queries": [
+      "How do people view american crossroads' influence within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "sheldon adelson",
+    "wiki_title": "sheldon adelson",
+    "summary": "Sheldon Adelson is invoked as a symbol of the Republican Party’s reliance on mega-donor cash to shape candidate selection and policy, particularly to advance pro‑Israel, pro‑business, and hawkish foreign‑policy positions. Critics cite his influence to argue the party is beholden to plutocratic and transactional interests, while supporters portray his funding as decisive for delivering conservative priorities.",
+    "queries": [
+      "Is Sheldon Adelson’s influence on the Republican Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "policy and governance",
+    "wiki_title": "governance",
+    "summary": "Disputes over governance are used to attack or defend the Republican Party's approach to power: critics say Republican-led governance often concentrates authority, politicizes courts and election administration, and advances voting restrictions and redistricting to entrench partisan control. Republicans and allies frame their governance agenda as restoring accountability and efficiency—promoting limited government, deregulation, stronger executive authority, federalism, and judicial appointments to check what they call an overreaching administrative state.",
+    "queries": [
+      "How do people view Republican Party policy and governance today?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Donald Trump is invoked as the defining force who recast the Republican Party into a populist, nationalist, and anti‑establishment movement—used by supporters to justify hardline immigration policies, economic protectionism, transactional foreign policy, and prioritizing loyalty and electoral winning over traditional conservative institutions. Critics use his influence to frame the party as having moved toward demagoguery, nativism, and illiberalism, pointing to his rhetoric and governing style as evidence the GOP has abandoned establishment conservatism and democratic norms.",
+    "queries": [
+      "Are Donald Trump’s policy priorities for the Republican Party justified?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "make america great again",
+    "wiki_title": "make america great again",
+    "summary": "Within debates about the Republican Party, MAGA acts as a rallying brand that legitimizes a populist, nationalist shift—defending tougher immigration controls, protectionist trade, anti-elite rhetoric, and a more confrontational party discipline—while sidelining traditional Republican orthodoxy. Critics invoke the slogan to portray the party as nativist and exclusionary, intensifying internal battles over the GOP’s identity and providing a focal point for attacks on its legitimacy.",
+    "queries": [
+      "Is 'make america great again' reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "tax cuts and jobs act",
+    "wiki_title": "tax cuts and jobs act",
+    "summary": "The Tax Cuts and Jobs Act is wielded by Republicans as proof of the party’s pro-growth, pro-business, low-tax agenda—framed as delivering jobs, wage gains, and relief to families and corporations. Critics use it to argue the Republican Party prioritizes wealthy interests and corporate tax breaks over fiscal responsibility and economic equity, citing larger deficits and increased inequality.",
+    "queries": [
+      "Is the Tax Cuts and Jobs Act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "corporate tax rate",
+    "wiki_title": "corporate tax",
+    "summary": "Debates over corporate tax are used to portray the Republican Party as staunchly pro‑business — Republicans tout lower corporate rates (e.g., the 2017 Tax Cuts and Jobs Act) as necessary to boost investment, jobs, and U.S. competitiveness and to justify broader supply‑side, deregulatory policy. Critics use corporate‑tax policy to argue the GOP prioritizes corporations and wealthy shareholders over public services and income equality, framing cuts as revenue‑reducing giveaways that exacerbate inequality.",
+    "queries": [
+      "How do people view the Republican Party’s corporate tax rate stance?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "federal deficit",
+    "wiki_title": "national debt of the united states",
+    "summary": "Republicans frequently invoke the national debt to argue for fiscal conservatism—using it to justify tax cuts framed as growth-promoting, demands for entitlement reform, spending caps, and aggressive debt‑ceiling bargaining. Opponents counter that GOP policies (large tax cuts, defense spending) often worsen deficits, portraying the party’s debt rhetoric as selective or politically motivated.",
+    "queries": [
+      "Is the Republican Party's approach to the federal deficit reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "stock buybacks",
+    "wiki_title": "share repurchase",
+    "summary": "Share repurchases are used to defend Republican pro-business, low-tax policies—arguing buybacks return capital to investors, lift stock prices, and reflect efficient, shareholder-focused markets—while critics cite buybacks to argue the Republican Party prioritizes corporations and wealthy shareholders over worker pay, long-term investment, and economic fairness, opposing limits or taxes on buybacks as government overreach.",
+    "queries": [
+      "Are the Republican Party’s views on stock buybacks reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "congressional budget office",
+    "wiki_title": "congressional budget office",
+    "summary": "The Congressional Budget Office is routinely cited in fights over Republican fiscal priorities—GOP lawmakers lean on favorable CBO cost estimates to justify tax cuts, entitlement roll-backs, or claims of deficit reduction, while opponents use CBO projections on increased debt, lost revenues, or higher uninsured counts to criticize Republican proposals; when scores hurt Republicans, critics and some conservatives alike will contest CBO assumptions or accuse it of bias to undermine those findings.",
+    "queries": [
+      "How do people view the congressional budget office's estimates for Republican budgets?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "immigration policy",
+    "wiki_title": "immigration law",
+    "summary": "Immigration law is invoked by Republicans to justify hardline positions—expanded border enforcement, deportations, tightened legal admissions, and executive authority—framing the party as protecting national security and rule of law; opponents counter that this legal framing masks xenophobic or politically motivated restrictions and prioritizes enforcement over humanitarian or economic considerations.",
+    "queries": [
+      "What impacts has the Republican Party’s immigration policy caused?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "immigration and customs enforcement",
+    "wiki_title": "united states immigration and customs enforcement",
+    "summary": "Republicans often point to ICE as evidence of their commitment to law-and-order and border security, using its detention, deportation, and enforcement role to justify tougher immigration laws, increased DHS funding, and stricter border controls. Opponents use high-profile ICE actions and controversies (family separations, detention conditions, civil‑rights complaints) to portray the GOP as harsh or anti-immigrant and to push for reforms or abolition.",
+    "queries": [
+      "How do people view immigration and customs enforcement under the Republican Party?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "sanctuary cities",
+    "wiki_title": "sanctuary city",
+    "summary": "Republicans often invoke sanctuary cities to portray Democratic-led urban areas as flouting the rule of law and to justify tougher federal immigration enforcement, withholding funds, and litigation as part of a broader law-and-order and border-security platform. Critics argue this framing amplifies fear of crime and immigration to rally the GOP base and legitimize restrictive immigration policies and federal overreach.",
+    "queries": [
+      "How do people view sanctuary cities within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "title 42",
+    "wiki_title": "title 42 of the united states code",
+    "summary": "Republicans commonly point to Title 42 as a legal and public‑health justification for harsh border enforcement and rapid expulsions, using it to underscore their broader argument that strict immigration controls are necessary for safety and order. Opponents counter that GOP reliance on the pandemic-era authority is a pretext that undermines asylum rights and avoids pursuing substantive immigration reform.",
+    "queries": [
+      "Is the Republican Party's use of title 42 justified or reasonable?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "january 6 attack",
+    "wiki_title": "january 6 united states capitol attack",
+    "summary": "The January 6 attack is repeatedly invoked in debates about the Republican Party as evidence that elements of the party — especially Trump-aligned leaders — have enabled anti-democratic behavior, used by critics to argue for accountability, party purges, and voting-rights protections. Defenders counter by framing the event as isolated extremism or politically motivated prosecution, using it to justify defending Trump-aligned candidates or resisting institutional reforms.",
+    "queries": [
+      "How do Republican voters view the January 6 attack?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "proud boys",
+    "wiki_title": "proud boys",
+    "summary": "Critics cite the Proud Boys’ violent actions and ties to Trump-era rallies to portray the Republican Party as tolerating or enabling extremist, anti-democratic forces and to press GOP officials for repudiation, candidate vetting, and tougher law-enforcement or deplatforming measures. Defenders and some party-aligned voices, however, cast the group as a marginal ‘‘law-and-order’’ counterforce or as a victim of partisan censorship, framing efforts to ban or stigmatize it as overreach and fueling internal debates about the party’s image, boundaries, and responses to political violence.",
+    "queries": [
+      "Are proud boys justified or unacceptable in Republican Party politics?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "oath keepers",
+    "wiki_title": "oath keepers",
+    "summary": "Critics use Oath Keepers as evidence that elements of the Republican Party have tolerated or enabled extremist, anti‑government militias—citing their involvement in events like January 6 to argue the party has drifted toward election denialism and political violence. Conversely, sympathetic commentators portray them as defenders of constitutional rights and local self‑defense, a framing that bolsters hardline stances on gun rights, resistance to federal authority, and skepticism of federal election oversight.",
+    "queries": [
+      "What consequences have the Oath Keepers had for Republican Party unity?"
+    ]
+  },
+  {
+    "id": "C3-5-5",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "january 6 committee",
+    "wiki_title": "january 6th committee",
+    "summary": "The January 6th Committee is used by critics to portray the Republican Party as having elements that enabled or excused an anti‑democratic effort to overturn an election, bolstering calls for accountability, ethics sanctions, and institutional reforms; conversely, critics within and allied to the GOP depict the committee as a partisan, weaponized inquiry designed to delegitimize Trump‑aligned conservatives and mobilize the party base against prosecutions and party moderates.",
+    "queries": [
+      "Is the january 6 committee's focus on Republicans reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "second impeachment",
+    "wiki_title": "second impeachment",
+    "summary": "The trope of a “second impeachment” — especially of Donald Trump — is used by critics to argue the Republican Party shields misconduct and undermines democratic norms, while defenders cast it as partisan weaponization of impeachment; it therefore shapes arguments about GOP accountability, internal division, and the party’s fitness to govern.",
+    "queries": [
+      "Is the second impeachment justified or not within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "united states capitol police",
+    "wiki_title": "united states capitol police",
+    "summary": "Debates about the U.S. Capitol Police are central to arguments over the Republican Party because opponents point to the force’s failures to prevent the Jan 6 attack as evidence of the real-world danger of anti-democratic rhetoric and election-denialism among Republicans, while many Republicans frame the Capitol Police as either victims of political violence or as a politicized instrument unfairly used against conservatives to justify calls for tougher law-and-order policies or push back against investigations.",
+    "queries": [
+      "Are united states capitol police security measures reasonable or excessive?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "government shutdowns",
+    "wiki_title": "government shutdown",
+    "summary": "Opponents use government shutdowns to argue the Republican Party puts ideological priorities and political brinkmanship above governing—portraying GOP-led or GOP-backed shutdowns as evidence of irresponsibility and harm to public services. Supporters frame shutdowns as legitimate bargaining leverage to demand spending cuts, fiscal restraint, or policy concessions, presenting the party as willing to fight for conservative priorities rather than yield to Democrats.",
+    "queries": [
+      "How do people view government shutdowns by the Republican Party?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "mitch mcconnell",
+    "wiki_title": "mitch mcconnell",
+    "summary": "McConnell is often cited as the Republican establishment’s strategic operator — a party disciplinarian who uses Senate rules, judicial confirmations, and legislative timing to lock in conservative policy and long-term power. Supporters point to his effectiveness at achieving party goals; critics invoke him as proof the party prioritizes institutional entrenchment and obstructionism over transparency, populist responsiveness, or democratic norms.",
+    "queries": [
+      "How do people view Mitch McConnell's influence in the Republican Party?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "continuing resolution",
+    "wiki_title": "continuing resolution",
+    "summary": "Republicans often portray continuing resolutions as a pragmatic tool to limit spending and win policy concessions—framing short-term funding as fiscal discipline and leverage against Democratic priorities. Opponents and some critics within the party counter that repeated CRs signal governance-by-crisis, avoid making tough budget choices, create uncertainty for agencies, and invite political brinkmanship such as shutdown threats or controversial riders.",
+    "queries": [
+      "Is the Republican Party’s use of continuing resolution justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-7",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "federal employee furloughs",
+    "wiki_title": "furlough",
+    "summary": "Republican politicians and advocates often promote furloughs—especially for federal and public‑sector employees—as a fiscally conservative tool to cut costs, enforce workforce discipline, or avoid tax increases; opponents use furloughs to criticize the GOP for imposing austerity that harms workers and public services and to blame Republican budget standoffs for forced government shutdowns.",
+    "queries": [
+      "What consequences have federal employee furloughs advocated by the Republican Party caused?"
+    ]
+  },
+  {
+    "id": "C3-8-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "2024 presidential election",
+    "wiki_title": "list of elections in 2024",
+    "summary": "Compilations of 2024 election results are invoked in U.S. debates to measure the Republican Party’s momentum and electoral mandate—proponents cite specific wins as justification for tougher immigration, economic, and cultural policies, while opponents point to losses, shrinking vote shares, or narrow margins to argue that MAGA-style rhetoric and candidate choices are liabilities that require strategic or leadership change.",
+    "queries": [
+      "How do people view the 2024 presidential election within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C3-8-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "abortion rights",
+    "wiki_title": "abortion-rights movement",
+    "summary": "Abortion-rights activists commonly use the issue to cast the Republican Party as pursuing policies that restrict women’s autonomy—criticizing GOP platform planks, state laws, and judicial picks to mobilize voters and paint Republicans as out of step on gender and healthcare. That framing fuels electoral attacks on GOP candidates, pressures moderate Republicans on compromise language or exceptions, and shapes broader debates over the party’s priorities and legitimacy on reproductive rights.",
+    "queries": [
+      "What effects has the Republican Party's position on abortion rights had?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and constitutional issues",
+    "wiki_title": "all-party parliamentary group for legal and constitutional affairs",
+    "summary": "Writers and advocates often cite all‑party parliamentary groups for legal and constitutional affairs to lend bipartisan, institutional weight to criticisms that Republican efforts—on judicial appointments, voting rules, or executive authority—threaten rule‑of‑law norms; their reports are used to frame GOP actions as legally and ethically problematic. Conversely, Republican defenders portray such groups as rooted in different legal traditions or as ideologically biased, dismissing their conclusions as irrelevant or as partisan pressure against legitimate conservative reforms.",
+    "queries": [
+      "What consequences have the Republican Party’s legal and constitutional issues caused?"
+    ]
+  },
+  {
+    "id": "C4-1-8",
+    "parent": "C4",
+    "level": 3,
+    "topic": "2024 republican primaries",
+    "wiki_title": "2024 republican party presidential primaries",
+    "summary": "The 2024 Republican presidential primaries are invoked as the decisive battleground where competing visions of the GOP—Trump-aligned populism versus traditional conservatism and establishment electability—are promoted or attacked, and are used to justify the party’s rightward shift or to condemn it as extremist and electorally risky. Public debates about the primaries frame arguments over policies like immigration, trade, and foreign policy, and serve as shorthand for claims about the party’s unity, democratic norms, and prospects in general elections.",
+    "queries": [
+      "Are the 2024 republican primaries influencing party unity or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "supreme court",
+    "wiki_title": "supreme court",
+    "summary": "Debates about the Supreme Court are central to Republican strategy and messaging: Republicans present confirming conservative justices as a way to secure long-term policy wins (on abortion, religious liberty, gun rights, and limits on federal regulation) and to curb perceived judicial activism, while critics argue the party politicizes and leverages the courts to impose ideological outcomes beyond normal democratic debate.",
+    "queries": [
+      "How do people view the Republican Party's treatment of the supreme court?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "clarence thomas",
+    "wiki_title": "clarence thomas",
+    "summary": "Conservative advocates hold up Clarence Thomas as emblematic of the Republican project to reshape the federal judiciary toward originalist, pro-religion, and limited‑government rulings that validate GOP policy goals; opponents use his long tenure, perceived ideological rigidity, and controversies to argue that Republican judicial politics prioritize partisan ends, ethical concerns, and entrenched conservative rule over impartial justice.",
+    "queries": [
+      "Are concerns about Clarence Thomas reasonable or not for Republican voters?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "brett kavanaugh",
+    "wiki_title": "brett kavanaugh",
+    "summary": "Brett Kavanaugh is frequently cited in debates over the Republican Party as emblematic of its priority on conservative judicial appointments—supporters invoke his confirmation as vindication for advancing originalist judges and protecting GOP policy gains. Opponents use his contentious confirmation and the surrounding allegations to argue the party puts partisan power and judicial outcomes above accountability and women’s concerns.",
+    "queries": [
+      "Is Brett Kavanaugh still a unifying figure for the Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "amy coney barrett",
+    "wiki_title": "amy coney barrett",
+    "summary": "Republicans point to Amy Coney Barrett as proof that the party delivers lasting conservative change by installing originalist justices who favor limits on abortion, regulation, and the administrative state; opponents use her confirmation as a focal example of GOP priority on reshaping the judiciary, arguing it politicized the Supreme Court and enabled rollback of liberal precedents. ",
+    "queries": [
+      "Was amy coney barrett’s confirmation justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-8",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "originalism",
+    "wiki_title": "originalism",
+    "summary": "Republican leaders and conservative activists invoke originalism to justify steering the party’s judicial appointments and policy agenda toward outcomes like overturning precedents (e.g., Roe), expanding gun rights, and constraining administrative power by emphasizing historical meanings of the Constitution. Opponents portray that use as a partisan tactic—arguing originalism’s selective history and doctrinal claims are deployed by the GOP to roll back civil‑rights, reproductive, and regulatory protections.",
+    "queries": [
+      "What consequences has originalism produced for the Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "republican state leadership committee",
+    "wiki_title": "republican state leadership committee",
+    "summary": "The Republican State Leadership Committee is cited by supporters to portray the Republican Party (United States) as strategically building durable conservative governance through targeted candidate recruitment, funding, and training to win state legislatures and enact priorities like tax cuts and deregulation. Critics invoke the committee as evidence the party seeks partisan control of states to entrench power—pointing to aggressive redistricting, targeted spending, and efforts to shape election rules as undermining democratic fairness.",
+    "queries": [
+      "Is the republican state leadership committee's influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "2003 texas redistricting",
+    "wiki_title": "2003 texas redistricting",
+    "summary": "The 2003 Texas redistricting is often invoked as evidence that the Republican Party aggressively uses partisan mid-decade mapmaking to entrench power and sidestep electoral setbacks—critics point to it as proof the GOP prioritizes manipulation of rules over voter will and has enabled racial and representational harms, while supporters portray it as pragmatic, legally permissible strategy to secure conservative policy outcomes.",
+    "queries": [
+      "How do people view 2003 texas redistricting?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4",
+    "level": 3,
+    "topic": "kris kobach",
+    "wiki_title": "kris kobach",
+    "summary": "Kris Kobach is invoked in discussions about the Republican Party as the archetype of its hardline, nativist wing—critics point to him as evidence the party embraces anti-immigrant policies, restrictive voter-ID and purge tactics, and conspiratorial election rhetoric, while supporters portray him as a principled enforcer of immigration control and election integrity.",
+    "queries": [
+      "How do people view Kris Kobach’s influence in the Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "american civil liberties union",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is frequently invoked to challenge Republican policies—suing GOP-led states and framing actions on voting rules, abortion restrictions, anti‑LGBTQ measures, surveillance, and immigration as threats to constitutional rights—thereby portraying the Republican Party as hostile to civil liberties.  Republicans often counter by depicting the ACLU as partisan or extreme when it defends unpopular speech or reproductive and LGBTQ rights, using that characterization to justify tougher security or public‑order policies.",
+    "queries": [
+      "Are concerns about the american civil liberties union justified?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "brennan center for justice",
+    "wiki_title": "brennan center for justice",
+    "summary": "Its research and litigation are used by Democrats and voting-rights advocates to portray Republican policies on voting rules, redistricting, and campaign finance as enabling voter suppression and unchecked private influence, framing the GOP as a threat to democratic fairness; Republicans in turn portray the Center as a partisan activist group to discredit its critiques of GOP election and judicial stances.",
+    "queries": [
+      "What effects has the brennan center for justice had on Republican reforms?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "georgia election law",
+    "wiki_title": "georgia election racketeering prosecution",
+    "summary": "The Georgia racketeering prosecution is frequently invoked by critics to paint the Republican Party as compromised by election denialism and conspiratorial tactics, strengthening arguments for party purges, oversight, and defenses of democratic norms; conversely, supporters frame the case as partisan persecution and judicial overreach, using it to rally loyalty to Trump-aligned figures and oppose criminal accountability or reforms framed as targeting conservatives.",
+    "queries": [
+      "What effects has georgia election law had on voter participation?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "league of women voters",
+    "wiki_title": "league of women voters",
+    "summary": "The League of Women Voters is frequently invoked in debates about the Republican Party's approach to voting rights and election laws, using its nonpartisan voter-education, litigation, and advocacy to criticize GOP-backed measures like strict ID laws, purges, and gerrymandering as voter suppression. Republican critics often portray the League as partisan or biased, while its supporters deploy its research and lawsuits to frame the GOP as undermining democratic participation.",
+    "queries": [
+      "What effects has the League of Women Voters had on Republican turnout?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "citizens united v. fec",
+    "wiki_title": "citizens united v. fec",
+    "summary": "Citizens United v. FEC is routinely cited in arguments about the Republican Party: supporters portray the decision as vindicating free speech and justify the party’s use of Super PACs and large donor networks, while critics use it to argue the GOP is disproportionately empowered by wealthy and opaque “dark money.” This framing drives polarized policy debates over campaign-finance reform, transparency, and whether to limit or overturn the ruling to curb perceived Republican donor influence.",
+    "queries": [
+      "Is citizens united v. fec justified or not within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "dark money",
+    "wiki_title": "dark money",
+    "summary": "Critics invoke dark money to portray the Republican Party as disproportionately backed by secretive wealthy and corporate donors whose influence steers GOP policy, using that narrative to push transparency and campaign‑finance limits. GOP defenders counter that undisclosed spending is protected political speech and a practical tool to advance conservative causes, framing reform efforts as partisan attacks on free expression.",
+    "queries": [
+      "Is dark money in the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "independent expenditures",
+    "wiki_title": "independent expenditure",
+    "summary": "Independent expenditures are a frequent focus in debates about the Republican Party because conservative super PACs and outside groups often bankroll GOP campaigns — supporters portray this as an effective mobilization of resources, while critics use it to allege disproportionate influence by wealthy donors and \"dark money.\" They also feed accusations of covert coordination and are invoked to justify calls for tighter campaign finance regulation aimed at curbing Republican electoral spending advantages.",
+    "queries": [
+      "What effects have independent expenditures had on the Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "federalist society",
+    "wiki_title": "federalist society",
+    "summary": "The Federalist Society is invoked as the intellectual and organizational engine of the Republican Party’s legal agenda—used by supporters to justify prioritizing originalist judicial nominees, limiting the administrative state, and framing GOP policies as fidelity to the Constitution. Critics use its influence to argue the party is beholden to an elite conservative legal network that advances corporate-friendly rulings, weakens regulatory and civil-rights protections, and seeks to remake the judiciary for partisan ends.",
+    "queries": [
+      "How do people view the federalist society within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "textualism",
+    "wiki_title": "textualism",
+    "summary": "Republicans often invoke textualism to defend nominating and confirming judges who will constrain judicial discretion, limit regulatory and administrative power, and interpret statutes in ways that favor conservative outcomes. Critics argue the party weaponizes textualism in confirmation fights and litigation to entrench those outcomes on issues like abortion, voting rules, and agency authority while downplaying how literalist readings can serve partisan aims.",
+    "queries": [
+      "Is textualism within the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "conservative legal movement",
+    "wiki_title": "action conservative movement",
+    "summary": "References to the action conservative movement are used to both defend and prod the Republican Party into more aggressive small‑government, low‑tax, socially conservative, and hawkish stances by legitimizing grassroots pressure and primary challenges; opponents invoke it to criticize the party as captured by ideological activists, intolerant of compromise, and prone to populist or extreme positions.",
+    "queries": [
+      "How do people view the conservative legal movement’s influence?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "antonin scalia",
+    "wiki_title": "antonin scalia",
+    "summary": "Conservative stalwart Antonin Scalia is frequently invoked by Republicans as the intellectual exemplar of the party’s judicial strategy—originalism and textualism—used to justify conservative positions on abortion, gun rights, religious liberty, and limits on administrative power. Critics, conversely, cite Scalia to frame the Republican Party as committed to an ideologically driven legal agenda that pursues policy change through the courts rather than democratic legislation.",
+    "queries": [
+      "Is Antonin Scalia’s influence on the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "mike pence",
+    "wiki_title": "mike pence",
+    "summary": "Pence is frequently invoked in arguments about the GOP as a symbol of the party’s establishment and evangelical conservative wing—cited by supporters to exemplify commitments to social conservatism, religious liberty, and institutional restraint, and by critics to illustrate the tensions between traditional conservative governance and Trump-era populism (especially over loyalty to norms after January 6). His public break with Trump is used to frame intra-party debates over whether the Republican Party should prioritize constitutional norms and policy conservatism or personalist, populist allegiance.",
+    "queries": [
+      "How do people view Mike Pence within today's Republican Party?"
+    ]
+  },
+  {
+    "id": "C4-8",
+    "parent": "C4",
+    "level": 2,
+    "topic": "voter fraud",
+    "wiki_title": "electoral fraud",
+    "summary": "Allegations of electoral fraud are frequently used by Republican leaders and supporters to justify stricter voting rules (ID laws, purges, limits on mail voting), expanded partisan oversight, and challenges to unfavorable outcomes; these claims also underpin efforts such as audits and decertification of results. Critics counter that the party’s emphasis on fraud is often exaggerated or instrumentalized to suppress Democratic-leaning turnout and to legitimize contests to election legitimacy and access.",
+    "queries": [
+      "Is the Republican Party's emphasis on voter fraud reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-8-3",
+    "parent": "C4-8",
+    "level": 3,
+    "topic": "dominion voting systems",
+    "wiki_title": "dominion voting systems",
+    "summary": "Dominion is frequently invoked by Trump-aligned Republicans and allied media as the focal example of alleged 2020 voting-machine fraud, a narrative used to justify audits, lawsuits, and new laws to restrict or replace voting technologies in the name of election security. Critics point to Dominion to argue that parts of the Republican Party embraced baseless conspiracy theories that eroded public trust in elections and prompted costly defamation suits and internal party disputes over whether to promote or repudiate those claims.",
+    "queries": [
+      "Is concern about dominion voting systems among Republicans justified or not?"
+    ]
+  },
+  {
+    "id": "C4-8-5",
+    "parent": "C4-8",
+    "level": 3,
+    "topic": "2020 united states presidential election",
+    "wiki_title": "2020 united states presidential election",
+    "summary": "Critics invoke the 2020 election—especially Trump's refusal to accept the results and the January 6 attack—to argue the Republican Party has shifted toward election-denialism and authoritarian tactics that threaten democratic norms. Conversely, Republican defenders and allies use claims of fraud from 2020 to justify stricter voting rules, promote loyalty tests for candidates, and marginalize party moderates.",
+    "queries": [
+      "How do Republican Party members view the 2020 united states presidential election?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic policy and business",
+    "wiki_title": "economic policy",
+    "summary": "Debates over economic policy are central to how the Republican Party is framed: Republicans and supporters invoke tax cuts, deregulation, spending restraint and supply‑side arguments to justify smaller government, business‑friendly rules, and lower taxes. Critics argue these positions prioritize corporations and the wealthy, increase inequality and undermine social safety nets, while recent intra‑party disputes over trade protectionism and limits on monetary stimulus have further reshaped GOP economic narratives.",
+    "queries": [
+      "What consequences has the Republican Party’s economic policy and business produced?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "salt deduction",
+    "wiki_title": "tax deduction",
+    "summary": "Republicans often invoke tax deductions as tools to justify lower, incentive-driven taxation—arguing deductions for mortgage interest, charitable giving, and business expenses promote homeownership, philanthropy, investment, and small‑business growth. Opponents counter that Republican policies preserving or expanding deductions disproportionately benefit higher‑income taxpayers and corporations, framing them as drivers of inequality and revenue loss in debates over fairness and fiscal policy (e.g., SALT cap disputes).",
+    "queries": [
+      "Is the Republican Party's salt deduction policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "federal budget deficit",
+    "wiki_title": "united states federal budget",
+    "summary": "Republicans invoke the U.S. federal budget to defend a narrative of fiscal conservatism—pushing for lower taxes, reduced entitlement and domestic spending, and tougher deficit control while prioritizing defense and economic growth. Critics use the budget to argue the party favors tax cuts for the wealthy and military spending over social programs and sometimes practices deficit-driven rhetoric selectively when political goals require it.",
+    "queries": [
+      "Is the Republican Party’s stance on federal budget deficit reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "reaganomics",
+    "wiki_title": "reaganomics",
+    "summary": "Reaganomics is invoked as the archetypal Republican economic brand to justify tax cuts, deregulation, and strong-defense, small-government policies as engines of growth; conversely, critics use it to portray the GOP as favoring the wealthy, widening inequality and fiscal irresponsibility, and intra-party debates treat adherence to Reaganomics as a litmus test between supply‑side purists and more pragmatic conservatives.",
+    "queries": [
+      "What effects has reaganomics had on Republican Party policy?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "laffer curve",
+    "wiki_title": "laffer curve",
+    "summary": "Republican politicians and conservative policymakers routinely invoke the Laffer curve to justify cutting marginal tax rates, framing tax cuts as pro-growth, revenue-enhancing and fiscally responsible and using the idea to oppose higher taxes or redistributive policies. Opponents counter that its empirical peak is uncertain and argue Republicans misuse the theory to defend deficit-financed tax cuts and limit government spending.",
+    "queries": [
+      "What consequences has embracing the laffer curve caused in Republican policies?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "trickle-down economics",
+    "wiki_title": "trickle-down economics",
+    "summary": "In discussions about the Republican Party, opponents use “trickle-down economics” to cast GOP tax cuts and pro-business policies as benefiting elites and worsening inequality, while Republican defenders reject that framing and argue these supply-side measures spur investment and broader economic growth.",
+    "queries": [
+      "How do people view trickle-down economics within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "economic recovery tax act",
+    "wiki_title": "economic recovery tax act of 1981",
+    "summary": "The Economic Recovery Tax Act of 1981 is often cited by Republicans as a cornerstone example of Reagan-era supply-side policy that justifies the party’s preference for large tax cuts, deregulation, and pro-business, small-government economics. Opponents invoke the law to argue that Republican tax agendas favor the wealthy, worsen deficits and inequality, and embody a failed “trickle-down” approach to growth.",
+    "queries": [
+      "Is the Republican Party's economic recovery tax act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "tax reform act (1986)",
+    "wiki_title": "tax reform act of 1986",
+    "summary": "Supporters of the Republican Party point to the Tax Reform Act of 1986 as a model of GOP-led pro-growth, rate-cutting and simplification policies achievable through bipartisan compromise, using it to justify modern tax cuts and supply-side arguments. Critics counter that the law’s legacy is mixed—arguing it ultimately advantaged higher earners, contributed to inequality or deficits, or that today’s GOP has abandoned the Act’s spirit of base-broadening compromise—so it serves as both a benchmark and a foil in debates over Republican tax priorities.",
+    "queries": [
+      "What effects has the tax reform act (1986) caused?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "national debt",
+    "wiki_title": "government debt",
+    "summary": "Republicans often invoke concerns about government debt to justify spending cuts, entitlement reform, and balanced‑budget rules, framing debt as a burden on future generations and a threat to economic freedom; critics counter that GOP tax cuts and defense spending have frequently increased deficits, using debt to accuse the party of fiscal hypocrisy, while some Republican defenders argue debt is acceptable if it supports pro‑growth policies.",
+    "queries": [
+      "Is the Republican Party's approach to the national debt reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "koch brothers",
+    "wiki_title": "koch family",
+    "summary": "The Koch family is frequently cited as a powerful donor network that steers the Republican Party toward free‑market, deregulatory, low‑tax, and privatization policies; supporters credit them with building conservative infrastructure and electoral gains, while critics argue they exemplify corporate capture of the party and the promotion of libertarian priorities at the expense of social programs and environmental regulation.",
+    "queries": [
+      "How do people view the Koch brothers' role in GOP policymaking?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "charles koch",
+    "wiki_title": "charles koch",
+    "summary": "Charles Koch is invoked as a prime example of billionaire donor influence in debates about the Republican Party, credited by supporters with pushing a free‑market, deregulatory, low‑tax agenda through funding candidates, think tanks, and grassroots groups and criticized by opponents as evidence the GOP prioritizes corporate and donor interests over ordinary voters. He is also used in intra‑party disputes to frame tensions between libertarian, pro‑market Republicans and populist or protectionist factions, reinforcing arguments about the party’s ideological direction.",
+    "queries": [
+      "How do people view charles koch's role in Republican politics?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "americans for prosperity",
+    "wiki_title": "americans for prosperity",
+    "summary": "Americans for Prosperity is invoked by Republican allies to legitimize and amplify small‑government, pro‑business, and anti‑regulation positions within the party and to mobilize conservative voters through advocacy and advertising. Critics use its influence and funding model to argue the GOP is shaped more by wealthy outside donors and dark‑money interests than by broad grassroots support, framing the party as beholden to special interests.",
+    "queries": [
+      "Are Americans for Prosperity's policy priorities reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "freedom partners chamber of commerce",
+    "wiki_title": "freedom partners",
+    "summary": "Freedom Partners is invoked in debates as a Koch-aligned funding network that steers the Republican Party toward pro-business, low-tax, and deregulatory policy priorities; supporters present it as infrastructure for advancing free‑market principles, while critics cite it as evidence the GOP is beholden to wealthy donors and special interests.",
+    "queries": [
+      "Is Freedom Partners Chamber of Commerce's influence on the Republican Party reasonable?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "american legislative exchange council",
+    "wiki_title": "american legislative exchange council",
+    "summary": "ALEC is often cited in discussions of the Republican Party as the policy engine that helps coordinate and promote conservative, pro-business model bills across GOP state legislatures—used by critics to portray the party as captive to corporate interests and shadowy influence, and by supporters to justify the party’s push for tax cuts, deregulation, privatization, and limited-government reforms.",
+    "queries": [
+      "Is the american legislative exchange council reasonable within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "climate change denial",
+    "wiki_title": "climate change denial",
+    "summary": "Climate change denial is used to depict the Republican Party as aligned with fossil‑fuel interests and resistant to science‑based climate policy, a critique opponents use to argue the party prioritizes industry and short‑term economic gains over environmental protection. Conversely, Republican politicians and allies deploy skeptical or dismissive narratives to justify deregulation, oppose emissions mandates, and defend fossil‑fuel jobs and markets.",
+    "queries": [
+      "Is the Republican Party's climate change denial reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "u.s. chamber of commerce",
+    "wiki_title": "u.s. chamber of commerce building",
+    "summary": "The U.S. Chamber of Commerce building is often invoked as a tangible symbol of the Republican Party’s close ties to corporate America, used by critics to accuse the GOP of prioritizing business lobbying, tax cuts, and deregulation over worker or consumer interests. Supporters, conversely, point to the Chamber’s presence to portray Republicans as the party of economic growth, pro‑business policy, and private‑sector expertise, shaping debates over campaign finance, regulatory policy, and trade.",
+    "queries": [
+      "How do people view the U.S. Chamber of Commerce within Republican politics?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "business roundtable",
+    "wiki_title": "business roundtable",
+    "summary": "The Business Roundtable is often invoked as a corporate imprimatur for Republican economic policies — cited by supporters to justify GOP tax cuts, deregulation, and pro-business trade/immigration positions — while its public rebukes of specific GOP moves (e.g., trade tariffs or policy unpredictability) are used by critics to argue the party is harming business interests or favoring populist over market-oriented governance.",
+    "queries": [
+      "Is the business roundtable's influence on the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "nfib",
+    "wiki_title": "nfib",
+    "summary": "The NFIB is frequently invoked to portray the Republican Party as the defender of small businesses: its endorsements and lobbying for tax cuts, deregulation, liability limits, and weaker labor/health mandates are used to justify GOP economic policies. Critics likewise cite NFIB positions—opposition to higher minimum wages, stricter workplace rules, or expansive regulation—to argue the Republican Party prioritizes business interests over workers and consumers.",
+    "queries": [
+      "How do people view NFIB's role in Republican Party politics?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "tariffs",
+    "wiki_title": "tariff",
+    "summary": "Tariffs are invoked by Trump-aligned and protectionist Republicans to justify economic nationalism—framing the party as defending American manufacturing, workers, and sovereignty (especially versus China) and as using tariffs as bargaining leverage in trade deals. They are criticized by establishment, free‑market Republicans and many economists as protectionist, inflationary, and at odds with traditional small‑government, pro‑trade GOP principles, creating a clear intra‑party split.",
+    "queries": [
+      "Are tariffs a justified trade tool for Republican policymakers?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "deregulation",
+    "wiki_title": "deregulation",
+    "summary": "Deregulation is invoked by supporters to cast the Republican Party as a pro‑growth, limited‑government force that frees businesses from costly rules, justifying rollbacks of environmental, financial, and labor regulations; critics counter that the party’s deregulatory agenda privileges corporate interests and is used to explain increased risk to consumers, workers, and the environment.",
+    "queries": [
+      "How do people view Republican Party deregulation policies?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "alec",
+    "wiki_title": "alec",
+    "summary": "References to ALEC (the American Legislative Exchange Council) are often used to explain and justify the Republican Party’s state-level policy agenda — promoting model bills for tax cuts, deregulation, privatization of public services, anti-union measures, voter-ID laws, and rollbacks of environmental regulation. Opponents invoke ALEC to criticize Republicans as prioritizing corporate donors and top-down corporate-written laws over democratic accountability, while allies portray it as a vehicle for conservative policy innovation and state sovereignty.",
+    "queries": [
+      "Is alec's influence in the Republican Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "gramm–leach–bliley act",
+    "wiki_title": "gramm–leach–bliley act",
+    "summary": "Republicans commonly invoke the Gramm–Leach–Bliley Act as an example of the party’s pro‑market, deregulatory instincts—arguing it modernized financial services, promoted competition, and removed outdated constraints on industry innovation. Opponents, however, use the law to criticize the GOP’s closeness to Wall Street and its preference for industry-friendly rules, blaming such deregulation for increasing systemic risk and sidelining stronger consumer protections.",
+    "queries": [
+      "Is Republican Party support for the Gramm–Leach–Bliley Act reasonable?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "environmental protection agency",
+    "wiki_title": "united states environmental protection agency",
+    "summary": "The EPA is frequently invoked in debates about the Republican Party as evidence of its pro-business, deregulatory priorities—Republican leaders and supporters often argue for scaling back EPA rules, shifting authority to states, and prioritizing energy production and economic growth over stricter federal environmental controls. Critics point to GOP-backed rollbacks and appointments as proof the party favors industry interests at the expense of public health and climate protections.",
+    "queries": [
+      "What impacts could Republican positions on the environmental protection agency have?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "net neutrality repeal",
+    "wiki_title": "net neutrality",
+    "summary": "Net neutrality debates are used to cast the Republican Party as pro-deregulation and aligned with ISPs and free‑market principles, arguing that strict net neutrality rules are government overreach that discourage investment and innovation; opponents frame Republicans as siding with corporate broadband interests over consumer protections and open internet access.",
+    "queries": [
+      "What consequences has the Republican Party’s net neutrality repeal caused?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "u.s.-china trade war",
+    "wiki_title": "trade war",
+    "summary": "Critics use the phrase \"trade war\" to attack the Republican Party's recent shift toward tariff-driven, protectionist policies (especially under Trump), arguing such tactics damage consumers, farmers and allies and abandon the party's free‑market roots; supporters and Republican leaders, by contrast, frame the same measures as necessary bargaining leverage and patriotic economic nationalism to defend U.S. industry and counter China.",
+    "queries": [
+      "How do people view the u.s.-china trade war within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "robert lighthizer",
+    "wiki_title": "robert lighthizer",
+    "summary": "Robert Lighthizer is often invoked as the exemplar of the Republican shift toward trade nationalism—used by supporters to justify tariffs, a tougher stance on China, and enforcement‑first deals like the USMCA as legitimate uses of state power to protect American industry. Critics use him to argue the party has abandoned traditional free‑market conservatism, embracing protectionist policies that raise consumer costs and strain alliances.",
+    "queries": [
+      "What impacts has Robert Lighthizer had on the Republican Party’s direction?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "section 301",
+    "wiki_title": "section 301 of the trade act of 1974",
+    "summary": "Section 301 is invoked in debates about the Republican Party to justify the party’s more recent turn toward assertive, unilateral trade enforcement—especially against China—framing Republicans as defenders of American industry willing to use tariffs and executive authority for economic and national-security goals. Critics use it to attack GOP hypocrisy for abandoning free‑trade orthodoxy, arguing such measures prioritize political posturing over consumer costs and risk retaliatory trade conflicts.",
+    "queries": [
+      "How do people view section 301 within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "huawei sanctions",
+    "wiki_title": "huawei",
+    "summary": "Republicans use Huawei as a focal example of Chinese state-linked tech to argue that national security requires hardline measures—export controls, bans on Huawei gear, stricter foreign-investment and telecom screening, and boosted domestic semiconductor/5G production—and to portray Democrats or tech firms that resist such measures as weak or naïve on China.",
+    "queries": [
+      "What impacts have huawei sanctions had on Republican Party policy?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "media, communications, and misinformation",
+    "wiki_title": "misinformation",
+    "summary": "Misinformation is frequently used in and about the Republican Party to advance narratives—such as widespread voter fraud, COVID-19 vaccine skepticism, immigration and cultural grievance claims—that mobilize supporters, justify election challenges or restrictive voting/public-health policies, and undermine trust in media and institutions. Opponents point to Republican-aligned misinformation to criticize the party for eroding democratic norms and public trust, while many Republicans frame anti-misinformation efforts as partisan censorship that disproportionately targets conservative speech.",
+    "queries": [
+      "How do people view media, communications, and misinformation within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "abortion",
+    "wiki_title": "abortion",
+    "summary": "Abortion is a central litmus issue for the Republican Party, with leaders and activists generally advancing restrictions, bans, and conservative judicial appointments framed as protecting fetal life and states’ rights. Critics use GOP abortion policies to portray the party as imposing religiously motivated control over women’s bodies and to energize pro‑choice opposition, while supporters present restrictions as defending moral values and promoting alternatives like adoption.",
+    "queries": [
+      "What effects has the Republican Party's abortion policy caused?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "QAnon narratives have been deployed by pro-Trump activists within the GOP to justify election denialism, hostility to perceived elites and media, and support for insurgent, conspiratorial candidates, while critics cite QAnon’s influence among Republican voters as evidence that the party has been radicalized and tolerates extremist, anti‑democratic beliefs—making it both a mobilizing force for the party’s populist flank and a political liability for the broader GOP.",
+    "queries": [
+      "How do people view qanon within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C7-3-1",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "marjorie taylor greene",
+    "wiki_title": "marjorie taylor greene",
+    "summary": "Marjorie Taylor Greene is often used as a shorthand for the Republican Party’s hard‑right, populist and confrontational wing: critics point to her inflammatory rhetoric and embrace of fringe theories to argue the GOP has been radicalized and morally compromised, while supporters cast her as a blunt anti‑establishment champion of pro‑Trump positions. In public debates she helps frame disputes over immigration, gun rights, COVID restrictions, and culture‑war issues, serving both to justify aggressive conservative tactics and to mobilize opposition to the party’s perceived moderation.",
+    "queries": [
+      "Is Marjorie Taylor Greene's role in the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "infowars",
+    "wiki_title": "infowars",
+    "summary": "Infowars amplifies conspiratorial, anti‑establishment narratives that push the Republican Party toward populist, nativist, pro‑gun and anti‑media positions while denouncing moderates as “RINOs,” thereby pressuring GOP figures to adopt more extreme stances. Its role in spreading fringe claims both mobilizes a segment of the Republican base behind hardline candidates and gives critics ammunition to portray the party as radicalized and prone to misinformation.",
+    "queries": [
+      "What effects has infowars had on the Republican Party?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "parler",
+    "wiki_title": "parler",
+    "summary": "Parler is used by Republican-aligned activists to amplify GOP messaging, portray the party as a defender of free speech versus “Big Tech” censorship, and mobilize supporters around conservative policy stances; critics use Parler as evidence that the Republican Party tolerates misinformation and extremist rhetoric, citing it to justify scrutiny and regulation of the party’s online influence.",
+    "queries": [
+      "Is Republican Party support for parler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "twitter/x",
+    "wiki_title": "twitter",
+    "summary": "On X (formerly Twitter), Republican elected officials, pundits, and activists routinely broadcast and amplify party messaging—promoting themes like limited government, tougher immigration, election-related claims, and pro‑Trump narratives—while coordinating rallies, fundraising, and rapid-response attacks. Critics and fact‑checkers use the same platform to expose misinformation and criticize the party, and debates over moderation and ‘free speech’ under new ownership have strengthened arguments that X disproportionately amplifies right‑leaning voices.",
+    "queries": [
+      "Is the Republican Party’s use of twitter/x reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Republican-aligned commentators and campaigns point to Musk’s endorsements, business success, and push for ‘free speech’ on X to argue the GOP is pro‑business, tech‑friendly, and against heavy regulation; conversely, critics invoke his amplification of far‑right voices and misinformation to claim the party tolerates billionaire influence, extremism, and weakened content or regulatory oversight.",
+    "queries": [
+      "What effects has Elon Musk had on Republican Party messaging?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "breitbart news",
+    "wiki_title": "breitbart news",
+    "summary": "Breitbart presents the Republican Party as the rightful vehicle for nationalist, populist, and cultural-conservative causes—championing Trump-era positions on immigration, trade, and anti-elitism while attacking moderates and establishment figures as betrayals of conservative voters. In public debates it pushes the GOP rightward, shapes primary and media narratives, and mobilizes the party base by amplifying grievances and provocative cultural arguments.",
+    "queries": [
+      "Is breitbart news’s influence on the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "steve bannon",
+    "wiki_title": "steve bannon",
+    "summary": "Steve Bannon is invoked as the archetype of the Republican Party’s nationalist, anti‑establishment wing—used by critics to portray the party as shifting toward nativist, illiberal and conspiratorial politics and by allies to justify a populist, anti‑establishment purge of the GOP establishment; his scandals are also cited to illustrate the movement’s ethical and governance risks.",
+    "queries": [
+      "Is Steve Bannon’s influence on the Republican Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "mexico–united states barrier",
+    "wiki_title": "mexico–united states border",
+    "summary": "The Mexico–United States border is a central rhetorical and policy touchstone for Republicans, used to justify calls for tougher immigration enforcement, a border wall, limits on asylum, and expanded funding for ICE and Customs and Border Protection as evidence of the party’s commitment to law, security, and sovereignty. Opponents and internal critics use the border narrative to charge the party with fearmongering, xenophobia, or political grandstanding, while moderate GOP factions sometimes frame the issue in terms of skilled-worker visas and controlled legal immigration.",
+    "queries": [
+      "Is the mexico–united states barrier justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "immigration policy of the united states",
+    "wiki_title": "immigration policy of the united states",
+    "summary": "Debates over U.S. immigration policy are central in arguments about the Republican Party, with Republicans commonly framed as prioritizing strict border security, enforcement, and reduced legal/illegal immigration to defend sovereignty and jobs. Opponents use immigration to criticize the GOP as nativist or cruel when it endorses hardline measures, while intra‑party fights between restrictionists and moderates shape perceptions of the party’s tone and electability.",
+    "queries": [
+      "Is the immigration policy of the United States reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-7",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "roe v. wade",
+    "wiki_title": "roe v. wade",
+    "summary": "Roe v. Wade is frequently invoked to frame the Republican Party as the party that seeks to restrict abortion rights, justifying conservative judicial nominations, state-level bans, and a platform of anti‑abortion policy to mobilize religious and social‑conservative voters. Opponents point to Roe and its 2022 reversal to argue Republicans are rolling back reproductive freedoms and risking backlash from moderates and women, while supporters portray the outcome as a restoration of states' rights and moral governance.",
+    "queries": [
+      "What effects has Roe v. Wade had on Republican Party politics?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "factcheck.org",
+    "wiki_title": "factcheck.org",
+    "summary": "FactCheck.org is frequently cited by journalists, critics, and Democratic strategists to rebut or undermine Republican officials’ statements and campaign narratives, using documented fact-checks to challenge GOP talking points and policy claims. Its rulings are often used to justify criticism of the party’s messaging and highlight instances of misinformation, though some conservatives dismiss the site as politically biased.",
+    "queries": [
+      "Are factcheck.org’s fact-checks of Republican politicians justified?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "section 230",
+    "wiki_title": "section 230",
+    "summary": "Republicans commonly invoke Section 230 as a culprit enabling \"Big Tech\" to censor conservative speech, using calls to repeal or narrow the law to justify aggressive regulatory, legislative, and executive actions aimed at forcing platforms to host more conservative viewpoints. That framing is a core GOP talking point to mobilize supporters around tech-focused free-speech grievances and shapes party proposals to weaken intermediary immunity or impose content-moderation mandates, even as some conservatives back targeted reforms for trafficking or safety. ",
+    "queries": [
+      "Is the Republican Party’s stance on section 230 reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7-2",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "ron desantis",
+    "wiki_title": "ron desantis",
+    "summary": "DeSantis is frequently invoked as a living example of the GOP’s embrace of aggressive cultural-conservative governance: supporters cite his anti-\"woke\" education and social policies and combative media style as a pragmatic, vote-winning template, while critics use him to argue the party has drifted toward authoritarian, culture-war priorities at the expense of traditional limited-government conservatism. His public rivalry with—and eventual endorsement of—Trump is also used to frame debates over the party’s future leadership, unity, and whether it should lean populist or institutionally disciplined.",
+    "queries": [
+      "Is Ron DeSantis's role in the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C7-7-3",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "josh hawley",
+    "wiki_title": "josh hawley",
+    "summary": "Josh Hawley is frequently invoked as a high-profile exemplar of the Republican Party's shift toward populist, socially conservative, and confrontational politics — hailed by allies as a culture-warrior and anti-establishment reformer and used by critics to illustrate the party's willingness to challenge institutional norms. Debates about Hawley typically highlight his support for aggressive litigation, culture-war policies, and nationalist-populist messaging while portraying him as symptomatic of intra-party tensions over ideology and democratic norms.",
+    "queries": [
+      "How do people view Josh Hawley's role in the Republican Party?"
+    ]
+  },
+  {
+    "id": "C7-7-4",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "earn it act",
+    "wiki_title": "earn it act",
+    "summary": "The EARN IT Act is frequently invoked to cast the Republican Party as tough on Big Tech and child protection—using calls to reform Section 230 and limit encryption to justify greater legal and regulatory pressure on platforms. Opponents, meanwhile, use GOP support for the bill to portray the party as favoring government overreach that could weaken privacy and free expression online.",
+    "queries": [
+      "What consequences has the earn it act caused?"
+    ]
+  },
+  {
+    "id": "C7-7-5",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "netchoice",
+    "wiki_title": "netchoice",
+    "summary": "NetChoice, an internet-industry trade group, frequently appears in clashes with Republican-led efforts to regulate Big Tech by suing and lobbying against GOP-backed laws that would curb platforms’ content-moderation powers or change liability protections, framing those measures as unconstitutional government overreach that harms free expression and commerce. In public debate it champions platform autonomy and Section 230 protections while rejecting Republican narratives that seek to justify stricter regulation as a remedy for alleged anti-conservative bias.",
+    "queries": [
+      "Are netchoice’s actions in GOP content moderation debates justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign policy and national security",
+    "wiki_title": "foreign policy",
+    "summary": "In debates about the Republican Party, foreign policy is invoked to portray the party as prioritizing strong national defense, military readiness, and tough, sovereignty-first stances (often framed as “America First”), justifying unilateral action, trade protectionism, and stricter immigration and aid limits. Critics counter that GOP foreign policy swings between hawkish interventionism and transactional isolationism, arguing these approaches either provoke unnecessary conflicts or erode alliances and global leadership.",
+    "queries": [
+      "Are Republican foreign policy and national security priorities justified or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "neoconservatism",
+    "wiki_title": "neoconservatism",
+    "summary": "Neoconservatism is invoked in discussions of the Republican Party to label and debate the hawkish, interventionist wing that advocates aggressive U.S. leadership, military action, and strong support for Israel. Supporters use the term to justify proactive foreign-policy measures as defending national interests and promoting democracy, while critics use it to accuse Republicans of militarism, overreach (notably the Iraq War), and neocolonial tendencies.",
+    "queries": [
+      "How do people view neoconservatism within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-2-2",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "dick cheney",
+    "wiki_title": "dick cheney",
+    "summary": "Dick Cheney is often invoked as the archetype of the Republican Party’s post‑9/11 hawkish, big‑government‑insecurity approach—used by critics to condemn GOP expansion of executive power, surveillance, torture policies, and corporate ties, and by supporters to justify a priority on national security and strong executive action; his later split with Trump and endorsement of Democrats is also cited to highlight establishment fissures within the party.",
+    "queries": [
+      "How do people view dick cheney within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "pnac",
+    "wiki_title": "pnac",
+    "summary": "In debates about the Republican Party, PNAC is often invoked as the intellectual origin of the party’s neoconservative foreign‑policy wing—critics use it to portray Republicans as warmongers (notably over the Iraq War), while supporters cite it to justify assertive U.S. military power, regime‑change and a policy of American primacy.",
+    "queries": [
+      "How do people view pnac's role in shaping GOP foreign policy?"
+    ]
+  },
+  {
+    "id": "C8-2-4",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "american enterprise institute",
+    "wiki_title": "american enterprise institute",
+    "summary": "The American Enterprise Institute is frequently cited as an intellectual anchor for Republican free‑market, limited‑government, and hawkish foreign‑policy positions, supplying research, op‑eds, and testimony Republicans use to justify tax cuts, deregulation, and defense spending. Critics invoke AEI to argue the party’s agenda favors corporate and elite interests or to highlight tensions when AEI’s technocratic prescriptions clash with the GOP’s populist wing.",
+    "queries": [
+      "How do people in the Republican Party view the American Enterprise Institute?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "weapons of mass destruction",
+    "wiki_title": "weapon of mass destruction",
+    "summary": "WMD rhetoric has been deployed by Republican leaders to justify strong national security measures, military interventions (notably the 2003 Iraq war), higher defense spending, and nuclear modernization; opponents cite past WMD-based claims to portray the party as hawkish, prone to intelligence overstretch, and dismissive of diplomatic arms-control approaches.",
+    "queries": [
+      "What consequences might Republican Party policies on weapons of mass destruction cause?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "william kristol",
+    "wiki_title": "bill kristol",
+    "summary": "Bill Kristol is invoked as a leading voice of the pre-Trump conservative establishment who uses media, think tanks, and political organizing to argue the Republican Party should uphold traditional small-government conservatism and hawkish foreign policy. Critics and supporters alike cite him when framing or attacking the party’s populist, nationalist or Trump-era shift—he has publicly worked to block or replace Trump-aligned Republicans and sometimes backs non-GOP candidates to defend those establishment norms.",
+    "queries": [
+      "How do people view william kristol’s role within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "the weekly standard",
+    "wiki_title": "the weekly standard",
+    "summary": "The Weekly Standard functioned as a prominent conservative opinion outlet used to defend establishment Republican positions—hawkish foreign policy, free-market economics, and cultural traditionalism—and to criticize populist, isolationist, or Trump-aligned shifts in the party; its essays are often cited in debates to justify interventionist and institution-preserving stances or to exemplify elite conservative opposition to the party’s populist turn.",
+    "queries": [
+      "How do people view the weekly standard within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "iraq war",
+    "wiki_title": "iraq war",
+    "summary": "The Iraq War is frequently invoked as emblematic of Republican hawkishness and intelligence failures—used by critics to portray the party as prone to costly, unilateral interventions and dishonesty on national security, while supporters frame it as justification for a strong, preemptive defense posture; intra-party opponents cite it to argue for a shift toward restrained, noninterventionist conservatism.",
+    "queries": [
+      "What consequences has the iraq war had for the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-3-1",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "george w. bush",
+    "wiki_title": "george w. bush",
+    "summary": "George W. Bush is often invoked by supporters to justify Republican priorities — assertive national security, big tax cuts, socially conservative policies, and conservative judicial appointments — and to embody a pragmatic, ‘compassionate conservative’ model of governance.  Critics use his legacy to frame the GOP as prone to costly foreign interventions, civil‑liberty erosion and executive overreach, crisis mismanagement, and large deficits, and populist conservatives point to him as an establishment figure the party should move away from.",
+    "queries": [
+      "Is George W. Bush's legacy reasonable within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "2002 aumf",
+    "wiki_title": "repeal of the 2002 aumf",
+    "summary": "Debates over repealing the 2002 AUMF are used to frame the Republican Party either as a defender of expansive executive war powers and hawkish national-security policies (when party leaders oppose repeal) or as a proponent of limited government and congressional oversight (when libertarian-leaning and constitutionalist Republicans push repeal), exposing internal divides between neoconservative hawks and restraint-oriented conservatives and allowing critics to blame the GOP for enabling perpetual wars and unchecked presidential authority.",
+    "queries": [
+      "Is the Republican Party's 2002 AUMF justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "halliburton",
+    "wiki_title": "halliburton",
+    "summary": "Halliburton is often invoked by critics of the Republican Party as emblematic of the party’s close ties to big oil and corporate influence—used to argue that GOP energy and foreign-policy choices prioritize industry profits, deregulation, and cronyism over public interest. Conversely, Republican defenders point to Halliburton to justify pro-business, deregulatory and domestic‑energy policies, framing its role as supporting jobs, energy independence, and necessary private-sector expertise.",
+    "queries": [
+      "Are Halliburton contracts with Republican administrations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "nato",
+    "wiki_title": "nato",
+    "summary": "Republicans often invoke NATO to justify high defense spending, a tough stance toward Russia, and U.S. leadership in arming and deterring adversaries (e.g., support for Ukraine), framing backing for the alliance as proof of national-security seriousness. At the same time, Trump-era and isolationist GOP voices portray NATO as a burdened, freeloading alliance that warrants reduced commitments or conditional support, a split critics use to argue the party is weakening U.S. alliances.",
+    "queries": [
+      "How do people view nato within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "america first",
+    "wiki_title": "america first",
+    "summary": "In Republican Party debates, America First is invoked by Trump-aligned factions to justify prioritizing unilateralism, protectionist trade, strict immigration controls, and transactional diplomacy as patriotic corrections to establishment internationalism. Critics—both GOP hawks and Democrats—use the label to portray those Republicans as isolationist, nativist, or damaging to U.S. alliances and traditional conservative free-market principles.",
+    "queries": [
+      "What effects has america first had on the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "burden-sharing",
+    "wiki_title": "nuclear sharing",
+    "summary": "Republicans invoke nuclear sharing to justify a hawkish, alliance-focused defense posture—arguing that forward-deployed U.S. nuclear capabilities and joint planning with allies deter Russia, reassure NATO partners, and require continued modernization and spending, while using criticism of Democratic arms‑control proposals to brand opponents as weak on security.  Critics who warn sharing risks proliferation are typically dismissed by GOP defenders as overlooking the practical necessity of extended deterrence for U.S. credibility.",
+    "queries": [
+      "What effects has burden-sharing within the Republican Party produced?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "article 5",
+    "wiki_title": "article five",
+    "summary": "In U.S. partisan debates, “Article Five” is invoked two ways: conservatives within the Republican coalition cite the Constitution’s Article V to justify Convention of States efforts to pursue amendments (term limits, a balanced-budget amendment, limits on federal power), while opponents warn of unpredictable consequences; separately, Republicans invoke NATO’s Article 5 as a rhetorical anchor for hawkish national-security stances and to criticize rivals seen as weak on defense.",
+    "queries": [
+      "What consequences has article 5 prompted in the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "ukraine war",
+    "wiki_title": "list of wars involving ukraine",
+    "summary": "Lists of wars involving Ukraine are used in U.S. debates to frame Republican foreign-policy choices: hawkish Republicans invoke Ukraine’s history of conflict to justify robust military aid, deterrence, and higher defense spending, while isolationist or Trump-aligned Republicans cite past entanglements to argue against intervention and for an “America First” restraint. Critics and political opponents leverage the same lists to accuse Republicans of inconsistency—either of warmongering or of tacitly enabling Russian aggression—depending on the faction’s stance.",
+    "queries": [
+      "Is the Republican Party’s approach to the ukraine war reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-7",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "turkey",
+    "wiki_title": "turkey",
+    "summary": "In US debates, \"Turkey\" is invoked to frame Republican foreign‑policy choices: supporters emphasize its NATO role, strategic location, and counterterrorism cooperation to justify GOP arms sales and realpolitik alliances, while critics point to Erdogan's authoritarianism, human‑rights abuses, and the S‑400 procurement to accuse Republicans of enabling illiberal partners and sidelining values-based diplomacy.",
+    "queries": [
+      "Is the Republican Party's stance on turkey justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "united states–china relations",
+    "wiki_title": "china–united states relations",
+    "summary": "China–United States relations is invoked in debates about the Republican Party to justify hawkish national‑security and economic measures—tariffs, tech bans, investment limits, and military posturing—casting Republicans as defenders of U.S. competitiveness and sovereignty. Opponents counter that the party’s China rhetoric can be either alarmist and escalatory or cynically pro‑business when it favors engagement, using the issue to criticize Republican motives and policy extremes.",
+    "queries": [
+      "How do people view united states–china relations within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "chinese communist party",
+    "wiki_title": "chinese communist party",
+    "summary": "The CCP is often invoked by Republicans as the archetypal authoritarian adversary to justify hawkish trade, tech, and national-security policies—tariffs, sanctions, Taiwan support, and China-focused legislation—and to paint Democrats as weak on defense of U.S. interests. Opponents counter by highlighting GOP business ties or rhetorical praise for authoritarian ‘efficiency,’ using the CCP to accuse the party of hypocrisy or of selectively weaponizing anti-China sentiment for political gain.",
+    "queries": [
+      "What effects do Republican policies toward the chinese communist party have?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "taiwan",
+    "wiki_title": "taiwan",
+    "summary": "Republicans frequently invoke Taiwan as a democratic, U.S.-aligned bulwark against authoritarian China to justify hawkish China policies—expanded arms sales, semiconductor supply‑chain protections, and stronger military deterrence—and to burnish tough national‑security credentials. Opposing strains within the party (isolationists or pragmatists) use Taiwan to argue such commitments risk provoking war or diverting resources, so Taiwan is deployed both to bolster GOP hawkishness and to criticize rivals as weak or reckless on China.",
+    "queries": [
+      "How do people view Republican Party positions on taiwan?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "cfius",
+    "wiki_title": "committee on foreign investment in the united states",
+    "summary": "Republicans frequently invoke CFIUS to justify tougher scrutiny or outright blocking of foreign (especially Chinese) investments, framing such interventions as necessary to protect strategic technology, infrastructure, and U.S. sovereignty. GOP narratives use CFIUS to support economic-nationalist and hawkish security policies and to criticize administrations deemed lax, though some pro‑market Republicans warn expanded CFIUS powers risk protectionist overreach.",
+    "queries": [
+      "Is the Republican Party’s support of cfius reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "iran nuclear deal",
+    "wiki_title": "joint comprehensive plan of action",
+    "summary": "Republicans have repeatedly used the Joint Comprehensive Plan of Action as a political cudgel to portray Democratic leaders as weak on national security and to justify hawkish, pro‑Israel stances — arguing the deal failed to prevent Iranian proliferation and therefore warranted withdrawal, tougher sanctions, and military deterrence. Criticism of the JCPOA helps Republicans claim credibility on defense, push unilateral or maximum‑pressure policies, and oppose Obama‑era multilateral diplomacy.",
+    "queries": [
+      "Is Republican Party opposition to the Iran nuclear deal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "john bolton",
+    "wiki_title": "john bolton",
+    "summary": "John Bolton is often invoked as the archetype of the GOP’s hawkish, national‑security wing—used by supporters to justify aggressive, interventionist foreign-policy stances and by critics to portray the Republican Party as overly militaristic or beholden to neoconservative regime‑change agendas; his public clashes with Trump are also cited to illustrate a party split between traditional national‑security conservatives and rising populist/isolationist factions.",
+    "queries": [
+      "Is John Bolton's influence within the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "benjamin netanyahu",
+    "wiki_title": "benjamin netanyahu",
+    "summary": "Republican commentators and politicians point to Netanyahu’s close relationship with Trump and his hawkish Israeli policies to justify the GOP’s staunch pro‑Israel, militarily robust, and often settlement‑friendly foreign‑policy stances and to rally evangelical and security‑focused voters. Critics, however, invoke Netanyahu to portray the Republican Party as willing to enable authoritarian tendencies and human‑rights abuses abroad—arguing GOP support normalizes democratic backsliding and shields Israel from international accountability.",
+    "queries": [
+      "What consequences does Republican backing of benjamin netanyahu bring?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "sanctions against iran",
+    "wiki_title": "international sanctions against iran",
+    "summary": "Support for aggressive international sanctions on Iran is frequently invoked by Republicans to showcase the party’s toughness on national security and commitment to ‘maximum pressure’ tactics, framing opponents who favor relief or diplomacy as weak; conversely, critics use GOP advocacy of harsh sanctions to portray the party as hawkish, unilateral, and willing to harm diplomatic options and civilians for political posturing.",
+    "queries": [
+      "How do people view sanctions against iran from the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "mike pompeo",
+    "wiki_title": "mike pompeo",
+    "summary": "As a high-profile Trump administration official and conservative hawk, Mike Pompeo is often invoked to frame the Republican Party as America‑first on national security, tough on China and Iran, and aligned with evangelical and socially conservative priorities. Critics use his tenure to argue the GOP politicizes intelligence, embraces confrontational foreign-policy approaches, and places personal loyalty to Trump above institutional norms.",
+    "queries": [
+      "How do people view Mike Pompeo’s influence within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "aipac",
+    "wiki_title": "aipac",
+    "summary": "AIPAC is frequently cited to frame the Republican Party as reliably pro‑Israel and hawkish on Middle East policy—used by GOP allies to justify strong military aid and hardline stances, and by critics to claim the party is unduly influenced by a powerful pro‑Israel lobby that pushes against Palestinian concessions and more conciliatory policies.",
+    "queries": [
+      "Is the Republican Party’s relationship with aipac reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "republican jewish coalition",
+    "wiki_title": "republican jewish coalition",
+    "summary": "The Republican Jewish Coalition is invoked to show the Republican Party as a reliable defender of pro‑Israel, Jewish communal and religious‑liberty priorities, using endorsements and advocacy to justify GOP candidates and their hawkish foreign‑policy and socially conservative positions. Critics point to the coalition’s backing to argue the party overemphasizes hawkish Israel policies, aligns with religious conservatives, or to call out hypocrisy when the GOP tolerates antisemitic elements or shifts away from traditional pro‑Israel commitments.",
+    "queries": [
+      "What effects has the Republican Jewish Coalition had on GOP policy?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "evangelical christians",
+    "wiki_title": "list of evangelical christians",
+    "summary": "Public lists of evangelical Christians are often cited to demonstrate the Republican Party’s core constituency and to justify GOP commitments to socially conservative policies—especially anti‑abortion measures, opposition to LGBTQ+ rights, school prayer, and religious exemptions. Critics use such lists to argue the party panders to religious leaders, elevates sectarian priorities over pluralistic governance, and tolerates illiberal or identity‑based politics to retain evangelical support.",
+    "queries": [
+      "Is evangelical christians' influence in the Republican Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-7",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "us–israel relations",
+    "wiki_title": "israel–united states relations",
+    "summary": "Republicans frequently cite strong Israel–U.S. relations to justify hawkish, pro‑security stances—advocating sustained military aid, diplomatic backing, and symbolic moves (e.g., embassy relocation) to signal toughness and to mobilize evangelical and pro‑Israel constituencies. Critics counter that the GOP’s near‑unconditional support is used to defend Israeli policies like settlements and military actions, framing the party as beholden to donors and ideology and prompting pushback from isolationist or human‑rights‑minded conservatives.",
+    "queries": [
+      "Is the Republican Party's stance on us–israel relations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "culture and social movements",
+    "wiki_title": "social movement",
+    "summary": "Commentators and activists frame the Republican Party as the institutional expression of conservative social movements—e.g., the Tea Party, Christian Right, and MAGA—that mobilize grassroots support for small‑government, socially conservative, and nationalist policies, while critics use the same lens to argue the party has been captured by reactionary or extremist currents that oppose civil‑rights expansions, immigration, and multiculturalism.",
+    "queries": [
+      "How do people view the Republican Party’s culture and social movements?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "maga movement",
+    "wiki_title": "trumpism",
+    "summary": "In debates about the Republican Party, \"trumpism\" is invoked by supporters to justify reshaping the GOP around nationalist, anti‑establishment and protectionist priorities and to elevate personal loyalty to Trump over traditional party institutions. Opponents use the term to frame the party as captured by authoritarian‑leaning, anti‑institutional populism and to argue that it has departed from orthodox conservative governance.",
+    "queries": [
+      "What effects has the maga movement had on the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-1-7",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "election denialism",
+    "wiki_title": "denialism",
+    "summary": "Critics use “denialism” to depict Republican leaders and factions as rejecting scientific or factual consensus—most prominently on climate change, COVID-19 responses, and election integrity—to argue that GOP policies are driven by ideology, economic interests, or political survival and to justify calls for regulatory or accountability measures. Conversely, Republicans sometimes deploy the label against institutions or opponents to dismiss inconvenient evidence as politically motivated, a rhetorical move that helps defend deregulation, resist public‑health mandates, or bolster contested election narratives.",
+    "queries": [
+      "What consequences has election denialism produced for the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-2-1",
+    "parent": "C9",
+    "level": 3,
+    "topic": "freedomworks",
+    "wiki_title": "freedomworks",
+    "summary": "Within debates about the Republican Party, FreedomWorks is cited by allies as a catalyst that mobilized activists to push the GOP toward stricter small‑government, anti‑tax, and anti‑establishment positions and to primary moderates. Critics, meanwhile, use its Koch‑linked funding and Tea Party tactics to argue the party has been unduly influenced by outside donors and ideological purity tests that exacerbate polarization.",
+    "queries": [
+      "Is freedomworks' strategy justified or not for Republican Party goals?"
+    ]
+  },
+  {
+    "id": "C9-2-3",
+    "parent": "C9",
+    "level": 3,
+    "topic": "sarah palin",
+    "wiki_title": "sarah palin",
+    "summary": "Sarah Palin is invoked within Republican Party debates as a shorthand for the party’s populist, anti‑establishment wing—used by supporters to justify culturally conservative, pro‑energy and small‑government stances and base‑mobilizing outsider rhetoric, and by critics to exemplify a shift toward celebrity politics, confrontational style, and anti‑expertise tendencies associated with the Tea Party/Trump-era GOP.",
+    "queries": [
+      "Is Sarah Palin's political style reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "ted cruz",
+    "wiki_title": "ted cruz",
+    "summary": "Cruz is frequently invoked as the face of the Republican Party’s hard-right, anti‑establishment wing—used by allies to justify confrontational tactics, strict small‑government and social conservative policies, and prioritizing purity over compromise. Critics, meanwhile, cite his shutdown leadership and intra‑party battles to portray the GOP as obstructionist, factionalized, and willing to embrace extreme or norm‑challenging strategies.",
+    "queries": [
+      "What effects has Ted Cruz had on the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9",
+    "level": 3,
+    "topic": "gadsden flag",
+    "wiki_title": "gadsden flag",
+    "summary": "Within debates over the Republican Party (United States), the Gadsden flag is often deployed by GOP politicians and grassroots conservatives as a visual shorthand for small-government, individual liberty, and resistance to federal authority, reinforcing arguments for deregulation, lower taxes, gun rights, and limits on federal power. Critics use its display to frame the party as embracing anti‑establishment, confrontational, or even extremist strains—linking flag use to Tea Party and libertarian populist currents to attack the party’s moderation and legitimacy.",
+    "queries": [
+      "What impacts has displaying the gadsden flag had on Republican messaging?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "evangelical christianity",
+    "wiki_title": "evangelicalism",
+    "summary": "Evangelicalism is invoked as a core base and moral justification for many Republican positions—especially on abortion, LGBT issues, religious liberty, judicial picks, and school policy—and is credited with mobilizing turnout and shaping the party’s culture-war rhetoric. Critics and dissident evangelicals use the movement’s prominence to attack the GOP for blending religion with partisan power, for perceived hypocrisy when the party compromises on ethics or supports controversial leaders, or to pressure the party on issues like immigration and economic justice, producing internal tensions over priorities and tone.",
+    "queries": [
+      "How do people view evangelical christianity's role within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "religious liberty",
+    "wiki_title": "freedom of religion",
+    "summary": "Conservative Republicans often invoke freedom of religion to defend public expressions of faith and to secure religious exemptions from laws or mandates (school prayer and vouchers, employer conscience rules, contraception mandates, objections to LGBTQ-related services), framing these measures as protection from government overreach. Critics counter that the party weaponizes religious-liberty claims to justify discrimination and to weaken secular regulations protecting civil rights and public health.",
+    "queries": [
+      "How do people view religious liberty within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "christian nationalism",
+    "wiki_title": "christian nationalism",
+    "summary": "Critics invoke “Christian nationalism” to argue that elements of the Republican Party promote a fusion of partisan politics and Christian identity to justify policies restricting abortion and LGBTQ rights, privileging religion in public institutions, and resisting pluralism and secular norms. Supporters or sympathizers counter-call these impulses a defense of religious liberty, traditional values, and America’s moral heritage, using the label to frame GOP policy as restoration rather than exclusionary.",
+    "queries": [
+      "How do people view Christian nationalism in the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-3-4",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "moral majority",
+    "wiki_title": "moral majority",
+    "summary": "The Moral Majority is invoked to illustrate the Republican Party’s alliance with organized evangelical activists, used by allies to justify GOP positions on abortion, traditional family policy, and public prayer as expressions of moral leadership. Opponents cite it to criticize the party as beholden to religious doctrine, arguing that this alignment drives social-policy priorities at the expense of pluralism and church–state separation.",
+    "queries": [
+      "How do people view the moral majority within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "focus on the family",
+    "wiki_title": "focus on the family",
+    "summary": "Focus on the Family is often invoked as a key evangelical influencer within the Republican coalition, helping to mobilize conservative voters, pressure GOP candidates to adopt strict social‑conservative positions (on abortion, marriage, education, etc.), and provide moral framing for party policy. Critics use its prominence and anti‑LGBTQ reputation to argue that the Republican Party is aligned with intolerant or exclusionary social agendas.",
+    "queries": [
+      "How do people view the Republican Party's focus on the family?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Anti-abortion movements function as a core pressure group that the Republican Party courts and cites to justify restrictive abortion laws, judicial appointments, and pro-life platform language, while also shaping primary contests and voter mobilization; critics use their influence to portray the GOP as dominated by religious conservatives and hostile to reproductive rights and women’s autonomy.",
+    "queries": [
+      "Is the pro-life movement within the Republican Party justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-1",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "national right to life committee",
+    "wiki_title": "national right to life committee",
+    "summary": "Advocates and Republican officials cite the National Right to Life Committee’s endorsements, campaign support, and model bills to justify the GOP’s pro‑life identity and push party platforms, legislation, and judicial picks toward stricter abortion limits. Critics, meanwhile, point to NRLC’s influence to portray the Republican Party as dominated by activist priorities—arguing it makes GOP policy rigid, polarizing, and beholden to a single-issue agenda.",
+    "queries": [
+      "How do people view the National Right to Life Committee?"
+    ]
+  },
+  {
+    "id": "C9-4-2",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "susan b. anthony list",
+    "wiki_title": "susan b. anthony",
+    "summary": "Republicans and allied groups often invoke Susan B. Anthony — notably through the Susan B. Anthony List and campaign rhetoric — to claim historical GOP ties to women's rights and to legitimate pro‑life, small‑government, or conservative women's policy positions. Critics counter that this is a selective, anachronistic appropriation of her legacy used to frame modern Republican policies as the rightful heirs of 19th‑century suffrage activism.",
+    "queries": [
+      "Is the Susan B. Anthony List's influence in the Republican Party justified?"
+    ]
+  },
+  {
+    "id": "C9-4-3",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "hyde amendment",
+    "wiki_title": "hyde amendment",
+    "summary": "Supporters point to the Hyde Amendment as evidence the Republican Party enacts pro‑life, fiscally restrained policy and honors its alliance with religious and social conservatives; critics use it to portray the GOP as imposing morally rigid limits on reproductive care that disproportionately hurt low‑income and marginalized women.",
+    "queries": [
+      "What impacts has the Hyde Amendment had on Republican Party politics?"
+    ]
+  },
+  {
+    "id": "C9-4-4",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "heartbeat bills",
+    "wiki_title": "heartbeat bill",
+    "summary": "Republicans promote “heartbeat bills” as a signature pro‑life policy to signal moral commitment to fetal protection, mobilize conservative voters, and justify aggressive state‑level restrictions and enforcement strategies; conversely, critics seize on these laws to depict the party as pursuing medically dubious, effectively near‑total abortion bans that curtail women’s autonomy and rely on legal workarounds, fueling backlash against Republican abortion policy.",
+    "queries": [
+      "Are heartbeat bills justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "march for life",
+    "wiki_title": "march for life",
+    "summary": "Republican politicians and activists lean on the March for Life as a high-visibility symbol to demonstrate and legitimize the party’s pro‑life credentials, justify anti‑abortion legislation and judicial picks, and energize socially conservative voters. Critics use the march to portray the GOP as dominated by religious and culture‑war priorities, arguing it drives policy extremism or exposes hypocrisy when elected officials fail to deliver on restrictions.",
+    "queries": [
+      "What influence does the march for life have on Republican Party policy?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "critical race theory",
+    "wiki_title": "critical race theory",
+    "summary": "Republican leaders and conservative media weaponize 'critical race theory' to frame the GOP as protector of traditional education and to justify laws and policies banning CRT-related teaching and diversity training. Opponents argue this rhetoric mischaracterizes the scholarship and is used by Republicans to mobilize voters through cultural grievances and to oppose racial equity efforts.",
+    "queries": [
+      "What effects has Republican-led criticism of critical race theory produced?"
+    ]
+  },
+  {
+    "id": "C9-5-2",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "1776 commission",
+    "wiki_title": "1776 commission",
+    "summary": "The 1776 Commission is cited by Republican leaders and allies as a justification for promoting a patriotic, founding-focused version of U.S. history and for pushing back against critical race theory and curricula that foreground slavery and systemic racism; critics cite the Commission to argue the party is politicizing education and attempting to whitewash or minimize racial injustice.",
+    "queries": [
+      "How do people view the 1776 commission within the Republican Party?"
+    ]
+  },
+  {
+    "id": "C9-5-4",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "woke",
+    "wiki_title": "woke",
+    "summary": "Republicans frequently use “woke” as a dismissive label to portray Democratic policies, schools, and corporations as ideologically extreme, using that framing to justify rolling back DEI initiatives, banning certain curricula, and mobilizing cultural‑conservative voters. Critics say the GOP weaponizes anti‑woke rhetoric for political gain—framing it as defense of free speech and tradition while opponents view it as censorship and distraction from substantive policy debates.",
+    "queries": [
+      "Is Republican Party opposition to woke reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-5",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "school board elections",
+    "wiki_title": "liverpool school board elections",
+    "summary": "References to local contests like the Liverpool school board elections are used in U.S. debates to cast the Republican Party as the defender of parental rights, traditional curricula, and school-choice policies by praising GOP-aligned school board wins. Critics use the same contests to argue the party is nationalizing local education, weaponizing culture‑war issues, and pushing partisan agendas into school governance.",
+    "queries": [
+      "Are Republican Party efforts around school board elections reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-6",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "1619 project",
+    "wiki_title": "the 1619 project",
+    "summary": "The 1619 Project is used by critics to argue that the Republican Party resists confronting slavery’s central role in U.S. history and opposes racial-justice education, while Republicans portray the project as partisan historical revisionism and leverage opposition to it to justify curriculum restrictions, book bans, and broader ‘anti-woke’ education and cultural policies.",
+    "queries": [
+      "What effects has Republican criticism of the 1619 project produced?"
+    ]
+  },
+  {
+    "id": "C9-5-8",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "parental rights",
+    "wiki_title": "parental responsibility (access and custody)",
+    "summary": "Republicans frequently invoke parental responsibility to argue for policies that expand parental control over education, medical decisions for minors, and custody access, casting state intervention (e.g., school curricula, gender-affirming care, or child welfare actions) as government overreach and defending traditional family authority. Critics contend this frame is used to roll back protections for children and marginalized groups and to advance conservative social priorities by prioritizing parental preference over professional or child-centered judgments.",
+    "queries": [
+      "What effects has Republican Party parental rights focus brought?"
+    ]
+  },
+  {
+    "id": "C9-7-3",
+    "parent": "C9",
+    "level": 3,
+    "topic": "nra political victory fund",
+    "wiki_title": "political victory fund",
+    "summary": "Political victory funds are depicted as the Republican Party’s organized fundraising and resource‑allocation arms used to steer which candidates and messages get priority in key races; proponents argue they are necessary to beat Democrats and maintain party discipline, while critics say they concentrate donor influence, entrench establishment choices, and marginalize insurgent or populist challengers.",
+    "queries": [
+      "Are endorsements by the nra political victory fund justified or not?"
+    ]
+  },
+  {
+    "id": "C9-7-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "gun control",
+    "wiki_title": "gun control",
+    "summary": "Gun control is a central flashpoint used to portray the Republican Party as a staunch defender of Second Amendment rights and gun owners—often invoking constitutional liberty, self‑defense, and rural cultural values to oppose bans and regulatory expansion. Critics counter that Republicans prioritize the gun lobby and political alliances over public‑safety reforms, while GOP defenders cast restrictions as threats to individual freedom and federal overreach.",
+    "queries": [
+      "What consequences has the Republican Party's gun control stance caused?"
+    ]
+  },
+  {
+    "id": "C9-7-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "parkland shooting",
+    "wiki_title": "parkland high school shooting",
+    "summary": "Critics invoke the Parkland shooting to argue that the Republican Party’s close ties to the NRA and emphasis on gun rights block meaningful gun-safety reforms and to mobilize youth and suburban voters against GOP candidates. Republican defenders use Parkland to justify alternatives—boosting school security, mental-health services, and arming/training staff—framing those measures as compatible with preserving the Second Amendment and opposing broad weapon bans.",
+    "queries": [
+      "What do people think about Republican Party reactions to parkland shooting?"
+    ]
+  }
+]

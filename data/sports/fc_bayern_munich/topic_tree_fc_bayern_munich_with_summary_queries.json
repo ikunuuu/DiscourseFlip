@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "FC Bayern Munich",
+    "wiki_title": "FC Bayern Munich",
+    "summary": "Bayern Munich is used as both the benchmark of professional sporting and commercial success—invoked to justify centralized, businesslike management, heavy investment in infrastructure and elite transfers—and as the prime example of competitive imbalance, cited by critics who argue its financial power and dominance undermine Bundesliga parity and justify reforms to revenue-sharing, transfer rules or fan protections.",
+    "queries": [
+      "Is FC Bayern Munich’s spending on transfers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "sporting performance",
+    "wiki_title": "sport",
+    "summary": "Discussions invoke “sport” to portray FC Bayern Munich either as the rightful product of superior athletic training, youth development and professional excellence—legitimizing its dominance and commercial growth—or as a threat to sporting fairness, with critics arguing that Bayern’s market power, talent hoarding and commercialization undermine competitive balance and justify policy fixes like revenue sharing, roster limits, or stricter governance.",
+    "queries": [
+      "What consequences has FC Bayern Munich's sporting performance caused?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "uefa champions league",
+    "wiki_title": "uefa champions league",
+    "summary": "Champions League results function as the main yardstick in debates about Bayern Munich’s status: victories (and their dominant 2019–20 campaign) are used to justify the club’s spending, recruitment and managerial choices as evidence of elite competence, while elimination or poor performances are deployed to criticize tactical conservatism, squad-building and the club’s reliance on domestic dominance. Media, fans and decision‑makers invoke Bayern’s European record to argue for or against policy choices—prioritising star signings vs. youth development, making coaching changes, or claiming broader lessons about the health of German football.",
+    "queries": [
+      "How do fans view FC Bayern Munich’s uefa champions league priorities?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "real madrid",
+    "wiki_title": "real madrid cf",
+    "summary": "Real Madrid is the standard-of-success in debates about Bayern, with pundits and fans invoking Madrid’s European pedigree and star-driven transfer policy to argue that Bayern either lack continental prestige or should move toward bigger, more commercial signings. The club also frames policy arguments: some urge Bayern to imitate Real’s global branding and Galácticos approach to stay elite, while others use Real as a cautionary contrast to defend Bayern’s member-owned, sustainability- and youth-focused model.",
+    "queries": [
+      "How do fans view Real Madrid’s encounters with FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "fc barcelona",
+    "wiki_title": "fc barcelona",
+    "summary": "FC Barcelona is often used as a cultural and tactical foil for FC Bayern Munich—invoked by critics who accuse Bayern of favoring pragmatic, commercially driven squad-building over Barcelona’s youth-focused, aesthetic style, and by proponents of Bayern to highlight the German club’s organizational stability and financial prudence in contrast to Barcelona’s romanticized identity and periodic financial turmoil.",
+    "queries": [
+      "How do people view fc barcelona these days?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "liverpool f.c.",
+    "wiki_title": "liverpool f.c.",
+    "summary": "Liverpool is often invoked in debates about Bayern as a contrasting model of how elite clubs are built — praised for Klopp-era tactical identity, data-driven recruitment and dramatic European success and held up as an example Bayern could emulate when criticized for relying on financial muscle and squad overhaul. Commentators also use Liverpool’s global brand and ownership controversies to frame arguments about commercialization and competitive fairness, either to defend Bayern’s conservative, member-driven governance or to attack perceived advantages enjoyed by big clubs.",
+    "queries": [
+      "Is Liverpool F.C.'s rivalry with Bayern Munich as intense as portrayed?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "hansi flick",
+    "wiki_title": "hansi flick",
+    "summary": "Hansi Flick is often cited as proof that Bayern benefit from promoting a tactically flexible, player-focused coach—his 2019–20 revival is used to justify continuity, internal appointments, and pragmatic high‑press tactics. Critics, however, point to his later contract dispute and exit to argue that Bayern’s hierarchy mishandles managers and that the club’s success is driven more by squad quality and structure than by any single coach.",
+    "queries": [
+      "Is hansi flick’s Bayern tactics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "manuel neuer",
+    "wiki_title": "manuel neuer",
+    "summary": "Manuel Neuer is routinely invoked in debates about FC Bayern Munich as the embodiment of the club’s leadership, tactical identity, and winning culture, used to justify prioritizing experienced, high-standard signings, a high defensive line enabled by a ‘sweeper-keeper,’ and continuity in squad construction. When his form or age is questioned, critics cite Neuer to argue Bayern’s dependence on veterans requires squad renewal, greater youth integration, or changes to wage and contract policy.",
+    "queries": [
+      "Are Manuel Neuer's on-field decisions reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "bundesliga",
+    "wiki_title": "bundesliga",
+    "summary": "The Bundesliga is frequently invoked to both justify and critique Bayern Munich's dominance: fans and club defenders frame Bayern’s repeated titles as proof of sporting excellence within a strong league, while critics blame Bundesliga financial rules and revenue disparities for enabling a near-monopoly. Debates about competitive reform (greater revenue sharing, salary limits, or structural changes) hinge on altering Bundesliga policies as the primary way to check Bayern’s hegemony and restore unpredictability.",
+    "queries": [
+      "How do fans view Bayern’s role in the Bundesliga?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "der klassiker",
+    "wiki_title": "der klassiker",
+    "summary": "‘Der Klassiker’ is invoked in media and fan debates to frame Bayern Munich as the dominant protagonist in the marquee rivalry with Borussia Dortmund, reinforcing narratives of Bayern’s sporting superiority and entitlement. It also functions as a rhetorical device to criticize Bayern’s perceived monopolization of titles and commercial power—fueling calls for competitive reforms like tighter financial rules—or conversely to celebrate the club’s professionalism when defending its policies.",
+    "queries": [
+      "Is der klassiker hype around FC Bayern Munich justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "robert lewandowski",
+    "wiki_title": "robert lewandowski",
+    "summary": "Lewandowski is often cited as proof of Bayern Munich’s win‑now model—supporters point to him as justification for signing proven stars to sustain domestic and European dominance, while critics use his acquisition and eventual exit to accuse the club of poaching rivals, exacerbating Bundesliga imbalance and mishandling veteran players in favour of squad renewal.",
+    "queries": [
+      "How do fans view Robert Lewandowski’s impact on Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "thomas tuchel",
+    "wiki_title": "thomas tuchel",
+    "summary": "Thomas Tuchel is often invoked in debates about Bayern Munich as evidence of the club’s impatience and heavy-handed management—critics use his brief, fractious spell to argue that Bayern’s board interferes with coaches and undermines long-term project-building. Conversely, proponents of the club’s approach cite his tenure to justify Bayern’s high-performance demands and decisive decision-making to preserve short-term success and institutional stability.",
+    "queries": [
+      "Is thomas tuchel’s Bayern tactics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "borussia dortmund",
+    "wiki_title": "borussia dortmund",
+    "summary": "Borussia Dortmund is commonly invoked as a counterpoint to frame Bayern Munich as overly dominant and commercial — critics point to Dortmund’s emphasis on youth development, fan culture and comparatively restrained spending to argue for limits on Bayern’s market power and for reforms like stronger revenue sharing or transfer/ownership rules. Conversely, Bayern supporters cite Dortmund’s financial ups-and-downs and reliance on player sales to justify Bayern’s model of sustained investment and consolidate the view that Bayern’s success is earned rather than monopolistic.",
+    "queries": [
+      "Is Borussia Dortmund still Bayern’s biggest competitive threat, reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "transfer market",
+    "wiki_title": "transfer market",
+    "summary": "The transfer market is invoked in debates about FC Bayern Munich to portray the club as a cash-rich hegemon whose heavy spending and frequent purchases of rivals’ stars are criticized as ‘buying’ success and undermining Bundesliga competitiveness; conversely, supporters point to successful market moves as evidence of superior scouting and sound sporting management. This framing fuels calls for policy responses (stricter FFP, salary caps, increased solidarity payments) and is used to judge club leadership when transfer windows are seen as successes or failures.",
+    "queries": [
+      "Is Bayern Munich’s activity in the transfer market reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "harry kane",
+    "wiki_title": "harry kane",
+    "summary": "Harry Kane’s high-profile arrival and instant goalscoring impact are used to portray Bayern as a cash-rich, win‑now superclub that will outspend rivals to secure elite talent and push for Champions League glory; critics, however, invoke the signing to argue Bayern’s short-termism, market inflation, and preference for marquee imports over youth development, and to highlight the Bundesliga’s competitive imbalance.",
+    "queries": [
+      "Is Harry Kane’s move to Bayern Munich justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "kylian mbappé",
+    "wiki_title": "kylian mbappé",
+    "summary": "Mbappé is routinely invoked in debates about Bayern’s transfer ambition — critics say Bayern’s decision not to chase generational stars like him reveals a lack of willingness to spend at the very top level and hampers their chances of European supremacy. Conversely, defenders use Mbappé as a foil to justify Bayern’s conservative, team-first wage and recruitment model, arguing that chasing marquee names would destabilize squad balance and financial sustainability.",
+    "queries": [
+      "What are the risks of Bayern signing Kylian Mbappé?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "transfermarkt",
+    "wiki_title": "transfermarkt",
+    "summary": "Transfermarkt’s widely cited market values and transfer rumours are used by fans, media, and pundits to quantify FC Bayern Munich’s financial dominance and squad worth, lending numerical support to claims that the club overpays, hoards talent, or underinvests in youth. Its valuations are frequently invoked to justify or criticize specific transfer decisions, lineup choices, and debates about whether Bayern’s signings represent good value for money.",
+    "queries": [
+      "Are transfermarkt valuations of FC Bayern Munich players reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "fabrizio romano",
+    "wiki_title": "fabrizio romano",
+    "summary": "As a high-profile transfer insider, Fabrizio Romano’s confirmations or cautious caveats are frequently cited to validate or debunk transfer and managerial rumours about FC Bayern Munich, shaping whether deals are portrayed as evidence of the club’s ambition or incompetence. His reports are used to justify praise when signings are confirmed and to fuel criticism of Bayern’s recruitment strategy, spending priorities, or leadership when negotiations are reported as stalled or constrained.",
+    "queries": [
+      "Are fabrizio romano’s Bayern rumors justified or overblown?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "football agents",
+    "wiki_title": "sports agent",
+    "summary": "In debates about Bayern Munich, sports agents are portrayed either as catalysts of high‑profile exits and wage inflation that undermine the club’s squad stability and ‘loyalty’ narrative, or as shrewd intermediaries who secure lucrative transfers and sponsorships that expand Bayern’s global reach; they therefore feature in arguments calling for tougher agent regulation and salary controls or, conversely, in defenses of the club’s market‑based transfer strategies and player autonomy.",
+    "queries": [
+      "Are football agents influencing FC Bayern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-8",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "tapping up",
+    "wiki_title": "tapping up",
+    "summary": "Accusations of tapping up are often leveled at Bayern to portray the club as poaching contracted stars and gaining an unfair competitive advantage, bolstering calls from rivals and fanbases for tougher enforcement and sanctions. Supporters counter that similar behavior is routine in the transfer market, using the issue to defend Bayern as an assertive, professional club and to push back against narratives that single them out for systemic dominance.",
+    "queries": [
+      "Is tapping up acceptable in FC Bayern Munich’s transfer approach?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "business and finance",
+    "wiki_title": "finance",
+    "summary": "Financial arguments are used to both justify Bayern Munich’s on-field dominance — pointing to high revenues, commercial deals, disciplined wage and transfer policies — and to criticize its commercialization and market power, fueling calls for redistribution (FFP, salary caps) or reforms to Germany’s 50+1 fan-ownership model. Debates also deploy financial metrics to defend or attack club choices on spending, sponsorships, infrastructure and pandemic relief, framing them as either prudent stewardship or profit-driven priorities that harm competitive balance.",
+    "queries": [
+      "What effects has FC Bayern Munich’s business and finance had?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "adidas",
+    "wiki_title": "adidas",
+    "summary": "Adidas’s commercial and ownership ties to Bayern are routinely cited to justify the club’s global branding, commercial professionalization and financial clout, while critics invoke the same relationship to argue Bayern prioritizes corporate interests over fan control and local identity; debates about kit deals, pricing, sponsorship transparency and sustainability often use Adidas as evidence that the club’s decisions are driven by commercial partners rather than supporters.",
+    "queries": [
+      "Is adidas’s deal with FC Bayern Munich reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "bjørn gulden",
+    "wiki_title": "bjørn gulden",
+    "summary": "As a prominent sportswear-industry executive, Bjørn Gulden is often cited in debates about FC Bayern Munich’s commercial strategy and kit-supplier relationships; commentators use his decisions and statements to justify calls for tougher, market-driven sponsorship deals and global brand expansion or, conversely, to criticize the club’s cozy, long-term ties to major sportswear partners.",
+    "queries": [
+      "Is bjørn gulden’s appointment at FC Bayern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "three stripes",
+    "wiki_title": "three stripes",
+    "summary": "The three stripes on Bayern's kits are frequently invoked as shorthand for the club's close commercial partnership with Adidas—used by fans to signal prestige, local industrial heritage and consistent branding, and by critics and rivals to argue Bayern is overly commercialized or beholden to corporate interests. Disputes over stripe design, kit changes, or sponsor deals feed broader debates about club identity, fan authenticity, and whether revenue considerations trump tradition.",
+    "queries": [
+      "How do fans view Bayern's three stripes on kits?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "sweatshop allegations",
+    "wiki_title": "nike sweatshops",
+    "summary": "Critics invoke Nike’s sweatshop history to challenge FC Bayern Munich’s commercial and equipment links to major sports brands, arguing the club’s visibility and endorsements make it complicit in or indifferent to labor abuses and prompting calls for ethical procurement or boycotts. Supporters respond that engagement, auditing and conditional partnerships are better levers for reform, so the controversy is used to debate Bayern’s corporate responsibility policies rather than purely sporting issues.",
+    "queries": [
+      "What consequences have FC Bayern Munich's sweatshop allegations had?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "allianz arena",
+    "wiki_title": "allianz arena",
+    "summary": "The Allianz Arena is often cited as tangible proof of FC Bayern Munich’s financial clout and global brand, its modern, high-capacity stadium used to justify the club’s elite ambitions, commercial strategies, and expectations of continued domestic and European dominance. Critics counter that the arena symbolizes the club’s over-commercialization and corporate ties (naming rights, premium pricing), arguing it alienates traditional supporters, concentrates resources in Munich, and highlights public-policy questions about stadium funding and competitive balance in German football.",
+    "queries": [
+      "What effects has the Allianz Arena had on FC Bayern’s brand?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "tsv 1860 munich",
+    "wiki_title": "tsv 1860 munich",
+    "summary": "TSV 1860 München is deployed as the local underdog and cultural foil to FC Bayern — critics cite 1860’s struggles and loss of status to condemn Bayern’s dominance, commercialization and control over stadium/resources and to push for policies protecting smaller, fan-run clubs; conversely Bayern partisans point to 1860’s financial missteps to justify Bayern’s market power and professionalized model.",
+    "queries": [
+      "How do people view tsv 1860 munich compared to FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "audi",
+    "wiki_title": "audi",
+    "summary": "Audi’s long-standing sponsorship and investment in Bayern is frequently invoked to portray the club as corporatized and financially advantaged—used by critics to argue Bayern’s dominance is bolstered by industrial backing and to press for tougher rules on commercial influence—while defenders cite the partnership as a sign of Bavarian industry support that provides stability and professional resources for the club.",
+    "queries": [
+      "How do fans view Audi's relationship with Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "volkswagen group",
+    "wiki_title": "volkswagen group",
+    "summary": "Volkswagen Group (through its brands and the car-industry family networks around Porsche/Piëch) is cited in debates about FC Bayern Munich as emblematic of the club’s corporate backing—critics use VW’s involvement to argue Bayern’s domestic dominance is propped up by deep-pocketed industry influence and conflicts of interest, while supporters frame such partnerships as legitimate professional investment that funds competitiveness and global success.",
+    "queries": [
+      "How do people view FC Bayern’s ties to volkswagen group?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "related-party transactions",
+    "wiki_title": "related-party transaction",
+    "summary": "References to related‑party transactions are used to criticize FC Bayern Munich when commentators allege the club’s commercial deals favor companies linked to its executives or local corporate partners, framing Bayern as at risk of insider self‑dealing and calling for stronger transparency and governance. Supporters counter that these close, sometimes insider, partnerships are pragmatic revenue sources that help the club compete financially, so mentions of related‑party deals are also deployed to justify maintaining tight commercial ties.",
+    "queries": [
+      "Are FC Bayern Munich's related-party transactions justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "company cars",
+    "wiki_title": "mg cars",
+    "summary": "MG cars are often invoked as an analogy in debates about FC Bayern Munich’s commercial trajectory—portrayed as a national brand reinvented under global corporate ownership. Supporters point to that arc to justify Bayern’s aggressive sponsorships and global branding, while critics use it to argue the club has traded local tradition and sporting values for commercial interests.",
+    "queries": [
+      "Are FC Bayern Munich’s company cars justified given public image?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "advertising campaigns",
+    "wiki_title": "advertising campaign",
+    "summary": "FC Bayern Munich’s advertising campaigns are used to project and legitimize the club as a global, tradition-steeped commercial powerhouse—highlighting ‘Mia san Mia’, superstar players, and corporate partnerships—to defend revenue-generating policies like sponsorship deals, stadium branding, and international market expansion. Opponents cite these campaigns in critiques that the club prioritizes commercial growth over local fan culture, affordable tickets, and participatory club governance, framing such marketing as evidence of over‑commercialization.",
+    "queries": [
+      "How do people view advertising campaigns by FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "conflict of interest",
+    "wiki_title": "conflict of interest",
+    "summary": "Accusations of conflicts of interest—for example when Bayern executives hold multiple roles in club, league or commercial bodies or when business deals appear opaque—are routinely used by critics to claim the club has undue influence over Bundesliga governance, refereeing and media/sponsorship arrangements and to justify demands for transparency, enforcement of the 50+1 rule, or resignations. Supporters and the club frame the same overlaps as efficient leadership and necessary commercial savvy to keep Bayern competitive, arguing against heavy-handed regulation.",
+    "queries": [
+      "How do fans view conflict of interest at FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "deutsche telekom",
+    "wiki_title": "deutsche telekom",
+    "summary": "Deutsche Telekom's high-profile sponsorship and branding with FC Bayern is frequently cited in debates about the club's commercialization—critics use the partnership to argue that corporate money and marketing help entrench Bayern's domestic and international dominance. Supporters, meanwhile, point to the Telekom deal as evidence of the club's professionalized business model and financial stability that underpins sporting success.",
+    "queries": [
+      "Is deutsche telekom’s Bayern sponsorship reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "t‑mobile",
+    "wiki_title": "t-mobile",
+    "summary": "As a major corporate sponsor of FC Bayern, T‑Mobile is routinely cited in debates to justify the club’s market‑oriented, well‑funded model — supporters argue such partnerships finance transfers and infrastructure, while critics use the T‑Mobile logo as shorthand for the commercialization and erosion of traditional club identity. Its status as a big domestic corporate backer is also invoked to distinguish Bayern’s corporate ties from fears of foreign ownership, shaping arguments about what kinds of business involvement are acceptable in German football.",
+    "queries": [
+      "How do fans view t‑mobile's role with Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "telekom cup",
+    "wiki_title": "telekom cup",
+    "summary": "References to the Telekom Cup are used to highlight Bayern's commercial clout and global brand — their regular appearance in this sponsor-driven preseason event is often cited to justify narratives of financial dominance and marketing appeal. Critics, however, invoke the tournament to argue Bayern contributes to the over-commercialization of football and treats minor trophies and friendlies as publicity vehicles, or to fault the club's player-rotation choices and managerial priorities during preseason.",
+    "queries": [
+      "Is FC Bayern Munich's Telekom Cup participation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-7",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "5g network",
+    "wiki_title": "5g",
+    "summary": "References to 5G are used to cast FC Bayern Munich as a tech-forward, globally broadcast-ready club — a selling point for sponsorships, enhanced stadium connectivity, immersive fan experiences and advanced training analytics — while critics use 5G deployment to highlight commercialization, corporate influence (notably telecom partners), surveillance/data-privacy risks and the club prioritizing high-tech revenue streams over supporters or grassroots investment.",
+    "queries": [
+      "Is FC Bayern Munich’s use of 5g network justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "50+1 rule",
+    "wiki_title": "50+1 rule",
+    "summary": "In debates about FC Bayern Munich the 50+1 rule is often invoked to legitimize the club’s member-controlled model and to present its success as stemming from traditional, fan-centered governance rather than corporate takeover. Critics counter that Bayern’s extensive commercial partnerships and institutional advantages let it skirt the spirit of the rule, arguing either for reform to curb its dominance or for changes to allow rivals greater investor support to restore competitive balance.",
+    "queries": [
+      "Is the 50+1 rule reasonable given Bayern Munich’s dominance?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "dfl",
+    "wiki_title": "minnesota democratic–farmer–labor party",
+    "summary": "Commentators and activists aligned with the Minnesota Democratic–Farmer–Labor Party are sometimes invoked in U.S. debates to cast FC Bayern Munich as an example of the clash between community- and labor-oriented values and globalized, commercialized football. Such voices typically use Bayern to criticize corporate-driven ownership and advocate for more democratic, community-focused governance of clubs, or to frame club visits as part of broader transatlantic cultural and civic exchange.",
+    "queries": [
+      "How do fans view the dfl's decisions on FC Bayern?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "rb leipzig",
+    "wiki_title": "rb leipzig",
+    "summary": "RB Leipzig is invoked in discussions about FC Bayern Munich as a commercially backed challenger that highlights shortcomings in competition and financial/ownership rules—critics point to RB's rapid rise to argue Bayern's dominance needs stricter regulation and redistribution—while Bayern supporters use RB as a foil to defend Bayern's traditional club legitimacy against accusations of excessive commercialization.",
+    "queries": [
+      "How do Bayern supporters view RB Leipzig's growing influence?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "dietmar hopp",
+    "wiki_title": "dietmar hopp",
+    "summary": "Dietmar Hopp is invoked in debates about FC Bayern Munich as a foil for arguments over money and legitimacy: critics cite the controversies around Hopp-backed Hoffenheim to denounce billionaire influence and call for stricter ownership/competitive-balance rules, while Bayern supporters contrast the club’s membership-based model with Hopp-style private patronage to defend Bayern’s standing and success.",
+    "queries": [
+      "Is Dietmar Hopp's influence on FC Bayern matters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "tsg 1899 hoffenheim",
+    "wiki_title": "tsg 1899 hoffenheim",
+    "summary": "TSG 1899 Hoffenheim is frequently invoked in debates about FC Bayern Munich as both a foil and a symptom of Bayern’s dominance: critics point to Hoffenheim’s investor-backed rise to spark arguments over commercialization and the 50+1 rule, while pundits use Hoffenheim’s role as a developer of players and coaches (who are often snapped up by Bayern) to illustrate Bayern’s market power and the Bundesliga’s competitive imbalance.",
+    "queries": [
+      "Is tsg 1899 hoffenheim's rivalry with FC Bayern Munich justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "supporters' trust",
+    "wiki_title": "supporters' trust",
+    "summary": "Supporters' trusts are used in debates about FC Bayern Munich as a benchmark and rallying point: proponents cite Bayern’s broad member ownership to justify preserving the 50+1 model and resisting investor takeover, while critics and trust advocates push Bayern to convert that formal membership into stronger, more transparent democratic influence over transfers, ticketing and commercial decisions rather than leaving control to an executive elite.",
+    "queries": [
+      "What impact has the supporters' trust had on Bayern's decisions?"
+    ]
+  },
+  {
+    "id": "C2-5-8",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "commercialisation of football",
+    "wiki_title": "association football contracts",
+    "summary": "Debates about FC Bayern Munich often focus on how the club uses contracts—long renewals, high wages and buy‑out arrangements—to consolidate talent and deter rivals, a practice critics portray as anti‑competitive and a symptom of excessive market power. Supporters and the club itself counter that these contract policies promote squad stability, youth development and financial prudence, and such arguments feed policy calls for tighter transfer/release‑clause regulation or protections for player mobility.",
+    "queries": [
+      "How do fans view the commercialisation of football at FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "uefa financial fair play",
+    "wiki_title": "uefa financial fair play regulations",
+    "summary": "UEFA Financial Fair Play rules are often invoked to defend Bayern Munich’s model of cautious, self-financed growth and to justify its transfer activity as legitimate under existing rules; supporters point to FFP compliance as evidence that the club’s success is earned rather than artificially bought. Critics, however, use FFP debates to argue that Bayern’s vast commercial revenues and market advantages effectively skirt the spirit of the rules, reinforcing dominance and prompting calls for stricter enforcement or reform.",
+    "queries": [
+      "What consequences has uefa financial fair play had for Bayern's competitiveness?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "karl‑heinz rummenigge",
+    "wiki_title": "karl-heinz rummenigge",
+    "summary": "As long-time Bayern executive and club legend, Rummenigge is invoked in debates to justify the club’s professional, commercially driven model and its assertive transfer and governance strategies, portraying Bayern’s dominance as the result of strong executive leadership. Critics likewise use his name to frame Bayern as overly commercial, secretive and domineering in German/European football, blaming him for policies that prioritize results and market power over sporting parity or fan-centric traditions.",
+    "queries": [
+      "Is Karl-Heinz Rummenigge’s public criticism of players reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "manchester city",
+    "wiki_title": "manchester city f.c.",
+    "summary": "Manchester City is frequently used as a comparative foil to Bayern Munich—as both a contemporary benchmark for European success and as an example of heavy, state-linked investment in building a global power. Debates invoke City to criticize or defend Bayern’s sporting legitimacy, transfer strategy, and calls for financial regulation, and to frame discussions about tactical evolution under managers linked to both clubs.",
+    "queries": [
+      "Is Manchester City's financial model fair to clubs like FC Bayern?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "paris saint‑germain",
+    "wiki_title": "paris saint-germain fc",
+    "summary": "Paris Saint-Germain is routinely invoked in debates about FC Bayern Munich as the prototypical cash‑fueled rival whose state‑backed spending and superstar recruitment either pressures Bayern to match commercial ambition or to defend its member‑owned, prudently run model. Critics use PSG to push for tougher financial rules and limits on state-linked investment to protect competitive balance, while others cite PSG as justification for Bayern to pursue bolder transfers and global branding.",
+    "queries": [
+      "How do fans view paris saint-germain’s rivalry with FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and communications",
+    "wiki_title": "minister for media and communications",
+    "summary": "Ministers for Media and Communications are invoked in public debates over Bayern’s outsized media presence and TV revenues, either used to justify lucrative broadcasting deals and the club’s role as a national cultural export or cited as authorities who should impose greater transparency, consumer protections and revenue‑sharing to curb Bayern’s market dominance and promote competitive balance.",
+    "queries": [
+      "How do fans view FC Bayern Munich's media and communications?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "bild",
+    "wiki_title": "bild",
+    "summary": "Bild regularly sets the media agenda around FC Bayern by running sensational headlines on transfers, coaching decisions and internal disputes, amplifying triumphs or scandals and thereby increasing public and political pressure on players and management. Its coverage typically normalizes and defends Bayern’s commercial dominance and elite status while sharply criticizing perceived failures or dissenters, shaping fan debates about the club’s power, conduct and decisions.",
+    "queries": [
+      "How do people view bild's reporting on Bayern-related stories?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "hasan salihamidžić",
+    "wiki_title": "hasan salihamidžić",
+    "summary": "As Bayern's long-serving sporting director and ex-player, Salihamidžić is frequently invoked in debates about the club's transfer strategy and leadership — defenders portray him as a steady, club-first figure who protects Bayern’s traditions, while critics use him as a shorthand for botched signings, poor squad planning and opaque decision‑making. His name often frames wider arguments about governance at FC Bayern, with opponents arguing his tenure exemplifies an insular, celebrity-driven management culture that needs professional overhaul.",
+    "queries": [
+      "Are hasan salihamidžić’s transfers for FC Bayern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "julian nagelsmann",
+    "wiki_title": "julian nagelsmann",
+    "summary": "Julian Nagelsmann is often cited in debates about Bayern as the archetype of the club’s willingness to gamble on a young, progressive coach to modernize tactics and renew the squad, used to justify a forward‑looking, high‑expectation approach. Conversely, his mixed results and eventual dismissal are invoked to criticize Bayern’s impatience, volatile leadership culture, and tendency to prioritize instant success over long‑term development.",
+    "queries": [
+      "Are criticisms of Julian Nagelsmann justified among Bayern supporters?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "kicker",
+    "wiki_title": "kicker",
+    "summary": "Kicker’s match reports, player ratings and transfer coverage are regularly cited to justify praise or criticism of Bayern Munich’s coaching, recruitment and tactical choices, helping fans and pundits argue whether the club’s dominance stems from sound management or complacency. Its analyses and editorials often anchor public debates about Bayern’s finances, youth development and managerial accountability, shaping sentiment in German media and supporter discourse.",
+    "queries": [
+      "Is kicker’s coverage of FC Bayern Munich fair or not?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "joshua kimmich",
+    "wiki_title": "joshua kimmich",
+    "summary": "Joshua Kimmich is often held up as a symbol of FC Bayern Munich’s strengths—homegrown leadership, tactical intelligence and versatility—used to justify the club’s emphasis on continuity and internal development; at the same time his high‑profile COVID vaccine hesitancy has been invoked to criticize Bayern’s handling of player conduct and the club’s public responsibility and image.",
+    "queries": [
+      "How do fans view Joshua Kimmich’s influence on Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "sky deutschland",
+    "wiki_title": "sky deutschland",
+    "summary": "Sky Deutschland’s broadcasts, punditry and transfer coverage shape public views of FC Bayern Munich by amplifying narratives of the club’s dominance, professionalism and commercial success while also drawing criticism that media attention disproportionately favors Bayern and masks competitive imbalance. Its analysts and editorial framing are frequently invoked to justify or challenge Bayern’s spending, governance and influence over television revenues in debates about fairness in German football.",
+    "queries": [
+      "Is Sky Deutschland’s Bayern Munich coverage balanced or not?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "broadcasting rights",
+    "wiki_title": "broadcasting rights",
+    "summary": "Broadcasting rights are frequently cited to explain and justify FC Bayern Munich’s financial and institutional dominance—high-value TV deals are presented by the club and supporters as the revenue basis for its spending, infrastructure and European competitiveness. Critics use the issue to frame Bayern as a beneficiary of media-market concentration that amplifies competitive imbalance and restricts affordable fan access, fueling calls for greater revenue-sharing, transparency, or regulation.",
+    "queries": [
+      "How do fans view FC Bayern Munich's broadcasting rights decisions?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "lothar matthäus",
+    "wiki_title": "lothar matthäus",
+    "summary": "As a high-profile former Bayern captain and outspoken pundit, Matthäus’s public praise or criticism is routinely invoked to legitimize claims about the club’s coaching choices, transfer policy, and dressing-room culture. His critiques are often used to argue for structural or leadership change and a return to traditional Bayern values, while his endorsements are cited to defend management decisions and the club’s authority.",
+    "queries": [
+      "Is Lothar Matthäus’s criticism of FC Bayern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-7",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "sky ticket",
+    "wiki_title": "sky q",
+    "summary": "Sky Q's live broadcasts, highlight packages and punditry are frequently used in debates about Bayern—supporters cite expert analysis and replays on Sky to defend the club's tactical superiority, while critics point to selective coverage or emphatic camera angles to accuse broadcasters of normalizing Bayern's dominance or glossing over controversial calls. Discussion of Sky's subscription access and lucrative rights deals also features in arguments that media revenues and exposure disproportionately boost Bayern's financial power and cultural prominence, informing critiques of competitive balance and calls for fairer broadcast policy.",
+    "queries": [
+      "What impact has sky ticket had on FC Bayern Munich supporters?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "dazn",
+    "wiki_title": "dazn",
+    "summary": "DAZN is frequently invoked in debates about Bayern's commercial power — its streaming deals are portrayed as a source of massive revenue and global exposure that help entrench the club's financial dominance. Critics use DAZN to argue that paywalled, fragmented broadcasting and occasional technical problems prioritize profit over fan access and traditional matchday experience, while supporters counter that streaming expands Bayern's international reach.",
+    "queries": [
+      "How do fans view dazn’s handling of FC Bayern Munich broadcasts?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "amazon prime video",
+    "wiki_title": "amazon prime video",
+    "summary": "Amazon Prime Video shapes debates about FC Bayern Munich by using exclusive broadcasts and club-focused programming to amplify Bayern’s global brand and commercial appeal, which proponents cite to justify higher media revenues and market expansion. Critics argue its paywalled coverage and spotlighting of elite clubs like Bayern reinforces commercialization, limits fan access, and deepens competitive and financial imbalances in German football.",
+    "queries": [
+      "Is FC Bayern Munich’s Amazon Prime Video coverage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "streaming outages",
+    "wiki_title": "2011 playstation network outage",
+    "summary": "The 2011 PlayStation Network outage is sometimes cited in debates about FC Bayern Munich’s digital and eSports strategy, used by critics to highlight the risks of relying on third‑party platforms for fan engagement, online matches and merchandise/streaming sales. Supporters of greater club control invoke the outage to justify investment in owned streaming infrastructure and contingency planning to protect Bayern’s commercial and community activities from similar disruptions.",
+    "queries": [
+      "How do fans view streaming outages for FC Bayern Munich broadcasts?"
+    ]
+  },
+  {
+    "id": "C4-4-8",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "subscription price",
+    "wiki_title": "subscription business model",
+    "summary": "Debates about FC Bayern Munich often invoke subscription business models to justify the club’s heavy monetization—supporters argue memberships, season packages and paid streaming create predictable revenue that funds sporting success and community projects, while critics contend paywalls, auto‑renewals and premium tiers commodify fandom and widen the gap with smaller clubs. This framing fuels calls for clearer pricing, consumer protections and more affordable access to matches and club media.",
+    "queries": [
+      "What effects has FC Bayern Munich's subscription price caused?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On X, Bayern players, club accounts, journalists, pundits and rival fans rapidly shape public narratives about FC Bayern Munich by amplifying transfer rumors, managerial decisions, match controversies and PR messages; high‑engagement accounts, memes and coordinated fan posts often set the dominant framing. The platform tends to favor immediate, sensational takes that either bolster club PR or intensify criticism over commercialization, selection and coaching choices, while rival fans and bot activity can spread disinformation that polarizes opinion and pressures club policy.",
+    "queries": [
+      "How do fans view FC Bayern Munich's twitter activity?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "european super league",
+    "wiki_title": "european super league",
+    "summary": "Discussions about the European Super League often use FC Bayern Munich as a foil: opponents praise Bayern for refusing to join and defending a merit-based, Bundesliga-aligned model of competition, while proponents accuse the club of protecting the existing financial and institutional status quo and obstructing commercial reforms to European football.",
+    "queries": [
+      "How do fans view FC Bayern Munich and the european super league?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "florentino pérez",
+    "wiki_title": "florentino pérez",
+    "summary": "Florentino Pérez is often invoked in debates about FC Bayern Munich as the emblem of the corporate, big‑spending, Super League–driven model of European football; critics use his example to warn that Bayern adopting similar commercial aggressiveness would betray its member‑club traditions. Conversely, proponents of aggressive international expansion or transfer spending sometimes hold up Pérez/Real Madrid as a template Bayern should emulate to maintain continental dominance, making him a shorthand for conflicting visions of the club's future.",
+    "queries": [
+      "Is criticism of florentino pérez by Bayern fans justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "andrea agnelli",
+    "wiki_title": "andrea agnelli",
+    "summary": "Andrea Agnelli is often invoked in discussions about FC Bayern Munich as the archetype of an assertive, commercially driven club executive—his Juventus tenure and leadership in the European Super League are used by critics to warn against breakaway, profit-first strategies and by Bayern supporters as a foil to Munich’s member-driven, consensus-oriented governance. Conversely, advocates for major European competition reform sometimes cite Agnelli’s initiatives to argue Bayern should be more willing to embrace structural change rather than defend the status quo.",
+    "queries": [
+      "Is andrea agnelli's involvement with FC Bayern Munich justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "european club association",
+    "wiki_title": "european multisport club association",
+    "summary": "The European Multisport Club Association is often invoked in debates about FC Bayern Munich to highlight and defend the club’s member‑owned, multi‑section identity and to justify its community‑oriented governance, youth development and resistance to investor takeovers. Critics, however, point to the association as evidence that multisport elites like Bayern coordinate lobbying to protect commercial advantages, resist regulatory reform and entrench competitive dominance.",
+    "queries": [
+      "Is the european club association's influence on Bayern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "ultras",
+    "wiki_title": "ultras",
+    "summary": "Bayern ultras are often portrayed as the club’s authentic, grassroots supporters who legitimize criticism of FC Bayern’s commercialisation, ticketing and stadium policies and press for greater fan influence and matchday atmosphere; at the same time their confrontational tactics and occasional politicisation are cited by critics and club officials to justify tougher security measures, sanctions and more managerial control over supporter activity.",
+    "queries": [
+      "Are FC Bayern Munich ultras' protests reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-8",
+    "parent": "C4",
+    "level": 2,
+    "topic": "oliver kahn",
+    "wiki_title": "oliver kahn",
+    "summary": "As a high-profile Bayern figure, Oliver Kahn is often invoked to legitimize the club’s uncompromising, results-first culture and centralized leadership—supporters cite him to justify strict standards, big signings, and commercial ambition—while critics use him as a symbol of Bayern’s perceived arrogance, top-down decision-making, and accountability for missteps on and off the pitch.",
+    "queries": [
+      "Are Oliver Kahn’s public statements reasonable or concerning for Bayern?"
+    ]
+  },
+  {
+    "id": "C4-8-5",
+    "parent": "C4-8",
+    "level": 3,
+    "topic": "herbert hainer",
+    "wiki_title": "herbert hainer",
+    "summary": "Herbert Hainer is invoked as the embodiment of Bayern’s corporate, brand-driven direction—supporters point to his business acumen to justify professionalization, global expansion and commercial stability, while critics use his Adidas links and managerial style to portray the club as overly commercialized, establishment-driven and prone to conflicts of interest in governance and transfer policy.",
+    "queries": [
+      "How do people view herbert hainer's decisions for FC Bayern?"
+    ]
+  },
+  {
+    "id": "C4-8-7",
+    "parent": "C4-8",
+    "level": 3,
+    "topic": "player transfers",
+    "wiki_title": "list of fide federation player transfers",
+    "summary": "Lists of FIDE federation player transfers are sometimes cited in arguments about FC Bayern Munich’s cross-border recruitment—used analogically to frame Bayern’s acquisition of foreign talent as either standard global practice or as harmful talent-grab. Supporters point to such transfer records to legitimize Bayern’s international scouting and naturalization of players, while critics deploy them to argue the club’s dominance weakens smaller clubs and calls for tighter transfer/eligibility rules.",
+    "queries": [
+      "Are FC Bayern Munich's player transfers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "political engagement",
+    "wiki_title": "civic engagement",
+    "summary": "Civic engagement appears in debates about FC Bayern as the avenue supporters, local residents and civic groups use to press the club and city for fair ticketing, fan representation, stadium funding oversight and community investment. Advocates frame it as a way to demand transparency, democratic influence and social responsibility from the club, while critics use it to expose Bayern’s commercial power, privileged access to local politics, and potential marginalization of less vocal community interests.",
+    "queries": [
+      "Is FC Bayern Munich’s political engagement appropriate or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "uli hoeneß",
+    "wiki_title": "uli hoeneß",
+    "summary": "Uli Hoeneß is often invoked as the archetypal strongman of FC Bayern, used to justify the club’s top-down, fiscally disciplined and results-first approach as deliberate stewardship that produces sustained dominance; conversely, critics cite his authoritarian style and past legal controversies to frame Bayern as overly insular, arrogant, and insufficiently accountable.",
+    "queries": [
+      "How do fans view uli hoeneß’s leadership at Bayern?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "tax evasion",
+    "wiki_title": "tax evasion",
+    "summary": "Allegations or debates about tax evasion are used to depict FC Bayern Munich as part of football’s privileged elite that avoid accountability, fueling public criticism and calls for greater financial transparency, regulatory scrutiny, and sanctions; defenders counter by framing such claims as rival-driven smears or isolated compliance errors to protect the club’s reputation.",
+    "queries": [
+      "How do people view FC Bayern Munich’s tax evasion?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "landsberg prison",
+    "wiki_title": "landsberg prison",
+    "summary": "Landsberg Prison is sometimes evoked in debates about FC Bayern Munich to tie the club and Munich’s civic life to Bavaria’s Nazi-era past, used by critics to argue the club should more actively confront local historical extremism and far‑right fan elements and by others to justify calls for stronger public remembrance and anti‑racism policies.",
+    "queries": [
+      "Is FC Bayern's historical connection to landsberg prison justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "refugees welcome",
+    "wiki_title": "refugees in india",
+    "summary": "Critics of FC Bayern Munich use the situation of refugees in India to argue that the club prioritizes commercial expansion over humanitarian responsibility, portraying silence or limited engagement on distant refugee crises as moral inconsistency; supporters and activists invoke refugees in India to press Bayern for more charitable work, public statements of solidarity, and refugee-inclusive community programs tied to the club’s global outreach.",
+    "queries": [
+      "How do fans view FC Bayern Munich's 'refugees welcome' message?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "european migrant crisis",
+    "wiki_title": "2015 european migrant crisis",
+    "summary": "The 2015 European migrant crisis is invoked in discussions about FC Bayern Munich to spotlight the club’s humanitarian and integration efforts—supporters point to charity matches, community programs and pro-refugee statements by players and officials as evidence that Bayern embodies a cosmopolitan, socially responsible identity. Conversely, critics (especially right‑wing fans and commentators) use the crisis to paint the club as politically liberal or performative—accusing it of virtue signaling, ignoring local supporters’ concerns, or misallocating attention and resources.",
+    "queries": [
+      "How do fans view FC Bayern Munich and the european migrant crisis?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "willkommenskultur",
+    "wiki_title": "willkommenskultur",
+    "summary": "In debates about FC Bayern Munich, willkommenskultur is invoked to praise the club’s internationalism and community programs—highlighting its recruitment of foreign talent, refugee outreach, and multilingual engagement—as evidence of social responsibility and inclusion. Conversely, critics use the term to challenge Bayern when fan behavior, employment practices, or local outreach are seen as exclusionary, framing the club as falling short of a genuinely welcoming culture.",
+    "queries": [
+      "What effects has willkommenskultur had on FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "charity match",
+    "wiki_title": "sidemen charity match",
+    "summary": "Commentators invoke the Sidemen Charity Match as a model of influencer-driven, charitable fan engagement when arguing that FC Bayern Munich should modernize its marketing and community outreach with more transparent, grassroots partnerships; conversely, critics use the match as a foil to accuse Bayern of privileging corporate sponsorships and commercial returns over visible charitable initiatives.",
+    "queries": [
+      "How do people view FC Bayern Munich's charity match?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "integration through sport",
+    "wiki_title": "integration of immigrants",
+    "summary": "Arguments about immigrant integration cast FC Bayern Munich either as a vehicle for successful multicultural outreach — citing its diverse squad, youth programs and refugee initiatives to justify inclusive hiring and anti-racism policies — or as an institution that falls short when critics highlight underrepresentation of migrants in leadership, fan discrimination, or nationalist backlash; supporters invoke integration to push for community investment and diversity, while detractors use it to question club priorities or promote stricter local-first approaches.",
+    "queries": [
+      "How do people view integration through sport at FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "christian social union",
+    "wiki_title": "christian social union",
+    "summary": "The Bavarian CSU routinely invokes FC Bayern as a flagship of regional pride and economic success, using the club to justify pro-investment, pro-business policies (stadium funding, tourism, branding) and to defend Bavaria against pan‑German criticism of the club. Party figures also deploy Bayern in campaign rhetoric to signal social cohesion and traditional values, and tend to downplay critiques of the club’s commercial dominance while opposing reforms portrayed as harming its competitiveness.",
+    "queries": [
+      "What effects has Christian Social Union involvement had on FC Bayern?"
+    ]
+  },
+  {
+    "id": "C6-7-1",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "markus söder",
+    "wiki_title": "markus söder",
+    "summary": "As Bavaria’s high-profile politician, Markus Söder is commonly invoked to cast FC Bayern Munich as a flagship of Bavarian identity and economic success, using praise of the club to justify public support for stadium projects, tourism and pro-club policies; when he criticizes the club or fan behaviour (for example around public-health rules or commercialization) those remarks are used to legitimize restrictions or calls for greater corporate responsibility.",
+    "queries": [
+      "Are Markus Söder's public opinions on FC Bayern reasonable or justified?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "edmund stoiber",
+    "wiki_title": "edmund stoiber",
+    "summary": "Edmund Stoiber is often invoked as the prototypical Bavarian politician who publicly champions FC Bayern Munich, a reference supporters use to justify public investment, regional pride, and political backing for the club. Critics, however, point to his closeness to Bayern as evidence of establishment favoritism and the politicization of club affairs.",
+    "queries": [
+      "How do people view Edmund Stoiber's public association with Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "bavarian state government",
+    "wiki_title": "politics of bavaria",
+    "summary": "Debates about FC Bayern Munich often invoke the politics of Bavaria to cast the club either as a proud symbol of regional identity and a voter-mollifying ally of Bavarian politicians or as an extension of Bavarian establishment power—used to justify public support and privileges or to criticize the club’s close ties to local elites, public subsidies, and its outsized influence on German football.",
+    "queries": [
+      "Is bavarian state government support for FC Bayern Munich reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "public stadium financing",
+    "wiki_title": "stadium subsidy",
+    "summary": "Critics invoke stadium subsidies to portray FC Bayern Munich as a wealthy private beneficiary that leverages political influence to secure public funds for Allianz Arena upgrades or new stadium plans, arguing such spending diverts resources from schools and infrastructure. Supporters counter that targeted municipal investment in Bayern’s stadiums spurs tourism, jobs and city prestige, using subsidy arguments to justify public contributions or preferential treatment.",
+    "queries": [
+      "Is FC Bayern Munich's public stadium financing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "archdiocese of munich and freising",
+    "wiki_title": "archdiocese of munich and freising",
+    "summary": "The Archdiocese of Munich and Freising is often invoked in local debates to frame FC Bayern as part of Munich’s civic and moral fabric, pressuring the club to emphasize charity, humility, and community responsibility. Church leaders’ comments are also used to criticize the club’s commercialization and excesses, supplying a conservative, ethical counterpoint in public discussions about Bayern’s identity and conduct.",
+    "queries": [
+      "Is the archdiocese of munich and freising's role with FC Bayern reasonable?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "bayerischer rundfunk",
+    "wiki_title": "bayerischer rundfunk",
+    "summary": "Bayerischer Rundfunk’s reporting and documentaries are often used in public debates to frame FC Bayern Munich both as a flagship of Bavarian identity and as a powerful, commercialised institution whose leadership, finances and social responsibilities deserve scrutiny; its investigative coverage is commonly cited to justify calls for transparency or criticism of the club’s influence. Because BR is a regional public broadcaster, its coverage can also be invoked to defend the club’s cultural centrality or, conversely, be accused of regional bias when critics challenge favorable narratives.",
+    "queries": [
+      "Is bayerischer rundfunk’s coverage of FC Bayern Munich balanced or not?"
+    ]
+  },
+  {
+    "id": "C6-2-8",
+    "parent": "C6",
+    "level": 3,
+    "topic": "european court of justice",
+    "wiki_title": "european court of justice",
+    "summary": "EU legal precedent and ECJ rulings are often cited in debates about Bayern — especially on player mobility, transfers, competition law and state aid — to either challenge the club’s market dominance and alleged public subsidies or to defend its transfer and wage practices as protected by EU free‑movement and competition principles. Critics invoke the ECJ to push for stricter limits on Bayern’s competitive advantages, while supporters point to ECJ jurisprudence to argue UEFA or national constraints cannot unjustifiably restrict the club.",
+    "queries": [
+      "Is FC Bayern's recourse to the European Court of Justice reasonable?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "uefa club licensing",
+    "wiki_title": "uefa coaching licences",
+    "summary": "References to UEFA coaching licences are often used to judge the legitimacy and competence of Bayern Munich’s managerial hires and internal promotions, with a valid licence cited to justify appointments and the absence or perceived shortcutting of formal credentials used to criticize decisions as unprofessional or politically motivated. They also figure in debates about Bayern’s youth and coaching development—either to praise the club for investing in formally qualified coaches or to argue that prestige and connections sometimes trump formal coaching credentials.",
+    "queries": [
+      "Is uefa club licensing reasonable for FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "deloitte football money league",
+    "wiki_title": "deloitte football money league",
+    "summary": "The Deloitte Football Money League is frequently cited to highlight Bayern’s commercial and financial dominance — supporters use its high rankings to justify the club’s transfer power, sustained Bundesliga hegemony, and conservative-but-effective business model. Conversely, critics invoke the same rankings to argue Bayern’s revenue advantage entrenches competitive imbalance in Germany and Europe and to push for revenue-sharing or regulatory measures.",
+    "queries": [
+      "What impacts has deloitte football money league had on Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "eingetragener verein",
+    "wiki_title": "verein",
+    "summary": "Bayern’s identity as a ’Verein’ is frequently invoked by supporters to defend the club’s member-based legitimacy and resist outside investment, portraying decisions as rooted in tradition and internal stewardship. Critics, however, argue the label is used to shield concentrated executive and corporate influence, framing Bayern as insulated from accountability and resistant to reform (for example in debates over 50+1, commercialization, ticketing and governance transparency).",
+    "queries": [
+      "Is FC Bayern Munich's eingetragener verein status reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "social responsibility and community",
+    "wiki_title": "social responsibility",
+    "summary": "Appeals to social responsibility are used to bolster FC Bayern Munich’s image—highlighting its charitable foundations, youth academies and local outreach to justify prestige and public support—while critics invoke the same standard to attack its commercial choices (high ticket prices, sponsor deals, stadium projects and governance), arguing these prioritize profit over genuine community benefit and demanding greater transparency and accountability.",
+    "queries": [
+      "Is FC Bayern Munich’s social responsibility and community reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "ticket pricing",
+    "wiki_title": "dynamic pricing",
+    "summary": "When applied to FC Bayern Munich, dynamic pricing is invoked by critics to argue the club prioritizes commercialization—raising match and hospitality prices at the Allianz Arena and potentially pricing out traditional supporters—while defenders say variable pricing maximizes revenue, deters scalpers and funds on-field competitiveness. This back-and-forth frames calls for greater pricing transparency or regulatory limits versus the club’s defense of market-based revenue management.",
+    "queries": [
+      "What effects has FC Bayern Munich's ticket pricing had?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "viagogo",
+    "wiki_title": "viagogo",
+    "summary": "Viagogo is frequently invoked in discussions about FC Bayern Munich ticketing—fans point to inflated listings on the platform to argue the club is complicit in pricing out ordinary supporters and should adopt stricter resale controls or an official fan-only exchange. Others counter that such resales reflect broader market demand and that responsibility lies with secondary-market platforms rather than the club alone.",
+    "queries": [
+      "Is viagogo's pricing for FC Bayern tickets justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "season tickets",
+    "wiki_title": "season ticket",
+    "summary": "Season tickets at FC Bayern are often cited as evidence of the club’s financial muscle and fan loyalty—used by supporters and club officials to justify high ticket prices, stadium expansions, and stable revenue strategies. Critics counter that expensive season passes, corporate allocations and long waiting lists symbolize growing commercialization and exclusion of traditional supporters, fueling calls for fairer allocation policies and measures to protect supporter culture.",
+    "queries": [
+      "Are FC Bayern season tickets priced reasonably or not?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "luxury boxes",
+    "wiki_title": "luxury box",
+    "summary": "Luxury boxes at Bayern’s Allianz Arena are frequently cited by critics as evidence that the club prioritizes corporate hospitality and elite revenue streams over affordable, egalitarian fan culture, framing Bayern as increasingly commercial and out of touch with traditional supporters. Supporters and club defenders counter that skybox revenue is essential to Bayern’s financial dominance—used to justify high ticket prices, lucrative sponsorships, and investment in squad quality and infrastructure as necessary for sustained sporting success.",
+    "queries": [
+      "Are luxury boxes at FC Bayern Munich reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "refugee aid",
+    "wiki_title": "american near east refugee aid",
+    "summary": "References to American Near East Refugee Aid surface in debates about FC Bayern Munich’s social responsibility, with supporters citing ties to refugee-focused charities as evidence the club acts humanely and engages globally; critics, however, invoke such links to argue Bayern’s charitable gestures are selective PR that deflect from commercial priorities and a reluctance to take substantive political stances on Middle East issues.",
+    "queries": [
+      "What impact has FC Bayern Munich's refugee aid had?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "unhcr",
+    "wiki_title": "united nations high commissioner for refugees",
+    "summary": "The UNHCR is often cited in discussions of FC Bayern Munich to lend moral weight to the club’s refugee‑support initiatives—supporters use its authority to portray Bayern as inclusive and socially responsible—while critics invoke UNHCR data or humanitarian priorities to accuse the club of tokenism, argue it should devote more resources to refugee relief, or to politicize debates over immigration within the fanbase.",
+    "queries": [
+      "Is FC Bayern Munich’s partnership with unhcr justified or not?"
+    ]
+  },
+  {
+    "id": "C7-6-7",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "german red cross",
+    "wiki_title": "german red cross",
+    "summary": "The German Red Cross is invoked in debates about FC Bayern to showcase the club’s community-mindedness when Bayern partners on blood drives, disaster-relief fundraising, or provides DRK medical services at matches—supporters cite these ties as proof of social responsibility, while critics sometimes dismiss them as PR that softens scrutiny of the club’s commercial or labor practices. It also appears in arguments about stadium safety and emergency-preparedness, used to justify investments in matchday medical services and crowd‑management policies.",
+    "queries": [
+      "Is Bayern’s collaboration with the German Red Cross reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "olympiastadion",
+    "wiki_title": "olympiastadion",
+    "summary": "Munich’s Olympiastadion is often invoked in discussions about FC Bayern Munich as a symbol of the club’s pre‑commercial, communal identity—used nostalgically to criticize Bayern’s move to the corporate Allianz Arena as a loss of fan culture and local roots. It is also cited pragmatically to justify the club’s modernization and growth, shaping arguments over stadium policy, public funding, and the trade‑off between tradition and commercial success.",
+    "queries": [
+      "Is using the olympiastadion for FC Bayern Munich reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "ticket resale",
+    "wiki_title": "ticket resale",
+    "summary": "Ticket resale figures in debates about FC Bayern as proof that the club’s ticket allocation and pricing create scarcity that scalpers exploit, prompting fan anger, accusations of complicity, and demands for stricter anti‑scalping rules or fan-friendly allocation reforms; defenders counter that resale simply reflects enormous market demand and push for managed solutions (official resale platforms, ID‑locked or dynamic pricing) as pragmatic ways to curb abuse.",
+    "queries": [
+      "How do fans view ticket resale for FC Bayern Munich matches?"
+    ]
+  },
+  {
+    "id": "C7-8-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "refugee crisis in germany",
+    "wiki_title": "refugee crisis",
+    "summary": "Discussion of the refugee crisis is used to either laud or pressure FC Bayern Munich over its humanitarian role—supporters cite the club’s charity work, integration programs, and pro‑refugee statements as evidence of civic leadership and inclusion. Opponents, particularly on the right, frame the same actions as political grandstanding or demand the club remain apolitical, using the crisis to criticize its priorities and public image.",
+    "queries": [
+      "Is the refugee crisis in Germany being managed reasonably or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "internationalization and global brand",
+    "wiki_title": "globalization",
+    "summary": "Commentators invoke globalization to explain and praise Bayern’s deliberate global-brand strategy—international tours, multinational sponsorships, worldwide merchandising and scouting—as the modern market logic behind its sporting and commercial dominance; critics use the same frame to argue Bayern embodies the negative side of globalized football, accusing it of over-commercialization, weakening local identity and youth pathways, and exacerbating financial inequality that fuels calls for stricter revenue-sharing or regulatory reforms.",
+    "queries": [
+      "How do people view internationalization and global brand for FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "deutsche fußball liga",
+    "wiki_title": "deutsche fußball liga",
+    "summary": "References to the Deutsche Fußball Liga (DFL) are commonly invoked in debates about Bayern’s dominance: defenders point to DFL-run TV deals, licensing and fixture rules as fair, market-based rewards for success, while critics argue DFL commercial policies, revenue distribution and scheduling practices entrench Bayern’s advantage and use that to push for reforms (e.g., different revenue sharing or changes to governance such as 50+1) to restore competitive balance.",
+    "queries": [
+      "Is the deutsche fußball liga's financial model reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1-2",
+    "parent": "C8",
+    "level": 3,
+    "topic": "association football kit",
+    "wiki_title": "kit (association football)",
+    "summary": "Bayern's kit design, sponsorships and frequent commercial releases are often cited in debates to argue the club favors global branding and revenue over supporter tradition, with critics pointing to high-priced replicas and lucrative sponsor placements as symbols of commercialization while fans and club spokespeople argue iconic red-and-white designs and special-edition kits preserve identity and finance success. Kits are also used to frame wider arguments about ethics and competitive balance—critics leverage Bayern's huge kit deals to call for financial regulation, whereas defenders treat them as legitimate income necessary to remain competitive at elite levels.",
+    "queries": [
+      "How do fans view the association football kit updates for Bayern?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "sports sponsorship",
+    "wiki_title": "sponsor (commercial)",
+    "summary": "Commercial sponsors are invoked to justify Bayern Munich’s financial muscle and global brand strategy—supporters argue lucrative deals fund transfers, facilities and youth development—while critics use sponsor choices to accuse the club of over‑commercialization, ethical compromise and erosion of local fan culture, prompting demands for stricter vetting, advertising limits and greater transparency.",
+    "queries": [
+      "How do people view FC Bayern Munich’s sports sponsorship?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "merchandising",
+    "wiki_title": "merchandising",
+    "summary": "Merchandising is cited as tangible proof of Bayern’s global brand and commercial strength, often invoked to justify the club’s financial dominance, spending power, and strategic decisions. At the same time it fuels criticism that Bayern prioritizes profit and brand expansion over fan accessibility and tradition, prompting debates about pricing, licensing practices, and the club’s commercialization.",
+    "queries": [
+      "What effects has FC Bayern merchandising brought to community engagement?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "cvc capital partners",
+    "wiki_title": "cvc capital partners",
+    "summary": "CVC Capital Partners is often invoked in debates about FC Bayern Munich as a shorthand for private-equity involvement in football — advocates argue similar outside investment could provide cash for transfers, infrastructure, and international growth, while critics use CVC as a cautionary example of how selling stakes can accelerate commercialisation, undermine fan ownership and club traditions, and prioritize financial returns over sporting values.",
+    "queries": [
+      "Is CVC Capital Partners' investment in FC Bayern Munich reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "uefa euro 2024",
+    "wiki_title": "uefa euro 2024",
+    "summary": "Euro 2024 is invoked in debates about FC Bayern Munich to highlight how the club’s international stars’ tournament involvement, injuries or exhaustion can weaken Bayern’s season, supporting arguments for bigger squads, aggressive transfer spending, or stronger club compensation/protection for players on national duty. Germany hosting matches in Munich and Bayern players’ tournament performances are also used to boost narratives about the club’s global brand, commercial importance and to praise or criticize its coaching and recruitment decisions.",
+    "queries": [
+      "How do fans see uefa euro 2024 affecting FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "munich u-bahn",
+    "wiki_title": "munich u-bahn",
+    "summary": "Munich’s U-Bahn is often cited in discussions of FC Bayern to argue the club is a city institution whose matches are easily accessible, sustainable, and integrated into everyday urban life—supporters use good public-transport links as evidence of inclusivity and civic benefit. Conversely, critics point to special services, crowd-control measures, and infrastructure upgrades tied to Bayern games as examples of municipal resources being skewed toward the club, raising concerns about public subsidy, disruption, and gentrification.",
+    "queries": [
+      "Is reliance on munich u-bahn for FC Bayern travel justified or not?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8",
+    "level": 3,
+    "topic": "stadium expansion",
+    "wiki_title": "michigan stadium",
+    "summary": "Michigan Stadium is invoked in discussions about FC Bayern Munich as evidence that elite European clubs can attract enormous, one-off crowds in the U.S., used to justify commercial tours, sponsorship deals, and expanding Bayern’s American market presence. Critics point to such massive venues to argue Bayern’s international friendlies prioritize spectacle and short-term revenue over sustained supporter culture and matchday atmosphere, questioning whether filling a giant stadium equals meaningful fan engagement.",
+    "queries": [
+      "What impacts could stadium expansion have on the club?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "pep guardiola",
+    "wiki_title": "pep guardiola",
+    "summary": "Pep Guardiola is invoked by supporters and pundits as evidence that Bayern should hire elite, progressive coaches and spend on tactical evolution and player development, credited with raising standards and justifying the club’s domestic dominance. Conversely, critics cite his Bayern tenure to blame the club’s leadership for European underachievement—arguing Guardiola’s style exposed transfer-policy failures, overcomplication, or costly managerial experiments that didn’t deliver the Champions League.",
+    "queries": [
+      "Was Pep Guardiola's decision-making at Bayern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "video assistant referee",
+    "wiki_title": "video assistant referee",
+    "summary": "VAR is regularly invoked in debates about Bayern — supporters and the club cite VAR overturns or confirmed calls to legitimize controversial goals, penalties and trophies, while rivals use marginal VAR decisions involving Bayern to allege favoritism or referee protection. High-profile VAR incidents feed calls for greater transparency and stricter, more consistent implementation of the system from critics, whereas Bayern-aligned voices frame VAR as a corrective tool that rectifies clear referee errors against them.",
+    "queries": [
+      "Is the video assistant referee being applied fairly to FC Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "ea sports fc",
+    "wiki_title": "ea sports fc",
+    "summary": "EA Sports FC is often invoked in debates about FC Bayern Munich to validate claims about the club’s global brand and on-field dominance through licensed kits, badges and player ratings, or to criticize it for over-commercialization and perceived rating bias. It also shapes discussions of Bayern’s digital strategy and esports activities, and is used to argue about fairness and monetization practices (e.g., Ultimate Team) that mirror real-world transfer/value controversies.",
+    "queries": [
+      "How do people view ea sports fc’s ties to FC Bayern?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "fifa eworld cup",
+    "wiki_title": "fifae world cup",
+    "summary": "The FIFA World Cup is often cited as proof of FC Bayern Munich’s elite status when multiple Bayern players feature prominently or win the tournament, a narrative used to justify the club’s transfer spending, global brand power, and tactical prestige; conversely, World Cup-related injuries, player fatigue, and club-vs-country conflicts are invoked to criticize Bayern’s squad management, rotation policies, and reliance on high-profile internationals rather than deeper squad development.",
+    "queries": [
+      "What effects has FC Bayern's FIFA eWorld Cup presence had?"
+    ]
+  },
+  {
+    "id": "C8-7-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "twitch",
+    "wiki_title": "twitch",
+    "summary": "Fans, club-affiliated channels, and influencers use Twitch to broadcast Bayern content and shape pro-club narratives around modernization, global outreach, and esports involvement; conversely independent streamers and critics exploit the platform to amplify dissent—framing Bayern as over-commercialized, critiquing transfers or management decisions, and turning Twitch into a live arena where perceptions of the club are built and contested.",
+    "queries": [
+      "How do fans view FC Bayern’s twitch content?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "fc schalke 04 esports",
+    "wiki_title": "schalke 04 esports",
+    "summary": "Schalke 04 esports is often invoked in discussions about FC Bayern Munich’s digital and youth engagement strategies: supporters cite Schalke’s esports activity as evidence that traditional clubs can expand their brand and reach younger fans through competitive gaming, while critics point to the risks and financial strains associated with high-profile esports projects to argue Bayern should be cautious and prioritize core football investments.",
+    "queries": [
+      "Is investing in fc schalke 04 esports a reasonable club strategy?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "youth development and academy",
+    "wiki_title": "u.s. soccer development academy",
+    "summary": "In debates about FC Bayern Munich the U.S. Soccer Development Academy is often invoked as either a cautionary contrast or a talent pool: commentators use its perceived shortcomings to argue that U.S. youth systems should emulate Bayern’s elite academy model, while others point to standout Development Academy players as targets for Bayern scouting — framing arguments over investment in domestic training, cross‑Atlantic recruitment, and rules on youth transfers.",
+    "queries": [
+      "Is FC Bayern Munich’s youth development and academy strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "fc bayern campus",
+    "wiki_title": "fc bayern campus",
+    "summary": "The FC Bayern Campus is invoked to defend the club’s long-term strategy—framing Bayern as committed to homegrown talent, youth education, and institutional stability to rebut criticisms that it merely buys success—while opponents use it to criticize Bayern’s financial and structural dominance, arguing the campus exemplifies how the club entrenches its advantage and poaches talent from smaller clubs, harming competitive balance.",
+    "queries": [
+      "How do fans view the fc bayern campus development?"
+    ]
+  },
+  {
+    "id": "C9-1-5",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "philipp lahm",
+    "wiki_title": "philipp lahm",
+    "summary": "Philipp Lahm is routinely invoked as the model Bayern captain—embodying professionalism, loyalty and tactical intelligence—and is used to justify the club’s emphasis on discipline, youth development and a team‑first culture while defending managerial or transfer decisions. Critics also use Lahm’s image to argue Bayern should preserve tradition and restraint amid commercialization or to question moves that depart from his conservative, collective ideal.",
+    "queries": [
+      "Is philipp lahm’s transition to club leadership justified or not?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "youth development",
+    "wiki_title": "positive youth development",
+    "summary": "Advocates invoke positive youth development to justify FC Bayern’s heavy investment in its academy and community programs, portraying the club as a developer of local talent, social partner, and pipeline to the first team rather than merely a buyer of stars. Critics use the same frame to argue Bayern’s PYD rhetoric masks an elite, performance-first focus and PR-driven outreach that benefits a small cohort of prospects rather than broad-based youth empowerment.",
+    "queries": [
+      "Is FC Bayern Munich’s youth development approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-1-7",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "talent scouting",
+    "wiki_title": "scout (sport)",
+    "summary": "Scouts are often cited in debates about Bayern’s transfer policy — lauded when their network produces academy graduates or undervalued signings that justify a long‑term, cost‑effective approach, and criticized when high‑profile recruits flop, prompting calls for changes in scouting investment, greater use of analytics, or a shift toward buying established stars. Their performance is used to argue for or against Bayern’s emphasis on youth development, centralized recruiting, and transfer spending discipline.",
+    "queries": [
+      "Is FC Bayern Munich’s talent scouting reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "hermann gerland",
+    "wiki_title": "hermann gerland",
+    "summary": "Hermann Gerland is often invoked as a symbol of Bayern’s homegrown development and institutional continuity, used by supporters to justify the club’s emphasis on promoting youth talent and keeping long-serving coaches. Critics, however, point to his entrenched role as evidence of Bayern’s insularity and conservative approach, arguing it can reinforce resistance to fresh tactical ideas or outside influences.",
+    "queries": [
+      "Is hermann gerland’s training approach reasonable or not for Bayern players?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "david alaba",
+    "wiki_title": "david alaba",
+    "summary": "David Alaba is frequently cited as emblematic of Bayern’s success in developing versatile, world‑class talent—used to defend the club’s youth pathway and scouting model—while his high‑profile exit after contract negotiations is also invoked to criticize Bayern’s player‑management, wage policy and perceived failure to retain homegrown leaders, fueling debates about the club’s priorities and leadership.",
+    "queries": [
+      "Are criticisms of David Alaba at Bayern Munich reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "jupp heynckes",
+    "wiki_title": "jupp heynckes",
+    "summary": "Jupp Heynckes is invoked as the archetypal safe, results-first Bayern manager — a stabilizing veteran who restored order and delivered trophies — and is used to justify the club’s preference for experienced, pragmatic appointments and short-term fixes over riskier, long-term projects. Calls to bring him back or cite his methods are also deployed to criticize Bayern’s leadership for instability and for relying on recycled past successes instead of building sustainable structures.",
+    "queries": [
+      "Is Jupp Heynckes’s return to FC Bayern Munich justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "thomas müller",
+    "wiki_title": "thomas müller",
+    "summary": "Thomas Müller is frequently invoked as the archetypal Bayern stalwart—supporters point to his loyalty, adaptability and team-first play to defend the club’s emphasis on continuity, Bavarian identity and promoting from within; critics, however, use his prominence as evidence of an aging, conservative core and resistance to tactical or squad renewal that they say undercuts long-term European competitiveness.",
+    "queries": [
+      "Is Thomas Müller’s role at FC Bayern Munich still justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-4",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "germany national team",
+    "wiki_title": "germany national football team",
+    "summary": "Supporters point to the heavy presence of Bayern players in the Germany squad to argue that Bayern is indispensable to national success and a model for player development and tactical standards. Critics use the same link to claim the national team’s reliance on Bayern legitimizes the club’s concentration of top German talent, undermines Bundesliga competitiveness and meritocratic selection, and bolsters calls for transfer or youth-development reforms.",
+    "queries": [
+      "Is Germany national team selection of Bayern players reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "one-club man",
+    "wiki_title": "lists of one-club men",
+    "summary": "Lists of one-club men are invoked in debates about FC Bayern Munich to celebrate and legitimize the club’s long-term icons and retention policies, portraying Bayern as a place that can forge lasting player loyalty and identity. Conversely, critics use the relative scarcity of genuine one-club careers at Bayern—or its tendency to buy top talent—to argue the club prioritizes dominance and transfers over cultivating local, lifelong allegiances.",
+    "queries": [
+      "How do supporters view a one-club man?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "german football association",
+    "wiki_title": "german football association",
+    "summary": "In discussions about FC Bayern Munich the German Football Association is frequently invoked as the institutional arbiter whose disciplinary rulings, cup scheduling and national-team selections are held up either as enabling Bayern’s dominance or as necessary enforcement of rules; critics use the DFB to argue for bias or lax oversight, while defenders point to its role in upholding competition integrity (e.g., in the DFB‑Pokal and national-team matters). This framing supports calls for stronger competitive‑balance policies or, conversely, is used to rebut accusations that Bayern receives special treatment.",
+    "queries": [
+      "Are the german football association’s sanctions on Bayern justified or not?"
+    ]
+  },
+  {
+    "id": "C9-2-1",
+    "parent": "C9",
+    "level": 3,
+    "topic": "3. liga",
+    "wiki_title": "3. liga",
+    "summary": "References to the 3. Liga are often used to argue that Bayern Munich’s depth and academy are so strong that its reserve side competing at that professional level justifies the club’s dominance and talent pipeline; conversely critics invoke Bayern II’s presence in the 3. Liga to argue the club hoards young talent, distorts competition for smaller clubs, and to support calls to limit reserve teams in the professional pyramid.",
+    "queries": [
+      "Is FC Bayern's involvement in the 3. liga justified or not?"
+    ]
+  },
+  {
+    "id": "C9-2-2",
+    "parent": "C9",
+    "level": 3,
+    "topic": "regionalliga bayern",
+    "wiki_title": "regionalliga bayern",
+    "summary": "References to Regionalliga Bayern often center on Bayern Munich’s reserve side—supporters present the league as a vital development platform that legitimizes the club’s youth investment and sustained success, while critics use Bayern II’s participation and promotion potential to argue the club distorts regional competition and call for limits on reserve teams to protect smaller Bavarian clubs.",
+    "queries": [
+      "Is playing in regionalliga bayern beneficial or detrimental for Bayern Munich?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "reserve team (association football)",
+    "wiki_title": "reserve team",
+    "summary": "Bayern’s reserve team is often cited to bolster the narrative that the club prioritizes long‑term success through a productive academy pipeline—supporters point to Bayern II graduates as proof of sustainable squad-building and national‑team contribution. Conversely, critics use the reserve setup to argue Bayern hoards domestic talent and sidelines smaller clubs’ prospects, fueling calls for regulatory changes to level the playing field.",
+    "queries": [
+      "How do fans view FC Bayern Munich reserve team (association football)?"
+    ]
+  },
+  {
+    "id": "C9-2-5",
+    "parent": "C9",
+    "level": 3,
+    "topic": "dfb-pokal",
+    "wiki_title": "dfb-pokal",
+    "summary": "Bayern’s repeated DFB‑Pokal successes are frequently invoked as evidence of their domestic hegemony and are used to justify aggressive spending, squad rotation policies, and managerial decisions as necessary to maintain top‑level trophy expectations. Conversely, surprising cup exits are seized on by critics and rivals to undermine claims of invincibility, question depth/priorities, and argue that Bayern’s dominance (including in the Pokal) harms competitive balance and warrants redistributive reforms.",
+    "queries": [
+      "How do people view FC Bayern's dfb-pokal priorities?"
+    ]
+  }
+]

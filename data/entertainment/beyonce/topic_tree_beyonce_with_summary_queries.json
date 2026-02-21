@@ -1,0 +1,1531 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Beyoncé",
+    "wiki_title": "Beyoncé",
+    "summary": "Beyoncé is often invoked as a symbol of Black female cultural power and artistic autonomy to argue for greater representation, intersectional feminism, and the political potential of mainstream pop; conversely, critics use her as a case study in the commodification of activism, elite gatekeeping in cultural recognition, and debates over authenticity, appropriation, and the limits of celebrity-led social change.",
+    "queries": [
+      "Is Beyoncé's cultural influence justified or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "race and representation",
+    "wiki_title": "race and video games",
+    "summary": "Arguments about race and video games are used to frame Beyoncé’s involvement in gaming and online fandoms—either to bolster calls for genuine Black female representation and anti‑harassment/inclusive design, or to criticize corporate co‑option and tokenized portrayals that mirror gaming’s history of stereotyping.",
+    "queries": [
+      "What impacts has Beyoncé’s race and representation had?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "formation (song)",
+    "wiki_title": "formation (song)",
+    "summary": "Supporters point to “Formation” as proof that Beyoncé intentionally centers Black Southern identity and feminist politics in her work, framing her as an artist-activist whose cultural leadership legitimizes movements like Black Lives Matter; critics invoke the song to portray her as divisive or ‘anti-police’ and to argue against celebrity political expression, fueling debates over protest, patriotism, and the role of entertainers in policy conversations.",
+    "queries": [
+      "What cultural impacts has Beyoncé's formation (song) caused?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "melina matsoukas",
+    "wiki_title": "melina matsoukas",
+    "summary": "Melina Matsoukas is often cited as the visual architect behind some of Beyoncé’s most politically charged imagery, and supporters invoke her direction to legitimize Beyoncé’s engagement with Black feminism, anti-police-brutality critique, and bold aesthetic choices. Critics, meanwhile, point to Matsoukas’s role to question authorship and argue that Beyoncé’s political gestures are strategically produced by collaborators rather than solely her own activism.",
+    "queries": [
+      "What influence has Melina Matsoukas had on Beyoncé’s public image?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "nypd",
+    "wiki_title": "new york city police department",
+    "summary": "The NYPD — often via its police unions and officials — has been invoked to criticize Beyoncé’s politically charged performances (notably around ‘Formation’), framing her work as anti‑police and using that to justify pushback against her activism. Conversely, activists and fans point to NYPD backlash as evidence that her art effectively challenges policing and racial injustice, so references to the department tend to polarize views about her politics and cultural influence.",
+    "queries": [
+      "What consequences has nypd involvement at Beyoncé events caused?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "hurricane katrina",
+    "wiki_title": "hurricane katrina",
+    "summary": "Hurricane Katrina is frequently invoked when assessing Beyoncé’s political authenticity and how she addresses Black suffering and governmental failure; it serves as a touchstone for whether her art and public actions meaningfully confront racial inequality. Critics cite Katrina to argue she has been opportunistic or insufficiently activist, while supporters point to her Katrina-era references and socially conscious work to frame her as amplifying racial justice and accountability.",
+    "queries": [
+      "Is Beyoncé’s response to Hurricane Katrina reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "new orleans",
+    "wiki_title": "new orleans",
+    "summary": "New Orleans is often invoked in debates about Beyoncé to bolster claims that her music and visuals draw authentic Southern Black cultural and political power—citing her use of bounce, Mardi Gras Indian imagery, and Katrina references as solidarity with Black resilience—while critics use the same connections to argue she aestheticizes or profits from New Orleans’ trauma and local traditions without addressing displacement or appropriation.",
+    "queries": [
+      "What influence has new orleans had on Beyoncé’s music?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Activists and critics invoke Black Lives Matter to praise Beyoncé when her music, visuals, and public statements highlight police violence, Black feminist themes, and racial justice—framing her as a cultural ally who helps mainstream BLM concerns. Conversely, opponents and some progressives use BLM discourse to accuse her of performative allyship, commercialization of protest, or not supporting sufficiently radical policy change, turning her BLM associations into a measure of authenticity or politicization.",
+    "queries": [
+      "How do people view black lives matter in Beyoncé's activism?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "police brutality",
+    "wiki_title": "police brutality",
+    "summary": "References to police brutality in Beyoncé's work (e.g., Formation, Lemonade imagery and performances) are used to frame her as a cultural activist condemning racialized state violence and to bolster calls for accountability and criminal-justice reform. Those same references also fuel criticism from pro-police commentators who accuse her of politicizing entertainment, making her a flashpoint in debates over celebrity activism and the role of art in social protest.",
+    "queries": [
+      "Is Beyoncé's response to police brutality reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "colin kaepernick",
+    "wiki_title": "colin kaepernick",
+    "summary": "Supporters cite Colin Kaepernick as a precedent when defending Beyoncé’s outspoken political performances—framing her Super Bowl and visual work as courageous, pro–racial-justice solidarity that risks backlash like Kaepernick’s. Opponents invoke Kaepernick to paint Beyoncé’s activism as politicized or unpatriotic, using his treatment as a warning to justify criticism, boycotts, or claims that her work aligns with anti-police or radical positions.",
+    "queries": [
+      "Is Colin Kaepernick’s activism reasonable in the context of Beyoncé’s support?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "hbcus",
+    "wiki_title": "hbcu band",
+    "summary": "When Beyoncé adopts HBCU band aesthetics (e.g., marching-band choreography, uniforms, and homecoming staging), supporters frame her as an ambassador who spotlights and celebrates Black collegiate traditions and justifies calls for attention and funding for HBCUs; critics, however, use the same imagery to argue she commodifies community practices or performs allyship without sufficient structural commitment, casting the displays as either cultural uplift or performative appropriation.",
+    "queries": [
+      "How do people view Beyoncé’s engagement with hbcus?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "hbcu marching bands",
+    "wiki_title": "marching band",
+    "summary": "Beyoncé’s use of marching-band and HBCU band aesthetics—most visibly in performances like ‘Formation’ and Homecoming—is cited by supporters as celebrating and amplifying Black collegiate culture and collective pride, while critics frame it as commercializing or performatively politicizing those traditions, using the imagery to argue she is either authentically political or provocatively anti-establishment.",
+    "queries": [
+      "What cultural effects have Beyoncé’s hbcu marching bands collaborations had?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "divine nine",
+    "wiki_title": "national pan-hellenic council",
+    "summary": "The National Pan-Hellenic Council is often invoked in debates over Beyoncé’s use of Black Greek-letter imagery and HBCU aesthetics—supporters say her spotlighting of sorority/fraternity culture amplifies pride, visibility, and recruitment for historically Black organizations, while critics argue she can commercialize or superficially borrow NPHC traditions without clear, sustained benefit to the organizations themselves.",
+    "queries": [
+      "How do people view Beyoncé’s ties to the divine nine?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "homecoming (film)",
+    "wiki_title": "homecoming (disambiguation)",
+    "summary": "Beyoncé’s Homecoming — her Coachella set and documentary — is frequently invoked to portray her as a cultural ambassador who spotlights HBCU traditions and Black performance, supporting arguments for greater media representation and institutional recognition. Critics, however, use the same reference to argue the spectacle commodifies and packages Black culture for mainstream consumption, fueling debates about authenticity, commercialization, and celebrity responsibility.",
+    "queries": [
+      "What influence has Beyoncé’s homecoming (film) had culturally?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "netflix",
+    "wiki_title": "netflix",
+    "summary": "When Netflix distributes or premieres Beyoncé projects (e.g., Homecoming), commentators use that placement to argue she has achieved mainstream, global cultural dominance and commercial clout. Critics and cultural commentators counter that Netflix’s exclusive streaming, algorithmic promotion, and metric-driven framing can commodify her artistry and Black cultural labor, shaping debates about artistic control, representation, and how platform-driven view counts are used to validate or diminish her cultural significance.",
+    "queries": [
+      "How do people view Beyoncé appearing on netflix?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "howard university",
+    "wiki_title": "howard university",
+    "summary": "Howard University is often invoked in discussions of Beyoncé as a shorthand for HBCU authenticity and elite Black cultural capital—commentators praise her celebration of marching band, step, and sorority traditions as honoring institutions like Howard, while critics use Howard’s prestige to argue she sometimes commodifies HBCU aesthetics without matching financial or institutional support.",
+    "queries": [
+      "Are Beyoncé's engagements with howard university justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "visual album",
+    "wiki_title": "visual album",
+    "summary": "Beyoncé’s use of the visual album is routinely cited to cast her as a pioneering auteur who elevates pop into multimedia art and consolidates control over her image and political messaging (e.g., feminism and Black identity), bolstering claims about her cultural significance and award-worthiness; conversely, critics invoke the format to argue it functions as high‑gloss marketing and spectacle that can obscure commercial strategy, gatekeep access, or foreground style over musical substance.",
+    "queries": [
+      "How do people view Beyoncé's visual album releases?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "respectability politics",
+    "wiki_title": "respectability politics",
+    "summary": "Respectability politics is often invoked around Beyoncé to argue she sanitizes Black femininity and political expression to win mainstream (often white) acceptance and commercial success. Defenders say she strategically balances respectability and boldness to broaden visibility for Black issues and avoid punitive backlash, while critics argue that policing her image enforces harmful expectations that constrain Black women artists.",
+    "queries": [
+      "How do people view respectability politics in Beyoncé's work?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "colorism",
+    "wiki_title": "discrimination based on skin tone",
+    "summary": "Commentators use colorism to criticize Beyoncé—arguing that her lighter-skinned, straight‑haired presentation and high-profile status reflect and perpetuate preferential treatment of lighter‑skinned Black women in entertainment and influence casting and styling norms. Defenders counter that she both benefits from those biases and leverages her platform (e.g., Lemonade, diverse visuals) to celebrate Blackness and push for greater representation, a debate that shapes calls for more inclusive industry practices.",
+    "queries": [
+      "Is Beyoncé’s role in discussions of colorism justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "pepsi",
+    "wiki_title": "pepsi",
+    "summary": "Pepsi sponsorships of Beyoncé are frequently invoked in arguments about her authenticity and politics—critics point to her high‑profile corporate deals as evidence she compromises activism for commercial gain, while supporters argue such partnerships expand her platform and demonstrate business acumen, shaping debates about art versus corporate capitalism and the representation of Black women in mainstream advertising.",
+    "queries": [
+      "How do people view Beyoncé’s Pepsi collaboration?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News often spotlights Beyoncé as a symbol of “woke” celebrity politics, framing her performances, imagery, and statements (e.g., Super Bowl/’Formation’ era) as left-leaning, anti-police, or elitist and amplifying conservative outrage to portray her as divisive. In doing so it reinforces broader conservative critiques of celebrity activism and cultural politicization while opposing narratives that present her primarily as an apolitical entertainer or progressive role model.",
+    "queries": [
+      "What impacts has fox news coverage of Beyoncé caused?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "Around Beyoncé, cancel culture is often invoked by her fans to cast criticism of her music, imagery, or commercial partnerships as illegitimate attempts to 'cancel' a cultural icon and to mobilize defense rather than engage substantive critique. Critics counter that appeals to cancel culture can be used to dismiss genuine calls for accountability—so debates about appropriation, politics, or brand deals frequently become contests over whether boycotts are warranted or simply online persecution.",
+    "queries": [
+      "What consequences has cancel culture had for Beyoncé?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "tucker carlson",
+    "wiki_title": "tucker carlson",
+    "summary": "Tucker Carlson is cited by conservatives to portray Beyoncé as emblematic of “woke” cultural elites, casting her performances and public stances as politicized identity‑politics that threaten traditional values and justify backlash. His framing is used to rally viewers against her cultural influence, endorse boycotts or critiques of corporate partnerships, and push for depoliticizing popular entertainment.",
+    "queries": [
+      "Is Tucker Carlson's coverage of Beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "bell hooks",
+    "wiki_title": "bell hooks",
+    "summary": "bell hooks' critiques of intersectional feminism, representation, and the commodification of Black womanhood are frequently invoked in debates over Beyoncé — defenders cite hooks to argue Beyoncé expands visibility and cultural power for Black women, while critics use her analyses to charge that Beyoncé's sexualized, brand-driven imagery undercuts collective, structural feminist aims and mirrors neoliberal celebrity capitalism.",
+    "queries": [
+      "What impact has bell hooks had on conversations about Beyoncé?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "black girl magic",
+    "wiki_title": "black girl magic",
+    "summary": "Supporters invoke \"black girl magic\" to frame Beyoncé as the embodiment of Black women's excellence, resilience, and cultural power—using that narrative to justify praise for her artistic achievements, economic influence, and role-model status. Critics, however, deploy the concept to question commercialization, perceived elitism or colorism in her image, and whether her brandable empowerment obscures broader structural inequities affecting Black women.",
+    "queries": [
+      "Is Beyoncé’s use of black girl magic justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "feminism and gender politics",
+    "wiki_title": "feminism",
+    "summary": "Feminism is used to frame Beyoncé as a high-profile symbol of female empowerment and Black womanhood—fans point to her music, imagery (e.g., Lemonade), and business leadership as advancing visibility, agency, and intersectional pride for women. Critics, however, deploy feminist critique to argue her brand represents a market-friendly, ‘corporate’ or performative feminism that commodifies empowerment, upholds narrow beauty/class standards, and skirts deeper structural change.",
+    "queries": [
+      "How do people view feminism and gender politics in Beyoncé's work?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "lemonade (beyoncé album)",
+    "wiki_title": "lemonade (album)",
+    "summary": "Lemonade is routinely cited as evidence that Beyoncé has transcended pop stardom to become a politically charged, culturally authoritative artist who centers Black womanhood, and is used to justify praise for her artistic risk-taking, cultural influence, and leadership in visual storytelling. Detractors, however, invoke the album to argue that her political gestures are carefully managed PR or commodified identity politics, so Lemonade functions as a focal point in debates over her authenticity, activism, and commercial power.",
+    "queries": [
+      "What effects has lemonade (beyoncé album) had?"
+    ]
+  },
+  {
+    "id": "C3-1-2",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "solange knowles",
+    "wiki_title": "solange knowles",
+    "summary": "Solange is often invoked to complicate Beyoncé’s polished mainstream image—critics and commentators point to Solange’s more experimental, politically explicit artistry and visible family tensions (e.g., the 2014 elevator incident) to argue that Beyoncé’s brand is tightly managed or less politically raw. Conversely, comparisons to Solange are also used to humanize and defend Beyoncé, highlighting sibling loyalty, different artistic paths, and the pressures of fame on Black women in the public eye.",
+    "queries": [
+      "Is solange knowles’s career overshadowed by Beyoncé or not?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "hbo",
+    "wiki_title": "hbo",
+    "summary": "HBO shapes public narratives about Beyoncé by airing high-profile documentaries and concert specials that confer prestige and frame her as a canonical artist and cultural icon. Critics counter that HBO’s curated, often celebratory presentations sanitize or commercialize her image and, as a paywalled platform, influence who gets access to—and whose interpretations of—her politics, race, and feminism.",
+    "queries": [
+      "How do people view HBO’s Beyoncé documentaries?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "marital infidelity",
+    "wiki_title": "infidelity",
+    "summary": "References to infidelity—most prominently in readings of Lemonade and its perceived allusions to Jay‑Z—cast Beyoncé as a wounded yet empowered storyteller who transforms personal betrayal into art and political commentary. Those narratives are invoked to defend her authenticity and feminist credibility or to accuse her of commodifying private pain, while also sharpening debates about gendered double standards and racialized expectations around forgiveness and respectability.",
+    "queries": [
+      "What effects has marital infidelity had on Beyoncé's public image?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "chimamanda ngozi adichie",
+    "wiki_title": "chimamanda ngozi adichie",
+    "summary": "People point to Chimamanda Ngozi Adichie’s sampled speech on Beyoncé’s song to lend intellectual and feminist legitimacy to Beyoncé’s public image and to frame her work as engaging seriously with Black womanhood; opponents counter that using Adichie’s words highlights how Beyoncé’s feminism can be commodified, depoliticized, or insufficiently intersectional, fueling debates over authenticity, commercialization, and the limits of pop-feminism.",
+    "queries": [
+      "How do people view chimamanda ngozi adichie's influence on Beyoncé?"
+    ]
+  },
+  {
+    "id": "C3-2-1",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "flawless (song)",
+    "wiki_title": "flawless",
+    "summary": "The song and persona tied to \"Flawless\" are frequently invoked to argue that Beyoncé personifies a commercially powerful, modern feminism—used to justify praise for her messages of empowerment and celebration of Black womanhood. Conversely, critics use it to challenge the authenticity of her politics, accusing her of commodifying feminism and reinforcing new standards of perfection or elite womanhood.",
+    "queries": [
+      "How do people view flawless (song) in Beyoncé's catalog?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "we should all be feminists",
+    "wiki_title": "we should all be feminists",
+    "summary": "Adichie’s essay is often invoked to legitimize Beyoncé’s feminist branding—Beyoncé sampled lines from the talk in her music and supporters cite the collaboration as evidence she brings feminist (and arguably intersectional) ideas into mainstream pop. Critics, however, use the same reference to argue Beyoncé practices a marketable, celebrity feminism that can commodify or soften Adichie’s critique and obscure demands for structural change around race, class, and labor.",
+    "queries": [
+      "How do people view 'we should all be feminists' in Beyoncé's work?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "womanism",
+    "wiki_title": "womanism",
+    "summary": "Supporters and scholars often invoke womanist values to frame Beyoncé as a leader who centers Black women's resilience, spiritual themes, and communal care in her music and imagery, using that framing to defend her cultural authority and celebratory portrayals of Black womanhood. Critics, however, deploy womanist critique to argue she commodifies or individualizes Black feminist concerns—prioritizing commercial success and curated representation over sustained political organizing or structural accountability.",
+    "queries": [
+      "What consequences has Beyoncé’s womanism had on audiences?"
+    ]
+  },
+  {
+    "id": "C3-4-1",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "alice walker",
+    "wiki_title": "alice walker",
+    "summary": "Supporters invoke Alice Walker’s womanist authority and her praise of Beyoncé’s work to frame albums like Lemonade as profound expressions of Black womanhood and cultural resistance. Critics, meanwhile, point to Walker’s political controversies (e.g., BDS support and antisemitism accusations) to challenge or complicate celebrations of Beyoncé’s politics, associations, or endorsements.",
+    "queries": [
+      "Is alice walker's critique of Beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "celebrity endorsement",
+    "wiki_title": "celebrity branding",
+    "summary": "In discussions about Beyoncé, celebrity branding is used to justify corporate partnerships and cultural messaging by presenting her as an emblem of Black female empowerment and mainstream inclusivity. Critics counter that this branding commodifies her activism and culture, framing her actions as strategic marketing or ‘corporate feminism’ rather than authentic political engagement.",
+    "queries": [
+      "What effects has Beyoncé’s celebrity endorsement caused?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "intersectionality",
+    "wiki_title": "intersectionality",
+    "summary": "Commentators use intersectionality to both celebrate Beyoncé as a visible Black woman whose music and imagery (e.g., Formation, Lemonade) foreground overlapping race, gender and class experiences, and to justify reading her as an important voice for marginalized Black femininities; conversely, intersectional critics point to her wealth, corporate ties, colorism and emphasis on individual empowerment to argue her brand of feminism can exclude trans, poor, or nonconforming Black voices and align with neoliberal or respectability politics rather than structural change.",
+    "queries": [
+      "How do people view Beyoncé and intersectionality in her work?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "misogynoir",
+    "wiki_title": "misogynoir",
+    "summary": "In discussions about Beyoncé, misogynoir is often invoked to argue that hostile or nitpicky coverage of her body, style, sexuality, motherhood, or ambition stems from a specific blend of anti‑Black racism and sexism rather than impartial critique, and is used by fans and scholars to defend her and call out media and cultural double standards. It also frames internal debates—about authenticity, colorism, or political alignment—by highlighting how expectations of Black womanhood uniquely shape both praise and censure of her actions.",
+    "queries": [
+      "How do people view misogynoir directed at Beyoncé?"
+    ]
+  },
+  {
+    "id": "C3-6-7",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "cultural appropriation",
+    "wiki_title": "cultural appropriation",
+    "summary": "Claims of cultural appropriation are used to argue over whether Beyoncé is authentically honoring and reclaiming Black and African diasporic traditions or commercially repackaging sacred or minority cultural symbols for profit; supporters point to her collaborations and political framing as respectful amplification, while critics invoke appropriation to demand clearer credit, community benefit, or restraint. These debates influence perceptions of her cultural authority and ethical obligations and inform calls for better crediting, compensation, and representation practices in music, fashion, and media.",
+    "queries": [
+      "Is Beyoncé’s cultural appropriation justified or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "celebrity and popular culture",
+    "wiki_title": "celebrity culture",
+    "summary": "In debates about Beyoncé, celebrity culture frames her as both a marketable brand and a public exemplar, shaping arguments that her creative and political gestures are calculated publicity rather than sincere expression. Critics use this lens to dismiss collaborations or activism as commodification, while supporters invoke it to defend her strategic control of visibility, artistic autonomy, and the expectation that she wield influence responsibly.",
+    "queries": [
+      "How do people view Beyoncé's role in celebrity and popular culture?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "jay-z",
+    "wiki_title": "jay-z",
+    "summary": "Jay‑Z is frequently used as a prism through which Beyoncé’s image and choices are judged: supporters cite their partnership and his industry clout to bolster narratives of a mutually powerful ‘brand couple’ and strategic entrepreneurship, while critics point to his infidelities, business deals, and collaborative authorship to question Beyoncé’s artistic autonomy, feminist credentials, and whether her work is shaped by corporate or patriarchal interests.",
+    "queries": [
+      "Is jay-z's influence on Beyoncé's career justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "blue ivy carter",
+    "wiki_title": "blue ivy carter",
+    "summary": "Blue Ivy Carter is often invoked in debates about Beyoncé to humanize her and underscore themes of motherhood, family values, and representation—supporters cite Blue Ivy as evidence of Beyoncé’s commitment to protecting and uplifting Black children. Critics, however, use her visibility to question whether Beyoncé commercializes private life or cultivates a dynastic brand, framing the child as either protected family or marketing asset.",
+    "queries": [
+      "Is blue ivy carter’s public presence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "4:44 (album)",
+    "wiki_title": "4:44",
+    "summary": "In public debates about Beyoncé, Jay‑Z’s 4:44 is often used alongside her Lemonade era to frame their marriage narrative—either to portray Beyoncé as a resilient, forgiving partner and artistic equal within a reconciled power couple, or, conversely, to criticize how her perspective is sidelined by a male-authored apology that recenters Jay‑Z. Critics and supporters cite the album to justify views about Beyoncé’s agency, feminism, and whether celebrity reconciliation masks unequal storytelling and accountability.",
+    "queries": [
+      "How do people view 4:44 (album) in Beyoncé’s career?"
+    ]
+  },
+  {
+    "id": "C4-1-4",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "roc nation",
+    "wiki_title": "roc nation",
+    "summary": "Roc Nation is often invoked to cast Beyoncé as part of a powerful entertainment empire—supporters cite the affiliation as proof of her business savvy, expanded platform, and capacity to scale cultural and political messages. Critics use the same link to argue her artistry and activism are mediated by corporate interests, suggesting her political gestures can be strategic brand management rather than grassroots commitment.",
+    "queries": [
+      "What consequences has roc nation had for Beyoncé’s artistic control?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "on the run tour",
+    "wiki_title": "on the run",
+    "summary": "When attached to Beyoncé (notably in the 'On the Run' tour context), the phrase is invoked in media and fan discourse to cast her and Jay‑Z as a defiant, romanticized power couple who assert control over their public narrative. Supporters use that framing to justify resilience, solidarity, and celebrity autonomy, while critics argue it glamorizes illicitness or distracts from accountability during controversies.",
+    "queries": [
+      "Is Beyoncé's on the run tour justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "destiny's child",
+    "wiki_title": "destiny's child",
+    "summary": "Destiny's Child is repeatedly invoked when assessing Beyoncé’s origins — cited by supporters as proof of her early leadership, performance chops, and the girl‑group roots of her brand of female empowerment; conversely, critics point to the group’s internal disputes and managerial favoritism to question her agency, accountability, and the authenticity of her ascent.",
+    "queries": [
+      "How do people view Destiny's Child in Beyoncé's career?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "kelly rowland",
+    "wiki_title": "kelly rowland",
+    "summary": "Kelly Rowland is often invoked in conversations about Beyoncé to either reinforce a positive portrait of Beyoncé as a collaborative leader—Rowland’s ongoing support, joint accolades, and successful solo career are used to argue Beyoncé elevates her peers—or to illustrate critiques that Beyoncé’s singular stardom and control of the Destiny’s Child narrative overshadowed fellow members, feeding debates about credit, power dynamics, and representation in pop/R&B.",
+    "queries": [
+      "How do people view Kelly Rowland’s contributions within Destiny’s Child?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "michelle williams",
+    "wiki_title": "michelle williams",
+    "summary": "Michelle Williams, as a former Destiny’s Child bandmate whose public praise or silence is often cited, is used to bolster portrayals of Beyoncé as a loyal, collaborative leader and to rebut accusations that Beyoncé mistreats colleagues; critics, however, point to reported tensions involving Williams to argue Beyoncé’s dominance in group dynamics. Williams’ gospel/faith-based image is also invoked to contrast or critique Beyoncé’s more political and sexual artistic choices, shaping debates about respectability, authenticity, and cultural messaging.",
+    "queries": [
+      "Is michelle williams' role in Beyoncé narratives justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "latavia roberson",
+    "wiki_title": "latavia roberson",
+    "summary": "Latavia Roberson’s public comments about her exit from Destiny’s Child are often invoked by critics to challenge narratives about Beyoncé’s early leadership and to allege favoritism or unfair management decisions that advantaged Beyoncé; supporters typically portray Roberson’s accounts as bitterness or personal grievance, using her as a foil to defend Beyoncé’s reputation and legitimacy.",
+    "queries": [
+      "Is latavia roberson’s criticism of Beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "letoya luckett",
+    "wiki_title": "letoya luckett",
+    "summary": "LeToya Luckett is often brought into conversations about Beyoncé to exemplify the early lineup changes and interpersonal tensions in Destiny's Child, with critics citing her exit as evidence that Beyoncé’s ascent involved sidelining original members. Supporters counter that Luckett’s later professionalism and the group’s continued success justify portrayals of Beyoncé as a decisive leader whose choices enabled her solo prominence.",
+    "queries": [
+      "Is Letoya Luckett’s perspective on Beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "mathew knowles",
+    "wiki_title": "mathew knowles",
+    "summary": "Mathew Knowles is invoked in public debates about Beyoncé as the father-and-former-manager who both takes credit for architecting her early commercial success and serves as a foil in critiques of her autonomy; supporters point to his business acumen in building her platform, while critics use his managerial control, public disputes, and revelations to argue that her image and career were shaped by paternalistic, family-driven interests rather than solely by her independent artistry.",
+    "queries": [
+      "Is Mathew Knowles's role in Beyoncé’s career justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "say my name",
+    "wiki_title": "say my name",
+    "summary": "'Say My Name' is invoked in discussions of Beyoncé to point to her origins in Destiny's Child and as early proof of her engagement with themes of female agency and relationship autonomy; fans use it to trace a continuity of empowerment across her career, while critics cite it when arguing her later work has repackaged or commercialized those messages.",
+    "queries": [
+      "Is Beyoncé’s \"say my name\" message justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-7",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "survivor",
+    "wiki_title": "survivor",
+    "summary": "The 'survivor' label is applied to Beyoncé—via songs like Destiny's Child’s “Survivor” and albums such as Lemonade—to cast her as a resilient figure who overcomes sexism, racism, and personal betrayal, a framing fans use to justify her cultural authority and role-model status. Critics counter that this survivor narrative is often a polished, marketable persona that can obscure privilege, deflect accountability, or soften critique of her politics and commercial choices.",
+    "queries": [
+      "Is Beyoncé’s survivor message empowering or reasonable?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "super bowl halftime show",
+    "wiki_title": "list of super bowl halftime shows",
+    "summary": "Lists of Super Bowl halftime shows are often used to compare Beyoncé’s performance to other high-profile artists, supporting claims about her status as a top-tier entertainer, massive commercial influence, and cultural significance. They also appear in critiques that frame her work as spectacle over substance or as a site for debates about commercialization, race and gender representation in mainstream pop culture.",
+    "queries": [
+      "What cultural effects has Beyoncé’s super bowl halftime show caused?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "super bowl xlvii blackout",
+    "wiki_title": "super bowl xlvii",
+    "summary": "Beyoncé’s Super Bowl XLVII halftime performance—notably the Destiny’s Child reunion—is often invoked as evidence of her enormous mainstream reach and commercial power, used by admirers to argue she is a unifying cultural icon with mass-audience influence. Critics, however, point to the same spectacle to claim she sanitizes and commodifies Black female artistry for corporate platforms, prioritizing branding and safety over political risk.",
+    "queries": [
+      "Is Beyoncé's Super Bowl XLVII blackout justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "nfl",
+    "wiki_title": "national football league",
+    "summary": "The NFL—most visibly via the Super Bowl halftime stage—is used as evidence that Beyoncé has reached mainstream, corporate acceptance and mass cultural influence, while critics counter that performing within the league’s commercial context risks co‑opting or diluting her political and racial commentary.",
+    "queries": [
+      "How do people view Beyoncé’s partnerships with the nfl?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "janet jackson",
+    "wiki_title": "janet jackson",
+    "summary": "Janet Jackson is frequently used as a precedent and measuring stick in debates about Beyoncé, with proponents presenting Beyoncé as a rightful heir who expands Janet’s choreography-driven pop, visual spectacle, and Black female empowerment, while critics invoke Janet to argue Beyoncé borrows or repackages innovations without giving due credit. Janet’s history of industry backlash and race/gendered scrutiny is also cited to contextualize or criticize how Beyoncé’s creative risks and controversies are handled by media and corporate gatekeepers.",
+    "queries": [
+      "What do people think about janet jackson's cultural impact relative to Beyoncé?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "bruno mars",
+    "wiki_title": "bruno mars",
+    "summary": "Bruno Mars is often invoked as a foil in debates about Beyoncé’s place in pop — his hit-driven, retro-showman image is used to argue that Beyoncé is either the more artistically ambitious, politically engaged figure or, conversely, that she is less commercially accessible than mainstream pop stars. He also surfaces in arguments about cultural authenticity and appropriation, with commentators contrasting Mars’s nostalgic homage to classic soul/R&B against Beyoncé’s overt engagement with Black cultural history to bolster competing claims about artistic legitimacy and industry recognition.",
+    "queries": [
+      "How do people view bruno mars versus Beyoncé musically?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "Grammys wins and snubs are routinely used to judge Beyoncé’s place in music history: supporters point to her Grammy haul to argue she’s the industry’s preeminent artist, while critics and fans cite controversial nominations or omissions as proof of the Recording Academy’s racial, gender or genre biases. Debates about her Grammy recognition often fuel broader calls to reform award categories and voting practices and to reassess how mainstream institutions validate Black, pop and visual-album artistry.",
+    "queries": [
+      "Are Beyoncé’s grammy awards wins justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "recording academy",
+    "wiki_title": "the recording academy",
+    "summary": "Supporters use the Recording Academy’s Grammy nominations and wins to validate Beyoncé’s cultural importance and artistic legitimacy, while critics cite its perceived snubs, category placements, or voting patterns to accuse the institution of racial, gender, or genre bias and being out of touch with Black feminist or experimental pop work. Debates over Grammy rule and category changes are often framed around Beyoncé as a test case for whether the Academy properly recognizes politically charged, popular, and boundary-pushing music.",
+    "queries": [
+      "Are criticisms of the Recording Academy related to Beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "album of the year",
+    "wiki_title": "album of the year",
+    "summary": "The “Album of the Year” prize is invoked in debates about Beyoncé as a litmus test of whether mainstream institutions recognize her artistic ambition and cultural impact; victories are used to cement her status as a generational artist while high-profile snubs are cited as evidence of racial and gender bias in the music industry. Supporters point to the award to justify her legacy and influence, whereas critics use its distribution to argue about the limitations or politicization of industry validation.",
+    "queries": [
+      "What consequences has Beyoncé's album of the year recognition had?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "adele",
+    "wiki_title": "adele",
+    "summary": "Adele is frequently invoked in debates about Beyoncé to contrast perceived ‘authentic’, raw vocal songwriting with Beyoncé’s theatrical, production-heavy pop/R&B, with critics using Adele as proof that vocal purity and album sales deserve greater artistic credit. She also features in arguments over industry recognition—fans and commentators cite Adele’s awards and sales to challenge or defend how institutions like the Grammys evaluate Beyoncé’s cultural impact versus conventional commercial metrics.",
+    "queries": [
+      "How do people view Adele's influence relative to Beyoncé?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "business and branding",
+    "wiki_title": "business",
+    "summary": "Beyoncé’s business persona is often invoked to celebrate her as a model of Black female entrepreneurship and cultural ownership—her control of Parkwood, lucrative endorsements, and brand-building are used to argue for artist autonomy and the economic power of creators. Conversely, critics point to her commercial partnerships and branded activism to accuse her of commodifying politics and exemplify celebrity-driven capitalism, shaping debates about artist pay, corporate influence, and whether activism should be marketized.",
+    "queries": [
+      "How do people view Beyoncé's business and branding?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "parkwood entertainment",
+    "wiki_title": "parkwood entertainment",
+    "summary": "Parkwood Entertainment is frequently cited to argue that Beyoncé is a highly self-directed artist and entrepreneur whose ownership of production and management reinforces narratives of artistic autonomy, empowerment, and Black business success. Critics, however, point to Parkwood as evidence of tight brand control and corporate consolidation that can commodify political messages, obscure collaborators’ contributions, or exemplify celebrity-driven gatekeeping in the music industry.",
+    "queries": [
+      "How do people view Parkwood Entertainment’s business decisions for Beyoncé?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "black is king",
+    "wiki_title": "black is king",
+    "summary": "black is king is invoked to position Beyoncé as a cultural leader who uses lavish visuals and Afrofuturist, Pan‑African imagery to celebrate Black diasporic pride and justify praise for her artistic influence and calls for greater representation. It also appears in critiques that the project aestheticizes or commodifies Black suffering, centers an elite vision of Blackness, or functions as symbolic politics without accompanying structural change, undermining claims about the depth of her activism.",
+    "queries": [
+      "Is Beyoncé’s Black Is King artistically justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "columbia records",
+    "wiki_title": "columbia records",
+    "summary": "When Columbia Records is invoked in debates about Beyoncé, it’s used to explain how major-label muscle shapes her commercial reach and publicity — supporters point to Columbia/Sony’s distribution, marketing, and award-pushing as reasons for her global prominence, while critics use the label as a shorthand for corporate influence that may prioritize sales and industry interests over independent artistic control or equitable artist compensation.",
+    "queries": [
+      "Is columbia records’ treatment of Beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "ivy park",
+    "wiki_title": "ivy park",
+    "summary": "Ivy Park is frequently invoked to portray Beyoncé as a savvy, influential Black entrepreneur and cultural tastemaker, reinforcing narratives of her commitment to female empowerment and economic leadership. Opponents invoke the brand to argue she commodifies activism and to question the ethics of her corporate partnerships and the authenticity of her political stances.",
+    "queries": [
+      "What impacts has ivy park had on celebrity fashion?"
+    ]
+  },
+  {
+    "id": "C5-2-1",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "adidas",
+    "wiki_title": "adidas",
+    "summary": "Beyoncé’s high-profile Ivy Park partnership with adidas is often used to frame her as a savvy cultural entrepreneur who mainstreams Black fashion and bridges music, sport and lifestyle markets; detractors, however, invoke adidas’s corporate and labor controversies to argue she has compromised ethical commitments and commodified activism for commercial gain.",
+    "queries": [
+      "Is Beyoncé’s collaboration with adidas reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "topshop",
+    "wiki_title": "topshop",
+    "summary": "Topshop is often invoked in discussions about Beyoncé as a shorthand for fast‑fashion firms that quickly copy and mass‑market looks tied to her image—used by supporters to argue she democratises high‑fashion access and by critics to charge that her influence is commodified, exploited for profit, and linked to unsustainable consumer practices.",
+    "queries": [
+      "How do people view Beyoncé wearing Topshop pieces?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "sir philip green",
+    "wiki_title": "philip green",
+    "summary": "Philip Green's name is sometimes invoked in debates about Beyoncé to exemplify how celebrity-brand relationships can implicate artists in the ethical failings of powerful retailers; critics use him to argue that Beyoncé should be scrutinized for the companies she aligns with, while defenders emphasize her autonomy and philanthropic work to reject guilt by association. This framing tends to support calls for greater transparency and ethical vetting in celebrity partnerships and to criticize perceived complicity with scandal-prone or exploitative business figures.",
+    "queries": [
+      "Is Beyoncé’s association with Sir Philip Green justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "labor rights",
+    "wiki_title": "labor rights",
+    "summary": "Labor-rights arguments are often used to evaluate Beyoncé as an employer and industry leader—critics point to pay, working conditions, and the need for unionization among dancers, crew, and production staff to pressure her and the live-entertainment sector for reform. Defenders argue her projects create lucrative opportunities and visibility for workers, so labor-rights rhetoric frames debates over celebrity responsibility, ethical contracting, and whether superstar platforms should model better labor practices.",
+    "queries": [
+      "How do people view Beyoncé's labor rights advocacy?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "athleisure",
+    "wiki_title": "athleisure",
+    "summary": "Athleisure is invoked in conversations about Beyoncé to frame her as a style entrepreneur and empowerment icon—her Ivy Park activewear and athleticized stage looks are cited by supporters as making sporty, body-confident fashion mainstream and promoting Black entrepreneurship. Critics counter that this athleisure branding exemplifies celebrity commodification of wellness and street styles, using visibility to monetize trends rather than advance substantive cultural change.",
+    "queries": [
+      "Is Beyoncé's athleisure line reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "pepsico",
+    "wiki_title": "pepsico",
+    "summary": "PepsiCo's high-profile sponsorships and ad campaigns with Beyoncé are frequently cited to frame her as a corporate-savvy global brand—used by supporters to highlight her commercial success and platform-building. Conversely, critics invoke her Pepsi ties to question her authenticity or to argue that corporate endorsements undercut her political or activist credibility.",
+    "queries": [
+      "Is Beyoncé’s partnership with pepsico reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3-3",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "brand ambassador",
+    "wiki_title": "brand ambassador",
+    "summary": "Beyoncé's role as a brand ambassador is often used to frame her as a powerful commercial and cultural force—supporters portray her endorsement deals and her own fashion/beauty ventures as savvy entrepreneurship that amplifies Black creativity and economic empowerment. Critics, however, invoke those same partnerships to challenge her authenticity or political commitments, arguing corporate ties can amount to 'selling out' or warrant scrutiny when associated companies have labor or ethical controversies.",
+    "queries": [
+      "What effects has Beyoncé's role as brand ambassador had?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "kendall jenner pepsi ad",
+    "wiki_title": "kendall jenner",
+    "summary": "Kendall Jenner is often invoked as a foil in debates about Beyoncé, with commentators contrasting Jenner’s social‑media/fashion‑industry visibility and perceived inherited privilege against Beyoncé’s artistic credibility and cultural authorship. This framing is used to criticize commodified fame and cultural appropriation while defending Beyoncé from charges that overlook the racialized expectations and labor behind her success.",
+    "queries": [
+      "Is the kendall jenner pepsi ad justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "corporate sponsorship",
+    "wiki_title": "sponsor (commercial)",
+    "summary": "Beyoncé’s corporate sponsorships and brand partnerships are often invoked to cast her either as a savvy, empowered entrepreneur whose commercial reach amplifies her art and philanthropy, or as proof of compromising political and artistic authenticity — critics cite deals with controversial companies to charge that her activism is commodified. Debates over her sponsors thus shape arguments about her values, influence, and whether her cultural leadership supports progressive causes or reinforces corporate interests.",
+    "queries": [
+      "What effects has Beyoncé's corporate sponsorship brought?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "tidal",
+    "wiki_title": "tidal",
+    "summary": "Beyoncé’s ties to Tidal are often cited to portray her as an artist-entrepreneur who uses an artist-owned, high-fidelity platform to control releases and command premium presentation (e.g., exclusive visual albums), arguing for artist compensation and creative autonomy. Detractors counter that Tidal-based exclusives and celebrity ownership are gatekeeping marketing moves that prioritize profit and limit fan access, raising questions about elitism and transparency in artist-led streaming ventures.",
+    "queries": [
+      "What effects has Beyoncé's tidal partnership caused?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "sprint partnership",
+    "wiki_title": "sprint corporation",
+    "summary": "Sprint is sometimes cited in debates about Beyoncé as an example of a corporate partner whose telecom or promotional deals are used to argue her music and activism are commercialized or 'sold out.' Supporters, however, point to such partnerships (including carrier or platform promotions) to justify her business savvy and argue these deals expand access and resources for ambitious creative projects.",
+    "queries": [
+      "What impacts has Beyoncé's sprint partnership caused?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "hifi audio",
+    "wiki_title": "cambridge audio",
+    "summary": "Cambridge Audio is often invoked by fans, critics and audiophile communities when debating the sonic merits of Beyoncé’s recordings—used to argue that her layered production and vocal subtleties are best appreciated on high‑fidelity equipment, bolstering calls for premium masters or luxury framing of her music. It’s also deployed skeptically to suggest that perceived superiority can be an effect of expensive playback rather than intrinsic artistic quality, and thus to question claims about authenticity or vocal prowess.",
+    "queries": [
+      "How do people view Beyoncé’s embrace of hifi audio?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "billboard rules",
+    "wiki_title": "new rules",
+    "summary": "The phrase \"new rules\" is often invoked in discussions about Beyoncé to argue she sets fresh standards for pop stardom—supporters use it to praise her reshaping of artistic control, marketing and representation, while critics use it to claim her influence creates exclusionary expectations or commodifies political expression.",
+    "queries": [
+      "Are Beyoncé's billboard rules reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "becky with the good hair",
+    "wiki_title": "sorry (beyoncé song)",
+    "summary": "Beyoncé's song \"Sorry\" is often invoked in public debates as proof that she turns personal marital pain into a broader anthem of Black female anger and empowerment—most famously via the \"Becky with the good hair\" line—leading supporters to praise her authenticity and political storytelling. Critics, however, use the song to argue she commodifies private drama for publicity and emphasizes individual empowerment at the expense of structural critique.",
+    "queries": [
+      "How do people interpret 'becky with the good hair' in Beyoncé's work?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "frank gatson jr.",
+    "wiki_title": "frank gatson jr.",
+    "summary": "Frank Gatson Jr. is often cited as the architect of Beyoncé’s tight, precision choreography and stagecraft, a point used to reinforce narratives of her professionalism, discipline, and carefully curated artistic authority; critics, however, invoke his control to argue her shows can feel overproduced, question spontaneity, and raise debates about creative credit within her team.",
+    "queries": [
+      "Is Beyoncé’s collaboration with frank gatson jr. justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "nielsen ratings",
+    "wiki_title": "nielsen media research",
+    "summary": "Nielsen's sales, streaming and TV-audience metrics are routinely cited to quantify Beyoncé's commercial clout—used to support claims of record-breaking albums, blockbuster broadcasts and award-worthiness. Critics and industry commentators argue Nielsen's methodology and sampling can undercount or misattribute her reach, feeding debates over chart legitimacy, streaming royalties and how Black artists' popularity is valued.",
+    "queries": [
+      "What consequences have Beyoncé's nielsen ratings caused?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "personal branding",
+    "wiki_title": "personal branding",
+    "summary": "Personal branding is invoked to portray Beyoncé as a strategic, empowered cultural entrepreneur whose curated image and business moves validate narratives of Black female success, artistic control, and modern feminism; conversely critics deploy the same concept to argue her image is highly manufactured and commodified, undermining claims of authenticity or grassroots political commitment and aligning her with corporate interests.",
+    "queries": [
+      "Is Beyoncé's personal branding justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7-5",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "sasha fierce",
+    "wiki_title": "i am... sasha fierce",
+    "summary": "References to I Am... Sasha Fierce are often used to frame Beyoncé as both a vulnerable artist and a deliberately constructed pop persona, supporting narratives that she exercises agency and creative control through performance. Critics invoke the album and its 'Sasha Fierce' alter ego to argue that her sexuality and stage persona are calculated marketing and complicate claims that her work is straightforwardly feminist or authentically personal.",
+    "queries": [
+      "What impact has Sasha Fierce had on Beyoncé’s public image?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "politics and activism",
+    "wiki_title": "activism",
+    "summary": "Beyoncé is frequently cast as a cultural activist whose music, imagery, and philanthropy are cited to justify support for Black empowerment, feminism, and attention to racial and gender justice, shaping praise that she advances social movements and policy focus. At the same time, critics invoke activism discourse to argue her gestures are performative or commodified—using her corporate ties and selective engagement to challenge her authenticity and the role of celebrity influence in driving real systemic change.",
+    "queries": [
+      "What effects has Beyoncé's politics and activism brought?"
+    ]
+  },
+  {
+    "id": "C6-1-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "blue lives matter",
+    "wiki_title": "blue lives matter",
+    "summary": "Critics invoke 'Blue Lives Matter' to cast Beyoncé’s protest-oriented imagery and Black-led political statements as anti-police or divisive, using law-and-order rhetoric to delegitimize her activism; her defenders say that framing is a tactic to silence racial-justice messages and redirect critique away from police violence.",
+    "queries": [
+      "Is 'blue lives matter' compatible with Beyoncé's activism?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "rudy giuliani",
+    "wiki_title": "rudy giuliani",
+    "summary": "Conservative voices including Rudy Giuliani have been used to frame Beyoncé as politically divisive—citing her pro‑Black, left‑leaning performances and statements to justify criticism, boycotts, or claims that she is ‘anti‑police’ or unpatriotic. Conversely, activists and fans point to Giuliani’s attacks as evidence of partisan backlash and an attempt to delegitimize a prominent Black female artist’s political influence.",
+    "queries": [
+      "What effects has Rudy Giuliani’s association with Beyoncé controversies caused?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "super bowl 50 halftime show",
+    "wiki_title": "super bowl 50 halftime show",
+    "summary": "Beyoncé’s appearance at the Super Bowl 50 halftime show is frequently used to debate whether she sacrifices political authenticity for mainstream exposure: critics argue performing on a highly corporate stage undermines her activist image and invites 'sellout' accusations, while defenders say it was a strategic way to amplify her cultural influence and bring her messages to a mass audience.",
+    "queries": [
+      "Was Beyoncé's Super Bowl 50 halftime show reception justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "coldplay",
+    "wiki_title": "coldplay",
+    "summary": "Commentators often invoke Coldplay as a foil to frame Beyoncé’s mainstream stature—using Coldplay’s arena-friendly, broadly palatable image to argue that Beyoncé is either a more culturally and politically substantive artist or has similarly embraced mass-market spectacle. Coldplay is also cited in conversations about industry double standards and cultural appropriation (e.g., their collaboration moment), used to highlight how white rock acts and Black pop stars like Beyoncé are judged differently by critics and audiences.",
+    "queries": [
+      "What consequences has coldplay working with Beyoncé caused?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "cbs",
+    "wiki_title": "cbs",
+    "summary": "CBS's broadcasts of high‑profile events (Grammys, Super Bowl, televised specials) and its news/commentary coverage are often cited in debates to demonstrate Beyoncé's mainstream cultural and commercial power, using network airtime and ratings to validate her status as a major pop icon. At the same time, CBS segments can shape critiques of her work—either normalizing her political or provocative moments as mainstream entertainment or providing conservative and centrist commentators material to argue she is politicizing pop culture.",
+    "queries": [
+      "How do people view cbs’s handling of Beyoncé appearances?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "black panther party",
+    "wiki_title": "black panther party",
+    "summary": "Invocations of the Black Panther Party are used to cast Beyoncé as a high-profile conduit for black radical imagery—crediting her for mainstreaming Black Power aesthetics and anti-police-brutality messages—while critics use the same reference to argue she commodifies or aestheticizes Panther symbolism without advocating the party’s deeper structural or policy commitments.",
+    "queries": [
+      "Is Beyoncé’s use of black panther party imagery reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "angela davis",
+    "wiki_title": "angela davis",
+    "summary": "Angela Davis is often invoked in debates about Beyoncé as an intellectual touchstone to legitimize and situate Beyoncé's use of Black feminist, Black Power, and abolitionist imagery within a tradition of radical Black thought. Conversely, critics deploy Davis’s explicit radicalism to argue that Beyoncé’s mainstream platform sanitizes or commodifies those politics or to demand more substantive policy commitments beyond symbolic gestures.",
+    "queries": [
+      "What impact has angela davis had on Beyoncé's public image?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "black power salute",
+    "wiki_title": "raised fist",
+    "summary": "Commentators use Beyoncé’s raised-fist imagery to frame her as an active ally to Black liberation causes—portraying her performances and visuals as endorsements of movements for racial justice and arguments for police reform. Critics, however, invoke the same gesture to argue she is either divisive or engaging in performative/commodified activism, accusing her of exploiting protest symbolism for branding rather than substantive political change.",
+    "queries": [
+      "How do people view Beyoncé's black power salute?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "beygood",
+    "wiki_title": "beygood",
+    "summary": "BeyGOOD is frequently invoked by supporters to demonstrate Beyoncé’s tangible commitment to social causes—used to justify praise of her as a philanthropic, community-minded cultural leader through relief efforts, scholarships, and local investments. Critics, however, point to BeyGOOD as evidence that celebrity charity can function as PR or a substitute for political accountability, framing her activism as image management rather than structural policy advocacy.",
+    "queries": [
+      "How do people view Beyoncé's beygood efforts?"
+    ]
+  },
+  {
+    "id": "C6-6-1",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "hurricane harvey",
+    "wiki_title": "hurricane harvey",
+    "summary": "Hurricane Harvey is invoked to highlight Beyoncé’s hometown loyalty and philanthropy—her BeyGOOD relief work and public advocacy after the storm are frequently cited to bolster her image as a caring community leader and cultural ambassador for Houston’s Black neighborhoods. Critics, however, use Harvey to argue that celebrity relief can be performative, contending Beyoncé’s high-profile interventions underscore limits of private charity versus the need for sustained policy solutions and structural investment.",
+    "queries": [
+      "Is Beyoncé’s response to Hurricane Harvey reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "covid-19 pandemic",
+    "wiki_title": "covid-19 pandemic",
+    "summary": "The COVID-19 pandemic is often invoked to justify Beyoncé's pandemic-era decisions—delaying tours, shifting release strategies, and presenting music and visuals as collective uplift or therapeutic escapism—and to highlight her philanthropic responses (via BeyGOOD) as evidence of solidarity. Conversely, the pandemic is also used to criticize her perceived privilege or alleged performative charity when she stages high-profile, luxury events or is seen as insufficiently aligned with public-health struggles faced by ordinary workers.",
+    "queries": [
+      "Is Beyoncé’s response to the covid-19 pandemic reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "houston, texas",
+    "wiki_title": "houston",
+    "summary": "Beyoncé’s Houston roots are frequently invoked to bolster narratives of authenticity and Black Southern pride—fans and cultural commentators point to her music, imagery, and philanthropy as celebrations of Houston’s community and cultural influence. Critics, however, cite Houston to question whether her global brand sidelines local issues (like inequality, gentrification, or political accountability), using the city as a lens to debate representation and responsibility.",
+    "queries": [
+      "Is Beyoncé’s association with Houston, Texas meaningful or not?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "chime for change",
+    "wiki_title": "chime for change",
+    "summary": "Chime for Change is often cited to portray Beyoncé as a high-profile feminist philanthropist who leverages her celebrity to advance women's rights and gender-equality causes. Critics, however, invoke it to argue her activism is sometimes more about brand-building and image management than sustained structural change, framing her political engagement as performative rather than policy-driven.",
+    "queries": [
+      "How do people view chime for change affecting Beyoncé's public image?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "celebrity philanthropy",
+    "wiki_title": "philanthropy",
+    "summary": "Beyoncé’s philanthropic work is frequently invoked to frame her as a socially responsible leader whose donations, scholarship funds, and disaster-relief efforts legitimize her cultural influence and activism. Opponents counter that such giving can be performative or insufficient relative to her wealth, using her charity to criticize celebrity PR, tax practices, or the limits of individual-focused solutions to systemic problems.",
+    "queries": [
+      "What impacts has Beyoncé's celebrity philanthropy had?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "tedx",
+    "wiki_title": "ted (conference)",
+    "summary": "TED speakers and talks frequently invoke Beyoncé as a high-profile case study to legitimize arguments about culture and politics—either praising her as a transformative figure in Black feminism, storytelling and brand-building that expands representation, or using her as evidence of commodified, neoliberal activism where celebrity visibility substitutes for structural change.",
+    "queries": [
+      "Is Beyoncé’s tedx message influential or not?"
+    ]
+  },
+  {
+    "id": "C6-8",
+    "parent": "C6",
+    "level": 2,
+    "topic": "ferguson protests",
+    "wiki_title": "ferguson unrest",
+    "summary": "The Ferguson unrest is frequently invoked to frame Beyoncé as a politically engaged artist who amplifies Black Lives Matter-era critiques of police violence—supporters cite her 'Formation' imagery and public statements as raising awareness and supporting criminal-justice reforms, while critics use Ferguson to argue she politicizes entertainment, fuels anti-police sentiment, or practices virtue-signaling rather than substantive policy advocacy.",
+    "queries": [
+      "How do people view Beyoncé’s involvement in the ferguson protests?"
+    ]
+  },
+  {
+    "id": "C6-8-2",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "hands up, don't shoot",
+    "wiki_title": "hands up, don't shoot",
+    "summary": "Beyoncé's association with 'hands up, don't shoot' imagery is cited by supporters as evidence of her solidarity with Black Lives Matter and used to justify her role as a culturally influential advocate for police‑brutality reform and racial justice. Critics, however, invoke the slogan to paint her as politically divisive or opportunistic and sometimes question the accuracy or appropriateness of using that particular symbol in her artistic activism.",
+    "queries": [
+      "How do people view 'hands up, don't shoot' references by Beyoncé?"
+    ]
+  },
+  {
+    "id": "C6-8-3",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "michael brown",
+    "wiki_title": "michael brown",
+    "summary": "Michael Brown is often invoked in debates about Beyoncé to justify reading her music and performances (e.g., \"Formation,\" Lemonade, her Super Bowl set) as explicit interventions against police violence and as solidarity with Black Lives Matter and calls for police reform. Opponents likewise cite Brown to frame her as partisan or divisive, arguing her references to his death exemplify inappropriate celebrity activism or anti-police messaging.",
+    "queries": [
+      "Is Beyoncé’s reference to michael brown justified or not?"
+    ]
+  },
+  {
+    "id": "C6-8-4",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "darren wilson",
+    "wiki_title": "darren wilson",
+    "summary": "References to Darren Wilson — the officer at the center of the Ferguson shooting — are frequently invoked in discussions of Beyoncé to justify her turn toward explicit protest art (e.g., 'Formation' and her Ferguson-era gestures) as a response to police violence and systemic racism. Conversely, critics use the Wilson/Michael Brown case to frame Beyoncé as partisan or anti-police, arguing her politics politicize entertainment and alienate some audiences.",
+    "queries": [
+      "What impact does Darren Wilson’s mention have on Beyoncé’s public image?"
+    ]
+  },
+  {
+    "id": "C6-8-5",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "ferguson police department",
+    "wiki_title": "ferguson police department",
+    "summary": "References to the Ferguson Police Department’s role in the 2014 unrest are used to frame Beyoncé’s work as either necessary protest art or opportunistic politicization—supporters point to Ferguson to justify her ‘Formation’ imagery and calls for police reform, while critics invoke the same context to argue she is polarizing audiences or capitalizing on community trauma.",
+    "queries": [
+      "How do people view Beyoncé’s stance on the ferguson police department?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and social media",
+    "wiki_title": "social media",
+    "summary": "On social media, fan communities and influencers aggressively shape and defend Beyoncé’s image—promoting her as a cultural icon and emblem of Black feminism—while critics and gossip outlets use the same channels to question her authenticity, accuse her of PR manipulation or cultural appropriation, and amplify scandals. Because platforms reward viral engagement, social media both drives her commercial and awards narratives (streams, chart campaigns) and polarizes public debates about race, gender, celebrity accountability, and media fairness.",
+    "queries": [
+      "Is Beyoncé's media and social media use justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "coachella",
+    "wiki_title": "coachella",
+    "summary": "Coachella is frequently referenced in discussions of Beyoncé as the landmark platform where she translated Black cultural forms and HBCU aesthetics into mainstream spectacle—used to argue that she expanded artistic and commercial power for Black women in pop. Critics similarly invoke her Coachella run to question festival commercialism and the commodification or tokenization of Black culture within elite music events.",
+    "queries": [
+      "What effects has Beyoncé’s Coachella had?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "balmain",
+    "wiki_title": "balmain",
+    "summary": "Balmain’s styling and collaborations with Beyoncé are frequently cited to bolster narratives that she is a global fashion icon whose cultural authority has been embraced by elite European couture, reinforcing her image of power and luxury. Critics, meanwhile, invoke her Balmain looks to question elitism and the commercialization of Black cultural expression or to debate whether such high‑fashion partnerships meaningfully advance representation in the fashion industry.",
+    "queries": [
+      "What effects has Beyoncé’s balmain partnership had?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "kahlil joseph",
+    "wiki_title": "kahlil joseph",
+    "summary": "Kahlil Joseph’s collaborations with Beyoncé are often cited to bolster claims that her albums are serious, artful visual projects rooted in Black avant-garde aesthetics and Afrofuturist imagery, reinforcing narratives of her as a culturally ambitious artist. Critics, however, invoke his role to question authorship, credit, and whether Beyoncé mainstreams or dilutes underground Black visual practices.",
+    "queries": [
+      "What impact has kahlil joseph had on Beyoncé’s artistic image?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On Twitter/X, Beyoncé-related narratives are forged and fought over through hashtags, viral clips, and coordinated fan (BeyHive) campaigns that amplify her achievements, mobilize streaming/award support, and defend her against perceived slights. The platform also accelerates criticism, rumors, and debates about her politics, cultural appropriation, commercialism, or personal life, enabling both admirers and detractors to frame her as an empowering cultural icon or as an overexposed elitist.",
+    "queries": [
+      "What effects has Beyoncé’s presence on twitter brought?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "spotify",
+    "wiki_title": "spotify",
+    "summary": "Spotify is frequently cited in debates about Beyoncé to illustrate the power and limits of streaming: her massive play counts and past platform-exclusive releases are used to argue that superstar artists can monetize and control distribution through streaming, while critics point to her Spotify performance to highlight how the current royalty model and algorithmic playlisting favor established acts and exacerbate pay disparities for lesser-known artists. Advocates and policy critics alike invoke her case when pushing for royalty reform, artist-ownership strategies, or greater editorial transparency to ensure fair visibility for Black and female performers.",
+    "queries": [
+      "What consequences has Beyoncé’s presence on Spotify had?"
+    ]
+  },
+  {
+    "id": "C7-7-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "national anthem protests",
+    "wiki_title": "u.s. national anthem protests",
+    "summary": "References to U.S. national anthem protests are often invoked in discussions about Beyoncé to cast her as either a political ally of anti‑racist protest and free expression or as someone who politicizes entertainment and disrespects national symbols; supporters use the anthem protests to justify her Black empowerment imagery and calls for police reform, while critics cite them to argue she should avoid political messaging.",
+    "queries": [
+      "What effects have Beyoncé’s national anthem protests had?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and intellectual property",
+    "wiki_title": "intellectual property",
+    "summary": "Debates about intellectual property frame Beyoncé as a shrewd guardian of her brand who leverages copyright, trademarks and takedowns to control distribution, prevent leaks, and monetize her image—an approach defenders portray as protecting artists’ rights and revenue. Critics argue this aggressive IP posture can stifle fan creativity, remix culture and public access, and raises larger questions about who owns and profits from Black cultural production.",
+    "queries": [
+      "Is Beyoncé's legal and intellectual property strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "u.s. copyright law",
+    "wiki_title": "copyright",
+    "summary": "Claims of copyright are frequently used to justify Beyoncé’s tight control over her songs, samples, visuals and branded work—supporting takedowns, licensing demands and legal action as means to protect revenue, image and collaborators’ credits. Critics counter that such enforcement can suppress fan remix culture, obscure contributions from co‑writers/producers, and exemplify broader inequities in music‑industry ownership and compensation.",
+    "queries": [
+      "How do people view u.s. copyright law regarding Beyoncé's sample use?"
+    ]
+  },
+  {
+    "id": "C8-1-2",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "youtube content id",
+    "wiki_title": "content id",
+    "summary": "Content ID is often cited in debates about Beyoncé to justify her label’s monetization and takedown of fan videos, remixes, live clips, or leaks, framing these actions as protecting her artistic control and revenue. Critics counter that such automated enforcement disproportionately silences fans and independent creators, using Beyoncé as an example of corporate copyright policing and censorship of remix culture.",
+    "queries": [
+      "How do people view Beyoncé's youtube content id usage?"
+    ]
+  },
+  {
+    "id": "C8-1-6",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "music publishing",
+    "wiki_title": "music publisher",
+    "summary": "Commentators invoke music publishers when discussing Beyoncé to highlight how control over song catalogs and licensing shapes her income and image—either praising her as a model of artist ownership and savvy or pointing to publishers as mechanisms that concentrate revenue away from collaborators. Debates about publishers in Beyoncé’s case are used to argue for stronger artist rights and transparent crediting/royalty rules or, conversely, to defend existing copyright/licensing structures that sustain established revenue streams.",
+    "queries": [
+      "How do people view Beyoncé’s music publishing practices?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "universal music group",
+    "wiki_title": "universal music group",
+    "summary": "Universal Music Group is invoked in conversations about Beyoncé to represent the corporate machinery behind massive marketing, distribution and streaming reach—critics use it to argue her visibility and commercial dominance are products of major-label power and unequal industry structures, while defenders point to UMG’s platform as a pragmatic explanation for her global impact and awards campaigning. Debates about artist control, royalties, and catalog ownership often cite UMG policies as evidence that even superstar careers like Beyoncé’s are shaped by label economics and industry gatekeeping.",
+    "queries": [
+      "How do people view universal music group’s role in Beyoncé’s career?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "fair use",
+    "wiki_title": "fair use",
+    "summary": "Fair use is frequently invoked in disputes over fan videos, remixes, reaction clips and journalistic uses of Beyoncé’s songs and performances—supporters of fan creators argue such uses are transformative commentary or homage, while Beyoncé’s team often pursues takedowns to protect brand control and commercial value. These conflicts are used to frame wider arguments about whether high-profile artists should have strong copyright enforcement to preserve artistic integrity or whether freer remixing and criticism should be protected as democratic, participatory culture.",
+    "queries": [
+      "What consequences has Beyoncé's fair use approach had?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "parody",
+    "wiki_title": "parody",
+    "summary": "Parody of Beyoncé—through sketches, memes, and viral videos—is often used in public debate to either undercut her cultivated persona and question the authenticity or commercialization of her feminism and racial politics, or conversely to mock and delegitimize critics by exposing overblown moral panics about her influence and image.",
+    "queries": [
+      "How do people view a Beyoncé parody?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "saturday night live",
+    "wiki_title": "saturday night live",
+    "summary": "SNL uses impersonations and sketches of Beyoncé to either lampoon celebrity excess or spotlight her milestones and political gestures, thereby nudging audiences toward seeing her as either a savvy, culturally authoritative artist or a commodified diva. Those portrayals shape mainstream debates about her authenticity, cultural impact, and the seriousness of her political engagement.",
+    "queries": [
+      "What effects has saturday night live exposure had on Beyoncé’s image?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "trademarks",
+    "wiki_title": "trademark",
+    "summary": "References to trademarking frame Beyoncé as a savvy business mogul whose legal control over her name, imagery and merchandise is justified as protecting her brand and revenue from unauthorized commercial use. Opponents point to her trademark enforcement as evidence of overreach that commercializes and polices fan creativity and small sellers, feeding debates about celebrity IP power versus cultural and community ownership.",
+    "queries": [
+      "How do people view Beyoncé's trademarks?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "counterfeit goods",
+    "wiki_title": "counterfeit consumer good",
+    "summary": "Counterfeit Beyoncé merchandise (bootleg tour shirts, posters, knockoff perfume and apparel) is frequently cited in debates about her commercial control and cultural value—used to justify strict IP enforcement and marketplace policing to protect her income and image, or criticized as heavy‑handed regulation that alienates fans and sustains informal street economies. Discussions also invoke counterfeit cosmetics and clothing tied to her likeness as safety and authenticity concerns, prompting calls for stronger marketplace accountability while opponents frame enforcement as privileging corporate interests over fan access.",
+    "queries": [
+      "What consequences have counterfeit goods connected to Beyoncé caused?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "right of publicity",
+    "wiki_title": "personality rights",
+    "summary": "Beyoncé’s team routinely invokes personality-rights claims to tightly control commercial uses of her image and likeness, which frames her as a carefully managed global brand and legitimizes licensing and enforcement actions. Supporters portray this as protecting her income and artistic integrity, while critics argue it can muzzle fan art, independent creators and Black cultural reuse, and is central to debates over AI, deepfakes, and posthumous publicity law.",
+    "queries": [
+      "How do people view the right of publicity in Beyoncé’s case?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "transformative use",
+    "wiki_title": "transformative use",
+    "summary": "In discussions about Beyoncé, “transformative use” is invoked by defenders to argue that her sampling, covers, choreography and visual-album imagery rework source material into new artistic statements, justifying creative freedom and broad fair-use protections. Critics and some originating artists counter that certain borrowings lack sufficient transformation and therefore support stricter attribution, licensing, or compensation rather than allowing her reuse unchallenged.",
+    "queries": [
+      "How do people view Beyoncé's transformative use in her performances?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "getty images",
+    "wiki_title": "getty images",
+    "summary": "Getty Images' selection, licensing and captioning of Beyoncé photos frequently shapes media narratives—promoting polished, brand-aligned images that reinforce her celebrity and commercial control while limiting circulation of candid or activist portrayals. Critics use Getty's exclusives, pricing and metadata/tagging to argue that the company commodifies and sometimes racializes or sexualizes Beyoncé's image, influencing how the public interprets her work, politics and persona.",
+    "queries": [
+      "What effects has getty images had on Beyoncé's public image?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok’s short viral clips, dance challenges, and fan edits rapidly amplify selective moments from Beyoncé’s music, performances, and public statements—helping fans mobilize streaming campaigns and civic narratives about her cultural leadership while also enabling critics to spread decontextualized claims (e.g., lip‑syncing, cultural appropriation, or declining relevance) that shape quick, polarizing public judgments.",
+    "queries": [
+      "Is Beyoncé’s presence on tiktok appropriate or not?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "instagram",
+    "wiki_title": "instagram",
+    "summary": "Beyoncé’s Instagram is often invoked in debates as the space where she curates and controls her public image—supporters point to her staged visuals, visual-album teasers and direct announcements as proof of artistic autonomy and political intent, while critics cite heavy editing, brand partnerships or selective representation to argue she favors commercialized image over authenticity. Fans and commentators also use Instagram metrics, hashtags and viral posts to argue for her cultural impact or to allege platform bias/censorship when content is suppressed or removed.",
+    "queries": [
+      "What effects has Beyoncé's instagram had on her public image?"
+    ]
+  },
+  {
+    "id": "C8-4-7",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "celebrity impersonators",
+    "wiki_title": "impersonator",
+    "summary": "Impersonators of Beyoncé—from tribute acts and drag performers to artists accused of copying her—are used in public arguments to underscore her cultural dominance and cross-community appeal, often praised as celebratory proof of her icon status and queer/folkloric influence. Conversely, labeling someone a “Beyoncé impersonator” is also weaponized to criticize perceived unoriginality, commercial exploitation, or appropriation of Black female artistry.",
+    "queries": [
+      "What effects have celebrity impersonators tied to Beyoncé caused?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sample clearance",
+    "wiki_title": "sampling (music)",
+    "summary": "Commentary about Beyoncé’s use of samples is frequently invoked to debate her artistic authorship—critics may portray sampling as evidence she leans on others’ work, while defenders frame it as creative curation and homage to Black musical lineage. These arguments also bring up issues of credit, licensing and cultural ownership, shaping perceptions of her integrity, producer role, and responsibility toward source artists.",
+    "queries": [
+      "How do people view sample clearance in Beyoncé's music?"
+    ]
+  },
+  {
+    "id": "C8-5-1",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "the chi-lites",
+    "wiki_title": "the chi-lites",
+    "summary": "The Chi-Lites are often invoked as emblematic of classic soul when commentators place Beyoncé in a Black musical lineage, a framing used by supporters to argue she honors and extends that tradition. Critics use the same reference to claim her polished, commercial productions dilute or commodify the rawer, community-rooted sound of groups like the Chi-Lites.",
+    "queries": [
+      "Is Beyoncé's use of the chi-lites reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "sony/atv music publishing",
+    "wiki_title": "sony music publishing",
+    "summary": "Sony Music Publishing is often invoked in discussions about Beyoncé to illustrate how major publishing companies influence ownership, royalties and sample-clearance decisions; critics cite it to argue that corporate publishing constrains artist control and extracts revenue even from superstar acts, while defenders point to its role in clearing rights, licensing and providing the infrastructure that amplifies her global reach.",
+    "queries": [
+      "Is Beyoncé's deal with sony/atv music publishing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "bridgeport music",
+    "wiki_title": "bridgeport music",
+    "summary": "Bridgeport Music is invoked in conversations about Beyoncé to underline the legal stakes of sampling and to pressure her team to clear and credit any borrowed recordings, shaping arguments that major stars must responsibly license source material. It is also cited by critics of current copyright enforcement to argue that aggressive publishing claims can suppress Black musical traditions—framing discussions about Beyoncé’s artistic borrowing either as rightful licensing or as over-policed cultural appropriation.",
+    "queries": [
+      "What impact has Bridgeport Music had on Beyoncé’s music?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "mechanical license",
+    "wiki_title": "mechanical license",
+    "summary": "Mechanical licensing figures in debates about Beyoncé when others cover or sample her work—defenders invoke it to justify enforcing royalties and protecting songwriters, while critics argue her team’s strict licensing and takedowns can stifle grassroots covers and remixes. It also surfaces when she samples others, portrayed either as a model of proper clearance and respect for creators or as an example of how major artists rely on legal mechanisms to monetize cultural borrowing.",
+    "queries": [
+      "Is Beyoncé’s use of a mechanical license justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "music royalties",
+    "wiki_title": "music royalties",
+    "summary": "Discussions of music royalties frame Beyoncé as both a model of artist empowerment—cited by supporters for her ability to negotiate ownership, lucrative sync/performance income and strategic licensing—and as a focal point in critiques of industry inequality, used by advocates to push for fairer streaming and royalty policies despite her individual success.",
+    "queries": [
+      "Are Beyoncé's music royalties reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "chloe x halle",
+    "wiki_title": "chloe x halle",
+    "summary": "As protégés and frequent collaborators, Chloe x Halle are often invoked to illustrate Beyoncé’s role as a cultural gatekeeper and mentor—used by supporters to show how she cultivates and amplifies young Black female talent and secures a musical legacy, and by critics to question celebrity-driven gatekeeping and the consolidation of industry advantage within her circle. Their stylistic and career parallels with Beyoncé also frame debates about influence, authenticity, and succession in contemporary pop/R&B.",
+    "queries": [
+      "How do people view chloe x halle's musical evolution?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "the formation world tour",
+    "wiki_title": "the formation world tour",
+    "summary": "The Formation World Tour is often invoked to argue that Beyoncé uses big-budget spectacle to amplify Black feminist and anti-police-brutality themes, reinforcing her image as a politically engaged cultural leader; opponents use the tour to accuse her of commodifying protest—turning activist imagery into profitable entertainment—while supporters point to it as evidence of her commercial power and influence in shaping mainstream conversations about race and gender.",
+    "queries": [
+      "Is Beyoncé's the formation world tour ticketing approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "apple music",
+    "wiki_title": "apple music",
+    "summary": "Apple Music's playlist placements, streaming tallies, editorial coverage, and distribution of video/concert content are often invoked to demonstrate Beyoncé's commercial dominance, cultural reach, and status as a curated, multimedia pop icon. At the same time critics use Apple Music's promotional exclusives and curated visibility to argue that streaming platforms gatekeep access, shape narratives for commercial gain, and can inflate or distort public perceptions of her influence.",
+    "queries": [
+      "How do people view Beyoncé’s relationship with apple music?"
+    ]
+  },
+  {
+    "id": "C8-8",
+    "parent": "C8",
+    "level": 2,
+    "topic": "plagiarism claims",
+    "wiki_title": "plagiarism",
+    "summary": "Accusations of plagiarism are used to challenge Beyoncé’s originality and power, alleging she has taken songs, choreography, visuals, or concepts from lesser‑known artists and thereby contributed to cultural erasure and unfair credit. Defenders counter that similarities reflect industry-wide borrowing, homage, or influence, prompting debates over credit, compensation, and whether such cases are ethical lapses or routine artistic practice.",
+    "queries": [
+      "Are Beyoncé's plagiarism claims justified or not?"
+    ]
+  }
+]

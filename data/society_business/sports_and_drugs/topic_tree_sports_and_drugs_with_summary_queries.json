@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Sports and Drugs",
+    "wiki_title": "Sports and Drugs",
+    "summary": "Debates about sports and drugs are mobilized to justify stringent anti-doping rules, drug testing, and bans by framing substance use as cheating that endangers athlete health and the integrity of competition. Critics counter that this framing supports punitive, often inconsistent enforcement and surveillance, advocating for medicalized treatment, transparency, harm‑reduction, and a reappraisal of which substances and sanctions are appropriate.",
+    "queries": [
+      "What consequences has Sports and Drugs caused in competitive sports?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "anti-doping and testing",
+    "wiki_title": "doping in sport",
+    "summary": "Claims about doping are used to justify strict testing, bans, and punitive policies by framing drug use as cheating that threatens fairness, athlete health, and the moral example of sport; at the same time doping scandals and enforcement inconsistencies are invoked to critique anti-doping institutions, argue hypocrisy or national culpability, and push for policy reform or harm‑reduction approaches.",
+    "queries": [
+      "How do people view anti-doping and testing policies?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "world anti-doping agency",
+    "wiki_title": "world anti-doping agency",
+    "summary": "WADA is often invoked as the authoritative arbiter that legitimizes strict testing, bans, and sanctions—framing drug use in sport as a threat to fairness and athlete safety and thereby supporting zero-tolerance and harmonized global rules. Critics, however, point to WADA to argue that anti‑doping policy is inconsistently enforced, politically influenced, invasive of athletes’ rights, and resistant to harm‑reduction or regulated alternatives.",
+    "queries": [
+      "How do people view the world anti-doping agency's role in sports?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "court of arbitration for sport",
+    "wiki_title": "court of arbitration for sport",
+    "summary": "In debates about drugs in sport, CAS rulings are routinely cited as the definitive legal backing for bans, suspensions, and the interpretation of anti‑doping rules, thereby helping proponents of strict enforcement justify tough sanctions and harmonized global standards. Conversely, CAS is also invoked to criticize anti‑doping systems when its decisions reduce penalties, find procedural or scientific weaknesses, or appear inconsistent, fueling arguments about bias, inadequate burden of proof, and unfair treatment of athletes (e.g., over TUEs and strict liability).",
+    "queries": [
+      "How do people view the court of arbitration for sport on doping?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "athlete biological passport",
+    "wiki_title": "athlete biological passport",
+    "summary": "The athlete biological passport is frequently cited to justify stricter, science-based anti-doping policies by framing cheating as detectable via long-term physiological monitoring, thereby bolstering arguments for tougher testing and sanctions to protect sporting integrity. Critics, however, invoke the passport to challenge those policies—raising privacy, reliability, and due-process concerns about statistical markers, possible false positives, and intrusive surveillance that could overreach in the name of clean sport.",
+    "queries": [
+      "How do people view the athlete biological passport's fairness?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "blood doping",
+    "wiki_title": "blood doping",
+    "summary": "Blood doping is often invoked as the archetypal example of illicit performance enhancement used to argue that drug use corrodes the integrity and safety of sport, justifying strict bans, intrusive testing, and lifetime sanctions; conversely, debates about its detection difficulties, uneven enforcement and medical privacy fuel criticisms that anti-doping policy can be punitive, inconsistent, and insufficiently attentive to systemic pressures that drive athletes to enhance.",
+    "queries": [
+      "How do people view blood doping in sports?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "therapeutic use exemption",
+    "wiki_title": "therapeutic use exemption",
+    "summary": "Therapeutic use exemptions are invoked to legitimize medically justified use of otherwise banned drugs, but in public debates they are portrayed as loopholes exploited for performance enhancement—feeding scandals, athlete distrust, and policy arguments for greater transparency, stricter criteria, and tougher enforcement.",
+    "queries": [
+      "How do people view therapeutic use exemption in sports competitions?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "usada",
+    "wiki_title": "usada pekora",
+    "summary": "Usada Pekora, a virtual entertainer, is sometimes invoked in online conversations about sports and drugs as a meme or cultural shorthand to inject humor or fandom identity into debates, which can trivialize or satirize doping scandals. Its use tends to reframe arguments away from technical anti‑doping policy and toward cultural or skeptical takes that push back on moralizing or alarmist narratives.",
+    "queries": [
+      "What consequences has USADA’s enforcement produced for athletes?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "bradley wiggins",
+    "wiki_title": "bradley wiggins",
+    "summary": "Bradley Wiggins is frequently invoked in debates over sports and drugs because controversies around his therapeutic-use exemptions and treatments are used by critics to argue that elite cyclists can exploit medical loopholes for performance gain, prompting calls for tighter anti-doping rules and TUE transparency; supporters counter that his case illustrates legitimate medical care under the rules and that reform—not vilification—is the proper response.",
+    "queries": [
+      "Is Bradley Wiggins’s use of therapeutic drugs justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "triamcinolone",
+    "wiki_title": "triamcinolone",
+    "summary": "Triamcinolone is often cited in sports-drug debates as a corticosteroid that blurs the line between legitimate medical care and performance manipulation—teams' use of injections or other administrations to reduce inflammation and hasten return to play is used to justify therapeutic exemptions but also to criticize organizations and doctors for prioritizing short‑term performance over athlete health. High‑profile uses fuel calls for stricter anti‑doping controls, greater transparency around therapeutic use exemptions, and clearer bans on in‑competition systemic corticosteroids.",
+    "queries": [
+      "How do people view triamcinolone use among athletes?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "salbutamol",
+    "wiki_title": "salbutamol",
+    "summary": "Salbutamol is invoked in sports-and-drugs debates as a medically justified asthma treatment that can nonetheless be framed as a potential loophole for performance enhancement; proponents emphasize therapeutic-use exemptions and inhaled-dose limits to protect sick athletes, while critics point to bronchodilation and metabolic effects to argue for stricter thresholds, tighter testing, or narrower eligibility rules.",
+    "queries": [
+      "How do people view salbutamol use among athletes?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "methylphenidate",
+    "wiki_title": "methylphenidate",
+    "summary": "Methylphenidate is frequently cited in sports-and-drugs debates as a prescription medication that can be repurposed for competitive advantage, prompting arguments over anti-doping rules, therapeutic-use exemptions (TUEs), and fairness. Advocates of strict enforcement point to its misuse to justify tighter bans and testing, while others invoke legitimate medical need to defend TUEs and warn against penalizing treated athletes or exacerbating unequal access to cognitive aids.",
+    "queries": [
+      "Are methylphenidate therapeutic exemptions reasonable in competitive sports?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "russian doping scandal",
+    "wiki_title": "doping in russia",
+    "summary": "Reports of widespread, state‑sponsored doping in Russia are frequently invoked to argue for tougher anti‑doping rules, increased testing, athlete bans and international sanctions as necessary to protect clean competitors and the integrity of sport. At the same time the controversy is used to accuse anti‑doping bodies of political bias and to caution against collective punishment, shaping debates about due process, sovereignty, and reform of institutions like WADA.",
+    "queries": [
+      "How do people view the russian doping scandal?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "international olympic committee",
+    "wiki_title": "international olympic committee",
+    "summary": "In debates about sports and drugs the IOC is often invoked as the chief defender of ‘clean sport,’ using its rule‑making, testing programs and support for WADA to justify strict bans, suspensions and anti‑doping enforcement. Critics counter that the IOC applies rules inconsistently, allows politically or commercially driven compromises (e.g., state‑doping controversies, high‑profile TUEs) and backs contested policies on substances and sex/gender eligibility that some argue harm athletes’ rights and medical autonomy.",
+    "queries": [
+      "Are the international olympic committee's sanctions for doping justified?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "grigory rodchenkov",
+    "wiki_title": "grigory rodchenkov",
+    "summary": "Grigory Rodchenkov’s insider revelations about Russia’s state-run doping program are often cited as definitive proof that doping can be systemically organized, bolstering calls for independent testing, athlete bans, and nation-level sanctions. Opponents, particularly Russian officials and skeptics, counter by highlighting his past involvement and alleged inconsistencies to discredit investigations and portray anti-doping actions as politically motivated.",
+    "queries": [
+      "What consequences has Grigory Rodchenkov’s actions caused in sports and drugs?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "mclaren report",
+    "wiki_title": "mclaren report",
+    "summary": "The McLaren Report is commonly invoked as authoritative proof of state-backed doping, bolstering calls for stricter sanctions, independent oversight, and retroactive stripping of results and thereby framing anti-doping as a matter of national accountability and institutional reform. Conversely, critics point to contested methods and legal disputes around the report to argue that anti-doping efforts can be politicized, defend accused athletes or nations, and caution against collective punishments.",
+    "queries": [
+      "How do people view the mclaren report in sports drug debates?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "rusada",
+    "wiki_title": "rusazus",
+    "summary": "Rusazus rarely appears in mainstream sports-and-drugs debates, but when invoked by commentators or popular writers it serves as an illustrative example of ancient athletic cultures to argue that use of stimulants or performance aids has deep historical roots. Such references are typically used to support cultural‑relativist critiques of strict modern anti‑doping policies, or conversely to highlight how modern professional sport differs and therefore needs firmer regulation.",
+    "queries": [
+      "Are rusada’s penalties for athletes reasonable or excessive?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "sochi 2014",
+    "wiki_title": "2014 winter olympics",
+    "summary": "Sochi 2014 functions as the leading case of alleged state-sponsored doping, frequently invoked by critics to demand stronger, independent anti‑doping regimes, tougher national accountability, and greater testing transparency to protect sport integrity; at the same time its ensuing legal reversals and debated sanctions are used by others to warn against politicized or overly broad punishments and to argue for greater due process for athletes.",
+    "queries": [
+      "What effects has sochi 2014 had on athlete testing practices?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "yuliya stepanova",
+    "wiki_title": "yuliya stepanova",
+    "summary": "Yuliya Stepanova is often invoked in sports-and-drugs debates as a high-profile whistleblower whose revelations are used to justify stronger anti-doping enforcement, targeted sanctions (especially against Russian programs), and greater legal protections for informants. Critics and political defenders, however, cite her background to argue the doping conflict is politicized or to question individual credibility, making her a focal point in arguments about fairness, accountability, and reform in anti-doping policy.",
+    "queries": [
+      "How do people view Yuliya Stepanova’s role in doping revelations?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "sha'carri richardson",
+    "wiki_title": "sha'carri richardson",
+    "summary": "Sha'Carri Richardson's high‑profile 2021 suspension for testing positive for THC is frequently invoked in sports-and-drugs debates: reformers use her case to argue that cannabis bans are outdated, inconsistently applied, and disproportionately harm Black athletes (calling for compassion and rule changes), while defenders cite it to justify strict, uniform anti‑doping enforcement to protect competitive integrity.",
+    "queries": [
+      "What are public opinions about sha'carri richardson and drug policies?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "sports ethics and fairness",
+    "wiki_title": "sportsmanship",
+    "summary": "In debates over drugs in sport, appeals to sportsmanship are used to morally condemn doping as a betrayal of fair play and respect, providing a key justification for strict bans, testing regimes, and sanctions. Others invoke sportsmanship to criticize punitive or hypocritical anti‑doping practices—arguing that protecting athlete welfare, honesty, and mutual respect should shape more humane, transparent policies rather than solely punitive approaches.",
+    "queries": [
+      "Is sports ethics and fairness upheld when athletes use performance-enhancing drugs?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "balco scandal",
+    "wiki_title": "balco scandal",
+    "summary": "The BALCO scandal is often invoked as proof that elite sports are susceptible to sophisticated, widespread doping, and is used to justify tougher testing, retroactive sanctions, and stronger anti‑doping regimes; it is also cited to criticize inconsistent enforcement and to argue for policy reforms around athlete rights, testing transparency, or alternative regulatory approaches.",
+    "queries": [
+      "Is the balco scandal justified or not in sports?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "victor conte",
+    "wiki_title": "victor conte",
+    "summary": "Victor Conte is invoked in sports-and-drugs debates as the archetypal supplier-whistleblower whose BALCO scandal is used to illustrate systemic, elite-level doping and to justify tougher testing, prosecutions, and demands for institutional accountability. His later defenses and advocacy for regulated, medical oversight of performance enhancers are also cited by some to argue for pragmatic legalization or reform of anti-doping policies rather than idealistic zero-tolerance approaches.",
+    "queries": [
+      "Are concerns about victor conte justified in sports and drugs?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "tetrahydrogestrinone (thg)",
+    "wiki_title": "tetrahydrogestrinone",
+    "summary": "THG is routinely invoked as a high‑profile example of covert, designer doping that erodes public trust in elite sport and is used to justify tougher testing regimes (e.g., biological passports), retroactive sanctions, and stricter oversight of coaches and supplements; it also fuels criticism of governing bodies for enforcement failures while prompting counterarguments about privacy, due process, and limits of anti‑doping technology.",
+    "queries": [
+      "What consequences has tetrahydrogestrinone (thg) brought to sports?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "marion jones",
+    "wiki_title": "marion jones",
+    "summary": "Marion Jones’s very public admission and punishment for doping is frequently invoked as a cautionary example in debates about sports and drugs, bolstering calls for tougher testing, harsher penalties, and retroactive stripping of titles to protect the integrity of competition. Her case is also used to highlight systemic pressures, testing failures, and the need for better prevention, transparency, and athlete education—shaping arguments both for strict enforcement and for reforms to reduce incentives to dope.",
+    "queries": [
+      "How do people view marion jones's role in sports and drugs?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "greg anderson",
+    "wiki_title": "greg anderson",
+    "summary": "Greg Anderson is frequently invoked in debates about doping as the archetypal trainer/assistant who allegedly supplied and enabled elite athletes’ steroid use, a narrative used by critics to justify tougher testing, prosecutions, and anti-doping enforcement. Conversely, some defenders cast him as a peripheral or coerced figure to argue against attributing full blame to athletes and to criticize aggressive prosecutorial approaches.",
+    "queries": [
+      "Are criticisms of greg anderson reasonable within sports and drugs discussions?"
+    ]
+  },
+  {
+    "id": "C2-4-7",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "mitchell report",
+    "wiki_title": "mitchell report",
+    "summary": "The Mitchell Report is frequently invoked as an authoritative exposé that frames MLB as having a systemic performance‑enhancing drug problem, used to justify tougher testing, greater transparency, and harsher sanctions while undermining the legitimacy of tainted records and Hall of Fame candidacies. At the same time it is cited by critics as evidence of sensationalism and reputational harm—fueling debates over due process, fairness, and how to balance accountability with rights of accused players.",
+    "queries": [
+      "How do people view the mitchell report’s impact on sports and drugs?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "lance armstrong",
+    "wiki_title": "lance armstrong",
+    "summary": "Lance Armstrong is invoked as the archetypal high-profile doping scandal used to argue that elite sports are vulnerable to systemic cheating and to justify strict anti-doping policies such as lifetime bans, tougher testing, and stronger whistleblower protections. Conversely, his case is also used to criticize governing bodies’ failures, question the fairness and effectiveness of testing and sanctions, and highlight how celebrity and philanthropy can obscure misconduct.",
+    "queries": [
+      "Are criticisms of lance armstrong reasonable or excessive in sports?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "u.s. postal service team",
+    "wiki_title": "u.s. postal service pro cycling team",
+    "summary": "The U.S. Postal Service Pro Cycling Team is often invoked as the archetypal case of systemic, team‑level doping, used to argue for stronger anti‑doping enforcement, collective team sanctions, and cultural reform in cycling rather than treating PED use as isolated athlete misconduct. Its exposure is also cited to criticize past testing regimes and to challenge hero narratives about champions, fueling calls for transparency and institutional accountability.",
+    "queries": [
+      "What impact has the u.s. postal service team had on sports doping?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "oprah winfrey",
+    "wiki_title": "oprah winfrey",
+    "summary": "Oprah’s massive media platform frames drug issues in sports through confessional, human‑interest storytelling—amplifying athlete admissions, rehab journeys, and wellness narratives that make doping or substance misuse feel like personal and moral struggles rather than only regulatory failures. Her emphasis on redemption, holistic health, and therapy-oriented solutions tends to steer public opinion toward sympathetic, treatment‑focused responses rather than strictly punitive or criminal approaches to drugs in sport.",
+    "queries": [
+      "How do people view Oprah Winfrey's comments about athletes and drugs?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "erythropoietin (epo)",
+    "wiki_title": "erythropoietin",
+    "summary": "EPO is cited in Sports-and-Drugs debates as the prototypical performance-enhancer that justifies strict anti-doping rules, invasive blood testing, and punitive measures because it markedly boosts endurance and carries serious health risks. At the same time, controversies over therapeutic exemptions, detection accuracy, and high-profile doping scandals make it a focal point for arguments both for harsher enforcement to protect fairness and for harm-reduction or reform of punitive policies.",
+    "queries": [
+      "Is erythropoietin (epo) use in sports justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "tour de france",
+    "wiki_title": "tour de france",
+    "summary": "The Tour de France is the touchstone in public debates on sports and drugs: recurring high‑profile doping scandals are cited to justify tougher testing, stricter penalties, team oversight, and greater transparency. Conversely, critics invoke the Tour to argue anti‑doping measures are often inadequate and that cycling’s systemic incentives and performance pressures — not just individual athletes — must be reformed.",
+    "queries": [
+      "What impacts have drugs had on the Tour de France's reputation?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "anabolic steroid control act",
+    "wiki_title": "anabolic steroids control act of 1990",
+    "summary": "Proponents invoke the Anabolic Steroids Control Act of 1990 as legal justification for strict anti-doping enforcement in sport, framing steroid use as illegal, unsafe, and unfair and thus supporting testing, bans, and punitive sanctions. Critics use the Act to argue that criminalisation drives steroid use underground, impedes medical oversight and harm-reduction approaches, and overly criminalizes athletes instead of addressing root causes of doping.",
+    "queries": [
+      "Is the anabolic steroid control act reasonable for Sports and Drugs policy?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "mlb steroid scandal",
+    "wiki_title": "doping in baseball",
+    "summary": "Doping in baseball is often cited as the high-profile example that sports drug policy must protect competitive integrity—used to justify stronger testing, transparency, retroactive sanctions, and exclusionary stances (e.g., Hall of Fame votes). It also animates the opposing narrative that widespread use reflects systemic pressures and calls for more nuanced responses—education, rehabilitation, or contextual judgment rather than only punitive measures.",
+    "queries": [
+      "What consequences has the mlb steroid scandal caused?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "underground labs",
+    "wiki_title": "sanford underground research facility",
+    "summary": "The Sanford Underground Research Facility is rarely tied directly to doping, but it appears in public arguments as a symbolic example in funding debates: supporters of large-scale basic research cite it to justify big science investments, while critics contrast that spending with perceived underinvestment in anti-doping programs and athlete health, using the comparison to challenge policy priorities around addressing drugs in sport.",
+    "queries": [
+      "How do people view underground labs involved in sports drugs?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and regulatory issues",
+    "wiki_title": "regulation",
+    "summary": "In debates over sports and drugs, appeals to regulation are used to justify strict anti‑doping rules and substance bans as necessary to preserve competitive integrity, athlete safety, and public trust, and to defend leagues’ use of rules to manage reputational risk. Conversely, critics point to inconsistent enforcement, punitive criminalization, and regulatory barriers to therapeutic or harm‑reduction approaches to argue for clearer standards, decriminalization, or independent oversight instead of heavy-handed or politicized control.",
+    "queries": [
+      "Are legal and regulatory issues in sports and drugs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "rodchenkov anti-doping act",
+    "wiki_title": "rodchenkov anti-doping act of 2019",
+    "summary": "The Rodchenkov Anti-Doping Act is invoked in debates to justify criminal prosecution and stronger deterrence against state-sponsored and international doping schemes, framing anti-doping as a law‑and‑order issue and protection for clean athletes. Critics counter that it politicizes sport, risks extraterritorial overreach by the U.S., and inappropriately substitutes criminal enforcement for specialized sports governance and arbitration.",
+    "queries": [
+      "What effects has the rodchenkov anti-doping act had in sports?"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "parent": "C3",
+    "level": 2,
+    "topic": "controlled substances act",
+    "wiki_title": "controlled substances act",
+    "summary": "The Controlled Substances Act is frequently cited in sports debates to justify criminalization, testing, and bans on athletes’ drug use and to frame whether substance control should be treated as a law‑and‑order issue or a medical/ethical one. Critics use its scheduling inconsistencies and federal control (e.g., marijuana still Schedule I) to argue that legal classifications can misalign with actual performance‑enhancing effects, hinder legitimate medical treatment and pain management for athletes, and promote punitive rather than evidence‑based anti‑doping policies.",
+    "queries": [
+      "What impacts has the controlled substances act had on sports?"
+    ]
+  },
+  {
+    "id": "C3-8-7",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "medical marijuana",
+    "wiki_title": "medical cannabis",
+    "summary": "Proponents cite medical cannabis as a legitimate, opioid‑sparing treatment for athlete pain and recovery and use that claim to push for therapeutic use exemptions, rescheduling, and more research; opponents and anti‑doping voices counter that its psychoactive effects, uncertain benefits, and potential for abuse threaten athlete safety, fairness, and the integrity of drug‑free sport.",
+    "queries": [
+      "How do people view medical marijuana for athletes?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "biogenesis scandal",
+    "wiki_title": "biogenesis scandal",
+    "summary": "The Biogenesis scandal is frequently cited as a flagship example of how widespread PED supply can undermine sporting integrity, used to justify tougher testing regimes, longer suspensions, and even criminal investigations into drug suppliers. It is also invoked by critics to highlight MLB’s enforcement gaps and inconsistent discipline, fueling calls for greater transparency and due-process protections rather than ad-hoc punishments.",
+    "queries": [
+      "What consequences has the biogenesis scandal caused in sports?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "major league baseball",
+    "wiki_title": "major league baseball",
+    "summary": "MLB is often invoked as the archetypal case in sports–drug debates: its high‑profile doping scandals and investigations are used to argue for stronger testing, transparency, and tougher penalties to protect competitive integrity and fan trust. At the same time, critics point to the league's delayed and uneven responses and perceived protection of star players to justify calls for independent oversight and policies that prioritize athlete health over revenue and legacy.",
+    "queries": [
+      "Is major league baseball's drug policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "maria sharapova",
+    "wiki_title": "maria sharapova",
+    "summary": "Sharapova's high-profile doping suspension is frequently invoked in debates over anti-doping rules as both a cautionary example demanding firm, uniformly enforced sanctions and as a case that exposes how medical prescriptions, rule changes, and athlete culpability can be complex and merit proportionality. Supporters of her treatment use the episode to argue for clearer WADA communication and stronger due-process protections, while critics cite it to press for tougher deterrents and skepticism about leniency for elite competitors.",
+    "queries": [
+      "Is Maria Sharapova's suspension reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "public health and medicine",
+    "wiki_title": "public health",
+    "summary": "Public health arguments are used to prioritize athlete safety and population-level harms in Sports and Drugs debates—supporting rigorous testing, bans and prevention programs to curb performance-enhancing drug use while also legitimizing harm-reduction policies (medical oversight, treatment and education) for recreational substance misuse. These frames are deployed both to criticize permissive, profit-driven sporting cultures and to argue for surveillance, rehabilitation and resource allocation rather than solely punitive or stigmatizing responses.",
+    "queries": [
+      "Is public health and medicine's handling of sports drugs reasonable?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "anabolic steroid",
+    "wiki_title": "anabolic steroid",
+    "summary": "Anabolic steroids are invoked in sports-and-drugs debates as the prototypical form of doping that legitimizes strict bans, testing regimes, and moral condemnation of athletes who seek unfair advantage; at the same time their health risks, prevalence, and black‑market supply are used to argue for stronger athlete protections, harm‑reduction policies, or regulated medical avenues rather than purely punitive enforcement.",
+    "queries": [
+      "Is using anabolic steroid in sports reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "barry bonds",
+    "wiki_title": "barry bonds",
+    "summary": "Barry Bonds is frequently invoked as the archetypal case of how alleged PED use by a superstar can tarnish records and public trust, and is used by critics to justify stronger testing, punishments, and exclusion from honors. Conversely, defenders point to his legal battles and the era's widespread drug culture to argue against retrospective shaming and for more nuanced, context‑based policies.",
+    "queries": [
+      "Is Barry Bonds's legacy in Sports and Drugs debates justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "bodybuilding",
+    "wiki_title": "bodybuilding",
+    "summary": "Bodybuilding is often invoked as the emblematic case in sports-and-drugs debates—used by critics to illustrate the health risks, unfair advantages, and spectacle of widespread anabolic use, and by defenders to argue for athlete autonomy, harm-reduction or sport-specific norms where drug-enhanced outcomes are inevitable; its visible extremes and federations’ varied testing policies therefore drive calls for stricter regulation, medical oversight, or acceptance depending on the speaker’s stance.",
+    "queries": [
+      "Is bodybuilding's use of performance-enhancing drugs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "opioid epidemic",
+    "wiki_title": "opioid epidemic",
+    "summary": "In discussions of Sports and Drugs, the opioid epidemic is cited to argue that a culture of playing through pain and routine post‑injury prescribing has helped fuel addiction among athletes, prompting criticism of team doctors, leagues, and medical protocols. It is therefore invoked to justify stricter oversight, prescription monitoring, and non‑opioid pain‑management and treatment programs for athletes while condemning organizations that prioritize short‑term performance over long‑term health.",
+    "queries": [
+      "How do people view the opioid epidemic's impact on sports?"
+    ]
+  },
+  {
+    "id": "C4-5-1",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "purdue pharma",
+    "wiki_title": "purdue pharma",
+    "summary": "Purdue Pharma is invoked in sports-and-drugs debates as a cautionary example of how pharmaceutical marketing and medical conflicts of interest can lead to routine overprescribing of painkillers to keep athletes competing, fueling calls for independent team medical care, stricter prescription controls, and better monitoring of performance-related drug use. Its story is used to justify tighter league oversight, anti-doping scrutiny, and legal accountability for companies and team medical staff, while opponents of expanded regulation sometimes downplay corporate influence to resist greater liability.",
+    "queries": [
+      "Is Purdue Pharma's role in sports-related drug issues justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "sackler family",
+    "wiki_title": "sackler family",
+    "summary": "The Sackler name is often invoked in sports-and-drugs arguments as a cautionary emblem of pharmaceutical influence, used by critics to spotlight how team doctors, leagues, and sponsors can enable over‑prescription of painkillers to injured athletes and to demand stronger oversight, transparency, and limits on industry ties. Conversely, it is sometimes referenced by those urging balanced policy to warn that restricting medical access for athletes must still allow legitimate pain management.",
+    "queries": [
+      "How do people view the sackler family's role in drug-related sports funding?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "oxycontin",
+    "wiki_title": "oxycodone",
+    "summary": "Oxycodone is often cited in sports-drug debates as the exemplar opioid that teams and team doctors prescribe to keep injured athletes competing, and is used to criticize a win-at-all-costs culture for creating addiction risks. Its prominence in cases of athlete dependence bolsters calls for stricter prescription oversight, independent medical care, and non-opioid pain-management policies in sport.",
+    "queries": [
+      "Is oxycontin use in sports justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "naloxone",
+    "wiki_title": "naloxone",
+    "summary": "In sports-and-drugs debates naloxone is cited by harm-reduction advocates to justify on-site overdose preparedness and to recast athlete opioid dependence as a medical problem needing access to life‑saving treatment and better pain‑management rather than punitive sanctions. Opponents sometimes use its distribution to claim it normalizes or enables drug use, making naloxone a flashpoint between public‑health approaches and zero‑tolerance disciplinary policies.",
+    "queries": [
+      "Is providing naloxone at sporting events justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "sports medicine",
+    "wiki_title": "sports medicine",
+    "summary": "Sports medicine experts are frequently invoked to legitimize anti‑doping rules and testing by emphasizing the health risks of performance‑enhancing drugs and supplying clinical evidence and protocols that frame such use as unsafe and unfair. At the same time, sports medicine is used to argue for therapeutic use exemptions, medical oversight and harm‑reduction approaches, and to challenge overly punitive or criminalized responses, shaping policy debates around athlete health versus performance regulation.",
+    "queries": [
+      "Is sports medicine's drug use reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "chronic traumatic encephalopathy",
+    "wiki_title": "chronic traumatic encephalopathy",
+    "summary": "In debates about sports and drugs, CTE is used to criticize the culture of pain‑killer, anti‑inflammatory and performance‑enhancing drug use that can mask concussions and encourage return‑to‑play, justifying stricter medical protocols and limits on such substances; it is also invoked to argue for allowing therapeutic alternatives (for example medical cannabis or novel treatments) and for reforming anti‑doping priorities to protect long‑term brain health over short‑term performance.",
+    "queries": [
+      "How do people view chronic traumatic encephalopathy in sports?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "national football league",
+    "wiki_title": "national football league",
+    "summary": "The NFL is frequently cited in debates over sports and drugs as a test case: supporters of strict anti-doping and suspension regimes point to the league to argue drugs threaten competitive integrity and the sport’s image, while critics use NFL controversies around opioid prescribing, pain-management culture, and punitive marijuana policies to argue the league prioritizes winning and profits over player health. Its high-profile disciplinary decisions and gradual, contested shifts on cannabis and pain-treatment shape public and policy arguments about whether to criminalize, medically treat, or adopt harm-reduction approaches to athlete drug use.",
+    "queries": [
+      "How do people view the national football league’s handling of drugs?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "nfl concussion settlement",
+    "wiki_title": "concussions in american football",
+    "summary": "Concussions in American football are frequently cited to criticize the use of painkillers, opioids, and other drugs that enable injured players to keep playing, bolstering calls for stricter medical oversight, anti-doping enforcement, and limits on pharmacological masking of injuries. They also motivate support for research into neuroprotective and therapeutic drugs, while framing ethical arguments against treating drug-enabled performance as an acceptable substitute for safer rules and enforcement.",
+    "queries": [
+      "Is the nfl concussion settlement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "boston university cte center",
+    "wiki_title": "boston university cte center and brain bank",
+    "summary": "Boston University’s CTE Center and brain bank are often cited in debates about sports and drugs to link repetitive head trauma to long-term brain disease, reinforcing arguments that the culture of playing through pain drives athletes into opioid and other substance misuse and that stricter concussion protocols, limits on contact play, and tighter prescription oversight are needed. At the same time, stakeholders resisting drug-focused policies sometimes use the center’s trauma-centered findings to argue that neurodegeneration is primarily injury-driven—not drug-caused—shifting policy emphasis toward contact-safety rather than anti-doping or criminalization of athlete substance use.",
+    "queries": [
+      "Is the boston university cte center’s research on athletes justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "aaron hernandez",
+    "wiki_title": "aaron hernandez",
+    "summary": "Aaron Hernandez is frequently invoked in debates about drugs in sport as a high-profile case used to argue that access to prescription painkillers and substance misuse—often discussed alongside brain injuries like CTE—can exacerbate violent behavior and therefore justify stronger medical oversight, addiction treatment, and tighter controls on opioids/pain management in professional leagues. Critics counter that his crimes should not be reduced to drug use or injury, using the case to argue for individual accountability and caution against policy changes that excuse criminal behavior.",
+    "queries": [
+      "What consequences has aaron hernandez had on sports and drugs?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "mike webster",
+    "wiki_title": "mike webster",
+    "summary": "Mike Webster is often invoked as a tragic exemplar linking repeated head trauma to cognitive decline and substance dependence, and his story is used to argue that addiction and painkiller use among professional athletes frequently arise from untreated brain injury and inadequate medical support. His case bolsters calls for stronger concussion protocols, better addiction treatment and NFL accountability, while critics sometimes point to his substance use to question how much CTE alone explains player decline.",
+    "queries": [
+      "Are criticisms of mike webster’s drug-related conduct justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "chris froome",
+    "wiki_title": "chris froome",
+    "summary": "Chris Froome’s 2017 salbutamol AAF and the ensuing investigation are frequently cited in debates about drugs in sport to illustrate tensions between therapeutic use exemptions, laboratory thresholds, and enforcement consistency. His case is used by critics to argue that star athletes receive lenient treatment and by defenders to emphasize scientific complexity and the need for due process and greater testing transparency.",
+    "queries": [
+      "Is Chris Froome's treatment in sports and drugs fair or not?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "british cycling",
+    "wiki_title": "british cycling",
+    "summary": "British Cycling is often cited in debates on sports and drugs as the governing authority that legitimizes anti-doping rules and testing regimes in UK cycling, while critics use its handling of high-profile cases to argue that national bodies can protect star athletes, underinvest in independent oversight, and perpetuate a win-at-all-costs culture — fueling calls for stronger independence, transparency, and harsher sanctions.",
+    "queries": [
+      "Is british cycling’s response to doping reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "athlete rights and privacy",
+    "wiki_title": "right to privacy",
+    "summary": "In debates over doping and drug-testing, appeals to the right to privacy are used to challenge invasive measures—such as mandatory ‘whereabouts’ reporting, blood/biological passport monitoring, genetic screening, and public disclosure of medical/test data—on grounds of athletes’ medical confidentiality and bodily autonomy; proponents of strict anti-doping argue back that broad data collection and transparency are justified to protect the integrity of sport and deter cheating.",
+    "queries": [
+      "Are athlete rights and privacy reasonably protected in sports and drugs cases?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "hipaa",
+    "wiki_title": "health insurance portability and accountability act",
+    "summary": "In debates over doping, therapeutic-use exemptions, and drug-related injuries, HIPAA is frequently invoked to justify withholding athletes’ medical records and test details, framing arguments in favor of protecting player privacy and reputations. Conversely, critics accuse teams and leagues of misusing HIPAA as a pretext to avoid transparency and accountability, bolstering calls for policy changes that balance confidentiality with anti-doping enforcement and public interest in sport integrity.",
+    "queries": [
+      "Is hipaa privacy reasonable in sports drug testing?"
+    ]
+  },
+  {
+    "id": "C5-6-2",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "drug testing in sports",
+    "wiki_title": "drug test",
+    "summary": "Drug tests are used to justify anti-doping rules and punitive measures by framing stricter testing as essential to fairness, safety, and the integrity of sport, bolstering support for bans, suspensions, and intrusive monitoring. Opponents point to false positives, uneven enforcement, privacy harms, and limited detection windows to criticize punitive policies and press for reform, transparency, or more nuanced treatment of athletes (e.g., therapeutic exemptions).",
+    "queries": [
+      "How do people view drug testing in sports?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "team physician",
+    "wiki_title": "team physician",
+    "summary": "In debates about sports and drugs, team physicians are often invoked to justify therapeutic exemptions and pain-management practices that permit otherwise banned substances, or criticized for enabling performance-enhancing drug use and overprescribing under pressure to keep athletes competing. Their dual role as patient advocate and team representative shapes calls for stricter anti-doping oversight, transparency, and limits on opioid and PED prescriptions.",
+    "queries": [
+      "Is team physician involvement in players' drug policies justified?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "protected health information",
+    "wiki_title": "protected health information",
+    "summary": "In debates over doping and therapeutic-use exemptions, PHI is invoked to argue both for athlete privacy—shielding medical histories, TUEs and wearable/biometric data from public exposure—and against it, with critics saying PHI protections can be used to conceal performance‑enhancing drug use and block accountability. Those competing framings drive policy fights over stricter confidentiality and de‑identification standards for research versus calls for greater disclosure and data access to strengthen anti‑doping enforcement and public trust.",
+    "queries": [
+      "How do people view sharing protected health information in drug testing?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "electronic health record",
+    "wiki_title": "electronic health record",
+    "summary": "Electronic health records are presented as objective evidence and population-level data sources in sports-and-drugs debates—used by regulators, teams, and researchers to track athletes’ prescriptions and doping patterns, justify stricter monitoring, or support medical exemptions and treatment programs. Critics counter that EHR-driven surveillance risks privacy violations, career harm, and data misuse, shaping advocacy for stronger consent, limited sharing, and safeguards against punitive use of medical records.",
+    "queries": [
+      "Is using electronic health record for athletes' drug histories reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "breach notification rule",
+    "wiki_title": "data breach notification laws",
+    "summary": "In sports-and-drugs debates, data breach notification laws are invoked to portray leaks of athlete medical records or drug-test results as governance failures that justify demands for greater transparency, accountability, and reforms in anti-doping data handling; conversely, privacy advocates use those same laws to argue against public disclosure of sensitive testing or treatment information, emphasizing legal protections to prevent reputational harm and limit sensationalized coverage.",
+    "queries": [
+      "Is the breach notification rule in sports and drugs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "whistleblower",
+    "wiki_title": "whistleblowing",
+    "summary": "In debates about sports and drugs, whistleblowers are often cited as pivotal proof of systemic doping, cover‑ups, or failures in testing governance—mobilizing public outrage, calls for tougher anti‑doping enforcement, and institutional reform. Conversely, accusations against whistleblowers’ motives or credibility are used to defend athletes or agencies and to cast doubt on investigations, so their disclosures both legitimize policy change and become focal points in battles over transparency and trust.",
+    "queries": [
+      "Is whistleblower action in sports and drugs justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "emma o'reilly",
+    "wiki_title": "o'reilly",
+    "summary": "References to O'Reilly (especially conservative media figures using the name) are often invoked in sports-and-drugs debates to moralize athlete drug use and push punitive, reputational, and zero‑tolerance responses, framing doping and recreational use as personal failings rather than public‑health issues.",
+    "queries": [
+      "Is emma o'reilly's whistleblowing about sports and drugs justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7-5",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "floyd landis",
+    "wiki_title": "floyd landis",
+    "summary": "Floyd Landis’s dramatic disqualification from the 2006 Tour de France and later confession and whistleblowing are repeatedly invoked in debates about sports and drugs as emblematic of both a pervasive, team-wide doping culture in elite cycling and of the need for robust anti‑doping enforcement; conversely, his contested testing and legal fights are also cited by critics to argue that anti‑doping procedures can be flawed and retroactive punishments unjust. His case is used to justify stricter testing, biological passports, and tougher sanctions while fueling skepticism about testing reliability and the fairness of anti‑doping governance.",
+    "queries": [
+      "What consequences has Floyd Landis had for sports and drugs?"
+    ]
+  },
+  {
+    "id": "C5-7-7",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "wada",
+    "wiki_title": "wada",
+    "summary": "WADA is frequently invoked to justify strict anti-doping rules, testing programs, biological passports, and sanctions as necessary to protect athlete health and the integrity and fairness of sport. Its actions also fuel criticism—accusations of inconsistent enforcement, politicization (e.g., national-targeted investigations), and heavy-handed privacy or due‑process impacts—so it polarizes debates between integrity-focused regulation and civil‑rights or sovereignty concerns.",
+    "queries": [
+      "Is WADA’s testing regime reasonable or not in sports?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "uk anti-doping",
+    "wiki_title": "uk anti-doping",
+    "summary": "UK Anti‑Doping is routinely cited by advocates of ‘clean sport’ to justify rigorous testing, bans, and education as necessary to protect fairness and public confidence, while critics use its enforcement choices, transparency and handling of therapeutic use exemptions to argue that anti‑doping policy can be inconsistent, punitive, or overreaching; its reports and rulings therefore shape debates over athlete rights, resource allocation, and the legitimacy of anti‑doping regimes.",
+    "queries": [
+      "How do people view uk anti-doping within sports and drugs?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "union cycliste internationale",
+    "wiki_title": "union cycliste internationale",
+    "summary": "The Union Cycliste Internationale (UCI) is frequently invoked in sports-and-drugs debates as the authority whose rules, testing regimes (e.g., biological passport) and sanction decisions are used to justify tougher anti‑doping measures or, conversely, to accuse the sport of cover‑ups and leniency; controversies over its handling of cases and Therapeutic Use Exemptions shape arguments about whether doping is an individual moral failure or a systemic institutional problem requiring reform.",
+    "queries": [
+      "How do people view union cycliste internationale’s doping enforcement policies?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "special categories of personal data",
+    "wiki_title": "personal data",
+    "summary": "Personal data (medical records, biometrics, test results and tracking data) is deployed by anti‑doping agencies, teams and media to justify intrusive testing, continuous monitoring and public reporting as necessary to detect dopers and protect competitive integrity. Critics counter that broad collection and sharing of athletes' personal data risks privacy violations, stigmatization and misuse, invoking legal protections (e.g. GDPR) to demand consent, data minimization and stricter limits on surveillance‑based enforcement.",
+    "queries": [
+      "Is using special categories of personal data in sports and drugs justified?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "data protection impact assessment",
+    "wiki_title": "privacy impact assessment",
+    "summary": "In debates over anti-doping and athlete monitoring, privacy impact assessments are used to legitimize or challenge testing programs and data systems—proponents point to PIAs to argue that biometric, genetic or medical-data collection is proportionate and controlled, while opponents cite absent or flawed PIAs to claim such measures enable privacy violations, misuse and discrimination. PIA findings thus often steer policy positions on the adoption of new testing technologies, therapeutic-use exemptions, and data‑sharing between sports bodies and health authorities.",
+    "queries": [
+      "Is data protection impact assessment reasonable for drug-testing data sharing?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "european data protection board",
+    "wiki_title": "european data protection board",
+    "summary": "In debates about sports and drugs the European Data Protection Board’s GDPR guidance is often invoked to challenge anti‑doping practices that collect, share, or analyze athletes’ medical, genetic, or testing data, framing those practices as privacy‑invasive and in need of strict safeguards (consent, purpose‑limitation, retention limits). Conversely, regulators and federations cite EDPB standards to justify lawful, proportionate data processing for anti‑doping and integrity purposes while arguing the guidance outlines how to balance enforcement with athletes’ data‑protection rights.",
+    "queries": [
+      "What effects has european data protection board had on sports and drugs?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "medical confidentiality",
+    "wiki_title": "confidentiality",
+    "summary": "Confidentiality is often invoked to justify keeping doping test results, medical records, and settlement terms secret—used by teams, leagues, and some agencies to defend athlete privacy and protect testing methods, but criticized by advocates for transparency who say it enables cover-ups and blocks accountability. Debates over how much information should be confidential therefore shape policy positions, with supporters favoring privacy and operational secrecy and critics demanding disclosure to deter drug use and restore public trust.",
+    "queries": [
+      "Is medical confidentiality in sports and drugs cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "information commissioner's office",
+    "wiki_title": "information commissioner's office",
+    "summary": "Campaigners and journalists cite the Information Commissioner’s Office when pressing for release of anti‑doping investigation files or athlete medical records via FOI rulings, using its decisions to argue for transparency and accountability in high‑profile sports drug scandals. Conversely, federations and privacy advocates invoke the ICO to justify withholding sensitive health or biometric data, framing debates around protecting athlete privacy and limiting intrusive testing or surveillance.",
+    "queries": [
+      "Is the information commissioner's office oversight in sports and drugs reasonable?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "international competition and geopolitics",
+    "wiki_title": "geopolitics",
+    "summary": "Geopolitics frames sports-and-drugs debates by treating doping, drug regulation, and pharmaceutical access as tools of national power—states use anti-doping enforcement, athlete bans, and drug export controls to signal prestige, punish rivals, or gain competitive advantage, and some regimes defend state-linked programs as strategic necessity. Critics counter that enforcement is often geopolitically biased—used to impose Western norms or weaken competitors—which fuels calls for either stronger global harmonization of drug policy in sport or greater respect for national sovereignty and pragmatic approaches.",
+    "queries": [
+      "What consequences has international competition and geopolitics had for sports and drugs?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sporting boycotts",
+    "wiki_title": "boycotts of israel in sports",
+    "summary": "Calls to boycott Israel in sports are often invoked in debates over sports governance to argue about consistency and politicization of sanctions—critics of anti-doping regimes point to politically driven boycotts as evidence that bans and punishments (including for drug use) can be selective or politically motivated. Conversely, defenders of strict anti-doping policies sometimes liken boycotts to legitimate ethical sanctions, using the comparison to justify firm exclusion of athletes who violate drug rules and to argue for values-based enforcement.",
+    "queries": [
+      "Are sporting boycotts justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "corporate sponsorships",
+    "wiki_title": "sponsor (commercial)",
+    "summary": "Commercial sponsors shape the sports-and-drugs debate by protecting brand value—pressuring leagues to frame doping as isolated athlete misconduct, funding high-profile anti-doping programs for optics, or withdrawing support to signal ‘zero tolerance’—thereby pushing public opinion toward narratives and policies that reduce reputational and financial risk. Critics argue this leads sponsors to prioritize image over athlete welfare, encouraging selective enforcement, superficial reforms, or opposition to transparency when it threatens commercial interests.",
+    "queries": [
+      "How do people view corporate sponsorships in sports involving drugs?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "cas",
+    "wiki_title": "cas",
+    "summary": "The Court of Arbitration for Sport (CAS) is often cited in doping disputes as the ultimate legal authority whose rulings are used to validate or overturn sanctions, shaping public debates about justice and consistency in anti‑doping enforcement. Supporters point to CAS decisions to justify tougher, standardized punishments and the rule of law in sport, while critics invoke CAS outcomes to allege bias, secrecy, or inconsistent application that undermines athletes’ rights and the credibility of anti‑doping policy.",
+    "queries": [
+      "Are cas decisions on athlete drug bans justified or controversial?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "east german doping",
+    "wiki_title": "doping in east germany",
+    "summary": "Doping in East Germany is invoked as a canonical case of state‑sponsored, systematic drug use to argue for stronger anti‑doping enforcement, athlete protections, and reparations for victims; it is also used to criticize the politicization of sport and to cast doubt on the legitimacy of Cold War‑era results, reinforcing narratives that institutional pressures—rather than individual choice—drive widespread doping.",
+    "queries": [
+      "What consequences has east german doping caused in sports?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "manfred ewald",
+    "wiki_title": "manfred ewald",
+    "summary": "Manfred Ewald is cited as a prime example of state-directed doping used to argue that drug use in sport can be an institutional, political practice rather than merely individual cheating, bolstering calls for stronger international oversight, athlete protections, and accountability of sports authorities. His case is also invoked to challenge narratives that blame only athletes, support retroactive sanctions and reparations, and to criticize authoritarian or nationalistic sports systems that prioritize medals over health.",
+    "queries": [
+      "What consequences has manfred ewald had in sports drug scandals?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "stasi",
+    "wiki_title": "stasi",
+    "summary": "In discussions of sports and drugs the Stasi is invoked as shorthand for the GDR’s state‑directed, coercive doping system—used to condemn politically driven drug programs, demand transparency, athlete redress, and stricter anti‑doping enforcement; it is also cited by critics who argue that heavy‑handed testing and lifetime monitoring can verge on Stasi‑like surveillance and abuse of athletes’ rights.",
+    "queries": [
+      "Is stasi involvement in sports doping justified or not?"
+    ]
+  },
+  {
+    "id": "C8-8",
+    "parent": "C8",
+    "level": 2,
+    "topic": "national prestige",
+    "wiki_title": "prestige",
+    "summary": "Appeals to prestige frequently shape debates over drugs in sport by framing doping scandals as threats to a sport’s reputation, which can be used both to justify harsher sanctions and to defend institutions by minimizing or concealing problems to protect elite brands. Prestige also skews public and policy responses—high‑status athletes and sports often receive sympathetic, rehabilitative narratives or lighter scrutiny, while lower‑status competitors face stricter punishment and moral condemnation.",
+    "queries": [
+      "How do people view national prestige regarding sports and drugs?"
+    ]
+  },
+  {
+    "id": "C8-8-4",
+    "parent": "C8-8",
+    "level": 3,
+    "topic": "olympic medal table",
+    "wiki_title": "olympic medal table",
+    "summary": "The Olympic medal table is often wielded in sports-and-drugs debates as evidence that national pressure for medal rankings fuels doping—critics cite inflated or later-stripped tallies to justify tougher testing, sanctions, and retroactive reallocation—while others use the table’s instability after doping revelations to argue against relying on medal counts as a legitimate measure of success or policy guide.",
+    "queries": [
+      "How do people view the olympic medal table after drug disqualifications?"
+    ]
+  },
+  {
+    "id": "C8-8-5",
+    "parent": "C8-8",
+    "level": 3,
+    "topic": "sportswashing",
+    "wiki_title": "sportswashing",
+    "summary": "In discussions of sports and drugs, critics use “sportswashing” to accuse states, pharmaceutical companies, or team owners of buying sporting prestige to distract from drug-related harms—whether trafficking, brutal drug-war policies, opioid scandals, or lax anti-doping enforcement—thereby minimizing scrutiny of those problems. The label bolsters calls for tighter sponsorship rules, anti-doping transparency, and policies that block reputational laundering by actors linked to drug crimes or public-health scandals.",
+    "queries": [
+      "What consequences has sportswashing had for sports and drugs?"
+    ]
+  },
+  {
+    "id": "C8-8-7",
+    "parent": "C8-8",
+    "level": 3,
+    "topic": "sport in the soviet union",
+    "wiki_title": "soviet union",
+    "summary": "The Soviet Union is frequently cited in sports-and-drugs debates as the prototypical case of state-sponsored, systematic doping—used to condemn centralized, medal-first sports systems and to argue for stronger independent testing, athlete protections, and harsh sanctions. It is also invoked by some as evidence that Cold War politics made doping a geopolitical tool, complicating claims that drug use is only individual misconduct.",
+    "queries": [
+      "How do people view sport in the soviet union regarding doping?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "russian olympic ban",
+    "wiki_title": "russian olympic committee",
+    "summary": "The Russian Olympic Committee functions as the focal institution in debates over doping, invoked by critics as evidence of state-sponsored cheating that justifies bans and stricter global anti‑doping measures, while defenders use it to argue that blanket sanctions politicize sport and unfairly punish individual athletes — shaping polarized views on the fairness and effectiveness of sanctions, reinstatements, and neutral‑athlete arrangements.",
+    "queries": [
+      "What effects has the russian olympic ban caused?"
+    ]
+  },
+  {
+    "id": "C8-4-8",
+    "parent": "C8",
+    "level": 3,
+    "topic": "stripped olympic medals",
+    "wiki_title": "list of stripped olympic medals",
+    "summary": "The list of stripped Olympic medals is often cited in debates over sports and drugs as concrete evidence of doping’s prevalence and as justification for tougher testing, retrospective retesting, and harsher sanctions to protect fairness and deter cheaters. Conversely, critics point to the same list to argue that enforcement is inconsistent, politicized, and unjust when athletes lose or gain medals years later, using it to oppose overreach and call for clearer, more reliable processes.",
+    "queries": [
+      "Are stripped olympic medals reasonable punishment in drug-related sports cases?"
+    ]
+  }
+]

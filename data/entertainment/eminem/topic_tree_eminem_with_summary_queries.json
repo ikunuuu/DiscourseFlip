@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Eminem",
+    "wiki_title": "Eminem",
+    "summary": "Eminem is often used as a litmus test in debates over artistic freedom versus social responsibility: supporters frame his provocative, confessional rap as authentic, working‑class expression and free speech, while critics point to misogynistic, homophobic, and violent lyrics to justify calls for content warnings, industry accountability, or limits on harmful speech. His career arc—controversy, commercial domination, addiction and comeback—is also invoked to argue about redemption, mental‑health awareness, and how popular culture rewards or polices transgressive artists.",
+    "queries": [
+      "Is Eminem’s continued popularity reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "music and artistry",
+    "wiki_title": "artistry",
+    "summary": "Discussions of Eminem’s artistry are used to highlight his technical mastery—intricate rhymes, narrative skill, and performative persona—and to justify or excuse provocative, misogynistic, or homophobic lyrics as creative expression; conversely, critics use the same appeal to artistry to argue that craft does not absolve responsibility, framing debates about authenticity, commercial decline, and whether free‑speech or platform limits should constrain his work.",
+    "queries": [
+      "How do people view Eminem’s music and artistry?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "dr. dre",
+    "wiki_title": "dr. dre",
+    "summary": "Dr. Dre is invoked as Eminem’s industry godfather—his discovery, production and endorsement are used to legitimize Eminem’s artistic credibility and explain his mainstream breakthrough (especially as a white rapper accepted by the hip‑hop establishment).  At the same time critics point to Dre’s controversial past and gatekeeper role to question Eminem’s moral standing, privilege, and the extent to which his success relied on institutional backing rather than solely on talent.",
+    "queries": [
+      "What impact has dr. dre had on Eminem’s public image?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "aftermath entertainment",
+    "wiki_title": "aftermath entertainment",
+    "summary": "References to Aftermath Entertainment are used to credit Eminem’s meteoric rise and polished production to Dr. Dre’s mentorship and major‑label support, bolstering narratives of his legitimacy and technical skill; conversely, critics invoke the Aftermath connection to argue his career reflects corporate grooming and commercialization, undermining claims of complete artistic independence.",
+    "queries": [
+      "How do people view aftermath entertainment’s influence on Eminem’s music?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "the slim shady lp",
+    "wiki_title": "the slim shady lp",
+    "summary": "The Slim Shady LP is often invoked in debates about Eminem as the archetype of his shock-driven Slim Shady persona, which supporters cite to defend his provocative satire, artistic risk-taking, and autobiographical authenticity. Critics use the album’s violent, misogynistic, and homophobic lyrics to argue for media accountability, censorship, or that his shock value reflects harmful attitudes rather than justified social critique.",
+    "queries": [
+      "How do people view the slim shady lp within Eminem's work?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "50 cent",
+    "wiki_title": "50 cent",
+    "summary": "50 Cent is frequently cited as tangible evidence of Eminem’s industry clout and talent-spotting—used by supporters to argue that Eminem played a pivotal role in launching and legitimizing commercially successful artists. Conversely, critics point to 50 Cent’s commercialized image and business-driven trajectory as proof that Eminem’s influence helped steer hip‑hop toward marketable, profit-focused directions rather than purely artistic or underground values.",
+    "queries": [
+      "How justified is 50 cent’s prominence alongside Eminem?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "beats electronics",
+    "wiki_title": "beats electronics",
+    "summary": "Beats Electronics — Dr. Dre’s high‑profile audio brand — is often invoked to highlight Eminem’s ties to hip‑hop’s commercial infrastructure and the advantages he gained from Dre’s mentorship and industry clout. Critics cite Eminem’s association with celebrity tech branding as evidence of commodification or “selling out,” while supporters point to such partnerships as proof of his mainstream success and cultural influence rather than a loss of authenticity.",
+    "queries": [
+      "What impact has Beats Electronics had on Eminem's public image?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "the chronic",
+    "wiki_title": "the chronic",
+    "summary": "Dr. Dre’s The Chronic is often invoked in debates about Eminem to establish his hip‑hop pedigree and justify his rise—Dre’s endorsement and production are cited by supporters to validate Eminem’s talent and mainstream acceptance. Conversely, critics use The Chronic as a comparative benchmark to argue that Eminem’s reliance on shock, misogyny, and violent imagery is derivative of gangsta‑rap tropes or enabled by industry gatekeepers, fueling arguments about artistic responsibility and censorship.",
+    "queries": [
+      "How do people view Eminem’s mentions of the chronic?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "compton",
+    "wiki_title": "compton",
+    "summary": "References to Compton are used to measure Eminem’s authenticity in hip‑hop, with critics invoking Compton as shorthand for West Coast, street credibility and accusing the white Detroit rapper of being an outsider or cultural appropriator. Supporters point to Eminem’s ties to Compton‑linked figures (e.g., Dr. Dre) and cross‑regional acceptance to argue he has earned legitimacy, making ‘Compton’ a focal point in debates over authenticity, cultural gatekeeping, and racial privilege in rap.",
+    "queries": [
+      "Do people see Eminem’s compton references as justified?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "sexual assault allegations",
+    "wiki_title": "joe biden sexual misconduct allegation",
+    "summary": "Allegations against Joe Biden are sometimes invoked in debates about Eminem to accuse the rapper’s liberal defenders of double standards—arguing that those who excuse or celebrate Eminem’s provocative, sometimes misogynistic lyrics while condemning similar behavior in conservatives are being inconsistent. Conversely, critics of Eminem use such political-sexual misconduct stories to pressure artists to be held to the same accountability they demand of politicians, framing Eminem’s work as part of a broader discussion about who gets forgiven and why.",
+    "queries": [
+      "How do people view sexual assault allegations against Eminem?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "the marshall mathers lp",
+    "wiki_title": "the marshall mathers lp",
+    "summary": "The Marshall Mathers LP is often invoked by critics to exemplify Eminem's alleged misogyny, homophobia and violent provocation and to justify calls for censorship, moral condemnation, or limits on his public platform; conversely, supporters point to the album as proof of his lyrical mastery and emotional complexity and as a defense of provocative art, framing him as a boundary‑pushing cultural figure rather than merely a harmful influence.",
+    "queries": [
+      "Is the marshall mathers lp's content justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "stan",
+    "wiki_title": "stan",
+    "summary": "References to “stans” in discussions of Eminem are used both to emphasize his cultural impact—defenders point to obsessive, loyal fans as evidence of his significance—and to criticize the negative consequences of his persona and lyrics, with opponents arguing such fandom can enable harassment, toxic loyalty, or normalize violent/misogynistic attitudes. Debates invoking stans thus shape arguments about Eminem’s responsibility, the ethics of fandom, and how his music influences listener behavior and public backlash.",
+    "queries": [
+      "How do people view Eminem stan culture?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "d12",
+    "wiki_title": "d12",
+    "summary": "D12 is often invoked to highlight Eminem’s early role as a collaborative leader and a figure who brought national attention to Detroit hip‑hop, bolstering narratives of his authenticity and influence; conversely, his reduced involvement and his later declaration that ‘D12 is over’ are used by critics to argue he abandoned former allies, prioritized solo success, and should be held accountable for controversial material released under the group’s name.",
+    "queries": [
+      "How do people view d12's influence on Eminem's career?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "bizarre",
+    "wiki_title": "bizarre",
+    "summary": "References to Bizarre (the D12 member) are used to situate Eminem within a Detroit crew dynamic and shared shock-comedy/controversial lyrical aesthetic: defenders cite their camaraderie and collaborative creativity to justify Eminem’s provocative material, while critics point to Bizarre’s outrageous persona and D12’s history to argue that Eminem’s early work normalized misogynistic or offensive content.",
+    "queries": [
+      "What impacts has Eminem's bizarre persona caused?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "denaun porter",
+    "wiki_title": "denaun porter",
+    "summary": "Denaun Porter, Eminem’s longtime producer and D12 collaborator, is often invoked to emphasize Eminem’s Detroit hip‑hop credibility and collaborative roots, supporting narratives that his artistry is grounded in a local crew. Conversely, critics point to Porter’s songwriting/production role to argue that Eminem’s sound and success owe as much to behind‑the‑scenes collaborators as to his individual genius.",
+    "queries": [
+      "Is denaun porter’s role with Eminem justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "swifty mcvay",
+    "wiki_title": "swifty",
+    "summary": "Invoked as Swifty McVay, the name is used to emphasize Eminem’s ties to D12 and Detroit rap, supporting arguments about his street credibility and collaborative influences on his early persona; when conflated with “Swiftie,” commentators sometimes use it to contrast fandoms, either criticizing Eminem’s controversial, misogynistic lyrics against mainstream pop sensibilities or defending him as a transgressive countercultural figure.",
+    "queries": [
+      "How do people view swifty mcvay’s collaborations with Eminem?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "devil's night",
+    "wiki_title": "devil's night out",
+    "summary": "References to \"devil's night out\" are used in arguments about Eminem to tie him to Detroit’s lawless, transgressive imagery—critics point to it as evidence his music glamorizes arson, nihilism, and dangerous behavior, while supporters treat the link as shorthand for his gritty, theatrical Detroit roots and as performance-driven social commentary rather than literal endorsement of violence.",
+    "queries": [
+      "How do people view devil's night connected to Eminem's persona?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "machine gun kelly",
+    "wiki_title": "machine gun kelly",
+    "summary": "Machine Gun Kelly is commonly invoked in debates about Eminem as the high‑profile challenger whose “Rap Devil”/“Killshot” exchange is used to either confirm Eminem’s enduring technical superiority and role as a defended legacy artist or to cast him as a defensive, age‑ist figure bullying younger talent. The feud is leveraged in broader arguments about Eminem’s cultural relevance, authenticity, and gatekeeping in hip‑hop, with critics using MGK to claim Eminem has lost touch and supporters pointing to the diss battle to justify reverence for his lyrical skill.",
+    "queries": [
+      "How do people view Machine Gun Kelly compared to Eminem?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "rap devil",
+    "wiki_title": "rap devil",
+    "summary": "Machine Gun Kelly’s “Rap Devil” reframed Eminem in public debates as a fallible, potentially out‑of‑touch figure—fueling narratives that he’s hypocritical or past his prime—and galvanized split opinion that either defends his technical legacy or criticizes his conduct and cultural relevance, especially along generational and authenticity lines.",
+    "queries": [
+      "How do people view rap devil in Eminem's legacy?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "killshot",
+    "wiki_title": "killshot",
+    "summary": "Eminem’s diss track “Killshot” is often invoked in public debates to argue that he still commands superior battle-rap skill and can decisively win high‑profile feuds, with supporters using it to justify his continued relevance and dominance. Detractors, however, cite the song as an example of his penchant for personal attacks and argue it underscores controversies about his tone, maturity, and the limits of provocation as artistic defense.",
+    "queries": [
+      "Is Eminem's 'Killshot' response justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "diss track",
+    "wiki_title": "diss track",
+    "summary": "Eminem’s diss tracks are often cited to showcase his verbal skill, competitive authenticity and status as a fearless battle rapper, bolstering narratives of his dominance and street-cred in hip‑hop; at the same time they are used by critics to argue he normalizes personal attacks, misogyny and harmful rhetoric, fueling debates about artistic responsibility, accountability, and limits on provocative speech.",
+    "queries": [
+      "How do people view Eminem's diss track tactics?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "The Grammys are frequently invoked in debates over Eminem’s legacy: fans cite his multiple wins and high‑profile nominations as proof of his artistic legitimacy and mainstream crossover, while critics point to snubs, category placements, or awards despite his controversial lyrics to argue the Recording Academy tokenizes hip‑hop, rewards commercialism over artistry, or overlooks ethical concerns. These award outcomes are used to frame broader arguments about cultural gatekeeping in music and whether institutional recognition should validate contentious artists.",
+    "queries": [
+      "What impact have the Grammy Awards had on Eminem’s legacy?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "recording academy",
+    "wiki_title": "the recording academy",
+    "summary": "The Recording Academy’s nominations and Grammy wins for Eminem are frequently invoked by supporters as institutional validation of his technical skill and mainstream cultural impact, bolstering claims that he belongs among hip‑hop’s most successful artists. Opponents, however, point to the Academy’s recognition to criticize establishment biases—arguing it canonizes a controversial, often misogynistic figure and reflects commercial or racial dynamics rather than community‑based measures of authenticity.",
+    "queries": [
+      "Is the Recording Academy's treatment of Eminem justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "best rap album",
+    "wiki_title": "grammy award for best rap album",
+    "summary": "Eminem’s wins and nominations for Best Rap Album are often invoked by supporters to underscore his artistic legitimacy, mainstream acceptance, and cultural impact within hip‑hop, while critics use those same awards to argue the industry legitimizes controversial lyrics, rewards commercial crossover over community-rooted authenticity, or highlights racial disparities in how rappers are recognized.",
+    "queries": [
+      "How do fans view Eminem's best rap album choices?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "album of the year",
+    "wiki_title": "album of the year",
+    "summary": "References to 'album of the year' nominations or wins are used by supporters to frame Eminem as a culturally legitimized, mainstream artist whose work transcends rap and deserves recognition among the era’s best. Critics and skeptics invoke the same award discourse to question industry biases—arguing that such honors either whitewash his controversial lyrics or, when absent, expose double standards in how award institutions evaluate rap and provocative artists.",
+    "queries": [
+      "Is Eminem’s album of the year designation justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "music censorship",
+    "wiki_title": "music censorship",
+    "summary": "Calls for music censorship frequently target Eminem, using his violent, misogynistic, or homophobic lyrics to justify radio edits, venue restrictions, or regulatory action and to portray him as a harmful cultural influence. Defenders counter that censoring Eminem threatens artistic freedom and free speech, framing his controversial persona and provocative lyrics as satire, social commentary, or protected expression rather than material to be suppressed.",
+    "queries": [
+      "What effects has music censorship of Eminem produced?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "clear channel communications",
+    "wiki_title": "iheartmedia",
+    "summary": "iHeartMedia is often cited as a barometer of Eminem’s mainstream stature—its radio play, iHeartRadio promotions and festival slots are used to show his commercial reach and continued relevance. Critics and defenders likewise point to iHeart’s editorial choices to argue that corporate broadcasting either sanitizes/censors his more controversial lyrics or proves he’s been corporately packaged, feeding debates about his authenticity and public image.",
+    "queries": [
+      "What effects have Eminem's clear channel communications caused?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "radio edit",
+    "wiki_title": "radio edit",
+    "summary": "Radio edits of Eminem songs are often invoked in debates about censorship and artistic integrity—critics say clean versions sanitize his provocative, socially critical lyrics and dilute his authenticity, while proponents argue they’re a pragmatic way to broaden exposure and shield younger listeners. They also appear in discussions of media standards and radio gatekeeping, cited to justify restrictions on his original work or to highlight perceived double standards in how controversial content is handled.",
+    "queries": [
+      "Are radio edit changes to Eminem lyrics reasonable or excessive?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "my name is",
+    "wiki_title": "my name is",
+    "summary": "Supporters point to 'My Name Is' as emblematic proof that Eminem successfully translated provocative, boundary-pushing persona into mainstream influence and industry recognition, while critics invoke the song to argue his early appeal rested more on shock value and offensive content than on lasting artistic substance.",
+    "queries": [
+      "Is Eminem’s 'my name is' persona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "horrorcore",
+    "wiki_title": "horrorcore",
+    "summary": "Critics invoke horrorcore to portray Eminem’s Slim Shady-era lyrics as part of a dangerous shock-rap tradition that normalizes gruesome, violent imagery and to justify calls for censorship or parental warnings, while supporters use the same label to contextualize his work as fictional persona-driven provocation, satire, or cathartic social commentary rather than literal endorsement of violence.",
+    "queries": [
+      "What effects has Eminem's horrorcore had on his image?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "cultural impact",
+    "wiki_title": "cultural impact of shakira",
+    "summary": "Shakira’s cultural impact is often used as a comparative benchmark in public debates about Eminem—commentators invoke her global, mainstream crossover to highlight how Eminem’s provocative, controversy-prone persona either limits his mainstream acceptability or, alternatively, confers a different kind of authentic cultural authority within hip‑hop. Such comparisons also surface in arguments about representation and appropriation, with Shakira’s image used to criticize Eminem’s handling of gender, race, or Latin influences or to defend him as belonging to a separate artistic and cultural tradition.",
+    "queries": [
+      "What effects has Eminem's cultural impact brought?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "homophobia controversy",
+    "wiki_title": "homophobia in ethnic minority communities",
+    "summary": "Debates about homophobia in ethnic minority communities are often invoked in conversations about Eminem to contextualize or deflect criticism of his homophobic lyrics—critics argue his language amplifies systemic prejudice, while some defenders point to widespread homophobic norms in various communities (including within parts of hip‑hop and among ethnic minorities) to downplay his individual culpability. The issue is also used to push for industry accountability and targeted support for LGBT people in marginalized communities, rather than treating Eminem’s words as isolated personal failings.",
+    "queries": [
+      "What consequences has Eminem's homophobia controversy caused?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "homophobia in hip hop",
+    "wiki_title": "lgbtq representation in hip-hop",
+    "summary": "Discussions of LGBTQ representation in hip-hop are often used to criticize Eminem’s past use of homophobic slurs and portrayals, arguing his music reinforced exclusionary norms and justifies calls for boycotts or stricter platform moderation; conversely, defenders invoke the genre’s historical lack of LGBTQ visibility to contextualize his lyrics as product of the scene or as provocative art, framing his behavior as amenable to apology and personal growth rather than grounds for permanent condemnation.",
+    "queries": [
+      "Is homophobia in hip hop, including Eminem's lyrics, reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "first amendment",
+    "wiki_title": "first amendment to the united states constitution",
+    "summary": "Defenders of Eminem frequently cite the First Amendment to frame his provocative, violent, or offensive lyrics as constitutionally protected artistic speech and to oppose government censorship or legal penalties; critics accept free-speech protections for public actors but invoke limits (incitement, threats, or private-platform policies) to justify calls for accountability, content warnings, or deplatforming.",
+    "queries": [
+      "What effects has the first amendment had on Eminem’s career?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "tipper gore",
+    "wiki_title": "tipper gore",
+    "summary": "Tipper Gore is often invoked in debates about Eminem as a symbol of music censorship and moral policing—critics reference her advocacy for labeling and restricting explicit lyrics to justify calls for limiting or condemning Eminem’s work, while defenders cite her as an example of overreach to frame support for his artistic freedom and oppose regulatory measures.",
+    "queries": [
+      "What consequences has tipper gore’s stance had for Eminem?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "8 mile (film)",
+    "wiki_title": "8 mile (film)",
+    "summary": "The film '8 Mile' is often invoked to portray Eminem as a gritty, working‑class underdog whose raw talent and Detroit roots justify his celebrity and lyrical confrontational persona; supporters use it to humanize him and defend claims of authenticity. Critics and cultural commentators, however, cite the film to argue that his image is a carefully marketed, partly mythologized autobiography that obscures questions of cultural appropriation, commercial exploitation, and the sanitization of real social issues.",
+    "queries": [
+      "What effects has 8 mile (film) had on Eminem's public image?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "lose yourself",
+    "wiki_title": "lose yourself",
+    "summary": "Fans and critics cite \"Lose Yourself\" as definitive evidence of Eminem's lyrical skill, cultural impact, and mainstream legitimacy—using it to argue he belongs among the greatest rappers and to defend him against claims that his work is merely shock value. Detractors acknowledge the song's power but often frame it as an exception that doesn't absolve recurring controversies in his catalog or broader concerns about commercialization and problematic content.",
+    "queries": [
+      "What impact has lose yourself had on Eminem's career?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "battle rap",
+    "wiki_title": "battle rap",
+    "summary": "Observers frequently cite Eminem's battle‑rap origins to defend his technical prowess, aggressive delivery, and use of personal insults as rooted in competitive hip‑hop tradition rather than mere provocation. Conversely, critics leverage the same association to argue his success lets him profit from a culture of personal attacks—using it to excuse misogynistic or homophobic lyrics, question his cultural positioning as a white artist, or accuse him of abandoning underground authenticity for mainstream gain.",
+    "queries": [
+      "What influence has Eminem's battle rap had on hip hop?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "mekhi phifer",
+    "wiki_title": "mekhi phifer",
+    "summary": "Mekhi Phifer is frequently cited in conversations about Eminem because his portrayal of the rapper’s friend and hype man in 8 Mile—and his off‑screen endorsements—are used to bolster claims that Eminem is a legitimate, community‑accepted figure in hip‑hop; critics, however, point to the film's reliance on Phifer’s character to argue that 8 Mile softens or commodifies Detroit’s Black rap culture to legitimize a white superstar.",
+    "queries": [
+      "What impact has Mekhi Phifer had on Eminem’s public image?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "brittany murphy",
+    "wiki_title": "brittany murphy",
+    "summary": "Brittany Murphy’s portrayal of the love interest in 8 Mile is often invoked to humanize Eminem—supporting arguments that his public persona contains vulnerability and mainstream relatability beyond his provocative lyrics. Conversely, critics use her role as an example of how women are sidelined or romanticized in stories about Eminem, bolstering claims that his work and image marginalize real women while centering his own narrative.",
+    "queries": [
+      "How do people view Brittany Murphy’s connection to Eminem?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "academy award for best original song",
+    "wiki_title": "academy award for best original song",
+    "summary": "Eminem's Academy Award win is frequently cited by supporters as definitive proof that he crossed over from controversial rap star to respected songwriter and mainstream cultural figure, bolstering claims about his artistic legitimacy and broad impact. Critics, however, use the award to argue about establishment co-option or token recognition—suggesting the Academy’s nod reflects cinema contexts and marketability rather than unambiguous hip‑hop credibility.",
+    "queries": [
+      "How do people view Eminem’s academy award for best original song?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "parental advisory label",
+    "wiki_title": "parental advisory",
+    "summary": "The Parental Advisory sticker on Eminem releases is frequently invoked by critics and policymakers to portray his work as harmful or in need of age-based restriction, framing him as a cultural danger in debates about youth protection and censorship. Conversely, supporters and fans treat the label as evidence of his transgressive authenticity or effective marketing, using it to defend artistic freedom and argue that warnings often amplify his notoriety and commercial appeal.",
+    "queries": [
+      "Is the parental advisory label on Eminem’s albums reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "walmart",
+    "wiki_title": "walmart",
+    "summary": "Walmart is invoked as a mass-market gatekeeper in conversations about Eminem—its choices to stock, ban, or insist on edited “clean” versions of his albums are used to argue either that his explicit, violent lyrics should be restrained in family-oriented retail spaces or that corporate decisions amount to censorship of a controversial artist and suppression of free expression.",
+    "queries": [
+      "How do people view Eminem’s walmart collaborations or deals?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "cultural appropriation",
+    "wiki_title": "cultural appropriation",
+    "summary": "Critics invoke cultural appropriation to argue that Eminem’s adoption of Black musical styles, language, and imagery exemplifies how a white artist can profit from and overshadow the minority culture that originated hip‑hop, prompting calls to acknowledge roots and address racial power imbalances; defenders frame such claims as conflating influence with exploitation, arguing his work represents artistic exchange and creative freedom rather than malicious appropriation.",
+    "queries": [
+      "How do people view Eminem's cultural appropriation?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "iggy azalea",
+    "wiki_title": "iggy azalea",
+    "summary": "Iggy Azalea is frequently invoked in debates about Eminem to highlight tensions over race, authenticity, and gender in hip‑hop—critics contrast Azalea’s accusations of cultural appropriation and perceived inauthenticity with Eminem’s celebrated credibility to argue double standards, while defenders point to Eminem’s mainstream acceptance as evidence that factors other than race (skill, backstory) shape who is embraced by the genre.",
+    "queries": [
+      "Is Iggy Azalea's role in modern rap reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "hip hop authenticity",
+    "wiki_title": "hip-hop culture",
+    "summary": "Hip-hop culture is invoked both to defend Eminem’s legitimacy—highlighting his technical skill, battle-rap roots, and use of hip-hop conventions—and to criticize him for benefiting from a Black-originated art form while using misogynistic, homophobic, or provocative lyrics that many argue betray the genre’s communal and ethical obligations. Those competing framings fuel broader debates about cultural appropriation, race and representation in the music industry, and calls for accountability or protections for Black artists.",
+    "queries": [
+      "Is hip hop authenticity important for Eminem’s credibility or not?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "african-american culture",
+    "wiki_title": "african-american culture",
+    "summary": "Debates about African-American culture shape views of Eminem by being used to judge his authenticity and whether his success represents respectful engagement with hip‑hop or cultural appropriation; supporters point to his collaborations with Black artists and lyrical immersion as evidence of respect, while critics argue he profited from Black cultural forms and benefited from white privilege, raising questions about representation and fairness in the music industry.",
+    "queries": [
+      "What impact has Eminem had on african-american culture perceptions?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "detroit hip hop",
+    "wiki_title": "music of detroit",
+    "summary": "References to Detroit’s music scene are often used to portray Eminem as an authentic product and exemplar of the city’s gritty, industrious hip‑hop legacy and to bolster narratives about Detroit’s cultural relevance. Conversely, critics invoke Detroit’s musical history to argue that Eminem’s fame has overshadowed Black Detroit artists, raising debates about racial representation, cultural appropriation, and how resources or recognition should be distributed within the local music community.",
+    "queries": [
+      "What impact has detroit hip hop had on Eminem’s career?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "royce da 5'9\"",
+    "wiki_title": "royce da 5'9\"",
+    "summary": "Royce da 5'9\" is frequently invoked as an insider validation of Eminem's technical skill and Detroit-rap credibility—his longtime collaborations and reconciliations with Eminem are used to frame Eminem as a peer-respected lyricist rather than a manufactured pop star. At the same time Royce’s candid remarks and occasional critiques contribute to debates that hold Eminem accountable on artistic choices and industry behavior, tempering fan hagiography with a fellow rapper’s perspective.",
+    "queries": [
+      "How do people view Royce da 5'9\"'s role in Eminem's career?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "the shelter",
+    "wiki_title": "the shelter",
+    "summary": "References to 'the Shelter' are used to underscore Eminem’s grassroots, Detroit‑born credibility—supporters cite his early shows there to argue his talent and authenticity predate mainstream success, while critics portray appeals to the Shelter as nostalgic myth‑making that softens or romanticizes the more problematic aspects of his early persona.",
+    "queries": [
+      "What impact has the shelter had on Eminem’s public image?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "controversy and censorship",
+    "wiki_title": "censorship by facebook",
+    "summary": "Allegations of Facebook censorship are invoked in discussions about Eminem to portray him as a victim of heavy-handed moderation—used by fans to argue that platforms unfairly silence his provocative lyrics and stifle artistic free expression. Opponents and policy advocates counter by citing platform censorship to justify restricting or removing his content as necessary to curb hate speech, misogyny, or violent rhetoric, often turning the debate into one about selective enforcement and cultural bias in content moderation.",
+    "queries": [
+      "How do people view Eminem’s controversy and censorship?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "glaad",
+    "wiki_title": "glaad",
+    "summary": "GLAAD frequently appears in public debates about Eminem by condemning his past use of homophobic slurs and violent anti‑LGBTQ imagery, framing those lyrics as harmful and calling for public accountability and apologies. It typically opposes normalizing or rewarding work that promotes anti‑LGBTQ language, while stressing that artistic freedom does not excuse rhetoric that stigmatizes LGBTQ people.",
+    "queries": [
+      "Is glaad’s response to Eminem reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "homophobic slurs",
+    "wiki_title": "lgbtq slang",
+    "summary": "LGBTQ slang is frequently cited in debates about Eminem to highlight and condemn derogatory language in his lyrics, framing him as homophobic and supporting calls for criticism, boycotts, or stricter platform content policies; opponents counter that such slang is used performatively or contextually within his art, invoking free-expression arguments or claims of reclamation to defend him.",
+    "queries": [
+      "How do people view Eminem's homophobic slurs?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "lgbt rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Debates about LGBTQ rights by country or territory are used to judge and justify responses to Eminem’s past use of homophobic language—critics cite jurisdictions with strong protections to argue for condemnations, boycotts, and content warnings, while defenders point to more permissive legal or cultural contexts abroad to argue for contextual tolerance or free‑speech defenses. Comparing national laws and social acceptance thus frames whether commentators treat Eminem’s lyrics as harmful hate speech meriting policy or market consequences or as controversial art allowable under differing legal norms.",
+    "queries": [
+      "What effects has Eminem had on lgbt rights perceptions?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "elton john",
+    "wiki_title": "elton john",
+    "summary": "Elton John—most visibly through his 2001 Grammy duet and public friendship with Eminem—is often cited by defenders to rebut accusations of homophobia and to legitimize Eminem’s mainstream acceptance, framing controversies as artistic provocation rather than bigotry; critics counter that Elton’s endorsement cannot absolve or silence concerns about violent, misogynistic, or hateful lyrics and warn against using a single celebrity ally to dismiss broader cultural and policy critiques.",
+    "queries": [
+      "Is Elton John’s praise of Eminem reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "celebrity activism",
+    "wiki_title": "activism",
+    "summary": "Activism often frames Eminem as either a target of accountability—with LGBTQ, women's-rights, and anti-violence advocates citing his past lyrics to justify public criticism, boycotts, or calls for restrictions—or as a politically engaged artist when he publicly criticizes figures and policies, which leads activists and commentators to praise him as a protest voice; these opposing activist narratives shape debates over censorship, platforming, and artistic responsibility around his work.",
+    "queries": [
+      "What impacts has Eminem’s celebrity activism had?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "dido",
+    "wiki_title": "dido",
+    "summary": "Cultural critics and commentators sometimes invoke Dido’s story as a literary parallel when reading Eminem’s work—especially the fan-obsession narrative in “Stan”—using her abandonment motif to argue his music can inspire unhealthy devotion and tragic consequences, thereby supporting critiques of his influence on toxic fandom and emotional harm.",
+    "queries": [
+      "How do people view Dido’s role on Eminem’s 'Stan'?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "parents television council",
+    "wiki_title": "parents television and media council",
+    "summary": "The Parents Television and Media Council frequently cites Eminem’s lyrics and televised performances as examples of indecency and a harmful influence on children, using complaints and pressure on broadcasters/advertisers to push for content restrictions and stricter decency enforcement; critics of Eminem invoke the PTC to justify censorship, while his defenders point to PTC campaigns to characterize attacks as moral panic and threats to artistic freedom.",
+    "queries": [
+      "How do people view the Parents Television Council’s actions regarding Eminem?"
+    ]
+  },
+  {
+    "id": "C3-3-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "hate speech",
+    "wiki_title": "hate speech",
+    "summary": "Accusations of hate speech frequently surface in critiques of Eminem’s lyrics, framing him as promoting misogyny, homophobia, or violence and motivating calls for boycotts, content warnings, or regulatory responses; defenders counter that his Slim Shady persona and artistic context distinguish provocation from genuine advocacy of harm, invoking free‑speech protections. As a result, “hate speech” arguments around Eminem are often used to pit concerns for marginalized groups and media accountability against defenses of artistic freedom and satire.",
+    "queries": [
+      "What effects has Eminem's hate speech had?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "race and identity",
+    "wiki_title": "the madness of crowds: gender, race and identity",
+    "summary": "Douglas Murray’s The Madness of Crowds is frequently cited by commentators to frame criticism of Eminem as excessive identity‑politics and to justify defending his provocative lyrics as free expression against “cancel culture.” Critics counter that invoking Murray serves to dismiss legitimate concerns about misogyny, homophobia, and racial insensitivity in Eminem’s work, portraying such defenses as undermining accountability for harmful speech.",
+    "queries": [
+      "How do people view Eminem’s race and identity portrayal?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "african americans",
+    "wiki_title": "african americans",
+    "summary": "References to African Americans are often used to adjudicate Eminem’s legitimacy in hip‑hop and to frame debates over cultural appropriation—supporters point to Black collaborators and praise to defend his authenticity, while critics cite African American voices condemning racially insensitive lyrics or highlighting white privilege in his commercial success. These invocations shape arguments about whether he deserves unqualified celebration and artistic freedom or should be critiqued and held accountable for racial harm.",
+    "queries": [
+      "How do people view Eminem’s relationship with african americans?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "jay-z",
+    "wiki_title": "jay-z",
+    "summary": "Jay‑Z is frequently invoked as the counterpoint or benchmark when debating Eminem’s place in hip‑hop—critics cite Jay‑Z’s cultural influence, business savvy, and perceived ‘authenticity’ to downplay Eminem’s GOAT claims, while supporters use comparisons to highlight Eminem’s comparable commercial and lyrical achievements; commentators also use Jay‑Z to frame conversations about race and industry access, arguing Eminem’s mainstream acceptance operates differently than Jay‑Z’s trajectory.",
+    "queries": [
+      "Is jay-z's perceived rivalry with Eminem reasonable or exaggerated?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "n-word",
+    "wiki_title": "nigger",
+    "summary": "References to the N‑word in discussions about Eminem are used to challenge or defend his racial sensitivity and cultural authenticity—critics invoke it to allege racist language or inappropriate appropriation of Black vernacular, while supporters emphasize artistic context and intent to oppose censorship. These arguments shape broader positions on accountability in hip‑hop, who may use reclaimed slurs, and whether Eminem’s work should face cultural or institutional sanction.",
+    "queries": [
+      "How do people view Eminem’s n-word usage?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "white america",
+    "wiki_title": "white americans",
+    "summary": "White Americans are often cast as Eminem’s core audience and defenders, a framing used to argue he exemplifies white crossover success and artistic freedom in hip-hop; conversely, critics invoke this group to highlight racial privilege, saying his acclaim and lenient cultural reception expose double standards compared with Black artists and fuel debates about cultural appropriation and accountability.",
+    "queries": [
+      "Is Eminem's 'white america' critique justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "tokenism",
+    "wiki_title": "tokenism",
+    "summary": "In debates about Eminem, 'tokenism' is invoked to argue that his mainstream elevation is used by the music industry and media to signal that hip-hop is safe or acceptable to white audiences—thereby deflecting attention from structural disadvantages faced by Black artists. Critics also claim platforms and awards highlight Eminem as a convenient example of 'inclusivity' while sidelining more marginalized voices, shaping demands for more substantive equity in representation.",
+    "queries": [
+      "Is tokenism in Eminem’s work justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "race and hip hop",
+    "wiki_title": "love & hip hop",
+    "summary": "Reality‑TV franchises like Love & Hip Hop are often invoked in discussions of Eminem to contrast the tabloid, spectacle‑driven image of modern hip‑hop fame with Eminem’s profile as a technically skilled but controversial artist; commentators use the show as shorthand to either criticize him for feeding celebrity sensationalism or to defend his artistry while highlighting double standards in how misogyny and personal drama are judged.",
+    "queries": [
+      "How do people view race and hip hop in Eminem’s career?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "mainstream media",
+    "wiki_title": "mainstream media",
+    "summary": "Mainstream media often frames Eminem alternately as a boundary-pushing genius and as a provocative, morally problematic figure, using headlines and features to amplify his lyrical controversies, feuds, and personal struggles. Those framings feed public debates—justifying calls for censorship or defenses of free expression, questioning his racial authenticity and cultural impact, or shaping redemption-and-legacy narratives around awards and comebacks.",
+    "queries": [
+      "How do people view mainstream media's portrayal of Eminem?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "white rappers",
+    "wiki_title": "ego trip's the (white) rapper show",
+    "summary": "Ego Trip's The (White) Rapper Show is often invoked in discussions of Eminem to frame him as either a singular talent who broke racial barriers in hip‑hop or as part of a media tendency to exoticize and platform white rappers. Critics cite the show to argue Eminem benefited from novelty and industry preference, while defenders use it to highlight his artistic legitimacy and the complexities of authenticity and cultural appropriation.",
+    "queries": [
+      "How do people view Eminem’s influence on white rappers?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "african american vernacular english",
+    "wiki_title": "african-american vernacular english",
+    "summary": "Disputes over Eminem’s use of African-American Vernacular English are deployed to argue either that he has earned authenticity within Black hip‑hop through immersion or that he selectively borrows Black linguistic styles as cultural appropriation—critics use his language choices to highlight racial power imbalances and profiteering, while defenders portray them as signs of respect, artistic assimilation, or genre fluency.",
+    "queries": [
+      "Is Eminem's use of African American Vernacular English appropriate or not?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "super bowl lvi halftime",
+    "wiki_title": "super bowl lvi halftime show",
+    "summary": "Eminem's appearance at the Super Bowl LVI halftime show is often cited as proof of his mainstream acceptance and enduring cultural relevance, used by supporters to affirm his status as a hip‑hop icon. Critics, however, invoke the same performance to argue he has been corporately co‑opted or to question celebrating an artist with a history of controversial lyrics, framing the gig as evidence of ‘sellout,’ accountability concerns, and broader tensions over commercialization and race in hip‑hop.",
+    "queries": [
+      "How do people view the super bowl lvi halftime performance by Eminem?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "politics and political commentary",
+    "wiki_title": "political criticism",
+    "summary": "Political criticism of Eminem is invoked in public debates to cast him as either a politically engaged cultural critic—cited by fans and commentators to praise his anti-establishment, anti-Trump lines and to defend artistic free expression—or as a problematic influence, with critics using his controversial lyrics to argue for accountability, content warnings, or limits on glorifying misogyny and violence.",
+    "queries": [
+      "Is Eminem's politics and political commentary justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "freedom of speech",
+    "wiki_title": "freedom of speech",
+    "summary": "Supporters invoke freedom of speech to defend Eminem’s provocative, offensive, or transgressive lyrics as protected artistic expression and to oppose censorship, bans, or platform penalties. Critics invoke limits on free expression—pointing to harm, hate speech, misogyny, or incitement—to justify content moderation, reduced airplay, or public condemnation and to argue he bears social responsibility for his words.",
+    "queries": [
+      "Is Eminem’s use of freedom of speech justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "parents music resource center",
+    "wiki_title": "parents music resource center",
+    "summary": "The Parents Music Resource Center is frequently invoked in debates about Eminem as the archetypal force pushing for parental advisory labels and content restrictions, cited by critics who argue his violent and explicit lyrics warrant age limits or regulation.  Conversely, defenders of Eminem use the PMRC as a historical example of moral panic and overreach to argue that calls to censor or punish him threaten free expression and artistic autonomy.",
+    "queries": [
+      "How do people view parents music resource center and Eminem’s relationship?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "federal communications commission",
+    "wiki_title": "federal communications commission",
+    "summary": "When arguments about Eminem focus on broadcast content, the FCC is cited by critics as the agency that should enforce indecency rules to justify censoring or sanctioning his explicit lyrics on radio and TV; defenders counter that FCC enforcement is regulatory overreach that clashes with artistic free speech and that his work belongs on less-regulated platforms.",
+    "queries": [
+      "Is the federal communications commission justified in regulating Eminem’s content or not?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "obscenity law",
+    "wiki_title": "obscenity",
+    "summary": "Critics invoke obscenity to portray Eminem’s lyrics as morally offensive and damaging, using that framing to justify censorship, parental advisories, radio edits, and moral panic over perceived misogyny and violence. Defenders counter that alleged obscenity is deliberate provocation or satire that protects artistic freedom and social critique, arguing against legal sanctions and for contextual interpretation.",
+    "queries": [
+      "What effects has obscenity law had on Eminem's creative freedom?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "religious right",
+    "wiki_title": "religious right",
+    "summary": "The religious right often casts Eminem as a symbol of cultural decline, highlighting his explicit, violent and misogynistic lyrics and attacks on religious figures to argue that his music harms children and undermines family values. These criticisms are used to justify calls for censorship, boycotts, stricter media regulation, and stronger moral education.",
+    "queries": [
+      "How do people view the religious right's objections to Eminem?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "american civil liberties union",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is often invoked in debates about Eminem to defend his right to produce provocative, offensive, or violent lyrics as protected artistic speech; supporters cite its free‑speech stance to argue against censorship, while critics point to that same defense to challenge whether absolute First Amendment protections adequately address the real-world harms of his work.",
+    "queries": [
+      "Is american civil liberties union involvement in Eminem cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In debates about Eminem, critics invoke cancel culture to argue that his history of violent, homophobic, and misogynistic lyrics and public remarks justify boycotts, removal from playlists or awards, and other forms of professional ostracism. Conversely, defenders frame cancellation attempts as censorious overreach that would punish artistic expression and often point to Eminem’s continued commercial success as evidence those efforts are unjustified or ineffective.",
+    "queries": [
+      "How do people view cancel culture involving Eminem?"
+    ]
+  },
+  {
+    "id": "C5-3-2",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "michael jackson",
+    "wiki_title": "michael jackson",
+    "summary": "Michael Jackson is invoked as a cultural benchmark when people debate Eminem’s stature and limits: supporters liken Jackson’s boundary-pushing, reinventions, and market dominance to justify Eminem’s provocative style and lasting influence, while critics point to Jackson’s public scandals as a precedent for refusing to separate an artist’s work from harmful conduct and demanding accountability for Eminem’s offensive lyrics and behavior.",
+    "queries": [
+      "What effects have Eminem's Michael Jackson references had?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "boycott campaigns",
+    "wiki_title": "boycott",
+    "summary": "Calls to boycott Eminem — targeting concerts, radio play, or advertisers — are used by critics to condemn his controversial lyrics and to pressure venues, sponsors, and the industry to enforce moral accountability. Supporters and free‑speech advocates counter that boycotts amount to censorship or performative gestures that misread artistic context and are often ineffective.",
+    "queries": [
+      "Are Eminem boycott campaigns justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "political hip hop",
+    "wiki_title": "political hip-hop",
+    "summary": "Political hip hop is invoked in discussions about Eminem to debate whether his confrontational, politically tinged songs represent genuine activist rap or episodic provocation—supporters point to those tracks to portray him as a mainstream, anti‑establishment voice, while critics use the genre to question his authenticity and accuse him of appropriating protest language without sustained commitment. It also frames arguments over free speech, censorship, and racial authority in rap, with different sides citing political hip hop standards to either defend or condemn his political persona.",
+    "queries": [
+      "Is Eminem's use of political hip hop justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "mosh",
+    "wiki_title": "moshing",
+    "summary": "References to moshing are used in arguments about Eminem to depict his aggressive lyrics and stage persona as encouraging dangerous, out-of-control concert behavior—supporting calls for stricter venue security, restrictions, or legal scrutiny—while defenders counter that mosh pits at his shows reflect high-energy, cross-genre audience engagement and do not prove he intends to incite violence.",
+    "queries": [
+      "Is Eminem's mosh politically justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "campaign speech",
+    "wiki_title": "campaign speech",
+    "summary": "Campaign speeches often invoke Eminem as a cultural touchstone to signal authenticity, appeal to younger or working‑class voters, or to illustrate arguments about free expression and anti‑establishment sentiment. Critics counter by citing his controversial lyrics to question a candidate’s judgment or to advance arguments for decency, censorship, or cultural conservative positions, using Eminem as evidence in broader culture‑war narratives.",
+    "queries": [
+      "What effects has Eminem’s campaign speech had?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "public enemy",
+    "wiki_title": "public enemy",
+    "summary": "Critics sometimes invoke the idea of a \"public enemy\" to portray Eminem as a socially harmful figure whose violent, misogynistic, or homophobic lyrics warrant censorship, boycotts, or moral condemnation; supporters reject that framing as scapegoating, arguing it overstates his culpability, silences artistic expression, and reflects cultural policing rather than substantive policy concerns.",
+    "queries": [
+      "How do people view Eminem being a public enemy?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "white privilege",
+    "wiki_title": "white privilege",
+    "summary": "Commentators often invoke white privilege to explain Eminem’s rapid mainstream acceptance, awards, and relative leniency for controversial lyrics compared with Black rappers, using his career as evidence of racial advantage and industry bias in hip‑hop. Others use the concept to push for greater racial equity and accountability in music, while critics counter that talent, class, or individual context rather than race fully explain his success.",
+    "queries": [
+      "How do people view white privilege in discussions about Eminem?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "macklemore",
+    "wiki_title": "macklemore",
+    "summary": "Macklemore is often used as a foil in debates about Eminem to highlight race, authenticity and industry bias—critics say Macklemore’s mainstream-friendly image and award recognition exemplify how white rappers can be rewarded for palatable messages over more controversial or technically aggressive peers like Eminem. Conversely, fans of Eminem invoke Macklemore to argue Eminem is the more authentic, technically superior and culturally rooted white rapper, framing Macklemore as emblematic of commercial pop-rap rather than ‘real’ hip‑hop.",
+    "queries": [
+      "Is macklemore's musical standing relative to Eminem reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter is often invoked to criticize Eminem’s past lyrics and public behavior as racially insensitive or culturally appropriative, using an anti-racism frame to demand accountability and to question whether his prominence highlights racial inequities in the music industry. Conversely, BLM rhetoric is also used in debates over his authenticity as an ally—supporters point to collaborations and anti‑establishment themes to defend him, while critics label such gestures performative and call for centering Black voices instead.",
+    "queries": [
+      "What effects has Eminem's stance on black lives matter caused?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "mtv",
+    "wiki_title": "mtv",
+    "summary": "MTV has often functioned as both amplifier and arbiter of Eminem’s public image—heavy video rotation, TRL exposure and VMA coverage helped mainstream and legitimize him as a rebellious, youth‑culture icon while its reporting and panels foregrounded controversies over misogyny, homophobia and violent lyrics. Critics also invoke MTV’s commercial imperatives and later shift away from music to argue the network either glamorized controversy for ratings or served as a high‑visibility forum that alternately defends artistic freedom and demands accountability.",
+    "queries": [
+      "How do people view Eminem’s mtv coverage?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "saturday night live",
+    "wiki_title": "saturday night live",
+    "summary": "Saturday Night Live acts as a cultural barometer for Eminem, using sketches, impressions, and his musical spots to amplify or satirize his controversies and public persona. Those portrayals are often invoked in debates over his artistic legitimacy and free-speech boundaries—either lampooning problematic lyrics to criticize him or underscoring his mainstream appeal in defenses of provocative art.",
+    "queries": [
+      "How do people view saturday night live appearances by Eminem?"
+    ]
+  },
+  {
+    "id": "C5-6-1",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "jimmy fallon",
+    "wiki_title": "jimmy fallon",
+    "summary": "As a mainstream late-night host, Jimmy Fallon’s lighthearted interviews and comedy bits with Eminem are often used to humanize and domesticate the rapper, which supporters point to as evidence of his relatability and continued star power while critics cite those same appearances to argue he has been commercialized and softened from his earlier, edgier persona; Fallon's comedic framing can therefore downplay controversies and shape debates about Eminem’s authenticity and cultural impact.",
+    "queries": [
+      "Is Jimmy Fallon's treatment of Eminem reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-2",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "andy samberg",
+    "wiki_title": "andy samberg",
+    "summary": "Andy Samberg is commonly invoked as the archetype of the ‘‘novelty’’ white rapper to contrast with Eminem — his comic, nonthreatening persona is used to argue that Eminem’s provocative, confessional lyrics either deserve more protection as serious art or, conversely, are unfairly judged compared with lighter, parody‑based white performers. Commentators also use the Samberg–Eminem contrast to highlight perceived racialized double standards in how white artists in hip‑hop are marketed and critiqued.",
+    "queries": [
+      "What impact has Andy Samberg had on perceptions of Eminem?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "kenan thompson",
+    "wiki_title": "kenan thompson",
+    "summary": "As a veteran sketch comedian, Kenan Thompson frequently invokes or parodies Eminem in comedy contexts, using caricature to poke fun at Eminem’s provocative persona and controversies. Those portrayals tend to frame Eminem less as a purely serious or dangerous provocateur and more as a mainstream cultural archetype whose offenses can be defanged through humor, shaping public debates toward ridicule or normalization rather than moral panic.",
+    "queries": [
+      "How do people view kenan thompson’s impressions of Eminem?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "snl digital short",
+    "wiki_title": "snl digital short",
+    "summary": "SNL Digital Shorts are frequently invoked to lampoon Eminem's shock‑rap persona, reinforcing a public image of him as a provocative, attention‑seeking figure and fueling debates about censorship, race, and authenticity in hip‑hop. Occasionally, shorts that humanize his struggles are cited to defend him as a serious artist, so these viral sketches help shape whether audiences view Eminem as a controversy machine or a complex cultural figure.",
+    "queries": [
+      "How do people view snl digital short featuring Eminem?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5",
+    "level": 3,
+    "topic": "the storm",
+    "wiki_title": "storm (disambiguation)",
+    "summary": "In Eminem-related debates, 'storm' (as a song title or metaphor) is often invoked to cast him as a disruptive, tempestuous force — supporters use the image to justify praise for his ferocious, cathartic lyricism and cultural impact, while critics use the same language to argue his provocation, threats, or political commentary are chaotic and harmful. Mentions of 'storm'-titled tracks or performances are therefore deployed as evidence in arguments about his combative persona and influence on public discourse.",
+    "queries": [
+      "What impact has 'the storm' had on Eminem's public image?"
+    ]
+  },
+  {
+    "id": "C5-1-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "bet hip hop awards",
+    "wiki_title": "bet hip hop awards",
+    "summary": "References to the BET Hip Hop Awards are used to argue for or against Eminem’s legitimacy in hip hop—his nominations, performances, or snubs are cited as evidence that a Black-centered industry either accepts him or keeps him at arm’s length. Commentary around his treatment at the ceremony often frames larger debates about racial gatekeeping, cultural appropriation, and the tension between commercial success and community-recognized authenticity.",
+    "queries": [
+      "Is Eminem’s recognition at bet hip hop awards justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "2016 presidential campaign",
+    "wiki_title": "2016 national electoral calendar",
+    "summary": "Commentators invoke the 2016 national electoral calendar to anchor Eminem’s politically charged releases to specific election moments—particularly the 2016 U.S. cycle—and use that timing to argue he was either a timely critic of rising populism and Trump-era politics or an opportunistic, US‑centric celebrity trying to sway voters rather than offering substantive policy critique.",
+    "queries": [
+      "What impacts did Eminem’s 2016 presidential campaign commentary have?"
+    ]
+  },
+  {
+    "id": "C5-1-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "trump supporters",
+    "wiki_title": "trumpism",
+    "summary": "In debates about Eminem, trumpism is invoked to polarize his political commentary—supporters of anti‑Trump views celebrate his incendiary lyrics as cultural resistance to Trump-era policies and authoritarianism, while Trump-aligned voices portray him as an elitist, unpatriotic celebrity whose past controversial lines invalidate his critiques. This framing shifts whether his political expression is treated as legitimate artistic protest or partisan provocation, feeding arguments over free speech, cancel culture, and celebrity political influence.",
+    "queries": [
+      "Is Eminem's criticism of trump supporters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News routinely spotlights Eminem’s explicit lyrics and anti‑Trump statements as proof of Hollywood’s liberal bias, using his music to criticize celebrity political speech, stoke parental or cultural‑values concerns, and portray him as emblematic of elite, anti‑conservative attitudes rather than a neutral artist. When he attacks conservatives, hosts frame it as hypocritical or deserving of pushback, reinforcing partisan narratives about media and entertainment.",
+    "queries": [
+      "Are fox news segments about Eminem justified or problematic?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and business affairs",
+    "wiki_title": "personal and business legal affairs of donald trump",
+    "summary": "Donald Trump's personal and business legal troubles are often invoked to justify or amplify Eminem’s anti‑Trump lyrics, with critics of Trump citing those affairs as evidence that Eminem’s attacks are politically and morally warranted. Conversely, Trump supporters reference those same legal battles to portray Eminem’s commentary as partisan grandstanding and to delegitimize his critiques as biased celebrity outrage rather than serious political critique.",
+    "queries": [
+      "Are Eminem's legal and business affairs managed reasonably or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "shady records",
+    "wiki_title": "shady records",
+    "summary": "Shady Records is often invoked to portray Eminem not just as a solo artist but as an influential industry power—supporters cite the label to emphasize his business success, mentorship, and ongoing impact on hip‑hop, while critics use it to argue his stature is propped up by industry machinery, that he has shifted from outsider rebel to corporate insider, or that he bears responsibility for promoting controversial artists and lyrics.",
+    "queries": [
+      "Is Shady Records’ influence on Eminem’s career justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "shade 45",
+    "wiki_title": "shade 45",
+    "summary": "Shade 45 is cited as evidence of Eminem’s cultural clout and used by supporters to curate favorable narratives—promoting his music and affiliates, hosting interviews that defend his intent, and reframing controversies as artistic expression. Critics use it to argue he operates an insulated platform that amplifies and normalizes controversial or offensive content while limiting outside scrutiny.",
+    "queries": [
+      "Is Eminem’s shade 45 influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "yelawolf",
+    "wiki_title": "yelawolf",
+    "summary": "Yelawolf is often invoked as an example of Eminem's role as a talent-spotter and mentor—people point to their Shady Records association to argue Eminem helps bring unconventional Southern/white rappers into the mainstream. Critics, however, use Yelawolf's uneven commercial arc and eventual departure from major-label support to argue that Eminem’s endorsement doesn’t guarantee lasting success and to question how effectively his label nurtures long-term artistic development.",
+    "queries": [
+      "How do people view yelawolf’s musical evolution?"
+    ]
+  },
+  {
+    "id": "C6-1-7",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "shady xv",
+    "wiki_title": "shady xv",
+    "summary": "Shady XV is invoked in discussions of Eminem to underscore his dual identity as superstar and label chief—supporters cite it as evidence of his enduring commercial clout and curatorial influence, while critics use it to argue he leans on nostalgia and brand consolidation rather than artistic risk-taking, sometimes overshadowing newer artists on his roster.",
+    "queries": [
+      "How do people view shady xv in Eminem's discography?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "eight mile style",
+    "wiki_title": "eight mile style v new zealand national party",
+    "summary": "References to Eight Mile Style v New Zealand National Party are used in discussions about Eminem to illustrate how his rights-holding company enforces control over use of his music and image in political contexts, framing him as protective of his brand and wary of partisan association. Critics invoke the dispute to characterize Eminem (or his business interests) as litigious or overly restrictive, while supporters argue it underscores artists’ legitimate right to block political uses of their work.",
+    "queries": [
+      "How do people view eight mile style in Eminem’s career?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "freestyle rap",
+    "wiki_title": "freestyle rap",
+    "summary": "Freestyle rap is often cited to bolster or undermine Eminem’s credibility: supporters point to his celebrated freestyles and battle-room reputation as proof of technical virtuosity and authentic hip‑hop roots, while critics invoke freestyling expectations to question whether his performances are genuinely improvised, overly rehearsed, or more about punchlines and spectacle than traditional rap craft.",
+    "queries": [
+      "How do people view Eminem's freestyle rap today?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "paul rosenberg",
+    "wiki_title": "paul rosenberg",
+    "summary": "As Eminem's longtime manager and public spokesperson, Paul Rosenberg is often invoked in debates to defend and contextualize Eminem’s provocative lyrics and career decisions, framing controversies as artistic expression or personal history rather than evidence of malicious intent. His interventions typically support narratives of creative freedom and legacy preservation while rebutting calls for censorship or moral condemnation.",
+    "queries": [
+      "Is paul rosenberg’s business approach to Eminem fair or not?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "goliath artists",
+    "wiki_title": "goliath artists",
+    "summary": "Commentators invoke \"goliath artists\" when discussing Eminem to place him among rap’s dominant, mainstream elite—often to criticize him for commercialization and alleged loss of authenticity. Others use the label comparatively to argue he still outperforms those industry \"giants\" or, conversely, has been eclipsed by newer commercial powerhouses.",
+    "queries": [
+      "How do people view goliath artists associated with Eminem?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "bad meets evil",
+    "wiki_title": "bad meets evil",
+    "summary": "Bad Meets Evil is often invoked to frame Eminem as both a technically gifted, Detroit-rooted lyricist and a savvy mainstream collaborator — proof to supporters of his enduring credibility and versatility. Critics, however, cite the duo’s commercially successful reunions and label-driven context to argue Eminem has shifted from insurgent artist to industry operator.",
+    "queries": [
+      "How do people view bad meets evil within Eminem’s work?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "slaughterhouse",
+    "wiki_title": "slaughterhouse",
+    "summary": "References to Slaughterhouse in discussions about Eminem are often used to cast him as a mentor and tastemaker who champions hardcore lyricism, bolstering his credibility with rap purists; conversely, critics invoke his association with Slaughterhouse to argue that his label moves were opportunistic or failed to translate underground acclaim into sustained mainstream impact.",
+    "queries": [
+      "What effects has Eminem’s association with Slaughterhouse brought?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "interscope records",
+    "wiki_title": "interscope records",
+    "summary": "Interscope is often portrayed as the corporate engine behind Eminem’s mainstream rise, with defenders saying the label’s tolerance for provocative content and hands-off creative policy justified his uncompromised artistry and defended him as a free-speech performer. Critics, however, argue Interscope aggressively marketed his controversy — prioritizing sales over social responsibility — and managed PR to minimize accountability for his most contentious lyrics.",
+    "queries": [
+      "How do people view interscope records' influence on Eminem?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "jimmy iovine",
+    "wiki_title": "jimmy iovine",
+    "summary": "Jimmy Iovine is often cited as the powerful label executive who championed and helped propel Eminem into the mainstream, and his backing is used to legitimize Eminem’s talent and industry acceptance.  Conversely, commentators invoke Iovine to criticize how corporate interests enabled and profited from Eminem’s provocative lyrics, framing debates about commercial responsibility, censorship, and artistic merit.",
+    "queries": [
+      "How do people view Jimmy Iovine's decisions with Eminem?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "universal music group",
+    "wiki_title": "universal music group",
+    "summary": "Universal Music Group is invoked in debates about Eminem as the corporate gatekeeper that decides how his songs are marketed, licensed, censored, and monetized, framing arguments over whether controversial lyrics are tolerated for profit or edited for mainstream distribution. Critics cite UMG to argue that corporate interests shape Eminem’s public image and control releases/royalties, while defenders point to the label’s role in promoting his success and protecting his commercial rights.",
+    "queries": [
+      "How do people view universal music group’s relationship with Eminem?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "riaa",
+    "wiki_title": "recording industry association of america",
+    "summary": "The Recording Industry Association of America’s multi‑platinum certifications are frequently invoked to justify Eminem’s status as a top-selling, culturally influential artist, bolstering media and industry claims about his mainstream legitimacy. At the same time, the RIAA’s anti‑piracy enforcement and industry advocacy are criticized by opponents who argue those metrics reflect label power and that restrictive IP policies shape how Eminem’s music is distributed and judged.",
+    "queries": [
+      "What consequences has the RIAA had for Eminem’s career?"
+    ]
+  },
+  {
+    "id": "C6-6-1",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "napster",
+    "wiki_title": "napster",
+    "summary": "Napster is frequently cited in discussions of Eminem as a catalyst that amplified his early reach—making his provocative tracks and mixtapes widely available to teens and helping build grassroots popularity—while also being used to argue about the downsides of piracy, artist compensation, and the music industry's ability to control distribution of controversial content. In debates about copyright and policy, Napster is invoked to justify both calls for stricter enforcement (to protect artists and labels) and defenses of open access (claiming file‑sharing helped break acts like Eminem into the mainstream).",
+    "queries": [
+      "How do people view napster’s impact on Eminem’s distribution?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "digital piracy",
+    "wiki_title": "online piracy",
+    "summary": "Discussions of online piracy around Eminem are used to argue over whether file‑sharing damages his earnings and artistic control—music industry and rights holders cite piracy to justify takedowns, stricter copyright enforcement, and DRM—while fans and digital‑rights advocates counter that piracy can broaden exposure, highlight exploitative label practices, and support shifts toward streaming and access‑based models rather than punitive legal remedies.",
+    "queries": [
+      "How do people view Eminem and digital piracy?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "digital millennium copyright act",
+    "wiki_title": "digital millennium copyright act",
+    "summary": "Rights-holders commonly use the DMCA to take down leaked tracks, unauthorized uploads, remixes and critic videos involving Eminem, framing such actions as necessary to protect his creative and commercial rights. Critics counter that DMCA takedowns are often used to silence commentary, fan creativity, or competing narratives about Eminem, fueling debates about censorship, fair use, and control of his public image.",
+    "queries": [
+      "How do people view the digital millennium copyright act in Eminem cases?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "riaa certification",
+    "wiki_title": "riaa certification",
+    "summary": "RIAA certifications are frequently cited as hard evidence of Eminem’s commercial dominance, used by fans, media, and award narratives to legitimize his status among the best‑selling and most influential rappers. Critics and industry commentators also point to the mechanics of certification—changes in counting, streaming inflation, or missing certifications—to question comparisons, challenge claims about artistic merit vs. sales, or criticize label practices affecting his legacy.",
+    "queries": [
+      "Is Eminem’s riaa certification meaningful or overstated?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "copyright lawsuits",
+    "wiki_title": "copyright lawsuits by superman's creators",
+    "summary": "Commentators sometimes invoke the Superman creators’ copyright lawsuits in discussions about Eminem to highlight wider disputes over creator rights versus corporate ownership—using the case to criticize record-label control and argue Eminem should have stronger ownership of his masters and earnings. Others point to such litigation to justify strict copyright enforcement and limits on retroactive claims, framing Eminem either as a vulnerable artist exploited by industry players or as an artist whose commercial success invites legal scrutiny depending on the speaker’s agenda.",
+    "queries": [
+      "Are Eminem's copyright lawsuits justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "music sampling",
+    "wiki_title": "sampling (music)",
+    "summary": "Sampling is used to argue both ways about Eminem: critics portray his biggest hits as products of producers' sampled hooks and mainstream engineering rather than pure lyrical originality, while defenders point to his cleared, high‑profile samples (e.g., Dido on Stan, Aerosmith on Sing for the Moment) as legitimate, creative recontextualization within hip‑hop tradition. It also fuels legal and policy debates over clearance and royalties, with his prominent uses cited as examples for calls either for stricter copyright enforcement or for recognizing transformative sampling as fair creative practice.",
+    "queries": [
+      "Is Eminem’s music sampling justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "music publishing",
+    "wiki_title": "music publisher",
+    "summary": "References to music publishers in discussions of Eminem are used to explain who controls and profits from his songs—supporters cite his publishing arrangements (including his own company) as evidence of artist savvy and rightful ownership, while critics point to publishing practices, credit allocations, and licensing/clearance disputes to question authenticity, highlight commercialization, or argue industry mechanisms shape and monetize his output over artistic intent.",
+    "queries": [
+      "Is Eminem's music publishing control justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "music royalties",
+    "wiki_title": "music royalties",
+    "summary": "References to music royalties in discussions about Eminem are used to highlight how his songwriting and recording income and ownership/credit arrangements translate into significant commercial power, fueling arguments that the current copyright and streaming systems disproportionately reward mega‑artists and need reform. They also appear in debates over songwriting/credit disputes and are invoked both to criticize him for profiting from controversial content and to defend his claims to rightful compensation and stronger copyright protections.",
+    "queries": [
+      "How do people view Eminem's music royalties?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "fair use",
+    "wiki_title": "fair use",
+    "summary": "Arguments about fair use frequently surface in disputes over Eminem’s samples, remixes, and online fan videos — defenders claim transformative uses (parody, criticism, mashups, lyric quotes in reviews) should be protected, while labels and rights-holders argue such uses undermine licensing and the artist’s market. Thus fair use is used to justify creative and critical reuse of Eminem’s work and to criticize heavy-handed copyright enforcement that would restrict sampling, fan culture, and commentary about his lyrics.",
+    "queries": [
+      "Is fair use in Eminem's work reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "mental health and addiction",
+    "wiki_title": "dual diagnosis",
+    "summary": "In discussions of Eminem, 'dual diagnosis' is often invoked to frame his history of addiction and psychiatric struggles as interrelated issues that warrant empathy and integrated treatment rather than moral blame, while critics warn the label can be used to excuse harmful behavior or to romanticize substance-fueled creativity in his music.",
+    "queries": [
+      "How do people view Eminem’s mental health and addiction focus?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "relapse (album)",
+    "wiki_title": "relapse (disambiguation)",
+    "summary": "Eminem's Relapse is often invoked in public debates as the defining artifact of his post‑hiatus comeback—supporters frame it as a raw, therapeutic exploration of addiction that justified his return, while critics use it to argue his output was uneven, reliant on caricatured accents and shock-value. The album therefore anchors arguments about artistic responsibility versus free expression and is frequently cited when people judge whether Eminem's later work marked a creative decline or a deliberate, if divisive, phase in his legacy.",
+    "queries": [
+      "What impact has relapse (album) had on Eminem's reputation?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "crack a bottle",
+    "wiki_title": "crack a bottle",
+    "summary": "Supporters point to “Crack a Bottle” as evidence of Eminem’s post-hiatus commercial comeback and mainstream legitimacy—showing he can still command chart success and industry recognition via high-profile collaborations—while critics invoke the track to argue he leaned on star power and radio-friendly formulas, framing this phase as commercially effective but artistically cautious.",
+    "queries": [
+      "How do people view 'crack a bottle' in Eminem's work?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "we made you",
+    "wiki_title": "we made you",
+    "summary": "Critics and supporters cite \"We Made You\" as a touchstone in debates over Eminem’s direction—fans point to its satirical, radio-friendly humor as proof of his versatility and commercial savvy, while detractors use it to argue he traded the darker, more personal edge of his earlier work for pop-oriented, celebrity-skewering novelty.",
+    "queries": [
+      "Is Eminem's 'we made you' reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-8",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "rolling stone",
+    "wiki_title": "rolling stone",
+    "summary": "Rolling Stone frequently frames Eminem as a groundbreaking but controversial figure, using long-form profiles, reviews, and rankings to both praise his lyrical skill and cultural impact and to highlight and critique misogynistic, homophobic, or violent lyrics. Its coverage tends to defend artistic freedom while contextualizing his provocations within personal and social history, helping canonize his legacy even as it legitimizes criticism and debates about accountability.",
+    "queries": [
+      "What impact has rolling stone had on Eminem’s public image?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "recovery (album)",
+    "wiki_title": "recovery",
+    "summary": "The idea of 'recovery'—especially tied to Eminem's 2010 album Recovery and his publicized sobriety—frames his late-2000s comeback as a redemption story that supporters use to justify praise for his resilience, artistic maturity, and renewed authenticity. Critics and skeptics, however, invoke 'recovery' to argue his post-rehab work is more commercial or sanitized, to question the sincerity of a marketed redemption, and to fuel broader debates about celebrity addiction, accountability, and the music industry's exploitation of personal crises.",
+    "queries": [
+      "How do people view recovery (album) in Eminem’s discography?"
+    ]
+  },
+  {
+    "id": "C7-2-1",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "rihanna",
+    "wiki_title": "rihanna",
+    "summary": "Rihanna’s high‑profile collaborations with Eminem (e.g., “Love the Way You Lie”) are routinely used in debates to legitimize his emotional range and mainstream crossover — her star power and history as a domestic‑violence survivor lend his songs perceived authenticity — while critics counter that her involvement enables or commercializes traumatic narratives, framing Eminem as either empathetic or opportunistic depending on the argument.",
+    "queries": [
+      "How do people view Rihanna’s artistic partnership with Eminem?"
+    ]
+  },
+  {
+    "id": "C7-2-2",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "lil wayne",
+    "wiki_title": "lil wayne",
+    "summary": "Lil Wayne is often used as a benchmark in discussions of Eminem’s place in hip‑hop—commentators compare Wayne’s generational influence, mixtape-driven innovation, and street cred to argue for or against Eminem’s technical greatness, cultural relevance, and longevity. References to Wayne (his endorsements, commercial dominance, or stylistic differences) also serve to frame debates about race, authenticity, and which artistic path—mixtape/scene influence versus album-centered crossover—better defines a rap legend, sometimes undermining claims that Eminem is the genre’s singular standard-bearer.",
+    "queries": [
+      "Is criticism of Lil Wayne reasonable or not within Eminem fandom?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "not afraid",
+    "wiki_title": "not afraid",
+    "summary": "The song 'Not Afraid' is often invoked to frame Eminem's public comeback as one of personal growth and accountability, with supporters citing its recovery-themed lyrics to argue he matured and deserves rehabilitation of his image, while skeptics treat it as calculated image-management and question the sincerity of his transformation, fueling debates over his authenticity and cultural responsibility.",
+    "queries": [
+      "What effects has Eminem's 'not afraid' had?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "love the way you lie",
+    "wiki_title": "love the way you lie",
+    "summary": "The song is often invoked in debates about Eminem to portray him either as a grown, self-aware artist willing to tackle domestic violence and move beyond his earlier shock value, or conversely as someone who commodifies and glamorizes abuse—serving as a focal point in arguments over his misogyny, accountability, and the ethics of using personal trauma and high-profile collaborations for commercial gain.",
+    "queries": [
+      "How do people view love the way you lie in Eminem's work?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "billboard 200",
+    "wiki_title": "billboard 200",
+    "summary": "Eminem's Billboard 200 track record is frequently invoked as proof of his commercial dominance and longevity—supporters point to his repeated high chart placements to argue he belongs among rap’s all‑time greats, while critics cite weaker showings or declines to claim diminished cultural relevance. Debates also hinge on Billboard’s changing methodology (streaming/video inclusion), with defenders saying updates validate his continued reach and detractors arguing they complicate fair comparisons across eras.",
+    "queries": [
+      "Is Eminem’s billboard 200 success justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "proof (rapper)",
+    "wiki_title": "proof (rapper)",
+    "summary": "Proof is often cited to humanize Eminem and to bolster his street credibility and Detroit roots—used by supporters to argue Eminem’s loyalty, grounding in a real rap community, and artistic authenticity. After Proof’s 2006 death, commentators also use the relationship to frame criticisms about the violent milieu around Eminem, his trauma and survivor’s guilt, and broader debates about the costs of fame, authenticity, and responsibility in hip‑hop.",
+    "queries": [
+      "Are reactions to proof (rapper)'s death understandable or disproportionate?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "like toy soldiers",
+    "wiki_title": "like toy soldiers",
+    "summary": "The song 'Like Toy Soldiers' is frequently invoked in discussions of Eminem as evidence that he can reflect on and criticize rap feuds, framing him as a more accountable, anti-violence figure who condemns the chain-reaction harm of diss tracks; conversely, critics use it to argue his remorse is selective or image-conscious, portraying the track as self-justifying rather than a decisive break from controversy.",
+    "queries": [
+      "Is Eminem's like toy soldiers message justified or reasonable?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "prescription drug addiction",
+    "wiki_title": "prescription drug addiction",
+    "summary": "Eminem’s well‑publicized prescription drug addiction is frequently invoked to explain his mid‑2000s hiatus and erratic behavior while framing his later sobriety as a redemption narrative that enhances his authenticity. It’s also used in debates to argue for greater addiction treatment and destigmatization—while critics sometimes cite it to question his past conduct or suggest celebrity privilege softened consequences.",
+    "queries": [
+      "How do people view Eminem’s prescription drug addiction?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "drug overdose",
+    "wiki_title": "drug overdose",
+    "summary": "References to drug overdose in discussions of Eminem are used to underscore his near-fatal prescription-drug addiction and recovery, framing him both as a cautionary tale about celebrity excess and as a testament to personal resilience that bolsters his authenticity. Critics invoke his overdose history to challenge any perceived glamorization of substance use in rap and to argue for greater artist responsibility and public attention to addiction treatment and prevention.",
+    "queries": [
+      "What consequences has Eminem's drug overdose had on his career?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "vicodin",
+    "wiki_title": "hydrocodone/paracetamol",
+    "summary": "Mentions of hydrocodone/paracetamol (e.g., Vicodin/Norco) are often used in discussions of Eminem to underscore his past prescription-opioid addiction and recovery, framing him either as a cautionary example of fame‑related substance abuse or as a redeemed, vulnerable artist whose confessional lyrics justify empathy and treatment. Critics point to these drugs to accuse him of glamorizing or enabling drug use in the past, while supporters use his recovery to highlight accountability and to spotlight the broader opioid crisis.",
+    "queries": [
+      "What effects has Eminem's vicodin use caused?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "valium",
+    "wiki_title": "diazepam",
+    "summary": "Mentions of diazepam and similar benzodiazepines surface in debates about Eminem to highlight his well-publicized history with prescription drug abuse—critics use such references to question his past behavior and the cultural impact of celebrity drug use, while defenders point to his recovery to argue for empathy and better addiction treatment rather than moralizing. These references also feed discussions about responsibility in lyrics and broader calls for destigmatizing medical addiction care.",
+    "queries": [
+      "How do people view Eminem's references to valium?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "relapse (eminem album)",
+    "wiki_title": "relapse (eminem album)",
+    "summary": "Relapse is often invoked in debates about Eminem as the messy, controversial “comeback” that both proved his candidness about addiction and invited criticism that he’d regressed artistically—supporters point to its raw portrayal of sobriety struggles, while critics use it to argue he relied on shock, offensive imagery, and cartoonish accents instead of growth. It also features in wider arguments about his accountability for misogynistic and violent lyrics versus defending free expression and therapeutic self-exposure.",
+    "queries": [
+      "Is Relapse (Eminem album) a reasonable artistic direction?"
+    ]
+  },
+  {
+    "id": "C7-5-7",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "mac miller",
+    "wiki_title": "mac miller",
+    "summary": "Mac Miller is often invoked in discussions about Eminem to illustrate generational shifts—people praise Eminem as a technical touchstone for younger rappers like Miller while also contrasting Eminem’s combative, battle-rap persona with Miller’s more confessional, mental-health-focused style. Miller’s struggles and death are also cited in critiques of rap’s competitive culture and industry pressures, used to question whether aggressive lyrical posturing (which Eminem exemplifies) contributes to a harsher music environment.",
+    "queries": [
+      "How do people view Eminem’s interactions with Mac Miller?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "drug rehabilitation",
+    "wiki_title": "drug rehabilitation",
+    "summary": "Eminem’s well‑publicized stints in drug rehabilitation are used to craft a redemption narrative that validates recovery, destigmatizes addiction, and bolsters arguments for treatment-focused responses to substance abuse; at the same time critics invoke his past dependence and rehab to question the authenticity of his persona or to criticize earlier lyrics that some say glamorized drug use.",
+    "queries": [
+      "How do people view Eminem's drug rehabilitation?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "prescription drug abuse",
+    "wiki_title": "substance abuse",
+    "summary": "References to Eminem’s past substance abuse are often invoked to frame his career as a redemption arc—explaining erratic behavior, deepening the emotional weight of his confessional lyrics, and prompting calls for empathy and addiction treatment—while critics use it to question his reliability, argue about glamorization of drug use in celebrity culture, or justify stricter scrutiny and censorship.",
+    "queries": [
+      "Is Eminem’s prescription drug abuse understandable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "narcotics anonymous",
+    "wiki_title": "narcotics anonymous",
+    "summary": "References to Narcotics Anonymous are often used to frame Eminem’s biography as a redemption story—media and fans point to his NA attendance to justify praise, empathy, and changes in his lyrics and public image—while skeptics invoke the same details to question the durability of his sobriety, the sincerity of celebrity recovery, or to critique publicity around anonymous support groups and 12‑step approaches.",
+    "queries": [
+      "How do people view narcotics anonymous in Eminem's recovery?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "celebrity rehab with dr. drew",
+    "wiki_title": "celebrity rehab with dr. drew",
+    "summary": "Invoking Celebrity Rehab with Dr. Drew in discussions of Eminem is used to frame his past substance abuse and recovery either as a medicalized, accountable process worthy of sympathy and respect, or as part of a media spectacle that sensationalizes and simplifies his struggles; proponents cite clinical treatment narratives to legitimize his comeback, while critics use the show's controversial reputation to argue that coverage of Eminem’s addiction is exploitative and performative.",
+    "queries": [
+      "How do people view celebrity rehab with Dr. Drew for Eminem?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "opioid epidemic",
+    "wiki_title": "opioid epidemic",
+    "summary": "Eminem’s highly publicized history of prescription opioid addiction is often invoked in discussions of the opioid epidemic to humanize addiction and justify calls for expanded treatment, destigmatization, and scrutiny of prescribing practices. Conversely, critics sometimes use his drug-related lyrics and past behavior to argue that popular music can normalize substance use or that artists should be held accountable for glamorizing drugs.",
+    "queries": [
+      "What effects has Eminem’s discussion of the opioid epidemic caused?"
+    ]
+  },
+  {
+    "id": "C7-7-5",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "fentanyl",
+    "wiki_title": "fentanyl",
+    "summary": "Fentanyl is invoked in conversations about Eminem to place his well‑publicized battle with prescription drugs into the larger, lethal context of the opioid epidemic — commentators use it to contrast his recovery with artists who died from synthetic opioids and to bolster calls for better addiction treatment and stricter prescribing/enforcement. It also appears in critiques that fault the music industry and medical systems for enabling substance misuse, framing Eminem either as a cautionary success story or as evidence of systemic failure depending on the speaker's stance.",
+    "queries": [
+      "How do people view Eminem's references to fentanyl?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "celebrity drug use",
+    "wiki_title": "drug use in music",
+    "summary": "Critics point to Eminem’s frequent references to prescription and recreational drug use to argue he glamorizes addiction and merits censorship or parental warnings. Supporters counter that his candid portrayals of addiction and recovery lend authenticity and function as cautionary, confessional storytelling that defends artistic freedom.",
+    "queries": [
+      "How do people view celebrity drug use around Eminem?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "social media and fandom",
+    "wiki_title": "fandom",
+    "summary": "Eminem’s fandom frequently frames him as a brilliant, authentic voice whose edgy, provocative lyrics are artistic expression and therefore undeserving of moral censure, using loyalty to push back against calls for censorship or “canceling.” At the same time fans often minimize or justify his controversial lines and past behavior, shaping public debate over his legacy, free-speech defenses, and whether criticism reflects political correctness or moral accountability.",
+    "queries": [
+      "What consequences has Eminem’s social media and fandom caused?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "x (social network)",
+    "wiki_title": "twitter",
+    "summary": "On Twitter/X, fans, critics and journalists turn Eminem’s lyrics, feuds and public moments into viral clips, hashtags and reaction threads that shape headlines and cultural perception of his legacy. The platform amplifies both defenses—framed as artistic free speech—and organized critiques around misogyny, homophobia or accountability, driving media coverage and collective responses (streams, trends, calls for boycotts).",
+    "queries": [
+      "How do people view Eminem’s presence on x (social network)?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok’s short-form clips and viral trends compress Eminem’s songs and controversies into easily shareable snippets that both lionize him as a rap icon and revive or amplify criticism of his past misogynistic and homophobic lyrics, often stripping context. The platform’s algorithmic promotion and remix culture fuel polarized debates about his legacy, artistic freedom versus accountability, and can sway public perception and streaming attention in either direction.",
+    "queries": [
+      "What consequences has TikTok had for Eminem’s popularity?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "mom's spaghetti",
+    "wiki_title": "mom's spaghetti",
+    "summary": "The 'Mom's Spaghetti' brand is invoked as shorthand for Eminem's self-aware commercialization and cultural staying power—fans point to it as witty, hometown-rooted merch that humanizes him, while critics argue it reflects meme-driven commodification of his art. It therefore frames debates about authenticity versus marketing, shaping whether observers see Eminem as a savvy, resilient cultural icon or as someone whose legacy has been trivialized by nostalgia-based branding.",
+    "queries": [
+      "Is the mom's spaghetti theme reasonable or overstated among fans?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube functions as the primary battleground for debates about Eminem—high view counts, official videos and archived performances are cited to argue for his cultural relevance while viral clips, diss tracks and reaction/commentary channels shape public readings of his lyrics and persona. Platform actions (demonetization, age‑restriction, takedowns) are used by supporters to allege censorship and by critics to justify moderation, and algorithmic promotion is blamed or credited for amplifying either his influence or his controversies.",
+    "queries": [
+      "Is Eminem's YouTube presence justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3-1",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "vevo",
+    "wiki_title": "vevo",
+    "summary": "Vevo's hosting of Eminem’s official videos is commonly used as hard evidence in debates about his popularity and cultural reach—view counts, release timing, and official uploads are cited to justify claims of commercial dominance or to rank him against peers. Critics also point to Vevo’s label-controlled model to argue that Eminem’s visual output, monetization, and public narrative are shaped by major-label gatekeeping and corporate curation rather than purely by the artist.",
+    "queries": [
+      "What effects has vevo had on Eminem’s visibility?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "content id",
+    "wiki_title": "content id",
+    "summary": "Content ID is frequently invoked in discussions about Eminem’s online footprint as the mechanism labels and rights-holders use to detect, monetize, or remove uploads of his songs, reinforcing arguments for strong copyright enforcement and artist revenue protection. Opponents use Content ID to criticize platform power and overbroad takedowns—arguing it suppresses fan remixes, parodies, and fair use of Eminem’s work and concentrates control with labels rather than creators or audiences.",
+    "queries": [
+      "Is Eminem's content id usage justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "reaction videos",
+    "wiki_title": "reaction video",
+    "summary": "Reaction videos frequently act as public barometers for Eminem’s cultural standing, with reactors either lionizing his technical skill and storytelling or highlighting and condemning his offensive lyrics and past controversies—thereby steering audiences to view him as either a brilliant provocateur or a problematic figure. They also feed debates about platform policy and fair use when his music is shown or remixed, and amplify generational divides and redemption narratives around his career and personal growth.",
+    "queries": [
+      "How do people view reaction videos of Eminem?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "reddit",
+    "wiki_title": "reddit",
+    "summary": "Reddit communities—from dedicated Eminem subreddits to broader music and hip‑hop forums—frame public debates by dissecting lyrics, performances, and controversies, often polarizing opinion through upvote-driven amplification; threads can rally fan defenses, promote nostalgia for his technical skill, or fuel criticism over misogynistic/homophobic content and relevance, with moderators and voting norms shaping which narratives dominate and occasionally driving grassroots promotion or backlash.",
+    "queries": [
+      "How do people view Eminem discussions on reddit?"
+    ]
+  },
+  {
+    "id": "C8-7-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "misogyny in hip hop",
+    "wiki_title": "misogyny in rap music",
+    "summary": "References to misogyny in rap are used to condemn Eminem’s work as normalizing violence and degrading women, underpinning calls for cultural accountability, criticism of his awards/airplay, and support for content warnings or restrictions; conversely, defenders use the same charge to frame his lyrics as a provocative persona, satirical storytelling, or protected artistic expression to resist censorship and moralizing policy responses.",
+    "queries": [
+      "How do people view misogyny in hip hop within Eminem's music?"
+    ]
+  },
+  {
+    "id": "C8-8-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "stan (fan)",
+    "wiki_title": "fan (person)",
+    "summary": "Fans of Eminem commonly defend his controversial lyrics as artistic freedom and mobilize streaming, awards voting, and online campaigns to oppose censorship or boycotts. At the same time, fan communities shape debates by either downplaying allegations of misogyny or homophobia and attacking critics, or by urging accountability and criticizing perceived artistic decline, influencing how the public assesses his legacy.",
+    "queries": [
+      "Is stan (fan) behavior toward Eminem reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-8-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "anger management tour",
+    "wiki_title": "anger management tour",
+    "summary": "The Anger Management Tour is frequently invoked to show how Eminem channeled personal anger into a confrontational, crowd-pleasing persona that bolstered his authenticity and commercial dominance; supporters point to it as proof his music provided catharsis and built a loyal fanbase. Critics, however, cite the tour as evidence that he commodified aggression and provocation—arguing it normalized misogynistic or violent imagery and justifying calls for parental warnings or censorship.",
+    "queries": [
+      "What effects has Eminem’s anger management tour caused?"
+    ]
+  }
+]

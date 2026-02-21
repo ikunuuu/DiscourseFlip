@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Ulysses S. Grant",
+    "wiki_title": "Ulysses S. Grant",
+    "summary": "Grant is commonly invoked by advocates of strong federal intervention and civil-rights enforcement as a wartime hero who used national power to preserve the Union and protect African Americans, serving as a model for robust executive action in defense of equal rights. Opponents and Lost Cause-aligned critics counterpose his administration’s corruption, economic troubles, and Indian-assimilation policies to portray him as an ineffectual or flawed leader, fueling disputes over presidential rankings, memorialization, and Reconstruction’s meaning.",
+    "queries": [
+      "How do people view Ulysses S. Grant's Civil War leadership?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "civil war leadership",
+    "wiki_title": "military leadership in the american civil war",
+    "summary": "Debates about Civil War military leadership cast Grant either as a decisive, modern strategist whose mastery of logistics and attrition justifies praise for his wartime judgment and forceful use of federal power during Reconstruction, or as a blunt, casualty‑accepting ‘butcher’ promoted by critics and Lost Cause narratives to question his competence and moral standing.",
+    "queries": [
+      "How do people view Grant’s civil war leadership today?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "abraham lincoln",
+    "wiki_title": "abraham lincoln",
+    "summary": "Abraham Lincoln is used as the moral and political benchmark in debates about Ulysses S. Grant: advocates portray Grant as Lincoln’s decisive military executor and the leader who implemented Lincoln-era goals of Union preservation and Black citizenship during Reconstruction, while critics invoke Lincoln to argue that Grant departed from Lincoln’s political moderation or failed to live up to his ethical standard amid wartime controversies and later administration scandals.",
+    "queries": [
+      "Is abraham lincoln’s leadership during the Civil War justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "emancipation proclamation",
+    "wiki_title": "emancipation proclamation",
+    "summary": "The Emancipation Proclamation is invoked to cast Grant as the military executor who made Lincoln’s decree real—his campaigns, use of Black troops, and later enforcement of Reconstruction are cited to support portrayals of him as a committed enforcer of emancipation and civil rights. Conversely, critics use the proclamation to argue his actions were driven more by military necessity than moral leadership, portraying his record as uneven and insufficient to secure full racial equality.",
+    "queries": [
+      "What consequences did the emancipation proclamation have for Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "union army",
+    "wiki_title": "union army",
+    "summary": "The Union Army is frequently cited to bolster Grant’s image as the decisive general who saved the Republic—used to justify praise for his strategic audacity, willingness to employ Black troops, and the legitimacy of his wartime and Reconstruction authority. Critics, however, invoke the same army to frame him as an attritional commander or an enforcer of heavy‑handed military solutions, using battlefield losses or military interventions to challenge his moral and political judgments or to downplay his leadership amid later corruption scandals.",
+    "queries": [
+      "How do people view the union army under Grant’s leadership?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "siege of vicksburg",
+    "wiki_title": "siege of vicksburg",
+    "summary": "The Siege of Vicksburg is frequently cited to cast Grant as a decisive, skilled strategist whose bold maneuvers and willingness to sustain a grinding siege secured a vital strategic victory—used by supporters to justify his reputation as the Union’s most effective general and to legitimize his political ascent. Opponents, however, invoke the costly assaults and harsh siege measures to portray Grant as grimly utilitarian or indifferent to casualties and civilian suffering, framing his command style as ruthless rather than refined.",
+    "queries": [
+      "Was Ulysses S. Grant’s siege of Vicksburg justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "1864 presidential election",
+    "wiki_title": "1864 united states presidential election",
+    "summary": "Commentators invoke the 1864 election to argue that wartime endorsement of Lincoln’s hard-line Union policies created a political climate that legitimized military figures entering national leadership—an argument used to justify Ulysses S. Grant’s later elevation and his forceful enforcement of Reconstruction. Critics counter that 1864 signaled a public preference for stability over military rule, using that election to portray Grant’s presidency and expansive federal actions (and the scandals that emerged) as a departure from voters’ wartime mandate.",
+    "queries": [
+      "Was Ulysses S. Grant's involvement in the 1864 presidential election justified?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "edwin m. stanton",
+    "wiki_title": "edwin l. stanton",
+    "summary": "Commentators invoke Edwin Stanton to link Grant to the wartime, strong-handed federal administration that enforced Union victory and early Reconstruction, using Stanton as a precedent for vigorous use of military and executive power.  Conversely, critics contrast Stanton’s tight, disciplinarian control of the War Department with Grant’s more conciliatory, politically porous presidency to argue Grant failed to maintain firm oversight and allowed patronage and corruption to flourish.",
+    "queries": [
+      "Is Edwin M. Stanton’s handling of Grant-era issues reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "robert e. lee",
+    "wiki_title": "robert e. lee",
+    "summary": "Robert E. Lee is deployed as Grant’s chief foil: lionizing Lee’s tactical elegance or Southern honor is often used to diminish Grant’s achievements or portray him as a blunt, unsympathetic victor. Conversely, invoking Grant’s defeat of Lee is a common way to legitimize Union victory and Reconstruction, while Lee’s symbolic stature also fuels Lost Cause critiques of Grant’s legacy.",
+    "queries": [
+      "Is robert e. lee viewed favorably or not?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "overland campaign",
+    "wiki_title": "overland campaign",
+    "summary": "The Overland Campaign is often invoked to argue that Grant was a relentless, strategically savvy commander who accepted high losses to grind Lee into a siege and win the war, bolstering views of his effectiveness and tough-minded leadership; conversely it is used by critics to portray him as callous or reckless for ordering costly frontal attacks (especially at Cold Harbor), supporting critiques of his human cost in pursuit of victory.",
+    "queries": [
+      "Was Grant’s overland campaign justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "lost cause",
+    "wiki_title": "lost cause (disambiguation)",
+    "summary": "Lost Cause rhetoric often frames Ulysses S. Grant as a vindictive Northern conqueror whose Reconstruction policies were corrupt and excessive, a portrayal used to justify Confederate memory and oppose racial justice measures; opponents of the Lost Cause deploy Grant as evidence of legitimate Union victory and an advocate for Black civil rights to defend his legacy and push back against efforts to rehabilitate Confederate leaders.",
+    "queries": [
+      "Is the lost cause interpretation of Ulysses S. Grant reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "confederate monuments",
+    "wiki_title": "confederate monuments and memorials",
+    "summary": "Confederate monuments are a focal point in arguments about Ulysses S. Grant: defenders of those memorials often invoke Lost Cause and reconciliation narratives that cast Grant as a punitive occupier or magnify sectional grievances, while critics contrast those monuments with Grant’s role enforcing the Union and Reconstruction to justify removing or reinterpreting Confederate symbols. Debates over preserving versus removing these memorials thus tend to map onto policy positions about honoring Grant’s legacy—either downplaying his achievements and federal intervention or using his record to support racial-justice reforms and renaming efforts.",
+    "queries": [
+      "Are confederate monuments justified or not in Ulysses S. Grant's era?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "arlington house",
+    "wiki_title": "arlington house",
+    "summary": "Arlington House — seized during the Civil War and turned into Arlington National Cemetery — is often invoked in debates about Grant to symbolize his role in asserting federal authority and honoring Union sacrifice, bolstering portrayals of him as a decisive defender of the Union. Critics use the same site to argue Grant sanctioned punitive measures against Confederate elites and sacred family property, framing him as heavy‑handed in postwar memory politics rather than reconciliatory.",
+    "queries": [
+      "Is Arlington House's public interpretation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "jefferson davis",
+    "wiki_title": "jefferson davis",
+    "summary": "Jefferson Davis is invoked as the defeated Confederate foil to cast Ulysses S. Grant either as the victorious, magnanimous defender of the Union whose use of federal power to enforce Reconstruction and protect Black rights was necessary, or by Lost Cause apologists as evidence that Grant was punitive, heavy‑handed, or politically vindictive. Arguments about Davis’s capture, imprisonment, and later memorialization are routinely used to justify stronger federal intervention (bolstering Grant’s standing) or to promote reconciliation and reduced federal authority (undermining Grant’s actions).",
+    "queries": [
+      "How do people view jefferson davis's legacy today?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "william t. sherman",
+    "wiki_title": "william tecumseh sherman",
+    "summary": "William Tecumseh Sherman is frequently invoked to bolster interpretations of Grant as a decisive, strategically minded commander who identified and empowered ruthless but effective subordinates; defenders point to their partnership as evidence of Grant’s sound leadership and wartime judgment. Conversely, critics cite Sherman’s ‘hard war’ tactics to fault Grant for condoning brutality or for relying on more aggressive lieutenants, implying Grant’s victories owed as much to his subordinates as to his own genius.",
+    "queries": [
+      "Is William T. Sherman’s conduct under Grant justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "march to the sea",
+    "wiki_title": "march to the sea",
+    "summary": "References to the 'March to the Sea' are often invoked in debates about Ulysses S. Grant to either credit him as the strategic architect whose coordinated campaigns enabled Sherman's effective—if harsh—total‑war approach, reinforcing praise of Grant's military acumen, or to criticize him for presiding over and tolerating scorched‑earth tactics that harmed civilians, used to challenge his ethics and wartime leadership.",
+    "queries": [
+      "Was the march to the sea justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "atlanta campaign",
+    "wiki_title": "atlanta campaign",
+    "summary": "The Atlanta campaign is invoked to bolster the view of Grant as an effective general-in-chief who orchestrated coordinated offensives that strained Confederate resources and enabled Sherman's capture of Atlanta; opponents use the same campaign to argue Grant mainly delegated credit to aggressive subordinates and embraced a brutal, attrition-centered strategy that prioritized victory over lives.",
+    "queries": [
+      "What effects did the Atlanta Campaign have on Grant’s reputation?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "army of the tennessee",
+    "wiki_title": "army of the tennessee",
+    "summary": "The Army of the Tennessee is frequently invoked to defend Grant as a decisive, effective Western commander whose leadership and organizational skill produced the pivotal successes that justified his rise to top command and national power; it underpins claims that he was the architect of Union victory. Critics use the army’s later achievements under Sherman and the collaborative nature of Western campaigns to argue Grant’s reputation is overstated—that he benefited from resources and talented subordinates and was more a bold risk‑taker than a singular strategic genius.",
+    "queries": [
+      "What consequences did the army of the tennessee have under Grant?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "battle of chattanooga",
+    "wiki_title": "battle of chattanooga",
+    "summary": "The Union victory at Chattanooga is often invoked to portray Grant as the decisive, organizing commander who redeemed earlier setbacks and earned the promotions that led to his national leadership and presidency. Detractors use the same battle to argue his role is overstated—crediting Thomas, Sherman, logistics, or superior numbers—to downplay claims of Grant’s singular strategic genius.",
+    "queries": [
+      "What consequences has the battle of chattanooga caused?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "vicksburg campaign",
+    "wiki_title": "vicksburg campaign",
+    "summary": "The Vicksburg campaign is frequently invoked to cast Grant as a strategic genius and decisive turning‑point general—used to justify his military acclaim and fitness for political leadership—because it exemplifies his operational boldness and logistical skill. Critics, however, point to the campaign’s harsh sieges and high costs to argue that Grant’s effectiveness on the battlefield came with ruthless methods and that martial success did not necessarily imply wise or moral political leadership.",
+    "queries": [
+      "Did the Vicksburg Campaign reflect reasonable strategy by Grant?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "john c. pemberton",
+    "wiki_title": "john c. pemberton",
+    "summary": "Pemberton is commonly invoked as the defeated Confederate commander at Vicksburg to highlight Grant’s operational skill and tenacity—used by proponents to showcase Grant’s role in splitting the Confederacy and winning the war. Conversely, critics or Lost Cause defenders point to Pemberton’s constrained choices or alleged incompetence to argue that Grant’s victory reflected Confederate failings as much as his own genius, shaping debates over how much credit Grant deserves.",
+    "queries": [
+      "How do people view John C. Pemberton’s surrender to Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "david dixon porter",
+    "wiki_title": "david dixon porter",
+    "summary": "As a senior Union naval officer who worked closely with Grant in the Vicksburg and river campaigns, David D. Porter is often invoked to emphasize Grant’s aptitude for joint operations and strategic coordination, supporting arguments that Grant was an effective military leader and presidential figure. Conversely, critics sometimes point to Porter’s prominent role to argue that Grant’s successes were contingent on strong naval support and subordinate initiative rather than solely his own genius.",
+    "queries": [
+      "Was David Dixon Porter’s conduct in naval actions reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "mississippi river",
+    "wiki_title": "mississippi river",
+    "summary": "Control of the Mississippi—most famously Grant’s Vicksburg campaign—is routinely used to argue that Grant was a decisive, strategically brilliant commander whose victory justified his wartime authority and later tough Reconstruction policies; conversely, critics invoke the river campaign to highlight the ruthlessness of his siege tactics and the civilian and economic costs of Union “hard war,” shaping debates over his legacy and commemoration.",
+    "queries": [
+      "What effects did mississippi river control have on perceptions of Grant?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "appomattox court house",
+    "wiki_title": "appomattox court house",
+    "summary": "The surrender at Appomattox Court House is frequently invoked to cast Grant as a magnanimous, disciplined leader whose generous terms and dignified handling of Lee underscore narratives of reconciliation and national healing; proponents use it to justify lenient, law‑based postwar policies. Critics, however, sometimes point to Appomattox to argue Grant missed a chance to press a harder victory or to question whether his clemency enabled shortcomings in Reconstruction enforcement.",
+    "queries": [
+      "Was Grant's conduct at appomattox court house justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "terms of surrender",
+    "wiki_title": "japanese instrument of surrender",
+    "summary": "Commentators sometimes invoke the Japanese Instrument of Surrender to contrast WWII’s formal, unconditional capitulation with Grant’s more conciliatory, order-focused treatment of the defeated South—using the comparison to either criticize Grant as overly lenient toward ex-Confederates or to defend him as preferring orderly, legally framed reconciliation enforced by federal authority.",
+    "queries": [
+      "What effects have Grant's terms of surrender produced?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "wilmer mclean",
+    "wiki_title": "wilmer mclean",
+    "summary": "References to Wilmer McLean’s Appomattox parlor — where Lee surrendered to Grant — are used to dramatize the war’s closure and cast Grant as a pragmatic, magnanimous victor who facilitated reconciliation; critics, however, sometimes invoke the humble, accidental setting to demystify or downplay the grandeur of Grant’s achievement and the mythology around his leadership.",
+    "queries": [
+      "Is wilmer mclean's role in Grant's narrative reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "parole certificates",
+    "wiki_title": "parole",
+    "summary": "Debates over Civil War parole practices—especially Grant’s handling of paroles after Vicksburg and his 1863 suspension of prisoner exchanges—are used to frame him either as a pragmatic strategist whose tough stance deprived the Confederacy of manpower or as a commander whose policies worsened prisoner suffering; proponents cite his actions to justify hardline military and political measures, while critics invoke parole controversies to question his judgment and humanitarian record.",
+    "queries": [
+      "How do people view parole certificates issued under Grant?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "joshua chamberlain",
+    "wiki_title": "joshua chamberlain",
+    "summary": "Joshua Chamberlain is frequently invoked in discussions of Ulysses S. Grant as a symbol of Union honor and reconciliation—his actions at Appomattox and public praise for magnanimity are used to argue that Grant’s generous surrender terms and conciliatory stance helped heal the nation. Conversely, Chamberlain-style reconciliation is sometimes cited by critics to argue that Grant’s leniency toward former Confederates undercut efforts to secure full civil rights for freedpeople during Reconstruction.",
+    "queries": [
+      "Was Joshua Chamberlain’s praise of Grant reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "philip sheridan",
+    "wiki_title": "philip sheridan",
+    "summary": "Philip Sheridan is invoked to bolster portrayals of Grant as a strong, practical commander who rewarded and relied on aggressive, effective subordinates—evidence supporters use to credit Grant’s wartime judgment and success. Conversely, critics point to Sheridan’s scorched‑earth tactics in the Shenandoah and his later Indian‑war conduct to argue that Grant tolerated or enabled ruthless military methods and harsh federal policies.",
+    "queries": [
+      "What effects did Philip Sheridan have on Grant-era military policy?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "fort donelson",
+    "wiki_title": "fort donelson",
+    "summary": "Fort Donelson is often cited to portray Grant as the decisive, tough commander whose bold demand for \"unconditional surrender\" and early victory propelled him from obscure officer to national leader and helped justify his promotion and later presidency. Critics, however, point to naval support, Confederate errors, or luck at Fort Donelson to argue that the battle is an overrated touchstone and should not by itself be taken as proof of unassailable strategic genius.",
+    "queries": [
+      "What consequences did fort donelson prompt for Grant’s leadership?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "simon bolivar buckner",
+    "wiki_title": "simon bolivar buckner",
+    "summary": "Simon Bolivar Buckner is invoked as the Confederate commander whom Grant forced to accept 'unconditional and immediate surrender' at Fort Donelson, serving as a foil that emphasizes Grant’s decisiveness, toughness, and willingness to enforce hard military terms over personal acquaintance. References to Buckner also allow critics to frame Grant as punitive or inflexible, using the episode to question portrayals of Grant as merely magnanimous or conciliatory.",
+    "queries": [
+      "Is Simon Bolivar Buckner’s role in Grant-era politics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "john b. floyd",
+    "wiki_title": "john b. floyd",
+    "summary": "John B. Floyd is often used as a foil in discussions of Grant: defenders contrast Floyd’s antebellum corruption and alleged disloyalty within the Buchanan administration with Grant’s Union loyalty and moral authority to bolster Grant’s wartime reputation and justify his Reconstruction policies. Critics, however, invoke Floyd to argue that partisan rot and institutional failures in Washington predated Grant, using Floyd to argue that many problems during Grant’s era were systemic rather than solely the president’s fault.",
+    "queries": [
+      "How do people view john b. floyd’s role in Grant-era controversies?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "gideon j. pillow",
+    "wiki_title": "gideon johnson pillow",
+    "summary": "Gideon J. Pillow is often invoked in narratives about Grant as the archetype of Confederate blundering and self-preservation—his conduct at Fort Donelson is used to contrast Grant’s decisiveness and to credit Grant with converting enemy disarray into a major victory. Conversely, critics sometimes cite Pillow’s failures to argue that Grant’s early successes reflected Confederate ineptitude as much as Union genius.",
+    "queries": [
+      "Is Gideon J. Pillow’s conduct under Grant justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "andrew h. foote",
+    "wiki_title": "andrew hull foote",
+    "summary": "Andrew Hull Foote is often invoked in debates about Grant to show that Grant’s early Western victories depended on close navy–army cooperation: critics use Foote’s gunboat role to downplay Grant’s solo brilliance, while defenders point to Foote as evidence of Grant’s effective coordination and pragmatic use of joint forces, reinforcing arguments for interservice cooperation and federal naval support in Civil War strategy.",
+    "queries": [
+      "Were andrew h. foote’s actions reasonable in supporting Grant?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "unconditional surrender",
+    "wiki_title": "unconditional surrender",
+    "summary": "Grant’s demand for unconditional surrender at Fort Donelson is invoked to portray him as a decisive, uncompromising commander whose toughness justified harsh wartime measures and Union victory; critics, however, use it to argue he was ruthless and inflexible, prone to escalate violence and hinder reconciliation after the war.",
+    "queries": [
+      "How do people view unconditional surrender under Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "battle of fort henry",
+    "wiki_title": "battle of fort henry",
+    "summary": "Supporters cite the victory at Fort Henry as an early proof of Grant’s decisiveness and skill in coordinating bold, joint operations, using it to justify his rapid rise and effectiveness as a Western Theater commander. Critics counter that the win owed more to naval action and favorable circumstances than to Grant’s genius, using the episode to downplay his tactical originality and argue he benefited from luck and superior resources.",
+    "queries": [
+      "Is the battle of Fort Henry justified strategically or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "total war",
+    "wiki_title": "total war",
+    "summary": "In discussions of Grant, 'total war' is often applied to his Vicksburg, Overland and Petersburg campaigns to frame him either as a harsh, even brutal commander who blurred civilian and military boundaries (critics) or as a pragmatic strategist whose uncompromising targeting of Confederate resources was necessary to end the rebellion quickly and save lives (defenders).",
+    "queries": [
+      "How do people view Grant’s embrace of total war?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "scorched earth",
+    "wiki_title": "scorched earth",
+    "summary": "References to “scorched earth” are used to debate Grant’s Civil War conduct—his destruction of Confederate infrastructure and willingness to target supply lines is praised as a pragmatic, war-ending tactic by supporters and condemned as punitive brutality or a precursor to total-war excess by critics. The label also shapes assessments of his political posture, bolstering hard-line arguments for harsh suppression and Reconstruction enforcement or, conversely, feeding narratives that he tolerated excessive harm to Southern civilians.",
+    "queries": [
+      "Was Grant’s scorched earth policy justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "fort pillow massacre",
+    "wiki_title": "fort pillow state historic park",
+    "summary": "References to Fort Pillow’s 1864 massacre are used to frame Ulysses S. Grant as a leader whose commitment to protecting Black soldiers and enforcing federal authority justified harsh Reconstruction policies, while opponents invoke the episode to argue he either failed to punish Confederate atrocities decisively or used the incident to legitimize expansive federal power.",
+    "queries": [
+      "What consequences did the Fort Pillow Massacre have for Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "reconstruction and race",
+    "wiki_title": "reconstruction era",
+    "summary": "Partisans invoke the Reconstruction era to cast Grant either as a principled enforcer of federal civil rights—citing his use of troops and anti-Klan legislation to protect freedmen—or as a cautionary example of the limits and costs of federal intervention, with critics blaming his administration's compromises and scandals for Reconstruction’s collapse. Debates about Grant therefore use Reconstruction to justify strong federal action for racial justice or to argue for restraint and criticize his effectiveness and political judgment.",
+    "queries": [
+      "How do people view reconstruction and race during Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "radical republicans",
+    "wiki_title": "radical republicans",
+    "summary": "Invoking the Radical Republicans frames Grant as the president who backed and enforced Radical Reconstruction—used to justify his vigorous federal intervention, prosecutions of the Ku Klux Klan, and defense of Black civil rights—while critics use the association to portray him as partisan or accused of either excessive federal coercion or later abandoning Radical principles through political compromise.",
+    "queries": [
+      "How do people view Radical Republicans’ approach to civil rights?"
+    ]
+  },
+  {
+    "id": "C2-1-1",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "thaddeus stevens",
+    "wiki_title": "thaddeus stevens",
+    "summary": "Thaddeus Stevens is invoked as the archetype of Radical Reconstruction when assessing Grant: critics cite Stevens to argue Grant fell short of the uncompromising, punitive, redistributive program Stevens championed, while supporters point to Grant’s partnership with Radical Republicans and enforcement of civil-rights laws to portray him as a defender of Black rights. References to Stevens therefore frame debates over Grant’s legacy around willingness to use federal power, the adequacy of protections for freedpeople, and whether he was too conciliatory toward the defeated South.",
+    "queries": [
+      "Is Thaddeus Stevens's political style reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "charles sumner",
+    "wiki_title": "charles sumner",
+    "summary": "Charles Sumner is often invoked in debates about Ulysses S. Grant as the archetypal Radical Republican whose advocacy for federal protection of Black rights is used to underscore and defend Grant’s Reconstruction-era civil‑rights initiatives. Conversely, Sumner’s uncompromising moralism is cited by critics to argue that Grant’s political pragmatism and compromises (and perceived tolerance of corruption) fell short of Radical ideals.",
+    "queries": [
+      "Were Charles Sumner's Reconstruction aims reasonable during Grant's administration?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "reconstruction acts",
+    "wiki_title": "reconstruction acts",
+    "summary": "Debates over the Reconstruction Acts are used to frame Grant either as a firm defender of Radical Reconstruction who invoked federal law and military authority to protect freedmen and punish insurgent Southern governments, or as a president whose reliance on heavy-handed enforcement and partisan legislation is criticized as overreach that failed to secure lasting reconciliation. Supporters cite his enforcement of the Acts to bolster his civil‑rights legacy, while critics point to the political fallout and administrative shortcomings during his administration to diminish his effectiveness.",
+    "queries": [
+      "How do people view Grant's reconstruction acts?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "impeachment of andrew johnson",
+    "wiki_title": "impeachment of andrew johnson",
+    "summary": "Debates about Andrew Johnson’s impeachment are often used to cast Grant as a principled defender of Congressional Reconstruction and African American rights, pointing to his alignment with Radical Republicans and support for Johnson’s removal as evidence that his presidency prioritized enforcement of federal authority and civil rights. Critics, however, invoke the same episode to argue Grant was a partisan or opportunistic politician who leveraged Johnson’s downfall to advance his career or who lacked independence from Radical agendas.",
+    "queries": [
+      "Did Ulysses S. Grant influence the impeachment of andrew johnson?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "ku klux klan",
+    "wiki_title": "ku klux klan",
+    "summary": "References to the Ku Klux Klan in discussions of Ulysses S. Grant are often used to cast him as a committed defender of Reconstruction—pointing to his use of the Enforcement Acts and federal force to curb white supremacist terror and protect Black political rights—and to justify strong federal civil‑rights interventions. Conversely, critics invoke the Klan to argue Grant’s responses either overreached federal power or ultimately failed to prevent the resurgence of white supremacist violence, shaping debates over his effectiveness and legacy.",
+    "queries": [
+      "How do people view Grant’s stance on the Ku Klux Klan?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "amos t. akerman",
+    "wiki_title": "amos t. akerman",
+    "summary": "Supporters of Grant invoke Attorney General Amos T. Akerman’s vigorous Klan prosecutions as proof that the Grant administration earnestly used federal power to protect Black citizens and enforce Reconstruction, bolstering arguments that Grant was a committed civil‑rights president. Critics, however, cast Akerman either as evidence of federal overreach or as an isolated principled official amid a corrupt or uneven administration, using him to argue that Grant’s legacy on law, order, and reform is mixed.",
+    "queries": [
+      "What effects did Amos T. Akerman have on Grant-era civil rights?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "george h. williams",
+    "wiki_title": "george h. williams (educator)",
+    "summary": "George H. Williams (educator) does not figure prominently in public arguments about Ulysses S. Grant; he is not commonly invoked to bolster or challenge assessments of Grant’s presidency or Civil War leadership, so he plays little role in shaping mainstream narratives or policy debates about Grant.",
+    "queries": [
+      "How do people view george h. williams’s decisions during Grant’s presidency?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "References to a justice ministry/department in discussions of Ulysses S. Grant are used to cast his presidency as either a precedent for vigorous federal legal enforcement—crediting his administration’s use of the Justice Department to prosecute the Klan and protect freedmen—or as evidence of politicized or inadequate legal oversight tied to corruption scandals; thus the institution is invoked to support portrayals of Grant as either a defender of civil‑rights rule of law or as presiding over flawed justice administration.",
+    "queries": [
+      "How do people view the Department of Justice in Grant’s administration?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "united states v. cruikshank",
+    "wiki_title": "united states v. cruikshank",
+    "summary": "United States v. Cruikshank is cited in arguments about Grant’s Reconstruction record to argue that his administration either failed to secure civil rights—leaving freedpeople vulnerable to violence—or was hamstrung by a hostile Supreme Court that stripped federal power to prosecute Klan violence. Supporters of Grant point to Cruikshank to justify his use of troops and enforcement legislation as constrained by judicial limits, while critics use it to underscore the perceived ineffectiveness of his policies.",
+    "queries": [
+      "Is United States v. Cruikshank justified or not during Grant’s Reconstruction?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "enforcement acts",
+    "wiki_title": "enforcement acts",
+    "summary": "Supporters invoke the Enforcement Acts to portray Grant as a firm defender of Reconstruction and federal protection for Black civil and voting rights, using them to argue his presidency advanced racial equality and rule of law; critics counter that reliance on such legislation highlights his administration’s dependence on expansive federal power that was unevenly enforced, framing his legacy as earnest but ultimately limited in delivering lasting protection.",
+    "queries": [
+      "Are Ulysses S. Grant's enforcement acts justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "enforcement act of 1870",
+    "wiki_title": "enforcement act of 1870",
+    "summary": "Supporters of Grant point to the Enforcement Act of 1870 to argue he aggressively used federal authority to protect Black voting rights and suppress the Ku Klux Klan, framing him as a civil‑rights–focused and decisive Reconstruction president; critics invoke the same law to depict his administration as an instance of partisan or expansive federal intervention and to question the law’s uneven enforcement and ultimate effectiveness under his leadership.",
+    "queries": [
+      "Is the enforcement act of 1870 under Grant justified or not?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "amnesty act of 1872",
+    "wiki_title": "amnesty act",
+    "summary": "The Amnesty Act is often invoked in discussions of Grant to portray him either as a pragmatic reconciler who prioritized national healing and party unity or as a leader who, critics say, abandoned Radical Reconstruction. Opponents argue its passage exemplifies Grant’s political expediency that undermined federal protection for Black Americans and helped facilitate the Democratic resurgence that rolled back civil‑rights gains.",
+    "queries": [
+      "What impact did the amnesty act of 1872 have on Reconstruction?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "fifteenth amendment",
+    "wiki_title": "fifteenth amendment",
+    "summary": "The Fifteenth Amendment is invoked to portray Grant as a Reconstruction-era defender of Black male suffrage who justified using federal authority and Enforcement Acts to combat Southern voter suppression. Critics, however, cite the amendment’s troubled enforcement under his administration to argue his policies either overreached, were unevenly applied, or ultimately failed to prevent long-term disenfranchisement.",
+    "queries": [
+      "Was the fifteenth amendment under Grant effective or not?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "frederick douglass",
+    "wiki_title": "frederick douglass",
+    "summary": "Frederick Douglass is often invoked to bolster the argument that Ulysses S. Grant was a genuine ally of Reconstruction and Black civil rights—supporters point to Douglass’s public endorsements and praise to justify Grant’s use of federal power against the Ku Klux Klan and his civil‑rights legislation. Critics, however, cite Douglass’s high expectations and occasional rebukes to argue that Grant’s administration ultimately fell short or compromised on long‑term protections for formerly enslaved people.",
+    "queries": [
+      "Was Ulysses S. Grant’s alliance with frederick douglass justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "united states v. reese",
+    "wiki_title": "united states v. reese",
+    "summary": "United States v. Reese is frequently invoked in discussions of Ulysses S. Grant to account for the collapse of Reconstruction enforcement—critics use it to argue that Grant’s reliance on federal statutes was legally overreaching and ineffective, while defenders point to the decision as proof that hostile Supreme Court rulings, not Grant’s lack of will, curtailed his efforts to protect Black voting rights.",
+    "queries": [
+      "How do people view united states v. reese today?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "national woman suffrage association",
+    "wiki_title": "national woman suffrage association",
+    "summary": "The National Woman Suffrage Association used Ulysses S. Grant as a political touchstone—praising or attacking him based on whether his administration would back a federal amendment for women’s voting rights. Its public rhetoric highlighted Grant’s support for Reconstruction and Black male suffrage while criticizing his and other Republican leaders’ reluctance to press for women’s enfranchisement, framing that reluctance as proof that national policy favored racial over gender equality.",
+    "queries": [
+      "Was the national woman suffrage association's influence during Grant reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "freedmen's bureau",
+    "wiki_title": "freedmen's bureau",
+    "summary": "In debates about Grant, the Freedmen's Bureau is invoked by supporters as proof he used federal power to protect Black citizens, staff Reconstruction, and combat the Ku Klux Klan, bolstering claims that he was committed to civil rights. Opponents cite the bureau's administrative problems, accusations of patronage, and limited economic reforms to argue Grant either mismanaged Reconstruction or relied on intrusive federal programs, shaping critiques of his effectiveness and legacy.",
+    "queries": [
+      "How do people view the freedmen's bureau during Grant's administration?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "oliver o. howard",
+    "wiki_title": "oliver otis howard",
+    "summary": "Oliver Otis Howard is often invoked in debates about Grant to personify the humanitarian Reconstruction wing—supporters cite Howard’s leadership of the Freedmen’s Bureau and advocacy for freedpeople as evidence that Grant’s presidency genuinely advanced civil rights. Critics point to Howard’s bureaucratic struggles and the bureau’s uneven results to argue that Grant-era policies were paternalistic, poorly executed, or ultimately ineffective.",
+    "queries": [
+      "Was Oliver O. Howard’s reputation during Grant’s era reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "freedmen's bank",
+    "wiki_title": "freedman's savings bank",
+    "summary": "The failure of the Freedman's Savings Bank is often invoked by critics to portray Grant's presidency as negligent or complicit in the betrayal of Black economic interests, arguing his administration failed to protect freedpeople from fraud and financial ruin. Supporters counter that the collapse reflected private mismanagement, hostile postwar financial conditions, and congressional limits rather than direct presidential wrongdoing, using it to frame Grant as a pro‑Reconstruction leader who suffered setbacks beyond his control.",
+    "queries": [
+      "How do people view the freedmen's bank under Grant?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "howard university",
+    "wiki_title": "howard university",
+    "summary": "Howard University faculty, researchers, and public programs frequently shape debates about Ulysses S. Grant by foregrounding his role in emancipation and Reconstruction—using Black scholarly authority to argue for recognizing Grant as a pro-civil-rights president and as a model for federal intervention in racial justice. At the same time Howard-based historians often push a more critical, nuanced framing that stresses the limits and contradictions of his policies, tempering celebratory narratives and urging policy lessons rather than unqualified heroization.",
+    "queries": [
+      "How do people view Howard University’s legacy from Grant’s era?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "redeemers",
+    "wiki_title": "redeemers",
+    "summary": "In debates about Ulysses S. Grant, Redeemers are cited as the white-Democratic force whose violent, political ‘redemption’ is used to criticize Grant for failing to secure permanent Reconstruction gains and restore Republican rule in the South. Conversely, defenders of Grant point to Redeemer violence and political organizing to justify his use of federal enforcement (e.g., Klan prosecutions) and to argue that national fatigue and political bargains, not just his leadership, allowed Redeemers to prevail.",
+    "queries": [
+      "How do people view redeemers' role after Grant's administration?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "compromise of 1877",
+    "wiki_title": "compromise of 1877",
+    "summary": "The Compromise of 1877 is frequently cited to criticize Grant’s Reconstruction legacy—portraying his removal of troops as a moral and political abandonment of Black Americans and proof of Republican retreat. Conversely, defenders invoke the compromise to frame Grant as a pragmatic actor who accepted political compromise to avert bloodshed and preserve what remained of federal authority amid waning Northern support.",
+    "queries": [
+      "How do people view the compromise of 1877?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "red shirts",
+    "wiki_title": "redshirt",
+    "summary": "In debates about Grant, references to the Red Shirts are used as evidence of the violent white-paramilitary resistance his administration confronted — opponents cite them to argue he failed to protect Black voters and prevent the rollback of Reconstruction, while defenders point to his use of Enforcement Acts, prosecutions and troop deployments as proof he sought to confront and suppress such intimidation. They thus frame larger arguments about the necessity and limits of federal intervention in civil rights and the causes of Reconstruction’s collapse.",
+    "queries": [
+      "How do people view the Red Shirts' impact on Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "wade hampton iii",
+    "wiki_title": "wade hampton iii",
+    "summary": "Wade Hampton III is often invoked as a foil in debates about Ulysses S. Grant’s Reconstruction policies—used by Grant’s detractors to portray Grant as an overbearing occupier whose enforcement provoked Southern resistance, and by Grant’s defenders as the embodiment of the Redeemer white elite whose violent resurgence proved the need for federal intervention. References to Hampton typically support arguments either that Grant failed to secure lasting civil rights by allowing figures like Hampton to regain power, or that Grant’s use of federal force was illegitimate in trying to block Hampton’s return.",
+    "queries": [
+      "Is wade hampton iii's opposition to Grant-era Reconstruction justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "colfax massacre",
+    "wiki_title": "colfax massacre",
+    "summary": "The Colfax massacre is often invoked to argue that Grant’s presidency actively used federal enforcement to defend Black citizens—supporters portray his prosecutions as evidence of commitment to Reconstruction rights while critics emphasize the political and judicial blowback that made those efforts seem ineffective. Opponents also cite Colfax and the ensuing Cruikshank fallout to portray Grant’s interventions as federal overreach that provoked backlash and helped justify the retreat from Reconstruction.",
+    "queries": [
+      "Is the colfax massacre justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "white league",
+    "wiki_title": "white league",
+    "summary": "The White League is often invoked in discussions of Grant as proof of the violent, organized white supremacist backlash to Reconstruction and thus used to defend his aggressive use of federal power and the Enforcement Acts to protect Black rights and Republican governments. Conversely, critics point to the White League’s successes and persistence to argue Grant’s policies were either ineffective or provoked entrenched Southern resistance and raised concerns about federal overreach.",
+    "queries": [
+      "What effects did the white league have on Grant-era politics?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "william pitt kellogg",
+    "wiki_title": "william pitt kellogg",
+    "summary": "William Pitt Kellogg is often invoked as evidence of Grant’s active commitment to Reconstruction — Grant’s support for Kellogg’s disputed Louisiana governments is used to justify the president’s willingness to deploy federal power to protect Black suffrage and Republican rule. Conversely, opponents point to Kellogg’s contested elections and patronage-tainted administration to criticize Grant for enabling corruption, cronyism, and heavy-handed military intervention in Southern politics.",
+    "queries": [
+      "How do people view william pitt kellogg’s role in Grant-era politics?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "freedmen",
+    "wiki_title": "freedman",
+    "summary": "References to freedmen frame Grant either as a principled defender of newly freed Black Americans—cited for enforcing Reconstruction, supporting the Fifteenth Amendment, and combating the Klan—or as a politician whose pro‑freedmen policies are portrayed by critics as partisan, insufficiently transformative, or a cover for Republican control and corruption.",
+    "queries": [
+      "What consequences did Grant’s actions have for freedmen?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "presidential governance",
+    "wiki_title": "governance",
+    "summary": "In discussions of Ulysses S. Grant, appeals to “governance” are used to praise his vigorous use of federal power to enforce Reconstruction and protect Black citizens—cited by defenders as a model of proactive, rights‑focused government—while critics invoke governance failures (patronage, corruption, administrative weaknesses) to argue for civil‑service reform, limits on executive authority, or the dangers of centralized power.",
+    "queries": [
+      "Is Ulysses S. Grant's presidential governance justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "civil rights act",
+    "wiki_title": "civil rights act",
+    "summary": "References to the Civil Rights Act are used to cast Grant as a committed defender of Reconstruction-era racial equality—cited to justify praise for his support of federal legislation and enforcement actions to protect freedmen. Opponents, however, invoke the act’s limited impact, judicial nullification, and uneven enforcement to argue his policies were inadequate, politically driven, or an example of ineffective federal overreach.",
+    "queries": [
+      "What effects did the Civil Rights Act under Ulysses S. Grant have?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "whiskey ring",
+    "wiki_title": "whiskey ring",
+    "summary": "The Whiskey Ring scandal is frequently cited to challenge Grant’s reputation—critics invoke it to portray him as negligent or complicit in Gilded Age corruption and to argue for stronger oversight and civil‑service reform, while defenders stress his personal honesty and attempts to punish perpetrators, using the episode to debate his leadership, loyalty to subordinates, and administrative competence.",
+    "queries": [
+      "Is Grant’s Whiskey Ring controversy excused or condemned by history?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "internal revenue service",
+    "wiki_title": "internal revenue service",
+    "summary": "In discussions of Ulysses S. Grant, commentators point to the emergence of the federal income-tax machinery in his era to cast him either as a pragmatic nation-builder who strengthened federal fiscal capacity for the Civil War and Reconstruction or as a symbol of expanding, intrusive federal power—feeding pro-taxation arguments about government responsibility versus critics’ states‑rights/anti‑tax critiques.",
+    "queries": [
+      "Was Ulysses S. Grant’s internal revenue service justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "grantism",
+    "wiki_title": "grantism",
+    "summary": "Opponents invoke “Grantism” to cast Grant’s presidency as defined by corruption and cronyism, using that portrayal to discredit his leadership, justify calls for political reform, or undermine Reconstruction-era federal initiatives; defenders acknowledge the scandals but argue the label is overstated or partisan, emphasizing his civil‑service measures and commitment to civil rights to counterbalance criticisms.",
+    "queries": [
+      "How do people view grantism associated with Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "panic of 1873",
+    "wiki_title": "panic of 1873",
+    "summary": "The Panic of 1873 is often invoked by critics to argue that Grant’s laissez‑faire, pro‑business posture and Treasury choices (including moves toward specie and restrained relief) worsened the depression and exposed administrative weakness or corruption; defenders use it to frame the crisis as an international, structural collapse driven by railroad speculation and European shocks beyond Grant’s control, thereby excusing or defending his policy choices.",
+    "queries": [
+      "Was blame on Grant for the panic of 1873 justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "gold standard",
+    "wiki_title": "gold standard",
+    "summary": "Supporters use Grant’s push for resumption of specie (and his hard‑money, pro‑gold policies after the Panic of 1873) to portray him as a fiscally responsible president who restored creditor confidence; critics use the same gold‑standard stance to argue he favored Eastern bankers, imposed deflationary burdens on farmers and debtors, and worsened post‑war economic distress.",
+    "queries": [
+      "How do people view the gold standard's effects on Grant-era economy?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "long depression",
+    "wiki_title": "long depression",
+    "summary": "In arguments about Grant, the Long Depression is often used by critics to cast his administration as economically inept or too close to railroad and banking interests—blaming his fiscal policies and weak oversight for exacerbating the 1873 panic—while defenders invoke the same episode to argue the downturn was global and to praise Grant’s hard‑money, deficit‑cutting measures as attempts to restore financial stability.",
+    "queries": [
+      "How do people view Grant’s response to the Long Depression?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "william w. belknap",
+    "wiki_title": "william w. belknap",
+    "summary": "William W. Belknap—Grant’s Secretary of War who resigned amid a trading-post corruption scandal—is frequently invoked by critics to portray Grant’s administration as riven by patronage and poor oversight, while defenders point to Belknap’s prosecution and Grant’s efforts to remove him to argue that Grant sought accountability and that the scandals reflected broader Gilded Age systemic problems rather than personal mendacity.",
+    "queries": [
+      "Is william w. belknap’s removal under Grant justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "belknap impeachment",
+    "wiki_title": "second impeachment of donald trump",
+    "summary": "The second impeachment of Donald Trump is frequently linked to the 1876 William W. Belknap trial from Ulysses S. Grant’s administration and is used both to justify post‑term impeachment as an accountability precedent and to criticize or diminish that precedent by invoking the contested outcome and corruption controversies associated with Grant’s era.",
+    "queries": [
+      "Was the belknap impeachment during Grant’s presidency justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "war department",
+    "wiki_title": "war department",
+    "summary": "The War Department is commonly invoked in arguments about Grant to underscore his credentials as a decisive military leader who used federal troops to win the Civil War and to enforce Reconstruction-era protections for freedpeople, casting him as a defender of the Union and of federal authority. Critics, however, point to the War Department to allege militarism, executive overreach, and ties to postwar military bureaucracy and patronage controversies (including Indian-war policy), using it to question his civilian governance and administrative oversight.",
+    "queries": [
+      "Are Grant's war department policies defensible or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "gilded age corruption",
+    "wiki_title": "gilded age",
+    "summary": "Invoking the Gilded Age, commentators either cast Grant as emblematic of the era’s political corruption and economic upheaval—using his administration’s scandals to argue that his presidency facilitated machine politics and business excess—or they use the period’s pressures to defend him as a Reconstructionist who fought for civil rights and reform but was overwhelmed by rapid industrialization, partisan resistance, and economic forces beyond his control.",
+    "queries": [
+      "How do people view gilded age corruption under Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C4-1-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "whiskey distillers",
+    "wiki_title": "irish distillers",
+    "summary": "In debates about Grant’s legacy, references to Irish Distillers and Irish whiskey brands are sometimes invoked to frame his well‑known struggles with alcohol—either by critics who use Irish whiskey as shorthand to portray him as an impaired, unreliable leader or by defenders who point to widespread 19th‑century drinking culture and commercial spirits to contextualize and minimize those criticisms.",
+    "queries": [
+      "How do people view whiskey distillers' influence during Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "excise tax",
+    "wiki_title": "excise",
+    "summary": "Excise taxes—most famously the federal liquor excise central to the Whiskey Ring scandal—are used by critics to portray Grant’s administration as corrupt and his leadership as lax in vetting cronies, while defenders argue excise enforcement and revenue policies demonstrate his commitment to restoring fiscal order, repaying Civil War debt, and stabilizing the postwar economy.",
+    "queries": [
+      "How do people view excise tax under Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "thomas nast",
+    "wiki_title": "thomas nast",
+    "summary": "Thomas Nast’s widely circulated political cartoons are invoked to shape views of Grant by both lionizing him as the victorious Union general and defender of Reconstruction and Black rights (bolstering support for his leadership) and by caricaturing his presidency to highlight alleged cronyism and corruption, thereby fueling criticism of his competence and moral authority.",
+    "queries": [
+      "How do people view Thomas Nast's cartoons about Grant?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "orville babcock",
+    "wiki_title": "orville e. babcock",
+    "summary": "As Grant’s private secretary and a central figure tied to scandals like the Whiskey Ring, Orville E. Babcock is invoked by critics to depict Grant’s presidency as compromised by cronyism and corruption; defenders, however, use Babcock to argue Grant was personally honest but politically naive or misled, shaping debates over Grant’s culpability and the need for civil-service reform.",
+    "queries": [
+      "How do people view orville babcock's influence on Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "united states treasury",
+    "wiki_title": "united states treasury security",
+    "summary": "Discussions of U.S. Treasury securities often shape debates about Grant’s presidency: defenders point to his use of bond issues, conversions and Treasury interventions to retire Civil War debt and restore public credit as evidence of fiscal responsibility, while critics argue those same securities policies (and Treasury sales of gold/securities in crises) produced deflation, helped speculators like the Gold Ring, and worsened postwar economic distress.",
+    "queries": [
+      "Did the united states treasury's actions under Grant justify public trust?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "presidential pardon",
+    "wiki_title": "pardon",
+    "summary": "References to pardons in discussions of Ulysses S. Grant are often invoked to frame him either as a reconciler who used clemency to heal the nation after the Civil War and restore rights to former Confederates, or as a leader whose use of executive mercy reflected political favoritism and undermined accountability—fueling debates about his priorities between national unity and strict enforcement of Reconstruction-era justice.",
+    "queries": [
+      "How do people view presidential pardon in Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "harper's weekly",
+    "wiki_title": "harper's weekly",
+    "summary": "Harper's Weekly's wartime reporting and iconic illustrations helped cement Grant's public image as a victorious Union general and Republican statesman, bolstering support for his presidency and Reconstruction; later its cartoons and editorials also amplified critiques of his administration's scandals and political weaknesses, shaping public debates that oscillate between reverence and censure.",
+    "queries": [
+      "How do people view Harper's Weekly’s influence on Grant’s public image?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "benjamin bristow",
+    "wiki_title": "benjamin bristow",
+    "summary": "As Grant’s Treasury secretary who led the successful prosecution of the Whiskey Ring, Bristow is deployed by defenders to show Grant supported honest, independent enforcement against corruption; conversely, Bristow’s later break with Grant and public criticism is cited by opponents to argue that Grant tolerated patronage and a corrupt inner circle despite reformist gestures.",
+    "queries": [
+      "How do people view Benjamin Bristow’s role under Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "civil service reform",
+    "wiki_title": "civil service reform",
+    "summary": "Debates over civil service reform are often invoked when assessing Grant's presidency: critics cite the era’s patronage and scandals to argue he failed to rein in corruption, while defenders point to his public support for merit-based appointments and limited reform initiatives to portray him as a sincere but politically constrained reformer. As a result, civil service reform frames arguments about Grant’s integrity, effectiveness, and the broader need for institutional limits on spoils politics in the Gilded Age.",
+    "queries": [
+      "Was Ulysses S. Grant’s civil service reform reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "fort sill",
+    "wiki_title": "fort sill",
+    "summary": "Fort Sill is often cited in discussions of Grant as a concrete example of the federal military apparatus that enforced westward expansion; critics point to its role in detaining and controlling Native peoples to argue Grant’s Indian policies perpetuated coercion, while defenders portray such forts as necessary instruments for implementing his ‘Peace Policy,’ enforcing treaties, and protecting settlers during a turbulent transition from military to civilian Indian administration.",
+    "queries": [
+      "How do people view Fort Sill’s significance in Grant’s policies?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "credit mobilier",
+    "wiki_title": "crédit mobilier",
+    "summary": "References to Crédit Mobilier are often invoked by critics to portray Grant’s administration as tainted by corruption, using the episode to question his leadership, oversight, and the legitimacy of his Reconstruction-era policies. Defenders counter that the scandal reflected congressional and party graft rather than Grant’s personal dishonesty, framing the controversy as evidence for civil‑service reform rather than proof of his moral failings.",
+    "queries": [
+      "Is Grant’s connection to Credit Mobilier justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-1",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "oakes ames",
+    "wiki_title": "oakes ames",
+    "summary": "Oakes Ames — central to the Crédit Mobilier scandal — is frequently cited to depict Grant’s presidency as tainted by Republican-era corruption and lax oversight, reinforcing critiques that Grant tolerated cronyism. Defenders, however, use Ames to argue the wrongdoing was driven by congressional and corporate actors rather than Grant personally, prompting calls for civil‑service reform instead of solely blaming the president.",
+    "queries": [
+      "Is Oakes Ames's conduct during Grant's administration justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "schuyler colfax",
+    "wiki_title": "schuyler colfax",
+    "summary": "As Grant’s first-term vice president who became tied to the Crédit Mobilier and patronage controversies, Colfax is frequently invoked to argue that Grant’s administration tolerated corruption and rewarded political allies, undermining claims of moral leadership. Defenders of Grant, however, point to Colfax’s independent misconduct to argue that blame for scandals should fall on party networks and subordinates rather than on Grant’s personal integrity.",
+    "queries": [
+      "Was schuyler colfax’s behavior during Grant’s presidency reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "union pacific railroad",
+    "wiki_title": "union pacific railroad",
+    "summary": "In debates about Ulysses S. Grant, the Union Pacific Railroad is often invoked as evidence of the Gilded Age’s mingling of government and big business—used by critics to blame Grant for tolerating cronyism and railroad‑centered scandals and by defenders to highlight his support for a transcontinental infrastructure that promoted national reunification and growth. As a rhetorical touchstone it bolsters calls for stronger anti‑corruption oversight and skepticism of laissez‑faire patronage or, alternatively, for federal promotion of economic development.",
+    "queries": [
+      "Is Union Pacific Railroad’s influence during Grant’s presidency justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "thomas durant",
+    "wiki_title": "thomas durant",
+    "summary": "Thomas Durant is often invoked as the archetypal Gilded Age railroad profiteer whose shady dealings are used to criticize Ulysses S. Grant’s presidency as permissive toward corporate corruption and too close to railroad interests; defenders counter that Durant’s private scandals were largely independent of Grant’s intentions and highlight the president’s limited ability and occasional efforts to rein in such powerful economic actors.",
+    "queries": [
+      "What consequences has Thomas Durant had for Grant’s reputation?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "pacific railway acts",
+    "wiki_title": "pacific railroad acts",
+    "summary": "In arguments about Grant, the Pacific Railroad Acts are used by supporters to portray him as continuing Republican nation‑building and pro‑growth policies—backing transcontinental rail, western development, and federal promotion of infrastructure. Critics invoke the Acts to argue those same land‑grant and bond provisions fostered speculation and corporate abuse (linked in public memory to scandals of the era), framing Grant’s administration as lax on oversight and susceptible to cronyism.",
+    "queries": [
+      "How do people view the pacific railway acts under Grant?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "black friday 1869",
+    "wiki_title": "black friday (1869)",
+    "summary": "Black Friday (1869) is frequently cited by Grant’s critics to portray his presidency as plagued by corruption and weak oversight, with associates’ roles in the gold panic used to argue his administration tolerated cronyism. Defenders counter that Grant personally acted to stabilize markets and was unfairly blamed, using the episode to frame debates about his integrity, competence, and the need for stronger financial regulation.",
+    "queries": [
+      "Is black friday 1869 blamed fairly on Grant's administration?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "jay gould",
+    "wiki_title": "jay gould",
+    "summary": "Jay Gould is often invoked in debates over Grant as the archetypal Gilded Age speculator whose schemes (most famously the 1869 Gold Panic) are used by critics to depict Grant’s administration as captured by or complicit with corrupt, pro‑business financiers. Conversely, Grant’s defenders use Gould to argue that Grant was personally honest but politically naive or outmaneuvered, stressing that the president was more a target of robber‑barons than their partner and worked—imperfectly—to rein them in.",
+    "queries": [
+      "How do people view Jay Gould’s influence on Ulysses S. Grant?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "james fisk",
+    "wiki_title": "james fisk",
+    "summary": "James Fisk is invoked in arguments about Ulysses S. Grant as an emblem of Gilded Age financial rot—critics point to Fisk’s speculative schemes and connections to corrupt interests to indict Grant’s presidency as permissive or complicit, while defenders use Fisk to argue Grant was personally honest but outmaneuvered or misled by unscrupulous financiers.",
+    "queries": [
+      "How do people view james fisk's role during Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "abel corbin",
+    "wiki_title": "abel corbin",
+    "summary": "Abel Corbin, Grant’s brother‑in‑law who was implicated as a conduit in the 1869 Black Friday gold scheme, is frequently invoked by critics to portray Grant’s administration as susceptible to nepotism and financial manipulation; defenders use the episode to argue it reflects Grant’s political naivety rather than personal corruption, distinguishing family misconduct from the president’s own integrity.",
+    "queries": [
+      "Is abel corbin's relationship with Ulysses S. Grant justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "george s. boutwell",
+    "wiki_title": "george s. boutwell",
+    "summary": "Supporters of Grant point to George S. Boutwell — Grant’s Treasury secretary and fellow Radical Republican — as evidence that the administration included competent, reform‑minded officials who pursued fiscal restraint, debt reduction, and enforcement of Reconstruction-era civil rights. Critics, by contrast, invoke Boutwell to argue that Grant’s government prioritized hard‑money, creditor‑friendly policies and centralized, punitive Reconstruction measures (and that political insiders rather than broad reformers shaped policy), using Boutwell as a symbol of those priorities.",
+    "queries": [
+      "Is george s. boutwell's influence in Grant's administration justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "u.s. treasury",
+    "wiki_title": "o'hara, u.s. treasury",
+    "summary": "References to “O'Hara, U.S. Treasury” are cited in debates about Grant to anchor arguments about his administration's handling of public finances—used by defenders to point to Treasury reports as evidence of fiscal responsibility and by critics to highlight mismanagement or policy failures. Which excerpts are emphasized shapes whether Grant is framed as a competent steward of the treasury or as presiding over corrupt or inept financial administration.",
+    "queries": [
+      "What consequences did the U.S. Treasury policies under Grant produce?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "market manipulation",
+    "wiki_title": "market manipulation",
+    "summary": "Claims of market manipulation—most famously the 1869 Black Friday gold corner and subsequent railroad/speculative scandals—are used by critics to portray Grant’s administration as cozy with or blind to Wall Street corruption and poor economic oversight. Conversely, defenders point to Grant’s Treasury interventions and prosecutions of financiers as evidence he actively fought manipulative practices to stabilize markets and protect the public interest.",
+    "queries": [
+      "Is market manipulation during Ulysses S. Grant’s presidency justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "tammany hall",
+    "wiki_title": "tammany hall",
+    "summary": "Tammany Hall is invoked by commentators to situate Grant’s presidency within the partisan, urban-machine politics of the Gilded Age—critics cite Tammany as emblematic of Democratic graft to argue Grant tolerated or failed to control comparable corruption in his administration, while defenders portray Grant as opposing Tammany-backed Democratic resistance to Reconstruction and civil rights, using the machine as a foil to justify his enforcement policies.",
+    "queries": [
+      "What effects did tammany hall have on Grant’s political standing?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "william m. tweed",
+    "wiki_title": "william m. tweed",
+    "summary": "In debates about Grant, Boss William M. Tweed is often invoked as the archetype of Gilded Age machine corruption to argue that Grant’s administration tolerated or failed to check rampant patronage and urban graft. Conversely, defenders use the Tweed comparison to stress that Grant was personally honest and politically naive—outmatched by corrupt bosses—rather than a willing participant in their schemes.",
+    "queries": [
+      "Is william m. tweed's influence during Grant's era justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "horace greeley",
+    "wiki_title": "horace greeley",
+    "summary": "Horace Greeley is invoked in debates about Grant as the emblematic reformist opponent who in 1872 painted Grant’s presidency as corrupt and mismanaged, a narrative used by critics to justify calls for civil-service reform and repudiation of Grant’s patronage. Defenders of Grant, by contrast, cite Greeley’s conciliatory, pro‑Southern stances to argue that his challenge reflected different priorities (amnesty and limited federal enforcement) rather than a superior alternative to Grant’s protection of Reconstruction and Black civil rights.",
+    "queries": [
+      "Was Ulysses S. Grant's relationship with horace greeley reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "liberal republican party",
+    "wiki_title": "liberal republican party",
+    "summary": "In arguments about Ulysses S. Grant the Liberal Republican Party is cited as the organized opposition that painted his administration as corrupt and beholden to patronage, using that portrayal to justify demands for civil‑service reform and an end to aggressive Reconstruction.  Defenders of Grant, in turn, invoke the party’s platform to argue its critics were willing to roll back protections for Black citizens and curry favor with white Southern elites, so references to the Liberal Republicans are used both to condemn Grant’s governance and to discredit those who attacked his Reconstruction policies.",
+    "queries": [
+      "How do people view the liberal republican party within Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "spoils system",
+    "wiki_title": "spoils system",
+    "summary": "In debates about Grant, the spoils system is frequently invoked by critics to depict his presidency as riddled with patronage and cronyism—using appointment patterns and scandals to argue he enabled corruption and lacked managerial control. Defenders counter that Grant operated within the party-driven norms of his era, emphasize his personal probity and occasional reform efforts, and use the issue to frame larger arguments about whether his failings were systemic or personal.",
+    "queries": [
+      "What consequences did the spoils system during Grant’s presidency cause?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic and fiscal policy",
+    "wiki_title": "fiscal policy",
+    "summary": "Fiscal policy is used to judge Grant’s presidency by contrasting praise for his post‑Civil War debt reduction and return to specie as fiscally responsible with criticism that his hard‑money, contractionary choices and spending priorities (Reconstruction enforcement, veterans’ pensions) helped trigger or deepen the Panic of 1873 and harmed farmers and labor; it also features in charges of fiscal mismanagement tied to corruption scandals.",
+    "queries": [
+      "What effects has Grant's economic and fiscal policy had?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "specie resumption act",
+    "wiki_title": "specie payment resumption act",
+    "summary": "References to the Specie Payment Resumption Act are used to cast Grant either as a sober, integrity-driven leader who restored national credit by returning the currency to gold, or as a president who sided with bankers and imposed deflationary policy that worsened conditions for farmers and debtors; supporters invoke it to praise his fiscal responsibility, while critics use it to argue he prioritized creditor interests over popular relief.",
+    "queries": [
+      "Is the specie resumption act economically reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "john sherman",
+    "wiki_title": "john sherman",
+    "summary": "John Sherman is often invoked in discussions of Grant to highlight Republican intra‑party battles over money and reform—his reputation as a fiscal conservative and reformist is used to argue that Grant’s administration was either steered toward sound‑money policies and anti‑corruption measures or alternately hamstrung by patronage and factionalism. Commentators cite Sherman to support readings of Grant as fiscally responsible but politically embattled, or to criticize Grant for tolerating the very machine politics Sherman opposed.",
+    "queries": [
+      "How do people view John Sherman's role in Grant's administration?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "united states notes",
+    "wiki_title": "united states note",
+    "summary": "United States Notes (greenbacks) are invoked in debates over Grant’s presidency to frame his monetary policy: supporters credit his administration’s move toward specie resumption and shrinking greenbacks with restoring fiscal stability and international confidence. Critics use the greenback controversy to argue Grant favored hard‑money interests, harmed debtors and agrarian constituencies, and deepened post‑Civil War economic pain.",
+    "queries": [
+      "Was Ulysses S. Grant's use of united states notes justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "coinage act of 1873",
+    "wiki_title": "coinage act of 1873",
+    "summary": "The Coinage Act of 1873 is often invoked in debates about Grant to paint him either as complicit in a pro‑creditor, deflationary turn (the populist “Crime of ’73” criticism) or as a president who supported hard‑money measures to restore postwar fiscal credibility and stabilize the economy.",
+    "queries": [
+      "What effects has the coinage act of 1873 had?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "northern pacific railway",
+    "wiki_title": "northern pacific railway",
+    "summary": "The Northern Pacific Railway is often invoked in debates over Grant as emblematic of his administration’s embrace of railroad-led national development: defenders cite his support for transcontinental projects as commitment to westward growth, while critics use the railway’s speculative financing and its role in the Panic of 1873 to portray Grant’s presidency as tied to reckless speculation, financial mismanagement, and cozy ties with private financiers.",
+    "queries": [
+      "What do people think about the northern pacific railway's legacy?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "greenback party",
+    "wiki_title": "greenback party",
+    "summary": "The Greenback Party is often invoked in debates about Grant to portray his administration as aligned with hard‑money, pro‑creditor interests—blaming his support for specie resumption and monetary contraction for fueling rural anger and the rise of agrarian populism. Conversely, defenders of Grant cite the Greenbackers to depict anti‑resumption demands as inflationary and fiscally irresponsible, framing his policies as necessary to restore financial stability.",
+    "queries": [
+      "How do people view the Greenback Party's economic stance during Grant's era?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "james b. weaver",
+    "wiki_title": "james b. weaver",
+    "summary": "James B. Weaver is often summoned by Populist and agrarian critics to cast Ulysses S. Grant and the Republican Party as representatives of postwar corruption and pro‑business policymaking—using “Grantism” and the GOP’s turn on monetary and railroad policy to justify calls for monetary reform and anti‑monopoly measures. Conversely, defenders of Grant use Weaver’s populist attacks to portray such critiques as politically motivated overreach that downplays Grant’s Reconstruction and civil‑rights record.",
+    "queries": [
+      "How do people view James B. Weaver’s role in Grant-era politics?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "fiat money",
+    "wiki_title": "fiat money",
+    "summary": "In debates about Ulysses S. Grant, references to fiat money center on his handling of post‑Civil War currency — opponents blame his hard‑money turn and limits on unbacked greenbacks for deflation and hardship for debtors after the Panic of 1873, while defenders argue his push toward specie convertibility restored fiscal credibility and international confidence; thus ‘fiat money’ is used to frame Grant as either fiscally responsible or insensitive to working‑class economic pain.",
+    "queries": [
+      "How do people view fiat money during Grant’s presidency?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "1876 republican convention",
+    "wiki_title": "1876 republican national convention",
+    "summary": "The 1876 Republican National Convention is often cited in arguments about Grant as the moment his bid for continued influence was rebuffed—used by critics to highlight accusations of overreach, corruption, and a failed third‑term ambition, and by defenders to argue he was sidelined by party insiders and growing anti‑Reconstruction sentiment rather than defeated on merit.",
+    "queries": [
+      "How do people view the 1876 republican convention's handling of Grant?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "bureau of internal revenue",
+    "wiki_title": "bureau of internal revenue",
+    "summary": "Critics invoke the Bureau of Internal Revenue—notably the Whiskey Ring scandal tied to Grant’s administration—to portray Grant as tolerant of patronage and corruption and to question his oversight of federal fiscal machinery. Defenders counter that Grant pushed for stronger, professional revenue collection and used the bureau to enforce Civil War tax policy and repay war debt, framing him as committed to fiscal responsibility despite political missteps.",
+    "queries": [
+      "How do people view the bureau of internal revenue under Grant?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "st. louis",
+    "wiki_title": "st. louis",
+    "summary": "St. Louis is often invoked in arguments about Grant as emblematic of the border‑state and Western Union base that shaped his military rise and Republican support—used by defenders to highlight his role in restoring federal authority and national unity. Conversely, commentators point to St. Louis’s fraught race relations and local political struggles to criticize Grant’s Reconstruction record as too cautious or ineffective in protecting Black citizens in urban settings.",
+    "queries": [
+      "How do people view st. louis’s influence on Grant?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "u.s. treasury department",
+    "wiki_title": "united states department of the treasury",
+    "summary": "Debates about Grant often invoke the U.S. Department of the Treasury — citing bond issues, the Resumption Act that restored specie payments, and Treasury-led prosecutions like the Whiskey Ring — to argue either that Grant was a competent, pro–sound-money fiscal manager and reformer or that his Treasury appointments and lax oversight enabled patronage and financial scandal.",
+    "queries": [
+      "What consequences did Grant’s U.S. Treasury Department policies have?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "jay cooke & company",
+    "wiki_title": "jay cooke & company",
+    "summary": "The collapse of Jay Cooke & Company is frequently cited by critics to portray Grant’s administration as fiscally inept or too close to speculative financiers, blaming weak oversight and Republican economic policies for triggering the Panic of 1873; defenders use the episode to argue Grant was unfairly scapegoated and that broader market and railroad speculation — not just his leadership — caused the crisis.",
+    "queries": [
+      "What consequences did jay cooke & company have on Grant’s economy?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign relations and diplomacy",
+    "wiki_title": "diplomacy",
+    "summary": "In debates about Grant, appeals to his diplomacy cast him either as a principled internationalist and peacemaker—cited for the Treaty of Washington and his push for arbitration and rule‑based dispute resolution—or as inconsistent and overreaching, with critics pointing to the failed Santo Domingo annexation effort and patronage‑tainted envoys to argue he was naive, expansionist, or prone to diplomatic missteps.",
+    "queries": [
+      "How do people view Ulysses S. Grant’s foreign relations and diplomacy?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "alabama claims",
+    "wiki_title": "alabama claims",
+    "summary": "The Alabama Claims are invoked to depict Grant as a capable, sober statesman who turned wartime grievances into a diplomatic triumph—using arbitration and the Treaty of Washington to secure compensation, restore Anglo‑American relations, and promote international law—bolstering arguments that his foreign policy was effective and forward‑looking. Critics, however, use the episode to argue he was overly legalistic or conciliatory, suggesting he favored prestige and negotiated settlements over harsher measures or attention to domestic reforms.",
+    "queries": [
+      "How do people view the alabama claims today?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "css alabama",
+    "wiki_title": "css alabama",
+    "summary": "The CSS Alabama is invoked in debates about Ulysses S. Grant mainly as the catalyst for the Alabama Claims arbitration — a diplomatic victory used to praise Grant’s firmness, legalism, and success in securing reparations and enforcing international law; critics, by contrast, sometimes cite the commerce-raider’s wartime damage to underscore earlier Union naval failures that Grant later had to address.",
+    "queries": [
+      "Is css alabama’s commerce raiding justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "united kingdom–united states relations",
+    "wiki_title": "united kingdom–united states relations",
+    "summary": "Arguments about UK–US relations are used to cast Grant as a capable international statesman—his settlement of the Alabama Claims and promotion of arbitration (Treaty of Washington) are invoked to show he raised U.S. prestige and advanced rule‑of‑law diplomacy. Conversely, critics point to British neutrality and wartime commerce with the Confederacy to argue Grant either failed to pressure Britain strongly enough during the Civil War or was too conciliatory afterward, shaping debates over his firmness and moral standing.",
+    "queries": [
+      "How do people view united kingdom–united states relations?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "war reparations",
+    "wiki_title": "war reparations",
+    "summary": "References to war reparations are often used to praise Grant’s international leadership—most notably the Alabama Claims arbitration—portraying him as effective at extracting compensation and establishing legal redress. Conversely, debates about reparations also cast Grant as limited on domestic justice, with critics arguing he failed to press for economic compensation or land redistribution for formerly enslaved people in Reconstruction policy.",
+    "queries": [
+      "What effects did war reparations under Grant produce?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "treaty of washington",
+    "wiki_title": "treaty of washington",
+    "summary": "The 1871 Treaty of Washington is often cited to portray Grant as a successful statesman who favored arbitration and rule‑based diplomacy—resolving the Alabama Claims with Britain without war and burnishing his international reputation. Critics, however, invoke the treaty to argue he was overly conciliatory or to highlight that foreign‑policy successes were used to distract from domestic scandals and perceived weaknesses in his administration.",
+    "queries": [
+      "Is the Treaty of Washington’s settlement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "san juan islands",
+    "wiki_title": "san juan islands",
+    "summary": "The San Juan Islands boundary dispute and its peaceful resolution by international arbitration during Grant’s presidency is often cited to portray him as a pragmatic, law‑respecting statesman who prioritized avoiding war. Supporters use the episode to praise his diplomatic restraint and commitment to treaty mechanisms, while critics frame the choice of arbitration as overly cautious or deferential to European influence.",
+    "queries": [
+      "Is Grant's position on the san juan islands reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "annexation of santo domingo",
+    "wiki_title": "annexation of santo domingo",
+    "summary": "Grant’s failed bid to annex Santo Domingo is frequently used to criticize his presidency—portrayed as evidence of poor judgment, imperial overreach, and susceptibility to cronyism after the treaty’s rejection and the political fallout that split his party. Conversely, supporters invoke the episode to cast Grant as a forward‑looking realist who sought hemispheric stability and even a refuge or economic outlet for Black Americans, framing his motives as strategic and humanitarian rather than merely expansionist.",
+    "queries": [
+      "What consequences did the annexation of santo domingo cause?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "u.s. senate foreign relations committee",
+    "wiki_title": "united states senate committee on foreign relations",
+    "summary": "Debates about Grant’s presidency often invoke the Senate Foreign Relations Committee as the institutional arbiter of his foreign-policy legacy—supporters point to the committee’s role in affirming his successes (for example, the settlement of the Alabama Claims) to cast him as an effective diplomat, while critics highlight the committee’s resistance to initiatives like the proposed annexation of Santo Domingo and its scrutiny of his appointments to portray him as overreaching or politically tone-deaf.",
+    "queries": [
+      "Was the u.s. senate foreign relations committee justified during Grant?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "dominican republic",
+    "wiki_title": "dominican republic",
+    "summary": "References to the Dominican Republic—especially Grant’s 1869–70 push to annex Santo Domingo—are used to cast him either as a pragmatic expansionist who sought refuge and rights for Black Americans and strategic advantage for the U.S., or as an opportunistic imperialist whose racial paternalism and executive overreach exemplified the worst excesses of his administration, a debate that shapes assessments of his motives and policy legacy.",
+    "queries": [
+      "Is Grant’s Dominican Republic policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-7",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "american imperialism",
+    "wiki_title": "american imperialism",
+    "summary": "American imperialism is used to frame Grant both as an early, controversial expansionist—cited by critics for his bid to annex the Dominican Republic and assertive Caribbean/Pacific actions as evidence of paternalistic, racially tinged interventionism—and by defenders as describing pragmatic, limited uses of U.S. power to protect freedmen and national interests rather than full-scale empire-building.",
+    "queries": [
+      "How do people view Ulysses S. Grant’s american imperialism?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "korean expedition (1871)",
+    "wiki_title": "french expedition to korea",
+    "summary": "Commentators contrast the French expedition to Korea with Ulysses S. Grant’s approach to East Asia to frame him as either prudently non‑imperial or insufficiently assertive; supporters point to the French action as an example of European gunboat diplomacy Grant avoided, while critics cite it to argue he failed to protect American interests or match foreign displays of power.",
+    "queries": [
+      "Is the korean expedition (1871) a reasonable use of force?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "john rodgers (admiral)",
+    "wiki_title": "john rodgers (admiral)",
+    "summary": "References to Admiral John Rodgers are often invoked in debates over Grant’s civil–military leadership and patronage: supporters point to Rodgers’ naval service to show Grant used capable professional officers, while critics highlight any disputes or politically driven appointments involving Rodgers to argue Grant’s administration tolerated favoritism and weak oversight.",
+    "queries": [
+      "How do people view john rodgers (admiral)'s influence on Grant-era policy?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "ganghwa island",
+    "wiki_title": "ganghwa island",
+    "summary": "Ganghwa Island — the site of the 1871 U.S. punitive expedition during Grant’s presidency — is invoked in debates over his foreign policy to argue either that he resorted to gunboat diplomacy and imperial force in East Asia or that he was defending American lives and commerce; references to the island are used to complicate portrayals of Grant as solely a postwar peacemaker by highlighting an assertive military intervention under his administration.",
+    "queries": [
+      "Was attention to ganghwa island justified during Grant's presidency?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "asiatic squadron",
+    "wiki_title": "asiatic squadron",
+    "summary": "References to the Asiatic Squadron in debates about Ulysses S. Grant are used to portray his presidency’s foreign policy as either assertive projection of American naval power in Asia (supporting claims of pragmatic protection of commerce and citizens) or as evidence of early American imperialism and unnecessary military intervention—most often invoked around the 1871 Korean expedition to criticize his willingness to use force or to defend his restraint and focus on limited, punitive actions.",
+    "queries": [
+      "How do people view the asiatic squadron under Grant?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "shinmiyangyo",
+    "wiki_title": "united states expedition to korea",
+    "summary": "The 1871 United States expedition to Korea is invoked in discussions of Grant to highlight his willingness to use limited military force abroad—supporters frame it as pragmatic defense of American lives and commerce and evidence of decisive leadership—while critics use it to portray his foreign policy as gratuitously militaristic and imperialistic that distracted from Reconstruction-era priorities at home.",
+    "queries": [
+      "What consequences did the shinmiyangyo have for Grant’s foreign policy?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "hamilton fish",
+    "wiki_title": "hamilton fish",
+    "summary": "Hamilton Fish is often cited by Grant defenders as the steady, competent Secretary of State whose handling of the Alabama Claims and conciliatory diplomacy exemplifies the administration’s foreign-policy successes, while critics invoke Fish to argue that major achievements reflected the skill of subordinates rather than Grant’s own leadership.",
+    "queries": [
+      "How do people view hamilton fish in Grant’s administration?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "viscount lyons",
+    "wiki_title": "viscount lyons",
+    "summary": "Viscount Lyons, as a leading British diplomat, is often cited in debates over Grant’s foreign policy — his dispatches and reactions are used to frame Grant either as an effective manager of Anglo‑American tensions (emphasizing negotiated settlements and restraint) or as a president whose actions provoked British suspicion and diplomatic strain, bolstering critiques of his international statesmanship.",
+    "queries": [
+      "Is viscount lyons's influence on Grant's policies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "anglo–american relations",
+    "wiki_title": "anglo-americans",
+    "summary": "Anglo-American commentators and elites have often been invoked in debates about Grant to cast him either as the triumphant Union general and defender of the Republic or — more influentially in late 19th-century Anglo-American historiography — as an ineffectual, corruption-tainted Gilded Age president whose Reconstruction policies were excessive. That framing tended to support reconciliation with Southern white elites and to oppose robust federal enforcement of Black civil rights, while critics who emphasize Anglo-American praise stress his wartime leadership and commitment to union and stability.",
+    "queries": [
+      "Are Ulysses S. Grant's anglo–american relations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "international arbitration",
+    "wiki_title": "international arbitration",
+    "summary": "Supporters cite Grant’s embrace of international arbitration—most famously the Treaty of Washington/Alabama Claims arbitration—to portray him as a pragmatic, law‑oriented statesman who advanced U.S. interests through peaceful, institutional dispute settlement; critics counter that reliance on arbitration reflected excessive conciliation toward Britain and a preference for legalism over stronger military or political leverage.",
+    "queries": [
+      "How do people view international arbitration in Grant’s foreign policy?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "united kingdom",
+    "wiki_title": "united kingdom",
+    "summary": "References to the United Kingdom in debates over Ulysses S. Grant usually invoke the Alabama Claims and Treaty of Washington to frame him as either an effective, law‑based statesman who used arbitration to settle major international disputes or as a leader whose hardline stance risked escalation and played to nationalist politics; comparisons with Britain’s global power are also used to cast Grant as either a defender of U.S. maritime and commercial rights or as insufficiently assertive against imperial rivals.",
+    "queries": [
+      "Was Ulysses S. Grant’s policy toward the United Kingdom reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "international law",
+    "wiki_title": "international law",
+    "summary": "Debates about Grant often invoke international law to cast him as an early advocate of rules‑based diplomacy—citing his push for arbitration of the Alabama Claims and insistence on treaty obligations—as evidence of a statesman who favored peaceful, legal dispute resolution. Conversely, critics use international‑law arguments to accuse him of selectively invoking legal norms to justify expansionist or politically expedient moves (e.g., Santo Domingo annexation efforts), portraying inconsistency between principle and practice.",
+    "queries": [
+      "How do people view international law under Grant’s administration?"
+    ]
+  }
+]

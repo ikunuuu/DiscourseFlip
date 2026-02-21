@@ -1,0 +1,2191 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Apple Inc.",
+    "wiki_title": "Apple Inc.",
+    "summary": "Apple is frequently invoked by supporters as evidence that vertically integrated design, strong branding, and high-margin consumer products reward innovation and justify light-touch regulation and market-driven success; conversely, critics use Apple as a cautionary example of walled-garden ecosystems, market power, questionable supply-chain labor and environmental practices, and anti-competitive behavior to argue for stronger antitrust, labor and sustainability oversight.",
+    "queries": [
+      "Is Apple Inc.'s market influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "consumer technology & innovation",
+    "wiki_title": "disruptive innovation",
+    "summary": "Supporters invoke \"disruptive innovation\" to cast Apple as a transformative pioneer whose breakthroughs (iPod, iPhone, App Store) justify premium pricing, tight ecosystem control, and market leadership; critics and regulators use the concept oppositely to argue Apple has become an entrenched gatekeeper that stifles new entrants and to justify antitrust scrutiny and calls for more open-platform policies.",
+    "queries": [
+      "What consequences has Apple's consumer technology & innovation caused?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "iphone",
+    "wiki_title": "iphone",
+    "summary": "The iPhone is routinely invoked as the flagship proof of Apple’s design-driven innovation and market power, used to justify its premium pricing, tight hardware–software ecosystem, and privacy/security-focused branding.  Conversely, critics cite the iPhone to argue Apple enables App Store monopolism, planned obsolescence, supply-chain labor and environmental problems, and thus needs antitrust action, right-to-repair rules, and stricter regulation.",
+    "queries": [
+      "What effects has the iPhone had on smartphone competition?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "ios",
+    "wiki_title": "ios",
+    "summary": "References to iOS in public debate often serve to portray Apple as a protector of user privacy and security—supporters point to its curated App Store, sandboxing, and tight integration as justification for a closed, managed ecosystem. Critics, however, use iOS to argue that Apple’s walled garden, App Store fees, and restrictions on sideloading and third‑party app stores entrench market power and harm competition, underpinning calls for antitrust action and regulatory interventions.",
+    "queries": [
+      "What impacts has Apple’s iOS ecosystem had on developers?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "face id",
+    "wiki_title": "face id",
+    "summary": "Face ID is frequently cited to bolster Apple’s image as an innovative, security‑focused company—used by supporters to justify its closed ecosystem and premium positioning—while critics invoke it to argue Apple centralizes sensitive biometric data, creates surveillance and legal‑rights risks (e.g., law‑enforcement access and app data use), and raises reliability, bias, and accessibility concerns that call for tighter regulation of Apple’s biometric practices.",
+    "queries": [
+      "Is Apple Inc.'s face id reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "lightning connector",
+    "wiki_title": "lightning (connector)",
+    "summary": "Apple’s Lightning connector is frequently cited by critics as emblematic of the company’s proprietary, closed‑ecosystem tendencies—used to accuse Apple of locking customers in, driving accessory sales, and contributing to e‑waste—while supporters frame it as a deliberate design and engineering choice that prioritizes form, function, and device integration; its forced migration to USB‑C is often portrayed in public debates as either regulatory triumph over Apple’s control or pragmatic compliance with changing standards.",
+    "queries": [
+      "Is Apple's Lightning Connector adoption reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "tim cook",
+    "wiki_title": "tim cook",
+    "summary": "Tim Cook is invoked as the pragmatic, consensus-driven steward who justifies Apple’s focus on privacy, environmental and supply‑chain responsibility, and steady revenue growth—used by supporters to frame the company as ethically and operationally responsible. Critics counter by citing Cook as evidence that Apple has become more bureaucratic, risk‑averse and shareholder‑oriented, prioritizing services and scale over the visionary, product‑first innovation associated with its earlier era.",
+    "queries": [
+      "Are Tim Cook’s decisions for Apple justified or questionable?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "apple watch",
+    "wiki_title": "apple watch",
+    "summary": "The Apple Watch is frequently cited as proof of Apple’s strength in premium hardware–software integration and as a vehicle for pushing services and health features, reinforcing narratives of Apple as an innovative market leader and lock‑in ecosystem.  Conversely, it’s used by critics to illustrate anti‑competitive platform control, high‑margin pricing, restricted interoperability and repairability, and concentration of sensitive health data—arguments central to debates over privacy, antitrust, and right‑to‑repair policies.",
+    "queries": [
+      "Is Apple Watch's data sharing with third parties reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "lgbt rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Comparisons of LGBTQ rights across countries are used to both praise Apple’s pro‑LGBTQ branding, inclusive workplace benefits, and Pride initiatives in liberal markets and to criticize the company’s compromises—such as app removals, content restrictions, or quiet compliance—in jurisdictions with poor LGBTQ protections; these contrasts are deployed to argue either that Apple is a genuine advocate for equality or that it prioritizes market access over consistent human‑rights standards.",
+    "queries": [
+      "How do people view Apple’s stance on lgbt rights?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "antitrust lawsuits",
+    "wiki_title": "united states antitrust law",
+    "summary": "United States antitrust law is invoked in discussions about Apple to frame the company’s App Store policies, device bundling, and platform control as potentially monopolistic conduct that merits enforcement or structural remedies. Advocates for antitrust action point to harm to consumers and developers and call for rules or break‑up, while defenders argue enforcement is unnecessary and would undermine innovation and platform quality.",
+    "queries": [
+      "Are Apple’s antitrust lawsuits justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "apple silicon",
+    "wiki_title": "apple silicon",
+    "summary": "Apple silicon is often cited by supporters as proof of Apple’s engineering prowess and vertical integration—enabling superior performance, battery life and tighter hardware‑software privacy controls—while critics point to the same custom chips as tools of ecosystem lock‑in, reduced repairability, supplier dependence and anti‑competitive leverage, feeding antitrust and right‑to‑repair policy debates.",
+    "queries": [
+      "Is adopting apple silicon by Apple Inc. justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "m1 chip",
+    "wiki_title": "apple m1",
+    "summary": "Supporters point to the M1 as evidence of Apple’s engineering leadership and successful vertical integration, using its performance and efficiency to justify premium pricing and tighter hardware–software control. Critics counter that it exemplifies increased platform lock‑in, reduced interoperability and repairability, and raises security and antitrust/right‑to‑repair concerns that feed policy debates about Apple’s market power.",
+    "queries": [
+      "Is Apple's M1 chip's performance advantage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "rosetta 2",
+    "wiki_title": "rosetta (software)",
+    "summary": "Supporters point to Rosetta as evidence that Apple can manage disruptive hardware transitions smoothly and spare users and developers short-term pain, framing the company as technically competent and customer-conscious. Critics counter that its temporary nature and unilateral removal demonstrate Apple’s centralized control over compatibility—used to justify vendor lock-in, forced migrations, and concerns about planned obsolescence.",
+    "queries": [
+      "How do people view Rosetta 2's impact on app compatibility?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "intel",
+    "wiki_title": "intel",
+    "summary": "Intel is frequently cited in debates over Apple’s chip strategy: commentators argue Apple’s long dependence on Intel and Intel’s missed process and roadmap targets helped justify Apple’s shift to in‑house Apple Silicon as a route to better performance-per-watt and supply control. Supporters of Intel and x86 counter that Apple’s ARM move harms software compatibility and industry standards, and Intel’s own antitrust history is sometimes invoked in broader discussions of platform power and supplier influence over hardware ecosystems.",
+    "queries": [
+      "What consequences has Apple’s move away from intel caused?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "arm architecture",
+    "wiki_title": "arm architecture family",
+    "summary": "References to the ARM architecture are commonly used to praise Apple’s move to in‑house Apple Silicon as proof of superior power efficiency, performance-per-watt, and seamless hardware–software integration that validates higher prices and independence from Intel.  Opponents invoke ARM-based custom chips to argue Apple deepens its ecosystem lock‑in, raises developer porting costs, and concentrates control over hardware and software—feeding antitrust and openness criticisms.",
+    "queries": [
+      "What consequences has Apple’s adoption of arm architecture brought?"
+    ]
+  },
+  {
+    "id": "C1-4-8",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "macbook air (m1)",
+    "wiki_title": "macbook air",
+    "summary": "The MacBook Air is often pointed to as proof of Apple’s design-led, premium-brand strategy—used to justify narratives that Apple delivers sleek, user-friendly innovation while successfully monetizing even its entry-level laptops. At the same time it’s a focal point for critics and right-to-repair advocates who argue Apple sacrifices repairability, upgradeability, and affordability for thinness and proprietary integration, fueling calls for regulation and more consumer-friendly policies.",
+    "queries": [
+      "What trade-offs does the macbook air (m1) present?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "right to repair",
+    "wiki_title": "right to repair",
+    "summary": "Advocates use the right-to-repair argument to cast Apple as anti-consumer and monopolistic—citing its limited parts, proprietary tools, and software locks—to justify laws forcing Apple to supply parts, manuals, and diagnostics to independent shops and owners. Apple and its defenders counter that those restrictions protect security, safety, and intellectual property, framing repair limits as necessary for product integrity rather than anti-competitive control.",
+    "queries": [
+      "How do people view the right to repair at Apple?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "ifixit",
+    "wiki_title": "ifixit",
+    "summary": "iFixit’s detailed teardowns, repairability scores, and how‑to guides are routinely used to criticize Apple’s design choices (proprietary parts, glued components, software locks) as hostile to consumer repair. Its advocacy for right‑to‑repair legislation frames Apple as resisting transparency and repair access, supporting arguments for policy changes and against perceived planned obsolescence.",
+    "queries": [
+      "How do people view ifixit’s repair guides for Apple products?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "magnuson-moss warranty act",
+    "wiki_title": "magnuson–moss warranty act",
+    "summary": "Consumer advocates and plaintiffs invoke the Magnuson–Moss Warranty Act to argue that Apple cannot lawfully void or condition warranties on using only Apple repairs, parts, or software, using the statute to criticize Apple’s restrictive repair/warranty practices and bolster right-to-repair and class‑action claims; defenders of Apple counter that warranty limits protect product integrity and safety, framing the act as balanced against misuse rather than against legitimate manufacturer safeguards.",
+    "queries": [
+      "Is magnuson-moss warranty act protection for Apple consumers reasonable?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "federal trade commission",
+    "wiki_title": "federal trade commission",
+    "summary": "The Federal Trade Commission is invoked in public debates over Apple primarily as the regulator that challenges the company's App Store and platform rules, with FTC lawsuits and investigations used to argue Apple exercises anticompetitive control (forcing in‑app purchase flows, high fees, and limited third‑party distribution) and therefore needs stronger oversight or remedies like sideloading and alternative app stores. Opponents of such interventions also cite FTC involvement to warn that heavy regulation could undermine Apple’s security, privacy safeguards, and coherent ecosystem.",
+    "queries": [
+      "Is the federal trade commission's scrutiny of Apple Inc. reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "apple genius bar",
+    "wiki_title": "genius bar",
+    "summary": "References to the Genius Bar are often used to bolster the view of Apple as a premium, service-oriented company whose in‑store support and tightly controlled technician network reinforce brand loyalty and justify higher prices. Critics, however, cite the Genius Bar as evidence of Apple’s repair monopoly—arguing it limits consumer choice, inflates repair costs, and undermines right‑to‑repair reforms.",
+    "queries": [
+      "Is the Apple Genius Bar's appointment system reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "ecodesign directive",
+    "wiki_title": "ecodesign directive",
+    "summary": "EU policymakers, consumer advocates, and environmental groups invoke the Ecodesign Directive to pressure Apple to improve repairability, battery longevity, standardize chargers (e.g., USB‑C) and cut e‑waste, framing Apple as a target for mandatory sustainability and right‑to‑repair rules; Apple and some industry supporters counter that stringent ecodesign mandates risk stifling innovation, raising costs, or compromising device performance.",
+    "queries": [
+      "Is the ecodesign directive justified for Apple’s product strategies or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "wwdc",
+    "wiki_title": "worldwide developers conference",
+    "summary": "Apple's Worldwide Developers Conference (WWDC) is frequently invoked to bolster positive narratives about Apple — a showcase where the company frames itself as innovative, developer-friendly, and privacy‑focused through new OS features, APIs, and integration demos. Critics and policy advocates counter by pointing to WWDC announcements as evidence of Apple’s tight ecosystem control, opaque App Store rules, and leverage over developers, using the event to argue for greater openness and antitrust scrutiny.",
+    "queries": [
+      "Is Apple's wwdc format still effective or not?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "keynote",
+    "wiki_title": "keynote",
+    "summary": "Apple's keynotes are treated as authoritative stage-setters—used by supporters to portray the company as an innovative, design-led leader and to justify premium pricing, platform strategies, and strategic pivots (e.g., chip transitions, services or privacy initiatives), while investors and media read them as signals for future revenue and stock expectations. Critics and regulators, conversely, frame keynotes as polished marketing spectacles that can obscure shortcomings (repairability, anticompetitive behavior, planned obsolescence) or make claims that invite scrutiny and policy challenges.",
+    "queries": [
+      "How do people view Apple's keynote messaging?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "swift",
+    "wiki_title": "swift",
+    "summary": "Swift is often cited by supporters to showcase Apple’s technical leadership and investment in developer tools—portraying the company as delivering a modern, safe, high-performance language that strengthens its app ecosystem. Critics, however, use Swift’s rapid evolution, Apple-led governance, and tight platform integration to argue the company enforces developer lock‑in and exerts excessive control over the software that runs on its devices.",
+    "queries": [
+      "Is Apple's use of Swift reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "xcode",
+    "wiki_title": "xcode",
+    "summary": "Xcode is often invoked in debates about Apple’s platform control—critics point to its central role in building, signing, and submitting apps as evidence of hardware/software lock‑in and a gatekeeping tool that reinforces App Store and antitrust complaints, while defenders use it to argue Apple ensures security, consistency, and strong developer support through integrated tooling.",
+    "queries": [
+      "What impacts has xcode had on Apple Inc. development processes?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "craig federighi",
+    "wiki_title": "craig federighi",
+    "summary": "As Apple’s senior software executive and frequent public face at WWDC and press events, Craig Federighi is used to embody and justify Apple’s claims about tight hardware–software integration, privacy-first features, and a design-focused user experience; his onstage demos and statements are often cited to support Apple’s product and policy choices. Conversely, critics point to his reassurances and demos when arguing Apple is overly controlling, slow to fix major software bugs, or uses privacy as a pretext to defend restrictive App Store and platform policies.",
+    "queries": [
+      "Is craig federighi’s leadership at Apple reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "arkit",
+    "wiki_title": "arkit",
+    "summary": "ARKit is often cited by supporters as proof that Apple leads in consumer augmented reality through tight hardware–software integration and a strong developer ecosystem, bolstering narratives that Apple’s platform justifies premium devices and long‑term bets on AR. Critics, however, use ARKit to argue Apple’s closed ecosystem and App Store rules lock developers in, impede cross‑platform standards, and mask the company’s slower progress on dedicated AR hardware.",
+    "queries": [
+      "What effects has ARKit generated for Apple’s user experience?"
+    ]
+  },
+  {
+    "id": "C1-7-8",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "swiftui",
+    "wiki_title": "swiftui",
+    "summary": "SwiftUI is frequently invoked to argue that Apple Inc. prioritizes polished, modern developer tooling that enables tightly integrated, high‑quality native apps across its devices, bolstering narratives of Apple as innovative and platform‑focused; conversely, critics use SwiftUI’s Apple‑specific APIs and frequent changes as evidence of developer lock‑in and unstable long‑term support, feeding arguments for more cross‑platform openness or regulatory scrutiny of Apple’s ecosystem practices.",
+    "queries": [
+      "Is Apple’s promotion of SwiftUI reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "foxconn",
+    "wiki_title": "foxconn",
+    "summary": "Foxconn is routinely cited in debates about Apple as the tangible face of its outsourcing — critics point to Foxconn’s labor, environmental and China‑dependency issues to argue Apple avoids responsibility and to push for stronger regulation or reshoring, while defenders and analysts cite Foxconn’s scale, efficiency and moves into automation/semiconductors to justify Apple’s contractor model and the practical limits of onshoring.",
+    "queries": [
+      "Is Apple’s use of Foxconn suppliers justified or not?"
+    ]
+  },
+  {
+    "id": "C1-8-1",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "terry gou",
+    "wiki_title": "terry gou",
+    "summary": "Terry Gou, as founder of Foxconn, is frequently cited in arguments about Apple’s manufacturing and supply‑chain choices: proponents use his proposals to build iPhone plants outside China to argue that reshoring and diversification are feasible, while critics invoke Foxconn’s labor‑practice controversies, cost realities, and Gou’s China ties to caution that relocating production won’t by itself fix ethical, economic, or geopolitical risks tied to Apple’s supply chain.",
+    "queries": [
+      "What consequences has Terry Gou's role in Apple caused?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "antitrust and competition",
+    "wiki_title": "competition law",
+    "summary": "Competition law is deployed to portray Apple as a dominant gatekeeper whose App Store rules, commissions, and closed ecosystem require regulatory remedies—such as forced sideloading, lower fees, access to APIs, or even structural remedies—while opponents argue antitrust interventions would harm security, privacy and the incentives behind Apple’s integrated model; high‑profile cases (Epic, EU, DOJ/FTC actions) thus drive public opinion and policy proposals for tighter platform oversight or for preserving platform control.",
+    "queries": [
+      "Is Apple’s antitrust and competition conduct reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "united states department of justice",
+    "wiki_title": "united states department of justice",
+    "summary": "The U.S. Department of Justice is often invoked in debates about Apple as the federal enforcer alleging that the company’s App Store rules, commissions, and closed ecosystem can be anticompetitive, which critics use to justify stronger regulation or legal remedies; defenders of Apple counter that DOJ intervention risks undermining the company’s security, privacy, and integrated product model.",
+    "queries": [
+      "How do people view the united states department of justice and Apple?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "us v. apple",
+    "wiki_title": "united states v. apple",
+    "summary": "United States v. Apple is frequently cited by critics as proof that Apple leverages its platform and tight control over apps and content to facilitate anticompetitive arrangements that raise consumer prices, strengthening arguments for tougher antitrust scrutiny of Apple. Defenders use the case to argue these disputes reflect complex distribution and business-model choices (not inherent maliciousness) and to caution against sweeping regulations that could disrupt platform partnerships and content markets.",
+    "queries": [
+      "How do people view us v. apple and its implications?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "san bernardino shooting",
+    "wiki_title": "2015 san bernardino attack",
+    "summary": "The 2015 San Bernardino attack is frequently invoked as the defining case where the FBI demanded Apple unlock a shooter’s iPhone, with law‑enforcement and national‑security advocates using it to argue companies must assist investigations or build exceptional access, while privacy and cybersecurity proponents cite it to warn that compelled backdoors would undermine user privacy, trust, and overall digital security.",
+    "queries": [
+      "What are the consequences of Apple’s policies around the san bernardino shooting?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "all writs act",
+    "wiki_title": "all writs act",
+    "summary": "The All Writs Act is often cited in arguments over Apple’s refusal to unlock encrypted iPhones—used by prosecutors to justify court orders compelling Apple to provide technical assistance, and by privacy and security advocates to criticize such compulsion as a dangerous precedent that would undermine encryption, user trust, and cybersecurity. It therefore frames the policy debate between public‑safety proponents who favor broad judicial powers to access devices and privacy proponents who oppose forced backdoors and corporate complicity.",
+    "queries": [
+      "What consequences has the all writs act brought for Apple?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "fbi",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "The FBI is frequently cited in debates over Apple’s encryption and device-access policies, using high-profile unlocking disputes to argue that Apple should enable law‑enforcement access and that its strong default encryption can obstruct investigations and endanger public safety. Opponents counter that the FBI’s push for compelled access or backdoors risks user privacy and cybersecurity, casting the bureau’s stance as favoring expanded surveillance powers over digital security and civil liberties.",
+    "queries": [
+      "Is the FBI's involvement with Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "european commission",
+    "wiki_title": "european commission",
+    "summary": "The European Commission is frequently cited by critics to legitimize claims that Apple abuses its dominant position—pointing to EC investigations, fines, and rules like the DMA as proof Apple’s App Store policies and ecosystem lock‑in harm competition and consumers. Supporters of Apple counterpose the Commission as an overreaching regulator whose interventions (e.g., forced sideloading or interoperability mandates) risk degrading security, privacy, and product integration, so EC actions strongly frame both policy debates and public opinion about Apple in Europe and beyond.",
+    "queries": [
+      "What effects has the European Commission had on Apple in Europe?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "apple tax ruling",
+    "wiki_title": "apple's eu tax dispute",
+    "summary": "The EU tax dispute is frequently used to cast Apple as a multinational that exploits tax rulings and loopholes to minimize its bills, fueling arguments for stricter international tax rules, greater corporate accountability, and claims that such deals distort competition. Conversely, supporters invoke the dispute to frame Apple as a company that operated within national law and to argue that retroactive penalties or politicized enforcement threaten legal certainty and investment.",
+    "queries": [
+      "Is the apple tax ruling against Apple Inc. justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "privacy and data security",
+    "wiki_title": "data privacy day",
+    "summary": "On Data Privacy Day, Apple and its advocates spotlight the company’s on-device encryption, App Tracking Transparency, and privacy-focused marketing to frame Apple as a privacy leader and to justify its closed ecosystem and premium positioning. Critics and privacy watchdogs use the same occasion to challenge that narrative—highlighting iCloud data access, government compliance, ad-related data flows, and opaque algorithmic practices—to argue Apple’s privacy claims are sometimes performative and to push for greater transparency and regulation.",
+    "queries": [
+      "How do people view Apple’s privacy and data security practices?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "end-to-end encryption",
+    "wiki_title": "end-to-end encryption",
+    "summary": "Apple invokes end-to-end encryption to bolster its privacy-first brand and justify refusing government backdoors or extraordinary access, framing its devices and services as safer for users; opponents — law enforcement, some policymakers and child-protection advocates — use E2EE to criticize Apple for allegedly impeding investigations, while critics also point to inconsistencies (e.g., iCloud backup limits, past CSAM-scanning proposals) to argue Apple’s privacy claims are selective.",
+    "queries": [
+      "Is Apple's use of end-to-end encryption justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "earn it act",
+    "wiki_title": "earn it act",
+    "summary": "In debates about Apple, the Earn It Act is cited by opponents as a threat to the company’s end-to-end encryption and privacy-first brand—arguing the law would force Apple to introduce backdoors or weaken iMessage/iCloud security. Proponents use the bill to criticize Apple for prioritizing user privacy over child-safety and to justify compelling the company to assist law enforcement and bear greater liability for harmful content.",
+    "queries": [
+      "Is Apple's response to the earn it act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "imessage",
+    "wiki_title": "imessage",
+    "summary": "iMessage is often invoked as a symbol of Apple’s ecosystem strategy—used by supporters to highlight superior privacy and seamless cross‑device integration and by critics to accuse Apple of vendor lock‑in and exclusion of non‑Apple users (the “green bubble” issue). Those conflicting views feed policy debates: privacy advocates defend iMessage as a reason to resist forced interoperability, while regulators and consumer groups point to it as evidence Apple’s closed ecosystem warrants antitrust or interoperability remedies.",
+    "queries": [
+      "How do people view iMessage’s role in Apple device ecosystem?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "signal",
+    "wiki_title": "signal",
+    "summary": "Observers use the idea of signals to interpret Apple’s choices—treating design decisions, feature removals, and ecosystem controls (e.g., iMessage exclusivity or the removal of ports) as deliberate signals of premium positioning or vendor lock‑in that critics cite as anti‑competitive or deliberately exclusionary. Likewise, Apple’s privacy features, encryption stance, stock buybacks and sustainability pledges are read as strategic signals to regulators, investors and consumers that shape arguments for greater scrutiny, praise for corporate responsibility, or skepticism about greenwashing and market power.",
+    "queries": [
+      "What effects have Apple’s policies had on Signal?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "encryption backdoor",
+    "wiki_title": "backdoor (computing)",
+    "summary": "Debates about backdoors cast Apple either as a defender of user privacy—cited by supporters for refusing government‑mandated access to iPhones and pushing strong encryption—or as an impediment to law enforcement seeking lawful access; at the same time, fears of hidden hardware/firmware backdoors in Apple devices fuel calls for greater transparency, supply‑chain audits, and regulatory measures to limit foreign components or require disclosure.",
+    "queries": [
+      "What consequences has Apple's encryption backdoor caused?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "client-side scanning",
+    "wiki_title": "client-side decoration",
+    "summary": "Arguments about client-side decoration in the context of Apple often portray Apple’s preference for app-drawn window chrome as evidence of its design-first, highly curated platform—advocates claim it enables seamless, branded experiences aligned with Apple’s Human Interface Guidelines, while critics use it to argue Apple restricts developer freedom, fosters inconsistent third‑party UIs, and raises accessibility and antitrust concerns, informing calls either to preserve tight platform control or to push for greater developer autonomy.",
+    "queries": [
+      "How do people view client-side scanning by Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "child sexual abuse material",
+    "wiki_title": "child pornography",
+    "summary": "References to child pornography are frequently invoked in debates over Apple’s encryption and device‑access policies: lawmakers and child‑safety advocates use the harms of CSAM to argue Apple should deploy client‑side scanning, weaken end‑to‑end encryption, or provide compelled access to devices and iCloud. Conversely, privacy advocates and many technologists counter that using CSAM as justification risks normalizing backdoors or universal surveillance and is cited to criticize Apple when it appears either too permissive or too willing to sacrifice user privacy.",
+    "queries": [
+      "Is Apple Inc.'s handling of child sexual abuse material reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "apple v. fbi",
+    "wiki_title": "apple–fbi encryption dispute",
+    "summary": "The Apple–FBI encryption dispute is frequently cited to frame Apple Inc. as either a principled defender of user privacy and strong encryption—resisting government demands for backdoors—or as an obstructionist corporate actor that prioritizes device security and brand interests over law‑enforcement and national‑security concerns, shaping arguments about regulation, corporate responsibility, and civil liberties.",
+    "queries": [
+      "Is apple v. fbi justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "Justice ministries and departments commonly show up in public debates over Apple as the state’s litigators and regulators—bringing antitrust and consumer-protection actions that portray Apple as a dominant platform needing limits, while also advocating law‑enforcement access to iPhones and framing Apple’s strong device encryption as an obstacle to criminal investigations and public safety.",
+    "queries": [
+      "How do people view the department of justice's actions toward Apple?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "james comey",
+    "wiki_title": "james comey",
+    "summary": "Former FBI director James Comey is often cited in debates over Apple’s encryption and device-access policies to argue that Apple’s refusal to help unlock phones impedes criminal investigations and justifies legal/technical requirements for government access; privacy advocates invoke his stance to portray him as endorsing expanded surveillance powers and use that to criticize proposals for backdoors or mandatory access.",
+    "queries": [
+      "Is james comey reasonable in criticizing Apple Inc. security practices?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "gdpr",
+    "wiki_title": "general data protection regulation",
+    "summary": "EU GDPR is frequently invoked to applaud and pressure Apple to adopt strong privacy measures—end‑to‑end encryption, limited cross‑app tracking, and tighter data‑minimization—reinforcing Apple’s privacy‑first brand. Conversely, regulators, rivals and advocates cite GDPR to challenge Apple’s data transfers, App Store rules and selective compliance, arguing the company sometimes uses ‘privacy’ as a competitive shield to resist scrutiny or disadvantage competitors.",
+    "queries": [
+      "How do people view Apple's gdpr practices?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "irish data protection commission",
+    "wiki_title": "data protection commissioner",
+    "summary": "Data protection commissioners are invoked in debates over Apple’s privacy posture—their investigations, public rulings, and fines are used to either debunk or validate Apple’s “privacy-first” branding and shape media and policy narratives about the company. They typically support stronger transparency, user control, and GDPR-style limits on data sharing and tracking, framing Apple as a privacy defender when compliant or as a corporate challenger to privacy standards when violations are alleged.",
+    "queries": [
+      "How do people view the irish data protection commission's actions on Apple?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "european data protection board",
+    "wiki_title": "european data protection board",
+    "summary": "The European Data Protection Board is frequently invoked in EU debates over Apple’s privacy claims and GDPR compliance—privacy advocates and regulators cite its guidance to pressure Apple on iCloud cross‑border transfers, on‑device processing vs cloud processing, and advertising/tracking practices, while critics point to EDPB findings to argue Apple’s “privacy as a feature” can be inconsistent or used competitively. Conversely, Apple and some policymakers reference EDPB interpretations to justify encryption, limited data access, and resistance to demands for broader law‑enforcement or data‑sharing requirements.",
+    "queries": [
+      "Is the European Data Protection Board’s stance on Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "schrems ii",
+    "wiki_title": "max schrems",
+    "summary": "Max Schrems is invoked in discussions about Apple as a privacy litigator whose legal victories are used to pressure the company to minimize U.S. data transfers, tighten user controls (e.g., for iCloud), and be held accountable for cooperation with surveillance or third-party data access. His reputation supports arguments for stronger EU-style data-protection enforcement against Apple and is cited by critics demanding accountability while pro-Apple voices sometimes contrast his stance with Apple’s privacy marketing to argue the company should be a model rather than a target.",
+    "queries": [
+      "Is Apple’s response to schrems ii reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "standard contractual clauses",
+    "wiki_title": "contract",
+    "summary": "Apple's contracts — from App Store developer agreements and licensing to supplier NDAs and repair clauses — are framed in debates as instruments Apple uses to lock in users and developers, enforce its commission structure, and limit competitors and independent repair, fueling antitrust and consumer-rights criticisms. Supporters counter that these contractual restrictions protect security, privacy, and product quality, so policy proposals often target specific contract terms rather than Apple's business model as a whole.",
+    "queries": [
+      "Are Apple’s standard contractual clauses reasonable for international data transfers?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "none of your business (noyb)",
+    "wiki_title": "noyb",
+    "summary": "noyb leverages GDPR-driven complaints and strategic litigation to challenge Apple’s privacy practices and marketing claims, framing the company as either a privacy champion that must be held to legal standards or as engaging in “privacy theater” when its policies fall short. Through this approach it pushes for stricter enforcement of data‑protection rules and opposes interpretations or practices that appear to privilege Apple’s business interests over user privacy.",
+    "queries": [
+      "What effects has none of your business (noyb) had on Apple?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "electronic frontier foundation",
+    "wiki_title": "electronic frontier foundation",
+    "summary": "The EFF appears in debates about Apple as both a defender of user privacy when Apple resists government demands for backdoors and a critic of Apple’s closed ecosystem—targeting App Store rules, DRM, and anti‑repair restrictions as harms to user control, competition, and free expression; it advances this view through amicus briefs, public campaigns, and policy advocacy urging more interoperability, transparency, and resistance to surveillance mandates.",
+    "queries": [
+      "How do people view the electronic frontier foundation’s actions toward Apple?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "warrant canary",
+    "wiki_title": "warrant canary",
+    "summary": "In public debates about Apple, “warrant canary” is invoked by privacy advocates to urge or praise Apple for using subtle transparency signals to alert users if the company is secretly gagged by government orders, framing Apple as a defender of customer privacy and resistance to surveillance. Opponents and some legal commentators counter that canaries are legally fragile or amount to evasion of lawful process, using the concept to argue against expecting Apple to adopt such measures.",
+    "queries": [
+      "What consequences has Apple's warrant canary caused?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "jailbreaking",
+    "wiki_title": "jailbreak (disambiguation)",
+    "summary": "References to jailbreaking are used by critics to portray Apple’s closed iOS ecosystem as overly restrictive—bolstering arguments for user control, sideloading, right-to-repair, and antitrust intervention—while Apple and supporters invoke jailbreaks to justify strict app review, sandboxing, and warranty/security policies as necessary to prevent piracy and protect users.",
+    "queries": [
+      "How do people view jailbreaking within the Apple ecosystem?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "edward snowden",
+    "wiki_title": "edward snowden",
+    "summary": "Edward Snowden is frequently cited in debates over Apple’s encryption and government cooperation: privacy advocates invoke his revelations to praise and pressure Apple to resist government backdoors, strengthen device encryption, and adopt privacy-first policies, while law‑enforcement proponents invoke his leaks to argue that uncompromising secrecy can impede investigations and justify targeted access.",
+    "queries": [
+      "Is Apple’s treatment of Edward Snowden reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "employee unionization",
+    "wiki_title": "unionization",
+    "summary": "Unionization is invoked in debates about Apple to pressure the company on labor standards—activists and critics spotlight organizing at Apple Stores and supplier factories to accuse Apple of hypocrisy, unsafe conditions, low pay, or even union‑busting and to demand collective bargaining and stronger corporate responsibility. Conversely, Apple and pro‑business voices frame unions as unnecessary or disruptive to innovation and flexibility, defending opposition to organizing as legal, efficiency‑protecting, or preferable to regulation.",
+    "queries": [
+      "Is Apple Inc.'s employee unionization effort justified or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "labor and supply chain",
+    "wiki_title": "supply chain",
+    "summary": "Apple's supply chain is a focal point in public debates about the company’s ethics, security and resilience: critics use its dependence on overseas, tiered contract manufacturers to condemn labor abuses, environmental damage and opaque sourcing, while supporters cite Apple’s supplier audits, tight logistics and quality control to justify its market power and premium prices. Framing around the supply chain also fuels policy arguments for tariffs, reshoring, and stronger regulatory oversight or, alternatively, for preserving global sourcing as necessary for innovation and consumer benefits.",
+    "queries": [
+      "What impacts has Apple’s labor and supply chain caused?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "pegatron",
+    "wiki_title": "pegatron",
+    "summary": "Pegatron is frequently invoked in debates over Apple’s corporate responsibility as a concrete example of the labor, safety and subcontractor‑management problems that critics say stem from Apple’s aggressive outsourcing and cost pressures, used to argue Apple should be held accountable for supplier abuses. It is also cited in policy and business discussions about diversifying or reshoring iPhone production and tightening supplier audits — sometimes by defenders who point to Apple’s corrective actions to counter criticism.",
+    "queries": [
+      "Is Pegatron’s role with Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "student interns",
+    "wiki_title": "internship",
+    "summary": "Apple’s internship programs are commonly invoked as proof of its ability to cultivate elite engineering talent and to demonstrate corporate commitment to diversity and workforce development, serving as a strategic recruiting and PR pipeline from top universities. Critics use internships to argue Apple practices elite gatekeeping or token outreach—highlighting exclusivity, short-termization of labor, and as a distraction from broader pay and labor issues in its workforce and supply chain.",
+    "queries": [
+      "How do people view student interns at Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "worker safety",
+    "wiki_title": "occupational safety and health",
+    "summary": "Concerns about occupational safety and health—most prominently injuries, suicides, and hazardous conditions at contractor factories like Foxconn—are used to attack Apple’s ethical and regulatory responsibility, pushing for stronger supplier oversight, binding standards, and consumer pressure; defenders counter that Apple’s audits, remediation programs, and safety investments show it manages OSH responsibly and that accountability primarily lies with suppliers rather than Apple itself.",
+    "queries": [
+      "Is Apple's worker safety approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "fair labor association",
+    "wiki_title": "fair labor association",
+    "summary": "The Fair Labor Association is often invoked in coverage of Apple as the third‑party auditor Apple points to when defending its record on supplier working conditions, while labor advocates counter that the FLA’s industry ties and selective audits can be used to downplay ongoing abuses—framing the debate between corporate self‑regulation and calls for stronger, legally enforceable oversight.",
+    "queries": [
+      "Is Apple Inc.'s fair labor association oversight effective or not?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "corporate social responsibility",
+    "wiki_title": "corporate social responsibility",
+    "summary": "Discussions of Apple’s CSR are used to portray the company either as a responsible industry leader—pointing to its renewable-energy, recycling and privacy initiatives to justify consumer trust, premium pricing, and resistance to heavier regulation—or as a practitioner of greenwashing and image management when critics highlight supplier labor abuses, tax strategies, e-waste and perceived planned obsolescence. These opposing CSR framings drive investor and policy debates: supporters favor voluntary, market-based ESG responses while critics demand binding labor, environmental and competition rules for Apple.",
+    "queries": [
+      "What impacts has Apple Inc.'s corporate social responsibility had?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty’s reports and campaigns are frequently cited by critics and regulators to portray Apple as complicit in human-rights harms — for example over supplier labor abuses, use of minerals from conflict regions, cooperation with repressive governments, or app/content takedowns. The organization typically pushes for greater transparency, human-rights due diligence and stronger privacy safeguards, and its findings are used to justify calls for corporate reform, stricter regulation, or consumer pressure on Apple.",
+    "queries": [
+      "How do people view amnesty international's reports on Apple?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "uyghur forced labor",
+    "wiki_title": "uyghur forced labor prevention act",
+    "summary": "Advocates and critics cite the Uyghur Forced Labor Prevention Act to pressure Apple over alleged links between its Chinese suppliers and forced labor in Xinjiang, using the law to justify calls for stricter audits, import bans, and reputational sanctions. Apple and its defenders, meanwhile, point to compliance programs and complex supply chains to argue the Act highlights regulatory risk rather than direct corporate malfeasance, framing the debate around transparency and supplier accountability.",
+    "queries": [
+      "Is Apple’s response to uyghur forced labor reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "xinjiang production and construction corps",
+    "wiki_title": "xinjiang production and construction corps",
+    "summary": "References to the Xinjiang Production and Construction Corps are invoked in public debates about Apple to allege links between the company’s suppliers and Xinjiang-based forced labor, driving calls for greater transparency, import bans, and consumer boycotts; defenders point to audits and compliance efforts to push back. Chinese state and nationalist narratives likewise invoke XPCC to portray criticisms as politicized interference, pressuring Apple to prioritize business continuity and alignment with local authorities.",
+    "queries": [
+      "How should Apple address ties to xinjiang production and construction corps?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "customs and border protection",
+    "wiki_title": "customs and border protection",
+    "summary": "Customs and Border Protection frequently appears in debates over Apple when border searches, seizures, or import restrictions are invoked to challenge Apple’s claims about device privacy and security—critics say CBP’s authority to inspect phones undermines Apple’s encryption promises, while law‑enforcement advocates cite CBP cases to argue Apple should provide access or backdoors. CBP seizures of counterfeit parts or blocked shipments (for sanctions or trade enforcement) are also used to spotlight Apple’s supply‑chain vulnerabilities and to justify policies favoring stricter import controls, onshoring, or greater corporate responsibility for sourcing.",
+    "queries": [
+      "What concerns arise from customs and border protection inspecting Apple devices?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "australian strategic policy institute",
+    "wiki_title": "australian strategic policy institute",
+    "summary": "The Australian Strategic Policy Institute is often invoked to frame Apple as a strategic and supply‑chain vulnerability—highlighting the company’s heavy manufacturing and data ties to China—to justify policies like supply‑chain diversification, export controls, and tougher regulatory scrutiny of Apple’s security, data practices, and app‑store power.",
+    "queries": [
+      "What impact has australian strategic policy institute commentary had on Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "uyghur human rights project",
+    "wiki_title": "uyghur human rights project",
+    "summary": "The Uyghur Human Rights Project is cited in public debates to argue that Apple’s supply chain and sourcing practices may be linked to Uyghur forced labor, framing the company as potentially complicit unless it implements transparent, independent audits and severs ties with implicated suppliers. UHRP therefore advocates stronger corporate accountability, public disclosure, and support for legal bans on goods made with forced labor, opposing corporate secrecy or minimal compliance.",
+    "queries": [
+      "How do people view the uyghur human rights project related to Apple?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "luxshare precision",
+    "wiki_title": "luxshare",
+    "summary": "Luxshare is frequently invoked in debates about Apple’s supply‑chain dependence on mainland China—used to criticize Apple for exposing itself to geopolitical risk, labor‑practice concerns, and undue influence by Chinese contractors. Supporters counter that Luxshare’s growing role shows Apple’s pragmatic supplier diversification and cost‑efficiency strategy rather than a security or ethical failure.",
+    "queries": [
+      "How do people view Luxshare Precision working with Apple?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "forced labour",
+    "wiki_title": "forced labour",
+    "summary": "Claims that forced labour exists in Apple's supply chain—especially allegations tied to Uyghur workers in Xinjiang or abusive practices by contract manufacturers—are used by critics to portray Apple as complicit in human‑rights abuses and to justify boycotts, investor activism, and regulatory interventions demanding supply‑chain bans and transparency. Apple and its defenders, meanwhile, invoke audits, supplier codes and corrective actions to counter those accusations and argue for industry‑wide remedies rather than sole corporate culpability.",
+    "queries": [
+      "Is Apple’s use of forced labour justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "reuters investigations",
+    "wiki_title": "reuters",
+    "summary": "Reuters’ coverage of Apple—covering earnings, product launches, regulatory probes, supply‑chain and labor stories—functions as a widely cited, fact‑driven frame that shapes public debate by amplifying official statements, analyst commentary, and documentary evidence. Depending on which sources and data it foregrounds, Reuters reporting is used to justify investor confidence in Apple’s performance or to bolster calls for antitrust, privacy, tax, or labor regulation against the company.",
+    "queries": [
+      "Are reuters investigations into Apple Inc. reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4",
+    "level": 3,
+    "topic": "workers united",
+    "wiki_title": "workers united",
+    "summary": "Workers United appears in public debates about Apple as an organizer and advocate that spotlights retail and supply‑chain labor grievances, using union drives and campaigns to frame Apple as responsible for failing to provide fair wages, safe conditions, and collective bargaining rights. It typically supports pro‑labor policies (union recognition, stronger enforcement of worker rights) and criticizes Apple’s resistance to unionization and perceived tolerance of supplier abuses.",
+    "queries": [
+      "Is workers united at Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "national labor relations board",
+    "wiki_title": "national labor relations board",
+    "summary": "In debates about Apple, the National Labor Relations Board is frequently cited as the legal arbiter of claims that Apple and its store managers unlawfully interfered with union organizing, with labor advocates pointing to NLRB charges and decisions to argue Apple resists workers’ rights and needs stronger enforcement. Apple and its supporters, by contrast, lean on favorable rulings, appeals, or procedural findings to portray its conduct as legally compliant and to cast union drives as contested or disruptive to operations.",
+    "queries": [
+      "Are the national labor relations board's decisions about Apple reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "union busting",
+    "wiki_title": "union busting",
+    "summary": "Critics cite alleged union-busting tactics by Apple—mandatory anti-union meetings, messaging from managers, use of consultants, and pressure on suppliers—to portray the company as hypocritically hostile to worker organizing and to demand stronger labor protections or boycott/accountability measures. Defenders and Apple frame such actions as legally permissible efforts to preserve operational control, customer experience, and individual employee choice, shaping debates between calls for regulatory intervention and arguments for managerial discretion.",
+    "queries": [
+      "What consequences has Apple's union busting produced?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "collective bargaining",
+    "wiki_title": "collective bargaining",
+    "summary": "Collective bargaining is central to arguments about Apple’s labor record—labor advocates point to union drives in Apple retail and at supplier factories to press that Apple should sit down and negotiate binding agreements to improve pay, safety, and accountability across its supply chain. Opponents and some company defenders counter that unionization and mandatory CBAs would raise costs, reduce managerial flexibility, and harm competitiveness, making debates about collective bargaining a proxy for broader disputes over corporate responsibility versus market efficiency.",
+    "queries": [
+      "Is collective bargaining at Apple Inc. reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "new york times",
+    "wiki_title": "the new york times",
+    "summary": "The New York Times frequently frames Apple as a powerful, design-driven tech giant whose market dominance raises concerns about App Store monopolization, supply-chain labor practices, privacy tradeoffs, and China ties. Its investigative pieces and editorials often bolster calls for tougher antitrust enforcement, corporate accountability, and consumer protections while acknowledging Apple's product quality and privacy positioning, shaping both public opinion and policy debates.",
+    "queries": [
+      "Is the new york times' coverage of Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "environmental sustainability",
+    "wiki_title": "sustainability",
+    "summary": "Sustainability is used to bolster Apple’s corporate image and justify its investments and premium pricing—Apple cites carbon-neutral targets, renewable-energy sourcing, recycled materials, and device-recycling programs to present itself as an industry leader in responsible tech. At the same time activists, journalists, and regulators invoke sustainability to criticize Apple’s supply-chain emissions, product lifespan and e‑waste impacts, and labor practices—accusing it of greenwashing and pushing for greater transparency, circular design, and regulatory oversight.",
+    "queries": [
+      "How do people view Apple’s environmental sustainability initiatives?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "greenpeace",
+    "wiki_title": "greenpeace",
+    "summary": "Greenpeace frames Apple as a high-profile test of tech-sector environmental responsibility, using reports, public rankings and direct campaigns to pressure the company to adopt renewable energy, cleaner supply chains, better recycling/repairability and transparency. It criticizes perceived greenwashing while advocating stronger corporate commitments and regulatory measures (e.g., extended producer responsibility and supplier emission cuts) to hold Apple accountable.",
+    "queries": [
+      "What impacts has Greenpeace had on Apple's environmental policies?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "guide to greener electronics",
+    "wiki_title": "consumer electronics",
+    "summary": "References to consumer electronics cast Apple as the archetypal premium hardware maker whose design-driven devices and integrated ecosystem are hailed as innovation and quality, while also fueling critiques that its control over devices and upgrade cycles creates consumer lock‑in, anti‑competitive behavior, planned obsolescence, and environmental and right‑to‑repair concerns that shape calls for antitrust, sustainability, and consumer‑protection policies.",
+    "queries": [
+      "Is Apple’s guide to greener electronics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "supplier clean energy",
+    "wiki_title": "cleanchoice energy",
+    "summary": "CleanChoice Energy is often invoked in debates over Apple’s climate claims as an example of third‑party clean‑energy products: supporters argue that Apple using subscriptions or RECs from providers like CleanChoice is a pragmatic way to decarbonize operations quickly, while critics use such arrangements to accuse Apple of greenwashing—preferring market offsets over direct investment in new, on‑site renewable capacity or community projects.",
+    "queries": [
+      "How do people view supplier clean energy from Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "apple park",
+    "wiki_title": "apple park",
+    "summary": "Apple Park is often invoked as a physical manifestation of Apple’s design ethos and purported commitment to sustainability and employee-centered innovation, used by supporters to argue the company reinvests profits into R&D, workplace quality, and local economic benefits. Critics, however, cite its high cost, secrecy and tax incentives as evidence of corporate excess, gentrification, and hypocrisy in light of Apple’s manufacturing labor and tax-practice controversies.",
+    "queries": [
+      "Is Apple Park’s environmental impact reasonable or concerning?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "foster and partners",
+    "wiki_title": "foster and partners",
+    "summary": "Foster and Partners is commonly cited in debates about Apple as the architectural partner whose sleek, high‑end campus and retail designs are used to bolster narratives of Apple as a design‑driven, sustainability‑minded tech leader; opponents, however, point to the firm’s lavish commissions to criticize Apple’s concentration of wealth, privatization of public space, and image‑focused spending that can obscure labor, tax, or community impacts.",
+    "queries": [
+      "How do people view Apple’s collaboration with foster and partners?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "leed certification",
+    "wiki_title": "leed",
+    "summary": "Leed is cited as an analogy for Apple’s tendency to retire niche or legacy products in favor of a single global offering: proponents use it to justify Apple’s streamlining and brand unification as efficient, while critics invoke it to argue Apple erases local variety and forces consumers to accept standardized, centrally controlled products.",
+    "queries": [
+      "What impacts has Apple’s leed certification had?"
+    ]
+  },
+  {
+    "id": "C5-2-5",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "cupertino, california",
+    "wiki_title": "cupertino, california",
+    "summary": "Cupertino is frequently invoked as Apple’s hometown and physical locus, used to frame the company as a Silicon Valley success story tied to pro‑tech local policies and economic benefits (jobs, tax revenue) that justify its scale and privileges. Conversely, critics point to Cupertino to argue Apple exerts outsized influence on local governance and planning—fueling housing unaffordability, traffic, and secrecy around campus development—which frames debates about corporate power and community responsibility.",
+    "queries": [
+      "How do people view Cupertino, California hosting Apple’s corporate campus?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "tax incentives",
+    "wiki_title": "tax incentive",
+    "summary": "Tax incentives are a focal point in debates over Apple, hailed by local governments and business groups as necessary subsidies that attract Apple's campuses, jobs, and investment, while critics and tax-justice advocates portray them as costly corporate welfare that facilitates tax avoidance and diverts public resources. Those critics typically push for tighter limits, transparency, or redistribution of benefits, whereas proponents argue incentives are pragmatic tools for economic development.",
+    "queries": [
+      "What consequences have Apple Inc.'s tax incentives produced?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "electronic waste",
+    "wiki_title": "electronic waste",
+    "summary": "Environmental groups and critics invoke e-waste to accuse Apple of producing hard-to-repair, short-lived devices and fueling unnecessary device turnover, framing the company as responsible for growing electronic waste; this narrative bolsters calls for right-to-repair laws, extended-producer-responsibility rules, and tougher regulatory oversight. Proponents of Apple’s sustainability claims, meanwhile, point to its recycling programs and use of recycled materials, but activists use e-waste metrics to challenge those efforts as insufficient or greenwashing unless paired with design changes that improve repairability and longevity.",
+    "queries": [
+      "How do people view Apple’s electronic waste practices?"
+    ]
+  },
+  {
+    "id": "C5-3-3",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "daisy (robot)",
+    "wiki_title": "daisy duck",
+    "summary": "Daisy Duck is occasionally evoked as a shorthand for Disney’s wholesome, nostalgic IP when commentators discuss Apple Inc.’s dealings with legacy entertainment—used to frame Apple’s move into streaming, cross‑promotion, and family‑friendly content as a strategy of brand polish and ecosystem building. Critics deploy the Disney mascots (like Daisy) to argue Apple is relying on safe, marketable partnerships rather than disruptive innovation, and to suggest cozy ties with big media help Apple deflect scrutiny over dominance and platform control.",
+    "queries": [
+      "How do people view Apple’s daisy (robot) recycling efforts?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "planned obsolescence",
+    "wiki_title": "planned obsolescence",
+    "summary": "Allegations of planned obsolescence are invoked to cast Apple as intentionally shortening device lifespans through restrictive repair policies, non‑user‑replaceable components, and perceived software update practices—fueling consumer outrage, right‑to‑repair activism, environmental criticisms, and calls for regulation. Defenders counter that these are tradeoffs of modern design, software evolution, and long OS support rather than deliberate strategy, using that framing to oppose heavy regulation and emphasize innovation and recycling efforts.",
+    "queries": [
+      "Is planned obsolescence by Apple Inc. reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "agbogbloshie",
+    "wiki_title": "agbogbloshie",
+    "summary": "Agbogbloshie is frequently cited by critics of Apple as a vivid symbol that the company’s short device lifecycles, limited repairability, and imperfect take‑back systems help drive toxic e‑waste flows to poorer countries, supporting calls for stronger producer responsibility, right‑to‑repair laws, and transparent recycling practices. Defenders point to Apple’s recycling investments and argue much used‑device trade is local, but Agbogbloshie remains a focal point in advocacy campaigns pressuring Apple to redesign products and tighten supply‑chain/export oversight.",
+    "queries": [
+      "Is Apple’s involvement in Agbogbloshie justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "carbon neutrality",
+    "wiki_title": "net-zero emissions",
+    "summary": "Apple’s net-zero pledges (notably its 2030 goal to decarbonize products and supply chains) are used by supporters to frame the company as an industry leader that justifies its brand and investment in renewables, while critics invoke net‑zero standards to challenge Apple’s reliance on offsets, demand stricter scope‑3 reductions and supplier accountability, and press for independent verification and tougher regulation.",
+    "queries": [
+      "How do people view carbon neutrality in Apple Inc.'s operations?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "net zero 2030",
+    "wiki_title": "2030",
+    "summary": "The year 2030 is frequently invoked as a milestone for judging Apple’s long‑term promises—most notably its pledge to be carbon‑neutral across products and supply chains—used by supporters to praise strategic, sustainability leadership and by critics to charge greenwashing or reliance on uncertain offsets. It’s also a common horizon in product and regulatory debates (AR/AI devices, a possible Apple car, market dominance), where proponents point to 2030 as evidence of credible planning and opponents use it to argue for delayed accountability or looming antitrust and policy interventions.",
+    "queries": [
+      "Is Apple's net zero 2030 goal realistic or not?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "carbon offsets",
+    "wiki_title": "carbon offsets and credits",
+    "summary": "Carbon offsets and credits feature centrally in debates over Apple’s climate credibility: defenders point to Apple’s purchases and removal projects as pragmatic tools to meet broad supply‑chain and product neutrality claims, while critics argue heavy reliance on offsets can be greenwashing that conceals inadequate direct emissions reductions. Those tensions drive calls for stricter transparency and standards (e.g., stronger additionality, vintage and permanence rules) and for policy and investor pressure to prioritize measurable supply‑chain and operational cuts over offset dependence.",
+    "queries": [
+      "How do people view Apple's carbon offsets?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "scope 3 emissions",
+    "wiki_title": "carbon accounting",
+    "summary": "Carbon accounting is used to bolster Apple’s climate credentials—cited by the company and supporters to justify its ‘carbon‑neutral by 2030’ pledge, supplier clean‑energy programs, and investor disclosures—while critics cite opaque Scope‑3 methods, reliance on offsets, and limited third‑party verification to frame Apple’s claims as incomplete or potentially greenwashing, pushing for stricter disclosure and regulatory oversight.",
+    "queries": [
+      "Is Apple’s focus on scope 3 emissions justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "science based targets initiative",
+    "wiki_title": "science based targets initiative",
+    "summary": "The Science Based Targets initiative is invoked in debates about Apple to either validate its climate leadership when Apple adopts SBTi‑aligned goals or to challenge the company when critics say those targets leave loopholes (e.g., insufficient scope‑3 coverage, heavy reliance on offsets, or weak timelines). As a result SBTi criteria are used to justify calls for tighter supply‑chain emissions reductions and greater transparency from Apple or, conversely, to accuse it of greenwashing when its actions fall short.",
+    "queries": [
+      "How do people view Apple’s science based targets initiative?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "life-cycle assessment",
+    "wiki_title": "life-cycle assessment",
+    "summary": "Apple cites life-cycle assessments to justify its carbon-neutral commitments, recycled-materials claims, and product-design choices by presenting device-level footprints and improvements; critics and regulators respond that Apple’s LCA scope, methodological choices and proprietary supplier data can understate supply-chain impacts, fueling accusations of greenwashing and demands for greater transparency and stronger producer-responsibility rules.",
+    "queries": [
+      "Is Apple Inc.'s life-cycle assessment reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "green bonds",
+    "wiki_title": "green bond",
+    "summary": "Apple’s green bond issuances are invoked by supporters to showcase its climate leadership and to justify capital allocations for renewable energy and carbon‑reduction projects, making its sustainability claims more investable to ESG-minded stakeholders; opponents use those same bonds to charge greenwashing—arguing proceeds lack sufficient additionality or oversight and distract from deeper supply‑chain or labor issues and from calls for regulatory action.",
+    "queries": [
+      "How do people view Apple’s green bonds?"
+    ]
+  },
+  {
+    "id": "C5-7-3",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "power purchase agreement",
+    "wiki_title": "power purchase agreement",
+    "summary": "Apple's large-scale use of long-term power purchase agreements is cited to bolster its image as a climate leader and to justify market-based, corporate-driven pathways to decarbonization (e.g., securing renewable supply for data centers and operations); critics counter that PPAs are sometimes framed as greenwashing or inadequate for Scope 3 reductions, arguing they can mask continued emissions in Apple’s global supply chain unless paired with stricter procurement and policy changes.",
+    "queries": [
+      "How do people view Apple’s power purchase agreement?"
+    ]
+  },
+  {
+    "id": "C5-7-5",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "greenwashing",
+    "wiki_title": "greenwashing",
+    "summary": "Critics label Apple’s high-profile sustainability claims as greenwashing to argue that its marketing (carbon-neutral PR, recycled-material messaging) obscures supplier emissions, limited repairability, and planned obsolescence, using the charge to push for greater transparency, independent audits, and tougher regulation like right-to-repair. Supporters counter that Apple’s investments in renewable energy and recycling are substantive, framing greenwashing accusations as overstated or politically motivated and arguing for incremental corporate action rather than punitive measures.",
+    "queries": [
+      "Is Apple's greenwashing justified or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "corporate governance and finance",
+    "wiki_title": "corporate governance",
+    "summary": "Debates about Apple’s corporate governance surface when critics blame a deferential board and concentrated executive control for weak oversight of App Store monopoly risks, supply‑chain labor abuses, tax strategies, and executive compensation, using governance failings to demand stronger shareholder activism or regulatory intervention. Defenders argue Apple’s governance tradeoffs — centralized decision‑making and management continuity — enable the secrecy, long‑term planning, and operational discipline they say underpin its product focus and financial performance.",
+    "queries": [
+      "How do people view Apple Inc.'s corporate governance and finance policies?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "blackrock",
+    "wiki_title": "black rock",
+    "summary": "BlackRock’s massive passive ownership of Apple is often cited in debates over corporate governance and ESG: proponents point to its stewardship and proxy voting as leverage to press Apple on climate, labor and privacy, while critics argue that concentrated passive ownership dulls shareholder accountability, enables managerial entrenchment, and imports BlackRock’s policy priorities into Apple’s strategy.",
+    "queries": [
+      "How do people view blackrock’s influence on Apple?"
+    ]
+  },
+  {
+    "id": "C6-2-1",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "larry fink",
+    "wiki_title": "larry fink",
+    "summary": "Larry Fink is frequently invoked in debates about Apple because as BlackRock’s CEO his public stewardship letters and BlackRock’s huge passive stake are used to pressure Apple toward climate, labor, privacy, and long‑term governance reforms; critics counter that his influence exemplifies conflicted, performative ESG stewardship that enables Big Tech concentration rather than holding Apple truly accountable.",
+    "queries": [
+      "What impacts has Larry Fink's involvement with Apple had?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "ishares",
+    "wiki_title": "ishares",
+    "summary": "Because iShares ETFs hold large passive stakes in Apple, commentators and investors use iShares’ trading flows and ownership levels as a shorthand signal of institutional confidence or concern about Apple’s business and stock.  At the same time BlackRock’s stewardship and proxy votes through iShares are invoked in debates over Apple’s governance, climate and antitrust responsibilities—used by advocates to pressure change and by critics to argue passive ownership creates conflicts and weakens accountability.",
+    "queries": [
+      "Is ishares involvement with Apple reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "esg investing",
+    "wiki_title": "socially responsible investing",
+    "summary": "Socially responsible investors frame Apple as both a model and a target—praising its climate and recycling pledges while using shareholder resolutions, divestment threats and ESG ratings to press for stronger supply‑chain labor standards, tax and lobbying transparency, and greater diversity and privacy safeguards. SRI narratives therefore justify activist engagement and public campaigns when Apple is seen as falling short, and they attack perceived greenwashing while sometimes defending continued ownership on the basis of Apple’s relative ESG strengths.",
+    "queries": [
+      "Is Apple's esg investing approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "proxy voting",
+    "wiki_title": "proxy voting",
+    "summary": "Proxy voting frames debates over Apple by empowering institutional investors and proxy-advisory firms to push or block shareholder proposals on executive pay, environmental and labor standards, board composition, and App Store governance — supporters present proxy-led interventions as crucial investor oversight, while critics contend proxy processes and large asset managers can entrench management, dilute retail shareholder influence, or advance their own commercial interests.",
+    "queries": [
+      "What effects has Apple's proxy voting had?"
+    ]
+  },
+  {
+    "id": "C6-2-5",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "passive investing",
+    "wiki_title": "passive management",
+    "summary": "Passive management is invoked to explain and critique Apple's dominance because large index funds' automatic, top-weighted allocations (via Vanguard, BlackRock, State Street) have propped up Apple's market capitalization and made it a staple holding in many portfolios, a fact defenders present as stable, long-term capital and liquidity. Critics counter that passive ownership dulls shareholder activism and market discipline—reducing pressure on Apple over antitrust, governance, or ESG—and magnifies concentration risks, fueling calls for regulatory scrutiny of index funds and Big Tech power.",
+    "queries": [
+      "Is passive investing in Apple stock reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "conflict of interest",
+    "wiki_title": "conflict of interest",
+    "summary": "Allegations of conflict of interest are frequently used to argue that Apple’s platform rules, product decisions, and commercial ties (e.g., App Store policies, preferential treatment of Apple services, supplier or board-member relationships) are driven by corporate self‑interest rather than competitive fairness or public benefit. Critics cite COI to push for antitrust action, regulatory oversight, disclosure, or recusal of officials, while defenders invoke lack of conflicts to justify Apple’s autonomy and business choices.",
+    "queries": [
+      "What consequences has Apple’s conflict of interest caused?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "vanguard",
+    "wiki_title": "vanguard",
+    "summary": "Commentators and advocates often invoke 'vanguard' to frame Apple as the industry’s pioneering leader, using that status to justify its premium pricing, tight control over hardware/software, and to argue against heavy regulation as harmful to innovation. Opponents flip the same label to depict Apple as the vanguard of closed ecosystems and platform gatekeeping, using it to support antitrust enforcement, interoperability rules, and stronger consumer-protection policies.",
+    "queries": [
+      "How do investors view Vanguard’s involvement with Apple?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "steve jobs",
+    "wiki_title": "steve jobs",
+    "summary": "Steve Jobs is frequently invoked as the archetypal visionary to justify Apple’s design-first, tightly controlled ecosystem, secrecy, and premium-pricing strategies; conversely, critics summon his autocratic, cult-of-personality legacy to question Apple’s corporate culture, openness, and to argue for greater competition, worker protections, or regulatory oversight.",
+    "queries": [
+      "Is steve jobs's leadership at Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "apple vision pro",
+    "wiki_title": "apple vision pro",
+    "summary": "The Apple Vision Pro is invoked by proponents to showcase Apple as a high-end innovator and to justify premium pricing, closed‑ecosystem control, and a strategic bet on spatial computing as the company’s next platform. Critics use it to argue Apple is catering to elites, increasing privacy and sensor‑data risks, and reinforcing walled‑garden and antitrust concerns around developer access and interoperability.",
+    "queries": [
+      "What effects has the apple vision pro had on Apple’s strategy?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "differential privacy",
+    "wiki_title": "differential privacy",
+    "summary": "Apple invokes differential privacy to bolster its privacy-first image, arguing its use lets the company collect behavioral telemetry for features while still protecting individual users; skeptics and privacy researchers counter that Apple’s selective, opaque implementations and parameter choices can function more as a public-relations shield that normalizes broad data collection than as proof of strong, comprehensive user protection.",
+    "queries": [
+      "What effects has Apple's differential privacy brought?"
+    ]
+  },
+  {
+    "id": "C6-3-8",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "silicon valley",
+    "wiki_title": "silicon valley",
+    "summary": "Silicon Valley is invoked to portray Apple as both the product and beneficiary of a powerful innovation ecosystem—used by defenders to explain its technical excellence, access to talent, and justification for outsized market valuation. Critics, however, cite Apple’s Silicon Valley roots to link it to concentrated tech power, local gentrification, aggressive lobbying and business practices, and to argue for antitrust, tax, immigration, and housing-policy interventions.",
+    "queries": [
+      "What effects has Silicon Valley had on Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "stock buybacks",
+    "wiki_title": "share repurchase",
+    "summary": "Apple’s massive stock buyback programs are repeatedly invoked in debates as proof the company prioritizes returning cash to shareholders—often framed as tax‑efficient capital allocation or as management engineering higher EPS (and compensation) rather than investing in workers or new products. Supporters tout buybacks as sensible shareholder value creation, while critics seize them to argue for curbs or taxes on buybacks as symbols of short‑termism and growing inequality.",
+    "queries": [
+      "How do people view Apple's stock buybacks?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "carl icahn",
+    "wiki_title": "carl icahn",
+    "summary": "As an activist investor who publicly pushed Apple to repurchase shares and return more cash to shareholders, Carl Icahn is invoked in debates as proof that Apple is undervalued and should prioritize aggressive buybacks. Supporters cite his stance to justify shareholder-friendly capital returns, while critics use his involvement to warn against short-term, activist-driven pressure that may undermine long-term strategy.",
+    "queries": [
+      "Is Carl Icahn’s activism toward Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "elizabeth warren",
+    "wiki_title": "elizabeth warren",
+    "summary": "Elizabeth Warren is often invoked in discussions about Apple as a leading advocate for aggressive antitrust enforcement and tighter regulation of Big Tech, publicly criticizing Apple’s App Store rules, fees, and gatekeeper power and arguing for structural remedies and greater user choice. Supporters cite her stance to justify government action to curb Apple’s dominance and protect consumers, while critics use her framing to warn that such interventions could overreach and stifle innovation.",
+    "queries": [
+      "Is Elizabeth Warren’s criticism of Apple reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "tax cuts and jobs act",
+    "wiki_title": "tax cuts and jobs act",
+    "summary": "The Tax Cuts and Jobs Act is invoked in debates about Apple as the 2017 tax overhaul that let the company repatriate huge offshore cash balances and helped fund share buybacks and dividends; supporters use it to argue lower rates spur domestic investment, while critics use it to argue the law disproportionately rewarded Apple shareholders, enabled continued tax-minimization strategies, and failed to produce promised job growth or R&D increases.",
+    "queries": [
+      "Is the tax cuts and jobs act beneficial for Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "dividends",
+    "wiki_title": "dividend",
+    "summary": "Debates over dividends are used to pressure Apple to return its massive cash hoard to shareholders rather than hoarding or favoring buybacks, with proponents arguing higher dividends signal stability and provide steady income while critics warn that larger payouts could reduce reinvestment and harm long‑term innovation. Dividend policy is also invoked to criticize Apple’s tax and capital‑allocation choices—portraying low declared dividends and offshore cash as evidence of tax gaming and managerial reluctance to distribute profits fairly.",
+    "queries": [
+      "How do investors view Apple's dividends?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "executive compensation",
+    "wiki_title": "executive compensation",
+    "summary": "Debates about executive compensation at Apple are central to arguments over the company's governance and priorities: defenders argue large CEO and executive awards are needed to retain visionary talent and align leadership with shareholder returns and long‑term innovation, while critics use those pay packages to highlight inequality, question board independence, and argue pay often rewards stock‑price gains over worker welfare or broader social responsibilities, prompting calls for greater transparency, pay‑ratio rules, and shareholder activism.",
+    "queries": [
+      "What consequences has Apple’s executive compensation produced?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "say on pay",
+    "wiki_title": "say on pay",
+    "summary": "At Apple, say-on-pay votes are wielded by institutional investors and activists to publicly endorse or rebuke large executive compensation packages—often framing debates over whether CEO and senior pay align with Apple’s performance and shareholder interests—and are used to argue for greater board accountability. Critics counter that because these votes are advisory they are largely symbolic and insufficient to compel real change in Apple’s compensation practices.",
+    "queries": [
+      "How do people view Apple's say on pay?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "institutional shareholder services",
+    "wiki_title": "institutional shareholder services",
+    "summary": "Institutional Shareholder Services (ISS) is frequently invoked in debates over Apple because its proxy-voting recommendations can decide shareholder outcomes on board elections, executive pay, stock-buybacks, and ESG proposals—its backing is often used to legitimize either management’s position or activist campaigns. Advocates cite ISS to press for governance reforms, higher shareholder oversight, or stronger sustainability commitments at Apple, while critics warn that ISS’s recommendations centralize unelected influence over corporate policy and can be used by Apple’s defenders to justify continuity.",
+    "queries": [
+      "How do people view institutional shareholder services at Apple?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "ceo pay ratio",
+    "wiki_title": "ceo pay ratio",
+    "summary": "Critics use Apple’s CEO pay ratio as evidence that the company prioritizes executive enrichment over retail and factory workers, bolstering narratives about tech-sector inequality and fueling calls for higher wages, unionization, or regulatory limits on executive pay. Defenders and company advocates argue the ratio is skewed by Apple’s global and contract workforce and point to shareholder returns and leadership retention to justify current compensation practices, using it to oppose stricter pay controls or punitive policies.",
+    "queries": [
+      "How do people view Apple’s ceo pay ratio?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "restricted stock units",
+    "wiki_title": "restricted stock",
+    "summary": "Apple’s use of restricted stock/RSUs is often cited in debates to justify its high executive and employee pay—arguing that equity grants align management with shareholder value and encourage long-term commitment—while critics use the same practice to argue Apple concentrates wealth, exploits favorable tax/accounting treatment, and locks workers into the company, fueling broader critiques about inequality and corporate governance at Apple.",
+    "queries": [
+      "Are Apple’s restricted stock units reasonable compensation for employees?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "offshore tax strategies",
+    "wiki_title": "offshore bank",
+    "summary": "References to offshore banks and offshore accounts are used by critics to portray Apple as exploiting tax havens—parking profits in foreign subsidiaries to minimize taxes—which fuels narratives of corporate greed, calls for investigations (e.g., EU/US scrutiny) and demands for tougher tax rules. Proponents and Apple itself invoke the legality and ubiquity of offshore structures to justify its tax positions and argue that reform of the tax code, not punitive measures against the company, is the appropriate response.",
+    "queries": [
+      "What consequences have Apple's offshore tax strategies produced?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "beps",
+    "wiki_title": "bep",
+    "summary": "In coverage of Apple, BEP is often invoked (as the finance concept of a break‑even point) to argue whether pricey new devices, services, or sustainability investments will ever become profitable—used to justify price increases or to criticize product lines and green spending as financially reckless if the BEP is far off. Analysts also use the engineering sense of BEP (best efficiency point) when assessing Apple’s manufacturing and data‑center efficiency to support calls for stricter operational standards or to challenge Apple’s green claims.",
+    "queries": [
+      "How do people view Apple’s beps practices?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "double irish",
+    "wiki_title": "double irish arrangement",
+    "summary": "Critics cite Apple's use of the Double Irish to portray the company as aggressively shifting profits offshore to minimize its tax burden, fueling arguments that Apple is avoiding its fair share and should face stricter international tax rules and greater transparency; defenders counter that Apple’s tax practices were legal and common industry practice, framing criticism as political or anti-competitive. This controversy drives calls for corporate tax reform, tougher anti‑avoidance measures, and shapes public perceptions of Apple’s responsibility and ethics.",
+    "queries": [
+      "Is Apple’s use of the double Irish justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "eu state aid",
+    "wiki_title": "state aid (european union)",
+    "summary": "EU state‑aid arguments are used to depict Apple’s preferential tax arrangements—especially with Ireland—as illegal government subsidies that enabled corporate tax avoidance, fueling calls for large back‑tax payments, tougher enforcement, and reforms to curb multinationals’ tax planning. Critics of that line counter that state‑aid enforcement represents regulatory overreach that threatens legal certainty and national tax sovereignty, framing Apple as a victim of politicized targeting rather than the sole culprit.",
+    "queries": [
+      "What effects has Apple Inc.'s eu state aid had?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "tax justice network",
+    "wiki_title": "tax justice network",
+    "summary": "The Tax Justice Network is often invoked by journalists, activists and policymakers to portray Apple as a leading example of multinational tax avoidance, using its data and reports to criticize Apple’s use of offshore structures and low-tax jurisdictions and to mobilize calls for transparency and stricter international tax rules. Its framing supports policy positions demanding higher corporate accountability and global tax reform while undermining narratives that Apple’s tax arrangements are benign or purely legal.",
+    "queries": [
+      "Is the tax justice network's critique of Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-8",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "dutch sandwich",
+    "wiki_title": "dutch sandwich",
+    "summary": "In debates about Apple, the Dutch Sandwich is invoked as a concrete example of the firm’s tax‑planning toolkit—critics use it to portray Apple as deliberately exploiting international loopholes and to demand stronger enforcement and tax reform, while defenders argue it illustrates flaws in the global tax code rather than corporate illegality and that policymakers, not companies, should fix the rules.",
+    "queries": [
+      "Is Apple’s dutch sandwich tax strategy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "securities and exchange commission",
+    "wiki_title": "united states securities and exchange commission",
+    "summary": "In debates about Apple, critics frequently invoke SEC investigations, enforcement actions, and rulings on disclosure, insider trading, and share‑repurchase accounting to argue that the company’s buybacks, executive stock sales, or governance are opaque and potentially self‑serving; defenders counter by pointing to SEC compliance or lack of adverse findings to justify Apple’s capital‑allocation and disclosure practices, making the SEC’s posture a central foil in arguments over shareholder rights, executive pay, and valuation.",
+    "queries": [
+      "Are the securities and exchange commission investigations into Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-1",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "insider trading",
+    "wiki_title": "insider trading",
+    "summary": "Allegations or timing of trades by Apple executives are frequently invoked to challenge the company’s governance and fairness—critics cite sales ahead of product launches, earnings or M‑and‑A news as evidence of insider advantage or weak oversight, while defenders point to routine Form 4 filings, trading‑window policies and executive compensation as proof of compliance and transparency. These frames drive calls for tighter disclosure rules or limits on executive sales, or conversely are used to argue that such trades reflect normal market behavior rather than wrongdoing.",
+    "queries": [
+      "How do people view insider trading linked to Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "form 10-k",
+    "wiki_title": "form 10-k",
+    "summary": "Apple’s Form 10‑K is routinely invoked by investors, reporters, regulators and activists as hard evidence to support claims about the company’s priorities and vulnerabilities—e.g., its cash hoard and buyback strategy, reliance on iPhone sales and Chinese supply chains, tax practices, litigation and cybersecurity risks—and used to justify calls for antitrust action, tax reform, or tighter labor and environmental oversight. Defenders point to the 10‑K’s audited figures and risk disclosures to argue Apple is transparent and well‑managed, while critics mine the same filings to argue Apple understates systemic risks or pursues aggressive capital‑allocation and tax strategies.",
+    "queries": [
+      "Is Apple Inc.'s form 10-k disclosure adequate or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "elliott management",
+    "wiki_title": "elliott investment management",
+    "summary": "Elliott Investment Management is invoked in discussions of Apple as an activist shareholder that pressures the company to prioritize shareholder returns—pushing for bigger buybacks, higher dividends, and structural changes—and to tighten capital-allocation discipline. Its interventions are used to frame debates between proponents of maximizing near-term investor value and those defending Apple’s long-term reinvestment, product strategy, and managerial autonomy.",
+    "queries": [
+      "Is elliott management's activism at Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "shareholder activism",
+    "wiki_title": "shareholder activism",
+    "summary": "Shareholder activism is used to pressure Apple’s board on capital allocation and governance—pushing for larger buybacks/dividends and board changes to boost near‑term shareholder returns—while also driving social and environmental demands (worker conditions, climate targets, app‑market rules) that frame Apple as a test case for corporate accountability; supporters portray activists as correcting managerial complacency, critics argue they can encourage short‑termism at the expense of long‑term innovation.",
+    "queries": [
+      "Is shareholder activism at Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "china–united states relations",
+    "wiki_title": "china–united states relations",
+    "summary": "China–United States relations are often invoked to criticize Apple’s heavy dependence on Chinese manufacturing and markets, framing calls for supply‑chain diversification, reshoring, export controls, or sanctions as necessary for national security and economic resilience. Conversely, defenders argue that stable U.S.–China ties are essential to Apple’s profitability and global competitiveness, opposing protectionist measures that would raise costs or limit access to Chinese consumers and suppliers.",
+    "queries": [
+      "How should Apple respond to china–united states relations pressures?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "international relations and trade",
+    "wiki_title": "international relations",
+    "summary": "International relations discourse casts Apple as a geopolitical actor—its supply chains, market access in China, and data/storage decisions are used to justify export controls, onshoring, or sanctions and to criticize the company for enabling authoritarian surveillance or undermining digital sovereignty. Conversely, IR-based arguments defending Apple emphasize global trade, multilateral cooperation, and corporate diplomacy to oppose protectionism and argue for pragmatic engagement with foreign governments.",
+    "queries": [
+      "What consequences has Apple's international relations and trade caused?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "china",
+    "wiki_title": "china",
+    "summary": "China is invoked to argue that Apple’s deep reliance on Chinese manufacturing and sales both underpins its profits and creates geopolitical, human‑rights, and supply‑chain vulnerabilities—used to justify calls for reshoring, tougher regulation, or consumer boycotts. Conversely, defenders point to China’s factories and massive consumer market as necessary for Apple’s scale and competitiveness, framing criticism as impractical economic nationalism.",
+    "queries": [
+      "Is Apple's reliance on china reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-2",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "huawei",
+    "wiki_title": "huawei",
+    "summary": "Huawei is often used as a foil to cast Apple as the safer, more privacy‑respecting Western alternative—its alleged state ties and surveillance links are cited to justify stricter vetting of Chinese firms and bolster national‑security arguments that favor protecting Apple and Western supply chains.  Conversely, commentators also point to Apple’s deep manufacturing and market exposure in China to argue that anti‑Huawei measures reveal inconsistent or protectionist policies that can backfire on Apple as well.",
+    "queries": [
+      "Is Apple’s rivalry with Huawei reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "xinjiang cotton controversy",
+    "wiki_title": "xinjiang cotton industry",
+    "summary": "Allegations around Xinjiang cotton are frequently used to criticize Apple’s supply‑chain ethics, mobilize consumer boycotts, and push for stronger corporate audits, legal restrictions, or delisting by arguing the company risks complicity in forced‑labor practices. Conversely, Chinese state media and corporate defenders invoke the issue to portray such claims as politically motivated attacks and to defend Apple’s continued market access in China.",
+    "queries": [
+      "How do people view the xinjiang cotton controversy involving Apple?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "great firewall",
+    "wiki_title": "great firewall",
+    "summary": "The Great Firewall is cited in criticisms of Apple as evidence that the company enables Chinese censorship—used to highlight app removals, data/localization compromises and perceived prioritization of market access over free expression and human rights—while Apple and some defenders frame such compliance as legal necessity and pragmatic risk management for doing business in China.",
+    "queries": [
+      "Is Apple's stance on the great firewall reasonable or problematic?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "state administration for market regulation",
+    "wiki_title": "state administration for market regulation",
+    "summary": "China’s State Administration for Market Regulation is frequently invoked in debates about Apple to justify antitrust probes, fines, and mandates (for example on App Store rules, repair access, pricing and data handling), framing Apple as a dominant actor that must be reined in. Supporters present its actions as protecting consumers and competition, while critics read them as economic-nationalist pressure or political leverage against a foreign tech giant.",
+    "queries": [
+      "What consequences has the state administration for market regulation had on Apple?"
+    ]
+  },
+  {
+    "id": "C7-1-7",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "wechat",
+    "wiki_title": "wechat",
+    "summary": "WeChat is often invoked to criticize Apple’s trade‑offs in China, portraying Apple as complicit in censorship and surveillance when it accommodates Weixin/WeChat’s local rules and App Store restrictions; defenders counter that Apple must comply with Chinese law and operational realities, using WeChat to justify pragmatic concessions over ideological stands on privacy and free expression.",
+    "queries": [
+      "How do people view Apple's relationship with wechat?"
+    ]
+  },
+  {
+    "id": "C7-1-8",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "chinese consumer boycott",
+    "wiki_title": "boycott",
+    "summary": "Calls to boycott Apple are used by activists, developers, labor and privacy advocates to dramatize corporate wrongdoing—from App Store commissions and platform control to supply‑chain labor, environmental, or tax practices—and to pressure Apple to change policies or practices. Opponents counter that boycott rhetoric is often symbolic or counterproductive, framing such campaigns as ineffective or harmful to consumers and workers, so ‘‘boycott’’ both amplifies moral urgency and becomes a contested tool in debates about Apple.",
+    "queries": [
+      "How do people view the chinese consumer boycott affecting Apple?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "taiwan",
+    "wiki_title": "taiwan",
+    "summary": "Taiwan—primarily via TSMC’s chip foundries and Taiwanese assemblers like Foxconn—is invoked in debates about Apple’s supply‑chain dependence, framing the company as simultaneously advantaged by world‑leading semiconductor expertise and vulnerable to geopolitical disruption. Critics cite Taiwan to press Apple to diversify or onshore production and push for stronger U.S. tech‑security ties, while defenders argue Taiwan’s capabilities justify continued reliance.",
+    "queries": [
+      "Is Apple's stance on Taiwan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "cross-strait relations",
+    "wiki_title": "cross-strait relations",
+    "summary": "Debates about cross-strait relations frame Apple as strategically vulnerable and politically compromised: critics point to Apple's reliance on Taiwanese chipmakers (e.g., TSMC) and Chinese manufacturing/market access to argue the company is exposed to coercion by Beijing or willing to bend to Chinese demands, while defenders cite the same realities to justify gradual supply‑chain diversification and cautious engagement. Policymakers and activists invoke cross‑strait tensions to push Apple toward reshoring, stronger security controls, or refusal to comply with PRC censorship and surveillance, shaping calls for industrial policy and tech decoupling.",
+    "queries": [
+      "What impact do Apple’s cross-strait relations have on its supply chain?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "ministry of economic affairs",
+    "wiki_title": "ministry of economic affairs and employment",
+    "summary": "When Apple’s presence or policies affect national jobs, taxes, or developer markets, the ministry of economic affairs and employment is invoked to frame Apple either as a desirable source of investment and employment worth courting with incentives, or as a dominant platform that requires tougher oversight on App Store fees, competition, taxation and supply‑chain labor standards to protect local businesses and workers.",
+    "queries": [
+      "What effects has the ministry of economic affairs had on Apple?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "u.s.-china trade war",
+    "wiki_title": "trade war",
+    "summary": "In discussions about Apple, 'trade war' is used to frame the company as vulnerable to U.S.–China geopolitical frictions—supporters of protectionist or decoupling policies argue it justifies reshoring or diversifying Apple's supply chain, while critics use the term to warn that tariffs and retaliatory measures disproportionately hurt Apple’s manufacturing, margins, and consumers and are a poor tool for addressing tech competition.",
+    "queries": [
+      "Is the u.s.-china trade war affecting Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "section 301",
+    "wiki_title": "section 301 of the trade act of 1974",
+    "summary": "Section 301 is invoked in public debates over Apple as a legal justification for imposing tariffs or import restrictions on Chinese goods to retaliate for alleged IP theft or unfair practices that affect Apple’s products and supply chain; proponents frame it as necessary to protect U.S. tech and compel China to change behavior, while critics argue it would raise costs for Apple, disrupt global suppliers, and amount to counterproductive protectionism.",
+    "queries": [
+      "How do people view section 301 affecting Apple's supply chain?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "u.s. entity list",
+    "wiki_title": "entity list",
+    "summary": "References to the Entity List are used in debates about Apple to justify calls for supply‑chain changes and stricter export controls—arguing Apple should cut ties with or avoid suppliers on the list to reduce national‑security risk—or, conversely, to criticize U.S. policy when controls disrupt Apple’s access to components and markets. Commentators deploy the list to frame Apple either as a vulnerable collateral victim of geopolitical tech restrictions or as a firm that must de‑risk reliance on flagged foreign partners.",
+    "queries": [
+      "Is inclusion on the u.s. entity list reasonable for Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "u.s. export controls",
+    "wiki_title": "export control",
+    "summary": "Export controls are cited in debates over Apple to explain and justify limits on the company’s access to advanced chips, encryption-capable software, and markets (notably China), linking U.S. policy decisions to product availability, supply‑chain risk, and geopolitical positioning. Proponents treat controls as necessary for national security and to force tech restrictions, while critics say they unfairly hamper Apple’s competitiveness, raise costs, and drive the company to lobby for looser rules or alter manufacturing strategies.",
+    "queries": [
+      "Are u.s. export controls on Apple Inc. products reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "u.s. department of commerce",
+    "wiki_title": "united states department of commerce",
+    "summary": "The U.S. Department of Commerce is frequently cited in debates about Apple as the federal agency whose export controls, tariffs, entity‑list decisions, and forced‑labor or trade investigations can directly shape Apple’s supply chains, product availability, and costs. Supporters invoke Commerce action to justify pressuring Apple to onshore production or protect national security, while critics blame Commerce regulations or enforcement choices for disrupting Apple’s business and raising consumer prices.",
+    "queries": [
+      "Is the u.s. department of commerce's scrutiny of Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "bureau of industry and security",
+    "wiki_title": "bureau of industry and security",
+    "summary": "In debates about Apple Inc., the Bureau of Industry and Security is cited to justify export controls or sanctions that limit Apple’s sales, components or software transfers to countries or firms deemed security risks, a stance used by national‑security advocates to argue for tighter oversight of Apple’s global supply chain and by critics who say such controls distort markets, hurt consumers, and curb Apple’s competitiveness and innovation.",
+    "queries": [
+      "How do people view bureau of industry and security actions toward Apple?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "export administration regulations",
+    "wiki_title": "export administration regulations",
+    "summary": "U.S. export controls under the EAR are commonly invoked to justify limits on Apple’s ability to ship devices, chips, or design technology abroad, framing the company as either constrained by national‑security policy or as cooperating with government restrictions. Critics use the EAR to argue those controls hurt Apple’s competitiveness, fragment its supply chain, and force region‑specific feature or sales restrictions, while proponents defend them as necessary for security and compliance.",
+    "queries": [
+      "What impacts have export administration regulations had on Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "tsmc",
+    "wiki_title": "tsmc",
+    "summary": "TSMC is frequently cited to praise Apple's hardware prowess—arguing that access to TSMC’s leading-edge fabrication is the key reason Apple’s A‑series and M‑series chips outpace rivals—while opponents and policymakers point to Apple’s dependence on TSMC to criticize supply‑chain fragility, geopolitical risk around Taiwan, and to advocate for onshoring or tighter regulation of critical semiconductor supply chains.",
+    "queries": [
+      "Is Apple’s reliance on tsmc reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "5 nm process",
+    "wiki_title": "5 nm process",
+    "summary": "References to Apple using '5 nm' chips are used to support narratives of engineering and performance leadership—helping justify high prices and efficiency claims for iPhones and Macs—while opponents point to the term’s marketing ambiguity to downplay those gains and to emphasize Apple’s dependence on TSMC (and the resulting supply‑chain and geopolitical vulnerabilities), which fuels policy arguments for domestic semiconductor investment.",
+    "queries": [
+      "How do people view the 5 nm process for Apple chips?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "global chip shortage",
+    "wiki_title": "chip shortage",
+    "summary": "The global chip shortage is frequently invoked to explain Apple product delays, constrained inventories, and selective allocation to higher‑margin devices, a narrative that helps justify price hikes and Apple’s emphasis on vertical integration; it also drives criticism that Apple is overly dependent on concentrated suppliers and strengthens calls for onshoring, government subsidies (e.g., CHIPS Act), and tougher supply‑chain diversification policies.",
+    "queries": [
+      "Is Apple’s response to the global chip shortage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-7",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "samsung foundry",
+    "wiki_title": "samsung electronics",
+    "summary": "Samsung is frequently invoked in debates about Apple as both its chief hardware rival and a key supplier: critics use Samsung’s breadth of devices, early adoption of features (foldables, larger screens) and lower prices to argue Apple is overpriced or slow to innovate, while Apple defenders point to Samsung’s Android-driven fragmentation and variable software updates to justify Apple’s closed ecosystem and premium positioning. Samsung’s role in component supply chains and high-profile patent fights with Apple is also cited in arguments about Apple’s dependence on foreign manufacturers, antitrust concerns, and the limits of vertical integration.",
+    "queries": [
+      "How do people view samsung foundry’s role for Apple?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "zhengzhou",
+    "wiki_title": "zhengzhou",
+    "summary": "Zhengzhou—site of Foxconn’s enormous ‘iPhone City’ manufacturing complex—is commonly cited in debates over Apple to criticize the company’s reliance on low-cost Chinese labor, alleged worker abuses, and vulnerability to local disruptions (e.g., pandemic lockdowns) that have disrupted iPhone supply. Proponents counter that Apple’s operations in Zhengzhou bring massive jobs and regional investment, using the city to justify Apple’s economic integration with China and argue against rapid reshoring.",
+    "queries": [
+      "Is Apple’s reliance on Zhengzhou reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "zero-covid policy",
+    "wiki_title": "zero-covid",
+    "summary": "In discussions about Apple Inc., “zero‑COVID” is invoked to explain iPhone production slowdowns and retail disruptions in China and to bolster calls for Apple to diversify manufacturing away from China; critics use it to condemn Apple’s perceived accommodation or silence toward restrictive Chinese policies, while defenders argue compliance was necessary to protect employees and market access.",
+    "queries": [
+      "What consequences has the zero-covid policy brought for Apple?"
+    ]
+  },
+  {
+    "id": "C7-7-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "digital services act",
+    "wiki_title": "digital services act",
+    "summary": "The DSA is frequently invoked by critics to press Apple to make the App Store more transparent and open—arguing it should face stricter content-moderation accountability, recommender-system disclosure, and easier third‑party app distribution—while Apple and its supporters use DSA framings to defend its walled‑garden as necessary for user safety and privacy and to resist measures they say would undermine security or reward circumvention of platform rules.",
+    "queries": [
+      "Is the digital services act appropriate for Apple’s business model or not?"
+    ]
+  },
+  {
+    "id": "C7-7-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "usb-c mandate",
+    "wiki_title": "usb-c",
+    "summary": "USB‑C is often used as a proxy in arguments about Apple’s walled garden — critics claim Apple kept proprietary Lightning ports to lock customers into its accessory ecosystem and extract fees, while advocates and regulators point to Apple’s eventual USB‑C adoption as a win for interoperability, lower e‑waste, and consumer choice. At the same time defenders note Apple’s selective implementation (feature limits, cable confusion) frames the shift as a reluctant, partial concession that preserves company control and revenue streams.",
+    "queries": [
+      "How do people view the usb-c mandate for Apple devices?"
+    ]
+  },
+  {
+    "id": "C7-7-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "walled garden",
+    "wiki_title": "walled garden",
+    "summary": "Critics call Apple's ecosystem a 'walled garden' to argue that its tight control of hardware, iOS, and the App Store locks in users, stifles competition, and warrants antitrust, open‑app‑store, and interoperability remedies. Supporters (and Apple) use the same framing to justify restrictions as necessary for security, privacy, quality control, and a cohesive user experience.",
+    "queries": [
+      "Is Apple’s walled garden justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "app economy & platform policy",
+    "wiki_title": "platform economy",
+    "summary": "Critics use the platform-economy frame to cast Apple as a dominant gatekeeper whose control of the App Store, payment rails, and device APIs lets it extract rents, stifle competition, and harm developers and consumers—supporting calls for antitrust action, lower commissions, and alternative app distribution. Defenders invoke the same frame to justify Apple’s closed ecosystem as necessary for security, privacy, and quality control, arguing regulatory interference would weaken those consumer protections.",
+    "queries": [
+      "How do people view the app economy & platform policy at Apple?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "app store",
+    "wiki_title": "app store",
+    "summary": "The App Store is often invoked as evidence of Apple’s tight control over software distribution and monetization—used by supporters to justify its closed ecosystem as necessary for security, privacy, and a curated user experience. Critics and regulators use the App Store to argue Apple exerts anti-competitive gatekeeping through high commissions and restrictive rules, underpinning legal challenges and calls for greater platform openness and oversight.",
+    "queries": [
+      "How do people view Apple's app store practices?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "in-app purchases",
+    "wiki_title": "microtransaction",
+    "summary": "Microtransactions — and notably the 30% cut Apple requires on in‑app purchases — are a focal point in debates about Apple’s market power: critics say the policy extracts excessive rent, locks developers into the App Store, and spurred high‑profile litigation and calls for regulation, while Apple defends its IAP rules as necessary for security, fraud prevention, and funding the platform services that protect users (including children) from unsafe content and payments.",
+    "queries": [
+      "What consequences have Apple's policies on in-app purchases caused?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "epic games",
+    "wiki_title": "epic games",
+    "summary": "Epic Games is invoked as the high-profile challenger to Apple's App Store rules—using its Fortnite dispute and antitrust lawsuit to portray Apple as a monopolistic gatekeeper and to push for lower commissions, third‑party distribution, and alternative payment systems. Opponents counter that Epic sought special treatment and that its demands could weaken iOS security and user experience, so Epic is cited both to justify stronger antitrust regulation of Apple and to defend Apple’s curated ecosystem.",
+    "queries": [
+      "How do people view Epic Games’ dispute with Apple?"
+    ]
+  },
+  {
+    "id": "C8-2-2",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "fortnite",
+    "wiki_title": "fortnite",
+    "summary": "Fortnite and Epic’s legal battle with Apple are frequently invoked in public debates to criticize Apple’s App Store fees and walled-garden policies, used by opponents to argue for antitrust action, alternative payment options, and sideloading; proponents of Apple point to the case to justify strict App Store rules as necessary for security, privacy, and a consistent user experience.",
+    "queries": [
+      "How do people view fortnite's dispute with Apple?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "tim sweeney",
+    "wiki_title": "tim sweeney",
+    "summary": "Tim Sweeney frequently frames Apple as a monopolistic gatekeeper of the iOS ecosystem, using Epic’s legal fight and public commentary to attack App Store commissions, mandatory in‑app purchase rules, and restrictions on sideloading while pushing for developer rights and platform openness. Though sometimes criticized as self‑interested, his high‑profile campaign has shaped public and regulatory debates about antitrust, app distribution, and consumer choice related to Apple Inc.",
+    "queries": [
+      "Is tim sweeney’s criticism of Apple reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "anti-steering rules",
+    "wiki_title": "steering",
+    "summary": "In debates about Apple Inc., 'steering' is invoked by critics who argue Apple deliberately funnels users and developers to its own apps, defaults, and payment channels—using App Store policies, restrictive APIs, and default settings—to justify antitrust scrutiny and calls for regulation. Supporters and Apple itself frame the same practices as purposeful design choices that steer users toward greater privacy, security, and a cohesive experience, opposing interventions that would weaken platform control.",
+    "queries": [
+      "What consequences have Apple’s anti-steering rules produced?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "google play",
+    "wiki_title": "google play",
+    "summary": "Google Play is frequently invoked in debates about Apple to argue that the App Store’s closed distribution model, high commissions, and strict control over app distribution are anti‑competitive compared with Android’s broader app ecosystem and sideloading options; conversely, defenders of Apple point to Google Play’s repeated malware and security incidents to justify Apple’s tighter curation and stronger privacy/security controls.",
+    "queries": [
+      "Is Apple’s treatment of Google Play reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "digital markets act",
+    "wiki_title": "digital markets act",
+    "summary": "Proponents cite the DMA as a tool to dismantle Apple’s “walled garden” — forcing App Store openness, permitting sideloading/alternative stores, limiting self‑preferencing, and reining in commission and platform control to boost competition and consumer choice. Apple and sympathetic commentators counter that the DMA threatens device security, user privacy and the company’s integrated-ecosystem business model, framing the rules as heavy‑handed and risky for consumers and developers.",
+    "queries": [
+      "How do people view Apple Inc.'s digital markets act response?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "margrethe vestager",
+    "wiki_title": "margrethe vestager",
+    "summary": "Margrethe Vestager is often invoked as the face of EU regulatory pressure on Apple—her high‑profile enforcement actions and rhetoric on competition, state aid, and digital market fairness are cited to justify demands that Apple pay more tax, change App Store practices, or face structural remedies. Opponents portray her as an overreaching regulator threatening innovation and legal certainty, while supporters point to her as a necessary counterweight to Big Tech’s market power.",
+    "queries": [
+      "What effects has Margrethe Vestager’s enforcement had on Apple?"
+    ]
+  },
+  {
+    "id": "C8-3-7",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "third-party app stores",
+    "wiki_title": "list of android app stores",
+    "summary": "Lists of Android app stores are invoked in debates about Apple to highlight that alternative, non‑Apple app distribution ecosystems exist—supporting arguments that Apple’s App Store policies are monopolistic and that iOS users are denied choice and competition. Opponents counter by using the same comparisons to argue Apple’s tighter control yields better security and quality, framing calls to force open iOS distribution as risky or unnecessary.",
+    "queries": [
+      "How do people view third-party app stores on Apple devices?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sideloading",
+    "wiki_title": "sideloading",
+    "summary": "Sideloading figures in arguments about Apple as the focal point of accusations that Apple maintains a monopolistic ‘walled garden’ by blocking third‑party app distribution and App Store revenue, while Apple defends those restrictions as necessary for security, privacy, and device integrity; disputes over sideloading shape legal and regulatory debates about competition, consumer choice, and platform responsibility.",
+    "queries": [
+      "How do people view sideloading on Apple devices?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "altstore",
+    "wiki_title": "altstore",
+    "summary": "AltStore is cited by critics as a practical example of how Apple’s App Store restrictions and refusal to allow sideloading concentrate control and harm developer and user choice, shaping arguments for antitrust action and regulatory requirements to open iOS; defenders of Apple use concerns about security, piracy, and user safety tied to alternatives like AltStore to justify the company’s closed policies.",
+    "queries": [
+      "Is altstore’s role in iOS app distribution justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "antitrust investigations",
+    "wiki_title": "antitrust cases against google by the european union",
+    "summary": "EU antitrust cases against Google are often invoked by regulators, consumer advocates, and app-developer critics to argue Apple should face comparable scrutiny and be forced to open its App Store, lower fees, or allow sideloading. Conversely, Apple and its defenders point to differences in the Google rulings to portray enforcement as uneven or to defend its closed ecosystem as necessary for privacy and security, framing intervention as regulatory overreach.",
+    "queries": [
+      "How do people view antitrust investigations into Apple?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "spotify",
+    "wiki_title": "spotify",
+    "summary": "Spotify is frequently invoked as a high-profile complainant in debates over Apple’s App Store policies and alleged self-preferencing—using its antitrust complaints and public campaigns to portray Apple as a gatekeeper that extracts excessive fees, disadvantages competing services (like Spotify and other streaming apps), and therefore should face stricter regulation. Critics counter that Spotify seeks preferential treatment to avoid platform costs, so its stance is used both to justify tougher antitrust enforcement of Apple and to push for changes to app‑store rules and in‑app payment models.",
+    "queries": [
+      "Is Spotify's treatment by Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-8",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "korea fair trade commission",
+    "wiki_title": "fair trade commission",
+    "summary": "Fair trade commissions are often invoked in debates about Apple’s App Store and device-ecosystem policies, with their investigations, fines, and rulings used by critics to argue Apple wields monopoly power and to justify demands for open app distribution, lower commissions, or interoperability mandates. Apple and its defenders, in turn, frame such regulatory scrutiny as overreach that could jeopardize security, privacy, or user experience, using commission findings either to defend current rules or to argue against heavy-handed remedies.",
+    "queries": [
+      "How do people view korea fair trade commission's actions toward Apple?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "brand, culture and media",
+    "wiki_title": "brand",
+    "summary": "Apple’s brand is often invoked to justify its premium pricing, customer loyalty, and market power by framing its products as superior, secure, and design-driven—arguments used by supporters to defend its business model and investor value. Critics counter that that same prestige masks ecosystem lock‑in, labor and environmental problems, and tax or competition concerns, shaping calls for tougher antitrust, consumer‑protection, and corporate‑accountability policies.",
+    "queries": [
+      "What effects has Apple's brand, culture and media brought?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "jony ive",
+    "wiki_title": "jony ive",
+    "summary": "Jony Ive is invoked as the emblematic architect of Apple’s design-led identity, used to justify the company’s premium pricing, minimalist aesthetics, and tight hardware–software integration; critics cite his influence when arguing Apple prioritizes form over repairability, user choice, or practical function. After his exit, commentators frame subsequent design changes as evidence for or against the idea that a singular design auteur is central to Apple’s success and corporate culture.",
+    "queries": [
+      "Is Jony Ive's design legacy at Apple justified or not?"
+    ]
+  },
+  {
+    "id": "C9-2-2",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "marc newson",
+    "wiki_title": "marc newson",
+    "summary": "Supporters point to Marc Newson’s involvement with Apple to reinforce the view that Apple is a world‑class, design‑driven company whose minimalist, collectible aesthetics justify premium pricing and lifestyle appeal. Critics invoke him as emblematic of an elite, style‑over‑substance culture — using his role to argue Apple prioritizes curated appearance and market desirability over repairability, openness, or functional transparency.",
+    "queries": [
+      "What effects has Marc Newson’s Apple collaboration caused?"
+    ]
+  },
+  {
+    "id": "C9-2-3",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "lovefrom",
+    "wiki_title": "lovefrom",
+    "summary": "References to LoveFrom are often used to argue that Apple preserves its design identity by maintaining close ties with Jony Ive through an exclusive outside studio, supporting narratives that Apple remains design-driven and continuity-focused. Critics invoke the LoveFrom deal to frame Apple as dependent on celebrity designers and prone to cozy, expensive outsourcing that raises questions about governance, innovation independence, and corporate priorities.",
+    "queries": [
+      "Is Apple's relationship with lovefrom justified or not?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "minimalist design",
+    "wiki_title": "minimalism",
+    "summary": "Advocates use minimalism to frame Apple’s pared‑down industrial and interface design as evidence of thoughtful, user‑focused engineering and to justify premium pricing and product simplification. Critics counter that the same rhetoric masks anti‑consumer choices—removed ports, sealed hardware, and ecosystem lock‑in—arguing that ‘minimalism’ is deployed to sell convenience while reducing functionality and choice.",
+    "queries": [
+      "Is Apple's minimalist design reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "think different",
+    "wiki_title": "think different",
+    "summary": "The 'Think different' slogan is frequently used to cast Apple as a visionary, design-driven company whose closed ecosystem and premium pricing are framed as principled choices in service of creativity and quality; supporters cite it to justify Apple's culture and product decisions. Critics invoke the phrase to argue that Apple weaponizes a rebellious image to deflect scrutiny of elitism, anti-competitive behavior, or profit-first corporate tactics.",
+    "queries": [
+      "Is Apple's think different message still justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-2",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "lee clow",
+    "wiki_title": "lee clow",
+    "summary": "Lee Clow is invoked in discussions of Apple as the architect of the company’s cultural persona — proponents point to his ad work to argue Apple’s success springs from visionary brand storytelling that celebrates creativity and individuality, while critics use those same campaigns to argue the company’s image is carefully manufactured marketing that fosters cult-like loyalty and distracts from problematic corporate practices.",
+    "queries": [
+      "Is Lee Clow’s influence on Apple’s branding justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-3",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "tbwa chiat day",
+    "wiki_title": "tbwa\\chiat\\day",
+    "summary": "As Apple’s long-time ad agency, TBWA\\Chiat\\Day’s landmark campaigns are often cited to frame Apple as a rebellious, design-driven innovator and to justify its premium pricing, intense brand loyalty, and cultural leadership. Critics counter that those crafted narratives help manufacture cult-like consumer devotion and can be used to gloss over labor, privacy, or antitrust concerns, so the agency’s work both strengthens pro‑Apple attitudes and fuels skepticism in debates about corporate power and accountability.",
+    "queries": [
+      "Is tbwa chiat day’s Apple advertising approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-4",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "here's to the crazy ones",
+    "wiki_title": "the crazy ones",
+    "summary": "Apple's 'the crazy ones' trope—rooted in its 'Think Different' marketing—is often invoked to cast Apple as a visionary, free‑thinking innovator and to justify bold design choices, premium pricing, and centralized, charismatic leadership; critics use the same phrase to argue Apple cynically co‑opts outsider authenticity to deflect scrutiny, resist regulation, and legitimize its closed ecosystems.",
+    "queries": [
+      "What impact has here's to the crazy ones had on Apple?"
+    ]
+  },
+  {
+    "id": "C9-6-5",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "mahatma gandhi",
+    "wiki_title": "mahatma gandhi",
+    "summary": "Critics and activists frequently invoke Gandhi’s image of simple living, self-sufficiency, and moral governance to cast Apple as a symbol of excessive consumerism and corporate irresponsibility, using his legacy to justify boycotts, right-to-repair campaigns, and demands for cleaner supply chains, better labor practices, and fairer tax/local-manufacturing policies; Indian commentators also cite Gandhi to pressure Apple to align business conduct with national and social values.",
+    "queries": [
+      "How do people view mahatma gandhi being cited by Apple Inc.?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "advertising ethics",
+    "wiki_title": "marketing ethics",
+    "summary": "In public debates about Apple, marketing ethics is invoked to challenge whether the company’s premium branding, privacy claims, environmental commitments, and product-performance messages are truthful or manipulative—fueling accusations of greenwashing, planned obsolescence, and misleading advertising. Conversely, supporters use ethical marketing arguments to defend Apple’s premium pricing and privacy-first positioning and to argue against stricter advertising or product-regulation measures, while activists cite it to push policies like right-to-repair and stronger consumer-protection enforcement.",
+    "queries": [
+      "What consequences has Apple Inc.'s advertising ethics caused?"
+    ]
+  },
+  {
+    "id": "C9-3-7",
+    "parent": "C9",
+    "level": 3,
+    "topic": "yvonne gonzalez rogers",
+    "wiki_title": "yvonne gonzalez rogers",
+    "summary": "As the federal judge who decided high‑profile litigation over Apple’s App Store policies, Yvonne Gonzalez Rogers’ rulings are often cited in debates about whether Apple’s platform practices are anticompetitive; advocates for stricter oversight point to her findings that some App Store rules harmed competition, while Apple’s defenders emphasize her narrow remedies to argue against broad breakups or sweeping regulatory fixes.",
+    "queries": [
+      "Is yvonne gonzalez rogers’ handling of Apple Inc. cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-5",
+    "parent": "C9",
+    "level": 3,
+    "topic": "sweatshop allegations",
+    "wiki_title": "nike sweatshops",
+    "summary": "Critics invoke Nike’s sweatshop scandals as a cautionary precedent when attacking Apple’s reliance on low‑cost overseas suppliers, using it to argue Apple bears corporate responsibility for worker abuses and therefore needs stronger supply‑chain regulation, transparency, and enforceable labor standards. Supporters and some policymakers counter by pointing to Nike’s later reforms as evidence that audits, supplier codes, and corporate social‑responsibility measures can produce improvements without heavy-handed regulation, shaping debates over whether to prioritize voluntary corporate reform or binding legal oversight of tech supply chains.",
+    "queries": [
+      "What effects have the sweatshop allegations had on Apple’s image?"
+    ]
+  },
+  {
+    "id": "C9-7-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "mark gurman",
+    "wiki_title": "mark gurman",
+    "summary": "Mark Gurman's frequent Apple scoops and insider reporting are regularly cited to shape expectations about product roadmaps, supply‑chain issues, and corporate strategy, giving analysts and investors apparent evidence to support bullish or bearish positions. Critics use his leaks to argue Apple is secretive or struggling with engineering and leadership problems, while supporters lean on his details to validate confidence in upcoming hardware and services.",
+    "queries": [
+      "Is mark gurman's Apple reporting reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-7-5",
+    "parent": "C9",
+    "level": 3,
+    "topic": "macrumors",
+    "wiki_title": "macrumors",
+    "summary": "MacRumors is often used to build hype and justify consumer and investor confidence in Apple by circulating leaks, rumors, and product expectations that shape narratives about future devices and strategy. Its reporting and active forums also serve as a forum for critical scrutiny—documenting bugs, policy decisions, and anticompetitive concerns—so while it generally amplifies pro-Apple anticipation, it also provides evidence and social pressure for accountability when problems arise.",
+    "queries": [
+      "How do people view macrumors' reporting on Apple news?"
+    ]
+  },
+  {
+    "id": "C9-7-8",
+    "parent": "C9",
+    "level": 3,
+    "topic": "one more thing",
+    "wiki_title": "stevenote",
+    "summary": "Stevenotes are often invoked as emblematic proof of Apple's charismatic, product-centric marketing—used to bolster narratives that the company is visionary and tightly controlled by its leadership, while critics point to them as evidence of a personality-driven culture and theatrical showmanship that can mask internal issues. Commentators and investors also cite Stevenotes to justify bullish or bearish views on Apple's product roadmap and valuation, and to fuel debates over the firm's secrecy, corporate governance, and communication practices.",
+    "queries": [
+      "Is Apple’s one more thing strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "authorized service provider",
+    "wiki_title": "authorized service provider",
+    "summary": "Apple and its allies point to authorized service providers to justify tight control over repairs, arguing ASPs ensure security, quality and brand protection; critics and right‑to‑repair advocates counter that the ASP model is used to enforce exclusivity, suppress independent repair competition, and justify anti‑competitive policies that limit consumer choice.",
+    "queries": [
+      "Is relying on an authorized service provider reasonable for Apple repairs?"
+    ]
+  },
+  {
+    "id": "C9-4-7",
+    "parent": "C9",
+    "level": 3,
+    "topic": "mfi program",
+    "wiki_title": "mfi program",
+    "summary": "The MFi program is often invoked by critics as proof that Apple tightly controls and monetizes its accessory ecosystem—using certification, fees, and proprietary standards to limit third-party competition, raise prices, and reinforce device lock‑in in antitrust and consumer‑choice debates. Defenders point to MFi to justify Apple’s approach as a way to ensure accessory quality, interoperability, and user safety, framing the program as necessary stewardship rather than anti‑competitive gatekeeping.",
+    "queries": [
+      "How do people view Apple's mfi program?"
+    ]
+  }
+]

@@ -1,0 +1,1113 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "FC Barcelona",
+    "wiki_title": "FC Barcelona",
+    "summary": "FC Barcelona is often invoked as a symbol of Catalan identity and member-owned governance to justify arguments for regional pride, democratic control of clubs, and resistance to excessive commercialization; supporters appeal to its youth-development ethos and playing style to defend investment in academy-led, aesthetic football. Critics, however, use Barcelona’s political visibility, celebrity-era excesses and recent financial problems to argue for professionalization, stricter financial oversight, or that its cultural claims are overstated or politicized.",
+    "queries": [
+      "Is FC Barcelona's transfer strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "sporting performance",
+    "wiki_title": "sport",
+    "summary": "Advocates frame 'sport' as the normative basis for FC Barcelona's identity — arguing the club should prioritize La Masia youth development, an attractive attacking style, and sporting merit over commercial profit — to justify coaching, transfer and governance choices. Critics likewise deploy sporting criteria (results, style, adherence to financial fair play and competitive integrity) to condemn commercialization, board mismanagement, or the politicization of the club’s Catalan identity.",
+    "queries": [
+      "Is criticism of FC Barcelona's sporting performance reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "lionel messi",
+    "wiki_title": "lionel messi",
+    "summary": "Messi is invoked as the living symbol of Barça’s identity and success—supporters use his legacy to justify prioritising La Masia, possession-based football and brand investments—while critics point to his exit and its fallout as evidence of fiscal mismanagement, failed leadership and dangerous overreliance on a single superstar.",
+    "queries": [
+      "How do people view Lionel Messi's departure from Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "paris saint-germain",
+    "wiki_title": "paris saint-germain fc",
+    "summary": "PSG is invoked in debates about Barcelona as the prototypical example of state-backed, spend-heavy football: critics of Barça point to PSG to argue that without similar outside capital Barcelona cannot compete in Europe and should adapt its transfer and financial strategy, while defenders of Barça use PSG to denounce ‘buying success’ and to push for stronger financial regulation and protection of La Masia-style identity.",
+    "queries": [
+      "Is Paris Saint-Germain's transfer spending reasonable compared to FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "ballon d'or",
+    "wiki_title": "ballon d'or",
+    "summary": "Ballon d'Or outcomes—most notably Lionel Messi’s multiple wins while at Barcelona—are often invoked to validate Barça’s sporting project, La Masia youth development and high‑wage investment in marquee players, bolstering the club’s prestige and bargaining power in transfers and sponsorships. Conversely, a drought of winners or contentious awards is used to argue the club is in decline, mismanaged or overly reliant on individual stars, fueling debates over recruitment, coaching choices and the club’s identity.",
+    "queries": [
+      "What effects has the ballon d'or had on Barcelona's reputation?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "release clause",
+    "wiki_title": "buyout clause",
+    "summary": "Buyout clauses at FC Barcelona are often invoked in public debates as both a defensive tool and a symbol of the club’s market status—supporters say high clauses protect Barça from poaching and preserve its sporting project, while critics argue they enable blockbuster exits (e.g., Neymar) and can mask poor financial choices. They also fuel arguments about player autonomy versus club control and motivate calls for transfer regulation or tax changes to curb wealthy clubs’ ability to bypass negotiations.",
+    "queries": [
+      "Is FC Barcelona's release clause reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "xavi hernández",
+    "wiki_title": "xavi (singer)",
+    "summary": "On social media the American singer Xavi is often invoked in puns and memes with Xavi Hernández’s name, a tactic critics use to mock FC Barcelona’s decisions or managerial turmoil, while others point to his pop‑cultural crossover as shorthand for the club’s global brand reach and multicultural appeal.",
+    "queries": [
+      "How do fans view xavi hernández’s tactics at Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "pedri",
+    "wiki_title": "pedri",
+    "summary": "Pedri is often cited by supporters and club defenders as emblematic proof that Barcelona’s La Masia‑focused rebuild and possession‑based identity are paying off, used to justify prioritizing youth development over expensive external signings. Conversely, critics point to his injury history and heavy minutes to argue the club mishandles player welfare, lacks squad depth, and needs smarter rotation and transfer policies.",
+    "queries": [
+      "How do people view pedri's influence on FC Barcelona's midfield?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "frenkie de jong",
+    "wiki_title": "frenkie de jong",
+    "summary": "Frenkie de Jong is frequently invoked by supporters as evidence that Barcelona’s identity — a technically dominant, possession-based midfield built from smart signings — can still be maintained, while critics use his high transfer/salary cost and sporadic dips in form to argue the club has mismanaged finances and failed to construct a coherent midfield strategy under successive managers.",
+    "queries": [
+      "How do fans view frenkie de jong's performances?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "association football transfers",
+    "wiki_title": "list of most expensive association football transfers",
+    "summary": "Lists of the most expensive transfers are used to frame FC Barcelona as either a lucrative talent engine or a warning about reckless market behavior—supporters point to big sales as justification for reinvestment, while critics use the same records to argue the club pursued unsustainable, high-risk transfer policies. Consequently these lists are invoked in debates calling for tighter financial controls and governance reform at Barça or, conversely, to defend aggressive spending to stay competitive.",
+    "queries": [
+      "How do people view association football transfers at FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "el clásico",
+    "wiki_title": "el clásico (disambiguation)",
+    "summary": "References to El Clásico are often used to frame FC Barcelona as a cultural and political emblem — victories are presented as proof of Catalan pride and sporting superiority over Real Madrid, while matches are read as symbolic contests beyond sport. They also serve as a shorthand in public debates to justify or attack club policies (e.g., coaching changes, transfer strategy, commercialization vs. La Masia values) depending on whether results reinforce or undermine claims about Barça’s identity and competence.",
+    "queries": [
+      "How do FC Barcelona fans view el clásico?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "real madrid",
+    "wiki_title": "real madrid cf",
+    "summary": "Real Madrid is routinely invoked as FC Barcelona’s foil—used to praise or condemn Barça’s choices by contrasting Real’s star‑buying, results‑driven model with Barcelona’s academy/club‑member identity, shaping debates over transfers, finances and sporting direction. The rivalry also underpins political and cultural narratives (Madrid as Spanish establishment vs Barça as Catalan symbol), driving arguments about refereeing bias, league governance and calls for institutional reform.",
+    "queries": [
+      "Is real madrid's spending on transfers reasonable for FC Barcelona fans?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "cristiano ronaldo",
+    "wiki_title": "cristiano ronaldo",
+    "summary": "In debates about FC Barcelona, Cristiano Ronaldo is often used as the foil to argue that Barcelona's youth-driven, possession-first philosophy either failed to match Real Madrid's trophy-winning hunger—used by critics to justify more aggressive spending and managerial change—or conversely as evidence by defenders that Barça's collective identity is morally and aesthetically superior to Ronaldo's individualism. His dominance in the Madrid–Barcelona era is routinely cited to frame Barcelona's perceived decline, referee controversies, and transfer-policy failures, pushing opinions toward either short-term, star-focused solutions or renewed commitment to La Masia depending on the speaker.",
+    "queries": [
+      "How do fans view cristiano ronaldo linked to FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "santiago bernabéu stadium",
+    "wiki_title": "santiago bernabéu",
+    "summary": "References to Santiago Bernabéu frequently serve as shorthand for Real Madrid’s institutional power, wealth, and ties to the Spanish establishment in debates about FC Barcelona, framing Barça as either the Catalan underdog or an unequal rival. The name also appears in stadium- and modernization-comparisons (Bernabéu vs Camp Nou) and in accusations of favoritism or bias used to criticize perceived advantages given to Real over Barcelona.",
+    "queries": [
+      "Is FC Barcelona playing at santiago bernabéu stadium reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "florentino pérez",
+    "wiki_title": "florentino pérez",
+    "summary": "Florentino Pérez is invoked in debates about FC Barcelona as the archetypal rival — a symbol of Real Madrid’s big‑money, corporate leadership and alleged political influence — used by Barça supporters to criticize commercialization of Spanish football and to frame Barcelona as the defender of member‑run, Catalan identity. Opponents and neutral commentators likewise point to Pérez to argue that Barça has at times mirrored elite excesses, bolstering calls for stronger financial and governance reforms at the club and league level.",
+    "queries": [
+      "Is criticism of Florentino Pérez by Barcelona fans reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "var",
+    "wiki_title": "var",
+    "summary": "References to VAR frequently appear in debates about FC Barcelona as evidence in arguments over refereeing fairness, with fans and pundits using specific VAR decisions to claim the club has been either wronged by inconsistent technology or unfairly aided by it. These invocations support calls for greater transparency, standardized protocols, and accountability in Spanish and European officiating, while opponents use VAR controversies to criticize club players, management, or to allege institutional bias favoring rivals.",
+    "queries": [
+      "Are var decisions affecting FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "tiki-taka",
+    "wiki_title": "tiki-taka",
+    "summary": "Tiki-taka is often invoked to celebrate Barcelona’s identity and explain periods of dominance—fans and club-aligned commentators credit it with showcasing La Masia’s technical culture and guiding managerial choices during the club’s golden era. Critics, however, use the label to argue Barça became predictably possession-obsessed and tactically brittle, framing debates over the need for a more direct style, different signings, or managerial change.",
+    "queries": [
+      "How do people view tiki-taka in Barcelona’s recent tactics?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "johan cruyff",
+    "wiki_title": "johan cruyff",
+    "summary": "Cruyff is the ideological touchstone for arguments about Barça’s identity: supporters invoke his name to justify investing in La Masia, a possession-based attacking style and long-term sporting planning, while critics use his legacy to condemn short-term, commercial or transfer-driven policies and managerial departures from the so-called ‘Cruyffian’ philosophy.",
+    "queries": [
+      "Is Johan Cruyff’s influence on FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "spain national football team",
+    "wiki_title": "spain national football team",
+    "summary": "Commentators invoke the Spain national team to defend FC Barcelona’s La Masia-driven, possession-based model—pointing to Spain’s international success as proof that Barça’s youth development and tiki‑taka produce world‑class players—while critics use the same link to accuse Barça of benefiting from national‑team favoritism, overreliance on Spanish internationals, or to argue the club’s style is overrated when Spain underperforms. In political and cultural debates the Spain team’s prominence is also deployed either to challenge Barça’s role as a Catalan-symbol (emphasizing Spanish unity) or to highlight tensions between club loyalties and national representation.",
+    "queries": [
+      "Is Spain national football team selection fair for FC Barcelona players?"
+    ]
+  },
+  {
+    "id": "C1-5-8",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "2010 fifa world cup",
+    "wiki_title": "2010 fifa world cup",
+    "summary": "The 2010 FIFA World Cup is frequently cited as validation of FC Barcelona’s La Masia and possession-based ‘tiki-taka’ approach—Spain’s title, powered by Xavi, Iniesta and other Barça graduates, is used to argue that Barcelona’s youth policy and playing philosophy are a global blueprint. Critics counter that the tournament highlights how Barca hoards national talent and fuels debates over club-vs-country player burnout and scheduling priorities.",
+    "queries": [
+      "How do fans view the 2010 fifa world cup impact on Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "transfer market",
+    "wiki_title": "transfer market",
+    "summary": "References to the transfer market are central to debates about Barça’s direction—critics use costly failed signings and high net debt to blame club leadership and argue that poor transfer policy precipitated sporting decline and Messi’s exit. Supporters and club officials, conversely, invoke transfer constraints to justify austerity, a renewed focus on La Masia, and carefully targeted buys as the right path to restore competitiveness while meeting financial rules.",
+    "queries": [
+      "What consequences has the transfer market had for FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C1-3-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "fifa transfer ban",
+    "wiki_title": "fifa transfer matching system",
+    "summary": "The FIFA Transfer Matching System is frequently cited in public debates about FC Barcelona as the evidentiary touchstone for judging the legality and transparency of the club’s player deals—critics point to TMS records and past sanctions to argue Barcelona skirted youth-transfer rules and tax/registration norms, while defenders use TMS data to contest allegations and push for procedural clarity. It therefore features in broader arguments about imposing tougher oversight or leniency for elite clubs and reforming transfer governance.",
+    "queries": [
+      "How do fans view FIFA transfer ban affecting Barcelona?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "club governance",
+    "wiki_title": "governance",
+    "summary": "Arguments about FC Barcelona’s governance are frequently used to assign blame or defend leadership — critics cite opaque board decisions, fiscal mismanagement and concentrated presidential power (notably under Bartomeu) to demand greater socios oversight, transparency, and financial controls, while defenders argue stronger, centralized leadership is needed for sporting competitiveness. These governance frames steer debates over whether to preserve the club’s member-run identity or professionalize like a corporation, and shape policy stances on salary caps, debt restructuring, and accountability mechanisms.",
+    "queries": [
+      "Is FC Barcelona's club governance effective or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "club membership (socios)",
+    "wiki_title": "list of sports clubs by membership",
+    "summary": "The list is frequently cited to bolster FC Barcelona’s image as a democratically member-owned institution—supporters use its large membership to justify fan-first governance and resist privatization—while skeptics invoke the same list to argue that sheer numbers are symbolic and do not prevent governance failures, financial mismanagement, or the need for corporate-style reforms.",
+    "queries": [
+      "What effects has club membership (socios) had on FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "supporters' clubs",
+    "wiki_title": "supporters' group",
+    "summary": "Barcelona’s organized supporters shape public debates by framing the club as a civic and Catalan institution—using penyes and ultras to mobilize opposition to commercialization, board decisions, or player conduct and to demand policies that protect local identity and fan access. At the same time, critics invoke the violent or extreme fringes of these groups to justify calls for stronger policing, sanctions, and depoliticization of the stadium.",
+    "queries": [
+      "Are FC Barcelona supporters' clubs' actions justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "ernesto valverde",
+    "wiki_title": "ernesto valverde",
+    "summary": "Ernesto Valverde is often invoked in FC Barcelona debates as the archetype of pragmatic, stability-first management—used by defenders to justify steady La Liga results and cautious squad transitions—while critics cite his conservative tactics and high‑profile European failures to argue Barcelona has lost its attacking identity and needs bolder strategic change.",
+    "queries": [
+      "How do people view Ernesto Valverde’s tactics at FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "andrea agnelli",
+    "wiki_title": "andrea agnelli",
+    "summary": "Andrea Agnelli is often invoked in discussions about FC Barcelona as a leading architect of the European Super League, and his role is used to frame Barcelona’s leadership as either complicit in an elitist, commercial power grab that betrays supporters or as pragmatic actors seeking new revenue and autonomy. His association with governance controversies and club-level financial maneuvering is also used to criticize Barcelona’s alliances and decision-making during periods of financial strain.",
+    "queries": [
+      "Is Andrea Agnelli’s involvement with FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "uefa club licensing",
+    "wiki_title": "uefa coaching licences",
+    "summary": "Debates about UEFA coaching licences often surface when Barcelona promotes former players or hires outsiders—supporters of certified coaches cite UEFA Pro/A credentials as proof of tactical competence and professionalism, while defenders of club insiders argue that La Masia pedigree and Barcelona identity can outweigh formal certification. Critics leverage licence status to justify calls for more rigorous hiring standards or to argue that the club’s appointments are driven by sentiment rather than proven coaching qualifications.",
+    "queries": [
+      "Is UEFA club licensing for FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "covid-19 pandemic",
+    "wiki_title": "covid-19 pandemic",
+    "summary": "The pandemic is frequently invoked to explain and justify FC Barcelona’s revenue collapse—used by executives to defend wage cuts, player sales, transfer restraint and delays to the Espai Barça project—while opponents argue it was exploited as a convenient excuse for long-running mismanagement and lack of transparency. It also frames debates about player conduct and public-health responsibility, shaping whether fans favor austerity and structural reform or sympathy for short-term crisis measures.",
+    "queries": [
+      "What impacts did the covid-19 pandemic have on FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C2-8-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "homegrown player rule",
+    "wiki_title": "homegrown player rule",
+    "summary": "In debates about FC Barcelona, the homegrown player rule is frequently cited by supporters to justify La Masia‑first policies and to frame the club’s identity and youth promotion as principled, cost‑effective strategy; critics, however, invoke the rule to argue it’s sometimes used as an excuse for poor transfer policy or financial mismanagement and to question whether leaning on academy graduates conceals deeper structural problems.",
+    "queries": [
+      "What impact has the homegrown player rule had on Barcelona's squad?"
+    ]
+  },
+  {
+    "id": "C2-8-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "mundo deportivo",
+    "wiki_title": "mundo deportivo",
+    "summary": "Mundo Deportivo is often used in public debates to promote pro‑Barça narratives—defending club leadership, emphasizing Catalan identity, and legitimizing transfer or managerial choices—while its columns and headlines also mobilize criticism of rivals (especially Real Madrid) and of board decisions when aligned with particular club factions. Its tone and editorial choices therefore help steer fan opinion on sporting strategy, financial policy, and governance controversies surrounding FC Barcelona.",
+    "queries": [
+      "Is mundo deportivo’s coverage of FC Barcelona fair or sensationalist?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "mossos d'esquadra",
+    "wiki_title": "mossos d'esquadra",
+    "summary": "In debates about FC Barcelona, the Mossos d'Esquadra are often invoked as the on-the-ground enforcers whose match-day policing or responses to protests around the club are used to argue about public order, fan safety, and the club's place in Catalan politics. Critics point to Mossos actions to condemn alleged heavy-handedness or political bias against Barça supporters (especially around independence-related demonstrations), while proponents cite their interventions to justify stronger security and stadium control.",
+    "queries": [
+      "Is reliance on mossos d'esquadra for Barça security reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "catalan identity",
+    "wiki_title": "cassini and catalan identities",
+    "summary": "Although these Fibonacci identities have no direct bearing on football, they occasionally surface as a playful or analytic metaphor among data-minded Barça fans and pundits to suggest recurring patterns in player development, scoring runs, or transfer cycles—used to argue for tactical continuity or to lampoon sweeping managerial changes. In practice they function more as niche rhetoric or intellectual flourish in debates about FC Barcelona strategy than as substantive evidence guiding club policy.",
+    "queries": [
+      "Is catalan identity at FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "catalan independence movement",
+    "wiki_title": "catalan independence movement",
+    "summary": "Supporters of Catalan independence portray FC Barcelona as a flagship of Catalan nationhood whose stadium, players and leadership can legitimate calls for recognition—celebrating pro-independence banners, solidarity events and political statements as rightful expressions of culture and self-determination. Critics invoke the independence movement to accuse the club of politicizing sport, pressuring it toward official neutrality or punishment, and to justify legal, commercial or public backlash when Barça appears to side with separatist positions.",
+    "queries": [
+      "What effects has the catalan independence movement had on FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "carles puigdemont",
+    "wiki_title": "carles puigdemont",
+    "summary": "As a prominent Catalan independence leader in exile, Carles Puigdemont is invoked in arguments over whether FC Barcelona should act as a political symbol of Catalonia; supporters cite him to justify the club’s defense of Catalan identity and pressure it toward pro‑self‑determination stances, while opponents use his association to criticize Barça as overly politicized and a liability for its global image and governance neutrality.",
+    "queries": [
+      "How do FC Barcelona fans view Carles Puigdemont?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "article 155",
+    "wiki_title": "article 155 of the constitution of spain",
+    "summary": "Article 155 is cited in debates around FC Barcelona to argue that the Spanish state has the legal power to intervene in Catalonia to restrain separatist influence that critics claim affects the club’s identity and conduct. Supporters of Barça cast threats of 155 as an assault on the club’s Catalan cultural role and autonomy, whereas opponents invoke it to justify legal oversight and to frame the club as subject to national authority rather than a political emblem.",
+    "queries": [
+      "Is article 155's impact on FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "estelada",
+    "wiki_title": "estelada",
+    "summary": "The estelada is frequently displayed by fans and activists at FC Barcelona matches to cast the club as a symbol of Catalan nationhood and to pressure its leadership to endorse or legitimize pro‑independence positions; opponents use its presence to accuse Barça of improper politicization, argue for neutrality or restrictions, and to justify criticism of the club’s relationships with sponsors, league authorities, and the Spanish state.",
+    "queries": [
+      "How do fans view the estelada at FC Barcelona events?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "2017 catalan independence referendum",
+    "wiki_title": "2017 catalan independence referendum",
+    "summary": "The 2017 Catalan independence referendum is often invoked to argue that FC Barcelona is a de facto symbol of Catalan identity and therefore ought to support independence, while opponents use the same event to criticize the club for politicizing football and to argue it should stay neutral to avoid alienating Spanish fans, sponsors, and authorities.",
+    "queries": [
+      "Was the 2017 catalan independence referendum justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "camp nou",
+    "wiki_title": "camp nou",
+    "summary": "Camp Nou is often invoked as a symbol of Barça’s global prestige and Catalan identity to justify ambitious expansion, branding and investment strategies. Critics counter by pointing to its costly renovations and commercial naming-rights deals to argue the club has prioritized corporate revenue over financial prudence and local heritage.",
+    "queries": [
+      "Is Camp Nou renovation for FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "diada",
+    "wiki_title": "national day of catalonia",
+    "summary": "On the Diada, Barça is often framed by supporters as a living emblem of Catalan nationhood — public displays tied to the holiday are used to justify the club’s cultural-political role and occasional pro‑independence stances. Opponents cite those same Diada-linked gestures to criticize Barça as improperly politicized, arguing for neutrality to avoid alienating non‑Catalan fans, sponsors, or governing bodies.",
+    "queries": [
+      "Is FC Barcelona's association with the diada reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "senyera",
+    "wiki_title": "senyera",
+    "summary": "Supporters and club imagery use the senyera to cast FC Barcelona as a guardian of Catalan identity and political aspirations, legitimizing pro-autonomy/independence narratives, language-rights claims, and public protest. Critics and Spanish-unionist commentators counter that its display politicizes the club, arguing Barça should avoid partisan symbols and face restrictions or sanctions for overt nationalism.",
+    "queries": [
+      "How do people view the senyera’s use by FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "tv3",
+    "wiki_title": "channel 3",
+    "summary": "In debates about FC Barcelona, Channel 3 (TV3) is often invoked as a media actor that frames the club as a core symbol of Catalan identity—highlighting players’ political expressions, club statements, and clashes with Spanish authorities in a sympathetic, pro‑Catalan light. Opponents point to TV3’s coverage as evidence the club is politicized and argue the broadcaster amplifies nationalist narratives, while defenders say it rightly foregrounds Barça’s cultural and civic role.",
+    "queries": [
+      "What effects has tv3 had on FC Barcelona’s public perception?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "joan laporta",
+    "wiki_title": "joan laporta",
+    "summary": "Supporters invoke Joan Laporta as the charismatic president who restored Barça’s sporting ambition and asserted its Catalan identity through bold signings and commercial initiatives. Critics use him to argue that his political activism, personalist leadership and risky financial choices exacerbated debt and governance problems, making him a central figure in debates over commercialization, independence and club reform.",
+    "queries": [
+      "How do people view joan laporta’s decisions at FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "2021 presidential election",
+    "wiki_title": "2021 portuguese presidential election",
+    "summary": "The 2021 Portuguese presidential election is sometimes invoked in debates about FC Barcelona to illustrate how foreign national politics and diaspora networks can shape the club’s recruitment, fan outreach, and public image; proponents of international engagement point to Portugal’s political visibility as bolstering Barça’s ties to Portuguese players and supporters, while critics use it to argue the club should avoid foreign political alignments and reassert its Catalan identity.",
+    "queries": [
+      "Was FC Barcelona's 2021 presidential election result justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "la masia",
+    "wiki_title": "la masia",
+    "summary": "La Masia is deployed as a moral and identity touchstone in debates about FC Barcelona—invoked to praise periods when the club prioritized homegrown talent and possession-based football and to lambaste administrations that leaned on expensive signings or short-term fixes. It also frames policy arguments about sustainability and governance, with supporters urging renewed investment in the academy and critics blaming its neglect for sporting and financial decline.",
+    "queries": [
+      "Is prioritizing la masia graduates justified in Barcelona’s transfer strategy?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "andrés iniesta",
+    "wiki_title": "andrés iniesta",
+    "summary": "Iniesta is often invoked as the quintessential product of Barça’s La Masia and tiki‑taka era, used to defend the club’s youth‑first, possession‑based identity and to justify nostalgia for its Guardiola‑era dominance. His departure and the inability to retain such homegrown leaders are likewise cited to criticize recent sporting and financial mismanagement, framing debates about whether Barcelona has abandoned its traditional values.",
+    "queries": [
+      "How do fans view andrés iniesta’s influence on FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "pep guardiola",
+    "wiki_title": "pep guardiola",
+    "summary": "Pep Guardiola is frequently invoked as the embodiment of Barça’s sporting ideal—used by supporters and pundits to argue the club should prioritize La Masia, possession-based football and long-term sporting planning—and by critics to measure failures, blaming post-Guardiola decline on poor leadership, financial mismanagement, or arguing his model is either the only authentic path back to success or an outdated luxury in modern football.",
+    "queries": [
+      "Is pep guardiola's managerial style reasonable for Barcelona now?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "cantera (football)",
+    "wiki_title": "cantera",
+    "summary": "Barça’s cantera—most prominently La Masia—is often deployed as proof of the club’s identity and sporting legitimacy, used by supporters to justify prioritizing youth development, Catalan roots, and a sustainable, academy-first transfer policy. Critics counter that recent buying binges, mismanagement, or loss of academy graduates show the club has abandoned its cantera, using that claim to demand governance reforms, tighter spending and renewed investment in homegrown talent.",
+    "queries": [
+      "How do fans view FC Barcelona's cantera today?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "catalan language",
+    "wiki_title": "catalan language",
+    "summary": "The Catalan language is frequently used to frame FC Barcelona as more than a football club — a cultural and political emblem of Catalan identity and autonomy — with the club’s use of Catalan in anthems, communications and symbolism cited to justify pro-Catalan stances and cultural preservation. Opponents use the same linguistic emphasis to criticize the club for politicizing sport, arguing it can exclude Spanish- or non-Catalan-speaking supporters and harm the club’s image or inclusivity.",
+    "queries": [
+      "Is FC Barcelona promoting the catalan language reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3",
+    "level": 3,
+    "topic": "catalan nationalism",
+    "wiki_title": "catalan nationalism",
+    "summary": "Catalan nationalism casts FC Barcelona as a central symbol of Catalan identity and self-determination, legitimizing fan and political demands for pro‑Catalan gestures, use of the Catalan language, and public support for independence. It is also invoked to criticize the club when it stays neutral or pursues commercial deals, driving debates over flags, player activism, sponsorships and whether Barça should prioritize politics or sporting/commercial interests.",
+    "queries": [
+      "Is FC Barcelona's link to catalan nationalism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "joan gamper",
+    "wiki_title": "joan gamper",
+    "summary": "Joan Gamper is routinely invoked as the club’s founding symbol to argue that FC Barcelona should remain a member-owned, community-focused and Catalan-rooted institution—used by fans and activists to justify prioritizing youth development, social projects, and resistance to privatization or excessive commercialization. Critics counter that appeals to Gamper can be deployed to defensively block necessary professional or financial reforms or to lend historical legitimacy to contemporary political stances.",
+    "queries": [
+      "Is honoring joan gamper in FC Barcelona venues reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "cant del barça",
+    "wiki_title": "cant del barça",
+    "summary": "The cant del Barça is frequently invoked in public debates to underline FC Barcelona’s identity as a symbol of Catalan culture and political solidarity, used by supporters and club defenders to justify the club’s cultural autonomy and principled stances. Critics, meanwhile, point to its prominence as evidence that the club is overly politicized or exclusionary to non‑Catalan fans, or that Catalan identity has been leveraged for branding and political messaging.",
+    "queries": [
+      "What role has cant del barça played in club identity?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and regulatory issues",
+    "wiki_title": "regulation",
+    "summary": "Arguments about regulation around FC Barcelona typically revolve around LaLiga, UEFA and Spanish financial rules (salary caps, club licensing, FFP and transfer/registration limits): critics invoke these rules to justify sanctions or to blame club leaders for fiscal mismanagement, while defenders argue inconsistencies or political bias in enforcement and call for regulatory reform to protect the member-owned, socio-driven model. Regulation is also cited in debates over youth recruitment, third‑party influence and broadcast/competition governance to frame policy positions on transparency, competitive balance and the club’s autonomy.",
+    "queries": [
+      "What consequences have FC Barcelona’s legal and regulatory issues caused?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "financial fair play",
+    "wiki_title": "uefa financial fair play regulations",
+    "summary": "UEFA financial fair play rules are frequently invoked in debates about FC Barcelona to condemn the club's heavy spending and mounting debt, justifying calls for salary cuts, player sales, and governance reform; proponents use FFP to argue the club's decline reflects mismanagement. Opponents counter that enforcement is uneven and that FFP can be used to constrain historic clubs' competitiveness, framing the rules as a blunt instrument rather than a solution.",
+    "queries": [
+      "How do supporters view financial fair play at FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C5-1-2",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "la liga",
+    "wiki_title": "la liga",
+    "summary": "Debates about La Liga are often used to frame Barcelona’s fortunes as the product of league rules and governance—critics and club officials point to La Liga’s TV‑revenue distribution, salary‑cap enforcement and regulatory oversight to justify Barca’s forced sales and financial austerity rather than purely sporting failure. At the same time fans on both sides invoke La Liga—citing refereeing, historical favoritism, or the league’s prestige—to either criticize perceived institutional bias against or defend the club’s continued elite status.",
+    "queries": [
+      "Is FC Barcelona's participation in la liga still justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "deloitte football money league",
+    "wiki_title": "deloitte football money league",
+    "summary": "Deloitte’s Money League is routinely invoked to argue that Barcelona’s commercial clout legitimizes big transfer spending, high wages, and its global-brand strategy, or conversely to tout the club’s success when it ranks highly. Drops or declines in Barcelona’s position are equally used as evidence of financial mismanagement and to justify calls for austerity, governance reform, or changes to the club’s commercial and wage policies.",
+    "queries": [
+      "What impact has deloitte football money league had on Barcelona's image?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "la liga salary cap",
+    "wiki_title": "salary cap",
+    "summary": "LaLiga’s salary-cap regime is invoked constantly in debates about Barça’s crisis: officials and pundits use it to justify wage cuts, player sales and the inability to re-sign stars (notably Messi), while critics argue the cap exposes prior board mismanagement rather than being an impartial constraint. Supporters of strict caps say they enforce fiscal responsibility and force Barça back toward La Masia and sustainable budgeting, whereas opponents claim the rules can be applied unevenly and unfairly limit a historic club’s competitiveness.",
+    "queries": [
+      "Is la liga salary cap fair for FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C5-2-1",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "javier tebas",
+    "wiki_title": "javier tebas",
+    "summary": "As LaLiga president, Javier Tebas is often cited in debates over FC Barcelona to justify strict financial controls—his public enforcement of salary caps and criticism of Barca’s accounting is used to argue that the club’s leadership caused its crisis and must accept austerity. Conversely, Barça supporters and some commentators frame Tebas as a hostile regulator who blocks the club’s transfer and commercial plans, using his interventions to criticize LaLiga’s authority and limits on club autonomy.",
+    "queries": [
+      "Are javier tebas' policies toward FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "economic levers",
+    "wiki_title": "new economic system",
+    "summary": "In debates about FC Barcelona, advocates invoke a “new economic system” to argue the club should shift from market-driven, debt-fueled growth toward cooperative, member-centered finance—prioritizing democratic ownership, wage restraint, revenue-sharing and community value to solve the club’s debt crisis and protect its Catalan identity. Opponents use the same framing to criticize such proposals as idealistic or competitive handicaps, arguing they would deter private investment and weaken Barça’s ability to compete at the top level.",
+    "queries": [
+      "What impacts have the economic levers at FC Barcelona caused?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "neymar transfer",
+    "wiki_title": "neymar",
+    "summary": "Neymar’s high‑profile sale from Barcelona to PSG is repeatedly cited in discussions about the club’s transfer strategy and financial stewardship—used to argue that Barcelona either fell victim to richer clubs poaching talent or was itself negligent in retaining and integrating world‑class players. His departure and the breakup of the MSN trio are invoked to justify calls for stronger player‑retention policies, heavier investment in La Masia and long‑term sporting planning, or, conversely, to criticize the club’s governance and loss of identity.",
+    "queries": [
+      "How do supporters view the neymar transfer involving FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "barçagate",
+    "wiki_title": "barçagate",
+    "summary": "Barçagate is invoked by critics to portray the Bartomeu-era leadership as manipulative and ethically compromised, strengthening calls for transparency, governance reform, and leadership change at FC Barcelona; defenders use competing narratives that it was routine reputation management or media-driven, so the scandal primarily fuels polarized debates over the club’s integrity and who should control its future.",
+    "queries": [
+      "What consequences has barçagate produced for FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "astroturfing",
+    "wiki_title": "astroturfing",
+    "summary": "Astroturfing is invoked in debates about FC Barcelona to allege coordinated, paid campaigns that manufacture visible support for presidents, transfers, sponsorships or board decisions—helping pro-management narratives and legitimizing controversial moves. Conversely, accusations of astroturfing are also used by club loyalists to dismiss genuine fan criticism as inauthentic, shaping perceptions of who truly represents Barça’s supporters and influencing views on club governance and elections.",
+    "queries": [
+      "What consequences has FC Barcelona's astroturfing caused?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "el país",
+    "wiki_title": "el país",
+    "summary": "El País frames FC Barcelona as both a sporting and political institution, routinely scrutinizing its governance and finances and publishing investigative criticism of mismanagement (e.g., the Bartomeu era) while calling for greater transparency and fiscal responsibility. Writing from a national, Madrid-based perspective, it often downplays separatist rhetoric and emphasizes legal and institutional accountability when the club is invoked in debates about Catalan identity or public policy.",
+    "queries": [
+      "Is el país’s coverage of FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "motion of no confidence",
+    "wiki_title": "motion of no confidence",
+    "summary": "At FC Barcelona, motions of no confidence are wielded by opposing socios and activist groups to challenge presidents or boards, framing disputes about financial mismanagement, transparency, and sporting decline as justification for leadership change. Supporters present them as democratic accountability and a route to reform, while opponents portray them as factional, destabilizing, or personally motivated attacks that threaten short‑term stability.",
+    "queries": [
+      "What consequences could a motion of no confidence bring?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "josep maria bartomeu",
+    "wiki_title": "josep maria bartomeu",
+    "summary": "As the embattled former president, Bartomeu is often invoked by critics as the exemplar of mismanagement—blamed for risky transfers, rising debt, the 'Barçagate' smear scandal and conditions that contributed to Messi’s departure—and used to argue for greater transparency, fan control and institutional reform at FC Barcelona. Defenders point to his commercial deals and efforts to modernize revenue streams to justify controversial decisions, framing them as attempts to professionalize the club.",
+    "queries": [
+      "How do people view decisions by josep maria bartomeu for FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "fan culture and activism",
+    "wiki_title": "fan activism",
+    "summary": "Fan activism around FC Barcelona often frames the club as a civic and Catalan institution, mobilizing supporters to demand board accountability, oppose commercialization (e.g., Super League moves and controversial sponsorships), and defend grassroots values, using protests and social campaigns to justify calls for greater club democracy and transparency. It also serves to criticize the club when it appears politically opportunistic or detached from local community interests, shaping public debates about Barça’s identity, governance, and role in broader social causes.",
+    "queries": [
+      "How do people view fan culture and activism at FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "socios",
+    "wiki_title": "socios.com",
+    "summary": "In discussions about FC Barcelona, socios.com-sponsored fan-token deals are often cited by supporters as a modern revenue and engagement tool that opens new income streams and globalizes supporter participation. Critics use the same deals to argue Barcelona is being over-commercialized and to accuse club leadership of prioritizing speculative crypto partnerships that commodify fans, risk their finances, and sidestep traditional member governance amid the club's broader financial crisis.",
+    "queries": [
+      "Are FC Barcelona socios voting rights justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-1",
+    "parent": "C6",
+    "level": 3,
+    "topic": "football hooliganism",
+    "wiki_title": "football hooliganism",
+    "summary": "Allegations or incidents of football hooliganism linked to FC Barcelona are often invoked to attack the club’s reputation and fan culture, framing it as tolerant of violence or politically extreme supporters; defenders counter by emphasizing the club’s anti-violence stances and the need for stronger policing and stadium security, shaping debates over governance, law enforcement, and public image.",
+    "queries": [
+      "What consequences has football hooliganism caused for FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C6-1-2",
+    "parent": "C6",
+    "level": 3,
+    "topic": "ultras (association football)",
+    "wiki_title": "ultras",
+    "summary": "Barcelona’s ultras—most notably the Boixos Nois—are deployed in public debates either to romanticize Barça as a passionate, anti‑commercial symbol of Catalan popular identity or to condemn the club for tolerating a violent, politically extreme fringe; fans and critics use them to argue opposite narratives about what the club stands for. Those controversies drive calls for stricter security, membership and ticketing reforms and for clearer club policies on political displays and bans on abusive supporters.",
+    "queries": [
+      "What effects have FC Barcelona ultras had on club atmosphere?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "spanish national police",
+    "wiki_title": "national police",
+    "summary": "National police actions — especially Spanish forces deployed at matches and during the Catalan independence crisis — are invoked to frame FC Barcelona either as a symbol of Catalan resistance subject to state repression (cited after incidents like the 2017 referendum) or as an institution that must balance security cooperation with defending supporters; critics use police clashes to demand the club take a political stance and condemn brutality, while others point to policing to justify stricter stadium security and limits on fan conduct.",
+    "queries": [
+      "Is spanish national police presence at matches reasonable or excessive?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "rcd espanyol",
+    "wiki_title": "rcd espanyol",
+    "summary": "Espanyol is routinely used as Barcelona’s local foil in public debates—invoked to challenge Barça’s claim to speak for Catalonia and to criticize its political activism, commercial dominance, or perceived municipal favoritism; conversely, Espanyol’s more unionist/apolitical image is cited by critics who argue Barça should be less political and more locally grounded.",
+    "queries": [
+      "How do people view rcd espanyol's treatment by FC Barcelona fans?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "judicial investigation",
+    "wiki_title": "judicial investigation department",
+    "summary": "When probing alleged misdeeds at FC Barcelona (e.g., transfers, taxes or executive conduct), judicial investigation departments are invoked by critics as evidence that the club needs legal accountability, transparency and governance reform; conversely, club insiders and supporters often frame such investigations as politically motivated or overzealous, using them to resist structural change or rally sympathy for the club.",
+    "queries": [
+      "Is the judicial investigation into FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "twitter bots",
+    "wiki_title": "twitter bot",
+    "summary": "Twitter bots are deployed around FC Barcelona to amplify chosen narratives—promoting pro‑club messages (hype for transfers, defending management or players) or pushing negative spin (smears, fake polls) to discredit rivals or critics. By manufacturing apparent consensus and drowning dissent, these bots skew fan sentiment, media attention, and debates around club governance and elections.",
+    "queries": [
+      "Is FC Barcelona's use of twitter bots reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "club elections",
+    "wiki_title": "key club",
+    "summary": "Mentions of Key Club are often invoked by supporters to bolster narratives that FC Barcelona prioritizes youth development and community service—reinforcing its 'més que un club' image—while skeptics use such associations to argue these partnerships are token PR that distract from issues like commercialization, governance, or shortcomings in youth-academy policies.",
+    "queries": [
+      "Is the club elections process at FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "sandro rosell",
+    "wiki_title": "sandro rosell",
+    "summary": "Sandro Rosell is often invoked in debates about FC Barcelona as a symbol of the club’s turn toward aggressive commercialisation and centralized, personality-driven leadership—praised by some for boosting revenue and global profile but criticized by others as epitomizing opaque governance and corruption (notably around transfer and broadcast deals), fueling calls for greater transparency and member-led reforms.",
+    "queries": [
+      "Is Sandro Rosell's leadership at FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "international relations and diplomacy",
+    "wiki_title": "diplomacy",
+    "summary": "Diplomacy is invoked to cast FC Barcelona as an instrument of Catalan soft power—through state-backed visits, international tours and club-led cultural outreach that present Barça as an ambassador and help win political, commercial and regulatory support abroad. Supporters cite this to justify close engagement with governments and federations, while critics argue it politicizes the club, hides commercial motives and can be used to lobby for preferential treatment or avoid accountability.",
+    "queries": [
+      "What effects has FC Barcelona’s international relations and diplomacy produced?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "government of spain",
+    "wiki_title": "government of spain",
+    "summary": "The Spanish government is often invoked in debates about FC Barcelona as the authority that polices the club’s political expression and national identity—critics use government bans on pro‑independence displays and policing at the Camp Nou to argue state repression of Catalanism, while defenders point to legal neutrality requirements. It also features in arguments about fairness and accountability—tax probes, stadium approvals, and historic claims of central‑state favoritism toward Real Madrid are cited to argue either that Barça is being targeted or that the state must enforce equal legal and financial rules.",
+    "queries": [
+      "Are the government of spain's policies affecting FC Barcelona justified?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "pedro sánchez",
+    "wiki_title": "pedro sánchez",
+    "summary": "Pedro Sánchez is invoked in discussions about FC Barcelona as the embodiment of the Spanish central government's stance—unionist voices use his endorsements to portray Barça as part of Spain, while pro‑Catalan critics point to his actions or policies as evidence of state interference or neglect. Debates about taxation, stadium approvals, and Catalonia‑related politics under his administration are frequently cited to justify criticisms or defenses of the club’s finances, governance, and political symbolism.",
+    "queries": [
+      "How do people view pedro sánchez's comments about FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C8-2-4",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "guardia civil",
+    "wiki_title": "civil guard (spain)",
+    "summary": "Spain's Civil Guard is invoked in discussions of FC Barcelona as the visible instrument of state authority—its interventions in investigations, stadium security or public-order incidents are framed by critics as evidence the club and Catalan identity are being politicized or repressed, while supporters of the state's actions use Civil Guard involvement to justify rule-of-law measures, anti-corruption enforcement, and the need for the club to comply with Spanish legal and administrative norms.",
+    "queries": [
+      "Is guardia civil involvement with FC Barcelona appropriate or not?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "spanish tax agency",
+    "wiki_title": "spanish tax agency",
+    "summary": "The Spanish tax agency is often cited in discussions of FC Barcelona when tax probes, fines, or prosecutions of the club and its players are used as evidence of financial mismanagement and the need for stricter oversight. Its involvement is deployed both to justify punitive measures and reforms by critics and to allege selective enforcement or political targeting by defenders, shaping calls for transparency or defense of the club depending on the argument.",
+    "queries": [
+      "Are investigations by the spanish tax agency justified or excessive?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "spanish constitutional court",
+    "wiki_title": "constitutional court",
+    "summary": "Spain’s Constitutional Court is invoked in debates over FC Barcelona when rulings on Catalan autonomy, public funding, or club statutes are used to validate or challenge the club’s political and cultural role; supporters treat favorable rulings as legal backing for Barça’s Catalan identity, while critics cite court enforcement of national law to argue the club must curb political activism and comply with Spain’s legal framework.",
+    "queries": [
+      "How do people view the spanish constitutional court's rulings affecting FC Barcelona?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "european super league",
+    "wiki_title": "european super league",
+    "summary": "The European Super League is invoked in debates about FC Barcelona to accuse the club’s leadership of favouring commercial, elite-driven solutions over its social and sporting traditions—fueling fan distrust and protests—while defenders use it to justify aggressive revenue-seeking and governance reforms as necessary to keep Barça competitive domestically and in Europe.",
+    "queries": [
+      "Is FC Barcelona joining the european super league reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-4",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "laliga",
+    "wiki_title": "laliga+",
+    "summary": "LaLiga+ is often invoked in debates about FC Barcelona as evidence of the commercialization and centralization of Spanish football—supporters say it expands Barça’s global reach and revenue through league-wide streaming, while critics argue it concentrates media income, limits the club’s control over its own rights, and can price out local supporters.",
+    "queries": [
+      "What effects has laliga had on FC Barcelona’s competitiveness?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "qatar",
+    "wiki_title": "qatar",
+    "summary": "Qatar is frequently invoked in arguments about FC Barcelona as the symbol of Gulf money and 'sportswashing'—critics accuse the club of selling its identity and ignoring human-rights concerns by taking Qatari-backed sponsorship and commercial ties, while defenders argue the revenue was necessary to compete and cover mounting debts. This debate feeds calls for stricter ethical-sponsorship rules, greater financial transparency at Barça, and resistance to state-backed wealth distorting football competition.",
+    "queries": [
+      "Is FC Barcelona’s relationship with Qatar justified or not?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "2022 fifa world cup",
+    "wiki_title": "2022 fifa world cup",
+    "summary": "The 2022 World Cup is often invoked to criticize Barcelona’s past commercial ties to Qatari entities, reopening debates that the club put profit over human-rights concerns and should adopt stricter ethical sponsorship rules. It also shapes sporting arguments—Messi’s tournament legacy is used to argue whether Barça failed to preserve a post‑Messi identity, while the tournament’s timing, player injuries and standout performances feed debates about squad depth, player welfare and transfer priorities.",
+    "queries": [
+      "Is the 2022 fifa world cup scheduling reasonable for Barcelona players?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "nasser al-khelaifi",
+    "wiki_title": "nasser al-khelaifi",
+    "summary": "Nasser al‑Khelaifi is often invoked in debates about FC Barcelona as the archetype of the Qatari‑backed, big‑spending rival whose financial clout (PSG/beIN associations) is blamed for poaching Barça’s stars and distorting competitive balance, fueling calls for stricter financial rules and governance reform. Supporters of heavy investment point to him as a model for rebuilding a top club, while critics use him to argue that Barcelona must resist commercialization and fix internal management instead of competing solely on cash.",
+    "queries": [
+      "Is Nasser al-Khelaifi’s involvement with FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-7",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "migrant workers' rights",
+    "wiki_title": "migrant worker",
+    "summary": "References to migrant workers are often used to criticize FC Barcelona for profiting from the cross‑border movement of labor—whether in controversy over recruitment and welfare of young foreign players or the treatment of low‑paid construction and service workers on projects like Camp Nou—prompting calls for stronger protections and transparency. Supporters and club spokespeople counter that the presence of migrant workers reflects Barcelona’s global reach and inclusive recruitment, using the term to argue for measured reform rather than moral condemnation.",
+    "queries": [
+      "Are actions on migrant workers' rights by FC Barcelona justified?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "people's republic of china",
+    "wiki_title": "china",
+    "summary": "China is frequently cited in debates over FC Barcelona’s globalisation and commercial strategy: proponents argue courting Chinese fans, tours, and sponsorships is vital for revenue and competitiveness, while critics contend such engagement betrays Barça’s Catalan identity and ethical commitments—arguing the club sometimes soft-pedals political or human-rights stances and prioritises market access to China over principles.",
+    "queries": [
+      "Is FC Barcelona's engagement with people's republic of china reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-1",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "tencent",
+    "wiki_title": "tencent",
+    "summary": "Tencent is invoked in discussions about FC Barcelona as an archetype of a deep-pocketed tech investor whose sponsorship or stake is framed by supporters as a financial lifeline and route to faster global expansion (especially into China), while critics use the company to warn about increased commercialization, loss of member control and cultural identity, and potential political or data-privacy implications of tying the club to a major Chinese tech conglomerate.",
+    "queries": [
+      "Is tencent’s partnership with FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "alibaba",
+    "wiki_title": "ali baba (disambiguation)",
+    "summary": "Invocations of “Ali Baba” are used in discussions of FC Barcelona as a metaphor for either a treasure trove or a den of thieves: critics borrow the name to accuse club officials of secretive, self‑enriching deals and looting assets, while supporters or analysts sometimes flip the image to praise the club’s ability to uncover commercial value or hidden talent. These rhetorical uses shape debates over governance, transparency, and commercialization, typically supporting calls for oversight or for aggressive commercial/rebuilding strategies depending on the speaker’s view.",
+    "queries": [
+      "What impacts has alibaba had on FC Barcelona’s global brand?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "weibo",
+    "wiki_title": "weibo",
+    "summary": "On Weibo, FC Barcelona is primarily presented as a global sports and commercial brand—match results, transfers and sponsorships are amplified by fan accounts, media pages and club-affiliate posts to build enthusiasm or consumer demand, while viral criticism targets perceived poor signings or management. Because political content is often muted on the platform, debates on Weibo typically sideline Catalan independence or sensitive controversies and favor apolitical narratives that boost fandom and commercial ties in China.",
+    "queries": [
+      "What effects has FC Barcelona’s weibo activity had?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "guangzhou evergrande",
+    "wiki_title": "guangzhou f.c.",
+    "summary": "Guangzhou F.C. is often invoked in discussions about FC Barcelona as a symbol of the cash‑rich, China‑focused market that can poach talent and distort transfer priorities (the Paulinho moves are a frequent reference), and is used to criticize Barcelona’s recent commercial-first strategies and perceived financial naivety. It also features in arguments that Barcelona pursues Asian marketing and short‑term deals at the expense of long‑term sporting planning.",
+    "queries": [
+      "How do people view guangzhou evergrande matches against Barcelona?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "paulinho",
+    "wiki_title": "paulinho",
+    "summary": "Paulinho is frequently cited in debates over Barça’s transfer policy: critics point to his costly, short-term stint as emblematic of panic buys that undermined La Masia principles and reflected poor recruitment, while supporters highlight his unexpected goals and immediate impact to justify pragmatic, results-oriented signings.",
+    "queries": [
+      "Was paulinho’s signing for FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5-8",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "xinhua news agency",
+    "wiki_title": "xinhua news agency",
+    "summary": "Xinhua tends to frame FC Barcelona in ways that serve China's soft‑power and commercial narratives—emphasizing friendly exchanges, sponsorships, youth programs and cultural ties with China—while downplaying or reframing politically sensitive issues (e.g., Catalan independence or player criticisms of China) to align coverage with PRC diplomatic priorities and to counter Western criticisms.",
+    "queries": [
+      "Are criticisms of xinhua news agency’s Barcelona coverage reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sportswashing",
+    "wiki_title": "sportswashing",
+    "summary": "In discussions about FC Barcelona, critics invoke “sportswashing” to allege that the club’s sponsorships, tours, or investment talks with state-linked actors (notably Qatari and Saudi interests) help sanitize the reputations of authoritarian regimes, bolstering calls for boycotts, stricter sponsor vetting, and human‑rights conditionality. Defenders counter that such commercial ties are essential for the club’s finances and global reach, so the term is used to polarize debates over ethics, transparency, and governance at Barça.",
+    "queries": [
+      "Is sportswashing involving FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-4",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "supercopa de españa",
+    "wiki_title": "supercopa de españa",
+    "summary": "The Supercopa de España is often cited as a quick barometer of FC Barcelona’s short-term health—victories are used by supporters and the board to claim momentum or managerial vindication, while losses become evidence for critics attacking tactics, transfers, or leadership. Its recent commercialized, overseas format is also leveraged in debates to condemn the club’s management for prioritizing revenue and global branding (and sometimes ethics or player welfare) over tradition and long-term sporting priorities.",
+    "queries": [
+      "Is FC Barcelona’s supercopa de españa participation justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International is often cited to criticize FC Barcelona’s commercial and political choices—activists point to Amnesty reports on countries like Qatar to argue the club engages in “sportswashing” when taking sponsorships or staging events tied to rights‑abusing regimes. It’s also invoked in debates over the club’s response to Catalan political prisoners and labor/supply‑chain practices, used to press Barça for human‑rights due diligence and public support for civil liberties.",
+    "queries": [
+      "Is Amnesty International’s criticism of FC Barcelona justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "spanish football federation",
+    "wiki_title": "royal spanish football federation",
+    "summary": "The Royal Spanish Football Federation's referee appointments, disciplinary rulings and competition-format decisions are often invoked in debates about FC Barcelona—critics claim the RFEF institutionalizes favoritism toward Madrid/establishment clubs while Barça supporters present its sanctions and scheduling choices as evidence of bias or political hostility. Its push for centralized, commercial policies (for example staging the Supercopa abroad) is also used to justify criticism that federation actions harm Barcelona’s sporting or financial interests.",
+    "queries": [
+      "Is the Spanish Football Federation’s treatment of FC Barcelona reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "uefa champions league",
+    "wiki_title": "uefa champions league",
+    "summary": "The Champions League is the chief yardstick for judging Barcelona’s era-to-era legitimacy—supporters point to European glories to defend a philosophy or presidency, while critics and rival fans use UCL failures to attack transfer policies, coaching choices, or the alleged abandonment of La Masia. UCL results thus drive debates about club strategy (buying stars vs. youth development), financial and managerial reform, and even claims of officiating or institutional bias when Barça exit controversially.",
+    "queries": [
+      "What effects has FC Barcelona's uefa champions league run had?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "aleksander čeferin",
+    "wiki_title": "aleksander čeferin",
+    "summary": "Aleksander Čeferin is invoked in debates about FC Barcelona as the public face of UEFA’s crackdown—used to justify sanctions or criticism over Barça’s role in the European Super League and to argue for stricter financial/disciplinary oversight. His comments and decisions are cited both by critics to paint Barça as a rule‑breaking elite and by defenders of governance to frame UEFA’s actions as necessary to preserve competitive fairness.",
+    "queries": [
+      "How do people view aleksander čeferin’s influence on FC Barcelona matters?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "video assistant referee",
+    "wiki_title": "video assistant referee",
+    "summary": "VAR is routinely invoked in debates about FC Barcelona to defend or denounce key match outcomes—Barça fans point to VAR interventions as evidence of corrected injustices, while critics use inconsistent or controversial VAR decisions to argue the club benefits from or suffers under biased application. High‑profile VAR incidents involving Barcelona drive public calls for greater transparency, stricter protocols, or replay reforms from both supporters and opponents, shaping wider narratives about fairness and refereeing in La Liga and Europe.",
+    "queries": [
+      "Are video assistant referee interventions justified in FC Barcelona matches?"
+    ]
+  }
+]

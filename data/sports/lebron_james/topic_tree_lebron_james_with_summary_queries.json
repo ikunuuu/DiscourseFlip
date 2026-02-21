@@ -1,0 +1,1300 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "LeBron James",
+    "wiki_title": "LeBron James",
+    "summary": "LeBron is often invoked as the archetype of the modern, highly visible athlete: advocates cite his cultural influence, outspoken activism, and business success to justify athlete empowerment and social leadership, while opponents use his media maneuvers and commercialization to criticize perceived disloyalty or self-promotion. He also anchors GOAT debates, framing broader arguments about what counts as greatness (individual stats, team rings, longevity, or off-court impact).",
+    "queries": [
+      "Is LeBron James's influence on basketball reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "business and endorsements",
+    "wiki_title": "political endorsement",
+    "summary": "LeBron’s public endorsements of candidates and voter‑registration efforts are invoked by supporters to portray him as a civic leader and a progressive voice who mobilizes fans around racial justice and turnout. Critics, meanwhile, cite his endorsements to paint him as partisan or to argue athletes should not politicize sports, using his statements to undermine his credibility with certain audiences.",
+    "queries": [
+      "Is LeBron James' business and endorsements approach justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "beats electronics",
+    "wiki_title": "beats electronics",
+    "summary": "References to Beats Electronics are used as shorthand for LeBron’s commercial and cultural clout—supporters cite his ties to high‑profile consumer brands to portray him as a savvy, influential entrepreneur and pop‑culture icon, while critics invoke such endorsements to argue he is overly commercialized or prioritizes branding and corporate alliances over pure sporting or community commitments.",
+    "queries": [
+      "How do people view LeBron’s involvement with beats electronics?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "dr. dre",
+    "wiki_title": "dr. dre",
+    "summary": "Commentators and fans often invoke Dr. Dre as a cultural-business archetype when framing LeBron James as more than an athlete—using Dre’s success in music and tech entrepreneurship to justify praise of LeBron’s off-court branding, investments, and cultural influence. Conversely, critics point to Dre’s past controversies to question LeBron’s judgment in celebrity alliances or to undermine his moral authority when he speaks on social and political issues.",
+    "queries": [
+      "Is LeBron’s association with dr. dre justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "jimmy iovine",
+    "wiki_title": "jimmy iovine",
+    "summary": "Commentators invoke Jimmy Iovine to underscore LeBron’s emergence as a mainstream entertainment and business figure—using Iovine’s music/industry credentials to justify views of LeBron as a savvy cultural entrepreneur. Critics, however, point to Iovine’s corporate music-industry background to argue LeBron’s media projects and public image are heavily managed and commercialized, framing him as a manufactured brand rather than an authentic athlete-artist.",
+    "queries": [
+      "Is Jimmy Iovine’s involvement with LeBron’s projects justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "apple inc.",
+    "wiki_title": "apple inc.",
+    "summary": "Apple is often invoked as shorthand for Big Tech in debates about LeBron James: supporters highlight how large tech platforms and corporate partners amplify his media projects and brand, while critics point to Apple’s ethical controversies to argue that lucrative corporate alignments can undercut his social‑justice credibility.",
+    "queries": [
+      "How do people view LeBron James’s ties to apple inc.?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "sports sponsorship",
+    "wiki_title": "sponsor (commercial)",
+    "summary": "LeBron’s commercial sponsors and endorsement deals are often used to signal his cultural power and business acumen—supporters point to those partnerships as evidence he can amplify causes and fund philanthropy, while critics invoke the same deals to question his authenticity or suggest corporate interests moderate his politics. Debates about his sponsors also fuel broader narratives about commercialization of athletes, potential conflicts of interest, and whether brand ties limit or enhance his public influence.",
+    "queries": [
+      "How do people view LeBron James's sports sponsorship?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "rich paul",
+    "wiki_title": "rich paul",
+    "summary": "Rich Paul is routinely invoked as the power broker behind LeBron James’ career choices and business deals, used by supporters to justify LeBron’s leverage and athlete-empowerment tactics as professional representation that enables smart team moves and commercial success. Critics, meanwhile, point to Paul to frame LeBron as driven by agent-led dealmaking, conflicts of interest, or orchestration of ‘superteams,’ using Paul to question the purity of LeBron’s motives and the fairness of NBA transactions.",
+    "queries": [
+      "Is Rich Paul’s business approach criticized fairly or unfairly?"
+    ]
+  },
+  {
+    "id": "C2-3-6",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "nba free agency",
+    "wiki_title": "nba salary cap",
+    "summary": "Discussions of the NBA salary cap are used to explain and criticize how LeBron James builds and maintains championship teams—critics argue the cap’s soft rules and exceptions enable him to assemble ‘superteams’ and concentrate talent, while supporters point to the same rules to justify his large, long-term contracts and savvy use of cap mechanisms to maximize earnings and roster control. Debates about the cap also feed policy arguments about competitive balance (e.g., calls for harder caps or stiffer luxury taxes) framed around whether players like LeBron benefit unfairly from the current system.",
+    "queries": [
+      "How do fans view LeBron and nba free agency decisions?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "nbpa",
+    "wiki_title": "nbpa",
+    "summary": "The NBPA is frequently invoked to portray LeBron as a leading voice for player empowerment and social-justice activism, with its public positions and bargaining role amplifying and legitimizing his stances on league policies (health protocols, contract rules) and societal issues. Critics, however, point to his close association with the NBPA to suggest his influence helps shape union priorities in ways that benefit star players or to question whether union-backed positions truly reflect rank-and-file concerns.",
+    "queries": [
+      "How do people perceive LeBron James' relationship with the nbpa?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "springhill company",
+    "wiki_title": "springhill company",
+    "summary": "SpringHill Company is often invoked to portray LeBron James not just as an athlete but as a cultural entrepreneur and activist—supporters cite its media projects and investments as evidence he uses his platform to shape conversations around racial justice, education, and athlete empowerment. Critics, however, use SpringHill to argue that his activism is packaged as corporate branding that commercializes social causes or shields him from scrutiny, framing its productions and partnerships as either defensive PR or strategic influence-building.",
+    "queries": [
+      "What impact has springhill company had on perceptions of LeBron James?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "blaze pizza",
+    "wiki_title": "blaze pizza",
+    "summary": "LeBron’s ownership stake in Blaze Pizza is frequently invoked to portray him as a shrewd entrepreneur who translates athletic fame into mainstream business success and local job creation; conversely, critics point to the chain to frame his off-court pursuits as corporate branding that can appear to prioritize profit or image management over social or political commitments.",
+    "queries": [
+      "What effects has LeBron James' Blaze Pizza deal brought?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "celebrity endorsement",
+    "wiki_title": "celebrity branding",
+    "summary": "LeBron’s high-profile endorsements and business deals are used to cast him either as a savvy entrepreneur and cultural leader whose brand power legitimizes his ventures, philanthropy, and public stances, or as a commodified figure whose corporate ties invite skepticism about the sincerity of his activism. Debates invoking his celebrity branding thus support portrayals of him as both a positive role model and a symbol of commercialization that can undercut criticisms or bolster policy proposals around athlete influence and corporate responsibility.",
+    "queries": [
+      "What effects has LeBron James's celebrity endorsement brought?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "franchising",
+    "wiki_title": "franchising",
+    "summary": "Franchising is invoked to frame LeBron as a savvy entrepreneur who leverages his celebrity to scale businesses (restaurants, media and branded ventures), supporting narratives of athlete empowerment and wealth-building beyond the court. Critics use franchising to argue he benefits from corporate, profit-driven systems that can displace local control or temper his activist image, portraying his business ties as aligning him with establishment interests.",
+    "queries": [
+      "Is LeBron James' franchising approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "fast casual",
+    "wiki_title": "fast casual restaurant",
+    "summary": "LeBron’s investments in fast-casual chains (most famously Blaze Pizza) are routinely cited to frame him as a savvy entrepreneur and hometown investor who creates jobs and channels wealth into community projects. Opponents use the same association to argue his celebrity-backed commercialization helps corporate expansion, distracts from deeper social-policy commitments, or glosses over labor and equity critiques tied to franchise models.",
+    "queries": [
+      "How do people view LeBron's involvement in fast casual ventures?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "sports marketing",
+    "wiki_title": "sports marketing",
+    "summary": "Sports marketing positions LeBron James as a global brand and cultural authority, using endorsements, signature products, and curated media narratives to amplify his athletic excellence and social activism and to justify his influence in business and civic debates. Opponents and critics point to those same commercial ties to question his authenticity or accuse him of profiting from politics, shaping arguments about athlete activism, league/media deals, and how much cultural power star players should wield.",
+    "queries": [
+      "Is LeBron James's sports marketing strategy justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "space jam",
+    "wiki_title": "space jam",
+    "summary": "References to Space Jam—especially Space Jam: A New Legacy—are used to frame LeBron as a modern, crossover star building a multimedia, family-friendly brand: defenders point to it as evidence of his cultural reach and business savvy, while critics cite the film’s commercial tone and mixed reception to argue he emphasizes image-making and corporate partnerships over on-court greatness or the mythic cultural status of predecessors like Michael Jordan.",
+    "queries": [
+      "What effects has LeBron’s Space Jam had on basketball culture?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "looney tunes",
+    "wiki_title": "looney tunes",
+    "summary": "The Looney Tunes brand — most visibly via LeBron’s starring role in Space Jam: A New Legacy — is used by critics to frame him as a corporate, self‑promotional figure or to lampoon him as a clownish, overly commercialized celebrity, while supporters use the Looney Tunes crossover and nostalgia to portray him as a mainstream, family‑friendly cultural icon and a modern heir to pop‑culture legacy.",
+    "queries": [
+      "What effects has LeBron James' Looney Tunes association brought?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "anthony davis",
+    "wiki_title": "anthony davis",
+    "summary": "Anthony Davis is used as the prototypical co-star when people assess LeBron's legacy—his pairing with LeBron is cited to show LeBron’s ability to recruit and uplift top talent, strengthening arguments that LeBron’s leadership and championship résumé are legit. Conversely, Davis’s injuries, inconsistency, or perceived clutch shortcomings are often invoked to blame or excuse LeBron’s team failures, framing debates about whether LeBron carried his teams or relied on star support and front-office decisions.",
+    "queries": [
+      "Is LeBron’s partnership with Anthony Davis reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "don cheadle",
+    "wiki_title": "don cheadle",
+    "summary": "As a high-profile Black actor and public commentator, Don Cheadle is often invoked or speaks up to defend and amplify LeBron James’s role as a cultural and political leader, framing James’s activism and business ventures as legitimate civic engagement rather than mere celebrity posturing. His interventions tend to counter narratives that dismiss athlete activism and support interpretations of LeBron as a consequential, socially responsible figure beyond basketball.",
+    "queries": [
+      "What influence does Don Cheadle have on LeBron James’s public image?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "fenway sports group",
+    "wiki_title": "fenway sports group",
+    "summary": "Fenway Sports Group is often invoked in conversations about LeBron James as a shorthand for the kind of multi‑sport, media‑savvy ownership model commentators say LeBron could emulate to extend his business and legacy beyond basketball. Critics use the same example to argue that alliances with conglomerates like FSG exemplify commercialization and concentration of power in sports, framing LeBron’s off‑court moves as contributing to corporate influence over teams and fan experience.",
+    "queries": [
+      "How do people view fenway sports group partnering with LeBron James?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "john w. henry",
+    "wiki_title": "john w. henry",
+    "summary": "John W. Henry is occasionally invoked in debates about LeBron James as a prototypical billionaire sports-owner whose priorities and power are used to frame arguments about player autonomy, team-building and commercial influence; critics cite ownership models like Henry’s to explain constraints on or manipulation of stars, while defenders point to such owners to justify LeBron’s business-first decisions and activism within a profit-driven sports industry.",
+    "queries": [
+      "Is john w. henry's critique of LeBron James justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "liverpool f.c.",
+    "wiki_title": "liverpool f.c.",
+    "summary": "Commentators and fans invoke Liverpool F.C. as a cross‑sport analogy to justify LeBron James’s global superstar status and cultural impact—arguing, like Liverpool, he transcends his sport to command worldwide fandom and commercial influence. Conversely, comparisons to Liverpool’s sustained success under strong managers (or to its rivalries) are used to criticize LeBron’s leadership and roster decisions when skeptics argue he falls short of organizational models that build long‑term championships.",
+    "queries": [
+      "Is Liverpool F.C.’s association with LeBron James beneficial or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "boston red sox",
+    "wiki_title": "boston red sox",
+    "summary": "The Red Sox are invoked in arguments about LeBron as a shorthand for how championships and franchise narratives reshape an athlete’s legacy — supporters point to Boston’s post‑drought titles to argue LeBron’s rings decisively justify his career choices, while critics use stories of historic player departures and Boston’s unforgiving fan culture to frame his team‑hopping and media behavior as evidence of disloyalty or legacy inflation.",
+    "queries": [
+      "How do people view LeBron James' connection to the Boston Red Sox?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "european super league",
+    "wiki_title": "european super league",
+    "summary": "The European Super League is often invoked as an analogy in debates about LeBron James’ public role in sports politics: critics point to the ESL as evidence of owner-driven, commercialized breakaways to accuse LeBron of hypocrisy when he appears aligned with establishment interests or is quiet on labor/competitive fairness, while supporters cite the ESL backlash to bolster LeBron’s positioning as a defender of player solidarity and against closed, profit-first competitions.",
+    "queries": [
+      "How do people view LeBron James’s comments on european super league?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "fenway park",
+    "wiki_title": "fenway park",
+    "summary": "Fenway Park is invoked in debates about LeBron as a shorthand for old‑school, city‑rooted sports loyalty and franchise continuity — critics use it to contrast Boston’s civic sports icons with LeBron’s team‑hopping and player‑empowerment era, arguing he’s less a local legend and more a branding figure. Supporters and commentators, however, sometimes cite LeBron’s appearances at Fenway or his cross‑sport celebrity to claim he transcends any single venue, highlighting tensions about legacy, loyalty, and athlete agency.",
+    "queries": [
+      "Is LeBron visiting Fenway Park appropriate or not?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "under armour",
+    "wiki_title": "under armour",
+    "summary": "Under Armour is often invoked in debates about LeBron as the rival endorsement option that helps commentators argue about his market power, brand loyalty, and commercial priorities—supporters use the brand as a hypothetical alternative to critique his long-standing Nike ties or to suggest he could champion a challenger, while critics invoke it to question whether his partnerships reflect athlete-friendly values or merely corporate alignment.",
+    "queries": [
+      "Is LeBron James' relationship with Under Armour reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "social activism and politics",
+    "wiki_title": "activism",
+    "summary": "LeBron James's activism is invoked by supporters to justify athlete political engagement—citing his voting campaigns, Black Lives Matter advocacy, and the I PROMISE School as evidence that sports figures can drive positive social change—while critics use his activism to portray him as overly partisan, hypocritical, or as an example of athletes overstepping their role. Those competing frames shape public attitudes about his credibility, commercial partnerships, and policy debates around policing, education, and voting rights.",
+    "queries": [
+      "How do people view LeBron James’s social activism and politics?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "more than a vote",
+    "wiki_title": "more than a vote",
+    "summary": "Supporters invoke More Than a Vote to portray LeBron James as a civic leader who responsibly uses his platform to fight voter suppression and mobilize Black communities, reinforcing arguments that athletes should engage in social and political issues. Critics, conversely, cite the initiative to label his activism as partisan or PR-driven, framing his political influence as inappropriate for a sports figure.",
+    "queries": [
+      "How do people view LeBron James's more than a vote effort?"
+    ]
+  },
+  {
+    "id": "C3-2-1",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "stacey abrams",
+    "wiki_title": "stacey abrams",
+    "summary": "Stacey Abrams is often invoked to frame LeBron James as a serious civic and political actor—supporters point to their shared emphasis on voting rights and racial justice to legitimize athlete activism, while critics use association with Abrams to cast LeBron as aligned with partisan Democratic causes.",
+    "queries": [
+      "Is LeBron James endorsing stacey abrams reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "voteriders",
+    "wiki_title": "voteriders",
+    "summary": "Supporters point to LeBron James’ partnerships with VoteRiders to frame him as a hands-on advocate for voter access and civic participation, using the group’s ID-focused work as tangible evidence of his commitment. Critics, meanwhile, either dismiss such ties as performative celebrity activism or invoke VoteRiders’ nonpartisan stance to argue that his actions aren’t evidence of partisan campaigning.",
+    "queries": [
+      "What effects has LeBron James' involvement with voteriders had?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "voter id laws",
+    "wiki_title": "voter identification laws",
+    "summary": "LeBron James invokes debates over voter identification laws to frame his political activism as fighting voter suppression that disproportionately affects Black communities and to justify programs like More Than a Vote. Critics counter by using the voter-ID issue to label his advocacy as partisan or misinformed, arguing such laws prevent fraud and questioning whether athletes should weigh in on policy.",
+    "queries": [
+      "Is LeBron James’s position on voter id laws reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "georgia runoffs",
+    "wiki_title": "2021 georgia runoff election",
+    "summary": "LeBron’s vocal involvement around the 2021 Georgia runoff — through voter-registration drives and public endorsements tied to his More Than a Vote efforts — is cited by supporters as evidence of his commitment to fighting voter suppression and mobilizing Black voters. Opponents invoke his role in the runoff to portray him as overtly partisan or to argue athletes should not influence elections.",
+    "queries": [
+      "Is LeBron James commenting on georgia runoffs appropriate or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "black voter turnout",
+    "wiki_title": "black voters matter",
+    "summary": "References to 'Black voters matter' frame LeBron James as a political influencer whose celebrity is expected to mobilize Black turnout and advance voting-rights and social-justice agendas. Supporters invoke this to justify and praise his activism and endorsements, while critics use it to pressure him to take (or change) stances or to accuse him of leveraging — or failing to fully represent — Black voters' political interests.",
+    "queries": [
+      "What effects has LeBron James had on black voter turnout?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "voter suppression",
+    "wiki_title": "voter suppression",
+    "summary": "Allegations and debates around voter suppression are often invoked to justify LeBron James’s public activism—supporters point to restrictive laws and targeted disenfranchisement to portray him as a civic leader (e.g., his More Than a Vote efforts) fighting for Black voting rights. Conversely, opponents use the topic to criticize or dismiss his interventions as partisan grandstanding, framing his commentary on elections as political overreach rather than athlete-led civic engagement.",
+    "queries": [
+      "Is LeBron James' stance on voter suppression reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "2020 presidential election",
+    "wiki_title": "2020 national electoral calendar",
+    "summary": "Commentators and partisans invoke the 2020 national electoral calendar to time and judge LeBron James’s political activism—supporters point to the calendar to justify his More Than a Vote and get-out-the-vote efforts as timely interventions in the presidential and down‑ballot contests, while critics use the same timeline to argue athletes are improperly influencing electoral outcomes. Analysts also reference specific election dates to claim his statements and endorsements sought to boost turnout in key races or, conversely, to pressure voters and officials around sensitive moments in the campaign season.",
+    "queries": [
+      "Is LeBron James's involvement in the 2020 presidential election justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "educational inequality",
+    "wiki_title": "educational inequality",
+    "summary": "Arguments about educational inequality are used to portray LeBron James as a committed advocate for disadvantaged youth—citing his I PROMISE School, scholarships, and public statements to justify athlete-led philanthropy and policy calls for more resources in underfunded communities. Detractors similarly invoke educational-inequality framing to question whether celebrity interventions address root causes or distract from systemic solutions (public funding, policy reform), fueling debates over impact, motivation, and the role of celebrities in education policy.",
+    "queries": [
+      "Is LeBron James' focus on educational inequality justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "breonna taylor",
+    "wiki_title": "breonna taylor",
+    "summary": "Breonna Taylor’s death is frequently invoked in discussions of LeBron James to frame him as either a necessary voice against racial injustice—cited by supporters who praise his public condemnations, protests, and calls for police accountability—or as an example critics use to argue athlete activism is performative or politically divisive, questioning the consistency and real-world impact of his advocacy. Her case helps justify positions that LeBron should leverage his platform for policy change or, conversely, that he should ‘stick to sports.’",
+    "queries": [
+      "Is LeBron James's response to breonna taylor reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "make america great again",
+    "wiki_title": "make america great again",
+    "summary": "Supporters of the MAGA movement often use LeBron’s political statements and activism to portray him as a partisan, unpatriotic, or out-of-touch celebrity and to delegitimize athlete-led criticism of conservative policies; opponents of MAGA, by contrast, highlight LeBron as a prominent countervoice who frames the movement’s nostalgia and policies as exclusionary and in need of public challenge.",
+    "queries": [
+      "How do people view LeBron James’ comments on make america great again?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "national football league",
+    "wiki_title": "national football league",
+    "summary": "The NFL is frequently invoked in discussions about LeBron James as a foil for debates over athlete activism, commercial power, and cultural influence—critics point to the NFL’s size, revenue, and its punitive responses to protests to argue LeBron should avoid politics or is hypocritical, while supporters cite NFL players’ activism (e.g., kneeling) and league double standards to defend LeBron’s outspokenness and spotlight unequal treatment of athletes across sports.",
+    "queries": [
+      "What consequences could LeBron James bring to the national football league?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and celebrity culture",
+    "wiki_title": "celebrity culture",
+    "summary": "Celebrity culture frames LeBron James as both a global brand and a public exemplar, so media and commentators use his visibility to amplify endorsements of his activism, lifestyle, and business moves or to cast them as performative marketing. This framing shapes debates over athlete pay, corporate sponsorship, and whether his political statements are authentic leadership or publicity, influencing whether audiences celebrate or criticize his influence.",
+    "queries": [
+      "What effects has LeBron James's media and celebrity culture brought?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "the decision",
+    "wiki_title": "the decision",
+    "summary": "Critics use “The Decision” as shorthand to portray LeBron as self‑centered and indifferent to Cleveland fans, arguing the televised spectacle symbolized betrayal, poor judgment, and a negative impact on his legacy; supporters counter that it exemplifies modern athlete agency and brand management, framing his move as a legitimate exercise of free agency and business savvy rather than moral failing.",
+    "queries": [
+      "Is the decision by LeBron James reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "miami heat",
+    "wiki_title": "miami heat",
+    "summary": "References to the Miami Heat are frequently invoked to shape debates about LeBron James’s legacy and choices: proponents cite his decision to join Miami and the championships there as evidence of strategic ambition, leadership, and the legitimacy of player-empowerment/superteam-building, while critics use the Heat era to argue he took a manufactured route to titles and raised concerns about competitive balance and the value of ‘earned’ championships.",
+    "queries": [
+      "Is LeBron James joining the miami heat reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "cleveland cavaliers",
+    "wiki_title": "cleveland cavaliers",
+    "summary": "The Cavaliers are a frequent lens through which people judge LeBron’s character and legacy: critics point to his 2010 departure and the franchise’s struggles to argue he is opportunistic and overly controlling, while supporters highlight his return and the championship delivered in Cleveland to frame him as a loyal hometown hero and legitimize his GOAT credentials.",
+    "queries": [
+      "How do people view LeBron’s time with the cleveland cavaliers?"
+    ]
+  },
+  {
+    "id": "C4-1-4",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "dan gilbert",
+    "wiki_title": "dan gilbert",
+    "summary": "Dan Gilbert's vitriolic open letter and punitive statements after LeBron's 2010 move have been repeatedly invoked to portray LeBron as disloyal and to legitimize fan anger, shaping a narrative of betrayal that harmed his public image. Conversely, opponents use Gilbert's rhetoric and actions to criticize owner hypocrisy and defend LeBron's autonomy, framing Gilbert as emblematic of owner overreach rather than a principled critic.",
+    "queries": [
+      "How do people perceive Dan Gilbert’s relationship with LeBron James?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "dwyane wade",
+    "wiki_title": "dwyane wade",
+    "summary": "As LeBron's longtime teammate and public ally, Dwyane Wade is often cited to legitimize LeBron’s leadership and championship-era decisions—Wade’s praise is used to defend LeBron against critics who call him a ring‑chaser or question his character. At the same time, comparisons with Wade (on loyalty, clutch play and team roles) are deployed by opponents to downplay LeBron’s singular greatness or to highlight perceived flaws in his career choices.",
+    "queries": [
+      "Is dwyane wade’s role alongside LeBron James justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "chris bosh",
+    "wiki_title": "chris bosh",
+    "summary": "Chris Bosh is invoked in debates about LeBron primarily as a member of the Heat’s “Big Three”: critics cite Bosh’s role to argue LeBron relied on assembled stars to win titles, while defenders point to Bosh’s complementary, sacrificial play as proof of LeBron’s leadership and recruiting ability in building championship teams.",
+    "queries": [
+      "Is chris bosh's role alongside LeBron reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "espn",
+    "wiki_title": "espn",
+    "summary": "ESPN’s game coverage and high-profile commentary heavily shape public debates about LeBron—framing arguments over his GOAT status, leadership, player-empowerment moves, and activism through amplified highlight packages and pundit-driven narratives. Its personalities and programming often oscillate between celebrating his excellence and influence and airing sustained critiques of decisions like free‑agency moves or load management, fueling claims that the network both elevates marketable stars and sometimes shows partisan bias in how LeBron is portrayed.",
+    "queries": [
+      "How do people view espn’s coverage of LeBron James?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "stephen a. smith",
+    "wiki_title": "stephen a. smith",
+    "summary": "Stephen A. Smith acts as a high-profile, hot-take arbiter in debates about LeBron James—often amplifying arguments that LeBron is a generational great and influential cultural figure while equally deploying dramatic criticism of his clutch play, leadership choices, or career decisions to justify doubts about his legacy, thereby shaping mainstream narratives and public opinion for and against LeBron.",
+    "queries": [
+      "How do people view Stephen A. Smith’s influence on LeBron James narratives?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "first take",
+    "wiki_title": "first take",
+    "summary": "The ESPN debate show 'First Take' functions as a high-profile forum that amplifies polarized hot-takes about LeBron James, often invoked to justify critiques of his clutch moments, leadership, or decisions (especially by contrarian hosts) or to defend his greatness and social activism (by his supporters). Its loud, debate-driven format shapes public perception by promoting sensational narratives that harden fan tribes and influence mainstream conversations about LeBron's legacy.",
+    "queries": [
+      "Is LeBron James's first take reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "sportscenter",
+    "wiki_title": "sportscenter",
+    "summary": "SportsCenter shapes public debates about LeBron James by amplifying his on-court achievements and signature moments through highlight packages and expert analysis, which bolsters GOAT and legacy narratives. Its segments also foreground controversies—like load management, team moves, or his activism—by featuring pundit critiques and statistical breakdowns that can legitimize criticism or defend his choices depending on the framing.",
+    "queries": [
+      "How do people view sportscenter's treatment of LeBron James?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "los angeles lakers",
+    "wiki_title": "los angeles lakers",
+    "summary": "The Lakers are invoked in debates about LeBron to either bolster his legacy—casting his move to L.A. and eventual title there as proof of clutch leadership and franchise-building—or to criticize him as a market-driven “ring-chaser” whose decisions (joining Hollywood, enabling superteam moves) prioritize brand and roster construction over loyalty and competitive purity.",
+    "queries": [
+      "Is LeBron's role with the Los Angeles Lakers justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "nba mvp",
+    "wiki_title": "nba most valuable player",
+    "summary": "The NBA Most Valuable Player award is often invoked in debates over LeBron James to quantify or challenge his all‑time status—supporters point to his MVPs as proof of sustained dominance and team value, while critics seize missed or controversial votes to argue his legacy or leadership is overrated. It also frames arguments about what counts as success (regular‑season dominance versus championships) and is used to justify or contest salary, endorsements, and GOAT comparisons.",
+    "queries": [
+      "What would an nba mvp mean for LeBron James's legacy?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "nike",
+    "wiki_title": "nike",
+    "summary": "Nike's long-term endorsement and LeBron signature products are often invoked to frame him as a powerful global brand-builder and cultural ambassador whose political statements and initiatives gain extra visibility because of corporate backing. Conversely, critics use his Nike ties to portray him as overly commercialized, question his authenticity, or point out corporate hypocrisy when Nike's labor or political controversies clash with his activism.",
+    "queries": [
+      "Is LeBron James’s partnership with nike reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "signature sneaker line",
+    "wiki_title": "sneaker collecting",
+    "summary": "Sneaker collecting casts LeBron as both cultural tastemaker and commercial powerhouse: his signature shoes function as status symbols and high-value collectibles that extend his influence beyond the court. Fans point to his drops to celebrate his legacy and community ties, while critics use pricing, resale dynamics and design choices to accuse him of over-commercialization or to contest his brand impact relative to Michael Jordan.",
+    "queries": [
+      "How do people view LeBron James' signature sneaker line?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "equality campaign",
+    "wiki_title": "campaign for homosexual equality",
+    "summary": "In UK debates, commentators and activists sometimes invoke the Campaign for Homosexual Equality when assessing LeBron James’s stance on LGBTQ inclusion—using CHE’s activist legacy to praise him as a progressive ally or to condemn perceived performative or inadequate support. This framing ties expectations of athlete responsibility and corporate allyship in LeBron’s case to broader arguments about social change and LGBT policy.",
+    "queries": [
+      "What effects has LeBron James' equality campaign brought?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "space jam: a new legacy",
+    "wiki_title": "space jam: a new legacy",
+    "summary": "Space Jam: A New Legacy is often invoked in debates about LeBron’s legacy and public image—critics point to its glossy, corporate feel and weak critical reception to argue he’s a brand-driven, less-authentic successor to Michael Jordan, while supporters use the film to showcase his broad cultural reach, family-friendly persona, and willingness to expand athletes’ roles into entertainment.",
+    "queries": [
+      "How do people view Space Jam: A New Legacy’s focus on LeBron?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "warner bros.",
+    "wiki_title": "warner bros.",
+    "summary": "Warner Bros. appears in debates about LeBron James as the major media partner that turns his athletic and political identity into mass‑market entertainment—producing and distributing film and TV projects that help frame him as a cultural icon and commercial brand. Supporters say those collaborations amplify his voice and widen his platform for business and social causes, while critics argue the studio commercializes or sanitizes his activism to protect corporate interests and maximize profit.",
+    "queries": [
+      "Are warner bros.' portrayals involving LeBron James fair or problematic?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "bugs bunny",
+    "wiki_title": "bugs bunny",
+    "summary": "Bugs Bunny imagery—most notably through LeBron’s leading role in Space Jam: A New Legacy—is used to frame him either as a playful, clutch cultural heir with broad mainstream appeal and on-court trickster savvy, or as a corporate-branded entertainer seeking mainstream validation; critics deploy Bugs-themed memes to ridicule perceived inauthenticity and commercialization, while supporters invoke the character to celebrate LeBron’s cultural reach and family-friendly status.",
+    "queries": [
+      "How do people view LeBron James’s use of Bugs Bunny imagery?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "malcolm d. lee",
+    "wiki_title": "malcolm d. lee",
+    "summary": "Malcolm D. Lee’s role as director of Space Jam: A New Legacy is often invoked to frame LeBron James’s crossover into Hollywood — supporters point to his collaboration with an established Black filmmaker as evidence of LeBron’s cultural clout and engagement with Black storytelling, while critics use the film’s mixed reception under Lee to argue that LeBron prioritizes corporate branding and spectacle over artistic integrity and meaningful representation.",
+    "queries": [
+      "Are criticisms of malcolm d. lee in LeBron projects justified?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "corporate synergy",
+    "wiki_title": "corporate synergy",
+    "summary": "Commentators use the idea of corporate synergy to frame LeBron as a strategic brand-builder whose endorsements, media ventures, and team moves amplify one another to increase income and influence, often to praise his business acumen and platform-building. Opponents deploy the same logic to criticize him as a corporate asset whose activism, loyalties, or public decisions are driven more by commercial interests and cross-promotional value than by pure sporting or civic motives.",
+    "queries": [
+      "Is LeBron James’s corporate synergy strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "box office",
+    "wiki_title": "box office",
+    "summary": "References to “box office” are used to measure and argue over LeBron’s commercial clout and cultural crossover—commentators point to arena ticket sales, TV ratings and the box-office performance of projects like Space Jam: A New Legacy to justify his marketability and value to teams/brands. Conversely, critics seize on weaker film returns or pay-per-view numbers to argue limits to his mainstream appeal or to criticize his emphasis on branding and entertainment over sport.",
+    "queries": [
+      "What impact has LeBron James's box office draw had?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter is used to frame LeBron James as a prominent, socially engaged athlete—supporters point to his public statements, protests, and advocacy to justify his calls for racial justice, criminal-justice reform, and voter mobilization. Critics invoke his alignment with BLM to portray him as overly political, anti‑police, or to undermine his credibility and commercial standing.",
+    "queries": [
+      "How do people view LeBron James and Black Lives Matter?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "national basketball association",
+    "wiki_title": "national basketball association",
+    "summary": "The NBA functions as the central stage shaping LeBron James’s public image—its awards, media platforms, marketing and institutional decisions are used by supporters to justify his status, contracts, player-empowerment moves and social activism. Critics, however, invoke league-driven elements (officiating, scheduling, playoff structures and storytelling emphasis) to argue the NBA protects superstars or inflates narratives about his accomplishments.",
+    "queries": [
+      "How do people view the national basketball association’s treatment of LeBron James?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "killing of jacob blake",
+    "wiki_title": "shooting of jacob blake",
+    "summary": "LeBron James invoked the shooting of Jacob Blake to justify and exemplify his broader activism against police brutality, using the incident to argue for accountability, policy change, and the moral duty of athletes to speak out. Supporters cite his response as principled leadership and empathy, while critics use his comments on Blake to portray him as overly political, divisive, or inconsistent for mixing sports and social issues.",
+    "queries": [
+      "Is LeBron James' response to the killing of jacob blake reasonable?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "2020 nba boycott",
+    "wiki_title": "2020 nba bubble",
+    "summary": "The 2020 NBA bubble is often cited to bolster claims that LeBron James demonstrated exceptional leadership, resilience, and championship-caliber play under extraordinary adversity, reinforcing his GOAT and team-leader narratives. Critics, however, invoke the bubble to argue the controlled environment lessened competition or artificially aided performance, even as supporters point to his prominent social-justice activism there as evidence of his broader cultural and political influence.",
+    "queries": [
+      "What consequences has LeBron James' 2020 nba boycott participation had?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "police brutality",
+    "wiki_title": "police brutality",
+    "summary": "Mentions of police brutality are used to frame LeBron James as a high-profile athlete-activist — supporters point to his outspoken condemnations of killings of unarmed Black people and calls for accountability to justify his political engagement and moral leadership. Critics, meanwhile, invoke his statements on police violence to paint him as divisive or overstepping the role of an athlete, shaping debates about whether sports figures should advocate for policing reform or remain apolitical.",
+    "queries": [
+      "What impact has LeBron James had on public views of police brutality?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "michael jordan",
+    "wiki_title": "michael jordan",
+    "summary": "Michael Jordan is the default GOAT benchmark in debates about LeBron, deployed to emphasize championships, clutch ‘killer’ reputation, and cultural mystique when critics argue LeBron falls short. Defenders of LeBron use contrasts with Jordan — pointing to longevity, all‑around impact, player empowerment and activism — to argue that ring‑count and nostalgia are inadequate metrics and to challenge media/cultural bias that elevates Jordan.",
+    "queries": [
+      "Is michael jordan widely regarded as better than LeBron James?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "goat debate",
+    "wiki_title": "goat (sports culture)",
+    "summary": "The “GOAT” label is the focal point of public debates over LeBron’s legacy — proponents cite his longevity, statistical dominance, championships with multiple franchises and social impact to justify ranking him above rivals like Michael Jordan, while opponents stress differences in era, clutch moments, and championship count to undercut his claim. Casting LeBron as (or denying him) the GOAT shapes media narratives, fan loyalties, endorsement value and broader conversations about player empowerment and how basketball greatness should be measured.",
+    "queries": [
+      "Has the LeBron James goat debate changed fan perceptions?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "chicago bulls",
+    "wiki_title": "chicago bulls",
+    "summary": "The Chicago Bulls are often invoked as the canonical benchmark (via the Jordan-era dynasty) to argue that LeBron James either falls short of the traditional GOAT standard or must be evaluated by different criteria; pundits and fans use the Bulls to frame debates over legacy, clutch performance, and championship pedigree. Critics cite the Bulls’ single-city dynasty narrative to criticize LeBron’s team changes and Finals record, while defenders counter that different eras and team-building realities make direct comparisons unfair.",
+    "queries": [
+      "What impact would LeBron James have on the Chicago Bulls?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "jordan brand",
+    "wiki_title": "jordan brand classic",
+    "summary": "The Jordan Brand Classic is often invoked in debates about LeBron James as a benchmark for pre-NBA pedigree and cultural pipeline—commentators use which top prospects the Classic elevates to argue whether LeBron’s generation and market influence measure up to (or diverge from) Michael Jordan’s legacy. References to the Classic tend to support narratives that Jordan-era branding still shapes public perceptions of greatness and sneaker/endorsement power, or conversely to criticize claims that LeBron has fully supplanted Jordan as the dominant cultural icon.",
+    "queries": [
+      "Is LeBron James’s association with Jordan Brand justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "the last dance",
+    "wiki_title": "last dance",
+    "summary": "References to “The Last Dance” are often used in debates about LeBron to frame his career as a legacy competition with Michael Jordan, with critics invoking the documentary to insist LeBron must accumulate more rings to be the GOAT and supporters invoking it to argue differences in era, team construction, and media bias make direct comparisons unfair. The phrase thus bolsters ring‑centric evaluations of LeBron’s choices (team moves, load management) while also serving as a foil for critiques of how basketball narratives elevate Jordan and downplay LeBron’s achievements.",
+    "queries": [
+      "How do people view the Last Dance's impact on LeBron's legacy?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "kobe bryant",
+    "wiki_title": "kobe bryant",
+    "summary": "Kobe is repeatedly used as a foil in debates about LeBron—invoked as the archetype of killer instinct, championship-driven legacy, and Lakers loyalty to criticize LeBron’s perceived softness, team-first style, or franchise choices, or conversely to highlight LeBron’s greater longevity and all-around impact by contrast. References to Kobe’s ‘Mamba Mentality’ and championship resume often bolster arguments about what qualities LeBron should emulate (or is failing to), and after Kobe’s death comparisons gained added emotional and rhetorical weight.",
+    "queries": [
+      "Is admiration for Kobe Bryant reasonable compared to LeBron James?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "nba championship rings",
+    "wiki_title": "nba championship ring",
+    "summary": "Championship rings are a focal point in debates over LeBron’s legacy—critics use his ring tally (often compared to Michael Jordan’s six) to argue against GOAT claims, while supporters point to titles won with different teams and eras as evidence of his sustained greatness and leadership. Rings also shape arguments about player empowerment and team-building, serving either to justify his career moves and formation of superteams as necessary to win, or to criticize him for relying on constructed rosters rather than solo dominance.",
+    "queries": [
+      "Are nba championship rings the right measure of LeBron's greatness?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "the shop",
+    "wiki_title": "the shop",
+    "summary": "LeBron's show \"The Shop\" is often cited in debates to bolster the view of him as a cultural influencer and thoughtful spokesman for athlete activism—supporters point to it as evidence of his leadership on social issues and brand-building, while critics use it to frame him as self-promotional or excessively partisan.",
+    "queries": [
+      "Is the shop with LeBron James culturally positive or not?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "maverick carter",
+    "wiki_title": "maverick carter",
+    "summary": "Maverick Carter is invoked as LeBron’s chief business architect and image manager, framing James as a media-savvy entrepreneur whose career moves and public statements are strategically packaged rather than purely spontaneous. Supporters point to Carter to emphasize player empowerment, savvy branding, and principled activism, while critics use him to argue LeBron is driven by corporate PR, profit motives, or external influence over his loyalties and public stances.",
+    "queries": [
+      "How do people view Maverick Carter’s role in LeBron James’ career?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "uninterrupted",
+    "wiki_title": "uninterrupted",
+    "summary": "Uninterrupted is invoked to portray LeBron James as a media-savvy cultural leader who intentionally shapes public conversation—using an owned platform to amplify athletes’ perspectives, political stances, and personal brand beyond basketball. Detractors, however, point to it as evidence of curated self-promotion and branded activism that can deflect critical scrutiny and intensify debates about authenticity and the proper role of athletes in public discourse.",
+    "queries": [
+      "Has Uninterrupted shaped opinions about LeBron fairly or not?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "hbo",
+    "wiki_title": "hbo",
+    "summary": "HBO amplifies LeBron James’ off-court identity by showcasing his projects and interviews (for example airing his co‑produced talk show and documentary-style pieces), which frames him as a cultural entrepreneur and activist whose platform advances social causes. Critics argue HBO’s sympathetic storytelling helps normalize his political stances and business ventures, while opponents use the same coverage to portray him as overly politicized or image‑driven.",
+    "queries": [
+      "What effects has hbo’s LeBron James coverage had?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "hip hop culture",
+    "wiki_title": "hip-hop culture",
+    "summary": "Hip-hop culture is often used to frame LeBron as either an authentic cultural ambassador—cited when his friendships with rappers, music collaborations, sneaker ties, and activist statements are presented as evidence of solidarity with Black urban communities and influence beyond sport—or as a focal point for criticism that his corporate endorsements and media-managed image amount to performative or commercialized appropriation that undermines grassroots hip‑hop credibility and political authenticity.",
+    "queries": [
+      "Is hip hop culture’s influence on athletes justified or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "philanthropy and education",
+    "wiki_title": "philanthropy",
+    "summary": "LeBron’s high-profile giving—from the I Promise School to scholarships and voter outreach—is used to bolster narratives that he’s a civic-minded leader addressing education and racial inequality and to justify calls for athletes to leverage wealth for public good; critics counter that such philanthropy can be PR, absolve government responsibility, or be inadequate relative to his wealth and influence.",
+    "queries": [
+      "How do people view LeBron James's philanthropy and education efforts?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "akron public schools",
+    "wiki_title": "akron public schools",
+    "summary": "Akron Public Schools is frequently invoked to underscore LeBron’s hometown commitment—his foundation’s partnership (notably the I Promise School) is used to justify praise for his philanthropy and to rebut claims he abandoned Akron. Critics, however, point to that same partnership to question celebrity influence on public education, arguing it can function as PR, create dependence on private initiatives, or distract from systemic funding and policy reforms.",
+    "queries": [
+      "Is LeBron James’s support for akron public schools justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "public–private partnership",
+    "wiki_title": "public–private partnership",
+    "summary": "PPP rhetoric is often used to praise LeBron as a civic partner who leverages private money and influence to deliver local projects (for example, his foundation’s work with schools and city agencies), framing him as a constructive alternative to strained public services. Conversely, critics invoke PPP critiques to argue that celebrity-backed deals can privatize public goods, shift costs onto taxpayers, and reduce accountability, portraying his projects as potentially self-interested or risky for communities.",
+    "queries": [
+      "What consequences has LeBron James’s public–private partnership caused?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "university of akron",
+    "wiki_title": "university of akron",
+    "summary": "The University of Akron is often invoked in discussions of LeBron James’ Akron roots and civic responsibility: supporters point to local institutions like UA to argue he reinvests in his hometown, while critics use it to question whether his philanthropy sufficiently benefits local higher education. It also features in debates about athlete pathways — cited when weighing the value of college attendance versus going pro and what responsibilities star players have to nearby universities.",
+    "queries": [
+      "Is LeBron's support for the University of Akron justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "akron zips men's basketball",
+    "wiki_title": "akron zips men's basketball",
+    "summary": "Commentators invoke the Akron Zips men's basketball program to anchor narratives about LeBron’s hometown ties and local impact: supporters credit his success with elevating Akron’s basketball profile and inspiring investment in community programs, while critics use his bypassing of local college ball to question his adherence to traditional development paths or his commitment to local institutions.",
+    "queries": [
+      "How do people view akron zips men's basketball influence on LeBron?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "james a. rhodes arena",
+    "wiki_title": "james a. rhodes arena",
+    "summary": "James A. Rhodes Arena is often invoked as a physical symbol of LeBron James’s Akron roots, used by supporters to underscore his hometown pride and community investments when events there celebrate his legacy. Critics, by contrast, point to his absences from local stages or the arena’s role as a site of civic recognition to argue about whether he abandoned or later redeemed his loyalty to Northeast Ohio.",
+    "queries": [
+      "Is naming events after james a. rhodes arena reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "st. vincent–st. mary high school",
+    "wiki_title": "st. vincent–st. mary high school",
+    "summary": "LeBron’s alma mater is repeatedly invoked to frame him as a hometown prodigy whose working‑class roots and high‑school stardom legitimize narratives about his character, loyalty, and obligation to Akron; supporters cite St. Vincent–St. Mary to justify admiration and philanthropic expectations, while critics point to his leaving Akron or the commercialization of his high‑school fame to argue he prioritized fame/money or to critique the prep‑to‑pro pipeline and athlete exploitation.",
+    "queries": [
+      "Is LeBron’s affiliation with st. vincent–st. mary high school significant or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "education reform",
+    "wiki_title": "education reform",
+    "summary": "References to education reform are used to cast LeBron James either as a hands-on civic reformer—citing his I PROMISE School, scholarships, and advocacy for wraparound services as a model of athlete-led investment in underserved communities—or as an example critics use to argue that celebrity-driven projects can oversimplify systemic funding, governance, and equity issues, feeding broader debates over public vs. privatized approaches to improving schools.",
+    "queries": [
+      "Is LeBron James's advocacy for education reform justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "school funding",
+    "wiki_title": "public school funding in the united states",
+    "summary": "LeBron’s high-profile investment in education (notably the I PROMISE public-school project) is used to spotlight inequalities in U.S. public school funding: supporters cite his work as proof that targeted investment in underfunded communities yields results and argue for more public resources, while critics contend celebrity-funded programs can serve as stopgap measures that normalize private solutions, distract from systemic funding reform, or fuel privatization/charter-school arguments.",
+    "queries": [
+      "How do people view LeBron James' views on school funding?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "school choice",
+    "wiki_title": "school choice",
+    "summary": "School choice figures in conversations about LeBron James as a counterpoint to his high-profile advocacy for the I PROMISE public-school initiative: supporters use his work to argue for sustained public-school investment and to criticize vouchers/privatization, while opponents and school-choice advocates invoke his celebrity-run program to contend that targeted philanthropy is no substitute for broader systemic reforms or to argue for alternative private/charter models.",
+    "queries": [
+      "Is LeBron James's support for school choice justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "school voucher",
+    "wiki_title": "school voucher",
+    "summary": "LeBron James is often invoked in voucher debates: critics of vouchers point to his I Promise Foundation and public-school partnership as proof that direct public investment and community-based programs can succeed, while voucher proponents frame his celebrity-driven model as insufficient or paternalistic and argue market-based choice would better serve struggling families. The voucher argument thus becomes a way to cast LeBron either as a champion of strengthened public education or as an example used to justify privatization and expanded school choice, depending on one's policy stance.",
+    "queries": [
+      "How do people view LeBron James' support for school voucher programs?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "charter school",
+    "wiki_title": "charter school",
+    "summary": "LeBron James’s education work—most notably the I PROMISE public school—gets framed against charter-school debates: opponents sometimes portray celebrity-led schools as promoting privatization or charter-style solutions that skirt traditional public accountability, while supporters argue his publicly partnered model demonstrates how innovative, accountable programs can strengthen services for disadvantaged students without abandoning the public system.",
+    "queries": [
+      "What impacts has LeBron James’ charter school engagement caused?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "betsy devos",
+    "wiki_title": "betsy devos",
+    "summary": "DeVos is often invoked as a foil in debates over LeBron James’s political and education activism: supporters cast LeBron’s I PROMISE school and public-education advocacy as a rebuttal to DeVos-style school-choice and privatization policies, while critics aligned with her views dismiss his efforts as political grandstanding and argue market-based reforms are preferable.",
+    "queries": [
+      "How do people view betsy devos after LeBron James's comments?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "teachers' unions",
+    "wiki_title": "teachers union",
+    "summary": "Teachers unions figure in debates over LeBron’s education activism—union leaders often praise his investments in the I PROMISE School while warning that celebrity-led programs must respect district accountability, teacher collective bargaining, and long-term public funding. Conversely, critics of unions invoke LeBron’s hands-on philanthropy as evidence that celebrity-backed charter-like initiatives can succeed where they claim unions have resisted reform or innovation.",
+    "queries": [
+      "Is LeBron James' support for teachers' unions reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "akron, ohio",
+    "wiki_title": "akron, ohio",
+    "summary": "Akron, Ohio is repeatedly invoked to cast LeBron as either a hometown hero—his returns and local philanthropy are cited as proof of loyalty and social responsibility—or as a measuring stick for critics who accuse him of abandoning his roots when he left for Miami. References to Akron frame debates about athlete authenticity, obligations to their communities, and the proper role of superstar resources in local development and education policy.",
+    "queries": [
+      "Is LeBron's loyalty to akron, ohio reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "race and representation",
+    "wiki_title": "race and video games",
+    "summary": "Arguments about race and video games come up around LeBron James when commentators point to his portrayals in titles like NBA 2K, the behavior of gaming fan communities, and esports partnerships as evidence of how Black athletes are framed or targeted online. These examples are used both to criticize hostile, exclusionary gaming cultures tied to racial bias and to bolster LeBron’s calls for better representation, industry diversity, and anti-harassment policies in digital and sports media.",
+    "queries": [
+      "What impacts has LeBron James's race and representation had?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "i promise school",
+    "wiki_title": "i promise school",
+    "summary": "The I PROMISE School is often invoked by supporters as concrete evidence that LeBron James is a philanthropic, community-focused leader who uses his fame and resources to improve education in his hometown, bolstering narratives that he is a responsible role model and athlete-activist. Critics, however, use the school to argue his efforts are publicity-driven or paternalistic and point out it addresses symptoms rather than systemic education-policy failures, framing his giving as limited or strategic PR rather than a substitute for broader reform.",
+    "queries": [
+      "How do people view LeBron James' i promise school?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "colin kaepernick",
+    "wiki_title": "colin kaepernick",
+    "summary": "Colin Kaepernick is invoked as a precedent in arguments about LeBron James’ public activism: defenders point to Kaepernick to justify and normalize LeBron speaking out on racial justice and police brutality, while critics cite Kaepernick to paint LeBron as unpatriotic or overly political and to argue athletes should avoid political expression.",
+    "queries": [
+      "How do people view Colin Kaepernick in LeBron James’s context?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "take a knee",
+    "wiki_title": "taking a knee",
+    "summary": "References to 'taking a knee' are often invoked to cast LeBron James as a consequential athlete‑activist — supporters point to his defense of anthem protests to justify his leadership on racial justice and calls for reforms such as police accountability and expanded voting access. Opponents use the gesture to portray him as politicized or unpatriotic, framing his activism as performative or grounds for criticism rather than legitimate policy engagement.",
+    "queries": [
+      "How do people view LeBron James' choice to take a knee?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "shut up and dribble",
+    "wiki_title": "laura ingraham",
+    "summary": "Laura Ingraham is often cited as a prominent conservative critic of LeBron James, using his political statements and activism to argue that athletes should \"stick to sports,\" portray him as politically naive or hypocritical, and to advance culture‑war attacks on celebrity political influence. Her commentary is used to justify skepticism of athlete activism and to frame James as emblematic of liberal elitism or anti‑patriotic sentiment.",
+    "queries": [
+      "How do people view shut up and dribble aimed at LeBron James?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "free speech",
+    "wiki_title": "freedom of speech",
+    "summary": "Freedom of speech is invoked to defend LeBron’s outspoken political and social-justice commentary as a legitimate use of his public platform, with supporters arguing he has a duty to speak on issues. Conversely, critics use free-speech rhetoric to argue he should refrain from political commentary or to justify commercial, fan, or governmental backlash—framing debates about whether celebrity speech should carry real-world consequences, including corporate or international pressure.",
+    "queries": [
+      "What effects has LeBron James’s free speech had?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "president trump",
+    "wiki_title": "donald trump",
+    "summary": "Donald Trump’s public insults and criticisms of LeBron are often used by conservatives to depict James as a partisan, ungrateful celebrity who should “stick to sports,” while LeBron’s supporters use Trump’s attacks as evidence of political bullying and racism, framing James’s activism on racial justice and free speech as justified resistance.",
+    "queries": [
+      "How do people view President Trump’s comments about LeBron James?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On Twitter/X fans, reporters, and critics rapidly amplify highlights, memes and breaking news about LeBron, shaping GOAT debates, contract or retirement rumors, and instantaneous praise or backlash for on‑court decisions. The platform is also a battleground over his social activism and political comments, with supporters framing him as a leader and opponents painting him as divisive, while algorithmic amplification and coordinated accounts often intensify polarized or misleading portrayals.",
+    "queries": [
+      "What consequences has LeBron James' twitter presence caused?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "racial justice",
+    "wiki_title": "anti-racism",
+    "summary": "Anti-racism is invoked to cast LeBron James as a leading athlete-activist whose public statements and endorsements are used to justify calls for police reform, voter protections, and corporate/NBA actions addressing racial inequality; supporters point to his platform as evidence-driven advocacy for systemic change. Opponents use the same debates to accuse him of partisan grandstanding or inappropriate politicization of sports, turning anti-racism into both a shield for his activism and a focal point for conservative criticism.",
+    "queries": [
+      "Is LeBron James's racial justice advocacy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News frequently frames LeBron James as a politicized figure whose comments on race, patriotism, and social issues exemplify liberal athlete activism, using his statements to criticize and delegitimize progressive stances and question his credibility or patriotism. Conservative hosts and commentators amplify controversies around him to argue against athlete protest, cultural elite influence, and related policy positions favored by the political left.",
+    "queries": [
+      "What impact does Fox News have on perceptions of LeBron James?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "nba–china controversy",
+    "wiki_title": "nba criticisms and controversies",
+    "summary": "Controversies around LeBron—from ‘The Decision’ and perceived flopping to load‑management, business ties, and political activism—are mined by critics to portray him as self‑serving, soft, or undeserving of GOAT status, while defenders reframe the same incidents as evidence of leadership, player empowerment, and principled stands; these debates also drive arguments over officiating, player rest policies, and the acceptability of athletes’ political engagement.",
+    "queries": [
+      "What consequences has the nba–china controversy had for LeBron James?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In arguments about LeBron James, opponents sometimes accuse him of taking part in or benefiting from 'cancel culture' when he and his allies urge consequences for critics, while his supporters invoke 'cancel culture' to portray backlash to his political or social-justice statements as an unfair attempt to silence or punish him. This framing is used to defend or attack public and corporate responses to his speech, influencing whether people see those responses as legitimate accountability or censorious mob pressure.",
+    "queries": [
+      "Is cancel culture justified in responses to LeBron James?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "tucker carlson",
+    "wiki_title": "tucker carlson",
+    "summary": "Tucker Carlson frequently uses LeBron James as a shorthand for ‘woke’ celebrity-athlete activism, casting him as a partisan, hypocritical cultural elite to argue against athletes’ political influence and the media’s alignment with progressive causes. Attacks on LeBron are deployed to justify broader conservative critiques of cancel culture, racial-progressive narratives, and the politicization of sports.",
+    "queries": [
+      "Is Tucker Carlson's commentary on LeBron James reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "george floyd protests",
+    "wiki_title": "george floyd protests",
+    "summary": "The George Floyd protests are frequently invoked to frame LeBron James as either a principled athlete-activist—used by supporters to justify and legitimize his outspoken calls for racial justice, police reform, and community leadership—or as a partisan figure whose political engagement is criticized by opponents as divisive or performative, with unrest cited to delegitimize athlete-led protest. Critics and defenders alike use the protests to argue about the proper role of athletes in politics and to either bolster or undermine LeBron’s moral authority on social issues.",
+    "queries": [
+      "What impact do george floyd protests have on LeBron James's public image?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "air jordan",
+    "wiki_title": "air jordan",
+    "summary": "Air Jordan is often invoked in public debates about LeBron as a cultural and commercial yardstick: critics point to Air Jordan's enduring iconic status to argue LeBron hasn’t matched Michael Jordan’s cultural legacy, while supporters highlight LeBron’s own Nike signature line and market success to claim he has equaled or surpassed MJ. Sneaker choices, sales and branding comparisons therefore serve as shorthand in arguments over LeBron’s legitimacy, popularity, and GOAT status.",
+    "queries": [
+      "How do people view air jordan in LeBron James' legacy?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "sneaker culture",
+    "wiki_title": "sneakers",
+    "summary": "LeBron’s signature sneakers are used as shorthand for his cultural and economic power: supporters cite his Nike deal, business ventures, and community shoe giveaways to frame him as an influential entrepreneur and role model, while critics point to his endorsements to argue he’s overly commercialized or to raise ethical concerns about labor and global supply chains tied to shoe manufacturing.",
+    "queries": [
+      "How do people view LeBron’s role in sneaker culture?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "endorsement deals",
+    "wiki_title": "testimonial",
+    "summary": "Public testimonials from teammates, coaches, fellow athletes, analysts, fans, and community members are frequently cited to bolster claims about LeBron’s on-court greatness, leadership, philanthropy, and cultural influence—serving as anecdotal evidence in GOAT debates and defenses of his activism and business decisions. Conversely, negative or skeptical testimonials are used to challenge his competitiveness, motives, or character, and to justify critical narratives or calls for accountability around his legacy and off-court behavior.",
+    "queries": [
+      "How do people view LeBron James' endorsement deals?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and ethical controversies",
+    "wiki_title": "ethical, legal and social aspects research",
+    "summary": "Ethical, legal and social aspects research treats LeBron James as a case study in debates over athlete activism, free‑speech and labor rights—using his public political statements, philanthropy (e.g., the I PROMISE School) and team moves to argue for protections of player speech and empowerment or, conversely, to critique commercialization and influence on youth. It also informs policy arguments about endorsement and image‑rights law, privacy, and how media and racial narratives shape expectations and accountability for high‑profile athletes.",
+    "queries": [
+      "Are LeBron James’s legal and ethical controversies justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "national anthem protests",
+    "wiki_title": "u.s. national anthem protests",
+    "summary": "U.S. national anthem protests are invoked in debates about LeBron James to cast him either as a principled activist using his platform to highlight racial injustice or as unpatriotic for critiquing national symbols. Opponents use the anthem frame to argue he should avoid politics and face reputational or commercial consequences, while supporters cite free speech and racial-justice imperatives to defend his outspokenness and push for policy changes on policing and education.",
+    "queries": [
+      "Are LeBron James's national anthem protests justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-1",
+    "parent": "C7",
+    "level": 3,
+    "topic": "klutch sports group",
+    "wiki_title": "klutch sports group",
+    "summary": "Klutch Sports is often invoked in discussions about LeBron James to explain and justify his off-court business savvy and career control—framing him as a player-empowerment pioneer and brand strategist—while critics use Klutch to argue that concentrated agent power gives LeBron outsized influence over team-building and league dynamics.",
+    "queries": [
+      "Is klutch sports group's influence on LeBron James reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "anthony davis trade",
+    "wiki_title": "luka dončić–anthony davis trade",
+    "summary": "Hypothetical Luka Dončić–Anthony Davis trade is often invoked in debates over LeBron’s roster priorities and legacy—used to ask whether the Lakers should double down on LeBron’s immediate title window with Davis or pivot to a younger franchise player. Critics use the scenario to fault LeBron’s influence for conservative, veteran‑heavy teambuilding that limits long‑term prospects, while defenders argue keeping Davis best serves LeBron’s short‑term championship goals.",
+    "queries": [
+      "Was the anthony davis trade justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "creative artists agency",
+    "wiki_title": "creative artists agency",
+    "summary": "Commentators invoke Creative Artists Agency to frame LeBron James as a product of powerful entertainment machinery — using big talent agencies as shorthand for how his film, TV, and endorsement opportunities are brokered and how his public image is packaged. Supporters point to that machinery as evidence of his savvy business reach and platform for social influence, while critics use it to argue his persona and political stances are corporately managed and symptomatic of concentrated agency power in sports.",
+    "queries": [
+      "What impacts has the creative artists agency had on LeBron James’s image?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "just do it",
+    "wiki_title": "just do it",
+    "summary": "Nike’s “Just Do It” slogan, amplified through LeBron’s high-profile endorsement campaigns, is used to frame him as a decisive, action-oriented figure—bolstering narratives about his leadership, work ethic, and cultural influence. Critics repurpose the tagline to demand he ‘just play’ or to allege commercial opportunism, while supporters invoke it to justify his activism, business choices, and clutch expectations.",
+    "queries": [
+      "Is LeBron James' 'just do it' attitude reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "dream crazy",
+    "wiki_title": "crazy (dream song)",
+    "summary": "The song is often used in viral highlight and reaction videos to soundtrack moments involving LeBron, serving as a cultural shorthand that either elevates him as an astonishing, GOAT‑level performer or lampoons his theatrics; its upbeat, punchy tone amplifies emotional takes and thus bolsters both pro‑LeBron legacy arguments and critiques about flopping and showmanship.",
+    "queries": [
+      "Is LeBron's dream crazy message justified or not?"
+    ]
+  }
+]

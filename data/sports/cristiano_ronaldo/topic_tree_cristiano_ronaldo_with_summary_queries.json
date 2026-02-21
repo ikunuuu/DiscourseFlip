@@ -1,0 +1,1751 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Cristiano Ronaldo",
+    "wiki_title": "Cristiano Ronaldo",
+    "summary": "Cristiano Ronaldo is often invoked in public arguments as the prototypical superstar whose records, work ethic and branding are used to justify claims about meritocratic greatness, the market logic of mega-transfers and celebrity influence in sport; supporters point to him to defend commercialisation and longevity. Critics, by contrast, use his off-field controversies, perceived ego and high-profile move to leagues like Saudi Arabia to frame debates about athlete ethics, inequality, and sportswashing, challenging the moral limits of fame and money in football.",
+    "queries": [
+      "Is Cristiano Ronaldo’s public behavior reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and celebrity culture",
+    "wiki_title": "celebrity culture",
+    "summary": "Celebrity culture frames Cristiano Ronaldo less as just an athlete and more as a global brand and moral symbol, steering public arguments toward his marketability, image-management, and role-model status to justify lucrative endorsements or defend his conduct. It also amplifies polarized narratives—either hero worship that excuses excesses or sensational scrutiny that fuels calls for accountability—shaping attitudes on issues like athlete taxation, media ethics, and commercial influence in sport.",
+    "queries": [
+      "How do people view media and celebrity culture around Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "lionel messi",
+    "wiki_title": "lionel messi",
+    "summary": "Messi is the default foil in GOAT arguments about Cristiano Ronaldo—commentators and fans invoke Messi’s style, records and perceived footballing purity to portray Ronaldo as either the inferior, more mercenary icon or as the complementary counter‑type (hard‑working, athletic, success across leagues). Debates that reference Messi are therefore used to justify preferences for different values (creativity and team brilliance versus versatility, professionalism and marketability) and to criticize or defend Ronaldo’s legacy accordingly.",
+    "queries": [
+      "Is preferring lionel messi over Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "uefa champions league",
+    "wiki_title": "uefa champions league",
+    "summary": "Observers point to Cristiano Ronaldo’s Champions League record—his prolific goal-scoring and multiple titles—to frame him as a clutch, elite-level performer and to justify his superstar status, wages and transfers; critics invoke his UCL failures, early exits or recent dips in continental form to argue he is past his peak, overrated in GOAT debates, or a poor fit for team-building decisions.",
+    "queries": [
+      "What impact has Cristiano Ronaldo had on the uefa champions league?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "fifa world cup",
+    "wiki_title": "fifa world cup",
+    "summary": "The World Cup is often invoked as the ultimate litmus test in debates about Ronaldo’s legacy: critics emphasize his lack of a World Cup title and perceived underwhelming tournament moments to argue he isn’t the undisputed GOAT, while defenders point to his World Cup goals, longevity and other international/club honors to downplay that omission. It’s also used to frame arguments about his leadership, clutch credentials, and whether retirement or national-team selection decisions are justified.",
+    "queries": [
+      "What impact has FIFA World Cup exposure had on Ronaldo’s legacy?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "fc barcelona",
+    "wiki_title": "fc barcelona",
+    "summary": "FC Barcelona is often invoked as the principal foil to Cristiano Ronaldo — pundits and fans cite Barcelona’s team-first style and Lionel Messi’s award/trophy record to argue that Ronaldo’s success is more individual and less about footballing artistry. Barcelona’s victories over Real Madrid and its celebrated squads are routinely used to downplay Ronaldo’s legacy or to frame debates about team merit versus individual brilliance.",
+    "queries": [
+      "Is fc barcelona's rivalry with Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "goat debate",
+    "wiki_title": "goat (sports culture)",
+    "summary": "The G.O.A.T. label is routinely used in public debates to elevate Ronaldo's career—supporters cite his goals, trophies, longevity, and marketability to justify claims he's the greatest of all time and to legitimize fandom and awards. Critics, meanwhile, invoke the same framing to dispute comparisons (pointing to era, team context, and subjective criteria) or to critique celebrity-driven ranking culture that can overshadow broader assessments of footballing value.",
+    "queries": [
+      "How do people view Cristiano Ronaldo’s goat debate?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "nike",
+    "wiki_title": "nike",
+    "summary": "Nike’s long-running commercial partnership with Ronaldo is frequently invoked to validate his status as a global superstar and to explain his market-driven decisions, with fans and commentators pointing to Nike branding and campaigns as proof of his elite, commercial appeal. Critics, however, use that same corporate backing to argue Ronaldo is emblematic of football’s commercialization—claiming brand deals like Nike’s privilege image and profit over accountability and can blunt criticism of his on‑ and off‑field behavior.",
+    "queries": [
+      "Are Nike endorsements for Ronaldo reasonable or problematic?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "lifetime contract",
+    "wiki_title": "contract",
+    "summary": "References to contracts drive debates about Ronaldo’s transfers, salaries, and image‑rights—used to justify club actions (buyouts, transfers, terminations) or to defend his right to seek higher pay and control over his brand. Public arguments invoking contracts tend to frame him either as a professional who honors legal obligations and commands market value or as mercenary and entitled, and they shape policy discussions on player power, club accountability, and how disputes should be resolved.",
+    "queries": [
+      "Is Cristiano Ronaldo’s lifetime contract reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "endorsement deals",
+    "wiki_title": "testimonial",
+    "summary": "Testimonials from teammates, coaches, fans and commercial partners are often invoked to portray Ronaldo as a supremely hardworking, marketable icon and to justify his enormous salaries and sponsorships; critics, however, point to paid or curated testimonials to argue his image is manufactured and to downplay or deflect scrutiny of his behavior and controversies.",
+    "queries": [
+      "How do people view Ronaldo's endorsement deals?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "adidas",
+    "wiki_title": "adidas",
+    "summary": "Adidas is used as a foil in public arguments about Cristiano Ronaldo—commentators invoke Adidas (often through its ties to rivals like Lionel Messi or Real Madrid kit deals) to frame debates over Ronaldo’s commercial choices, loyalty and marketability. References to Adidas in stories about sponsorships or sneaker wars are deployed both to praise Ronaldo’s global brand value and to criticize him as overly commercial or disloyal to long‑standing partners.",
+    "queries": [
+      "How do people view Ronaldo’s association with adidas?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "advertising campaigns",
+    "wiki_title": "advertising campaign",
+    "summary": "Brands’ advertising campaigns that feature Ronaldo are often cited in debates to bolster his image as the world’s most marketable athlete—used by supporters to justify high salaries, transfers, and his status as an aspirational role model—while critics point to his constant commercialization and branded persona to argue he prioritizes personal image over team values or to question sponsor decisions when controversies arise.",
+    "queries": [
+      "Are Cristiano Ronaldo's advertising campaigns justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "ballon d'or",
+    "wiki_title": "ballon d'or",
+    "summary": "Ronaldo’s Ballon d’Or tally (five wins) is repeatedly used as a concise metric in public debates to justify claims about his greatness, longevity and place in the Messi–Ronaldo GOAT rivalry, with supporters pointing to his wins as proof of individual brilliance. Critics, meanwhile, use the seasons he lost, changes in voting rules or alleged media/positional bias to challenge the award’s legitimacy and to downplay his standing, making the Ballon d’Or a focal point for arguing how Ronaldo’s legacy should be evaluated.",
+    "queries": [
+      "Is Cristiano Ronaldo’s ballon d'or win justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "france football",
+    "wiki_title": "france football",
+    "summary": "France Football—through its Ballon d'Or awards, voting breakdowns, and feature pieces—is routinely invoked in debates over Ronaldo’s legacy: supporters cite his awards and positive profiles as proof of GOAT-level status, while critics point to rankings, critical articles or voters’ reasons in France Football to argue he’s overrated or past his peak. Its perceived authority shapes public narratives about his year-to-year form, transfers, and direct comparisons with Lionel Messi.",
+    "queries": [
+      "How do people view france football’s stance on Ronaldo?"
+    ]
+  },
+  {
+    "id": "C2-6-4",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "the best fifa men's player",
+    "wiki_title": "the best fifa men's player",
+    "summary": "Invoking \"the Best FIFA Men's Player\" is a common way to bolster or challenge claims about Cristiano Ronaldo's standing—supporters point to his wins to argue for his GOAT status and longevity, while detractors cite years he didn't win as evidence of decline or perceived voting bias. The award also frames debates over whether individual honors fairly reflect club versus international form and how media or federation politics influence narratives about Ronaldo's legacy.",
+    "queries": [
+      "What effects does naming Cristiano Ronaldo the best FIFA men's player have?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "uefa men's player of the year",
+    "wiki_title": "uefa men's player of the year award",
+    "summary": "References to the UEFA Men's Player of the Year Award are frequently invoked in debates about Cristiano Ronaldo to bolster claims of his greatness and sustained elite performance when cited as evidence of major-season excellence, while detractors use his non-wins or allegations of voting bias to argue his reputation is inflated, era-dependent, or in decline.",
+    "queries": [
+      "Is Cristiano Ronaldo being uefa men's player of the year reasonable?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "european golden shoe",
+    "wiki_title": "european golden shoe",
+    "summary": "Fans and pundits invoke Ronaldo’s European Golden Shoe wins as hard evidence of his elite goal-scoring and to bolster GOAT or legacy arguments, framing him as a dominant, clutch finisher. Skeptics counter that the award can be over-emphasized—pointing to league weighting, team context, and era differences—to argue it’s an incomplete metric and shouldn’t settle comparisons or criticisms of his career.",
+    "queries": [
+      "Is awarding the European Golden Shoe to Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "manchester united",
+    "wiki_title": "manchester united f.c.",
+    "summary": "Manchester United is frequently invoked to frame Ronaldo’s legacy—his breakthrough and peak there are used to justify claims of all-time greatness, work ethic, and clutch performance. Conversely, his high‑profile return, public spats with club management, and perceived prioritization of personal milestones at United are cited by critics to argue he can be ego-driven, commercially motivated, or disruptive to team harmony.",
+    "queries": [
+      "How do people view Manchester United’s treatment of Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "juventus",
+    "wiki_title": "juventus fc",
+    "summary": "Juventus is often invoked to argue that Ronaldo remained an elite, marketable winner—supporters point to his goals, Serie A titles and the club’s global commercial lift as evidence he preserved top‑level status. Critics use his Juventus stint to claim the move was more commercial than sporting, blaming it for financial strain, a lack of Champions League success and signs of Ronaldo’s tactical mismatch or decline.",
+    "queries": [
+      "Was Cristiano Ronaldo’s move to Juventus justified or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and ethical controversies",
+    "wiki_title": "ethical, legal and social aspects research",
+    "summary": "Research on ethical, legal and social aspects is frequently invoked in discussions of Cristiano Ronaldo to frame his tax investigations, lawsuits, image‑rights deals and media treatment as symptomatic of wider problems in sports law, privacy and celebrity accountability. Such work is used both to argue for stricter transparency and regulatory measures (tax compliance, agent oversight, limits on tabloid intrusion) and to push back against purely moralistic condemnations by highlighting the commercial and institutional pressures that shape elite players' conduct.",
+    "queries": [
+      "What consequences have Cristiano Ronaldo's legal and ethical controversies caused?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "las vegas metropolitan police",
+    "wiki_title": "las vegas metropolitan police department",
+    "summary": "In discussions about allegations tied to Cristiano Ronaldo, the Las Vegas Metropolitan Police Department is cited as the official investigative actor whose decisions and conduct are used to justify opposing viewpoints—supporters point to its case outcomes to argue a lack of prosecutable evidence, while critics use its handling to accuse authorities of mishandling cases, enabling celebrity privilege, or failing to support alleged victims.",
+    "queries": [
+      "Are las vegas metropolitan police justified in their conduct around Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "civil lawsuit",
+    "wiki_title": "lawsuit",
+    "summary": "Lawsuits—particularly high-profile civil claims and investigations tied to sexual-assault allegations and tax or contract disputes—are used by critics to challenge Ronaldo’s character and press for accountability. Supporters counter by pointing to dismissals, settlements, or court outcomes to argue he’s been vindicated, framing wider debates about celebrity privilege, media bias, and legal standards.",
+    "queries": [
+      "Is Cristiano Ronaldo’s civil lawsuit justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "football leaks",
+    "wiki_title": "football leaks",
+    "summary": "Journalists and critics cite Football Leaks to portray Cristiano Ronaldo as benefiting from opaque offshore image-rights and tax arrangements, using the documents to argue he avoided taxes and to bolster calls for stronger enforcement and transparency in football finances; supporters and some commentators counter that the leaks were illegally obtained and selectively presented, framing allegations as unreliable or politically motivated rather than definitive proof of criminality.",
+    "queries": [
+      "Is football leaks coverage of Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "spanish tax agency",
+    "wiki_title": "spanish tax agency",
+    "summary": "The Spanish tax agency's investigation and prosecution of Cristiano Ronaldo over alleged tax misconduct is often cited to cast him as either a symbol of elite tax evasion or as a high-profile subject of routine legal enforcement; critics use the agency's actions to demand stricter accountability for wealthy athletes, while defenders argue the case reflects selective targeting or normal fiscal procedure.",
+    "queries": [
+      "Is the spanish tax agency’s treatment of Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "offshore companies",
+    "wiki_title": "offshore company",
+    "summary": "Allegations that Cristiano Ronaldo used offshore companies to channel image‑rights and other income are often deployed to portray him as emblematic of elite tax avoidance and secrecy, fueling criticism of his ethics and calls for tougher transparency and anti‑avoidance rules; supporters counter that such structures are common, legal tax planning tools in elite sport and argue media focus is politically or commercially motivated.",
+    "queries": [
+      "How do people view Cristiano Ronaldo's involvement with offshore companies?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "tax fraud case",
+    "wiki_title": "kpmg tax shelter fraud",
+    "summary": "References to the KPMG tax shelter fraud are used to situate Cristiano Ronaldo’s tax controversies within a wider pattern of professional facilitation, either to condemn him for knowingly exploiting schemes designed by elite advisors or to deflect blame onto accountants and firms that enabled avoidance; the comparison often bolsters calls for tougher regulation and penalties for tax advisers rather than treating the athlete as the sole culprit.",
+    "queries": [
+      "How do people view the tax fraud case involving Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "tax evasion",
+    "wiki_title": "tax evasion",
+    "summary": "Allegations or cases of tax evasion are invoked to attack Ronaldo’s personal integrity and to symbolize broader grievances about celebrity wealth and unequal tax enforcement, bolstering calls for tougher oversight and accountability for high‑earning athletes.  Defenders counter by stressing legal complexity or selective targeting, using the issue to argue for nuance between illegal evasion and aggressive but lawful tax planning and against media-driven reputational damage.",
+    "queries": [
+      "Is Cristiano Ronaldo's tax evasion justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "beckham law",
+    "wiki_title": "beckham law",
+    "summary": "References to the Beckham law often surface in debates about Cristiano Ronaldo’s years in Spain: supporters frame such tax rules as routine, pragmatic incentives that help La Liga attract and retain global stars, while critics use the law to argue Ronaldo benefited from an opaque, preferential regime that facilitated tax avoidance and highlights unfair treatment of wealthy athletes.",
+    "queries": [
+      "How do people view Beckham law benefiting players like Ronaldo?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "When controversies involving Cristiano Ronaldo—from provocative social-media posts to off-field misconduct allegations or sponsor disputes—spark public backlash, allies often invoke “cancel culture” to frame the response as disproportionate mob-shaming and to rally against boycotts or reputational penalties; critics counter that labeling legitimate calls for accountability as “cancelling” is used to dismiss consequences and protect powerful figures rather than address wrongdoing.",
+    "queries": [
+      "Is cancel culture targeting Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "social media and misinformation",
+    "wiki_title": "misinformation",
+    "summary": "False or manipulated claims about Ronaldo — from fake transfer updates, doctored photos and exaggerated statistics to invented legal or health scandals — are used to either inflate his greatness and commercial value or to discredit his character and legacy. These viral untruths, amplified by rival fanbases and social media, steer debates over endorsements, club decisions and journalistic coverage, and motivate calls for stronger platform moderation or more aggressive fact-checking.",
+    "queries": [
+      "What consequences has Cristiano Ronaldo’s social media and misinformation caused?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On X, fans, rivals, journalists and pundits amplify highlight reels, memes and 'GOAT' claims or spread transfer rumors and criticisms to frame Cristiano Ronaldo either as an untouchable superstar and commercial icon or as an aging, mercenary figure. Coordinated hashtags, viral clips and unverified claims on the platform frequently shape public sentiment, sponsor pressure and media narratives around his performances, conduct and commercial value.",
+    "queries": [
+      "Is Cristiano Ronaldo’s use of Twitter reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Elon Musk is invoked in debates about Cristiano Ronaldo as a symbol of tech-enabled celebrity power and platform-driven publicity—critics point to Musk’s control of X/Twitter and controversial statements to explain spikes in pro- or anti‑Ronaldo narratives, misinformation, or amplified attacks. Supporters and skeptics also use comparisons to Musk’s billionaire branding to justify or condemn Ronaldo’s commercial choices (salaries, sponsorships, moves to Saudi clubs) as either savvy personal branding or opportunistic complicity with problematic actors.",
+    "queries": [
+      "How do people view elon musk on Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C5-1-5",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "al nassr",
+    "wiki_title": "al-nassr fc",
+    "summary": "Al-Nassr is frequently invoked in debates about Ronaldo’s motives and legacy: critics portray his move to the Saudi club as prioritizing money and fame over competitive ambition and as aiding sportswashing by legitimizing an authoritarian-backed league. Supporters counter that the transfer reflects personal freedom, helps grow football and commercial opportunities in the Middle East, extends his playing career and brand, and should not tarnish his on-field achievements.",
+    "queries": [
+      "Is Cristiano Ronaldo’s move to al nassr reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "instagram",
+    "wiki_title": "instagram",
+    "summary": "Cristiano Ronaldo’s Instagram is routinely deployed by supporters to showcase his training, family life and philanthropy and thereby justify his superstar status and commercial value, while critics point to staged luxury posts, frequent paid endorsements and selective storytelling to argue he is overly commercialized or inauthentic. His massive follower counts and viral highlights are also invoked in debates about athlete influence, sponsorship ethics, content moderation and platform responsibility for policing promotional or misleading posts by elite sports figures.",
+    "queries": [
+      "What consequences has Cristiano Ronaldo's instagram presence caused?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "influencer marketing",
+    "wiki_title": "influencer marketing",
+    "summary": "Ronaldo’s enormous social media reach is frequently cited to justify his multimillion-dollar endorsements and status as a global commercial icon, with supporters arguing his sponsored posts demonstrate value to brands and bolster his cultural influence beyond sport. Critics counter that his influencer activity commodifies his image, can normalize problematic products or sponsorships (gambling, dubious crypto/health items), and fuels calls for stricter disclosure and ethical regulation given his sway over young fans.",
+    "queries": [
+      "What impacts has influencer marketing had on Cristiano Ronaldo's image?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "deepfake",
+    "wiki_title": "deepfake",
+    "summary": "Claims that videos or images of Cristiano Ronaldo are deepfakes are often used to dismiss or discredit embarrassing or politically sensitive material about him, while conversely allegations of deepfaking are invoked to argue for stronger platform moderation, legal remedies, and media‑literacy to protect his reputation; this dynamic both defends Ronaldo from misinformation and can be weaponized to cast doubt on genuine footage.",
+    "queries": [
+      "Are Cristiano Ronaldo deepfake videos harmful or reasonable concerns?"
+    ]
+  },
+  {
+    "id": "C5-3-2",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "cryptocurrency scams",
+    "wiki_title": "cryptocurrency and crime",
+    "summary": "References to cryptocurrency crime frequently surface in discussions of Ronaldo’s endorsements and off‑field business image: critics invoke scams, laundering, and exchange hacks to argue his ties to crypto firms make him complicit or careless and to demand greater accountability, while defenders counter that such associations don’t prove personal wrongdoing and use the issue to push for clearer disclosure and stronger regulation of celebrity crypto promotion.",
+    "queries": [
+      "How do people view Cristiano Ronaldo and cryptocurrency scams?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "On TikTok, short viral edits, goal highlights, fashion clips and memes of Ronaldo are algorithmically amplified and used by supporters to lionize his skill and marketability while critics weaponize the same footage to mock perceived arrogance, age-related decline, or off-field controversies. The platform’s fast, viral spread also accelerates rumors about transfers, injuries or conduct, shaping public debates about his legacy, character, and commercial value.",
+    "queries": [
+      "What effects has Cristiano Ronaldo's tiktok engagement caused?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "eu ai act",
+    "wiki_title": "artificial intelligence act",
+    "summary": "The AI Act is often invoked in debates about Cristiano Ronaldo to argue for stronger limits on deepfakes and unauthorized commercial uses of his image—supporters claim such regulation will protect his reputation, endorsements and privacy, while critics warn it could chill fan creativity, independent sports analytics and AI-driven highlight or commentary services that use or transform footage of him.",
+    "queries": [
+      "How does the eu ai act affect Cristiano Ronaldo's commercial AI use?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "photo manipulation",
+    "wiki_title": "photograph manipulation",
+    "summary": "Doctored photos and edited images are routinely deployed in debates about Cristiano Ronaldo to either amplify his celebrity — by glamorizing his physique, staged celebrations, or sponsorship images — or to undermine him by fabricating scandals, mocking his behavior, or inflating claims about wages/transfers; such manipulations fuel partisan fan wars and drive calls for stricter media fact‑checking, platform moderation, and ethical advertising in sports.",
+    "queries": [
+      "Is photo manipulation of Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-1",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "adobe photoshop",
+    "wiki_title": "adobe photoshop",
+    "summary": "Photoshop is often cited in debates about Cristiano Ronaldo as a tool of image management—brands, magazines and PR teams use heavy retouching and fan edits to promote an idealized, hyper-athletic persona, which critics point to as evidence his public image is manufactured and misleading; conversely, defenders invoke obvious digital manipulation to discredit embarrassing or scandalous photos as fakes.",
+    "queries": [
+      "What effects do adobe photoshop alterations have on Cristiano Ronaldo's image?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "getty images",
+    "wiki_title": "getty images",
+    "summary": "Getty Images' widely licensed editorial photos of Cristiano Ronaldo serve as visual evidence in media and social debates, with image selection, cropping, and captions often reinforcing narratives that either celebrate his athleticism and branding or highlight perceived arrogance and off-field controversies. Because outlets rely on Getty for authoritative, high‑quality images, the agency's choices and licensing also shape which portrayals reach the public and how strongly they stick.",
+    "queries": [
+      "Is getty images’ portrayal of Cristiano Ronaldo fair or not?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "right of publicity",
+    "wiki_title": "personality rights",
+    "summary": "Personality rights are frequently invoked to explain and justify Cristiano Ronaldo’s aggressive protection and monetization of the CR7 brand—supporters portray him as a shrewd entrepreneur entitled to control and profit from his image, sponsorships, and merchandise. Critics argue such enforcement can stifle journalism, fan expression and archival use of his likeness, fueling debates over how far publicity rights should extend for living stars and after death.",
+    "queries": [
+      "How do people view the right of publicity for Ronaldo?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "social bots",
+    "wiki_title": "social bot",
+    "summary": "Social bots are used in discussions about Cristiano Ronaldo to amplify praise or smear opponents—coordinating fake engagement to make transfer rumors, popularity polls, and defenses during scandals seem larger and more convincing than they are. Their visible effects drive debates over platform moderation and credibility, with critics arguing bots distort public opinion about Ronaldo while some fans dismiss such claims as attempts to downplay his support.",
+    "queries": [
+      "Is using social bots around Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "click farms",
+    "wiki_title": "click farm",
+    "summary": "Accusations that Ronaldo—or his marketing apparatus—uses click farms to inflate likes and followers are used by critics to cast doubt on the authenticity of his popularity and commercial value, framing his social-media records as PR-engineered rather than fan-driven. Those claims also fuel calls for stricter platform verification and transparency from regulators or are pushed back on by supporters who argue such tactics are industry-wide and don’t negate his sporting stature.",
+    "queries": [
+      "How do people view click farms linked to Ronaldo’s popularity?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "astroturfing",
+    "wiki_title": "astroturfing",
+    "summary": "Astroturfing shows up in discussions about Cristiano Ronaldo when coordinated fake accounts and paid promoters amplify praise, inflate engagement or award votes, and suppress or displace legitimate criticism—portraying him as universally adored or manufacturing outrages against rivals and reporters. Claims of astroturfing are then used both to defend his reputation (by blaming critics) and to attack his camp or sponsors, fueling demands for platform transparency and tougher rules on coordinated inauthentic behavior.",
+    "queries": [
+      "What consequences has astroturfing had for Cristiano Ronaldo’s reputation?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "snopes",
+    "wiki_title": "snopes",
+    "summary": "Snopes is often invoked in debates about Cristiano Ronaldo to debunk viral rumors, fabricated quotes, fake injury or transfer reports, and doctored images, helping supporters rebut smears and critics correct false claims. Its fact-checks steer public discussion toward evidence-based readings of Ronaldo’s actions and career, typically undermining sensationalist narratives (though some parties may dispute fact-checkers’ authority).",
+    "queries": [
+      "Is Snopes' coverage of Cristiano Ronaldo fair or not?"
+    ]
+  },
+  {
+    "id": "C5-6-1",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "death hoax",
+    "wiki_title": "death hoax",
+    "summary": "Death hoaxes about Cristiano Ronaldo are invoked in public debates to show how viral misinformation and tabloid sensationalism can manipulate fans’ emotions, sow confusion, and occasionally harm a celebrity’s reputation. They are used to justify calls for stronger platform moderation and fact‑checking, while others use them to accuse media or online rivals of deliberate harassment aimed at undermining his image.",
+    "queries": [
+      "What consequences has Cristiano Ronaldo’s death hoax caused?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "fake tweet",
+    "wiki_title": "fake news",
+    "summary": "Claims of fake news are used both to attack and to defend Cristiano Ronaldo: fabricated allegations, doctored images, and clickbait transfer or scandal stories are circulated to damage his reputation, while his supporters frequently brand critical reporting as “fake news” to dismiss accusations and allege media bias. This tug-of-war amplifies public mistrust, polarizes debates about his conduct and achievements, and fuels demands for stricter moderation or legal remedies against defamatory content.",
+    "queries": [
+      "Is a fake tweet about Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "donation scam",
+    "wiki_title": "violin scam",
+    "summary": "The \"violin scam\" analogy is sometimes invoked by critics to portray Cristiano Ronaldo’s public gestures—charitable acts, emotional displays, or staged PR moments—as performative tricks aimed at eliciting sympathy, brand value, or financial benefit rather than genuine intent, thereby bolstering skeptical and anti-celebrity-philanthropy arguments. Defenders counter that this framing encourages undue cynicism that can delegitimize authentic charitable work and discourages public support for high-profile causes.",
+    "queries": [
+      "Is the donation scam involving Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "tabloid journalism",
+    "wiki_title": "tabloid journalism",
+    "summary": "Tabloid journalism often amplifies and sensationalizes Cristiano Ronaldo’s personal life, alleged misdeeds, and transfer drama to create polarizing narratives that can rapidly sway public opinion and club/fan reactions. Critics use tabloid stories to paint him as arrogant or controversial, while his supporters and legal teams point to tabloid unreliability and push for libel remedies or press‑regulation to defend his reputation.",
+    "queries": [
+      "How do people view tabloid journalism targeting Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "the sun",
+    "wiki_title": "sun",
+    "summary": "Solar imagery—phrases like “Ronaldo shines” or calling him the “sun” of football—is used by fans and media to cast him as an indispensable, radiant superstar whose talent and marketability justify his central role, while critics reuse similar metaphors to argue he monopolizes attention, eclipses teammates, and promotes ego-driven, individualistic play that can harm team cohesion.",
+    "queries": [
+      "What impact has the sun imagery had on Cristiano Ronaldo’s brand?"
+    ]
+  },
+  {
+    "id": "C5-7-5",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "daily mail",
+    "wiki_title": "daily mail",
+    "summary": "The Daily Mail frequently amplifies transfer rumours, legal allegations and personality-driven angles about Cristiano Ronaldo, framing him in tabloid-ready narratives—either as a mercenary diva or a consummate superstar—to drive public debate. Its coverage emphasizes sensational, moralizing details (earnings, legal troubles, age/decline), nudging readers toward admiration or moral criticism rather than nuanced sporting analysis.",
+    "queries": [
+      "Is the daily mail’s coverage of Cristiano Ronaldo fair or not?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "paparazzi",
+    "wiki_title": "paparazzi",
+    "summary": "Paparazzi photos are frequently cited in debates about Cristiano Ronaldo to either undermine his carefully controlled public image—used by tabloids to highlight alleged scandals, relationships, or private behavior—or to portray him as a victim of intrusive media, feeding arguments for stronger celebrity privacy protections. They also shape discussions about authenticity and PR, with critics pointing to candid shots as evidence contradicting his curated persona while supporters use outrage over harassment to defend him.",
+    "queries": [
+      "What effects has paparazzi scrutiny caused for Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "national identity and geopolitics",
+    "wiki_title": "national identity",
+    "summary": "National identity is often used to cast Cristiano Ronaldo as a living emblem of Portuguese pride and soft power—invoked by fans, politicians, and the diaspora to celebrate Portugal’s global status and working‑class success story. Conversely, opponents use appeals to national identity to argue that his off-field controversies or perceived self‑interest damage Portugal’s reputation or fall short of the nation’s values.",
+    "queries": [
+      "What effects has Ronaldo had on national identity and geopolitics?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "portugal national team",
+    "wiki_title": "portugal national football team",
+    "summary": "Supporters invoke Ronaldo’s role with the Portugal team to portray him as a national icon whose leadership, longevity and big-game impact cement his status among the all-time greats. Critics point to Portugal’s tactical struggles, defeats and selection controversies to argue his presence can be a team liability or that continued selection is driven more by sentiment and reputation than current merit.",
+    "queries": [
+      "Is Cristiano Ronaldo’s leadership of the portugal national team justified?"
+    ]
+  },
+  {
+    "id": "C6-1-2",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "roberto martínez",
+    "wiki_title": "roberto martínez",
+    "summary": "As an opposing national-team coach who faced Portugal, Roberto Martínez is often invoked in debates about Cristiano Ronaldo’s international performances; commentators use Martínez’s tactical choices and post-match remarks either to explain/criticize moments when Ronaldo was contained or to defend Ronaldo by blaming managerial strategy for any underwhelming displays.",
+    "queries": [
+      "Is Roberto Martínez’s view of Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "uefa nations league 2019",
+    "wiki_title": "uefa nations league",
+    "summary": "The UEFA Nations League is invoked in debates over Ronaldo’s international standing—supporters point to his contributions in Nations League campaigns to underscore his leadership, longevity, and ability to add trophies for Portugal, while critics highlight his uneven performances or reduced role in Nations League matches to argue he is past his peak and should be rested or phased out. Commentators also use the competition’s lower prestige to either amplify or diminish the significance of those arguments when assessing Ronaldo’s legacy and selection policy for the national team.",
+    "queries": [
+      "How do people view Cristiano Ronaldo’s uefa nations league 2019 role?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "portugal captaincy",
+    "wiki_title": "captaincy",
+    "summary": "In public debates, 'captaincy' is used to bolster claims that Ronaldo is Portugal’s authoritative leader whose armband legitimizes his influence and motivational role, while critics use it to argue that his captaincy masks selfishness or a lack of true locker-room leadership. It also serves as a focal point in arguments about accountability—whether a high-profile captain should bear blame for team failures or if the role has become symbolic reward for star power rather than merit.",
+    "queries": [
+      "What impacts has Cristiano Ronaldo’s portugal captaincy caused?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "bruno fernandes",
+    "wiki_title": "bruno fernandes",
+    "summary": "Bruno Fernandes is frequently invoked in debates about Cristiano Ronaldo’s impact at Manchester United—used to argue that Ronaldo’s return disrupted Fernandes’ playmaking influence and team balance, thereby criticizing Ronaldo as a goals-first figure who can undermine midfield cohesion. Conversely, supporters point to successful moments when Fernandes and Ronaldo combined to frame the contention that the squad can accommodate both, shaping arguments about whether management should build around a creative midfielder or an established superstar.",
+    "queries": [
+      "What effects has bruno fernandes had on Cristiano Ronaldo's form?"
+    ]
+  },
+  {
+    "id": "C6-1-7",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "a bola",
+    "wiki_title": "a bola",
+    "summary": "A Bola is frequently cited in debates about Cristiano Ronaldo as a Portuguese mainstream source that amplifies his achievements and frames him as a national icon, used by supporters to justify praise and national pride. Critics, however, point to its sensational headlines and perceived pro-Ronaldo slant to argue that media bias inflates his reputation or downplays controversies such as transfers, conduct, or legal issues.",
+    "queries": [
+      "Is a bola recognition for Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "euro 2016",
+    "wiki_title": "uefa euro 2016",
+    "summary": "Euro 2016 is frequently cited to bolster claims that Ronaldo completed his résumé by leading Portugal to a first major international title, portraying him as a national leader whose presence and resilience elevated the team and strengthened his GOAT-case. Detractors counter that his injury-forced exit from the final and relatively modest direct contribution in some matches show his role was more symbolic than decisive, using the tournament to argue the victory owed more to the squad and tactics than to Ronaldo alone.",
+    "queries": [
+      "Is Cristiano Ronaldo's euro 2016 criticism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "fernando santos",
+    "wiki_title": "fernando santos",
+    "summary": "As Portugal’s national-team coach during Cristiano Ronaldo’s prime, Fernando Santos is often cited in debates to show how a manager can either enable or contain a megastar—supporters argue Santos’s pragmatic tactics and captaincy management allowed Ronaldo to deliver at tournaments, while critics use Santos’s adjustments (rotations, tactical restraints) to justify claims that Portugal’s success owed as much to coaching as to Ronaldo and to argue for limiting an aging superstar’s centrality.",
+    "queries": [
+      "How do people view Fernando Santos's relationship with Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "eder",
+    "wiki_title": "eder",
+    "summary": "References to Éder are often invoked in arguments about Cristiano Ronaldo’s legacy to either downplay Ronaldo’s direct role in Portugal’s Euro 2016 win—highlighting that an obscure striker produced the decisive moment—or to defend him by arguing his leadership and presence helped create the conditions for teammates like Éder to succeed.",
+    "queries": [
+      "Is recognition for eder reasonable considering Cristiano Ronaldo's career?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "renato sanches",
+    "wiki_title": "renato sanches",
+    "summary": "Renato Sanches is often invoked in debates about Cristiano Ronaldo as a marker of Portugal’s next generation — used to argue that the national team can move beyond reliance on Ronaldo and that fresh midfield talent will define the post‑Ronaldo era; conversely, critics who defend Ronaldo point to Sanches’ inconsistency to claim no current Portuguese player matches Ronaldo’s longevity and impact, reinforcing arguments for continued reliance on the veteran.",
+    "queries": [
+      "What impacts has renato sanches had on Cristiano Ronaldo’s teams?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "ronaldo injury",
+    "wiki_title": "ronaldinho",
+    "summary": "Ronaldinho is frequently used as a foil in debates about Cristiano Ronaldo—invoked by those who valorize artistry to argue Ronaldo lacks improvisational flair and joyous creativity, and by Ronaldo’s defenders as a cautionary example of wasted talent to justify praise for Cristiano’s professionalism, longevity and record-focused approach.",
+    "queries": [
+      "How do people view ronaldo injury management?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "antoine griezmann",
+    "wiki_title": "antoine griezmann",
+    "summary": "Antoine Griezmann is frequently used as a foil in debates about Cristiano Ronaldo, with commentators praising Griezmann’s team-oriented, tactical play and low-key persona to criticize Ronaldo’s perceived individualism and showmanship; conversely, Ronaldo’s supporters point to his superior scoring records and clutch moments to dismiss Griezmann as less decisive. In Ballon d’Or, club and national-team discussions, Griezmann’s profile is deployed to argue for valuing collective contribution and versatility over pure goal tallies when assessing Ronaldo’s legacy.",
+    "queries": [
+      "Is criticism of Antoine Griezmann reasonable when contrasted with Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "madeira",
+    "wiki_title": "madeira",
+    "summary": "Ronaldo’s Madeiran origins are often invoked to frame him as a self‑made, hardworking ‘son of Funchal’ whose humble island upbringing explains his drive and loyalty to Portugal, a narrative embraced by fans, regional politicians and marketers to boost local pride. Critics, by contrast, use the contrast between that small‑island image and his global wealth, lifestyle and tax moves to question his authenticity or to argue he has outgrown the hometown identity.",
+    "queries": [
+      "Is Cristiano Ronaldo’s relationship with madeira reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "funchal",
+    "wiki_title": "funchal",
+    "summary": "Funchal is repeatedly invoked as Ronaldo’s hometown to frame narratives of humble origins, local pride and justification for civic honors, tourism campaigns and investments tied to his celebrity. Critics counter that the city’s embrace sometimes illustrates undue celebrity influence on municipal priorities and is used to deflect scrutiny of his conduct, finances or the broader politics of celebrity promotion.",
+    "queries": [
+      "How do people view funchal's celebration of Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "cr7 museum",
+    "wiki_title": "museu cr7",
+    "summary": "The CR7 Museum is frequently cited as tangible proof of Ronaldo’s sporting greatness and brand-building, reinforcing narratives that he is a hometown hero whose trophies and commercial success justify celebrity status and local pride. Critics use the museum to frame him as overly commercialized or vain, and to argue debates about celebrity commodification, tourism-driven local investment, and whether public attention/resources disproportionately serve private branding.",
+    "queries": [
+      "How do people view Cristiano Ronaldo's cr7 museum?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "pestana cr7 hotels",
+    "wiki_title": "pestana group",
+    "summary": "The Pestana Group’s CR7 hotel partnership is frequently cited to portray Cristiano Ronaldo as a shrewd entrepreneur and ambassador for Portuguese tourism—evidence of his brand-building and business diversification beyond football; conversely, critics use the tie-up to argue his public persona is overly commercialized, emphasizing image and merchandising over sporting or philanthropic substance.",
+    "queries": [
+      "What impact have pestana cr7 hotels had on Ronaldo’s public image?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "c.d. nacional",
+    "wiki_title": "c.d. nacional",
+    "summary": "C.D. Nacional is invoked in discussions of Ronaldo primarily to anchor the story of his humble Madeiran origins and to credit local clubs with seeding his early talent, bolstering narratives of regional pride and the importance of grassroots development. It also appears in critiques about club loyalty and youth‑recruitment — used to argue either that elite success stems from big clubs poaching young prospects or that smaller academies deserve more recognition and support.",
+    "queries": [
+      "What effects has c.d. nacional had on Cristiano Ronaldo's trajectory?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "portuguese diaspora",
+    "wiki_title": "portuguese people",
+    "summary": "References to the Portuguese people are frequently used to frame Ronaldo as a national emblem—supporters and politicians cite him to justify pride, boost Portugal’s international image, and argue for cultural or commercial promotion—while critics invoke the same national lens to hold him accountable for how his behavior or controversies reflect on Portuguese values, identity, and soft‑power. Diaspora narratives also leverage him either as a unifying hero or as evidence in debates over celebrity privilege, nationalism, and Portugal’s global reputation.",
+    "queries": [
+      "What effects has Cristiano Ronaldo had on the Portuguese diaspora?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "emigration from portugal",
+    "wiki_title": "emigration from africa",
+    "summary": "References to emigration from Africa are often invoked in debates about Cristiano Ronaldo to juxtapose his global success with the hardships faced by African migrants—used by supporters to argue for more inclusion and to expose racial double standards, and by opponents or nationalist commentators to argue for tighter immigration controls or cultural differences. Such comparisons shape narratives about who deserves opportunity and recognition, and are deployed both to criticize media/footballing biases and to justify exclusionary policies.",
+    "queries": [
+      "What consequences has emigration from Portugal had for Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "portuguese brazilians",
+    "wiki_title": "portuguese brazilians",
+    "summary": "Portuguese Brazilians are often invoked to explain Cristiano Ronaldo’s strong popularity and commercial reach within the Lusophone world, used to justify his marketing appeal and cross‑national fanbase in Brazil and among Brazilians of Portuguese descent. They also feature in debates comparing Ronaldo to Brazilian stars or in critiques about national/ethnic loyalties when diaspora supporters prioritize Portugal over Brazil.",
+    "queries": [
+      "Is Cristiano Ronaldo’s appeal among portuguese brazilians reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "community of portuguese language countries",
+    "wiki_title": "community of portuguese language countries",
+    "summary": "The CPLP is often invoked to cast Ronaldo as a transnational Lusophone icon and informal cultural ambassador, a symbol used by supporters and Portuguese-speaking governments to boost soft power, tourism, and diplomatic ties. Critics counter that invoking the CPLP around Ronaldo highlights inequalities within the Lusophone world and questions whether his fame translates into real benefits for less affluent Portuguese-speaking countries.",
+    "queries": [
+      "How do people view the community of portuguese language countries and Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "remittances",
+    "wiki_title": "remittance",
+    "summary": "Remittance is often cited to portray Ronaldo as a benefactor who ‘gives back’ to his home region—supporters point to his private transfers and charitable payments as evidence of loyalty and social responsibility. Conversely, critics use the remittance frame to argue his donations are PR, inadequate compared with his tax liabilities, and that celebrity gifts shouldn’t be treated as a substitute for public policy or structural support.",
+    "queries": [
+      "What consequences have Cristiano Ronaldo's remittances caused?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "portugal–spain relations",
+    "wiki_title": "portugal–spain relations",
+    "summary": "References to Portugal–Spain relations are often used to frame Cristiano Ronaldo as a symbol of Portuguese national pride in contrast to Spanish football and media establishments, bolstering narratives of rivalry whenever he excels against Spanish clubs or players. Conversely, that bilateral context is also invoked by critics to interpret his Real Madrid years and legal/tax disputes as examples of clashes with—or advantages from—Spanish institutions, shaping debates about his character, fairness, and treatment.",
+    "queries": [
+      "How do people view portugal–spain relations because of Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "la liga",
+    "wiki_title": "la liga",
+    "summary": "La Liga is repeatedly invoked in debates about Ronaldo’s legacy: his dominant Real Madrid years and La Liga statistics (goals, titles) are used to bolster claims that he is an all‑time great and to compare him directly with Messi. Critics, however, point to La Liga’s era of Real/Barça dominance, perceived competitive imbalances, and Ronaldo’s later moves away from Spain to argue his peak was league‑dependent or to downplay certain records.",
+    "queries": [
+      "What impacts has Cristiano Ronaldo had on la liga?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "sergio ramos",
+    "wiki_title": "sergio ramos",
+    "summary": "Sergio Ramos is often invoked in debates about Cristiano Ronaldo as the embodiment of Real Madrid’s team-first leadership used either to amplify or to temper Ronaldo’s reputation: defenders argue Ramos’s defensive stability and set-piece threat helped create the platform for Ronaldo’s scoring, while critics use Ramos as a foil to portray Ronaldo as more individualistic and record-chasing. Ramos’s public praise or criticisms of Ronaldo are regularly seized by fans and pundits as evidence about Ronaldo’s character, team value, and legacy.",
+    "queries": [
+      "Is Cristiano Ronaldo's friendship with sergio ramos reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "marca",
+    "wiki_title": "marca",
+    "summary": "Spanish sports daily Marca is frequently cited to amplify narratives about Ronaldo’s greatness, transfer value, and rivalry with Messi—used by supporters to justify awards, market moves, and his legacy tied to Real Madrid—while critics point to Marca’s sensationalist, pro‑club slant to challenge or downplay those same claims and highlight controversies about his attitude and behaviour.",
+    "queries": [
+      "Is Cristiano Ronaldo's marca strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "spain national team",
+    "wiki_title": "spain national team",
+    "summary": "The Spain national team is invoked as a benchmark and foil in debates about Cristiano Ronaldo’s international standing: critics point to Spain’s dominance and Ronaldo’s mixed results against Spanish opponents to argue he sometimes underperformed on the biggest stages, while defenders cite his goals and strong showings versus Spain (and Spanish club defenders) to bolster claims of his clutch quality and overall greatness.",
+    "queries": [
+      "Is Cristiano Ronaldo playing for the spain national team reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "sportswashing",
+    "wiki_title": "sportswashing",
+    "summary": "In debates about Cristiano Ronaldo, 'sportswashing' is invoked by critics who say his transfers, sponsorships, and public ties—notably his move to the Saudi Pro League and business links with Gulf entities—help legitimize authoritarian regimes and divert attention from human-rights concerns. Supporters counter that this unfairly politicizes his career by treating professional and financial choices as political endorsements, but the label nonetheless drives calls for tougher ethical scrutiny of athlete deals and occasional boycott arguments.",
+    "queries": [
+      "How do people view sportswashing tied to Ronaldo’s image?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "public investment fund",
+    "wiki_title": "public investment fund",
+    "summary": "Public investment funds are frequently cited in discussions of Ronaldo’s moves and endorsements to argue he is being used to legitimize state-led sports diplomacy and ‘sportswashing,’ with critics urging reputational accountability and human-rights conditionality. Supporters counter that such state-backed investment simply advances economic diversification, raises the profile and competitiveness of emerging leagues, and reflects normal commercial choices by a player maximizing career and commercial opportunities.",
+    "queries": [
+      "What consequences has Cristiano Ronaldo’s public investment fund caused?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "mohammed bin salman",
+    "wiki_title": "mohammed bin salman",
+    "summary": "Mohammed bin Salman is frequently invoked by critics to argue that Cristiano Ronaldo’s move to Saudi Arabia serves as sportswashing—boosting the crown prince’s international image and legitimizing a regime criticized for human‑rights abuses. Supporters, however, frame the transfer as part of MBS’s Vision 2030 drive to diversify and professionalize Saudi sport, portraying Ronaldo’s arrival as a legitimate commercial and sporting opportunity that can develop football in the kingdom.",
+    "queries": [
+      "How do people view Mohammed bin Salman's involvement with Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "human rights in saudi arabia",
+    "wiki_title": "human rights in saudi arabia",
+    "summary": "Saudi Arabia's human-rights record is frequently invoked to accuse Cristiano Ronaldo of enabling 'sportswashing'—critics argue his lucrative move to Al Nassr legitimizes an authoritarian regime and undermines human-rights advocacy—while defenders frame his choice as a personal, economic decision or a potential conduit for engagement. That contrast drives public calls for boycotts and sponsor pressure on one side and arguments against politicizing athletes on the other.",
+    "queries": [
+      "Is Cristiano Ronaldo's association with human rights in Saudi Arabia reasonable?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "the guardian",
+    "wiki_title": "the guardian",
+    "summary": "The Guardian is frequently cited to provide investigative, analytical and opinion-driven coverage of Cristiano Ronaldo—highlighting his on-field achievements while scrutinising his commercialisation, legal and behavioural controversies (tax disputes, allegations, club conflicts) and arguing for accountability over celebrity mythmaking. Its commentary typically tempers celebratory narratives, emphasizing the social, ethical and institutional contexts of his actions rather than uncritical hero worship.",
+    "queries": [
+      "Are criticisms of the guardian about Cristiano Ronaldo justified or reasonable?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "saudi pro league",
+    "wiki_title": "saudi pro league",
+    "summary": "Ronaldo’s move to the Saudi Pro League is often used to argue he traded peak competitive ambition for a lucrative final contract—framing him as either cash‑motivated and past his prime or as a savvy global brand-builder helping grow football in the Middle East. The league also figures in accusations of sportswashing, with critics saying his presence whitewashes Saudi human‑rights record while defenders call such critiques unfair politicization of a player’s career choices.",
+    "queries": [
+      "How do people view the saudi pro league signing of Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-7-3",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "saudi vision 2030",
+    "wiki_title": "saudi vision 2030",
+    "summary": "Ronaldo’s transfer to Saudi Arabia is often presented by supporters as a tangible win for Saudi Vision 2030—showing the plan’s ability to diversify the economy, boost tourism and globalize the domestic sports sector—while critics use the same connection to argue it’s a deliberate instance of sportswashing, leveraging superstar signings to polish the kingdom’s image despite human-rights concerns.",
+    "queries": [
+      "How do people view saudi vision 2030's role in Ronaldo's career?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "karim benzema",
+    "wiki_title": "karim benzema",
+    "summary": "Benzema is frequently used as a foil in discussions about Ronaldo: his rise into a leading, creative focal point after Ronaldo’s exit is cited to argue that Real Madrid’s success was a product of complementary partnerships rather than Ronaldo alone, while others invoke Benzema’s later acclaim to challenge Ronaldo’s claim to singular greatness. Debates that name Benzema typically either undermine narratives of Ronaldo’s indispensability by emphasizing team dynamics and Benzema’s development, or reinforce Ronaldo’s superiority by contrasting his record-breaking goalscoring with Benzema’s different style.",
+    "queries": [
+      "How do fans view Karim Benzema’s achievements compared with Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "highest-paid athletes",
+    "wiki_title": "forbes list of the world's highest-paid athletes",
+    "summary": "Lists placing Ronaldo among the world's highest-paid athletes are often cited to emphasize his extraordinary commercial appeal and marketability—used to justify his massive salaries, endorsement deals, and status alongside or above rivals like Messi. Critics, however, use those rankings to argue that his fame is driven more by branding and business interests than sport, to highlight pay inequality or tax controversies, and to question whether earnings reflect on-field merit.",
+    "queries": [
+      "Is Cristiano Ronaldo being among the highest-paid athletes justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "fan communities and social identity",
+    "wiki_title": "social identity theory",
+    "summary": "Commentators and researchers use social identity ideas to explain why Ronaldo is lionized or excoriated along club- and nation-based lines — fans treat him as a symbol of their ingroup and excuse mistakes, while rival supporters amplify negatives as outgroup hostility, producing polarized assessments of his conduct and legacy. The concept is also invoked to critique how clubs, media, or politicians cultivate or exploit Ronaldo’s group-based identity to mobilize loyalty, deflect criticism, or influence public tolerance for sanctions.",
+    "queries": [
+      "Is fan communities and social identity around Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "ronaldo–messi rivalry",
+    "wiki_title": "messi–ronaldo rivalry",
+    "summary": "The Messi–Ronaldo rivalry is routinely deployed to argue for or against Cristiano Ronaldo’s status as the greatest, with supporters highlighting his athleticism, goal output and work ethic while detractors point to comparisons in style, trophies and head‑to‑head records to diminish his claim. It also polarizes fan discourse and media narratives, shaping how his awards, transfers, aging and legacy are interpreted and debated.",
+    "queries": [
+      "How do people view the ronaldo–messi rivalry today?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "cr7 (brand)",
+    "wiki_title": "cr7 (disambiguation)",
+    "summary": "The CR7 moniker and associated branding are invoked to frame Ronaldo as a global superstar and commercial success—used by supporters to justify his cultural dominance, market value, and elite status in debates comparing him to peers. Critics, however, point to CR7 imagery and merchandising to argue he is overly commodified or ego-driven, using it to criticize his team-first credentials and to highlight broader concerns about the commercialization of sport.",
+    "queries": [
+      "Is Cristiano Ronaldo’s cr7 (brand) expansion reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "tag heuer",
+    "wiki_title": "tag heuer",
+    "summary": "TAG Heuer sponsorships and product placements are often cited to underline Ronaldo’s elite, precision-driven brand and global marketability, reinforcing narratives that he is a disciplined, luxury-level performer. Critics use his association with TAG Heuer to frame him as overly commercialized or elitist, questioning the authenticity of his public image and prioritizing endorsement income over sporting values.",
+    "queries": [
+      "How do people view Ronaldo’s association with Tag Heuer?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "siuuu celebration",
+    "wiki_title": "siu",
+    "summary": "Fans invoke the 'siu' celebration as a rallying symbol of Ronaldo's brilliance and winning mentality, using it to justify claims about his greatness, clutch scoring, and cultural icon status; opponents and rivals mimic or deride the chant to frame him as ostentatious or ego‑driven, turning it into a shorthand in arguments over his personality, legacy, and team impact.",
+    "queries": [
+      "What impact does the siuuu celebration have on fans and opponents?"
+    ]
+  },
+  {
+    "id": "C7-3-1",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "goal celebration",
+    "wiki_title": "goal celebration",
+    "summary": "Ronaldo’s distinctive goal celebrations (notably the “Sii!” jump and pose) are often cited in public debates as shorthand for his celebrity brand and self‑promotion, bolstering narratives that he is a marketable, confidence‑driven winner; conversely critics point to the same celebrations to argue he values personal glory over team humility and sportsmanship.",
+    "queries": [
+      "Is Cristiano Ronaldo's goal celebration reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "internet meme",
+    "wiki_title": "internet meme",
+    "summary": "Memes about Ronaldo—ranging from glorifying 'GOAT' images and fitness/brand tropes to mocking clips of goal celebrations, alleged diving, or tantrums—are used by fans and rivals to quickly bolster or undermine his reputation in debates over skill, sportsmanship, and legacy. In controversies or transfer sagas these memes simplify complex narratives, entrench partisan views, and steer public sentiment toward ridicule or adulation rather than nuanced evaluation.",
+    "queries": [
+      "How do people view the Cristiano Ronaldo internet meme?"
+    ]
+  },
+  {
+    "id": "C7-3-7",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "football chant",
+    "wiki_title": "football chant",
+    "summary": "Stadium chants about Cristiano Ronaldo function as immediate public endorsements or rebukes—supporters’ ‘siuu’ and celebratory songs help build his cult-of-personality and justify adulation for his goals and transfers, while rival terraces’ mocking or abusive chants frame him as arrogant, mercenary, or a diver, reinforcing criticism of his character or club decisions; in debates these vocal snippets are often cited as evidence of popular sentiment and used to pressure clubs, media narratives, or disciplinary policies.",
+    "queries": [
+      "Is a football chant about Cristiano Ronaldo appropriate or not?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "real madrid supporters",
+    "wiki_title": "real madrid cf",
+    "summary": "Real Madrid is repeatedly used to frame Ronaldo's legacy: supporters point to his peak years at the club and the visible trophies and commercial impact to argue he is a GOAT-level superstar and proof the Galácticos model works. Conversely, critics argue his achievements were amplified by a star-driven system, elite teammates and the club's marketing power, framing him as a product of the institution rather than solely its greatest individual talent.",
+    "queries": [
+      "Is criticism of real madrid supporters over Cristiano Ronaldo reasonable?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "florentino pérez",
+    "wiki_title": "florentino pérez",
+    "summary": "As Real Madrid’s president who signed, promoted and ultimately let Cristiano Ronaldo leave, Florentino Pérez is routinely invoked to frame Ronaldo as either the centerpiece of a star-driven, commercial 'Galácticos' project or as a commodified talent shaped by the club’s branding and financial priorities. Supporters credit Pérez’s vision for amplifying Ronaldo’s sporting and global success, while critics use his decisions to argue the club prioritized image, money, and strategic renewal over player loyalty or continuity.",
+    "queries": [
+      "How do people view florentino pérez’s role in Ronaldo’s transfers?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "zinedine zidane",
+    "wiki_title": "zinedine zidane",
+    "summary": "Zidane is often invoked as a contrasting benchmark to Cristiano Ronaldo — his image as an elegant, team-focused playmaker is used by critics to portray Ronaldo as more athletic, individualistic and goals-focused than ‘classically’ graceful. Conversely, Zidane’s tenure as Real Madrid coach is cited by supporters to argue Ronaldo’s peak output was amplified by smart management and team structure rather than solely individual brilliance.",
+    "queries": [
+      "Is Zinedine Zidane’s praise of Cristiano Ronaldo justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "el clásico",
+    "wiki_title": "el clásico (disambiguation)",
+    "summary": "References to El Clásico are frequently used in debates about Cristiano Ronaldo to spotlight his big‑game credentials — supporters point to his goals and decisive performances against Barcelona as proof of his greatness and clutch mentality, while critics use specific El Clásico losses, on-field theatrics or disciplinary moments to question his consistency, sportsmanship, and legacy in the Messi–Ronaldo comparison.",
+    "queries": [
+      "What effects has el clásico had on Ronaldo's legacy?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "galácticos",
+    "wiki_title": "galácticos",
+    "summary": "Supporters point to Ronaldo as the quintessential 'galáctico' to justify Real Madrid’s celebrity-driven strategy, crediting his signing with boosting the club’s brand and delivering major trophies; critics invoke the same label to argue his presence exemplified a star-first, ego-driven approach that skewed squad balance and prioritized marketability over long‑term team construction.",
+    "queries": [
+      "What effects have galácticos had on Cristiano Ronaldo's career?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "no. 7 shirt",
+    "wiki_title": "shirt",
+    "summary": "The shirt—especially the No.7 jersey and club kits—is used as a shorthand for Ronaldo’s superstar brand, with record shirt sales and the ‘CR7’ label frequently cited to justify his market value, wages, and cultural influence. At the same time shirt-related gestures (refusing or swapping jerseys, taking his shirt off in celebration, or posing in rival kits) are deployed to criticize his loyalty, ego, or the commercialization of football and to rally fan praise or protest.",
+    "queries": [
+      "What impact has Cristiano Ronaldo's no. 7 shirt had?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "manchester united supporters",
+    "wiki_title": "manchester united supporters' trust",
+    "summary": "The Manchester United Supporters' Trust is cited in public debates about Cristiano Ronaldo to represent and amplify fan judgments—criticizing club choices around his signing, playing time, or exit and using those disputes to press for greater transparency and governance. Its interventions frame Ronaldo either as a sentimental club icon whose treatment exposes mismanagement or as a costly, disruptive figure whose presence reveals problematic priorities (commercial over sporting) at the club.",
+    "queries": [
+      "Are manchester united supporters justified in criticizing Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "glazer family",
+    "wiki_title": "malcolm glazer",
+    "summary": "Malcolm Glazer’s ownership of Manchester United is frequently invoked in discussions about Cristiano Ronaldo to portray his career moves as shaped by commercial priorities rather than purely sporting ones—critics blame the Glazers for decisions and instability that they say contributed to Ronaldo’s 2009 departure (and later commodified his return). This framing supports arguments for greater fan control or takeover regulation, while opponents argue the Glazers’ commercial scale enabled Ronaldo’s global brand and earnings.",
+    "queries": [
+      "Is criticism of the glazer family justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "ole gunnar solskjær",
+    "wiki_title": "ole gunnar solskjær",
+    "summary": "As Manchester United manager during Ronaldo's return, Solskjær is often cited to argue that the manager either mishandled Ronaldo—through selection and public handling that fueled tensions and constrained his impact—or correctly prioritized team structure over special treatment. Commentators use Solskjær to frame the dispute as managerial authority versus superstar entitlement, shaping views about Ronaldo’s adaptability, attitude, and fit within a team system.",
+    "queries": [
+      "How do people view ole gunnar solskjær’s decisions regarding Ronaldo?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "erik ten hag",
+    "wiki_title": "erik ten hag",
+    "summary": "Erik ten Hag is often invoked as the manager who confronted Cristiano Ronaldo’s superstar status, with commentators using his benchings, tactical exclusions, and tough public stance to justify enforcing discipline and prioritizing team structure over individual ego. Conversely, Ronaldo’s supporters frame Ten Hag’s actions as managerial overreach or mishandling of a club legend, arguing they reflect personal conflict rather than objective sporting necessity.",
+    "queries": [
+      "Are erik ten hag’s expectations of Cristiano Ronaldo fair or justified?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "2021 return",
+    "wiki_title": "returnal",
+    "summary": "Commentators and fans sometimes invoke Returnal’s time‑loop/roguelike premise as a metaphor for Cristiano Ronaldo’s relentless comebacks and grind, using it to justify admiration for his persistence and ability to ‘reset and succeed’; conversely critics borrow the same imagery to argue he’s trapped in repetitive patterns—transfers, controversies and routines—that suggest stubbornness or failure to evolve.",
+    "queries": [
+      "Was Cristiano Ronaldo's 2021 return justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "piers morgan interview",
+    "wiki_title": "piers morgan",
+    "summary": "Piers Morgan frequently appears in media debates about Cristiano Ronaldo as a high-profile, polemical commentator whose blunt, sensational takes either defend Ronaldo as a wronged superstar battling hostile media and institutions or cast him as an entitled, attention-seeking celebrity; his interventions amplify polarization, rallying supporters and giving critics provocative talking points.",
+    "queries": [
+      "Is Cristiano Ronaldo's piers morgan interview reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "portugal fans",
+    "wiki_title": "sporting cp",
+    "summary": "Sporting CP is routinely invoked as Ronaldo’s origin story to legitimize narratives about his innate talent, work ethic and the strength of Portuguese youth development—used by fans and pundits to credit his formative coaching and professionalism. Conversely, commentators who criticize Ronaldo point to his early exit from Sporting as evidence of ambition-over-loyalty and the mercenary dynamics of modern football, fueling debates about player allegiance and the export of domestic talent.",
+    "queries": [
+      "What influence do portugal fans have on Ronaldo's reputation?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "portuguese football federation",
+    "wiki_title": "portuguese football federation",
+    "summary": "The Portuguese Football Federation is often cited to legitimize or challenge narratives about Ronaldo’s national-team status — its selections, public endorsements and disciplinary handling are used to justify his continued captaincy and centrality as Portugal’s symbol or to accuse the association of enabling preferential treatment. Commentators and critics invoke FPF decisions to frame him either as a protected national icon whose records and leadership warrant deference or as an over-relied-on star whose status is maintained for prestige and commercial value rather than sporting merit.",
+    "queries": [
+      "What consequences has the portuguese football federation’s stance had?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "health, performance and sports science",
+    "wiki_title": "sports science",
+    "summary": "Sports science is frequently cited to explain and praise Ronaldo’s extraordinary fitness, longevity and skill—analyses of his training, nutrition, recovery and biomechanics are used to argue that scientific methods, not just natural talent, underpin his sustained elite performance. It also frames critiques and policy debates—scientific metrics are invoked both to question potential performance-enhancing practices or overtraining risks and to push clubs and federations toward stricter medical protocols and modernized training/rehabilitation standards.",
+    "queries": [
+      "How do people view Cristiano Ronaldo's health, performance and sports science?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "world anti-doping agency",
+    "wiki_title": "world anti-doping agency",
+    "summary": "WADA is often invoked in debates about Cristiano Ronaldo to defend his reputation—supporters point to the lack of WADA sanctions and standardized testing as evidence that his longevity and physique are lawful—while critics use WADA standards to demand more transparency, equal testing, or retrospective analysis of elite footballers. References to WADA thus frame arguments about fairness in anti-doping enforcement and are used to justify calls for stricter testing protocols or to cast doubt when performance or recovery patterns attract scrutiny.",
+    "queries": [
+      "Is the World Anti-Doping Agency scrutiny of Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "therapeutic use exemption",
+    "wiki_title": "therapeutic use exemption",
+    "summary": "In debates about Cristiano Ronaldo, TUEs are invoked both to defend and to criticize his achievements: supporters cite the existence of legitimate medical exemptions to rebut insinuations of illicit enhancement, while critics point to TUE scandals to suggest medical loopholes could explain or unfairly augment elite performance. References to TUEs in discussions of Ronaldo therefore tend to bolster calls for greater transparency and stricter oversight, or to seed skepticism about unexplained athletic longevity.",
+    "queries": [
+      "What effects has Cristiano Ronaldo’s therapeutic use exemption caused?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "bbc sport",
+    "wiki_title": "bbc sport",
+    "summary": "BBC Sport is often cited as an authoritative voice in debates about Cristiano Ronaldo, using match reports, features and pundit analysis to amplify narratives of his record‑breaking excellence and leadership while also scrutinising controversies, discipline, transfers and perceived decline with age. Its coverage is used to justify both praise for his legacy and criticism of his behaviour, fitness or tactical fit, shaping public opinion and discussions about club and national team decisions.",
+    "queries": [
+      "Is bbc sport coverage of Cristiano Ronaldo fair or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "performance-enhancing drugs",
+    "wiki_title": "performance-enhancing substance",
+    "summary": "References to performance-enhancing substances are often used by critics to suggest Ronaldo’s extraordinary physique, longevity and recovery are suspicious—fueling calls for tougher testing and damaging insinuations about fairness—while defenders point to clean test records, diet and training to reject conspiracy theories and argue against reputational harm and overzealous anti-doping measures.",
+    "queries": [
+      "How do people view Cristiano Ronaldo and performance-enhancing drugs?"
+    ]
+  },
+  {
+    "id": "C8-2-4",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "athlete biological passport",
+    "wiki_title": "athlete biological passport",
+    "summary": "References to the athlete biological passport are used by Ronaldo’s defenders to point to objective, longitudinal test data as a way to rebut rumors that his prolonged peak and physique come from banned substances, while critics and policy advocates invoke the passport to argue football should adopt stricter blood/biomarker monitoring to resolve lingering suspicion about elite players’ longevity and unequal testing across sports.",
+    "queries": [
+      "Is applying the athlete biological passport to Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "anabolic steroids",
+    "wiki_title": "anabolic steroid",
+    "summary": "References to anabolic steroids are often invoked to question whether Cristiano Ronaldo’s physique, durability, or late-career production come from illicit enhancement, serving as a smear or suspicion in online debate; defenders counter by citing his testing record and professionalism to reject such accusations, while commentators use the issue to argue either for stricter anti-doping enforcement or to portray critics as envious or politically motivated.",
+    "queries": [
+      "How do people view anabolic steroids allegations involving Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "erythropoietin",
+    "wiki_title": "erythropoietin",
+    "summary": "Erythropoietin is invoked in public debates about Cristiano Ronaldo as a shorthand for doping — critics sometimes suggest EPO could explain his extraordinary endurance, recovery and longevity, using the claim to cast suspicion and demand stricter testing. Supporters push back that such allegations are speculative smears, while others use the EPO narrative to argue for greater anti‑doping transparency and retrospective screening in elite football.",
+    "queries": [
+      "What would erythropoietin associations mean for Cristiano Ronaldo's reputation?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "dietary supplements",
+    "wiki_title": "dietary supplement",
+    "summary": "Dietary supplements feature in debates about Ronaldo by being used to explain or bolster narratives of his exceptional fitness and longevity—supporters highlight his disciplined, supplement‑based nutrition and endorsements as evidence of professional self-care, while critics point to high‑profile supplement marketing and rumors about performance‑enhancing products to question the purity of his achievements and to press for tighter regulation of athlete endorsements.",
+    "queries": [
+      "Are dietary supplements in Ronaldo’s career justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "high-intensity interval training",
+    "wiki_title": "high-intensity interval training",
+    "summary": "References to HIIT are used to credit Ronaldo’s exceptional fitness, speed, and career longevity—supporters cite his intense interval programming as proof of elite work ethic and a model for athlete preparation and commercial fitness products—while skeptics invoke HIIT to argue his routine is extreme, injury-prone, and impractical for most players or youth development pathways, framing some accolades as the result of specialized, commercialized training rather than purely talent.",
+    "queries": [
+      "What effects has high-intensity interval training had on Ronaldo’s performance?"
+    ]
+  },
+  {
+    "id": "C8-3-1",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "tabata",
+    "wiki_title": "tabata",
+    "summary": "References to the Tabata method often surface in debates about Ronaldo’s longevity and conditioning: supporters point to Tabata-style HIIT as evidence that scientific, high‑intensity training explains his stamina, recovery and sustained elite output, while critics argue it exemplifies an overreliance on gym-based, non–football specific work that may trade skill practice for short‑term fitness gains or increase injury risk.",
+    "queries": [
+      "What effects has tabata had on Cristiano Ronaldo's performance?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "plyometrics",
+    "wiki_title": "plyometrics",
+    "summary": "Plyometric training is frequently invoked in discussions of Cristiano Ronaldo to explain and justify his extraordinary jumping, sprint speed and longevity, reinforcing narratives that his elite physical attributes result from rigorous, science-based conditioning and relentless work ethic rather than innate talent alone. Detractors counter that reliance on intense plyometrics can mask age-related decline or elevate injury risk, feeding debates over whether his fitness is sustainable or artificially prolonged by extreme training methods.",
+    "queries": [
+      "How do people view plyometrics in Ronaldo's fitness routine?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "gq",
+    "wiki_title": "gq",
+    "summary": "GQ frames Cristiano Ronaldo primarily as a style and lifestyle icon, using high-profile shoots and profiles to legitimize his fashion choices, fitness regimen and commercial brand, thereby boosting narratives of him as a marketable, hyper‑masculine celebrity. It also runs critical features that question his ego, aging and public persona, shaping debates that compare him to rivals and probe the cultural meanings of masculinity and fame.",
+    "queries": [
+      "How do people view Ronaldo’s gq interview and image?"
+    ]
+  },
+  {
+    "id": "C8-3-7",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "work ethic",
+    "wiki_title": "work ethic",
+    "summary": "Ronaldo's work ethic is routinely cited to explain and legitimize his longevity, elite fitness and record-breaking output, framing him as a model of discipline and a template for youth development and club culture. Critics counter that invoking work ethic can downplay innate talent, excuse selfish play, or be used selectively to justify individual success over team cohesion.",
+    "queries": [
+      "What impact has Cristiano Ronaldo's work ethic had?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "cryotherapy",
+    "wiki_title": "cryotherapy",
+    "summary": "Cryotherapy is cited to explain and justify Ronaldo’s exceptional durability and quick returns from injury, reinforcing a narrative that his longevity stems from meticulous, high-tech recovery routines and large investments in sports science. Critics, however, use it to suggest he leans on expensive, image-driven treatments with contested benefits, framing some of his sustained performance as reliant on marketed technologies rather than purely on talent or traditional training.",
+    "queries": [
+      "Is Cristiano Ronaldo's cryotherapy use justified or not?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "cold water immersion",
+    "wiki_title": "ice bath",
+    "summary": "References to Ronaldo's use of ice baths are often deployed to portray him as obsessively professional and scientifically minded, supporting the view that his longevity and physique stem from meticulous recovery routines. Skeptics and recent research invoke ice baths to argue such rituals can be faddish or even counterproductive after strength work, challenging simple claims that these treatments are a key reason for his performance and durability.",
+    "queries": [
+      "Is Cristiano Ronaldo’s use of cold water immersion reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "personal trainer",
+    "wiki_title": "personal trainer",
+    "summary": "References to Ronaldo’s personal trainers are used to credit his exceptional physique, discipline, and longevity — supporting arguments that his domination is earned through meticulous, professional conditioning rather than raw talent alone. Critics and policy-minded commentators, however, invoke his access to elite trainers to question competitive fairness and accountability (including scrutiny around privileged resources or controversial practices), using trainers to argue either for the legitimacy or the managed advantages behind his performance.",
+    "queries": [
+      "What impact has Cristiano Ronaldo’s personal trainer had?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "injury prevention",
+    "wiki_title": "injury prevention",
+    "summary": "Discussions of injury prevention are used to explain and praise Ronaldo’s perceived longevity and discipline, framing his strict training, recovery and nutrition habits as a model of professional excellence and a reason for his sustained performance. They are also invoked in critiques and policy debates—either blaming poor club load management when he falters, warning that intense self-directed training risks long-term wear, or arguing clubs should invest more in conditioning, rotation and medical support based on his example.",
+    "queries": [
+      "How do people view injury prevention for Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "hamstring strain",
+    "wiki_title": "pulled hamstring",
+    "summary": "References to pulled hamstring incidents in Ronaldo’s career are often used to argue he’s becoming more injury‑prone and past his physical peak, shaping debates over his selection, playing time and market value. They are also invoked to justify calls for stricter load management or to criticize club/national medical handling, framing the same events either as evidence of decline or as reasons he should be protected.",
+    "queries": [
+      "Is Ronaldo's hamstring strain explanation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "jorge mendes",
+    "wiki_title": "jorge mendes",
+    "summary": "As Ronaldo’s long‑time agent and dealmaker, Jorge Mendes is often cited to explain or justify the player’s transfers, contracts, sponsorships and public-image moves—supporters credit him with securing unmatched financial and career opportunities, while critics invoke his role to allege commission-driven maneuvering, market inflation and aggressive tax or legal strategies on Ronaldo’s behalf.",
+    "queries": [
+      "Are criticisms of jorge mendes justified or merely opinion?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "sports medicine",
+    "wiki_title": "sports medicine",
+    "summary": "Sports medicine is often cited to explain Ronaldo’s extraordinary longevity and quick recoveries, framing his elite conditioning as the product of cutting‑edge medical care, individualized training, nutrition and recovery protocols. It also appears in critiques and policy debates—raising questions about transparency, fairness and the potential overuse of medical interventions or supplements to sustain performance, which leads to calls for clearer regulation and oversight.",
+    "queries": [
+      "Is Cristiano Ronaldo’s sports medicine approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "physiotherapy",
+    "wiki_title": "physical therapy",
+    "summary": "Discussions of physical therapy around Cristiano Ronaldo are used to credit his disciplined rehabilitation and bespoke physio programs for his rapid returns from injury and prolonged elite performance, framing him as a model of professionalism and longevity; conversely, critics invoke physio access and advanced treatments to argue he enjoys privileged medical resources or borderline interventions that obscure injury risks and confer an unfair advantage.",
+    "queries": [
+      "How do fans view Ronaldo’s physiotherapy and recovery methods?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "return to play",
+    "wiki_title": "return to oz",
+    "summary": "Commentators and fans sometimes invoke the cultural idea of a 'Return to Oz' when discussing Ronaldo’s comebacks, using the phrase as a metaphor for nostalgia-driven attempts to reclaim former greatness. Critics deploy it to argue his returns are sentimental, ego‑driven misfires that underscore decline, while supporters recast the same imagery as a heroic, mythic quest to restore past glory.",
+    "queries": [
+      "What consequences has Ronaldo's return to play brought?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "physical fitness",
+    "wiki_title": "physical fitness",
+    "summary": "Physical fitness is routinely invoked to explain and justify Ronaldo’s extraordinary longevity and elite performance, framing him as a paragon of discipline, professionalism, and a blueprint for athlete work ethic. Critics and skeptics, however, use his physique to question genetic or medical advantages, spark debates about doping regulation and resource-backed training inequalities, and to argue how age and conditioning should influence team selection and athlete welfare policies.",
+    "queries": [
+      "Is Cristiano Ronaldo's physical fitness focus reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sports nutrition",
+    "wiki_title": "sports nutrition",
+    "summary": "Sports nutrition is frequently cited to credit Ronaldo’s longevity and extraordinary physical condition—used to justify narratives that his success is the product of disciplined, science-driven diet and training rather than raw talent alone. It’s also invoked by critics to argue his regimen sets unrealistic standards, invites scrutiny over supplements or unfair advantage, and shapes debates about what young athletes should emulate.",
+    "queries": [
+      "Is Cristiano Ronaldo’s sports nutrition approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "high-protein diet",
+    "wiki_title": "high-protein diet",
+    "summary": "Ronaldo's widely reported high-protein eating habits are often invoked by fans and marketers to justify his exceptional physique, discipline, and longevity—presented as a model regimen for elite athletes and a selling point in sports nutrition endorsements. Critics counter that highlighting his protein-heavy routine encourages unrealistic, fad-like dieting, overlooks broader health and environmental concerns, and can mislead everyday people about sustainable, evidence-based nutrition.",
+    "queries": [
+      "Is Cristiano Ronaldo’s high-protein diet justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "protein supplements",
+    "wiki_title": "protein supplement",
+    "summary": "Discussions about Cristiano Ronaldo often invoke protein supplements to explain his muscular build and rapid recovery, with supporters using them to justify his disciplined training, nutrition, and longevity. Critics, however, frame supplements as evidence of artificial enhancement, risky commercialization, or problematic role-modeling when promoted to impressionable fans.",
+    "queries": [
+      "Is Cristiano Ronaldo's use of protein supplements reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "sports nutritionist",
+    "wiki_title": "nutritionist",
+    "summary": "Nutritionists are invoked to credit Ronaldo’s famously strict diet and recovery practices for his exceptional fitness and longevity, supporting narratives that his success comes from discipline and evidence-based care rather than luck. Critics and skeptics also cite nutrition experts to question whether his results reflect genetics, extreme or risky regimes, or covert supplementation, using professional opinion to defend or challenge his image and anti-doping credibility.",
+    "queries": [
+      "Is Cristiano Ronaldo’s sports nutritionist guidance justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "personal chef",
+    "wiki_title": "personal chef",
+    "summary": "Reports that Ronaldo employs a personal chef are often deployed to substantiate claims about his obsessive professionalism, meticulous diet and sports-science approach—used by supporters to explain his longevity and elite performance. Critics, however, use the same fact to signal extreme wealth and privilege or to argue that elite athletes’ individualized support reflects growing inequality and commercialization in modern sport.",
+    "queries": [
+      "Is Cristiano Ronaldo having a personal chef reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "gender, sexuality and public morality",
+    "wiki_title": "human sexuality",
+    "summary": "Arguments about human sexuality shape public views of Cristiano Ronaldo by framing his private relationships, alleged sexual misconduct, and masculine image as indicators of celebrity sexual entitlement or, alternately, as matters of personal privacy and consent; critics use sexuality-focused narratives to demand accountability and sponsor withdrawal, while defenders invoke privacy, consent, or media bias to minimize reputational harm.",
+    "queries": [
+      "Is criticism about Cristiano Ronaldo's gender, sexuality and public morality justified?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "non-disclosure agreement",
+    "wiki_title": "non-disclosure agreement",
+    "summary": "Non-disclosure agreements figure prominently in debates about allegations involving Cristiano Ronaldo: supporters portray NDAs and settlements as routine privacy tools that explain why details remain sealed, while critics argue they were used to silence accusers and protect a celebrity’s reputation, feeding calls for limits on confidentiality in abuse and settlement cases.",
+    "queries": [
+      "How do people view Ronaldo’s non-disclosure agreement?"
+    ]
+  },
+  {
+    "id": "C9-2-2",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "settlement agreement",
+    "wiki_title": "settlement (litigation)",
+    "summary": "Settlement agreements tied to Cristiano Ronaldo — from paid resolutions with accusers to negotiated tax and contract deals — are often used by supporters to argue he legally ended disputes without admitting guilt, while critics use them to allege privilege, silence-buying, or avoidance of full accountability; they also fuel debates about NDAs, transparency, and how wealthy athletes influence legal outcomes and sponsor reputations.",
+    "queries": [
+      "What effects has Cristiano Ronaldo's settlement agreement had?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "hush money",
+    "wiki_title": "hush money",
+    "summary": "Allegations that hush money was paid in connection with Cristiano Ronaldo are often used by critics to argue he concealed alleged misconduct and to challenge his credibility and suitability as a role model. Defenders counter that any payments were lawful privacy settlements, and the dispute is frequently deployed to shape wider debates about NDAs, celebrity accountability, and how the media and justice system treat high-profile athletes.",
+    "queries": [
+      "How do people view hush money involving Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "me too movement",
+    "wiki_title": "metoo movement",
+    "summary": "#MeToo rhetoric is invoked in discussions of Cristiano Ronaldo to amplify and legitimize accusers’ claims, pressure clubs, sponsors and governing bodies to take responsibility, and frame his alleged misconduct as part of broader star‑power abuses in sport. Opponents of that framing counter with due‑process arguments and caution about reputational damage, using concerns about false or unproven allegations to defend Ronaldo or argue for restraint.",
+    "queries": [
+      "How do people view the me too movement and Cristiano Ronaldo?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "statute of limitations",
+    "wiki_title": "statute of limitations",
+    "summary": "In controversies over alleged sexual misconduct or financial wrongdoing, supporters of Cristiano Ronaldo often point to statutes of limitations to argue that cases are legally time‑barred and thus should not continue to damage his reputation, while critics use the existence or application of those time limits to claim victims were denied justice and to press for policy changes (such as extending or eliminating limits for sexual crimes), sustaining public doubt about his moral culpability despite procedural closure.",
+    "queries": [
+      "Is the statute of limitations in Ronaldo's case reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "the new york times",
+    "wiki_title": "the new york times",
+    "summary": "The New York Times' reporting and long-form features are frequently invoked to give authoritative context to debates about Cristiano Ronaldo—ranging from critical investigations of his tax and legal issues to analyses of his market value, brand power, and on-field legacy. Its coverage tends to blend performance metrics with cultural and ethical critique, framing Ronaldo as both an elite athlete and a polarizing symbol of modern celebrity, commercialization, and elite masculinity in sport.",
+    "queries": [
+      "Is The New York Times' coverage of Cristiano Ronaldo fair or not?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "der spiegel",
+    "wiki_title": "der spiegel",
+    "summary": "Der Spiegel’s reporting and commentary are often invoked in debates about Cristiano Ronaldo to highlight his legal troubles, tax and contract controversies, and the gap between his celebrity brand and sporting conduct; its pieces typically bolster arguments for greater accountability of elite athletes and critique the commercialization and ego-driven narratives around superstar footballers.",
+    "queries": [
+      "What effects has der spiegel’s Ronaldo coverage produced?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "sexual assault allegations",
+    "wiki_title": "joe biden sexual misconduct allegation",
+    "summary": "Allegations against Joe Biden are sometimes invoked in debates about Cristiano Ronaldo to argue that sexual-misconduct claims involving powerful men are politicized and unevenly reported—a line used by Ronaldo’s defenders to demand due process and accuse the media of double standards, while critics point to such political cases to press for consistent accountability and to condemn selective outrage.",
+    "queries": [
+      "Are Cristiano Ronaldo's sexual assault allegations taken seriously or not?"
+    ]
+  },
+  {
+    "id": "C9-5-8",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "endorsements",
+    "wiki_title": "endorsement",
+    "summary": "Endorsement deals are regularly invoked to demonstrate or justify Cristiano Ronaldo’s global star power and commercial worth—used by supporters to explain his outsized income, marketability, and status as a cultural icon. Critics and watchdogs, however, use those same partnerships to pressure accountability or to argue against corporate tolerance of alleged misconduct, framing endorsements as moral as well as commercial endorsements of his image.",
+    "queries": [
+      "What impact do Cristiano Ronaldo's endorsements have on consumer behavior?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "toxic masculinity",
+    "wiki_title": "toxic masculinity",
+    "summary": "Critics invoke toxic masculinity to interpret Ronaldo's hyper-competitive, domineering public persona and episodes of on-field aggression or alleged sexual misconduct as expressions of harmful male norms that require cultural and institutional accountability. Supporters typically reject that framing, casting his behavior as personal competitiveness, media sensationalism, or sportsmanship rather than a symptom of a broader gendered problem.",
+    "queries": [
+      "What consequences has toxic masculinity tied to Ronaldo caused?"
+    ]
+  },
+  {
+    "id": "C9-6-2",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "hypermasculinity",
+    "wiki_title": "hypermasculinity",
+    "summary": "Commentators often invoke hypermasculinity to critique Ronaldo’s public persona—framing his emphasis on physical dominance, sexualized swagger and aggressive competitiveness as performative macho behavior that can normalize sexism and confrontational conduct. Supporters push back that it reflects elite athletic confidence, but the framing is frequently used to call for greater athlete accountability, anti‑sexism efforts, and scrutiny of the role-modeling messages sent to young fans.",
+    "queries": [
+      "How do people view Cristiano Ronaldo’s hypermasculinity?"
+    ]
+  },
+  {
+    "id": "C9-6-3",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "male privilege",
+    "wiki_title": "male privilege",
+    "summary": "Debates about male privilege frame Ronaldo’s fame, wealth, and celebrity status as factors that shield him from the same scrutiny or consequences faced by women or less powerful men — shaping critiques of media coverage, legal outcomes, and the persistence of endorsements despite misconduct allegations. Critics invoke male privilege to argue for greater accountability and structural reforms in sport and law, while defenders often counter that his treatment reflects merit, star power, or bias against high-profile men rather than gendered advantage.",
+    "queries": [
+      "How do people view male privilege in Ronaldo's career?"
+    ]
+  },
+  {
+    "id": "C9-6-4",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "feminist activism",
+    "wiki_title": "feminist movement",
+    "summary": "The feminist movement is often invoked to criticize Cristiano Ronaldo’s public behavior and controversies, framing him as emblematic of sexist attitudes in elite sport and demanding accountability for alleged misconduct and dismissive remarks about women. Activists also use his celebrity to press for structural reforms—greater gender equity in football, support for survivors, and corporate consequences for misconduct—while opponents sometimes portray those critiques as partisan overreach.",
+    "queries": [
+      "What impacts has feminist activism had on Cristiano Ronaldo's public image?"
+    ]
+  },
+  {
+    "id": "C9-7",
+    "parent": "C9",
+    "level": 2,
+    "topic": "georgina rodríguez",
+    "wiki_title": "georgina rodríguez",
+    "summary": "Georgina Rodríguez is frequently invoked to humanize and rehabilitate Cristiano Ronaldo—framed in media and fan discourse as his devoted partner and mother figure who reinforces his family-man image and commercial appeal; critics argue she also functions as a PR asset who helps deflect attention from legal or moral controversies and reinforces celebrity privilege.",
+    "queries": [
+      "Is georgina rodríguez’s influence on Cristiano Ronaldo reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-7-3",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "i am georgina",
+    "wiki_title": "i am georgina",
+    "summary": "The Netflix-style portrayal 'I Am Georgina' is used to humanize Cristiano Ronaldo by showcasing a stable, devoted family life and glamourous domesticity, which supporters point to when defending his character and reputation. Critics, however, treat it as polished PR that distracts from controversies and normalizes extravagant wealth rather than addressing substantive allegations or accountability.",
+    "queries": [
+      "Is 'i am georgina' portrayal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-7-7",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "wags",
+    "wiki_title": "wag",
+    "summary": "The “WAG/WAGs” label attached to Cristiano Ronaldo’s partners is often used in media and public debate to frame his personal life as glamorous, scandal-prone, or evidence of misplaced priorities, shaping judgments about his character and masculinity. Critics deploy the WAG narrative to question his professionalism or morals, while defenders argue it’s sexist tabloid sensationalism that distracts from his on-field achievements or highlights his family support network.",
+    "queries": [
+      "How do people view Ronaldo’s wags influence?"
+    ]
+  }
+]

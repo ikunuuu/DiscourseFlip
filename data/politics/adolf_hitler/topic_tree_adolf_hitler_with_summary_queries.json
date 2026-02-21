@@ -1,0 +1,1993 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Adolf Hitler",
+    "wiki_title": "Adolf Hitler",
+    "summary": "References to Adolf Hitler serve as a moral and rhetorical touchstone: critics invoke him to brand opponents, policies, or ideologies as tyrannical, racist, or fascist, while extremists and sympathizers either glorify his methods to justify authoritarian and nationalist aims or attempt to whitewash/deny his crimes—shaping debates over racism, state power, and historical accountability.",
+    "queries": [
+      "How do people view Adolf Hitler today?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "historical biography",
+    "wiki_title": "biography",
+    "summary": "Biographies of Adolf Hitler are key rhetorical tools: sympathetic or revisionist accounts can be used by extremists to humanize or sanitize his actions, while critical scholarly biographies frame him as ideological criminal and pathological leader to condemn Nazism. Those competing portrayals shape public attitudes and policy debates—informing support for anti‑fascist education, Holocaust remembrance and limits on extremist propaganda, or, alternatively, enabling far‑right apologetics.",
+    "queries": [
+      "How do people view Adolf Hitler's historical biography?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "nazi party",
+    "wiki_title": "nazi party",
+    "summary": "References to the Nazi Party are often used to place Hitler within a mass, organized movement—critics point to the party's institutional power and ideology to emphasize his central responsibility for the regime's crimes, while some debates highlight broader social and bureaucratic complicity to reduce the focus on Hitler as sole architect. In contemporary rhetoric the party serves as a cautionary exemplar, invoked to condemn authoritarian, racist, or populist tendencies and to justify measures aimed at preventing similar movements.",
+    "queries": [
+      "Is Hitler's nazi party justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "schutzstaffel (ss)",
+    "wiki_title": "uniforms and insignia of the schutzstaffel",
+    "summary": "SS uniforms and insignia are frequently invoked in debates about Adolf Hitler as emblematic proof of the regime’s militarized, hierarchical and racialized nature, used by historians, victims’ groups and policymakers to justify strong remembrance laws, education about fascism, and bans on Nazi symbols. Conversely, extremists and apologists exploit the same imagery to glamorize or rehabilitate Hitler’s leadership, framing him as disciplined and authoritative and seeking to normalize or minimize his crimes.",
+    "queries": [
+      "Is the schutzstaffel (ss) justified or not under Hitler?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "sturmabteilung (sa)",
+    "wiki_title": "sturmabteilung",
+    "summary": "The SA is often cited as evidence that Hitler built power through organized street violence and intimidation, and that he was willing to sacrifice or crush even his own radical followers to secure elite support and centralized control. Critics point to the SA to portray Hitler as a violent, opportunistic authoritarian, while defenders may cast the SA as a chaotic early instrument of movement-building whose sidelining showed Hitler’s political pragmatism.",
+    "queries": [
+      "What effects did sturmabteilung (sa) have on Hitler's rise?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "reichstag fire",
+    "wiki_title": "reichstag fire",
+    "summary": "Critics invoke the Reichstag fire as emblematic of Hitler’s willingness to exploit or manufacture crises to justify emergency powers and eliminate political opposition, reinforcing views of him as an opportunistic architect of dictatorship. Conversely, apologists or skeptics cite doubts about the fire’s origins to frame his actions as defensive responses to a Communist threat or to dispute claims that the Nazis orchestrated the event.",
+    "queries": [
+      "Is Hitler’s use of the reichstag fire justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "mein kampf",
+    "wiki_title": "mein kampf",
+    "summary": "Mein Kampf is cited as a primary documentary window into Hitler’s personal ideology and alleged intent, used by critics and historians to demonstrate his racist, expansionist aims and to justify condemnation, de‑legitimization, and preventive anti‑fascist policies; at the same time it fuels disputes when republished—being invoked by apologists or extremists to legitimize or mythologize Hitler and prompting debates over censorship versus scholarly annotation.",
+    "queries": [
+      "Is Mein Kampf's ideology reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "aryan supremacy",
+    "wiki_title": "aryanism",
+    "summary": "Aryanism is used to explain and condemn Hitler as a racial ideologue whose belief in a superior 'Aryan' people underpinned his expansionist and genocidal policies, and it serves in public debates as primary evidence of his racist culpability. It is also invoked by modern neo‑Nazis to praise or emulate him, while opponents use it to argue for anti‑racist policies and historical accountability.",
+    "queries": [
+      "How do people view aryan supremacy linked to Hitler?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "free state of bavaria",
+    "wiki_title": "free state of bavaria (weimar republic)",
+    "summary": "References to the Free State of Bavaria are commonly used to portray Hitler as a product of Bavarian political culture—its conservative elites, paramilitary networks, and permissive authorities—supporting arguments that local complicity and regional institutions helped incubate Nazism. Conversely, some defenders invoke Bavaria to cast Hitler as a regional aberration, a framing that minimizes broader German responsibility and argues against nationwide reforms or collective blame.",
+    "queries": [
+      "What consequences did the free state of bavaria have during Hitler's rise?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "penguin classics edition",
+    "wiki_title": "penguin classics",
+    "summary": "Penguin Classics' annotated editions and scholarly introductions are frequently invoked in debates about Adolf Hitler to provide authoritative historical and literary context that supports critical, evidence-based interpretations of Nazism and to counter romanticized, apologetic, or decontextualized portrayals; because the imprint carries canonical weight, its framing often helps legitimize academic critiques and public education that oppose extremist glorification.",
+    "queries": [
+      "How do people view a penguin classics edition of Hitler's book?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "wannsee conference",
+    "wiki_title": "wannsee conference",
+    "summary": "The Wannsee Conference is often invoked to underscore Adolf Hitler’s culpability and the regime’s deliberate, state-level orchestration of the Holocaust, bolstering arguments that he was the principal architect whose authority enabled mass murder; in historiographical debates it is cited by intentionalists to link Hitler directly to genocidal policy while others use it to analyze bureaucratic implementation under his leadership. As a result it frequently features in public calls for unequivocal moral condemnation, robust Holocaust education, and legal measures against Nazi glorification or revisionism.",
+    "queries": [
+      "How do people view the Wannsee Conference's role under Hitler?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "world war ii",
+    "wiki_title": "world war ii",
+    "summary": "World War II is invoked as the concrete demonstration of Hitler’s destructive ambitions—used to personify him as the archetypal tyrant whose policies produced genocide and global war, and to discredit contemporary far‑right movements by analogy. It also underpins arguments for robust anti‑fascist measures (Holocaust education, limits on extremist organizing, international institutions) while appearing in debates over how much responsibility to ascribe to Hitler personally versus broader social, political, or structural causes.",
+    "queries": [
+      "Is World War II justified or not in the context of Hitler?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "wehrmacht",
+    "wiki_title": "wehrmacht",
+    "summary": "The Wehrmacht is often invoked to portray Hitler as an effective militarizer and strategist—supporters cite the armed forces' early wartime successes to justify praise for his leadership and rearmament policies. Critics use the Wehrmacht to indict Hitler for turning Germany’s military into an instrument of conquest and atrocity, disputing the “clean Wehrmacht” myth and reinforcing arguments for his moral and legal culpability.",
+    "queries": [
+      "Is the wehrmacht's conduct under Hitler justifiable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "benito mussolini",
+    "wiki_title": "benito mussolini",
+    "summary": "Mussolini is commonly invoked as Hitler’s stylistic and political precursor—used in arguments that Hitler borrowed fascist aesthetics, paramilitary methods, and a blueprint for dictatorship, framing Nazism as part of a broader transnational fascist trend. Critics counterpose Mussolini’s opportunistic Italianism with Hitler’s racially driven genocidal program to stress Hitler’s unique culpability, while apologists or some contemporary far‑right voices cite Mussolini to normalize or justify authoritarian practices.",
+    "queries": [
+      "Is Benito Mussolini’s alliance with Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "nuremberg trials",
+    "wiki_title": "nuremberg trials",
+    "summary": "The Nuremberg trials are invoked to cement Adolf Hitler’s image as the criminal architect of Nazism, providing moral and legal grounds for holding leaders personally accountable and for postwar denazification and “never again” policies. Critics, however, point to Nuremberg as an instance of victor’s justice—or note that Hitler evaded trial—to challenge the legitimacy of retroactive prosecutions and to shape debates about how and whether powerful leaders should be held to international law.",
+    "queries": [
+      "How do people view the Nuremberg trials today?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "hermann göring",
+    "wiki_title": "hermann göring",
+    "summary": "Göring is invoked as the archetypal deputy whose greed, theatrics, and acceptance of criminal orders are used by critics to personify the Nazi regime’s moral corruption and to tie Hitler directly to war crimes and ruthless policy. Conversely, some debates use Göring’s opportunism and heavy-handedness to argue that much of the regime’s brutality reflected subordinate initiative or personal vice, a framing that can be used (problematically) to diffuse sole responsibility from Hitler.",
+    "queries": [
+      "Are Hermann Göring’s actions during Hitler’s regime reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "albert speer",
+    "wiki_title": "albert speer",
+    "summary": "Albert Speer is frequently invoked in debates over Hitler to either humanize and mitigate the Führer—through Speer’s postwar image as a technocratic, regretful insider who downplays ideological responsibility—or to indict Hitler’s regime by showing how senior officials enabled and rationalized mass criminality; scholars and commentators use Speer’s contested memoirs and behavior to argue about Hitler’s direct control, the bureaucracy of evil, and the limits of individual versus systemic culpability.",
+    "queries": [
+      "Is Albert Speer’s responsibility under Hitler defensible or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "international military tribunal",
+    "wiki_title": "international military tribunal for the far east",
+    "summary": "In discussions about Adolf Hitler the International Military Tribunal for the Far East is invoked as a parallel precedent: proponents cite it (alongside Nuremberg) to argue that wartime heads of state can be held criminally accountable for aggression and crimes against humanity, reinforcing claims that Hitler should have faced formal tribunal justice. Critics, however, point to the Tokyo Trials to accuse the Allies of ‘victor’s justice’ and selective prosecution, using it to relativize or delegitimize postwar efforts to single out and punish Hitler and other Axis leaders.",
+    "queries": [
+      "What consequences did the international military tribunal have for views of Hitler?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "eva braun",
+    "wiki_title": "eva braun",
+    "summary": "Eva Braun is frequently invoked to humanize or domesticize Adolf Hitler—apologists and revisionists point to their private relationship to argue he had ordinary personal attachments and reduce his singular monstrosity, while critics use her role to highlight Nazi image-management, the banality of evil, and how focusing on intimate details can distract from or trivialize responsibility for mass crimes. Cultural and sensational portrayals of Braun also feed myth-making that either softens public condemnation or, conversely, serves as a caution about personal complicity within authoritarian systems.",
+    "queries": [
+      "How do people view Eva Braun’s role in Hitler’s personal life?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "führerbunker",
+    "wiki_title": "führerbunker",
+    "summary": "The Führerbunker is invoked as the tangible scene of Hitler’s paranoid last days and suicide, used to symbolize the personal isolation, moral collapse and ultimate failure of his rule and thus to buttress critiques of totalitarianism and cults of personality. It also crops up in debates over memorial policy and historical memory—argued about as a site that must not be glorified and therefore be anonymized or contextualized, even as fringe extremists sometimes mythologize it as a heroic ‘last stand.’",
+    "queries": [
+      "How do people view the führerbunker today?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "berghof",
+    "wiki_title": "berghof",
+    "summary": "References to the Berghof are used in public debates as a symbol of Hitler’s private life and the personal nature of Nazi rule—invoked by some to humanize or downplay him through portrayals of domestic routines, and by others to emphasize how intimate settings concentrated power and responsibility for Nazi policies. The site’s contested memory (preservation, demolition, or neo‑Nazi pilgrimage) is frequently cited in arguments about how societies should remember, condemn, or sanitize Hitler.",
+    "queries": [
+      "How do people view the berghof and its link to Hitler?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "geli raubal",
+    "wiki_title": "geli raubal",
+    "summary": "Geli Raubal is invoked in debates about Hitler as a vivid example of his obsessive, controlling private life—her controversial death and rumored intimate relationship are used by critics to argue that Hitler was emotionally unstable, possessive, and capable of cruelty or cover‑ups, while apologists treat the episode as a private tragedy with little bearing on his political actions.",
+    "queries": [
+      "Was public concern over Geli Raubal's role justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "traudl junge",
+    "wiki_title": "traudl junge",
+    "summary": "Junge’s postwar testimony and memoirs are often cited to humanize or complicate portrayals of Adolf Hitler—some use her recollections to suggest a more ordinary, fallible side to him, while critics deploy her accounts to highlight the moral blindness and bureaucratic complicity of those close to Hitler, reinforcing arguments about individual responsibility, collective guilt, and the banality of evil.",
+    "queries": [
+      "Are criticisms of traudl junge reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "ss",
+    "wiki_title": "ss (disambiguation)",
+    "summary": "References to the SS in discussions of Adolf Hitler are used to epitomize the regime’s organized, ideological violence and to tie Hitler personally to the institutions that planned and carried out the Holocaust, reinforcing narratives of his direct moral and criminal responsibility. Critics invoke the SS to justify anti‑fascist policy and bans on Nazi symbolism, while sympathizers and neo‑Nazis glorify SS imagery to defend or rehabilitate Hitler’s legacy and recruit supporters.",
+    "queries": [
+      "Is Hitler's SS justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "waffen-ss",
+    "wiki_title": "waffen-ss",
+    "summary": "Critics of Hitler point to the Waffen-SS as concrete evidence of his regime’s ideological radicalism and organized criminality, using its actions to argue that Hitler personally fostered and enabled genocidal policies and required strong accountability and remembrance measures; conversely, apologists and modern extremists sometimes invoke Waffen-SS service to romanticize or compartmentalize Hitler’s leadership, seeking to soften his image or deny direct responsibility for SS crimes.",
+    "queries": [
+      "How do people view the Waffen-SS's role?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "allgemeine ss",
+    "wiki_title": "allgemeine ss",
+    "summary": "The Allgemeine SS is often invoked to demonstrate how Hitler built a pervasive, ideologically driven security apparatus that institutionalized repression and enabled mass atrocities, reinforcing arguments that he bore direct responsibility for Nazi crimes; conversely, some apologists point to the SS’s internal bureaucracy and autonomy to argue Hitler was distant or not personally involved, a framing used to downplay his culpability and resist strong moral or legal condemnation.",
+    "queries": [
+      "Is allgemeine ss under Adolf Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "ss-totenkopfverbände",
+    "wiki_title": "ss-totenkopfverbände",
+    "summary": "References to the SS‑Totenkopfverbände are frequently used to underscore the organized brutality of Hitler’s regime and to tie him personally to the system of concentration camps and mass murder, strengthening arguments for his direct culpability and for strong memorialization and anti-extremism measures; by contrast, some apologists invoke the SS’s internal chain of command or leaders like Himmler to deflect blame from Hitler, feeding debates over how responsibility for Nazi crimes should be assigned.",
+    "queries": [
+      "Is ss-totenkopfverbände under Adolf Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "einsatzgruppen",
+    "wiki_title": "einsatzgruppen",
+    "summary": "References to the Einsatzgruppen are commonly used to underscore Adolf Hitler’s direct responsibility for state-organized mass murder, serving as concrete evidence in arguments that he deliberately orchestrated genocidal policies and deserves moral and legal condemnation. Conversely, apologetic narratives sometimes invoke their relative SS autonomy to deflect blame from Hitler, so discussion of the Einsatzgruppen frequently frames debates over his personal culpability and the need for accountability and safeguards against authoritarianism.",
+    "queries": [
+      "How do people view einsatzgruppen under Hitler?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "beer hall putsch",
+    "wiki_title": "beer hall putsch",
+    "summary": "The Beer Hall Putsch is used as proof of Hitler’s early willingness to use violence and spectacle to gain attention, bolstering narratives that portray him as an opportunistic, authoritarian agitator who learned from failure to pursue power through legal channels and propaganda; defenders may argue it demonstrates tactical adaptation, while critics cite it to warn that defeated extremist violence can still generate fame and weaken institutions. It also serves in debates about culpable elites and lenient postwar institutions, underpinning calls for vigilance and stronger responses to radical movements.",
+    "queries": [
+      "What consequences did Hitler's beer hall putsch produce?"
+    ]
+  },
+  {
+    "id": "C1-8-1",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "erich ludendorff",
+    "wiki_title": "erich ludendorff",
+    "summary": "Erich Ludendorff is often cited as the respected WWI general who lent military legitimacy to Hitler’s early rise—used by critics to show conservative and military complicity in the emergence of Nazism. His later public break with and denunciation of Hitler is likewise invoked to argue that segments of the traditional nationalist right rejected or felt betrayed by Hitler’s methods and politics.",
+    "queries": [
+      "Is Erich Ludendorff's influence on Adolf Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-2",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "gustav von kahr",
+    "wiki_title": "gustav ritter von kahr",
+    "summary": "Gustav Ritter von Kahr is often cited in debates about Hitler as the Bavarian conservative who refused to support the 1923 Beer Hall Putsch, a fact commentators use both to highlight Hitler’s early tactical failure and to illustrate the ambiguous role of traditional elites — resisting street violence at one moment but later accommodating authoritarian solutions — in enabling Hitler’s later rise. His example is invoked to support arguments that conservative nationalists either missed an opportunity to stop Nazism or helped legitimize it by retreating into authoritarian alternatives that Hitler ultimately exploited.",
+    "queries": [
+      "Is gustav von kahr’s opposition to Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C1-8-3",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "landsberg prison",
+    "wiki_title": "landsberg prison",
+    "summary": "Landsberg Prison is invoked in debates about Hitler to argue that early judicial leniency and the prison's symbolic role in his early political development helped enable his later rise, supporting calls to examine institutional failures. It also features in disputes over memory and policy—used by critics to justify strict anti-extremism measures and by opponents to warn against sites becoming pilgrimage points for neo‑Nazis, prompting demands for contextualization or restricted access.",
+    "queries": [
+      "How do people view Hitler’s imprisonment at landsberg prison?"
+    ]
+  },
+  {
+    "id": "C1-8-6",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "weimar republic",
+    "wiki_title": "weimar republic",
+    "summary": "The Weimar Republic is frequently invoked to explain Hitler's rise—either as a cautionary example used by critics to argue that political fragmentation, economic crisis, and weakened institutions enabled authoritarian takeover, or by right‑wing defenders who blame Weimar-era politicians and democratic failure to justify stronger, more centralized leadership; thus it supports interpretations emphasizing structural/elite responsibility or, conversely, is abused to legitimize anti‑democratic remedies purportedly needed to restore order.",
+    "queries": [
+      "Was the Weimar Republic blamed fairly for Germany’s postwar turmoil?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "wwii and holocaust",
+    "wiki_title": "the holocaust",
+    "summary": "The Holocaust is invoked as the defining proof of Hitler’s genocidal intent and moral culpability, shaping portrayals of him as uniquely evil and legitimizing postwar prosecutions, denazification, anti-fascist policies, and human-rights safeguards. It also functions rhetorically in debates—used by critics to delegitimize authoritarian or nationalist figures through analogy, and contested or minimized by apologists and deniers seeking to soften or rehabilitate Hitler’s legacy.",
+    "queries": [
+      "What consequences has wwii and holocaust had on perceptions of Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "night of the long knives",
+    "wiki_title": "night of the long knives",
+    "summary": "The Night of the Long Knives is used to portray Hitler as a ruthless, opportunistic dictator who eliminated rivals and normalized state violence, a key touchstone in arguments condemning his illegitimacy, criminality, and betrayal of allies. Conversely, defenders sometimes invoke it as brutal but necessary realpolitik that secured military support and 'stability,' a justification for authoritarian consolidation over legal or democratic constraints.",
+    "queries": [
+      "How do people view Hitler's night of the long knives?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "heinrich himmler",
+    "wiki_title": "heinrich himmler",
+    "summary": "Himmler is routinely invoked in discussions of Hitler to exemplify how Hitler empowered and legitimized extreme, bureaucratic brutality—used by critics to underscore Hitler’s responsibility for mass murder and the criminal nature of his regime. Conversely, some apologists point to Himmler’s ideological zeal and administrative initiative to try to localize operational blame on SS leaders, fueling debates about Hitler’s direct intent versus delegation and shaping judgments about his moral and political culpability.",
+    "queries": [
+      "What do people think about Heinrich Himmler's legacy related to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "gestapo",
+    "wiki_title": "gestapo",
+    "summary": "In debates about Adolf Hitler, the Gestapo is cited by critics as tangible proof of the regime’s state terror and Hitler’s responsibility for systematic repression and the Holocaust, bolstering condemnations of his leadership and arguments for guarding against authoritarianism; conversely, some apologists try to emphasize the Gestapo’s SS/RSHA hierarchy to argue bureaucratic autonomy and soften claims of Hitler’s direct day‑to‑day culpability.",
+    "queries": [
+      "What consequences did the gestapo bring to Nazi Germany?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "nazi racial policy",
+    "wiki_title": "racial policy of nazi germany",
+    "summary": "References to Nazi racial policy are used to portray Hitler as the ideological driver whose doctrines legitimized state-sponsored racism, ethnic cleansing, and genocide, supporting condemnatory narratives that emphasize his personal culpability and moral depravity. In debates, critics invoke these policies to argue for the uniquely destructive nature of his leadership, while apologists may attribute them to wider societal pseudo-scientific trends or bureaucratic forces to minimize his individual responsibility.",
+    "queries": [
+      "What effects has nazi racial policy produced in society?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "final solution",
+    "wiki_title": "final solution",
+    "summary": "Invoking the Final Solution in discussions about Adolf Hitler is a primary way to portray him as the architect of industrialized genocide, reinforcing views that he bears personal and moral responsibility and justifying unequivocal condemnation and preventive policies against totalitarianism. Opposing uses—by some functionalist historians, apologists, or deniers—leverage debates over timing, intent, and bureaucratic responsibility to diffuse blame away from Hitler or minimize his direct culpability.",
+    "queries": [
+      "How do people view Adolf Hitler's final solution?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "adolf eichmann",
+    "wiki_title": "adolf eichmann",
+    "summary": "Eichmann is invoked as the prototypical implementer of Hitler’s genocidal system: his capture and trial are used to show how Hitler’s ideology was translated into mass murder by obedient bureaucrats, reinforcing views of Hitler as the architect of organized genocide. Competing readings of Eichmann (e.g., the “banality of evil”) also feed debates that either spread culpability across a murderous bureaucracy—potentially diluting focus on Hitler personally—or justify strong legal and moral responses to prevent state-run atrocities.",
+    "queries": [
+      "How do people view Adolf Eichmann’s actions within Hitler’s regime?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "reinhard heydrich",
+    "wiki_title": "reinhard heydrich",
+    "summary": "Reinhard Heydrich is often invoked in arguments about Adolf Hitler as the embodiment of the regime’s ruthlessly efficient, bureaucratic execution of the Final Solution, reinforcing views of Hitler as the ideological and political architect whose authority enabled organized genocide. Conversely, Heydrich is also used to shift focus onto radical lieutenants—arguing that Nazi functionaries operationalized extreme policies—which fuels debates over Hitler’s direct culpability versus the autonomous brutality of his subordinates.",
+    "queries": [
+      "How do people view Reinhard Heydrich's actions under Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "auschwitz",
+    "wiki_title": "auschwitz concentration camp",
+    "summary": "Auschwitz is invoked as the emblematic evidence of Adolf Hitler’s genocidal leadership, used to portray him as personally responsible for industrialized mass murder and to justify strong anti‑fascist, human‑rights and Holocaust‑education policies. It also anchors debates that either emphasize Hitler’s centrality to Nazi crimes versus the role of wider institutions, and serves as a primary target for refuting Holocaust denial or attempts to minimize his culpability.",
+    "queries": [
+      "How do people view Auschwitz in relation to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "josef mengele",
+    "wiki_title": "josef mengele",
+    "summary": "Mengele is invoked in discussions of Adolf Hitler as the most visceral proof of the regime’s moral and scientific depravity—used by critics to argue that Hitler’s ideology and state apparatus enabled monstrous medical atrocities and bureaucratic mass murder, thereby justifying strong condemnation, prosecutions, Holocaust education, and safeguards in medical ethics. Occasionally cited by apologists as an isolated ‘rogue’ to deflect responsibility, mainstream argument treats Mengele as emblematic of the crimes of Hitler’s leadership and the dangers of totalitarian obedience.",
+    "queries": [
+      "How do people view josef mengele's actions in the Nazi regime?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "gas chambers",
+    "wiki_title": "gas chamber",
+    "summary": "References to gas chambers are invoked to cast Hitler as the architect of systematic, industrialized genocide, strengthening moral condemnation, Holocaust education, and legal accountability; they frequently serve as central evidence against denial and minimization. They also appear in heated rhetoric and comparisons—used either to rebut extremists and educate, or misused in hyperbolic analogies that can trivialize the Holocaust or inflame political debate.",
+    "queries": [
+      "What consequences has Adolf Hitler’s use of gas chambers caused?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "nuremberg laws",
+    "wiki_title": "nuremberg laws",
+    "summary": "The Nuremberg Laws are commonly cited to portray Hitler as the architect who translated racist ideology into ordinary state law, reinforcing views of him as a deliberate, bureaucratic perpetrator whose legal measures paved the way to the Holocaust. In debates they function as a moral and political touchstone—used by critics to justify condemning Hitler and by a few apologists to argue legal normalcy or popular backing—but most public argument uses them to warn against authoritarian, race-based policymaking.",
+    "queries": [
+      "How do people view the Nuremberg Laws today?"
+    ]
+  },
+  {
+    "id": "C2-5-1",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "reich citizenship law",
+    "wiki_title": "citizenship",
+    "summary": "Arguments about Hitler often invoke citizenship to question his legitimacy or ‘foreignness’ because he was born Austrian and only later became a German citizen, while more substantively critics point to how the Nazi regime weaponized citizenship laws (e.g., denaturalization and the Nuremberg Laws) to strip rights from Jews and legitimize exclusionary, authoritarian policies.",
+    "queries": [
+      "Is the reich citizenship law under Adolf Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "aryanization",
+    "wiki_title": "aryanization",
+    "summary": "In discussions of Adolf Hitler, references to Aryanization are used to highlight his regime’s deliberate, bureaucratic orchestration of economic dispossession, reinforcing portrayals of Hitler as an ideologically driven perpetrator who institutionalized theft as policy. Citing Aryanization strengthens calls for restitution and accountability and is deployed to rebut revisionist or apologetic narratives that try to minimize Nazi criminality or portray Hitler as solely a military or political actor.",
+    "queries": [
+      "Is aryanization under Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "racial hygiene",
+    "wiki_title": "racial hygiene",
+    "summary": "Racial hygiene is frequently invoked to explain and condemn Hitler’s worldview and policy-making — historians and critics argue that his commitment to eugenic purity provided the ideological framework that justified the Holocaust and other racial persecutions. References to racial hygiene therefore portray Hitler as a leader who used pseudoscientific racism to rationalize mass violence and are invoked to warn against similar state-sponsored eugenic policies.",
+    "queries": [
+      "Is Adolf Hitler’s racial hygiene reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "operation barbarossa",
+    "wiki_title": "operation barbarossa",
+    "summary": "Operation Barbarossa is frequently invoked to portray Hitler as an ideologically driven and morally culpable leader whose racial goals and strategic hubris transformed a military campaign into mass murder and a catastrophic strategic overreach that helped ensure Nazi defeat. While some apologists try to frame the invasion as a strategic necessity or blame military/logistical factors, the operation is mainly used in public debate to justify condemnatory views of Hitler as the architect of genocidal expansion and catastrophic policy choices.",
+    "queries": [
+      "Was Hitler's Operation Barbarossa justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6-1",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "joseph stalin",
+    "wiki_title": "joseph stalin",
+    "summary": "Stalin is routinely invoked in discussions of Hitler to create moral equivalence or whataboutist deflections—either to minimize focus on Nazi crimes by pointing to Soviet mass killings and repressions or to argue that both regimes were equally totalitarian and deserving of condemnation, often supporting strong anti-communist or law-and-order policies. He is also used to complicate narratives about Hitler by highlighting Soviet actions (e.g., the Nazi–Soviet pact) and the Red Army’s role in defeating Nazi Germany, shaping debates about blame, responsibility, and the geopolitical roots of World War II.",
+    "queries": [
+      "Is joseph stalin’s use of power reasonable or not compared to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "commissar order",
+    "wiki_title": "commissar order",
+    "summary": "The Commissar Order is often cited to depict Hitler as the ideological architect behind criminal, genocidal policies on the Eastern Front, reinforcing interpretations of him as personally responsible for mobilizing anti‑Bolshevik/Judeo‑Bolshevik violence; critics use it to bolster calls for holding him centrally culpable, while defenders sometimes point to military obedience or situational pressures to downplay his direct intent.",
+    "queries": [
+      "How do people view Hitler’s commissar order?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "siege of leningrad",
+    "wiki_title": "siege of leningrad",
+    "summary": "The Siege of Leningrad is commonly invoked to cast Hitler as personally responsible for policies that inflicted mass civilian suffering, bolstering arguments that Nazi strategy was genocidal and criminal beyond the Holocaust. While apologists may frame the campaign as military necessity or point to Finnish involvement, mainstream discourse uses the siege to condemn Hitler’s moral culpability and to justify strong accountability and anti‑Nazi policy positions.",
+    "queries": [
+      "How do people view the siege of leningrad in WWII?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "operation typhoon",
+    "wiki_title": "operation typhoon (1989)",
+    "summary": "References to Operation Typhoon are often invoked in debates about Hitler to exemplify his strategic overreach and harmful interference in military command—used by critics to argue that his micromanagement and unrealistic goals precipitated the failure to take Moscow. Defenders, by contrast, sometimes cite the operation to emphasize harsh logistics, weather, and intelligence limits, framing Hitler as a leader whose decisions were overwhelmed by structural constraints rather than sheer incompetence.",
+    "queries": [
+      "What consequences did Operation Typhoon have for Hitler’s objectives?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "generalplan ost",
+    "wiki_title": "generalplan ost",
+    "summary": "Generalplan Ost is cited in public arguments to depict Hitler not just as a wartime dictator but as the architect of a planned, ideologically driven program of racial colonization and mass displacement in Eastern Europe, reinforcing portrayals of him as uniquely culpable for large-scale ethnic cleansing. It is used to rebut revisionist or apologetic narratives that downplay Nazi intent and to justify strong moral and policy stances against racist, expansionist ideologies; only fringe defenses contest its significance by emphasizing its incomplete implementation.",
+    "queries": [
+      "Is generalplan ost justified or reasonable within Hitler’s agenda?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "kristallnacht",
+    "wiki_title": "kristallnacht",
+    "summary": "Kristallnacht is routinely cited as decisive evidence that Adolf Hitler’s regime moved from legal discrimination to organized, state-tolerated mass violence, and is used to portray him as morally and politically responsible for escalating antisemitic policy toward genocide. It serves to justify harsh condemnation, pro-accountability stances and anti‑fascist policies, while undermining revisionist or minimizing claims that Hitler was not directly culpable for the Holocaust’s origins.",
+    "queries": [
+      "Was kristallnacht justified or not under Adolf Hitler's regime?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "herschel grynszpan",
+    "wiki_title": "herschel grynszpan",
+    "summary": "Herschel Grynszpan is invoked mainly as the lone Jewish shooter whose act Hitler and the Nazi leadership exploited as a convenient pretext for Kristallnacht, a framing used to underscore Hitler’s opportunism and moral culpability in escalating state violence against Jews. Arguments about Grynszpan also fuel disputes over responsibility—either to condemn Hitler for cynically manufacturing justification for harsher policies or to support fringe claims that the regime’s reaction was spontaneous rather than centrally directed.",
+    "queries": [
+      "Is Herschel Grynszpan's act justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "ernst vom rath",
+    "wiki_title": "ernst vom rath",
+    "summary": "Ernst vom Rath's assassination is commonly cited as the immediate pretext the Nazi regime under Adolf Hitler exploited to escalate state-sponsored antisemitic violence, and is used by critics to argue that Hitler cynically used or engineered incidents to justify broader repressive and genocidal policies.",
+    "queries": [
+      "What effects did Ernst vom Rath's death have on German society?"
+    ]
+  },
+  {
+    "id": "C2-7-8",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "der stürmer",
+    "wiki_title": "der stürmer",
+    "summary": "Der Stürmer is invoked as a clear example of the crude, mass-market propaganda that normalized antisemitism and helped justify and mobilize popular support for Hitler’s policies; historians and critics point to it to illustrate the regime’s demagogic, manipulative tactics and to underscore Hitler’s responsibility for fomenting a culture of persecution (while defenders sometimes try to downplay its role to sanitize his image).",
+    "queries": [
+      "Is der stürmer’s role in Hitler-era propaganda justified or not?"
+    ]
+  },
+  {
+    "id": "C2-8-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "copyright expiration",
+    "wiki_title": "copyright expiration",
+    "summary": "The expiration of copyright on Hitler’s writings—most notably Mein Kampf—is often cited to justify wider publication, digital access, and annotated scholarly editions as tools for education and historical accountability. Critics counter that losing copyright controls also makes uncontextualized propaganda easier to disseminate, fueling calls for content warnings, regulatory limits or other measures to prevent extremist recruitment.",
+    "queries": [
+      "What impacts has Adolf Hitler's copyright expiration produced?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "ideology and extremism",
+    "wiki_title": "extremism",
+    "summary": "Extremism is used to frame Hitler as the archetypal far‑right extremist whose racist, expansionist, and genocidal ideology lies outside legitimate politics and thus warrants strong moral condemnation, legal restriction, and counter‑extremism responses. It is also deployed rhetorically to link contemporary individuals or movements to Hitler—delegitimizing them and justifying preventative or punitive policies against perceived authoritarian or violent tendencies.",
+    "queries": [
+      "What consequences has Adolf Hitler’s ideology and extremism caused?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "nazism",
+    "wiki_title": "nazism",
+    "summary": "Nazism is the ideological lens through which supporters justify and valorize Hitler’s authoritarian rule, expansionism, and racial policies, while critics deploy it to portray him as the archetype of totalitarian evil and to delegitimize or warn against similar movements and policies today.",
+    "queries": [
+      "How do people view nazism in relation to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "aryan race",
+    "wiki_title": "aryan race",
+    "summary": "The Aryan race concept is invoked in discussions of Hitler as the ideological foundation for his policies of racial purity, eugenics, and genocidal expansion, used by historians and critics to explain and condemn him as a racial supremacist. Opponents point to its pseudoscientific nature to delegitimize his motives, while extremists and apologists sometimes recycle Aryan rhetoric to defend or romanticize his agenda.",
+    "queries": [
+      "How do people view the aryan race today?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "enabling act of 1933",
+    "wiki_title": "enabling act of 1933",
+    "summary": "The Enabling Act is commonly used to depict Hitler as a legalistic authoritarian who engineered a constitutional coup, supporting narratives that he deliberately weaponized parliamentary procedures and crisis rhetoric to eliminate checks on his power. Critics invoke it to condemn his opportunism and to warn against unchecked emergency powers, while occasional apologists point to its legislative passage to claim a veneer of legality or popular consent.",
+    "queries": [
+      "How do people view the enabling act of 1933?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "nuremberg rally",
+    "wiki_title": "nuremberg rallies",
+    "summary": "In discussions of Adolf Hitler the Nuremberg rallies are invoked as emblematic proof of his mastery of mass propaganda and cult of personality—used by critics to show how he manufactured consent, militarized society, and prepared the public for genocidal and expansionist policies. Conversely, apologists or nostalgia-driven commentators point to the rallies as demonstrations of restored national pride and unity, so references to them typically buttress arguments for authoritarian, nationalist leadership or serve as warnings about spectacle-driven populism eroding democratic institutions.",
+    "queries": [
+      "What impacts did the Nuremberg Rally have on public opinion?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "auschwitz-birkenau",
+    "wiki_title": "auschwitz-birkenau state museum",
+    "summary": "The Auschwitz-Birkenau State Museum is invoked as tangible proof of the genocidal consequences of Adolf Hitler’s policies, used in public arguments to condemn him personally, justify Holocaust education, anti-fascist measures, and demands for historical accountability. It also figures in contested narratives—being attacked by deniers and revisionists or cited to argue about the extent of Hitler’s direct responsibility—so it anchors both repudiation and disputed claims about his legacy.",
+    "queries": [
+      "What consequences has Auschwitz-Birkenau had on collective memory?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "antisemitism",
+    "wiki_title": "antisemitism",
+    "summary": "Antisemitism is invoked as the central ideological motive behind Hitler’s rise and the Holocaust, and is used by critics to define him as the archetype of racist, genocidal leadership and to justify condemnation and prevention policies. In contemporary debates, appeals to Hitler’s antisemitism serve both to delegitimize opponents through Nazi comparisons and to argue for stronger hate‑speech and anti‑extremism measures, while apologists sometimes try to minimize its role by reframing his actions as politically or militarily driven.",
+    "queries": [
+      "How do people view Adolf Hitler’s antisemitism?"
+    ]
+  },
+  {
+    "id": "C3-5-5",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "protocols of zion",
+    "wiki_title": "the protocols of the elders of zion",
+    "summary": "In debates about Hitler the Protocols are invoked by sympathizers to cast his antisemitism as a defensive response to a supposed Jewish conspiracy, while scholars and critics use its exposure as a forgery to show how Hitler and Nazi propaganda trafficked in fabricated conspiracy myths to legitimize persecution, mobilize support, and justify genocidal policies.",
+    "queries": [
+      "How do people view the protocols of zion today?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "neo‑nazism",
+    "wiki_title": "neo-nazism",
+    "summary": "Neo‑Nazism commonly invokes Adolf Hitler as an ideological exemplar or symbolic ancestor to legitimize contemporary white‑supremacist, antisemitic, and authoritarian politics, using his image and selective myths about his leadership to justify violence, exclusionary policies, or calls for a “Fourth Reich.” Conversely, critics point to neo‑Nazi reverence for Hitler to underscore the ongoing dangers of fascism and mobilize support for bans on Nazi symbolism, anti‑extremism measures, and historical education to counter Holocaust denial and Hitler apologia.",
+    "queries": [
+      "What consequences has neo‑nazism caused since Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "stormfront",
+    "wiki_title": "stormfront",
+    "summary": "Stormfront is used by adherents to lionize Adolf Hitler, spread Holocaust denial and revisionist narratives that rehabilitate his image, and present him as a model for white‑supremacist, ethno‑nationalist policies (anti‑immigration, racial exclusion, and hierarchy). Journalists, researchers, and anti‑racist campaigners point to Stormfront’s pro‑Hitler rhetoric as evidence of contemporary neo‑Nazi continuity and as justification for deplatforming, counter‑extremism efforts, and stricter hate‑speech enforcement.",
+    "queries": [
+      "Is stormfront’s praise of Adolf Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "fourteen words",
+    "wiki_title": "fourteen words",
+    "summary": "Extremists invoke the Fourteen Words to cast Adolf Hitler as an ideological forebear and to legitimize Hitler‑style racial, anti‑Semitic and separatist policies, while scholars, journalists and policymakers cite the slogan as evidence of direct continuity with Nazi ideas to argue for monitoring, deplatforming, and stronger counter‑extremism measures.",
+    "queries": [
+      "How do people view the fourteen words in relation to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "unite the right",
+    "wiki_title": "unite the right",
+    "summary": "References to “Unite the Right” are often used to link contemporary white‑nationalist mobilization directly to Hitler and Nazi methods, bolstering arguments for anti‑fascist organizing, deplatforming, and stricter monitoring of extremist groups. Critics of that framing push back that equating modern right‑wing activists with Hitler is a politicized smear intended to delegitimize conservative or nationalist positions.",
+    "queries": [
+      "What impacts did 'unite the right' have on Hitler's objectives?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "national socialist movement",
+    "wiki_title": "national socialist movement",
+    "summary": "References to the \"national socialist movement\" are used in debates about Adolf Hitler to either invoke him as an ideological model—used by extremists to justify racism, anti‑Semitism and authoritarian policies—or to condemn contemporary individuals and parties by linking them to Hitler’s legacy. This label frames arguments about the persistence of Nazi ideas and is deployed to argue for stronger restrictions, surveillance, or social ostracism of groups seen as continuing Hitler‑style nationalism.",
+    "queries": [
+      "Is the national socialist movement under Adolf Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "eugenics",
+    "wiki_title": "eugenics",
+    "summary": "Eugenics is central to interpretations of Hitler because Nazi leaders used eugenic rhetoric of 'racial hygiene' to legitimize sterilization, euthanasia programs and ultimately the Holocaust, framing genocide as state science.  Conversely, historians and ethicists invoke Hitler as the archetypal warning about where eugenic ideas plus authoritarian power lead, using his example to condemn coercive genetic policies and to distinguish modern, voluntary genetic medicine from Nazi abuses.",
+    "queries": [
+      "Is Hitler's promotion of eugenics justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "aktion t4",
+    "wiki_title": "aktion t4",
+    "summary": "Aktion T4 is often invoked in discussions of Adolf Hitler as an early, concrete example of state-sponsored mass killing that supports the view of Hitler as ideologically committed to racial hygiene and directly culpable for the genocidal policies that culminated in the Holocaust. It is used by critics to justify harsh moral and political condemnation of Hitler and fascist policy, while opponents or minimizers sometimes point to bureaucratic delegation around T4 to argue for reduced personal responsibility.",
+    "queries": [
+      "What impacts has aktion t4 had?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "nazi sterilization law",
+    "wiki_title": "sterilization law in the united states",
+    "summary": "References to U.S. sterilization laws are often invoked in arguments about Adolf Hitler to show transatlantic roots of eugenics, suggesting American forced-sterilization statutes served as precedents or moral cover for Nazi racial policies. They are used both to condemn domestic eugenic programs by associating them with Hitler’s atrocities and to argue that Nazism was not a purely German aberration, bolstering calls for rights protections and discrediting proponents of coercive public-health measures.",
+    "queries": [
+      "How do people view the nazi sterilization law?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "eugen fischer",
+    "wiki_title": "eugen fischer",
+    "summary": "Eugen Fischer is often cited as an intellectual and scientific precursor whose eugenic research and racial theories are used to show how Adolf Hitler’s racial policies were framed as ‘scientific’ and thus legitimized; critics invoke Fischer to underscore the pseudo‑scientific foundations and academic complicity behind Nazi racism, while apologists have sometimes pointed to such figures to argue for ideological continuity or supposed expertise. This framing typically supports condemnations of Hitler’s racial program and policies (sterilization, racial hygiene) and is used in debates about the role of science, universities, and colonial violence in enabling the Holocaust.",
+    "queries": [
+      "Is eugen fischer’s influence on Nazi policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "kaiser wilhelm institute",
+    "wiki_title": "kaiser wilhelm society",
+    "summary": "The Kaiser Wilhelm Society is often cited in debates about Hitler to illustrate how elite German scientific institutions either aided or were co‑opted by the Nazi state—used by critics to argue that leading scientists and labs legitimized racial science, weapons work, and policy-making under Hitler, and by defenders to stress professional coercion or institutional continuity rather than ideological alignment; these uses shape arguments over scientists’ moral culpability, postwar accountability, and reforms of research governance.",
+    "queries": [
+      "How do people view the Kaiser Wilhelm Institute's role in Nazi science?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "social darwinism",
+    "wiki_title": "social darwinism",
+    "summary": "Social Darwinism is commonly invoked to explain and condemn Hitler’s regime, with critics saying Nazi racial laws, eugenics and expansionist policies used ‘survival of the fittest’ rhetoric to legitimize genocide, imperialism and racial hierarchy. While some scholars warn that blaming Darwinism alone oversimplifies complex political motives, the association is widely used to portray Hitler’s rule as pseudo‑scientific and morally illegitimate.",
+    "queries": [
+      "Is Hitler’s use of social darwinism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-8-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "crimes against peace",
+    "wiki_title": "crime of aggression",
+    "summary": "Invocations of the crime of aggression cast Hitler as the archetypal leader who personally bears criminal responsibility for starting World War II, legitimizing the Nuremberg condemnation and the postwar project of holding heads of state accountable for wars of conquest. This framing is used to rebut narratives that minimize Nazi leadership culpability and to justify laws and policies aimed at deterring and prosecuting future leaders who initiate aggressive wars.",
+    "queries": [
+      "What consequences did Hitler's crimes against peace cause?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "memory and commemoration",
+    "wiki_title": "de-commemoration",
+    "summary": "De-commemoration is invoked in debates over Hitler-linked sites and symbols to justify removing, altering, or recontextualizing them as a moral repudiation meant to prevent veneration and mark societal condemnation. Opponents argue such actions risk erasing evidence needed for remembrance and study or become performative amnesia, framing policy disputes between preservation, education, and symbolic justice.",
+    "queries": [
+      "Is Adolf Hitler's memory and commemoration reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "holocaust memorial berlin",
+    "wiki_title": "berlin holocaust memorial stabbing",
+    "summary": "The Berlin Holocaust Memorial stabbing is often invoked in discussions of Adolf Hitler to argue that the antisemitic violence and hatred he personified continue to manifest today, supporting calls for expanded Holocaust education, anti‑extremism measures, and vigilance against neo‑Nazi networks; critics counter that the incident may be an isolated criminal or mental‑health case and warn against using it to conflate all contemporary perpetrators or justify sweeping security or immigration policies.",
+    "queries": [
+      "Is holocaust memorial berlin an appropriate way to commemorate victims?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "topography of terror",
+    "wiki_title": "topography of terror",
+    "summary": "The Topography of Terror site is used in public discourse to make Adolf Hitler's role tangible by documenting the institutions and bureaucratic mechanisms that carried out Nazi repression, reinforcing narratives that place him at the center of systematic state violence. As a focal point for remembrance and education, it is deployed to condemn Hitler, bolster anti-fascist and accountability arguments, and to rebut revisionist or minimizing portrayals of the regime.",
+    "queries": [
+      "Is the topography of terror under Adolf Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "yad vashem",
+    "wiki_title": "yad vashem",
+    "summary": "Yad Vashem is routinely invoked in public debates as the authoritative moral and documentary counterweight to Adolf Hitler’s legacy—its archives, exhibits, and commemorations are used to portray Hitler as the central architect of genocide, to condemn Nazi ideology, and to justify education, legal, and policy measures against Holocaust denial, antisemitism and contemporary fascist movements. Its focus on victims, survivors and rescuers also personalizes the human cost of Hitler’s actions and bolsters arguments for remembrance, reparations, and resisting attempts to minimize or relativize his crimes.",
+    "queries": [
+      "Is Yad Vashem’s portrayal of Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "righteous among the nations",
+    "wiki_title": "righteous among the nations",
+    "summary": "References to the Righteous Among the Nations are used to underscore that individuals resisted Hitler’s genocidal program, bolstering narratives of moral courage and challenging blanket claims of popular support for his crimes. Critics counter that highlighting rescuers can distract from widespread complicity under Hitler, and recent research questioning simplistic heroic accounts is invoked to resist narratives that soften or absolve the regime’s responsibility.",
+    "queries": [
+      "Is 'righteous among the nations' recognition justified during Adolf Hitler's era?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "stolpersteine",
+    "wiki_title": "stolperstein",
+    "summary": "Stolpersteine are deployed in public memory debates to personalize the victims of Hitler’s regime, making his responsibility and the everyday social complicity of Nazism visible and strengthening condemnations of Hitler and support for anti‑fascist attitudes and preventive policies. They are also cited to rebut Holocaust denial or minimization and frequently spark conflicts with those who seek to downplay, sanitize, or remove reminders of Hitler’s crimes.",
+    "queries": [
+      "Is installing stolpersteine in public spaces reasonable or problematic?"
+    ]
+  },
+  {
+    "id": "C4-3-1",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "gunter demnig",
+    "wiki_title": "gunter demnig",
+    "summary": "Gunter Demnig’s Stolpersteine are frequently cited in public debates about Hitler as tactile evidence of the human toll of Nazi rule, used to argue for active remembrance, Holocaust education, and responsibility for confronting Hitler’s crimes; controversies over their placement or bans are also invoked by critics who want to minimize or contest how German society publicly acknowledges Hitler’s legacy.",
+    "queries": [
+      "Is Gunter Demnig’s memorial work for Hitler-era victims justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "vergangenheitsbewältigung",
+    "wiki_title": "vergangenheitsbewältigung",
+    "summary": "Vergangenheitsbewältigung casts Adolf Hitler as the central moral warning that justifies education, memorialization, anti‑extremism laws and public condemnation of any rehabilitation or trivialization of Nazism. It also structures debates about whether Germany’s reckoning with Hitler is sufficient or politicized—invoked by anti‑fascists to demand continued vigilance and by critics (often nationalist) who argue the process is punitive or used for contemporary political ends.",
+    "queries": [
+      "How do people perceive vergangenheitsbewältigung about Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "holocaust memorials",
+    "wiki_title": "list of holocaust memorials and museums",
+    "summary": "Lists of Holocaust memorials and museums are frequently invoked to underscore Adolf Hitler’s responsibility for the Holocaust and to legitimize strong condemnatory narratives, Holocaust education, and policies against Holocaust denial and far‑right extremism; they provide tangible evidence used to argue for remembrance, reparations, and legal restrictions on Nazi symbols. At the same time such sites are focal points in debates about historical blame and national memory—some argue they overemphasize Hitler as a singular evil while others contend they are necessary bulwarks against minimization and whitewashing of his crimes.",
+    "queries": [
+      "What effects have holocaust memorials had on Holocaust remembrance?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "never again",
+    "wiki_title": "never again",
+    "summary": "Invoked as a moral shorthand that frames Adolf Hitler as the archetype of genocidal evil, \"never again\" is used to justify Holocaust remembrance, anti‑fascist activism, education, hate‑crime laws and preventive interventions aimed at stopping mass atrocities. Critics point out the slogan’s frequent instrumentalization—whether to insist on particular protections for Jews, to legitimize unrelated policy measures, or to make hyperbolic comparisons to Hitler—which can broaden, politicize, or dilute its original warning.",
+    "queries": [
+      "Is 'never again' as a response to Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "annotated edition",
+    "wiki_title": "annotated edition",
+    "summary": "Annotated editions of Hitler’s writings (notably critical editions of Mein Kampf) are used in public debates to frame him as an object of scholarly critique and civic education—annotations that expose propaganda, ideological claims, and historical context are deployed to justify anti‑fascist interpretations and supervised publication rather than popular dissemination. Disputes over annotation tone and scope (from forensic, condemnatory notes to more neutral or contextualizing commentary) are then leveraged in arguments about censorship, academic freedom, and counter‑extremism policy.",
+    "queries": [
+      "How do people view an annotated edition of Hitler's writings?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "censorship in germany",
+    "wiki_title": "censorship in germany",
+    "summary": "In debates about Adolf Hitler, German censorship is often invoked to justify blocking pro-Nazi propaganda and any public glorification of Hitler, casting such speech as a direct threat that must be curtailed to prevent radicalization. Critics argue this framing can also be used to suppress contentious scholarship or artistic critique and to defend political decisions by labeling dissenting views about Hitler or Nazi history as illicit.",
+    "queries": [
+      "How do people view censorship in germany during Hitler's rule?"
+    ]
+  },
+  {
+    "id": "C4-4-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "freedom of expression",
+    "wiki_title": "freedom of speech",
+    "summary": "Advocates of restricting speech invoke Hitler’s exploitation of propaganda to justify bans on Nazi symbols, Holocaust denial, and hate speech as preventive public-safety measures; critics invoke freedom of speech to warn that censorship and deplatforming can create martyrs, stifle historical inquiry, and that open debate is a better guard against fascist ideas.",
+    "queries": [
+      "How do people view freedom of expression during Hitler's rule?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "nazi symbols ban",
+    "wiki_title": "bans on nazi symbols",
+    "summary": "Bans on Nazi symbols are often cited to stigmatize and legally constrain public expressions that celebrate or normalize Adolf Hitler, reinforcing anti‑fascist arguments that his ideology should be suppressed to prevent recruitment and hate. Opponents counter that such prohibitions can be overbroad censorship or politically abused, framing debates over whether restricting symbols effectively confronts Hitler’s legacy or simply stifles historical and political discussion.",
+    "queries": [
+      "How do people view nazi symbols ban?"
+    ]
+  },
+  {
+    "id": "C4-5-1",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "section 86a",
+    "wiki_title": "strafgesetzbuch section 86a",
+    "summary": "In debates about Adolf Hitler, Germany’s §86a is often cited to delegitimize and criminalize public praise, display, or rehabilitation of Nazi imagery linked to Hitler, reinforcing narratives that his ideology must be socially and legally repudiated and justifying policies to suppress neo‑Nazi organizing. Critics counter that the law can be used to silence contentious but contextual historical discussion and free‑speech arguments about Hitler’s legacy.",
+    "queries": [
+      "What impacts has section 86a had on Adolf Hitler-related discourse?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "social media platforms",
+    "wiki_title": "social media",
+    "summary": "On social media, Hitler is simultaneously amplified as an object of extremist praise, Holocaust denial, and meme-driven trivialization that can recruit or radicalize, and circulated as historical evidence and survivor testimony used to condemn fascism; these conflicting uses drive public debates about content moderation, deplatforming, free speech, and whether Hitler should serve as a cautionary exemplar or a distorted rhetorical cudgel in political comparisons.",
+    "queries": [
+      "Is censorship of Adolf Hitler on social media platforms reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "alternative for germany",
+    "wiki_title": "alternative for germany",
+    "summary": "Opponents frequently invoke Adolf Hitler and Nazism when condemning the Alternative for Germany, arguing the party’s nationalist, anti-immigrant rhetoric and tendency to relativize Germany’s Nazi past echo or sanitize elements of Hitler-era ideology; AfD supporters counter that such comparisons are unfair smear tactics that weaponize the Hitler label to discredit conservative or revisionist positions on history and immigration.",
+    "queries": [
+      "Is Alternative for Germany's agenda reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "anti-defamation league",
+    "wiki_title": "anti-defamation league",
+    "summary": "The ADL frequently invokes Adolf Hitler and Nazism as the exemplar of extreme antisemitism, using comparisons to justify monitoring and countering neo‑Nazi groups, Holocaust denial, and rhetoric it deems to mirror Nazi ideas and therefore warranting strong legal or policy responses. It also publicly challenges misuse of Holocaust or Hitler analogies—condemning both genuine Nazi sympathies and what it sees as inappropriate comparisons that it argues distort debate or conceal antisemitic motives, a practice critics say can broaden the ADL’s definition of antisemitism.",
+    "queries": [
+      "What impact has the anti-defamation league had regarding Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "holocaust denial",
+    "wiki_title": "holocaust denial",
+    "summary": "Holocaust denial is invoked to erase or minimize Adolf Hitler's central responsibility for genocide, allowing apologists and neo‑Nazi groups to rehabilitate his image, legitimize his ideology, and argue that Nazi crimes have been exaggerated. Opponents use the rejection and criminalization of denial to reaffirm Hitler’s unique culpability, justify education and remembrance policies, and marginalize contemporary sympathizers.",
+    "queries": [
+      "What consequences has holocaust denial caused in societies?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "david irving",
+    "wiki_title": "david irving",
+    "summary": "David Irving is frequently cited in debates about Adolf Hitler as the archetype of revisionist, apologetic scholarship used to minimize Hitler’s responsibility and to legitimize far‑right defenses of Nazi policy; opponents use his discrediting to warn against Holocaust denial and to justify legal, academic, and public repudiation of pro‑Hitler narratives.",
+    "queries": [
+      "Are david irving’s historical claims justified or widely disputed?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "institute for historical review",
+    "wiki_title": "institute for historical review",
+    "summary": "The Institute for Historical Review is invoked in debates about Adolf Hitler as a platform for Holocaust denial and revisionist narratives that downplay or dispute Nazi crimes and Hitler’s culpability, thereby providing rhetorical ammunition for those who seek to rehabilitate or excuse him. Its work is used to oppose mainstream scholarship, challenge commemoration and legal measures against antisemitism, and legitimize pro‑Nazi or extremist interpretations of Hitler’s role.",
+    "queries": [
+      "How do people view the institute for historical review?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "leuchter report",
+    "wiki_title": "leuchter report",
+    "summary": "The Leuchter report is invoked by Holocaust deniers and Hitler apologists to cast doubt on evidence of Nazi homicidal gassings and thus minimize or obscure Adolf Hitler’s responsibility for the Holocaust, while scholars and critics point to its methodological flaws to rebut revisionist narratives and defend the established historical account of Hitler’s orchestration of mass murder.",
+    "queries": [
+      "How do people view the Leuchter Report in the context of Hitler?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "robert faurisson",
+    "wiki_title": "robert faurisson",
+    "summary": "Holocaust-deniers and far-right apologists invoke Robert Faurisson to cast doubt on the scale and mechanics of Nazi atrocities, using his claims to minimize Adolf Hitler’s responsibility and to rehabilitate or sanitize Nazism. Conversely, historians and critics point to Faurisson as a prominent example of pseudohistory, deploying him to discredit attempts to exonerate or relativize Hitler’s crimes.",
+    "queries": [
+      "Is Robert Faurisson’s stance on Hitler-era history reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "gayssot act",
+    "wiki_title": "gayssot act",
+    "summary": "In debates about Adolf Hitler the Gayssot Act is frequently invoked to criminalize Holocaust denial and to delegitimize apologetic or revisionist portrayals of Hitler, framing such speech as harmful hate speech that must be suppressed to protect democratic values and victims’ memory. Supporters cite it to justify prosecutions of neo‑Nazi propaganda and curb glorification of Hitler, while critics argue it overreaches by constraining free speech and legitimate historical debate about his actions and legacy.",
+    "queries": [
+      "Is the gayssot act reasonable regarding Adolf Hitler's legacy?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "braunau am inn",
+    "wiki_title": "braunau am inn",
+    "summary": "As Hitler’s birthplace, Braunau am Inn is a focal point in debates over how to confront Nazi history — used by critics to argue for neutralization, educational memorialization, or restricted access to prevent far‑right pilgrimage, and by others to challenge what they see as perpetual stigmatization of Austria. Policy arguments about the site typically frame broader disputes over national memory, culpability, and whether to preserve or erase ‘dark heritage’ associated with Hitler.",
+    "queries": [
+      "How should Braunau am Inn address its link to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "birthplace of adolf hitler",
+    "wiki_title": "hitler birthplace memorial stone",
+    "summary": "The memorial stone at Hitler’s birthplace is deployed in public debates as a tangible repudiation of Hitler, used by educators and anti-fascist groups to insist on remembrance and historical responsibility. It also fuels contested policy and symbolic arguments—over protecting or neutralizing the site, restricting extremist pilgrimages, or erasing traces—reflecting competing views on how to confront his legacy.",
+    "queries": [
+      "Is preserving the birthplace of adolf hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "house of responsibility",
+    "wiki_title": "house of responsibility",
+    "summary": "The House of Responsibility is invoked to reframe Hitler’s birthplace as a site for critical education and prevention, casting Hitler as a cautionary example that justifies international, anti‑fascist learning and responsibility projects rather than fascination or glorification. Proponents use it to argue for pedagogical reuse of perpetrator sites, while critics—from right‑wing defenders to those who favor demolition—claim it is politically charged, inadequate, or risks instrumentalizing trauma.",
+    "queries": [
+      "What effects has Hitler's house of responsibility had?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "andreas maislinger",
+    "wiki_title": "andreas maislinger",
+    "summary": "Andreas Maislinger is invoked in debates as a pro-remembrance advocate who frames Adolf Hitler’s legacy as a moral and political problem Austria must actively confront; his work is used to justify education, memorial-service programs, and public acknowledgment of complicity while opposing denialism and nationalist revisionism.",
+    "queries": [
+      "How do people view Andreas Maislinger’s stance toward Austria’s Hitler history?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "dark tourism",
+    "wiki_title": "dark tourism",
+    "summary": "Visits to Hitler-associated sites are invoked in debates to argue for preserving and contextualizing them as educational memorials that confront his crimes and teach against fascism, or conversely to criticize their commercialization and the risk that they become pilgrimage sites that normalize or glamorize Hitler and the far right; this tension drives policy arguments over access, signage, interpretation, and regulation of Nazi heritage.",
+    "queries": [
+      "How do people view dark tourism connected to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "austrian government acquisition",
+    "wiki_title": "austria",
+    "summary": "Austria is invoked in debates about Adolf Hitler through his Austrian birth and the 1938 Anschluss, serving as shorthand in disputes over whether Austria was a victim of Nazi aggression or a willing collaborator; this framing is used to justify narratives of national innocence or, conversely, to demand accountability, stronger Holocaust remembrance, restitution, and scrutiny of contemporary right‑wing movements.",
+    "queries": [
+      "What consequences has austrian government acquisition had for Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "law and accountability",
+    "wiki_title": "accountability",
+    "summary": "Calls for accountability around Adolf Hitler are used to concentrate moral and legal blame on him as the principal architect of Nazi atrocities, justifying prosecutions, denazification, and strong institutional safeguards against autocracy; at the same time debates about accountability can shift emphasis toward collective, bureaucratic, or societal responsibility, which affects whether narratives and policies target individual criminal liability or systemic reforms.",
+    "queries": [
+      "How do people view law and accountability in Adolf Hitler’s case?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "crimes against humanity",
+    "wiki_title": "crimes against humanity",
+    "summary": "Invocations of 'crimes against humanity' cast Hitler as the paradigmatic perpetrator whose policies produced systematic mass atrocities, providing moral and legal grounds for the Nuremberg prosecutions and for arguing that authoritarian leaders deserve international accountability. The term is also used in public debate to justify modern international justice measures, to condemn denial or apologism, and to warn against political movements seen as carrying similar risks.",
+    "queries": [
+      "Are Adolf Hitler’s crimes against humanity reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "denazification",
+    "wiki_title": "denazification",
+    "summary": "Denazification is invoked in debates about Hitler to illustrate whether his murderous ideology and personnel were truly purged from German society after his death. Critics use its perceived failures to argue that Hitler’s legacy endured and justice was incomplete, while defenders portray postwar leniency as a pragmatic necessity for reconstruction and Cold War priorities.",
+    "queries": [
+      "Is denazification after Adolf Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-2",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "allied occupation of germany",
+    "wiki_title": "soviet occupation zone in germany",
+    "summary": "The Soviet occupation zone is invoked in debates about Adolf Hitler to underscore that his defeat brought foreign military control and the partition of Germany, reinforcing condemnations of his warmongering and the costs of Nazi rule. Conversely, some right‑wing or relativizing narratives point to Soviet postwar repression in order to draw parallels that minimize or deflect responsibility for Nazi crimes and shift moral blame onto the Allies.",
+    "queries": [
+      "Was the allied occupation of germany justified after Adolf Hitler's regime?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "eichmann trial",
+    "wiki_title": "eichmann trial",
+    "summary": "The Eichmann trial is frequently invoked to show how Hitler's genocidal program depended on compliant bureaucrats, reinforcing interpretations—notably Hannah Arendt's banality of evil—that Hitler's ideology created a systemic apparatus enabling mass murder rather than being carried out only by fanatics. It is also used to justify postwar prosecutions and extradition policies and to rebut efforts to downplay or personalize responsibility away from Hitler and the Nazi state.",
+    "queries": [
+      "How do people view the Eichmann trial's role in confronting Nazism?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "hannah arendt",
+    "wiki_title": "hannah arendt",
+    "summary": "Hannah Arendt is invoked to frame Hitler as the archetypal modern totalitarian leader—her analyses of mass movements, propaganda, and bureaucratic rule are used to explain his rise and to warn about systemic conditions that produce leaders like him. Her focus on structural causes and the “banality” of evil underpins calls to protect pluralism and civic institutions, though critics argue it can risk understating Hitler’s ideological agency and individual culpability.",
+    "queries": [
+      "What effects has hannah arendt’s work had on views of Hitler?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "operation finale",
+    "wiki_title": "operation finale",
+    "summary": "References to Operation Finale are often used to dramatize efforts to hold senior figures of Hitler's regime accountable, reinforcing narratives that the crimes of Nazism demanded determined, cross-border justice. It supports arguments for assertive moral and sometimes extralegal action to punish perpetrators of Hitler-era atrocities, while critics invoke it to raise concerns about legality, state sovereignty, and how societies should interpret Hitler's legacy.",
+    "queries": [
+      "How do people view operation finale in relation to Hitler’s legacy?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "banality of evil",
+    "wiki_title": "eichmann in jerusalem",
+    "summary": "Hannah Arendt’s 'Eichmann in Jerusalem'—via the 'banality of evil' argument—is frequently cited in discussions of Hitler to shift focus from a portrait of Hitler as a singular monstrous mastermind to analyses of how ordinary bureaucratic obedience and institutional structures enabled genocidal policies. This framing is used to support policy and moral lessons emphasizing institutional accountability and prevention of bureaucratic complicity, while critics argue it risks minimizing Hitler’s ideological agency and the singular brutality of the Nazi leadership.",
+    "queries": [
+      "How do people view the banality of evil regarding Hitler's actions?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "holocaust survivors",
+    "wiki_title": "holocaust survivors",
+    "summary": "Holocaust survivors' firsthand testimony and public visibility are invoked as moral and evidentiary proof of Adolf Hitler's responsibility for genocide, used to condemn his ideology, refute denialism, and sustain calls for accountability. Their stories also shape policy and political debate—justifying Holocaust education, reparations, refugee protections and anti‑fascist measures while being mobilized to criticize leaders or movements that appear to minimize or rehabilitate Hitler and his legacy.",
+    "queries": [
+      "Is honoring holocaust survivors appropriate in discussions about Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "mossad",
+    "wiki_title": "mossad",
+    "summary": "Mossad is often invoked in discussions of Adolf Hitler as the embodiment of post‑war reckoning—its capture of Eichmann and reputation for hunting Nazi war criminals are used to frame Hitler’s legacy as one demanding continued pursuit of justice and to justify robust, sometimes extrajudicial, responses to perpetrators. Conversely, critics and conspiracy‑minded debaters cite Mossad to either condemn Israeli tactics by drawing uncomfortable parallels to secret police methods or to cast doubt on established narratives about Nazi crimes.",
+    "queries": [
+      "Are Mossad operations against alleged Nazi collaborators reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "genocide convention",
+    "wiki_title": "genocide convention",
+    "summary": "The Genocide Convention is often cited to portray Hitler as the canonical perpetrator whose policies demanded the creation of international law and institutions to prosecute and prevent mass extermination, thereby justifying postwar trials, condemnation of Nazi ideology, and contemporary obligations to intervene or sanction similar crimes. It also fuels debates—supporting strong anti-denial and accountability stances while provoking critiques about applying modern legal categories retroactively to WWII-era actors.",
+    "queries": [
+      "What effects has the genocide convention had on preventing Hitler-like genocides?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "raphael lemkin",
+    "wiki_title": "raphael lemkin",
+    "summary": "Raphael Lemkin’s coinage of “genocide” is used to cast Adolf Hitler as the paradigmatic genocidal leader, furnishing moral and legal language that bolsters condemnation of Nazi policies and the creation of international mechanisms to prosecute and remember Hitler’s crimes. Invocations of Lemkin strengthen critiques of efforts to minimize or relativize Hitler’s culpability and support policy positions favoring prosecution, education, and prevention of similar atrocities, while also setting a threshold that critics warn against being stretched by loose comparisons to Hitler.",
+    "queries": [
+      "How do people view Raphael Lemkin's response to Hitler-era atrocities?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "united nations",
+    "wiki_title": "united nations",
+    "summary": "The UN is often invoked as the institutional legacy of the response to Hitler — its human-rights norms, Genocide Convention and tribunals are cited to justify international law, Holocaust remembrance, and interventions to prevent another regime like Nazi Germany. Critics likewise point to the UN’s failures to stop later genocides to argue that the post‑Hitler international order is rhetorically powerful but practically limited.",
+    "queries": [
+      "How do people view the united nations regarding Hitler-era accountability?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "volksverhetzung",
+    "wiki_title": "volksverhetzung",
+    "summary": "In discussions about Adolf Hitler, volksverhetzung is frequently cited to justify criminalizing praise, glorification, or denial of his crimes, shaping public debate by deterring neo‑Nazi propaganda and Holocaust denial that would rehabilitate his image. Opponents of such laws sometimes argue they overreach and can chill controversial historical or academic discussion about Hitler’s actions and motives.",
+    "queries": [
+      "What effects did volksverhetzung have under Hitler's influence?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "simon wiesenthal center",
+    "wiki_title": "simon wiesenthal center",
+    "summary": "The Simon Wiesenthal Center frequently invokes Adolf Hitler as the paradigmatic symbol of genocidal evil to bolster Holocaust remembrance, pursue Nazi accountability, and combat denial, revisionism, or any rehabilitation of Nazi figures. It also deploys Hitler comparisons in public advocacy to condemn perceived antisemitism or extremism—an approach supporters view as a necessary moral alarm and critics sometimes call rhetorical overreach.",
+    "queries": [
+      "How do people view the simon wiesenthal center's work?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "european court of human rights",
+    "wiki_title": "european court of human rights",
+    "summary": "The European Court of Human Rights is frequently cited in disputes over whether praise of Hitler, Nazi symbols, or Holocaust denial should be criminalized—its case law is used to justify restrictions aimed at preventing fascist hate and protecting victims’ dignity, and conversely to challenge national laws as disproportionate limits on free expression. As a result, politicians, courts and activists appeal to the ECtHR to either demand stronger prosecution of neo‑Nazi activity linked to Hitler’s legacy or to defend controversial or revisionist speech as protected under free‑speech guarantees.",
+    "queries": [
+      "How do people view the european court of human rights regarding Hitler?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "politics and rhetoric",
+    "wiki_title": "rhetoric",
+    "summary": "Rhetorical analysis of Hitler is used as both a cautionary template and a tool of advocacy: scholars and commentators point to his charismatic, emotionally charged propaganda and scapegoating to condemn demagoguery, justify anti‑fascist laws and interventions, and warn against similar appeals in contemporary politics. At the same time, apologists and extremist voices deploy selective rhetorical reframing or euphemism to minimize culpability or to glorify authoritarian leadership.",
+    "queries": [
+      "Is Hitler’s politics and rhetoric justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "joseph goebbels",
+    "wiki_title": "joseph goebbels",
+    "summary": "Joseph Goebbels is invoked as Hitler’s master propagandist and exemplar of manipulative, fanatical loyalty; invoking “Goebbels” or “Goebbelsian” techniques frames Hitler as a leader who engineered consent, normalized violence, and used mass media to justify genocide, often to condemn Hitler’s methods and warn against modern propaganda. References to Goebbels’ extremism and unwavering devotion also support arguments that Hitler exercised tight personal and ideological control over the regime, concentrating blame on his leadership style and inner circle.",
+    "queries": [
+      "How do people view Joseph Goebbels's role in propaganda?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "ministry of propaganda",
+    "wiki_title": "ministry of propaganda",
+    "summary": "In discussions of Adolf Hitler, references to a 'ministry of propaganda' highlight how the Nazi propaganda apparatus manufactured a cult of personality for Hitler, legitimized violent, expansionist and anti‑Semitic policies, and suppressed dissent to make his rule seem inevitable and desirable. Critics also invoke the term to denounce contemporary governments or media as authoritarian and manipulative by analogy, while some argue such comparisons are overstated—shaping debates over accountability, censorship, and the uniqueness of Nazi-era propaganda.",
+    "queries": [
+      "How do people view the ministry of propaganda in Nazi Germany?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "leni riefenstahl",
+    "wiki_title": "leni riefenstahl",
+    "summary": "Leni Riefenstahl is commonly invoked in discussions of Hitler as the exemplar of how cinematic spectacle and artistic staging helped manufacture his cult of personality and mobilize mass consent; critics use her career to condemn the manipulative power of Nazi propaganda and the moral culpability of cultural collaborators, while some defenders attempt to separate her technical innovations from the political ends they served.",
+    "queries": [
+      "Is leni riefenstahl's continued acclaim reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "goebbels diaries",
+    "wiki_title": "goebbels diaries",
+    "summary": "Commentators and historians frequently cite Goebbels’s diaries as contemporaneous evidence to portray Hitler’s intentions, leadership style, and direct responsibility for radical Nazi policies—using its passages to justify characterizations of Hitler as a manipulative, fanatical central actor. At the same time critics invoke Goebbels’s propagandist motives to temper or contest readings that treat his entries as straightforward testimony, arguing the diaries can be used both to incriminate and to exaggerate Hitler’s views depending on the interpreter’s agenda.",
+    "queries": [
+      "How do people view the Goebbels diaries today?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "atomwaffen division",
+    "wiki_title": "atomwaffen division",
+    "summary": "Atomwaffen Division is often cited in discussions of Adolf Hitler as contemporary proof that Hitlerian racist, genocidal ideas continue to inspire violent white-supremacists, with sympathizers using the group to idolize Hitler and justify accelerationist violence. Critics and policymakers invoke Atomwaffen to argue that Hitler’s ideology poses an active domestic-terror threat, supporting calls for deplatforming, surveillance, and tougher counter-extremism measures.",
+    "queries": [
+      "What consequences has Atomwaffen Division produced in extremist movements?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "swastika",
+    "wiki_title": "swastika",
+    "summary": "The swastika functions as the visual shorthand for Hitler’s Nazi ideology and atrocities, used by critics to personify and condemn his legacy and by extremists to glorify or emulate him; its display therefore drives debates over banning symbols, hate‑crime enforcement, and public memory of Hitler’s regime. In disputes about cultural reclamation, arguments that religious uses should be permitted clash with claims that public swastikas normalize or trivialize Hitler’s crimes, shaping policy and education about Nazism.",
+    "queries": [
+      "Is Hitler's swastika use justifiable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "richard spencer",
+    "wiki_title": "richard spencer",
+    "summary": "Richard Spencer is frequently invoked in discussions of Adolf Hitler as a contemporary exemplar whose praise of racial hierarchy, Nazi imagery, and advocacy of an ethnostate lead critics to equate modern white nationalism with Hitlerism and to argue for deplatforming, anti‑hate measures, and antifascist action; defenders often dismiss these comparisons as exaggerated, portraying Spencer as a free‑speech provocateur rather than a literal continuation of Hitler’s movement.",
+    "queries": [
+      "How do people view richard spencer in relation to Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "lebensraum",
+    "wiki_title": "lebensraum",
+    "summary": "Lebensraum is invoked to portray Hitler as a relentlessly expansionist, racially motivated leader whose territorial ambitions and policies directly drove WWII and the Holocaust, bolstering characterizations of him as a genocidal imperialist deserving of unequivocal moral condemnation. It also appears in debates where defenders or revisionists try to downplay his uniqueness by comparing Nazi aims to other colonial projects, while policymakers and commentators cite it to justify prevention and strong responses to similar expansionist ideologies.",
+    "queries": [
+      "How do people view Hitler’s lebensraum policy?"
+    ]
+  },
+  {
+    "id": "C6-6-2",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "hunger plan",
+    "wiki_title": "hunger plan",
+    "summary": "The \"Hunger Plan\" is invoked in debates about Hitler to show that his regime deliberately used mass starvation as an instrument of conquest and racial policy, reinforcing portrayals of Hitler as an ideologically driven genocidal planner rather than a pragmatic wartime leader. Critics cite it to justify strong moral and legal condemnation and to counter revisionist narratives, while it is also used in comparisons that warn against state policies that dehumanize populations.",
+    "queries": [
+      "How do people view Hitler's hunger plan today?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "blood and soil",
+    "wiki_title": "blood and soil",
+    "summary": "Invoked to explain and justify Hitler’s fusion of racial ideology with territorial policy—used by admirers to cast him as a restorer of rural German values and agrarian order, and by critics to highlight how that rhetoric rationalized expansion, ethnic cleansing and genocidal population displacement in Eastern Europe.",
+    "queries": [
+      "What consequences has blood and soil had under Hitler?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "germanization",
+    "wiki_title": "germanisation",
+    "summary": "In debates about Hitler, \"Germanisation\" is invoked to explain and justify his regime’s drive to remake conquered territories and populations in racial and cultural terms, a framing critics use to expose how policies of assimilation escalated into ethnic cleansing under Lebensraum. Supporters or minimizers sometimes recast Germanisation as routine state-building or cultural integration, while historians emphasize it as central to Hitler’s racial expansionism and the ideological roots of Nazi atrocities.",
+    "queries": [
+      "Is Adolf Hitler's germanization justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "slavic peoples",
+    "wiki_title": "slavs",
+    "summary": "References to Slavs are used to illustrate and condemn Hitler’s racial ideology and wartime policies—Nazi propaganda and plans (e.g., Generalplan Ost) portrayed Slavic peoples as inferior and justified mass murder, displacement, and enslavement during the invasion of Eastern Europe. In public debates this history is invoked both to emphasize Hitler’s genocidal intent and to explain occupation atrocities, while nationalist or revisionist narratives sometimes contest or downplay Slavic suffering to reshape assessments of culpability and resistance.",
+    "queries": [
+      "What consequences did Hitler’s actions have for slavic peoples?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "defense of superior orders",
+    "wiki_title": "superior orders",
+    "summary": "In debates about Adolf Hitler, appeals to \"superior orders\" are invoked either to minimize the moral blame of rank-and-file perpetrators (portraying them as coerced executors) or to underscore Hitler's unique culpability as the architect who gave those orders; the postwar rejection of that defense at Nuremberg is frequently cited to argue that Hitler and top Nazi leaders must be held fully responsible and that obedience cannot absolve participation in state crimes.",
+    "queries": [
+      "What consequences has defense of superior orders produced under Hitler?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and popular culture",
+    "wiki_title": "popular culture",
+    "summary": "Popular culture frequently casts Adolf Hitler as the archetypal embodiment of evil—through films, satire, memes and games—which makes him a ready symbol in public arguments about authoritarianism, morality, and contemporary political figures. That visibility both bolsters anti‑fascist condemnation and Holocaust remembrance in education and policy debates, and provokes disputes over trivialization, glamorization, censorship, and platform moderation when entertainment or humor risks normalizing or distorting historical atrocity.",
+    "queries": [
+      "How do people view media and popular culture portrayals of Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "book bans",
+    "wiki_title": "book banning in the united states (2021–present)",
+    "summary": "In debates over U.S. book bans (2021–present), critics frequently invoke Adolf Hitler and Nazi book burnings as a cautionary historical analogy to argue that censoring literature is a slippery first step toward fascism and to morally delegitimize contemporary bans. Supporters typically reject the Hitler comparison, framing restrictions as child-protection or anti-radicalization measures rather than steps toward totalitarianism.",
+    "queries": [
+      "What consequences have book bans under Adolf Hitler caused?"
+    ]
+  },
+  {
+    "id": "C7-1-8",
+    "parent": "C7",
+    "level": 3,
+    "topic": "english translation",
+    "wiki_title": "translation",
+    "summary": "Translations of Hitler’s writings and speeches are politically charged: translators’ word choices, omissions, and annotations can soften or intensify his rhetoric and thus shape whether audiences view him as monstrously ideological, tactically pragmatic, or historically explicable. Deliberate mistranslations are exploited by apologists and deniers to downplay crimes, while careful, annotated translations are used to support condemnation, education, legal cases, and policies on censorship and Holocaust memory.",
+    "queries": [
+      "How do people view the english translation of Hitler’s writings?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "the great dictator",
+    "wiki_title": "the great dictator",
+    "summary": "Chaplin’s The Great Dictator is frequently cited to ridicule and delegitimize Adolf Hitler by reducing him to a buffoonish, despotic caricature, thereby supporting anti-fascist interpretations and justifying moral opposition to Nazi ideology; it is also used in debates to argue that art has a duty to confront and shame totalitarian leaders rather than normalize or appease them.",
+    "queries": [
+      "How do people view the great dictator label regarding Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C7-2-1",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "charlie chaplin",
+    "wiki_title": "charlie chaplin",
+    "summary": "Chaplin is frequently invoked as a high-profile example of how satire can delegitimize and lampoon Adolf Hitler and fascism, used by commentators to argue that humor exposes authoritarian absurdity and moral cowardice. Conversely, his comedic portrayal is also cited by critics who warn that satire risks trivializing Nazi atrocities or who debate the ethical responsibilities of artists confronting tyrants.",
+    "queries": [
+      "Is Charlie Chaplin’s use of comedy about Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "political satire",
+    "wiki_title": "political satire",
+    "summary": "Satire commonly portrays Hitler as the archetypal tyrant—a grotesque, comic figure used to ridicule fascism, mobilize anti‑Nazi sentiment, and justify resistance to authoritarian policies. At the same time, frequent dark jokes or hyperbolic Hitler comparisons can trivialize his crimes or serve as a rhetorical bludgeon that oversimplifies history and polarizes debate.",
+    "queries": [
+      "What consequences has political satire about Adolf Hitler caused?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "anti-fascism",
+    "wiki_title": "anti-fascism",
+    "summary": "Anti‑fascism casts Adolf Hitler as the paradigmatic fascist whose crimes legitimize resistance, repression of fascist movements, and policies aimed at protecting democracy and vulnerable groups, using WWII anti‑Nazi struggle as moral precedent. It is also deployed rhetorically to denounce or delegitimize contemporary figures by comparing them to Hitler or branding them fascist, heightening political stakes in debates.",
+    "queries": [
+      "What consequences has anti-fascism had confronting Hitler-era movements?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "film censorship",
+    "wiki_title": "film censorship",
+    "summary": "Censorship of films about Adolf Hitler is frequently used to justify banning Nazi propaganda and Holocaust denial—framed as protecting society from glorification and extremist recruitment—while opponents argue such restrictions can sanitize history, suppress uncomfortable portrayals, and infringe artistic or scholarly freedom.",
+    "queries": [
+      "How do people view film censorship in Nazi Germany?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "downfall parodies",
+    "wiki_title": "downfall (game)",
+    "summary": "Because of its title and mechanics of progressive collapse, Downfall is occasionally used metaphorically or satirically in discussions of Adolf Hitler to portray his regime’s end as inevitable, bumbling, or childish, bolstering anti-fascist ridicule. Critics argue such comparisons risk trivializing Nazi atrocities and can be used to downplay the gravity and lessons of Hitler’s crimes.",
+    "queries": [
+      "What consequences have downfall parodies of Adolf Hitler caused?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube is a battleground for competing narratives about Adolf Hitler: it hosts scholarly documentaries and educational content that condemn Nazism, but also enables user-generated praise, conspiracy-driven revisionism, and Holocaust denial that can be amplified by recommendation algorithms—fueling public debates over deplatforming, moderation, and the responsibilities of tech platforms. Creators likewise use Hitler imagery and comparisons as rhetorical weapons or memes to vilify contemporary figures or trivialize fascism, shaping popular attitudes and policy arguments about hate speech, historical memory, and free speech enforcement.",
+    "queries": [
+      "What effects has youtube had on public perception of Hitler?"
+    ]
+  },
+  {
+    "id": "C7-3-3",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "internet meme",
+    "wiki_title": "internet meme",
+    "summary": "Memes about Adolf Hitler are used both to trivialize or covertly normalize extremist views—serving as in-group signals or spreading denialist tropes—and to condemn or ridicule authoritarianism by comparing contemporary figures to Hitler, thereby shaping public attitudes for or against fascist ideas and related policies.",
+    "queries": [
+      "Are Adolf Hitler internet memes reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "fair use",
+    "wiki_title": "fair use",
+    "summary": "Advocates invoke fair use to justify reproducing Hitler’s speeches, images, and propaganda in books, documentaries, classrooms, and parodies as essential for historical study, critique, and public awareness; opponents counter that broad fair use can enable the spread or commercial exploitation of extremist material and push for tighter platform moderation or legal limits to prevent glorification.",
+    "queries": [
+      "Is fair use of Adolf Hitler materials justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "fansubbing",
+    "wiki_title": "fansub",
+    "summary": "Fansubbed translations of Nazi-era films, speeches, and documentaries can rapidly spread raw Hitler-related material to new audiences, and translators' choices — omissions, tone shifts, or added commentary — can either amplify extremist praise or distortions used by Holocaust deniers, or enable critical analysis and public education by making primary sources accessible. Debates about fansubbing in Hitler-related contexts therefore pit free access to historical material and grassroots scholarship against concerns about unmoderated propaganda, mistranslation, and the need for contextual framing.",
+    "queries": [
+      "What impacts has fansubbing of Adolf Hitler content produced?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "hitler memes",
+    "wiki_title": "hitler nababan",
+    "summary": "Because the name 'Hitler Nababan' directly evokes Adolf Hitler, commentators and opponents use it to draw provocative parallels that amplify claims of authoritarianism or extremism in local political debates. Others invoke the name to criticize that rhetoric as sensationalist or as trivializing Nazi crimes, shaping arguments over when comparisons to Hitler are warranted or irresponsible.",
+    "queries": [
+      "Should platforms restrict hitler memes or allow free expression?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "alt-right",
+    "wiki_title": "alt-right",
+    "summary": "In debates about Adolf Hitler, alt‑right actors often either valorize or selectively rehabilitate him, with hardline factions praising Hitler as a model of racial nationalism and invoking Nazi imagery to legitimize anti‑immigrant, white‑separatist, or authoritarian policies. Critics seize on that veneration or sanitization to brand the alt‑right as neo‑Nazi, discredit its arguments, and warn against normalizing genocidal and anti‑democratic ideas.",
+    "queries": [
+      "How do people view alt-right ties to Hitler-era symbolism?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "pepe the frog",
+    "wiki_title": "pepe the frog",
+    "summary": "Within alt‑right and troll networks, Pepe imagery is sometimes merged with Nazi iconography or used to depict Adolf Hitler, helping to normalize or celebrate extremist, antisemitic sentiments and to provoke or harass targets by invoking Nazi tropes. Conversely, critics deploy Pepe‑as‑Hitler satire to lampoon, condemn, or accuse political adversaries of fascism, so the meme can both amplify far‑right messaging and trivialize or ridicule references to Hitler depending on context.",
+    "queries": [
+      "How do people view pepe the frog’s ties to Hitler-era symbolism?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "4chan",
+    "wiki_title": "4chan",
+    "summary": "On 4chan, Adolf Hitler is often invoked through shock-value memes, ironic ‘praise,’ and explicit neo‑Nazi posting that can normalize and recruit to alt‑right and white‑supremacist positions, spread Holocaust denial and historical revisionism, or be used to justify authoritarian, anti‑immigrant attitudes; the board's culture of trolling and irony also blurs intent, producing a mix of genuine pro‑Hitler advocacy and sarcastic mockery or counter‑critique.",
+    "queries": [
+      "What effects has 4chan had on perceptions of Hitler?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "wolfenstein series",
+    "wiki_title": "wolfenstein",
+    "summary": "The Wolfenstein games frame Adolf Hitler as an exaggerated, villainous figure—sometimes occult or sci‑fi—used to legitimize militant anti‑fascist narratives and the morality of violent resistance in public debates. Critics counter that turning Hitler into an entertainment antagonist can both sharpen condemnation of Nazism and risk trivializing historical atrocities through gamified alternate‑history portrayals.",
+    "queries": [
+      "What effects has the wolfenstein series had on perceptions of Hitler?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "nazi symbolism",
+    "wiki_title": "nazi symbolism",
+    "summary": "Nazi symbolism is used in debates about Hitler to visually link people, movements, or policies to his persona and ideology—admirers employ it to glorify or rehabilitate his leadership, while critics use it to condemn him as the embodiment of totalitarianism and genocide. Its display often shapes policy and public opinion on free speech limits, hate-crime enforcement, education, and calls to ban or criminalize propaganda to prevent revival of Hitler’s ideas.",
+    "queries": [
+      "Is nazi symbolism linked to Adolf Hitler acceptable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "usk",
+    "wiki_title": "usk",
+    "summary": "Usk is sometimes invoked in UK discussions as an emblem of small‑town civic life and wartime memory to contrast local community values with Adolf Hitler’s totalitarian, genocidal politics and to bolster arguments for anti‑fascist remembrance and education. At the same time, commentators criticize uses of tranquil places like Usk when they serve to downplay the ongoing relevance of studying Nazism by suggesting such threats are remote from everyday British life.",
+    "queries": [
+      "Is usk related to Adolf Hitler reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "b. j. blazkowicz",
+    "wiki_title": "b.j. blazkowicz",
+    "summary": "As the archetypal Nazi‑slayer in the Wolfenstein franchise, B.J. Blazkowicz is invoked in public narratives to personify and demonize Adolf Hitler and Nazism, bolstering an uncompromising anti‑fascist stance that frames violent resistance as morally justified. Commentators also use the character to critique cultural responses to Hitler—arguing the trope both effectively condemns totalitarian evil and risks simplifying history or trivializing real atrocities through entertainment.",
+    "queries": [
+      "Are b. j. blazkowicz’s methods against Hitler’s forces reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-7",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "machinegames",
+    "wiki_title": "machinegames",
+    "summary": "MachineGames’ Wolfenstein games frequently depict Adolf Hitler and Nazis in an exaggerated, alternate‑history, hyperviolent manner, and are cited in debates over whether such portrayals trivialize or effectively condemn Hitler and fascism; supporters argue the games provide clear anti‑fascist catharsis and critique, while critics say the stylized violence and caricature risk normalizing or sanitizing real historical atrocities.",
+    "queries": [
+      "What effects has machinegames' depiction of Hitler caused?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "godwin's law",
+    "wiki_title": "godwin's law",
+    "summary": "In debates about Adolf Hitler, Godwin's law is often invoked to dismiss or delegitimize analogies that liken people or policies to Hitler or Nazism, framing such comparisons as rhetorical excess that trivializes historical atrocities. Critics counter that invoking Godwin's law can also be used to silence legitimate warnings about authoritarian tendencies, so it functions as a policing tool that influences when references to Hitler are treated as valid or merely hyperbolic.",
+    "queries": [
+      "Is godwin's law reasonable or not when invoking Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C7-6-1",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "reductio ad hitlerum",
+    "wiki_title": "reductio ad hitlerum",
+    "summary": "Invoking Hitler or likening ideas to Nazism is often used in public debate to brand opponents as morally monstrous and to justify immediate, uncompromising rejection of their views or policies. Overuse of this tactic, however, can both stifle careful analysis of genuine fascist tendencies by making any resemblance instantly disqualifying and dilute serious warnings about authoritarian danger through trivialization.",
+    "queries": [
+      "Is reductio ad hitlerum reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "white supremacy",
+    "wiki_title": "white supremacy",
+    "summary": "White supremacy is used to frame Hitler as the paradigmatic advocate of racial hierarchy—invoked by critics to explain and condemn Nazi genocide and racist policy and to situate Nazism within a longer history of European racial violence. It is also referenced in debates where modern white supremacists idolize or borrow from Hitler, or where defenders and scholars argue over continuity versus uniqueness between Nazism and other white‑supremacist movements.",
+    "queries": [
+      "How do people view white supremacy linked to Hitler?"
+    ]
+  },
+  {
+    "id": "C7-6-6",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "Twitter is a primary venue where Adolf Hitler is invoked both for serious historical education and remembrance and, conversely, for provocative comparisons, Holocaust denial, and far‑right praise that can normalize or trivialize Nazism. Those conflicting uses drive contentious debates over moderation and free‑speech—with critics demanding stricter takedowns and fact‑checking to limit glorification and misinformation, and opponents framing such actions as censorship that impedes confronting extremist ideas.",
+    "queries": [
+      "How do people view Adolf Hitler content on Twitter?"
+    ]
+  },
+  {
+    "id": "C7-7-2",
+    "parent": "C7",
+    "level": 3,
+    "topic": "ernst zündel",
+    "wiki_title": "ernst zündel",
+    "summary": "Ernst Zündel is invoked in debates about Adolf Hitler as a prominent example of Holocaust denial and Nazi apologetics, used to rehabilitate or minimize Hitler’s responsibility by promoting revisionist narratives that portray him as misunderstood or exonerated. His prominence and legal troubles are likewise cited by opponents to justify hate‑speech laws, anti‑extremism measures, and campaigns to counter historical revisionism and the public normalization of Hitler.",
+    "queries": [
+      "How do people view Ernst Zündel's claims about Hitler?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "education and curriculum",
+    "wiki_title": "curriculum",
+    "summary": "Debates about curricula shape whether Adolf Hitler is presented as a cautionary exemplar for teaching democracy and Holocaust/anti-extremism lessons—supporting policies that mandate comprehensive, contextualized instruction to prevent radicalization—and are also used to criticize programs that sanitize, nationalize, minimize, or omit Nazi crimes, which opponents argue enables revisionism or inadvertent glorification.",
+    "queries": [
+      "What impacts did Adolf Hitler’s education and curriculum policies have?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "holocaust education",
+    "wiki_title": "holocaust education",
+    "summary": "Holocaust education commonly portrays Adolf Hitler as the central architect and moral exemplar of modern genocidal regimes, a framing used to justify strong public condemnation, anti‑fascist curricula, remembrance laws, and measures against neo‑Nazi movements. It is also deployed in debates to refute denialism and to argue whether Holocaust memory should single out Hitler’s culpability or be taught alongside other genocides, which can either concentrate or diffuse responsibility in public understanding.",
+    "queries": [
+      "What effects does holocaust education have on understanding Adolf Hitler?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "international holocaust remembrance alliance",
+    "wiki_title": "international holocaust remembrance alliance",
+    "summary": "The IHRA frames Adolf Hitler as the exemplar of genocidal antisemitism and provides definitions and guidance that governments and institutions use to justify condemning or legally restricting Holocaust denial, Nazi praise, and public invocations of Hitler in education and policy.  Its working definition also appears in controversies—supporters say it protects memory and prevents glorification of Hitler, while critics argue it can be used to label political opponents as ‘Hitlerian’ or to suppress legitimate debate.",
+    "queries": [
+      "What impact has the International Holocaust Remembrance Alliance had on Hitler-related remembrance?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "history education",
+    "wiki_title": "history",
+    "summary": "History is invoked to anchor how Adolf Hitler is judged: authoritative historical narratives and public memory overwhelmingly condemn him and are used to justify Holocaust education, anti‑fascist policies, and 'never again' commitments, while revisionists and deniers selectively reinterpret or minimize evidence to rehabilitate nationalist or extremist agendas. Debates among historians over whether Hitler was an exceptional individual or the product of broader social, political, and economic forces shape whether responses emphasize exceptional safeguards (punishment, bans, memorialization) or systemic reforms to prevent similar movements.",
+    "queries": [
+      "What impacts has history education’s portrayal of Adolf Hitler caused?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "textbook controversies",
+    "wiki_title": "bias in curricula",
+    "summary": "Accusations of bias in curricula shape debates over Adolf Hitler by alleging that school programs either sanitize or unduly politicize his crimes and ideology—claims used to warn that downplaying Hitler enables nationalist revisionism or, conversely, that emphasizing him serves partisan guilt narratives. Those arguments drive policy fights over mandatory Holocaust and fascism education, bans on denial, or demands to ‘balance’ or purge perceived politicized content, with each side accusing the other of rehabilitating or weaponizing Hitler’s legacy.",
+    "queries": [
+      "What consequences have textbook controversies involving Adolf Hitler caused?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "historical revisionism",
+    "wiki_title": "historical revisionism",
+    "summary": "In public debates about Adolf Hitler, historical revisionism is frequently invoked by far-right apologists or nationalist historians to downplay his culpability, recast his motives as pragmatic or defensive, or rehabilitate aspects of Nazi policy as justified. Critics counter by labeling such efforts as dangerous negationism, using the term to justify educational, legal, and cultural measures that defend the consensus that Hitler’s actions were criminal and genocidal.",
+    "queries": [
+      "How do people view historical revisionism regarding Hitler?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "nanjing massacre",
+    "wiki_title": "nanjing massacre",
+    "summary": "The Nanjing Massacre is frequently invoked in debates about Adolf Hitler as a comparative example of mass atrocity—used either to relativize or minimize the uniqueness of Nazi crimes by pointing to similar non‑European wartime violence, or conversely to underscore that Hitler’s genocidal policies fit a wider pattern of modern state brutality. That framing shapes opinions on Holocaust exceptionalism, moral equivalence, and related policy positions on memorialization, accountability, and preventative intervention.",
+    "queries": [
+      "What impacts has the Nanjing Massacre had on regional relations?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "comfort women",
+    "wiki_title": "comfort women",
+    "summary": "References to comfort women are invoked in discussions of Adolf Hitler to place Nazi crimes in a wider wartime context of systemic sexual violence, supporting comparative analyses of Axis-era abuses rather than isolating Hitler as the sole exemplar. They are also used rhetorically—by critics to challenge Holocaust exceptionalism and by nationalists or denialists to relativize or deflect responsibility from Nazi atrocities—shaping debates over remembrance, education, and reparations.",
+    "queries": [
+      "Is addressing comfort women relevant when evaluating Hitler-era wartime abuses?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8",
+    "level": 3,
+    "topic": "allied control council",
+    "wiki_title": "allied control council",
+    "summary": "References to the Allied Control Council are often used to underscore the international consequences of Hitler’s rule—showing how Nazi aggression required Allied occupation, denazification and legal accountability—and to justify postwar trials and restructuring of Germany. Critics invoke the Council to challenge aspects of “victors’ justice” or to blame Allied occupation policies (and the subsequent East–West division) on heavy-handed responses to Hitler’s crimes.",
+    "queries": [
+      "How do people view the Allied Control Council’s handling after Hitler?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "wiedergutmachung",
+    "wiki_title": "wiedergutmachung",
+    "summary": "Wiedergutmachung is invoked in debates about Adolf Hitler to anchor him and the Nazi regime as perpetrators whose crimes require state acknowledgement and material redress, thereby framing Hitler's legacy as a moral and financial burden Germany must confront. Opponents and revisionists use disputes over the amount, timing, and bureaucracy of reparations to minimize Hitler's responsibility or portray postwar atonement as excessive or politicized, so the term often shapes whether Hitler is seen as uniquely culpable or part of a contested national trauma.",
+    "queries": [
+      "Is wiedergutmachung for crimes under Adolf Hitler justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "nazi propaganda",
+    "wiki_title": "propaganda in nazi germany",
+    "summary": "References to Nazi propaganda are used to explain and condemn how Hitler manufactured mass support—portraying him as a skillful manipulator who used centralized media, spectacle, and scapegoating to normalize his ideology and consolidate power. The topic also figures in contemporary debates: it supports calls for media literacy and safeguards against demagogy while sometimes being downplayed by revisionist accounts that stress structural or economic causes of Hitler’s rise.",
+    "queries": [
+      "Is nazi propaganda justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "triumph of the will",
+    "wiki_title": "triumph of the will",
+    "summary": "Triumph of the Will is frequently cited to bolster conflicting views of Hitler: admirers and modern extremists invoke its imagery to mythologize him as a charismatic, triumphant leader and to legitimize authoritarian appeal, while opponents use the film as proof of his mastery of manipulative propaganda and the engineered cult of personality. It therefore features centrally in debates over censorship, historical memory, and whether artistic merit can or should mitigate the ethical condemnation of Hitler’s regime.",
+    "queries": [
+      "What consequences has Triumph of the Will caused?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "volksempfänger",
+    "wiki_title": "volksempfänger",
+    "summary": "The Volksempfänger is cited as a central instrument of Hitler’s propaganda machine, used to argue that much of his mass support was manufactured through state-controlled broadcasting rather than spontaneous popular consent. Critics point to it as evidence of manipulative, authoritarian media control, while defenders sometimes minimize its role, framing Hitler’s appeal as rooted in policy and ideology rather than technological persuasion.",
+    "queries": [
+      "What effects did the volksempfänger have on German public opinion?"
+    ]
+  },
+  {
+    "id": "C8-6-7",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "hitler youth",
+    "wiki_title": "hitler youth",
+    "summary": "The Hitler Youth is often cited as proof that Hitler systematically indoctrinated and militarized children to secure loyalty and reproduce Nazi ideology, reinforcing portrayals of him as a manipulative architect of totalitarian social control and collective culpability. It also features in debates over accountability and policy—used by critics to justify denazification and bans on Nazi symbols, and occasionally by apologists who stress discipline or claim members were victims of propaganda to downplay Hitler’s personal responsibility.",
+    "queries": [
+      "What consequences did Hitler Youth have in Hitler's Germany?"
+    ]
+  },
+  {
+    "id": "C8-6-8",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "big lie",
+    "wiki_title": "big lie",
+    "summary": "In discussions of Adolf Hitler, the “big lie” is invoked to portray his political method as large-scale, deliberate deception that manufactured consent and rationalized antisemitic policies and mass violence. It serves to condemn Hitler as a manipulative propagandist whose tactics enabled genocide and to warn against contemporary leaders who use similar mass-deception strategies, while opposing narratives that minimize his responsibility or recast him as a straightforward or honest actor.",
+    "queries": [
+      "What effects has the big lie promoted by Hitler caused?"
+    ]
+  }
+]

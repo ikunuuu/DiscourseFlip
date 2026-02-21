@@ -1,0 +1,882 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Lionel Messi",
+    "wiki_title": "Lionel Messi",
+    "summary": "In public debates Messi is invoked as the archetypal 'GOAT' whose style, accolades and conduct are used to validate claims about what excellence, legacy, and sportsmanship should look like, often driving heated player-comparison arguments. His transfers, endorsements and national symbolism are likewise used to justify or criticize club governance, athlete pay and commercialization (especially MLS growth), with advocates praising his cultural and economic benefits and critics pointing to market distortions, tax or governance failures.",
+    "queries": [
+      "How do people view Lionel Messi's impact on modern football?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "national identity and politics",
+    "wiki_title": "national identity",
+    "summary": "Messi is frequently deployed as a symbol in national-identity debates—Argentine politicians, media and fans use his achievements and World Cup success to promote national pride and unity, while Spanish/Catalan or international voices sometimes claim or question his loyalties to support regional or political narratives. Arguments about his national-team choices, residency/tax issues, or global club career are framed to either elevate him as a patriotic icon or to criticize him as insufficiently tied to a single national identity.",
+    "queries": [
+      "What effects has national identity and politics around Messi had?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "argentina national football team",
+    "wiki_title": "argentina national football team",
+    "summary": "The Argentina national team is repeatedly invoked to frame Messi’s legacy—supporters point to his captaincy and the team’s major trophies during his era as decisive proof of his GOAT status, while critics emphasize the role of coaches, tactics and teammates to argue those successes are collective rather than solely his. Debates about his leadership, clutch performances in big matches, and comparisons with Maradona are frequently anchored in Argentina’s results and narratives around the national side.",
+    "queries": [
+      "Is the argentina national football team reliance on Messi justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "diego maradona",
+    "wiki_title": "diego maradona",
+    "summary": "Maradona is the benchmark against which Messi’s legacy is argued: detractors invoke Maradona’s mythic, emotionally charged status and iconic national moments to claim Messi lacks comparable cultural heroism, while Messi’s defenders point to differences in era, professionalism and fewer off-field scandals to argue Messi is objectively greater or more complete. Debates also use Maradona’s political charisma versus Messi’s more apolitical image to frame disagreements about who better represents Argentina and what qualities should define the ‘greatest.’",
+    "queries": [
+      "Is praise for diego maradona in Messi discussions justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "argentine football association",
+    "wiki_title": "argentine football association",
+    "summary": "The Argentine Football Association is often invoked in arguments about Messi’s international legacy — supporters blame AFA mismanagement, coaching turnover, and federation politics for undermining his early national-team results and use that to defend him, while critics point to AFA tactical choices, player selections, or perceived favoritism to either shift blame onto Messi or argue he was unfairly sheltered; debates about AFA reform, coaching appointments, and squad-building are thus framed as central to evaluating Messi’s accomplishments and failures with Argentina.",
+    "queries": [
+      "How do people view the argentine football association’s role in Messi’s career?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "copa américa",
+    "wiki_title": "copa américa",
+    "summary": "The Copa América is used as a key yardstick for Messi’s international legacy—his prior inability to win major senior trophies was often cited to diminish his GOAT credentials and question his leadership, while his 2021 Copa América win is repeatedly framed as vindication that bolsters arguments in favor of his greatness and national hero status.",
+    "queries": [
+      "Is Lionel Messi's copa américa win deserved or not?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "argentina–brazil rivalry",
+    "wiki_title": "argentina–brazil football rivalry",
+    "summary": "The Argentina–Brazil rivalry is repeatedly used in public debates to magnify or diminish Messi’s standing—supporters point to his decisive displays against Brazil to argue he’s Argentina’s definitive hero and a GOAT, while critics highlight Brazilian victories or their stars to question his supremacy and leadership. It also fuels nationalist media narratives and tactical/selection arguments, with results versus Brazil often cited to justify coaching decisions, fan sentiment, or broader claims about Messi’s legacy.",
+    "queries": [
+      "Is the argentina–brazil rivalry fair to evaluate Messi's legacy?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "alberto fernández",
+    "wiki_title": "alberto fernández",
+    "summary": "As Argentina's president, Alberto Fernández is often invoked in public debates to link Lionel Messi's successes to national unity and to bolster the government's image — supporters point to Fernández's praise and association with Messi as evidence of shared national pride, while critics argue the administration exploits Messi's popularity to distract from economic and policy failures.",
+    "queries": [
+      "Is alberto fernández’s criticism of Messi justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "spain national football team",
+    "wiki_title": "spain national football team",
+    "summary": "Spain's national team is often invoked in debates over Messi's international legacy—critics argue that Spain's dominant, possession-based era and midfield stars imply Messi might have won more or different trophies had he played for Spain, while supporters counter that his success with Argentina shows his greatness is not dependent on Spain's system. The team is also used to frame hypothetical naturalisation arguments and to contrast collective, system-driven achievements with Messi's individual brilliance and choices.",
+    "queries": [
+      "What effect has spain national football team had on Messi’s international reputation?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "royal spanish football federation",
+    "wiki_title": "royal spanish football federation",
+    "summary": "In discussions about Lionel Messi the Royal Spanish Football Federation is often invoked to frame debates over national allegiance and eligibility, used to argue whether Spain sought or rejected a potential generational talent and what that says about sporting identity and loyalty. Commentators also cite the federation’s selection and institutional decisions to support critiques or defenses of how Spain’s football establishment compares to Messi’s place in world football and whether it shaped the narratives that elevate or diminish him relative to Spanish greats.",
+    "queries": [
+      "How do people view the royal spanish football federation's decisions about Messi?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "la masia",
+    "wiki_title": "la masia",
+    "summary": "La Masia is frequently invoked to cast Messi as the emblematic success of Barcelona’s youth system—used by supporters to credit the club’s coaching, culture and values for his technique, humility and loyalty. Detractors, however, deploy the same reference to argue his talent was innate rather than manufactured or to criticize whether the academy/club truly protected and retained him during the crises that led to his departures.",
+    "queries": [
+      "How do people view La Masia’s role in Messi’s development?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "marca",
+    "wiki_title": "marca",
+    "summary": "Spanish sports daily Marca is often cited in debates about Lionel Messi to amplify criticism, highlight mistakes or transfer/contract controversies, and frame Messi-vs-Ronaldo comparisons in ways that favor Real Madrid; its headlines and opinion pieces are used to justify skepticism about Messi’s supremacy. Consequently Marca tends to support narratives that downplay Messi’s achievements and oppose portrayals of him as the unquestioned GOAT, influencing fans, pundits, and discussions around selections, awards, and transfers.",
+    "queries": [
+      "How do people view Messi's marca in football culture?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "2010 fifa world cup",
+    "wiki_title": "2010 fifa world cup",
+    "summary": "The 2010 World Cup is often invoked to criticize Messi’s international credentials—his quiet, largely ineffective tournament and Argentina’s heavy loss to Germany are used as evidence he underperforms in major competitions—while defenders counter that Maradona’s tactics and a dysfunctional team setup, not Messi’s ability, explain the result and therefore frame him as a victim of poor management rather than a weak clutch performer.",
+    "queries": [
+      "Is criticism of Messi at the 2010 FIFA World Cup reasonable?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "el clásico",
+    "wiki_title": "el clásico (disambiguation)",
+    "summary": "References to El Clásico are often invoked in debates about Messi to amplify his head‑to‑head rivalry with Real Madrid and Cristiano Ronaldo—used to justify claims of his clutch brilliance and GOAT status when he dominates those matches, or to criticize and diminish his standing when he underperforms. They also frame Messi within broader cultural and political narratives (e.g., Catalan identity versus Spanish centralism), using his El Clásico moments as symbolic proof for wider attitudes about his character and legacy.",
+    "queries": [
+      "How do people view el clásico’s significance in football?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "catalan independence",
+    "wiki_title": "catalan independence movement",
+    "summary": "Pro-independence voices often invoke Messi as a symbol of Catalonia and Barça to underscore regional pride and cultural distinctiveness, while critics use his actions or perceived silence to argue that the independence movement politicized the club and contributed to tensions (and even his eventual exit), pressuring him to take a stance he largely avoided.",
+    "queries": [
+      "What consequences might catalan independence have for Messi's career?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "estelada",
+    "wiki_title": "estelada",
+    "summary": "The estelada is invoked in debates about Messi to suggest or contest his political alignment: pro-independence voices point to displays of the flag around Barça and fans’ interactions with him to portray Messi as an emblem of Catalan identity, while critics use those associations to accuse him of politicizing sport or to question his neutrality and loyalties.",
+    "queries": [
+      "Is Messi's use of the estelada justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "2017 catalan independence referendum",
+    "wiki_title": "2017 catalan independence referendum",
+    "summary": "References to the 2017 Catalan independence referendum are used to pressure or praise Lionel Messi for taking a political stance—pro-independence voices lament his lack of explicit support as a missed symbolic endorsement of Catalonia, while critics and pundits frame his silence or cautious comments as appropriate athlete neutrality or as evidence of misplaced loyalty to the club over the Spanish state. Debates invoking the referendum also feed arguments about Messi’s identity (Catalan icon vs. Argentine national) and whether top sports figures should influence regional political movements.",
+    "queries": [
+      "What consequences has Messi’s association with the 2017 catalan independence referendum had?"
+    ]
+  },
+  {
+    "id": "C3-3-4",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "carles puigdemont",
+    "wiki_title": "carles puigdemont",
+    "summary": "Carles Puigdemont is often invoked in debates about Messi’s political stance: Catalan separatists point to Puigdemont’s leadership to press or portray Messi as a symbol of Catalan identity, while Spanish unionists use Puigdemont as a foil to attack Messi or FC Barcelona for alleged separatist sympathies. In short, Puigdemont frames arguments about whether Messi should take a political stand or remain apolitical, and is used to justify both pressure on and criticism of him depending on the speaker’s agenda.",
+    "queries": [
+      "How do people view Carles Puigdemont referencing Lionel Messi?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "generalitat de catalunya",
+    "wiki_title": "generalitat de catalunya",
+    "summary": "In public debate the Generalitat is often invoked to frame Messi as a symbol of Catalan pride and soft power, with supporters pointing to regional institutions and messaging that tie his success to Catalonia’s identity and global image. Critics use the Generalitat in opposite ways—blaming its politics or economic stewardship for failing to retain him at Barça or castigating Messi for not taking a public stance on Catalan independence—making him a focal point in arguments about regional policy and identity.",
+    "queries": [
+      "How do people view generalitat de catalunya regarding Messi-related matters?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "tsunami democràtic",
+    "wiki_title": "democratic tsunami",
+    "summary": "The Democratic Tsunami's high-profile disruptions at Barcelona matches have been invoked to press Lionel Messi into a political role, with commentators framing his silence as complicity with or cowardice toward Catalan independence and his eventual departure as evidence of strained loyalties. Debates about the movement are therefore used to argue whether Messi should be an activist and to criticize or defend his relationship to Catalan identity and Barça's politics.",
+    "queries": [
+      "How do people view tsunami democràtic in relation to Messi?"
+    ]
+  },
+  {
+    "id": "C3-3-7",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "camp nou",
+    "wiki_title": "camp nou",
+    "summary": "Camp Nou is often invoked as the physical and symbolic stage of Messi’s greatness—used to argue that his legacy is inseparable from his years at Barcelona and that his best, most authentic football belongs to the club. It’s also mobilized in critiques: pundits and fans blame Barca’s financial/organizational failures (or portray Messi’s departure) as a betrayal of that cathedral, framing debates over responsibility for his exit and the true center of his legacy.",
+    "queries": [
+      "Is celebrating Messi at Camp Nou reasonable or excessive?"
+    ]
+  },
+  {
+    "id": "C3-3-8",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "catalan language",
+    "wiki_title": "catalan language",
+    "summary": "Messi’s use (or non-use) of Catalan and his engagement with Catalan-language symbols are routinely used to cast him either as an adopted emblem of Catalan identity and Barça culture—praised when he appears to embrace Catalan—or as politically evasive or disloyal when he opts for Spanish or stays silent on Catalan political issues, with commentators using language choice to support claims about his loyalties and values.",
+    "queries": [
+      "Is Messi speaking the catalan language reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "spanish citizenship",
+    "wiki_title": "spanish nationality law",
+    "summary": "Spain’s nationality rules are frequently cited to justify how Messi obtained a Spanish passport to ease his club career and EU labor status, with supporters presenting naturalization as a lawful, residency-based step that facilitated his long-term place at Barcelona. Critics counter that the law’s practical exceptions and preferential pathways are used to ‘import’ talent for club and national advantage, feeding debates about fairness, national identity, and whether naturalized stars should represent Spain.",
+    "queries": [
+      "How do people view Messi’s spanish citizenship?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "non-eu player quota",
+    "wiki_title": "quota players",
+    "summary": "When Messi's transfers touch foreign‑player limits or marquee‑player slots (for example his Spanish naturalization to bypass non‑EU restrictions and his arrival under MLS designated‑player rules), commentators invoke quota rules to justify special exemptions based on his commercial and sporting value or to criticize clubs for privileging a star at the expense of local player development and competitive parity.",
+    "queries": [
+      "Is the non-eu player quota reasonable for squads built around Messi?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "spanish passport",
+    "wiki_title": "spanish passport",
+    "summary": "Messi's Spanish passport is frequently invoked to portray him as legally and culturally integrated into Spain—feeding narratives that Barcelona and Spanish fans can claim him as an adopted icon and that his EU status justified club roster decisions around non‑EU quotas. Critics, however, point to his dual nationality to challenge notions of national loyalty and to argue that naturalization and paperwork conferred institutional advantages in the European game (and in public debates about residency/tax).",
+    "queries": [
+      "What impacts has Messi's spanish passport had?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "argentina–spain dual nationality",
+    "wiki_title": "argentines in spain",
+    "summary": "References to Argentines in Spain are used to frame Messi as a transnational symbol—diaspora support is often cited to defend him as a source of Argentine pride and evidence of his integration and popularity in Spain. Conversely, the community is also invoked in critiques about divided loyalties, cultural tension, or unequal treatment of foreign stars, shaping debates over how Messi is received, celebrated, or scrutinized in Spanish society.",
+    "queries": [
+      "What implications does argentina–spain dual nationality have for Messi's identity?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "qatar 2022 world cup",
+    "wiki_title": "2022 fifa world cup",
+    "summary": "Messi's 2022 World Cup victory is routinely invoked as the defining capstone in arguments that he is the greatest of all time, used to highlight his leadership, clutch performances, and long‑awaited international vindication. Critics and skeptics, however, invoke the Qatar tournament's controversies and his limited public stance on human‑rights and social issues to argue the win is politically or morally complicated and thus a less unambiguous validation of his legacy.",
+    "queries": [
+      "What impact did the Qatar 2022 World Cup have on Messi’s legacy?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "kylian mbappé",
+    "wiki_title": "kylian mbappé",
+    "summary": "Mbappé is deployed as Messi’s chief generational foil—fans and pundits cite his youth, athleticism, transfer clout and recent achievements to argue that Messi’s era is waning and that the modern game favors Mbappé’s profile. Conversely, defenders of Messi use comparisons with Mbappé to stress Messi’s superior longevity, creativity, leadership and trophy/legacy credentials when rebutting claims that Mbappé is or should be seen as the new GOAT.",
+    "queries": [
+      "Is kylian mbappé’s rivalry with Lionel Messi overstated or reasonable?"
+    ]
+  },
+  {
+    "id": "C3-5-4",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "golden ball",
+    "wiki_title": "golden ball",
+    "summary": "Supporters point to Messi’s multiple Ballon d'Ors and his World Cup Golden Ball as concrete evidence of unrivaled individual brilliance and longevity, using them to frame him as the GOAT; critics argue these awards are subjective, politicized and can be cherry‑picked or contextually explained (voting biases, team performance, era differences) to downplay or complicate that claim.",
+    "queries": [
+      "What impacts has the golden ball had on Messi’s legacy?"
+    ]
+  },
+  {
+    "id": "C3-5-5",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "lionel scaloni",
+    "wiki_title": "lionel scaloni",
+    "summary": "As Argentina’s coach, Lionel Scaloni is often invoked to argue that Messi’s World Cup triumph and late-career renaissance reflect smart team-building and tactical freedom that amplified – rather than solely depended on – Messi’s talents, bolstering narratives that he succeeds best within a cohesive system. Critics likewise point to Scaloni’s selections and tactics to argue Messi’s achievements are contingent on managerial choices, using Scaloni to qualify or diminish claims about Messi’s standalone greatness.",
+    "queries": [
+      "Are Lionel Scaloni's squad selections around Messi reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "qatar human rights",
+    "wiki_title": "human rights in qatar",
+    "summary": "Allegations about human rights in Qatar are frequently invoked to criticize Messi for participating in, benefiting from, or remaining silent about events hosted there (most notably the 2022 World Cup), framing him as complicit or ethically compromised and fueling calls for boycotts or public condemnation. Supporters and some commentators counter that such critiques unfairly politicize an athlete, arguing Messi’s sporting achievements should be judged separately and using the issue to defend his legacy and choices.",
+    "queries": [
+      "How do people view qatar human rights in Messi's World Cup involvement?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "ángel di maría",
+    "wiki_title": "ángel di maría",
+    "summary": "Ángel Di María is frequently cited in debates about Messi as the prototypical supporting teammate whose link-up play and chemistry with him are used to explain or justify Messi’s international successes; commentators invoke Di María’s presence or absence to argue either that Messi thrives when surrounded by complementary creators (bolstering claims of his leadership and adaptability) or that Messi’s feats depend on having high-quality collaborators, which critics use to temper claims of solo greatness.",
+    "queries": [
+      "Is ángel di maría’s partnership with Lionel Messi justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "mauricio macri",
+    "wiki_title": "mauricio macri",
+    "summary": "Macri is frequently invoked in debates about Messi to show how center‑right politicians court and use football icons: supporters point to Macri’s outreach as evidence Messi can symbolize national unity and bolster pro‑market, patriotic narratives, while critics charge Macri with instrumentalizing Messi (and criticize Messi’s reluctance to speak politically) to legitimize conservative policies. As a result, discussions about Messi often hinge on whether he is a genuine political ally, a co‑opted cultural symbol, or an apolitical figure whose silence is politically consequential.",
+    "queries": [
+      "Is Mauricio Macri’s influence on Messi reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-1",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "boca juniors",
+    "wiki_title": "boca juniors",
+    "summary": "Boca Juniors is frequently invoked in arguments about Messi’s Argentine identity and legacy—media and fans say a return to or association with Boca would symbolically cement him as Argentina’s true folk hero in the mold of Maradona. Critics and defenders also use Boca as a litmus test: some argue Messi’s lack of a Boca-style domestic myth weakens comparisons to Maradona, while others point to his Barcelona and Newell’s ties to justify that his greatness doesn’t require Boca affiliation.",
+    "queries": [
+      "What consequences could Messi’s presence at Boca Juniors bring?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "newell's old boys",
+    "wiki_title": "newell's old boys",
+    "summary": "Newell's Old Boys is invoked to emphasize Messi’s Argentine and Rosario roots—used by supporters to frame him as a hometown hero who should return or embody national pride, and by commentators to criticize European clubs for poaching young talent and highlight shortcomings in Argentina’s player-development system; arguments about his ties to Newell's also feed debates over whether he should finish his career at home or be celebrated as a global export.",
+    "queries": [
+      "How do fans view Newell's Old Boys' influence on Messi?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "2015 argentine general election",
+    "wiki_title": "2015 argentine general election",
+    "summary": "The 2015 Argentine general election — which brought Mauricio Macri, a former Boca Juniors president, to the presidency — is invoked in debates about Messi to show how political figures use football icons for national branding and legitimacy. Supporters frame Messi as a unifying symbol that bolsters leaders’ soft power, while critics argue the election exposed how politicians politicize and exploit him for partisan gain, increasing expectations and scrutiny on his role for Argentina.",
+    "queries": [
+      "Is linking Lionel Messi to the 2015 Argentine general election reasonable?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "political endorsements",
+    "wiki_title": "political endorsement",
+    "summary": "When Lionel Messi is used in political endorsements or invoked by politicians, his widespread popularity is leveraged to lend legitimacy to candidates, parties, or nationalist narratives (especially to appeal to Argentine or football-fan constituencies); conversely, allegations that he has endorsed a side—or criticism of his silence—are used to question his political responsibility, accuse him of opportunism, or argue athletes should stay apolitical, shaping debates about his public role and values.",
+    "queries": [
+      "What effects have Lionel Messi's political endorsements had?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "sports diplomacy",
+    "wiki_title": "politics and sports",
+    "summary": "Discussions of politics and sports cast Messi either as a unifying national symbol whose successes amplify Argentine soft power and civic pride, or as a figure whose participation in high‑profile events and commercial ties is accused of enabling ‘sportswashing’ and legitimizing controversial regimes—arguments critics use to demand athlete accountability while supporters argue his role should stay apolitical.",
+    "queries": [
+      "Is Messi's sports diplomacy justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "sportswashing",
+    "wiki_title": "sportswashing",
+    "summary": "Accusations of sportswashing are used to criticize Messi when his club moves, tournament appearances, or commercial ties — most notably his stint at PSG and starring role in the 2022 Qatar World Cup coverage — are portrayed as lending prestige and legitimacy to states or owners with questionable human‑rights records. Defenders counter that such critiques unfairly politicize athletes and overstate their responsibility for geopolitical reputations, framing the debate around athlete autonomy versus moral accountability.",
+    "queries": [
+      "Is sportswashing related to Lionel Messi justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "paris saint-germain",
+    "wiki_title": "paris saint-germain fc",
+    "summary": "PSG is frequently invoked to frame Messi’s post‑Barcelona career—critics cite his time in Paris as evidence of decline and a poor fit within a star‑studded, Qatari‑backed project (feeding arguments for stricter financial rules and critiques of sportswashing), while supporters argue PSG’s resources and global platform amplified his commercial legacy and helped him pursue late‑career trophies.",
+    "queries": [
+      "How do fans view Paris Saint-Germain’s handling of Messi?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "qatar sports investments",
+    "wiki_title": "qatar sports investments",
+    "summary": "Qatar Sports Investments is often cited in discussions of Messi to argue that his PSG transfer and tenure were driven and enabled by state‑backed Qatari capital, feeding criticisms that he legitimized a form of ‘sportswashing’ and overlooked human‑rights and ethical concerns; supporters counter that QSI’s investment created a legitimate competitive project, framing Messi’s choice as pragmatic and prompting wider debates about regulation of wealthy, politically connected club owners.",
+    "queries": [
+      "How do people view qatar sports investments linked to Lionel Messi?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "migrant worker rights",
+    "wiki_title": "migrant worker",
+    "summary": "In debates about Lionel Messi, the \"migrant worker\" frame is often used to contrast his privileged, high-paid international mobility with the precarious situation of ordinary migrant workers—either to criticize immigration and tax rules that favor elite athletes or to humanize Messi as a migrant who moved countries for work and family. This framing bolsters calls for fairer labor and immigration policies by highlighting double standards, though defenders argue his superstar status makes his circumstances exceptional.",
+    "queries": [
+      "Is Lionel Messi's stance on migrant worker rights justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-5",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International invokes Lionel Messi's global stature to pressure him and football institutions to call out human-rights abuses—most prominently around the Qatar 2022 World Cup—framing his silence or participation as potential complicity in the normalization of abusive regimes and exploitative labor practices. The group urges Messi to use his platform to demand reforms and opposes sponsorships or events that it argues whitewash rights violations.",
+    "queries": [
+      "What consequences has Messi’s backing of amnesty international had?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "saudi public investment fund",
+    "wiki_title": "public investment fund",
+    "summary": "When state-backed or sovereign \"public investment funds\" bankroll clubs or bid to sign Messi, critics frame his potential moves as examples of sportswashing and moral compromise—arguing his presence legitimizes regimes and distorts sporting integrity. Defenders and proponents, by contrast, use such funds to justify big-money offers as legitimate tools for raising a league’s profile, driving investment, and securing national prestige.",
+    "queries": [
+      "How do people view the saudi public investment fund’s role with Messi?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and celebrity culture",
+    "wiki_title": "celebrity culture",
+    "summary": "In public discourse, celebrity culture elevates Lionel Messi from athlete to global brand and symbol, underpinning arguments that justify massive marketing deals, fan adulation, and political or national-pride appeals. Conversely, it also fuels criticism that his superstar status invites invasive media scrutiny, commercializes and distorts the sport, and can shield him from accountability while exacerbating consumerist and inequality concerns.",
+    "queries": [
+      "How do people view Lionel Messi’s media and celebrity culture?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "messi–ronaldo rivalry",
+    "wiki_title": "messi–ronaldo rivalry",
+    "summary": "The Messi–Ronaldo rivalry is repeatedly invoked to cast Messi either as the artistic, team-oriented GOAT—used to justify his awards, legacy, and playing style—or to undercut him by contrasting him with Ronaldo’s athleticism and goal-scoring, shaping media narratives and fan judgments about Messi’s career choices and value. It polarizes discussion, encouraging binary comparisons that are used to support glowing praise or sharp criticism rather than nuanced assessments of Messi’s achievements.",
+    "queries": [
+      "Is the messi–ronaldo rivalry overstated or reasonable?"
+    ]
+  },
+  {
+    "id": "C5-1-4",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "real madrid cf",
+    "wiki_title": "real madrid cf",
+    "summary": "Real Madrid is frequently invoked as Messi’s chief foil in GOAT debates—supporters point to Messi’s El Clásico performances and consistency to claim he outshines Real’s stars, while critics cite Real Madrid’s Champions League dominance and high-profile Galácticos (especially Cristiano Ronaldo’s success there) to argue Messi’s club accomplishments or awards are comparatively inflated, shaping arguments about Ballon d’Or bias, league strength, and legacy.",
+    "queries": [
+      "Is real madrid cf criticism of Messi reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "greatest of all time",
+    "wiki_title": "greatest of all time",
+    "summary": "Calling Lionel Messi the 'greatest of all time' is a framing device used to justify his preeminence—citing his records, artistry, and World Cup success to support awards, legacy claims, and commercial narratives—while opponents use the label to fuel debates about criteria (skill versus trophies), to elevate rivals like Ronaldo or Maradona, or to question whether Messi’s style and context truly merit unconditional supremacy.",
+    "queries": [
+      "Is calling Lionel Messi the greatest of all time reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "ballon d'or",
+    "wiki_title": "ballon d'or",
+    "summary": "Messi’s repeated Ballon d’Or victories are routinely cited by supporters as near-definitive proof of his claim to be the game’s greatest player, shaping GOAT debates and legitimizing praise of his career and individual decisions. Critics, however, point to voting biases, team success effects and era comparisons to argue the award can overstate or distort how Messi’s merits compare to rivals, using the Ballon d’Or to downplay its significance in assessing his legacy.",
+    "queries": [
+      "Is Messi's ballon d'or recognition reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-2",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "france football",
+    "wiki_title": "france football",
+    "summary": "France Football — through its Ballon d'Or awards, rankings and in-depth coverage — is frequently cited to bolster the claim that Messi is the greatest player of his era, with trophies and feature stories used as concrete evidence in pro‑Messi arguments. Conversely, opponents point to France Football’s voting choices, omissions or critical pieces to argue against Messi’s dominance or to allege bias in how his legacy is framed.",
+    "queries": [
+      "What effects has france football had on Messi’s reputation?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "goat debate",
+    "wiki_title": "goat (sports culture)",
+    "summary": "The 'GOAT' label is used constantly in public debates about Lionel Messi to justify claims that his statistics, awards and moments (culminating in the 2022 World Cup) make him football’s greatest, supporting fan, media and commercial narratives that elevate his cultural and competitive primacy. It is also deployed by opponents to criticize era comparisons, highlight team/contextual factors, or argue that such worship unfairly downplays rivals like Maradona, Pelé or Cristiano Ronaldo.",
+    "queries": [
+      "Is the goat debate around Lionel Messi justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "barcelona exit",
+    "wiki_title": "barcelona",
+    "summary": "Barcelona is invoked to frame Messi as the embodiment of Barça’s identity—supporters cite his La Masia upbringing and trophy-laden years there to justify his legendary status, while critics point to his 2021 exit as proof of club mismanagement and a stain on both his and the club’s legacy. The city’s Catalan politics and global brand also shape debates: Messi is alternately portrayed as an adopted Catalan symbol or an apolitical global superstar, which informs arguments about nationalism, loyalty, and whether he should return to cement or reclaim his legacy.",
+    "queries": [
+      "What impacts resulted from Messi's barcelona exit?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "joan laporta",
+    "wiki_title": "joan laporta",
+    "summary": "Joan Laporta is often invoked in discussions of Messi as the decisive Barcelona president whose public promises, personal rapport with the player, and club financial decisions are used either to defend efforts to keep or re-sign Messi or to blame club leadership for mismanaging his exit. Supporters point to Laporta's influence as a reason Messi could return, while critics use his stewardship to justify anger over Barcelona's failure to retain the player.",
+    "queries": [
+      "Is Joan Laporta’s handling of Messi’s situation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "la liga salary cap",
+    "wiki_title": "salary cap",
+    "summary": "Salary-cap rules are cited to explain Messi’s 2021 exit from Barcelona, with many using the cap as evidence of Barca’s financial mismanagement and as a legitimate constraint that forced a painful breakup; others frame those same rules as punitive and argue exceptions should have been made for a player of his stature. The cap (and its MLS exemptions like the Designated Player mechanism) also figures in debates about Messi’s move to Inter Miami, where critics say salary exceptions undermine competitive balance while supporters argue his arrival boosts the league’s commercial profile.",
+    "queries": [
+      "Is the la liga salary cap fair for Lionel Messi?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "financial fair play",
+    "wiki_title": "uefa financial fair play regulations",
+    "summary": "UEFA Financial Fair Play rules are often invoked to explain and justify Lionel Messi’s 2021 exit from Barcelona—critics use them to blame club mismanagement and salary-cap constraints for preventing a renewal, while others point to the rules as necessary fiscal discipline. The regulations also shape debates about his move to and treatment at wealthy clubs (notably PSG), with commentators arguing FFP enforcement is either too weak—allowing rich owners to circumvent limits and hoard stars like Messi—or appropriately restrictive to protect competitive balance.",
+    "queries": [
+      "How do people view financial fair play affecting Messi's wages?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "endorsement deals",
+    "wiki_title": "testimonial",
+    "summary": "Public testimonials — from teammates, coaches, fans, celebrities, and commentators — are repeatedly cited to bolster narratives about Messi’s greatness, work ethic, and marketability (used in ads, GOAT debates, and brand-defense). Conversely, selective or critical testimonials are invoked to question his leadership, impact in big moments, or transfer/contract choices, shaping polarized opinions about his career and character.",
+    "queries": [
+      "Are Messi’s endorsement deals reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "pepsi",
+    "wiki_title": "pepsi",
+    "summary": "Pepsi sponsorships and ads featuring Lionel Messi are frequently invoked to demonstrate his global marketability and mainstream cultural status, used by supporters to underscore his superstar appeal and broad commercial influence. Critics, meanwhile, cite his ties to big soft‑drink brands like Pepsi to argue he personifies the commercialization of elite sport and to question the authenticity or independence of modern athletes.",
+    "queries": [
+      "Is Messi's Pepsi partnership reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "forbes",
+    "wiki_title": "forbes",
+    "summary": "Forbes routinely frames Messi as one of the world’s most valuable, marketable and wealthy athletes through earnings lists and brand-value profiles, a narrative defenders cite to bolster his global stature and influence beyond the pitch. Detractors invoke Forbes’ commercial metrics to argue that money and popularity are poor substitutes for sporting merit, highlighting how business-focused coverage can commodify athletes.",
+    "queries": [
+      "Is forbes' ranking of Messi justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "image rights",
+    "wiki_title": "personality rights",
+    "summary": "Personality rights are frequently cited in debates over Messi’s tight control of endorsements, merchandising and licensing — supporters argue they justify his refusal to let companies or creators profit from his persona without permission and protect his commercial empire, while critics say aggressive enforcement against fan art, unauthorized ads, video‑game mods or NFTs fuels over‑commercialization and restricts creative expression. The issue also frames policy arguments about stronger post‑career or posthumous publicity protections to preserve his brand versus preserving the public domain.",
+    "queries": [
+      "Is Messi's image rights arrangement reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "unicef",
+    "wiki_title": "unicef",
+    "summary": "Messi’s association with UNICEF is often invoked to frame him as a compassionate, socially responsible role model and to bolster his public image when fans or commentators defend him against on-field or off-field criticisms. Critics, however, sometimes dismiss the partnership as PR-driven virtue-signalling, using it to argue that celebrity charity doesn’t erase alleged lapses or substitute for deeper accountability.",
+    "queries": [
+      "Is Messi’s partnership with unicef justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "adidas",
+    "wiki_title": "adidas",
+    "summary": "Adidas is often invoked to frame Messi as a global, marketable superstar—using signature boots, ad campaigns and co-branded projects to bolster claims about his greatness, cultural reach, and commercial value—while critics use the sponsorship to argue his image is commodified, influenced by brand agendas, or leveraged for corporate PR (including sustainability messaging) rather than purely sporting merit.",
+    "queries": [
+      "Is Messi’s adidas partnership reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "sports sponsorship",
+    "wiki_title": "sponsor (commercial)",
+    "summary": "Commercial sponsorships are often used to argue about Messi’s public image and influence—supporters cite high-profile endorsements as proof of his global appeal, philanthropy platform, and commercial value, while critics point to specific deals or industry ties as evidence of ethical compromise, over‑commercialization, or a depoliticized celebrity who benefits from problematic partners.",
+    "queries": [
+      "Is Lionel Messi's sports sponsorship reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "nike",
+    "wiki_title": "nike",
+    "summary": "Nike is often invoked in debates about Messi to signal commercial clout and brand alignment—commentators and fans use whether he wears or is courted by Nike (versus rival brands) as shorthand for his marketability, status relative to peers, and perceived authenticity. Marketers point to Nike associations to justify Messi’s global superstar value, while critics marshal Nike-based narratives to argue he has been commodified or prioritized brand deals over sporting image.",
+    "queries": [
+      "Is Lionel Messi’s partnership with nike reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "emiliano martínez",
+    "wiki_title": "emiliano martínez",
+    "summary": "Emiliano Martínez is often cited in conversations about Messi to bolster the argument that Messi is a galvanizing leader whose teammates (and crucial match-winners) rallied behind him — Martínez’s World Cup heroics and public defenses of Messi are used to highlight Messi’s leadership and the loyalty he commands. Conversely, critics invoke Martínez’s decisive saves and match impact to argue that Argentina’s success was as much about a clutch goalkeeper and collective effort as it was about Messi’s individual brilliance, thereby downplaying Messi’s sole credit.",
+    "queries": [
+      "What do fans think about emiliano martínez’s relationship with Messi?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "tactics and performance analysis",
+    "wiki_title": "notational analysis",
+    "summary": "Analysts and pundits use notational analysis of Messi’s movement, touches, passing and chance-creation patterns to empirically bolster claims that he is uniquely creative, strategic and still decisive for team success. The same data is also deployed by critics and coaches to argue he has changing roles or dependencies (e.g., less defensive work, different spatial involvement with age), informing debates about tactics, squad selection and his comparative standing among greats.",
+    "queries": [
+      "How do people view tactics and performance analysis of Lionel Messi?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "pep guardiola",
+    "wiki_title": "pep guardiola",
+    "summary": "Pep Guardiola is often invoked by fans and pundits to bolster Messi’s GOAT case—his public praise and the tactical system he built at Barcelona are used to explain how Messi reached unprecedented levels. Conversely, critics use Guardiola’s system-focused approach to argue Messi’s peak was partly a product of coaching and structure rather than solely individual brilliance, shaping debates about how transferable Messi’s success is outside that setup.",
+    "queries": [
+      "How do people view Pep Guardiola’s role in Messi’s development?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "2011 uefa champions league final",
+    "wiki_title": "2011 uefa champions league final",
+    "summary": "The 2011 UEFA Champions League Final is often invoked as emblematic proof of Messi's aesthetic dominance and big‑game credentials—used by proponents to argue he was the sport's supreme talent and a decisive match‑winner at his peak. Critics, however, cite the same match to claim his success was amplified by Guardiola’s system and teammates, framing his brilliance as partly tactical and team‑dependent rather than solely individual supremacy.",
+    "queries": [
+      "What impact did the 2011 UEFA Champions League final have on Messi?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "manchester city",
+    "wiki_title": "manchester city f.c.",
+    "summary": "Manchester City is frequently invoked in debates about Messi as the archetypal “logical” Premier League destination—used to argue he could reunite with Guardiola to chase missing trophies and prove his adaptability outside Barcelona/PSG. Critics, meanwhile, cite City to frame any potential move as emblematic of modern football’s money-and-power dynamics, suggesting a transfer there would be motivated by ambition or commercial logic rather than club loyalty and could undermine competitive balance.",
+    "queries": [
+      "Is Lionel Messi joining Manchester City reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "false nine",
+    "wiki_title": "forward (association football)",
+    "summary": "Calling Messi a 'forward' is often used to bolster claims about his elite attacking output — emphasizing his goal tallies, movement and decisive impact in the final third to argue for his status among the best attackers. It’s also wielded as a critique in debates over tactics and aging, with opponents arguing he isn’t a traditional centre‑forward/striker and pointing to his deeper playmaking role or formation fit to question his suitability or longevity in certain systems.",
+    "queries": [
+      "Is Messi’s use of the false nine role justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "xavi",
+    "wiki_title": "xavi",
+    "summary": "References to Xavi are used in discussions of Messi to argue that Messi’s peak was shaped by a Xavi-style possession midfield—supporting claims that he needs a specific team structure—while Xavi’s public praise of Messi is also cited to bolster narratives of Messi’s individual genius and to rebut critics about his role or legacy.",
+    "queries": [
+      "How do people view Xavi’s role with Messi?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "andrés iniesta",
+    "wiki_title": "andrés iniesta",
+    "summary": "Andrés Iniesta is often invoked in debates about Lionel Messi to highlight the collective, playmaking foundation behind Barcelona’s success—used by critics to argue Messi’s numbers were boosted by Iniesta/Xavi’s midfield and by supporters to show Messi thriving within an exceptional team. Iniesta’s clutch international moments and reputation for selfless, elegant play are also cited to nuance or challenge claims about Messi’s individual legacy, especially in arguments that prioritize team trophies and creative influence over raw goal statistics.",
+    "queries": [
+      "How do people view Andrés Iniesta’s role alongside Lionel Messi?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "expected goals",
+    "wiki_title": "expected goals",
+    "summary": "Analysts and fans use xG in Messi debates to argue whether his goal totals reflect extraordinary finishing or simply high‑quality chances: supporters point to seasons where he outperforms his xG to claim unmatched finishing and creative influence, while skeptics highlight seasons where his goals trail xG or where high xG is system-driven to suggest luck, team setup, or decline explains some of his output.",
+    "queries": [
+      "How do people view expected goals in assessing Messi's season?"
+    ]
+  },
+  {
+    "id": "C7-3-1",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "cristiano ronaldo",
+    "wiki_title": "cristiano ronaldo",
+    "summary": "Ronaldo is routinely deployed as Messi's foil in GOAT debates: critics point to Ronaldo's adaptability across leagues, prolific goalscoring, physicality, and international trophies to argue Messi is less complete. Messi defenders use the comparison to emphasize Messi's unique creativity, playmaking influence, and aesthetic superiority, turning the rivalry into a proxy for disputes over natural talent versus work ethic, commercialism, and legacy.",
+    "queries": [
+      "Is criticism of cristiano ronaldo reasonable or overly harsh?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "tiki-taka",
+    "wiki_title": "tiki-taka",
+    "summary": "Tiki-taka is frequently cited to explain Messi's peak years—supporters argue the Barcelona/Spain possession system amplified his playmaking, dribbling and goal involvement, framing his accolades as both individual genius and product of a tailored tactical environment. Critics use the same claim to downplay his greatness, arguing his numbers were system-dependent and questioning how he would perform outside that style, a point often raised in debates comparing him to other all-time greats.",
+    "queries": [
+      "Is tiki-taka suitable for Lionel Messi’s style or not?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "possession football",
+    "wiki_title": "association football tactics",
+    "summary": "Tactical debates are often used to explain or contest Messi’s greatness—supporters point to systems like Guardiola’s Barcelona (false nine/playmaker roles) as amplifying his spatial intelligence and creative impact, while critics argue his peak depended heavily on elite tactical frameworks and teammates. These arguments shape practical choices about team selection, formations and transfers—whether to build squads around his movement and freedom, adjust defensive/fitness expectations as he ages, or redeploy him into roles that prioritize chance creation over finishing.",
+    "queries": [
+      "Is possession football with Messi reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-8",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "johan cruyff",
+    "wiki_title": "johan cruyff",
+    "summary": "Cruyff is used as the archetypal Barcelona ideal against which Messi is judged: proponents invoke Cruyff’s philosophy and authority to cast Messi as the natural, consummate product and heir of Cruyffian football, while skeptics use Cruyff’s emphasis on tactical leadership and transformational influence to argue Messi falls short as a similarly generative or team-shaping figure.",
+    "queries": [
+      "Is praising johan cruyff when discussing Messi reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "heat map",
+    "wiki_title": "heat map",
+    "summary": "Analysts and pundits deploy heat maps of Messi’s movement to frame arguments about his role and value—highlighting dense activity in central/playmaking zones to justify claims of creative dominance or pointing to limited presence in defensive areas to criticize his work‑rate. Comparing heat maps across seasons is also used to support narratives that he’s either adapted his game by dropping deeper to create or that his involvement has declined, shaping debates about form, fit, and legacy.",
+    "queries": [
+      "Is Messi’s heat map interpretation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "inter miami cf",
+    "wiki_title": "inter miami cf",
+    "summary": "Inter Miami CF is often used to frame Messi’s late-career move as either a legacy-building, game-growing decision that showcases his commercial clout and willingness to boost soccer in the U.S., or as evidence of a pay-for-lifestyle, lower-competition wind-down that critics say prioritizes marketing and comfort over sporting ambition.",
+    "queries": [
+      "Is inter miami cf’s handling of Messi’s role reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "opta sports",
+    "wiki_title": "opta sports",
+    "summary": "Opta Sports' match-by-match statistics and advanced metrics are routinely cited in debates over Messi to provide 'objective' evidence — supporters point to Opta-backed records (goals, assists, key passes, dribbles) to claim his superiority and consistency, while critics mine Opta numbers (declines in certain outputs or xG-adjusted metrics) to argue aging, situational effectiveness, or that raw totals need context. Those Opta figures are central to arguments about Ballon d'Or voting, GOAT comparisons with Ronaldo, tactical evaluations, and assessments of Messi’s actual contribution to team success.",
+    "queries": [
+      "How do fans view opta sports' Messi statistics?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "fifa world cup golden ball",
+    "wiki_title": "fifa world cup awards",
+    "summary": "FIFA World Cup awards are routinely invoked in arguments over Messi’s legacy—supporters point to his tournament honors (and especially a World Cup Golden Ball/win) as proof he belongs with Maradona/Pelé and is decisive on the biggest stage, while critics downplay those awards as products of team context, luck, or political bias. Disputes about award decisions are also used to justify accusations of favoritism or to temper claims that awards alone settle debates about his all-time status.",
+    "queries": [
+      "How has the fifa world cup golden ball affected Messi’s legacy?"
+    ]
+  }
+]

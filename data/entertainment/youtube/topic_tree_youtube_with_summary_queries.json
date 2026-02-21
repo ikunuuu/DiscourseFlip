@@ -1,0 +1,1311 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "YouTube",
+    "wiki_title": "YouTube",
+    "summary": "In debates about YouTube, the platform is invoked as both proof of digital empowerment—used to justify creator-led monetization, platform innovation, and free-expression defenses—and as a cautionary emblem of big-tech harms, marshaled by critics to demand stricter rules on opaque algorithms, privacy, misinformation, child safety, and fair revenue-sharing. Advocates often frame YouTube as an engine of opportunity that warrants lighter regulation, while opponents cite its moderation inconsistencies and commercial incentives to press for more oversight and accountability.",
+    "queries": [
+      "How do people view YouTube’s recommendation algorithm?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "content moderation",
+    "wiki_title": "content moderation",
+    "summary": "On YouTube, content moderation is central to debates about safety versus censorship: platform policies and automated removals are cited to justify takedowns, demonetization, and recommendation changes in the name of advertiser safety and harm reduction, while creators and free‑speech advocates criticize the system as opaque, inconsistent, and biased. As a result it is invoked to argue both for stronger accountability, clearer rules and appeal rights (and sometimes regulation of platforms), and for limits on automated enforcement and greater transparency to protect creators.",
+    "queries": [
+      "What consequences has YouTube's content moderation caused?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "demonetization",
+    "wiki_title": "demonetization",
+    "summary": "On YouTube, demonetization is a central grievance used to argue that the platform exerts opaque, advertiser-driven control over creators' livelihoods and enforces content norms that pressure self-censorship and fuel claims of unfair or politically biased enforcement; defenders counter that demonetization is a pragmatic moderation tool to protect advertisers and reduce legal and reputational risks from harmful or advertiser-unfriendly content.",
+    "queries": [
+      "How do people view demonetization on YouTube?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "content id",
+    "wiki_title": "content id",
+    "summary": "Content ID is invoked in debates over YouTube as proof of the platform’s capacity to enforce copyright and capture licensing revenue—used by YouTube and rights holders to justify takedowns, claims, and monetization rules. Critics argue Content ID’s opaque, automated matches favor large rights holders, enable wrongful claims and demonetization of small creators, and bolster demands for transparency, stronger appeals and fair‑use protections.",
+    "queries": [
+      "How do people view YouTube's content id in practice?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "monetization claims",
+    "wiki_title": "data monetization",
+    "summary": "Critics use “data monetization” to argue YouTube extracts value by harvesting viewer and creator data to fuel targeted ads and algorithmic recommendations, framing calls for greater privacy protections, revenue‑sharing with creators, transparency, and regulation (e.g., GDPR enforcement or antitrust action); defenders invoke it to justify ad‑funded free access and platform investment, opposing burdensome restrictions that could reduce ad revenue and content availability.",
+    "queries": [
+      "How do people view monetization claims on YouTube?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "coppa",
+    "wiki_title": "coppa",
+    "summary": "COPPA is central to debates about YouTube because its privacy rules have been used to justify demonetizing, age‑gating, and disabling features (comments, targeted ads, recommendations) on videos deemed child‑directed, reshaping creators’ revenue and platform behavior. Proponents point to protecting children’s data, while critics argue YouTube enforces COPPA too broadly or without sufficient guidance, blaming the platform for revenue loss and calling for clearer rules or better regulatory action.",
+    "queries": [
+      "What effects has coppa had on YouTube content creation?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "ryan's world",
+    "wiki_title": "ryan's world",
+    "summary": "Ryan's World is often invoked as a high-profile example of how YouTube can commercialize children’s content—used by critics to argue the platform's algorithms and ad policies blur entertainment and advertising, enable lucrative product tie‑ins, and risk exploitation—while defenders frame it as entrepreneurial family content and a success story of platform opportunity, shaping calls for stricter COPPA enforcement and clearer ad transparency.",
+    "queries": [
+      "Are concerns about ryan's world reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1",
+    "level": 3,
+    "topic": "fosta-sesta",
+    "wiki_title": "fosta-sesta",
+    "summary": "FOSTA‑SESTA is often cited in debates about YouTube to justify harsher content moderation and demonetization of sexualized or borderline material—supporters argue it forces platforms to act against trafficking, while critics say it created a chilling effect that pushes YouTube to over-remove content and harm sex workers and marginalized creators. It is also used to argue for Section 230 reform or clearer liability rules so platforms don’t respond to legal risk by broadly silencing controversial speech.",
+    "queries": [
+      "Is fosta-sesta enforcement on YouTube justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "earn it act",
+    "wiki_title": "earn it act",
+    "summary": "In debates about YouTube, the Earn It Act is invoked by advocates demanding stronger platform responsibility—arguing it would compel YouTube to more aggressively detect and remove child sexual abuse material and reform recommendation/takedown practices—while critics use the bill to warn that mandating 'best practices' or scanning would undermine encryption, force intrusive monitoring, and lead YouTube to over-censor. The Act thus frames YouTube either as a negligent safe harbor needing regulation or as a company likely to sacrifice user privacy and free expression under legal pressure.",
+    "queries": [
+      "What consequences might the earn it act bring to YouTube?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "netchoice",
+    "wiki_title": "netchoice",
+    "summary": "NetChoice shows up in public debates about YouTube as an industry advocate defending the platform’s discretion to moderate content and resisting laws or mandates (e.g., around liability, algorithm transparency, or forced takedowns) that it frames as government overreach. Its interventions—lawsuits, amicus briefs, and public filings—promote Section 230 protections and free‑market/tech‑friendly policies while pushing back on both heavy regulation and narratives that portray YouTube as illegitimately censoring users.",
+    "queries": [
+      "Are netchoice’s actions regarding YouTube legal challenges justified?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1",
+    "level": 3,
+    "topic": "prageru",
+    "wiki_title": "prageru",
+    "summary": "PragerU is frequently invoked in public disputes over YouTube moderation: conservatives cite its treatment on the platform to argue YouTube discriminates against right-leaning voices and to demand limits on content moderation, while critics point to its misleading content to justify stronger enforcement of misinformation and hate-speech policies.",
+    "queries": [
+      "Is prageru’s content on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "senate judiciary committee",
+    "wiki_title": "united states senate committee on the judiciary",
+    "summary": "The United States Senate Committee on the Judiciary frequently summons YouTube executives and uses hearings and investigations to cast YouTube as a powerful gatekeeper that requires greater oversight—pushing for Section 230 reform, algorithm transparency, child-safety measures, and antitrust scrutiny. Committee members often frame YouTube as enabling misinformation, extremism, or political bias and press for regulatory fixes, while some warn that heavy-handed rules could unduly restrict free expression.",
+    "queries": [
+      "What effects has the Senate Judiciary Committee’s activity on YouTube brought?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "first amendment",
+    "wiki_title": "first amendment to the united states constitution",
+    "summary": "The First Amendment is frequently cited by creators and critics to frame YouTube takedowns, demonetizations, or alleged political bias as unconstitutional 'censorship' and to demand less content moderation or greater platform neutrality. Opponents and policymakers counter that YouTube is a private company not strictly bound by the First Amendment—while legal debates focus on whether government pressure or regulation around platform actions could trigger constitutional free‑speech constraints.",
+    "queries": [
+      "How do people view the first amendment on YouTube?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "platform economics",
+    "wiki_title": "platform economy",
+    "summary": "In debates about YouTube, the 'platform economy' frame is used by critics to highlight how network effects and algorithmic control concentrate power, produce precarious creator work, and enable tax and competition concerns that justify stronger regulation and labor protections; conversely, defenders use the same frame to portray YouTube as a scalable marketplace that fosters creator entrepreneurship, innovation, and efficient advertiser-audience matching, arguing heavy regulation could undermine opportunity and growth.",
+    "queries": [
+      "Is YouTube's platform economics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "multi-channel network",
+    "wiki_title": "multi-channel network",
+    "summary": "In public debates about YouTube, MCNs are framed both as enablers that professionalize creators and secure brand deals and as exploitative middlemen that siphon revenue, reduce creator autonomy, and benefit from opaque preferential treatment by the platform. This dual framing fuels calls for greater contract transparency, platform accountability, and regulatory protections for creators against unfair revenue-sharing and gatekeeping by third-party networks.",
+    "queries": [
+      "Is YouTube’s multi-channel network model reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "maker studios",
+    "wiki_title": "gamemaker",
+    "summary": "On YouTube, GameMaker is frequently cited in arguments about the platform’s role in democratizing game development—creators point to GameMaker tutorials, devlogs, and indie releases as examples of how YouTube helps novice developers gain audiences and distribute games. Critics, however, use GameMaker-related channels to argue that YouTube’s algorithms and monetization rules devalue educational content, reward low-effort uploads, and make it hard for small developers to sustain visibility or income.",
+    "queries": [
+      "How do people view maker studios’ deals with YouTube creators?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "fullscreen",
+    "wiki_title": "fullscreen",
+    "summary": "Discussions of “fullscreen” on YouTube shape debates about attention, monetization, and content presentation — advocates say fullscreen views and mobile full‑screen ad formats improve immersion and revenue, while critics argue they enable attention capture, obscure context, and pressure creators into platform‑optimized formats. The MCN named Fullscreen also figures in arguments about creator rights and governance, cited by critics as evidence of exploitative revenue arrangements and by supporters as a force that professionalized creator businesses.",
+    "queries": [
+      "Is fullscreen on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "broadbandtv",
+    "wiki_title": "broadbandtv corp",
+    "summary": "BroadbandTV Corp is frequently invoked in discussions of YouTube as an example of the multi-channel networks and rights-management firms that professionalize monetization and copyright enforcement, used to argue that platform creators need corporate intermediaries to scale and protect revenue. Critics point to BBTV when framing YouTube as corporatized and exploitative—highlighting aggressive Content ID claims and revenue-sharing practices—while defenders cite its services to justify centralized rights enforcement and commercial partnerships.",
+    "queries": [
+      "What consequences has broadbandtv’s activity on YouTube caused?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "awesomenesstv",
+    "wiki_title": "awesomenesstv (tv series)",
+    "summary": "AwesomenessTV is often invoked in debates about YouTube’s shift from amateur user-generated content to professionally produced, advertiser-friendly programming — supporters point to it as evidence the platform can incubate mainstream teen shows and creator careers, while critics use it to argue YouTube privileges corporate-backed channels, native advertising, and polished productions over independent creators. As a result it appears in discussions about monetization, platform responsibility for child-directed content, and algorithmic or policy biases that favor professionalized channels.",
+    "queries": [
+      "Is awesomenesstv’s approach on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "google adsense",
+    "wiki_title": "google adsense",
+    "summary": "Google AdSense is frequently invoked in debates about YouTube’s incentives—critics say AdSense-driven ad revenue pushes creators toward clickbait, sensational or advertiser-friendly content and explains algorithmic promotion of polarizing videos, while defenders point to AdSense as the economic engine that funds creators. Arguments about the “adpocalypse,” demonetization, advertiser boycotts, and transparency use AdSense to justify stricter moderation or to push reforms that reduce advertiser gatekeeping and protect creator livelihoods.",
+    "queries": [
+      "Are Google AdSense payout rules for YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-8-7",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "ad blockers",
+    "wiki_title": "ad blocking",
+    "summary": "Ad blocking features prominently in arguments over YouTube’s business model: viewers and privacy advocates frame it as a legitimate way to avoid intrusive or tracking ads and to pressure YouTube toward better ad policies or ad‑free subscriptions. Creators, advertisers and the platform counter that ad blockers strip vital revenue, using that claim to justify paywalls, anti‑adblock measures and stricter enforcement of monetization rules.",
+    "queries": [
+      "How do people view ad blockers on YouTube?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "notice-and-takedown",
+    "wiki_title": "notice and take down",
+    "summary": "In debates about YouTube, notice-and-take-down is often used to justify the platform’s removal of videos as a legal necessity tied to safe‑harbor protections and the enforcement of copyright claims. Critics use the term to argue YouTube’s takedown systems (and automated tools like Content ID) enable over‑removal, censorship, and opaque prioritization of rights‑holders over creators, fueling calls for greater transparency, appeal rights, or reform of platform liability rules.",
+    "queries": [
+      "What impacts has notice-and-takedown had on creators?"
+    ]
+  },
+  {
+    "id": "C2-1-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "alphabet inc.",
+    "wiki_title": "alphabet inc.",
+    "summary": "Alphabet Inc., as YouTube’s corporate owner, is central to debates over recommendation algorithms, content moderation, and monetization—supporters point to its engineering capacity and policy enforcement to justify platform decisions, while critics depict it as an opaque, ad-driven company whose algorithms and revenue priorities amplify misinformation, demonetize or censor creators, and merit antitrust or regulatory intervention.",
+    "queries": [
+      "How do people view alphabet inc.'s YouTube policies?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "algorithmic bias",
+    "wiki_title": "algorithmic bias",
+    "summary": "Claims of algorithmic bias are central to critiques that YouTube’s recommendation and moderation systems systematically amplify sensational, extremist, or majority-group content and disadvantage marginalized creators through visibility and monetization disparities, explaining alleged platform-driven radicalization and unequal outcomes. These arguments drive calls for transparency, audits, human oversight and regulation, while defenders point to engagement-driven personalization, commercial incentives and technical complexity to resist sweeping interventions that they say could harm creators or free expression.",
+    "queries": [
+      "How do people view algorithmic bias on YouTube?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "algorithmic accountability",
+    "wiki_title": "algorithmic accountability",
+    "summary": "Advocates, researchers, and regulators invoke algorithmic accountability to blame YouTube’s opaque recommendation and moderation systems for amplifying extremism, misinformation, and unfair demonetization, pushing for transparency, independent audits, and legal responsibility for harmful outcomes. Defenders and the platform counter that strict accountability or mandated transparency risks undermining personalization, moderation scale, and business interests, framing the debate as a trade‑off between safety, free expression, and platform liability.",
+    "queries": [
+      "What consequences has algorithmic accountability on YouTube caused?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "misinformation and politics",
+    "wiki_title": "misinformation",
+    "summary": "Claims of misinformation on YouTube drive debates over the platform’s responsibility: critics cite viral public‑health and political falsehoods—often amplified by recommendation algorithms—to press for stronger moderation, demonetization, algorithmic transparency, and regulation. Creators and free‑speech advocates counter that ‘misinformation’ labels are sometimes used to justify opaque, uneven censorship and punitive policies that harm legitimate expression.",
+    "queries": [
+      "How do people view misinformation and politics on YouTube?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "alex jones",
+    "wiki_title": "alex jones",
+    "summary": "Alex Jones is frequently invoked in debates over YouTube’s content moderation—his channel and removals are used by critics to argue platforms must curb extremist/conspiracy and harassing content, and by supporters to denounce perceived ideological censorship and overreach. His case serves as a test case in discussions about demonetization, deplatforming, algorithmic amplification, and platform liability, shaping calls for both stricter enforcement and stronger free‑speech protections on YouTube.",
+    "queries": [
+      "Is alex jones's presence on YouTube justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-2",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "sandy hook shooting",
+    "wiki_title": "sandy hook elementary school shooting",
+    "summary": "References to the Sandy Hook Elementary School shooting are often used in debates about YouTube as a high-profile example of how the platform’s recommendation systems and monetization can amplify false conspiracy theories and enable harassment of victims’ families, strengthening calls for tougher content moderation, transparency, and legal accountability. Critics of stricter rules counter with free‑speech and overreach arguments, but the incident primarily fuels advocacy for platform regulation and stronger enforcement against disinformation and targeted abuse.",
+    "queries": [
+      "Are conspiracy videos about the sandy hook shooting reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "On YouTube, deplatforming is invoked to justify suspending, demonetizing, or banning creators accused of hate, harassment, or misinformation—used by safety advocates to argue for stricter enforcement and by critics to allege ideological censorship, opacity, and platform overreach. It frames YouTube as a powerful gatekeeper whose moderation choices shape public discourse and drive calls for clearer rules, appeals, or alternative hosting arrangements.",
+    "queries": [
+      "Is YouTube deplatforming justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "facebook",
+    "wiki_title": "facebook",
+    "summary": "Facebook is frequently used as a cautionary benchmark in debates about YouTube—critics cite Facebook’s failures on misinformation, privacy and political manipulation to press for stronger moderation, algorithmic transparency, and data protections on YouTube.  Conversely, advocates against heavy intervention point to Facebook’s controversies over overreach and censorship to argue that aggressive takedowns or strict rules on YouTube can backfire, harm creators, and push users to alternate platforms.",
+    "queries": [
+      "Is facebook promotion on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "infowars",
+    "wiki_title": "infowars",
+    "summary": "Infowars is routinely deployed in arguments about YouTube as a test case for content moderation and deplatforming: advocates for stricter enforcement point to its conspiracy-driven content to justify removal, demonetization, and algorithmic limits, while free‑speech critics cite YouTube’s actions against Infowars as evidence of censorship and inconsistent policy enforcement.",
+    "queries": [
+      "Is Infowars' presence on YouTube justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "bitchute",
+    "wiki_title": "bitchute",
+    "summary": "BitChute is invoked in debates over YouTube as evidence on both sides: advocates of looser moderation point to it as a refuge from YouTube’s alleged censorship and a rationale for defending broader platform freedom, while critics highlight its concentration of extremist and conspiratorial content to justify YouTube’s removals and warn about the harms of migrating banned creators to alternative hosts.",
+    "queries": [
+      "How do people view bitchute compared with YouTube?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "defamation lawsuits",
+    "wiki_title": "defamation",
+    "summary": "Defamation is cited in debates over YouTube’s responsibility and legal exposure, with victims and regulators using it to demand faster takedowns, stricter policies, and platform accountability for reputation‑damaging videos. Critics counter that defamation claims can be abused to justify overbroad censorship, state pressure or SLAPP suits, fueling arguments for stronger free‑speech protections and clearer due‑process for creators.",
+    "queries": [
+      "How do people view defamation lawsuits against YouTubers?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "section 230",
+    "wiki_title": "section 230",
+    "summary": "Section 230 is a focal point in debates over YouTube’s responsibility: YouTube and free‑speech defenders invoke it to justify broad discretion in hosting, moderating, and algorithmically recommending user videos without publisher liability, while critics use it to argue the company avoids accountability for harmful, extremist, or misleading content amplified by its platform and call for legal changes to force stricter oversight or transparency.",
+    "queries": [
+      "How do people view section 230's role on YouTube?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "adpocalypse",
+    "wiki_title": "censorship by google",
+    "summary": "Claims about Google/YouTube censorship are used by critics to paint YouTube as a biased gatekeeper that silences dissent and bends to government or commercial pressures, bolstering arguments for stronger free‑speech protections and independent oversight; conversely, proponents cite the same censorship actions to justify moderation as necessary for legal compliance, safety, and copyright enforcement, shaping debates over regulation, transparency, and platform responsibility.",
+    "queries": [
+      "Is YouTube's adpocalypse response justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "advertiser boycotts",
+    "wiki_title": "boycott",
+    "summary": "Calls for boycotts — most visibly advertiser pullouts (the “adpocalypse”) and creator walkaways — are used to pressure YouTube to change monetization, content-moderation, and algorithm policies, framing the platform as needing accountability. Proponents use boycotts to demand stricter safety rules and creator protections; defenders often portray them as symbolic or short-lived and argue for technical fixes or regulatory clarity instead.",
+    "queries": [
+      "Are YouTube advertiser boycotts justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "brand safety",
+    "wiki_title": "brand safety",
+    "summary": "On YouTube, brand safety arguments are wielded by advertisers and regulators to portray the platform as irresponsible and to justify ad boycotts, tighter content moderation, algorithm changes, and demands for greater transparency after high-profile misplacements. Opponents use the same framing to criticize those measures as corporate-driven censorship that leads to demonetization, opaque enforcement, and harm to creators’ livelihoods.",
+    "queries": [
+      "What effects has brand safety had on YouTube creators?"
+    ]
+  },
+  {
+    "id": "C3-5-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "plandemic",
+    "wiki_title": "plandemic",
+    "summary": "Plandemic is often cited in debates about YouTube as a high-profile example of how the platform’s algorithms and initial moderation choices can amplify harmful misinformation, strengthening arguments for stricter content policies, faster takedowns, and greater enforcement transparency. At the same time, supporters of the films use YouTube’s removal actions to argue the site engages in ideological censorship, framing enforcement as biased suppression of alternative viewpoints.",
+    "queries": [
+      "What impacts has plandemic had on viewers and discourse?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "anti-vaccine movement",
+    "wiki_title": "anti-vaccine activism",
+    "summary": "Anti-vaccine activists portray YouTube as both a vital distribution channel and a hostile censor—arguing removals and demonetization prove political bias and justify calls for free-speech protections—while critics and public-health advocates frame YouTube as an irresponsible amplifier whose recommendation systems and monetization policies require stronger moderation, transparency, and deplatforming to curb harmful misinformation.",
+    "queries": [
+      "How do people view the anti-vaccine movement on YouTube?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "world health organization",
+    "wiki_title": "world health organization",
+    "summary": "WHO statements and guidance are frequently invoked in debates over YouTube’s handling of health content: platforms and regulators cite WHO to justify promoting authoritative sources and removing COVID‑19 or vaccine misinformation, while critics use WHO guidance to accuse YouTube of either lax enforcement that spreads harm or of overreach and censoring dissenting views, and legislators point to WHO standards when calling for stricter platform regulation.",
+    "queries": [
+      "Are the World Health Organization’s messages on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "5g conspiracy theory",
+    "wiki_title": "5g",
+    "summary": "Proponents point to 5G as the technical enabler of YouTube’s mobile, high‑resolution and low‑latency ambitions—bolstering arguments for growth in live streaming, AR/VR content, and new monetization for creators—while critics use 5G to warn that bandwidth-hungry platforms will deepen the digital divide, justify paid tiers or throttling by ISPs, increase surveillance and moderation challenges, and therefore require stronger net‑neutrality and access policies.",
+    "queries": [
+      "Is the 5g conspiracy theory on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "copyright and intellectual property",
+    "wiki_title": "intellectual property",
+    "summary": "On YouTube, intellectual property claims are invoked to justify Content ID, takedowns, and monetization rules as necessary to protect creators and rights-holders and preserve revenue streams; opponents counter that heavy-handed IP enforcement, automated claims, and platform incentives disproportionately empower large rights owners, suppress fair use, and enable censorship, fueling calls for DMCA reform and clearer fair‑use safeguards.",
+    "queries": [
+      "What impacts has copyright and intellectual property had for creators?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "dmca",
+    "wiki_title": "digital millennium copyright act",
+    "summary": "On YouTube the DMCA is routinely cited to justify takedowns, Content ID monetization, and the platform’s safe‑harbor protections — giving rights holders tools to remove or claim videos while shielding YouTube from liability. Critics counter that the law enables automated overreach and wrongful strikes that silence creators and stifle fair use, fueling calls for greater transparency or legislative reform to rebalance rights holders, creators, and free expression.",
+    "queries": [
+      "How do people view dmca takedowns on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "electronic frontier foundation",
+    "wiki_title": "electronic frontier foundation",
+    "summary": "The EFF often intervenes in debates about YouTube by criticizing opaque content moderation and overbroad copyright enforcement (e.g., DMCA/Content ID) while defending creators’ fair‑use rights. It frames YouTube policy as a free‑speech and privacy issue, pushing for greater transparency, stronger appeals, limits on surveillance, and legal challenges to platform overreach.",
+    "queries": [
+      "How do people view the electronic frontier foundation's stance on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "copyright troll",
+    "wiki_title": "copyright troll",
+    "summary": "On YouTube, labeling a claimant a “copyright troll” is used to cast rights-holders or monetizers who issue mass DMCA takedowns or Content ID claims as bad-faith actors exploiting the platform to extract settlements or block rivals rather than protect creative work; this framing fuels calls for stronger counter-notice protections, limits on abusive claims and greater platform responsibility for policing takedown abuse.",
+    "queries": [
+      "How do people view copyright troll practices on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-1-7",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "lumen project",
+    "wiki_title": "lumen field",
+    "summary": "Lumen Field is often cited in debates about YouTube as a concrete venue where conflicts over live-streaming, broadcast rights, and fan-uploaded footage play out—examples from games and concerts there are used to argue about DMCA takedowns, monetization, and platform responsibility. Critics point to incidents tied to the stadium to claim YouTube favors commercial rights-holders and suppresses grassroots fan content, while supporters highlight YouTube livestreams of large Lumen Field events as evidence the platform expands access and audience reach.",
+    "queries": [
+      "What effects has YouTube's lumen project produced?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "fair use",
+    "wiki_title": "fair use",
+    "summary": "On YouTube, fair use is routinely invoked by creators and advocates to defend transformative content (reaction, commentary, remix) and to attack automated Content ID takedowns, demonetization, and strict copyright enforcement as chilling speech and creativity. Rights-holders and some policymakers push back, arguing fair-use claims are sometimes abused and that stronger enforcement or clearer rules are needed—framing platform policy debates over moderation, monetization, and liability.",
+    "queries": [
+      "Is fair use on YouTube applied fairly or not?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "lenz v. universal",
+    "wiki_title": "lenz v. universal music corp.",
+    "summary": "Lenz v. Universal is frequently cited in arguments about YouTube to criticize automated takedowns and Content ID by insisting copyright holders must consider fair use before issuing DMCA removal notices, and is used to justify stronger creator protections, counter-notice procedures, and transparency in YouTube’s enforcement. Rights-holders counter that the decision burdens enforcement, so the case frames opposing policy positions on how aggressively YouTube should police alleged infringement.",
+    "queries": [
+      "How do people view lenz v. universal’s impact on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-3-8",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "transformative use",
+    "wiki_title": "transformative use",
+    "summary": "Creators and free-speech advocates lean on transformative use to defend reaction, remix, educational, and critical videos on YouTube as lawful fair use and to oppose takedowns, strikes, and demonetization. Rights holders and some policymakers counter that the doctrine is overclaimed to avoid licensing, framing debates about Content ID, safe-harbor enforcement, and whether YouTube should adopt stricter copyright policing or clearer fair-use guidance.",
+    "queries": [
+      "Are YouTube rules on transformative use reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "viacom v. youtube",
+    "wiki_title": "viacom international, inc. v. youtube, inc.",
+    "summary": "The Viacom v. YouTube litigation is frequently invoked to argue that YouTube either exploits DMCA safe-harbor protections to avoid policing widespread copyright infringement or, conversely, that the courts must protect platforms to preserve user-generated innovation; it thus frames debates over takedown practices, automated filtering, monetization of copyrighted works, and how much legal liability or enforcement responsibility YouTube should bear.",
+    "queries": [
+      "Was viacom v. youtube justified in assigning copyright liability?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "universal music group",
+    "wiki_title": "universal music group",
+    "summary": "Universal Music Group frequently frames YouTube as a platform that underpays artists and enables copyright infringement, using high-profile licensing negotiations, public campaigns, and legal pressure to push for higher royalties, stricter Content ID enforcement, and more favorable revenue-sharing. Critics argue this stance leads to aggressive takedowns and policies that prioritize major-label earnings over independent creators and open user access, and that UMG’s deals set precedents that reshape platform rules industry-wide.",
+    "queries": [
+      "How do people view Universal Music Group’s influence on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "lucian grainge",
+    "wiki_title": "lucian grainge",
+    "summary": "As head of a major record label, Lucian Grainge is frequently invoked in YouTube debates as the archetypal music-industry negotiator who pushes for higher royalties, tighter copyright enforcement and licensing deals — framing YouTube as underpaying artists and needing tougher rules. Critics use him to argue that big labels seek too much control and fees from the platform, while supporters cite his stance to justify stronger content moderation and compensation reforms.",
+    "queries": [
+      "What consequences has lucian grainge's stance toward YouTube caused?"
+    ]
+  },
+  {
+    "id": "C4-6-3",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "vevo",
+    "wiki_title": "vevo",
+    "summary": "Vevo is invoked in YouTube debates as proof that major record labels can both cooperate with and pressure the platform over revenue-sharing, licensing and rights control—used by critics to argue YouTube underpays creators and by defenders to show labels willingly rely on YouTube’s reach. Its existence therefore frames arguments about who holds bargaining power (labels vs. platform), the fairness of YouTube’s monetization model, and whether alternative distribution can or should constrain YouTube’s dominance.",
+    "queries": [
+      "Are Vevo’s exclusivity deals justified in YouTube’s ecosystem?"
+    ]
+  },
+  {
+    "id": "C4-6-7",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "merlin network",
+    "wiki_title": "merlin network",
+    "summary": "Merlin Network is invoked in YouTube debates as the bargaining representative for independent music labels whose licensing deals and public statements are used to press YouTube for higher royalties, greater transparency, and stronger rights enforcement; opponents also cite Merlin-negotiated terms to criticize YouTube’s compensation model and point to ongoing shortcomings in how the platform pays and protects music creators.",
+    "queries": [
+      "How do people view merlin network on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "creative commons",
+    "wiki_title": "creative commons",
+    "summary": "Advocates cite Creative Commons when arguing YouTube should promote open, remixable and educational content—pushing for better CC metadata, search filters, and platform support so creators can legally share and build on each other’s work. Critics and rights-holders invoke CC to highlight problems with mislabeling, Content ID/monetization conflicts, and argue YouTube’s policies and enforcement fail to respect or properly handle CC licensing nuances.",
+    "queries": [
+      "How do people view creative commons on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "cc by",
+    "wiki_title": "cc",
+    "summary": "On YouTube, “cc” figures in debates two ways: as the closed‑caption control it shapes arguments about accessibility, the accuracy and bias of auto‑captions, and how transcripts affect moderation and discoverability. As shorthand for Creative Commons, “CC” is invoked in disputes over licensing and remix culture—used to justify open reuse and collaboration or criticized for undermining creator control and monetization and challenging platform copyright enforcement.",
+    "queries": [
+      "What effects has cc by had on YouTube creators?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "remix culture",
+    "wiki_title": "remix culture",
+    "summary": "In debates about YouTube, proponents of remix culture portray the site as a vital forum for transformative mashups, parodies and fan edits and use that framing to criticize Content ID, automated takedowns and monetization rules that they say stifle creativity. They typically advocate for stronger fair‑use protections, Creative Commons–style licensing or revenue‑sharing tools to enable lawful reuse, and oppose copyright maximalism and opaque enforcement that chills user-generated remixes.",
+    "queries": [
+      "How do people view remix culture on YouTube?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "flickr",
+    "wiki_title": "flickr",
+    "summary": "Flickr is often invoked as a counterexample to YouTube in debates about platform governance—its community-driven curation, widespread use of Creative Commons licensing, and tighter creator controls are cited to criticize YouTube’s algorithmic promotion, Content ID/copyright enforcement, and ad-driven incentives, supporting calls for stronger creator rights, clearer licensing, and better archival/categorization on YouTube.",
+    "queries": [
+      "How do people view the role of flickr compared with YouTube?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "counter-notification",
+    "wiki_title": "online copyright infringement liability limitation act",
+    "summary": "Arguments invoking the Online Copyright Infringement Liability Limitation Act are often used to justify YouTube’s safe-harbor protections—framing the platform as legally entitled to host user uploads and rely on tools like Content ID—while critics use the same law to argue YouTube exploits liability limits, advocating for stricter takedown duties, proactive filtering, or stronger revenue-sharing and enforcement for rights holders.",
+    "queries": [
+      "How do people view counter-notification on YouTube?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "privacy and data",
+    "wiki_title": "privacy",
+    "summary": "Privacy is invoked to criticize YouTube’s data collection, profiling, and recommendation-driven advertising—fueling calls for stricter data-protection rules, age safeguards (COPPA enforcement), algorithmic transparency, and limits on targeted ads. It’s also used to defend users and creators from doxxing, government data requests, or intrusive moderation practices, supporting stronger consent controls, anonymization options, and the ability to opt out of personalization.",
+    "queries": [
+      "Is YouTube's handling of privacy and data reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "gdpr",
+    "wiki_title": "general data protection regulation",
+    "summary": "Advocates and regulators invoke the GDPR to pressure YouTube to limit behavioral targeting, tighten age‑appropriate data handling, honor deletion/portability requests, and disclose profiling used by recommendation algorithms, often demanding feature changes or EU‑specific restrictions. Critics use GDPR enforcement actions and threat of fines to argue YouTube must be held accountable for opaque data practices, while industry defenders counter that GDPR compliance raises costs and forces reduced personalization or regional rollbacks of services.",
+    "queries": [
+      "How do people view gdpr affecting YouTube content?"
+    ]
+  },
+  {
+    "id": "C5-3-2",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "information commissioner's office",
+    "wiki_title": "information commissioner's office",
+    "summary": "The Information Commissioner’s Office is frequently cited in discussions about YouTube’s data and privacy practices—its investigations, fines, and guidance are used to argue that YouTube must tighten consent, age verification, transparency, and limits on targeted advertising (especially for children). Industry actors and some commentators also point to ICO rulings to frame needed changes as compliance and technical fixes rather than broader content- or platform-governance reforms.",
+    "queries": [
+      "Is the information commissioner's office oversight of YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3-3",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "schrems ii",
+    "wiki_title": "max schrems",
+    "summary": "Max Schrems is frequently cited in debates about YouTube as a precedent-setting privacy advocate whose court victories are used to argue that YouTube’s pervasive tracking, targeted ads and transatlantic data transfers should be curtailed under the GDPR and subject to stricter consent, transparency, and data‑minimization rules. Opponents of aggressive enforcement similarly invoke Schrems to warn that cutting off data flows or imposing heavy compliance burdens would disrupt YouTube’s ad‑funded services and complicate cross‑border operations.",
+    "queries": [
+      "What consequences might schrems ii bring for YouTube content moderation?"
+    ]
+  },
+  {
+    "id": "C5-3-4",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "right to be forgotten",
+    "wiki_title": "right to be forgotten",
+    "summary": "The right to be forgotten is invoked in debates over YouTube when users demand removal or de‑ranking of videos that revive past mistakes, revenge porn, or doxxing, bolstering calls for stronger takedown tools and reputation controls on the platform. Critics counter that applying the RTBF to YouTube would enable censorship, erase public record, and chill speech, pushing platforms toward narrow, legally grounded policies rather than broad content suppression.",
+    "queries": [
+      "How do people view the right to be forgotten on YouTube?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "age verification",
+    "wiki_title": "age verification system",
+    "summary": "Age verification figures prominently in debates over YouTube’s duty to protect minors and comply with new regulations, with proponents arguing stronger age-gates and identity checks are needed to block harmful or adult content and enforce platform responsibility. Critics retort that mandatory checks risk user privacy and surveillance, enable censorship or unequal burdens on marginalized creators, and create technical and UX hurdles that could be ineffective or harmful.",
+    "queries": [
+      "Is age verification on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "federal trade commission",
+    "wiki_title": "federal trade commission",
+    "summary": "The Federal Trade Commission is often cited in debates about YouTube’s privacy, advertising, and child-protection failures—FTC investigations and fines (especially around COPPA and data collection) are used to argue YouTube needs stricter oversight and greater transparency. At the same time industry and some creators invoke FTC rules to justify sponsorship disclosures and push back that aggressive enforcement can overreach and hinder platform innovation.",
+    "queries": [
+      "How do people view the federal trade commission’s actions regarding YouTube?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "targeted advertising",
+    "wiki_title": "targeted advertising",
+    "summary": "On YouTube, targeted advertising is invoked to argue that the platform prioritizes ad revenue and user profiling—fuelling critiques that its recommendation system and data collection amplify privacy harms, discrimination, and algorithmic marginalization—while defenders portray it as necessary personalization that funds creators. That tension propels calls for greater transparency, privacy limits, and regulation opposed by industry claims that targeting is essential to platform monetization and user experience.",
+    "queries": [
+      "How do people view targeted advertising on YouTube?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "microtargeting",
+    "wiki_title": "microtargeting",
+    "summary": "Microtargeting is invoked in debates over YouTube’s ad and recommendation systems as a mechanism that enables hyper-personalized political persuasion and the targeted spread of disinformation to specific user groups. Critics use it to demand greater ad transparency, limits on political and behavioral targeting, and tighter data-privacy and moderation rules, while platforms and advertisers argue it improves relevance and advertising effectiveness.",
+    "queries": [
+      "How do people view microtargeting on YouTube?"
+    ]
+  },
+  {
+    "id": "C5-6-8",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "data brokers",
+    "wiki_title": "data broker",
+    "summary": "In debates about YouTube, data brokers are invoked by critics to argue the platform is part of a larger surveillance-advertising ecosystem that profiles viewers and enables microtargeted ads and influence, heightening privacy and manipulation concerns. Defenders counter that brokered data underpins YouTube’s ad revenue and targeting efficiency, so references to brokers are used to justify resisting heavy regulation even as policymakers and advocates cite them to push for greater transparency and limits on profiling.",
+    "queries": [
+      "Is YouTube's use of data brokers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "third-party cookies",
+    "wiki_title": "third-party cookies",
+    "summary": "Third-party cookies figure centrally in arguments about YouTube as the mechanism that lets Google and advertisers track viewers across the web to build profiles used for highly targeted ads, prompting privacy advocates to call for regulation and limits on YouTube’s data-driven reach. Supporters in the ad and creator ecosystem counter that this cross-site tracking enables the targeted advertising, measurement, and revenue that fund YouTube content, and critics point to Chrome’s 2024 reversal on cookie phase-out as evidence the company prioritized ad business interests over privacy reforms.",
+    "queries": [
+      "What effects have third-party cookies had on YouTube experiences?"
+    ]
+  },
+  {
+    "id": "C5-7-1",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "google chrome",
+    "wiki_title": "google chrome",
+    "summary": "Chrome is frequently invoked in debates about YouTube as a lever of Google’s ecosystem power—critics argue Chrome’s default position and deep integrations steer traffic, optimize YouTube performance, and enable tracking that feed antitrust and privacy complaints. Supporters counter that Chrome–YouTube integration delivers better video performance and consistent features for users, a framing used to argue against breakup or heavy regulation of Google services.",
+    "queries": [
+      "How do people view google chrome’s impact on YouTube viewing?"
+    ]
+  },
+  {
+    "id": "C5-7-3",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "floc",
+    "wiki_title": "floc",
+    "summary": "FLoC frequently appears in debates about YouTube's ad and privacy practices: supporters frame it as a technical compromise that lets YouTube continue personalized advertising after cookie restrictions, while critics use it to argue Google is entrenching invasive tracking and monopolistic ad power, fueling calls for stricter privacy rules and antitrust scrutiny.",
+    "queries": [
+      "How do people view floc on YouTube?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "ccpa",
+    "wiki_title": "ccpa",
+    "summary": "In public debates about YouTube the CCPA is cited as a legal benchmark demanding greater transparency, user control, and opt-outs from the platform’s data collection and targeted advertising (often highlighted in concerns about children’s privacy). Proponents use it to push for stricter privacy protections and limits on algorithmic personalization, while opponents argue CCPA-driven compliance and ad-targeting constraints can harm ad revenue and creator earnings.",
+    "queries": [
+      "How do people view ccpa on YouTube?"
+    ]
+  },
+  {
+    "id": "C5-7-7",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "the trade desk",
+    "wiki_title": "the trade desk",
+    "summary": "The Trade Desk is frequently cited in debates over YouTube as an industry voice criticizing Google’s closed, platform-controlled video-ad market and limited transparency, using its position to argue that advertisers need open, cross‑platform programmatic alternatives. It often frames policy and technical reforms — like privacy‑friendly IDs and improved measurement — as necessary to constrain YouTube’s market power and make video advertising more transparent and competitive.",
+    "queries": [
+      "How do people view the trade desk's ads on YouTube?"
+    ]
+  },
+  {
+    "id": "C5-7-8",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "safari itp",
+    "wiki_title": "itp",
+    "summary": "itp is invoked in public debates about YouTube to frame questions of platform governance, algorithmic transparency, and content-moderation policy; it is used by advocates to justify stronger regulation, data-privacy safeguards, and accountability mechanisms, and by critics to warn against regulatory overreach that could stifle speech and innovation.",
+    "queries": [
+      "How do people view safari itp’s effects on YouTube monetization?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "google ads",
+    "wiki_title": "google ads",
+    "summary": "Google Ads is invoked as the financial engine that shapes YouTube’s incentives—used by defenders to justify moderation and algorithmic promotion as necessary for advertiser safety and platform sustainability, and by critics to explain demonetization, self-censorship, and skewed promotion toward “brand‑safe” or sensational content. Debates about Google Ads on YouTube therefore drive demands for greater transparency, fairer revenue-sharing, and regulatory limits on ad-targeting and political advertising.",
+    "queries": [
+      "Is YouTube's google ads approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "cocomelon",
+    "wiki_title": "cocomelon",
+    "summary": "Cocomelon is often invoked as proof that YouTube's recommendation algorithms reward repetitive, attention-grabbing children's content, intensifying debates over screen time, child-directed advertising, and the platform's responsibility to protect young viewers. Its massive reach and corporate buyout are also used to argue for stricter regulation of kids’ content, greater algorithmic transparency, and concerns about commercialization and concentration of cultural and economic power on YouTube.",
+    "queries": [
+      "What effects has Cocomelon had on young viewers?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "made for kids",
+    "wiki_title": "all for kids",
+    "summary": "Advocates cite All for Kids as an example of professionally produced, educational children’s programming that YouTube should surface and support, using it to argue for stronger platform curation, monetization rules, and child‑protection policies; critics, however, point to its TV‑to‑online repackaging to warn that YouTube’s algorithms and ad incentives can encourage low‑quality imitations and targeted commercial content aimed at young viewers.",
+    "queries": [
+      "What effects has made for kids labeling caused on creators?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "unboxing videos",
+    "wiki_title": "unboxing",
+    "summary": "On YouTube, unboxing videos are often invoked as evidence that the platform democratizes marketing and creator economies by letting individuals and small brands reach audiences and monetize product exposure. Critics counter that unboxings exemplify YouTube’s commercialization and algorithmic amplification of covert advertising, fueling calls for stronger disclosure rules, clearer ad policies, and tighter oversight of influencer-brand relationships.",
+    "queries": [
+      "What consequences have unboxing videos brought to YouTube culture?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "child safety",
+    "wiki_title": "child protection",
+    "summary": "In debates about YouTube, 'child protection' is cited to demand stronger moderation, age‑verification, ad and recommendation restrictions, and transparency—framing the platform as responsible when it fails to prevent exposure, exploitation, grooming, or harmful content for minors. Advocates and regulators use child‑protection arguments to push for stricter rules and oversight, while YouTube or some creators invoke the concept to justify takedowns and monetization limits; critics counter that it is sometimes used rhetorically to mask business choices that prioritize engagement and ad revenue over real safety measures.",
+    "queries": [
+      "What trade-offs has YouTube’s child safety focus created?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "elsagate",
+    "wiki_title": "elsagate",
+    "summary": "Elsagate is cited in debates as a high-profile example of YouTube’s failures around algorithmic recommendations, monetization incentives, and weak child-safety moderation, used to argue for stricter content policies, greater platform liability, and regulatory oversight. Defenders of YouTube invoke the same controversy to highlight the technical and scale limits of moderation and to justify incremental policy changes rather than radical reform.",
+    "queries": [
+      "Are concerns about elsagate reasonable or overblown?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "clickbait",
+    "wiki_title": "clickbait",
+    "summary": "On YouTube, critics use “clickbait” to blame the platform’s algorithms and monetization for rewarding sensational thumbnails and misleading titles, arguing this degrades content quality, trust, and public discourse and thus justifies stricter moderation and transparency. Creators and some commentators counter that clickbait is a pragmatic discovery tactic in a crowded attention economy, framing anti-clickbait policies as harmful to small channels and tantamount to censorship.",
+    "queries": [
+      "What consequences has clickbait on YouTube caused?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "parental controls",
+    "wiki_title": "parental controls",
+    "summary": "In public debates over YouTube, parental controls are invoked to demand stronger age‑gating, content filters and time limits to shield children from inappropriate or algorithmically promoted material, strengthening calls for platform changes or regulation. Critics say YouTube’s existing controls (including YouTube Kids) are inconsistently enforced and insufficient, while opponents of tighter controls warn such measures can lead to overbroad censorship and shift responsibility away from families.",
+    "queries": [
+      "Are parental controls on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-3",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "ftc",
+    "wiki_title": "ftc",
+    "summary": "The FTC is invoked as the federal enforcer of consumer-protection and privacy rules—used to justify fines and regulatory pressure on YouTube for deceptive advertising, undisclosed endorsements, and unlawful data collection from children—supporting calls for greater transparency, ad disclosure, and limits on targeted ads. Opponents and some industry voices portray FTC actions as imposing heavy compliance costs on creators and platforms and argue that enforcement alone may not address broader algorithmic or speech-related concerns.",
+    "queries": [
+      "What effects has the ftc had on YouTube creators?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "restricted mode",
+    "wiki_title": "restricted shell",
+    "summary": "In debates about YouTube's security and moderation, proponents invoke the idea of a \"restricted shell\" as a technical precedent to justify sandboxing creator tools, tightening API privileges, and locking down upload/partner environments to prevent abuse. Critics use the same notion to argue those confinement tactics are both insufficient to fully isolate untrusted code and liable to justify overbroad restrictions that chill creators and third‑party innovation.",
+    "queries": [
+      "What effects has YouTube’s restricted mode had?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "google family link",
+    "wiki_title": "google family link",
+    "summary": "Google Family Link is invoked in debates over YouTube as an example of parental-control tools platforms offer to limit children's access and to justify leaving more content-moderation responsibility to families. Critics counter that citing Family Link lets YouTube and Google dodge stricter age verification, moderation, and regulatory obligations, arguing it is insufficient protection against harmful or exploitative content.",
+    "queries": [
+      "Are google family link’s YouTube restrictions justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "net nanny",
+    "wiki_title": "net nanny",
+    "summary": "Net Nanny is frequently cited in conversations about YouTube as a practical justification for stronger age-gating and content-filtering—advocates point to its use by parents to argue YouTube must do more to block harmful or inappropriate videos. Critics counter that relying on tools like Net Nanny shifts responsibility onto caregivers and can legitimize overbroad filtering, framing the debate between platform regulation and parental control.",
+    "queries": [
+      "How do people view Net Nanny's role on YouTube?"
+    ]
+  },
+  {
+    "id": "C6-6-8",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "common sense media",
+    "wiki_title": "common sense media",
+    "summary": "Common Sense Media is frequently cited in debates about YouTube as a child-focused watchdog whose reviews and research highlight how YouTube’s content, recommendation algorithms, and ad practices affect kids, using those findings to press for stronger moderation, age-gating, ad limits, and media-literacy tools. Its critiques are commonly used to justify policy changes or regulation of YouTube and to oppose platform practices that prioritize engagement and targeted advertising over child safety.",
+    "queries": [
+      "Is common sense media's YouTube guidance reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "watch time",
+    "wiki_title": "watch",
+    "summary": "Physical watches—especially luxury timepieces—are often flaunted by creators and used by critics to argue that YouTube’s algorithms reward spectacle and materialism, bolstering calls for clearer disclosure of sponsorships and changes to monetization incentives. At the same time, smartwatches’ emergence as a delivery point for notifications and short clips fuels debates about YouTube’s responsibility for attention management and child-safety on wearable devices, supporting limits on autoplay/notifications and stricter age controls.",
+    "queries": [
+      "Is prioritizing watch time on YouTube justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "recommendation algorithms",
+    "wiki_title": "recommender system",
+    "summary": "YouTube's recommender system is frequently cast as the engine behind the platform's social harms—accused of amplifying sensational, polarizing, or misleading content and addicting users—used to argue for algorithmic transparency, stricter moderation, and regulatory oversight. Defenders counter that the system enables personalized discovery and creator livelihoods, framing criticisms as misunderstandings of machine learning or calls to preserve platform autonomy and market-driven solutions.",
+    "queries": [
+      "Are YouTube's recommendation algorithms reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "susan wojcicki",
+    "wiki_title": "susan wojcicki",
+    "summary": "Wojcicki is frequently invoked as the public face of YouTube’s trade-off between advertiser-driven growth and content moderation, with supporters citing her leadership to justify stricter safety and advertiser-friendly policies as necessary for platform viability. Critics use her tenure to argue YouTube prioritized corporate and advertiser interests over creators and free expression, pointing to demonetization, opaque algorithms, and perceived censorship as evidence.",
+    "queries": [
+      "What effects has susan wojcicki had on YouTube's policies?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "digital services act",
+    "wiki_title": "digital services act",
+    "summary": "In debates about YouTube the DSA is invoked to push the platform toward greater transparency, algorithmic audits, and mandatory risk-mitigation (e.g., reducing disinformation, harmful content and exploitative ads), framing YouTube as a systemic actor that must be forced to disclose and change recommendation and moderation practices. Opponents — including some creators and industry groups — use the DSA to argue that such obligations risk over‑removal, censorship, higher compliance costs and worsened discoverability and monetization, justifying resistance to strict enforcement or sweeping moderation mandates.",
+    "queries": [
+      "What consequences has the digital services act had for YouTube?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "european commission",
+    "wiki_title": "european commission",
+    "summary": "In public debates about YouTube the European Commission is cited as the primary regulator pushing platforms to increase transparency, curb illegal content and disinformation, and alter recommendation and monetization practices (via frameworks like the DSA/DMA), thereby framing YouTube as a powerful ‘gatekeeper’ that must be held accountable; critics use the Commission to argue either for stronger consumer protections or, conversely, to denounce regulatory overreach and potential censorship and burdens on smaller creators.",
+    "queries": [
+      "How do people view the European Commission’s influence on YouTube content?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "very large online platforms",
+    "wiki_title": "meta platforms",
+    "summary": "Meta is often invoked as a rival and foil in debates about YouTube: industry defenders cite Meta’s competing video features and ad-driven model to argue against singling out YouTube for regulation, while critics point to Meta’s own dominance, algorithmic amplification, and moderation failures to justify broader scrutiny of YouTube’s market power, content policies, and advertising practices.",
+    "queries": [
+      "How do people view very large online platforms such as YouTube?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "european digital rights",
+    "wiki_title": "european digital rights",
+    "summary": "European Digital Rights (EDRi) is often cited in discussions of YouTube to spotlight privacy abuses, opaque recommendation algorithms and ad‑driven profiling, pushing for stricter GDPR enforcement, algorithmic transparency/audits and stronger user rights. It criticizes automated upload filters and expanded platform liability as likely to cause over‑reach and censorship, advocating regulatory safeguards, clearer moderation due process and limits on data‑driven surveillance.",
+    "queries": [
+      "What impacts has european digital rights had on YouTube policies?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "filter bubble",
+    "wiki_title": "filter bubble",
+    "summary": "On YouTube, critics invoke the “filter bubble” to claim the platform’s recommendation algorithms trap viewers in narrow, often radicalizing content streams—used to justify demands for greater transparency, algorithmic audits, and stronger de‑recommendation or moderation of misinformation—while defenders argue personalization improves engagement and that the bubble’s role in polarization is overstated.",
+    "queries": [
+      "What impacts has YouTube’s filter bubble caused?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "echo chamber",
+    "wiki_title": "echo chamber",
+    "summary": "In debates about YouTube, critics invoke the 'echo chamber' metaphor to argue the platform’s recommendation and engagement-driven systems trap users in self-reinforcing streams that amplify misinformation, extremism, or partisan content and therefore justify algorithmic reform, transparency, and stronger moderation. Defenders counter that echo‑chamber claims overstate YouTube’s causal power, risking censorship by ignoring user agency, content diversity, and broader social factors.",
+    "queries": [
+      "What consequences has the echo chamber on YouTube caused?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "conspiracy theories",
+    "wiki_title": "conspiracy theory",
+    "summary": "Conspiracy theories on YouTube are used by critics to argue the platform amplifies and radicalizes viewers—justifying content takedowns, demonetization, algorithm changes, and regulation—while creators and free‑speech advocates use claims of conspiratorial censorship to portray moderation as political bias and rally against stricter controls.",
+    "queries": [
+      "What consequences have conspiracy theories on YouTube caused?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "autoplay",
+    "wiki_title": "autoplay",
+    "summary": "YouTube's autoplay is frequently invoked in debates as proof that the platform nudges users into longer, often unintentional viewing—used to criticize addictive design, algorithmic radicalization, and profit-driven recommendation priorities—while proponents frame it as a convenience that aids discovery and engagement. Policy advocates who oppose autoplay push for opt-in controls, stronger consumer protections and algorithmic transparency, whereas defenders resist restrictions as harmful to growth and user experience.",
+    "queries": [
+      "Is YouTube autoplay reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "dark patterns",
+    "wiki_title": "dark pattern",
+    "summary": "Accusations of dark patterns are used to argue YouTube deliberately structures its UI and flows (autoplay, buried opt-outs, confusing unsubscribe/delete steps, nudges toward paid features) to maximize engagement and ad revenue at users’ expense, strengthening calls for transparency, consumer-protection rules, and regulatory oversight. Framing design choices as dark patterns typically undermines claims that features are neutral UX decisions and bolsters critics pushing legal or policy remedies.",
+    "queries": [
+      "Is YouTube’s use of dark patterns reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "mobile data",
+    "wiki_title": "mobile broadband",
+    "summary": "Debates about YouTube often invoke mobile broadband: advocates say expanding affordable mobile data and strong net‑neutrality rules are vital for equitable access, creator earnings, and global reach, while critics highlight how data caps, throttling, and zero‑rating deals by carriers can distort competition, skew platform incentives toward low‑bandwidth/short formats, and limit what audiences see in low‑connectivity regions.",
+    "queries": [
+      "How do people view mobile data usage while watching YouTube?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "online radicalization",
+    "wiki_title": "online youth radicalization",
+    "summary": "Claims about online youth radicalization are frequently used to fault YouTube’s recommendation algorithms and influencer-driven communities for amplifying extremist or misogynistic messages, bolstering arguments for stricter content moderation, algorithmic transparency, demonetization, age‑gates and regulatory oversight. At the same time the issue is invoked to caution against heavy‑handed censorship and to advocate for evidence‑based counter‑radicalization, media literacy and narrowly targeted interventions rather than blanket platform bans.",
+    "queries": [
+      "What impacts has online radicalization had on YouTube?"
+    ]
+  },
+  {
+    "id": "C7-7-2",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "alt-right",
+    "wiki_title": "alt-right",
+    "summary": "In debates about YouTube, the alt-right is pointed to as a real-world example of content that the platform’s recommendation systems, monetization pathways, and creator networks can amplify—used by critics to demand stricter moderation, demonetization, and algorithmic transparency to curb recruitment and radicalization. Conversely, its supporters and some free‑speech advocates frame takedowns as political censorship, using alt‑right bans on YouTube to argue against broad content regulation.",
+    "queries": [
+      "How do people view the alt-right on YouTube?"
+    ]
+  },
+  {
+    "id": "C7-7-3",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "islamic state",
+    "wiki_title": "islamic state",
+    "summary": "Mentions of the Islamic State on YouTube drive arguments about platform safety and moderation — policymakers and activists cite ISIS’s use of the site for propaganda and recruitment to demand faster removals, stronger algorithmic filtering, and more transparency from YouTube. Opponents counter that aggressive, blunt enforcement can suppress legitimate religious or political speech and exacerbate Islamophobia, so debates often center on balancing counter‑extremism measures with free expression and anti‑bias safeguards.",
+    "queries": [
+      "How do people view islamic state material on YouTube?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "cultural and social trends",
+    "wiki_title": "cultural trends (journal)",
+    "summary": "The academic journal Cultural Trends is frequently cited in debates about YouTube to supply empirical evidence on how algorithms, monetization, and platform policies shape cultural production and audience behavior, and is used to justify worries about homogenization, precarious creator labor, and threats to cultural diversity. Its work tends to bolster calls for stronger regulation and cultural-policy interventions while challenging claims that YouTube simply democratizes culture or fairly compensates creators.",
+    "queries": [
+      "What consequences have cultural and social trends on YouTube caused?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "pewdiepie",
+    "wiki_title": "pewdiepie",
+    "summary": "PewDiePie is frequently cited as proof of YouTube’s power to make independent creators globally influential and to drive trends, sales, and platform-focused debates about creator monetization and algorithmic promotion. At the same time his high-profile controversies are used to argue that YouTube inadequately polices harmful content and prioritizes growth/advertiser relationships over robust moderation, fueling calls for stricter platform oversight and advertiser safeguards.",
+    "queries": [
+      "Is pewdiepie’s influence on YouTube positive, negative, or mixed?"
+    ]
+  },
+  {
+    "id": "C9-1-1",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "t-series",
+    "wiki_title": "t series",
+    "summary": "T-Series became a focal point in public arguments about YouTube when its subscriber rivalry with independent creators was framed as a clash between corporate/media-industry power and the platform’s grassroots creator culture, used to argue that algorithms and monetization disproportionately favor established labels. Critics invoke T-Series to push for more transparency, anti-bot enforcement, and fairer recommendation/monetization rules, while supporters point to it as proof of YouTube’s global reach and localization of commercial content.",
+    "queries": [
+      "What impacts has t-series had on YouTube creators and culture?"
+    ]
+  },
+  {
+    "id": "C9-1-3",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "mrbeast",
+    "wiki_title": "mrbeast",
+    "summary": "MrBeast is frequently invoked as proof that YouTube can spawn megabrands and large-scale philanthropy, used by supporters to argue for platform-friendly policies, generous creator monetization, and algorithmic promotion as engines of innovation. Conversely, critics cite his ‘MrBeastification’ model to argue YouTube rewards spectacle and concentration of wealth, bolstering calls for algorithmic transparency, fairer revenue-sharing, and stronger labor and content-safety oversight.",
+    "queries": [
+      "Are mrbeast's attention-grabbing stunts justified or excessive?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "creator economy",
+    "wiki_title": "creator economy",
+    "summary": "On YouTube, the “creator economy” label is used by proponents to cast the site as an engine of entrepreneurship and to justify ad splits, memberships, and algorithmic recommendation as legitimate tools that enable creator success and argue against heavy-handed regulation. Critics invoke the same concept to frame YouTube as a platform that extracts value through opaque algorithms and unstable monetization, supporting calls for greater revenue-sharing, transparency, moderation reform, and labor protections.",
+    "queries": [
+      "What impacts has the creator economy had on YouTube communities?"
+    ]
+  },
+  {
+    "id": "C9-2-5",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "influencer marketing",
+    "wiki_title": "influencer marketing",
+    "summary": "On YouTube, influencer marketing is often cited to portray the site as a commercial engine that amplifies branded content and steers creators toward advertiser-friendly formats, bolstering calls for clearer monetization rules and brand-safety policies; conversely, critics point to undisclosed deals, algorithmic promotion of sponsored posts, and precarious creator incomes to argue YouTube fosters inauthenticity and needs stronger disclosure enforcement and platform accountability.",
+    "queries": [
+      "Is influencer marketing on YouTube reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "patreon",
+    "wiki_title": "patreon",
+    "summary": "Patreon is often cited in arguments about YouTube as the primary escape hatch creators use to stabilize income amid demonetization, ad-revenue volatility, and opaque algorithmic decisions, supporting narratives that YouTube exploits creators and should be pressured to provide fairer, more predictable pay. Opponents counter that promoting Patreon normalizes off-platform monetization that fragments audiences and lets YouTube shirk responsibility for sustaining creators on its own platform.",
+    "queries": [
+      "What effects has patreon had on YouTube creators?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "On YouTube, 'cancel culture' is frequently invoked by creators and commentators to portray demonetizations, removals, or mass boycotts as mob-driven attacks that threaten free expression and livelihoods. Opponents of that view use the term to defend platform moderation and community-led accountability, arguing it legitimizes removal of harmful creators and pushes for clearer, stronger content policies and transparency.",
+    "queries": [
+      "What effects has cancel culture had on YouTube creators?"
+    ]
+  },
+  {
+    "id": "C9-5-2",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "logan paul",
+    "wiki_title": "logan paul",
+    "summary": "Logan Paul is frequently invoked in debates over YouTube’s incentives and moderation: critics use his high-profile controversies and ongoing monetization as evidence the platform rewards sensationalism and lacks adequate accountability, while supporters point to his large audience and commercial success to argue YouTube fosters entrepreneurship and second chances. His example is cited to justify calls for stricter content policies, clearer enforcement and advertiser protections — or, conversely, to oppose heavy-handed bans that could harm creators’ livelihoods.",
+    "queries": [
+      "How do people view Logan Paul’s behavior on YouTube?"
+    ]
+  },
+  {
+    "id": "C9-5-3",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "shane dawson",
+    "wiki_title": "shane dawson",
+    "summary": "Shane Dawson is frequently invoked in debates about YouTube as a cautionary example of how the platform can amplify charismatic creators and normalize problematic behavior, with his rise and subsequent scandals used to argue for stronger moderation, demonetization, and platform accountability. His case is also mobilized by opponents who warn about overreach and 'cancel culture,' making him a flashpoint in discussions about algorithmic incentives, influencer power, and content governance on YouTube.",
+    "queries": [
+      "How do people view Shane Dawson on YouTube?"
+    ]
+  },
+  {
+    "id": "C9-5-4",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "james charles",
+    "wiki_title": "james charles",
+    "summary": "James Charles is frequently cited in debates about YouTube as an example of how algorithm-driven fame and influencer culture can amplify both success and scandal, prompting calls for stronger platform moderation, age verification, and monetization/accountability rules; his high-profile controversies are used both to demand tougher YouTube enforcement and to warn against rapid public 'canceling' and inconsistent platform responses.",
+    "queries": [
+      "How do people view james charles on YouTube?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok is often invoked as the disruptive, algorithm-first rival that exposes YouTube’s perceived slowness to innovate—critics cite TikTok’s rapid virality and discovery to push YouTube toward short-form features and better promotion for creators.  Conversely, advocates use TikTok’s privacy, moderation, and addiction controversies to argue for tighter regulation of all platforms and to portray YouTube’s longer-form monetization and content controls as relatively more sustainable or safer.",
+    "queries": [
+      "What effects has tiktok-style crossposting brought to YouTube?"
+    ]
+  },
+  {
+    "id": "C9-6-4",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "bytedance",
+    "wiki_title": "bytedance",
+    "summary": "ByteDance and its TikTok product are used as a competitive and regulatory foil in YouTube debates: advocates point to ByteDance’s algorithmic success to criticize YouTube’s slower product response and justify features like Shorts, while policymakers and critics invoke ByteDance’s security and censorship controversies to argue for tougher oversight, data-localization, or protectionist measures that would also shape YouTube’s rules and market position.",
+    "queries": [
+      "Is bytedance's influence on YouTube content moderation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-7-2",
+    "parent": "C9",
+    "level": 3,
+    "topic": "instagram reels",
+    "wiki_title": "instagram",
+    "summary": "Instagram is frequently used as a foil in debates about YouTube’s product and policy choices—advocates point to Instagram’s success with short-form, feed-driven content and influencer monetization to justify YouTube’s push into Shorts and creator payouts, while critics cite Instagram’s moderation failures and youth mental-health controversies to argue YouTube should tighten content moderation, transparency, or avoid similar attention-economy harms.",
+    "queries": [
+      "What effects have Instagram Reels had on YouTube creators?"
+    ]
+  },
+  {
+    "id": "C9-7-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "music licensing",
+    "wiki_title": "music licensing",
+    "summary": "Arguments about music licensing on YouTube are used to justify Content ID takedowns, monetization seizures, and licensing deals with major labels as necessary protections and revenue sources, while opponents cite the same rules to criticize opaque claims, demonetization of creators, and low payouts; this frames policy debates between stronger rights-holder enforcement and reforms for transparency and fairer revenue-sharing for creators.",
+    "queries": [
+      "What effects has music licensing on YouTube caused?"
+    ]
+  }
+]

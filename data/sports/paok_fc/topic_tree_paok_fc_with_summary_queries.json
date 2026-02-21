@@ -1,0 +1,706 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "PAOK FC",
+    "wiki_title": "PAOK FC",
+    "summary": "PAOK FC is often invoked as a symbol of Northern Greek and Constantinopolitan refugee identity to argue for greater regional recognition, to challenge perceived Athens-centric bias in refereeing and federation policy, and to justify calls for investment in Thessaloniki football. At the same time opponents and commentators point to episodes of hooliganism, nationalist imagery or politicized fan groups to criticize the club’s social responsibility and press for tighter oversight and sanctions.",
+    "queries": [
+      "How do people view PAOK FC’s managerial decisions this season?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "sporting performance",
+    "wiki_title": "sport",
+    "summary": "In debates about PAOK FC, \"sport\" is invoked to portray the club as a symbol of regional identity and civic pride, legitimizing public investment in stadiums, youth academies and commercial expansion as necessary for competitive success. At the same time sporting values like fair play and meritocratic competition are used to criticize PAOK over fan violence, alleged referee bias or governance failures, prompting calls for stricter regulation, transparency and disciplinary intervention.",
+    "queries": [
+      "What effects has PAOK FC's sporting performance had on morale?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "super league greece",
+    "wiki_title": "super league greece",
+    "summary": "Super League Greece is frequently cited in arguments over PAOK FC’s legitimacy and competitive prospects—critics point to league disciplinary decisions, refereeing controversies, and revenue distribution as evidence that PAOK benefits from or suffers unequal treatment. Supporters and club voices use Super League rules and governance failings to justify protests, demand reforms, or defend PAOK’s title claims and appeals in domestic and European competition.",
+    "queries": [
+      "How do fans view super league greece decisions affecting PAOK FC?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "greek cup",
+    "wiki_title": "greek football cup",
+    "summary": "The Greek Football Cup is often used as a barometer for PAOK’s credibility: supporters point to cup triumphs to claim resilience and trophy-winning culture, while critics highlight painful cup failures, controversial eliminations or refereeing disputes to argue the club suffers from inconsistency, poor management, or undue advantage. Cup results also drive public debates about coaching, transfers and fan behavior and intensify rivalries (especially with Olympiakos, AEK and Aris), shaping calls for policy or leadership changes at the club.",
+    "queries": [
+      "How do supporters view PAOK in the greek cup?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "panathinaikos f.c.",
+    "wiki_title": "panathinaikos f.c.",
+    "summary": "Panathinaikos is invoked as PAOK’s principal rival and benchmark in public debates, used to argue about which club is more legitimate, successful, or entitled to bragging rights in title races and head-to-head encounters. References to Panathinaikos also fuel narratives about Athens-versus-Thessaloniki bias—supporting claims that Athens clubs get institutional advantages or, conversely, serving to criticize PAOK’s performance and management—thus shaping positions on refereeing fairness, league governance, and regional identity.",
+    "queries": [
+      "Is Panathinaikos F.C.'s rivalry with PAOK FC justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "razvan lucescu",
+    "wiki_title": "răzvan lucescu",
+    "summary": "Răzvan Lucescu is often cited in debates about PAOK’s sporting strategy as proof that hiring an experienced, tactically disciplined coach can deliver trophies and raise the club’s ambitions; supporters use his tenure to argue for managerial continuity and higher standards, while critics point to his departure or treatment as evidence of poor leadership and instability at the club.",
+    "queries": [
+      "Are razvan lucescu's team selections for PAOK justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "mircea lucescu",
+    "wiki_title": "mircea lucescu",
+    "summary": "Mircea Lucescu is frequently invoked in debates about PAOK as a benchmark for continental coaching excellence — supporters cite his long-term European success to argue PAOK should hire proven tacticians, invest in youth and scouting, and aim higher in Europe, while critics use comparisons with Lucescu to condemn the club’s hiring choices and lack of ambition when results fall short.",
+    "queries": [
+      "Is Mircea Lucescu’s management at PAOK FC reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "pontic greeks",
+    "wiki_title": "pontic greeks",
+    "summary": "PAOK’s Pontic Greek roots are frequently invoked by fans, club officials, and politicians to frame the team as a symbol of refugee heritage, regional pride, and moral legitimacy—bolstering narratives of resilience and anti-establishment identity. Critics counter that this framing can be used to justify exclusionary or nationalist rhetoric in fan culture and to mobilize ethnic-based political appeals.",
+    "queries": [
+      "Is Pontic Greeks' influence on PAOK FC reasonable or overstated?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "fan culture and ultras",
+    "wiki_title": "ultras",
+    "summary": "PAOK's ultras (notably Gate 4) are frequently invoked to cast the club as rooted in raw local identity and anti‑commercial passion, a constituency that pressures management, shapes atmosphere at Toumba and is defended as authentic fan culture. Opponents, however, cite episodes of violence and politicised behavior linked to these groups to argue PAOK faces reputation, safety and governance problems that justify harsher policing, sanctions or reforms.",
+    "queries": [
+      "What effects has PAOK FC's fan culture and ultras caused?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "gate 4",
+    "wiki_title": "gate 4",
+    "summary": "Gate 4 is routinely invoked in discussions about PAOK as the club’s influential fan base that legitimizes hardline, club-first stances—pressuring management, shaping narratives about refereeing and rival clubs, and rallying supporters—while critics and authorities point to its militant reputation to fault PAOK for tolerating hooliganism and to justify calls for tighter governance and security.",
+    "queries": [
+      "Is gate 4 at PAOK FC reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-8",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "pyrotechnics",
+    "wiki_title": "pyrotechnics",
+    "summary": "Pyrotechnics—notably flares and smoke used by PAOK supporters—are invoked in public debates as emblematic of the club’s passionate, traditional fan culture, with defenders framing them as integral to matchday atmosphere and identity. Opponents, authorities and governing bodies counter by highlighting safety and legal risks to justify sanctions, tougher policing and stadium restrictions, shaping policy decisions and public perceptions of PAOK as tolerant of risky or disorderly fan behavior.",
+    "queries": [
+      "How do fans view PAOK FC pyrotechnics during games?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "toumba stadium",
+    "wiki_title": "toumba stadium",
+    "summary": "Toumba Stadium is invoked as the symbolic core of PAOK FC to justify narratives of authenticity, intimidating home advantage, and passionate supporter identity, while opponents use it to criticize the club over hooliganism, safety concerns, and resistance to modernization. Debates about renovation, naming rights, and policing at Toumba therefore shape arguments about PAOK’s governance, commercial direction, and relations with the state and local community.",
+    "queries": [
+      "Is PAOK FC’s toumba stadium renovation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "aris thessaloniki",
+    "wiki_title": "aris thessaloniki",
+    "summary": "Aris Thessaloniki is routinely invoked in debates about PAOK to sharpen the local rivalry—fans and pundits use Aris comparisons to celebrate PAOK’s dominance or to amplify grievances after derby results and contentious club decisions. The rivalry also frames criticism and policy arguments: incidents involving Aris are cited to justify policing, stadium restrictions, or to accuse PAOK of mismanagement, fan violence, or receiving municipal favoritism.",
+    "queries": [
+      "What impact has Aris Thessaloniki had on local football culture?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "thessaloniki derby",
+    "wiki_title": "derby of thessaloniki",
+    "summary": "The Derby of Thessaloniki is frequently invoked to frame PAOK FC’s stature and local legitimacy—big wins are used to bolster management, fan identity, and claims of regional dominance, while losses fuel criticism of coaching, recruitment and club direction. It’s also central to debates about fan behaviour, policing and alleged refereeing bias, being cited both to justify tougher security measures and to argue that PAOK is unfairly targeted by media or authorities.",
+    "queries": [
+      "What effects has the Thessaloniki derby had on local football?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "kleanthis vikelidis stadium",
+    "wiki_title": "kleanthis vikelidis stadium",
+    "summary": "As the home ground of PAOK’s city rival Aris, Kleanthis Vikelidis is often invoked in conversations about the Thessaloniki derby to frame arguments over crowd behavior, policing and matchday safety—used both to call for tougher security measures and to allege unequal treatment by authorities. It also functions as a point of comparison in debates over stadium investment, deployed to justify calls for upgrades to PAOK’s facilities or to accuse rivals of receiving municipal favoritism.",
+    "queries": [
+      "How do fans view kleanthis vikelidis stadium's atmosphere?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "olympiacos f.c.",
+    "wiki_title": "olympiacos f.c.",
+    "summary": "Olympiacos is routinely invoked in debates about PAOK as the archetypal rival and symbol of the Athens/Piraeus establishment, so results between them are used to argue either that PAOK is asserting northern regional pride or that it is a victim of biased refereeing and institutional favoritism. This dynamic shapes public calls for tougher club policies (legal challenges, recruitment strategies) when PAOK faces Olympiacos and fuels criticism of fairness and governance in Greek football.",
+    "queries": [
+      "What effects has olympiacos f.c. had on PAOK FC fan relations?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "vangelis marinakis",
+    "wiki_title": "evangelos marinakis",
+    "summary": "Evangelos Marinakis is frequently invoked by PAOK supporters, officials and media as the archetype of oligarchic influence in Greek football—portrayed as a powerful Olympiacos owner whose alleged political and judicial leverage is used to frame refereeing, governance and legal disputes as biased against PAOK. Critics cite him to justify demands for greater transparency, conflict-of-interest rules and institutional reform, while opponents dismiss such claims as politicized attacks that exaggerate his role.",
+    "queries": [
+      "What impact has Vangelis Marinakis had on PAOK’s public image?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "match fixing in greek football",
+    "wiki_title": "match fixing in association football",
+    "summary": "Accusations and fears about match-fixing are often invoked in debates over PAOK FC to either delegitimize the club’s results (by alleging corrupt refereeing or criminal betting influence) or to portray PAOK as a victim of a rigged Greek system; these narratives are used to push for investigations, stronger oversight and integrity reforms or to attack the club’s legitimacy in rival fan and media arguments.",
+    "queries": [
+      "Is match fixing in greek football affecting PAOK FC reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "football hooliganism",
+    "wiki_title": "football hooliganism",
+    "summary": "Allegations of football hooliganism are frequently mobilized to portray PAOK FC as unsafe or poorly controlled, supporting arguments for stricter policing, league sanctions, stadium restrictions, or broader reforms of Greek football governance. Conversely, fans and club defenders use the same issue to downplay incidents as the actions of a fringe minority or to frame them as excesses of passionate support and resistance to rivals or authorities.",
+    "queries": [
+      "What social impacts has football hooliganism produced?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "hellenic police",
+    "wiki_title": "hellenic police",
+    "summary": "Hellenic Police interventions at PAOK matches—arrests, crowd control measures and stadium closures—are invoked to frame the club either as a hotbed of hooliganism that merits tougher oversight or as a target of heavy‑handed, biased policing. Police reports, footage and sanctions are used by rivals and authorities to justify fines and bans, while supporters and commentators cite alleged misconduct or selective enforcement to argue PAOK is being unfairly treated.",
+    "queries": [
+      "Are hellenic police tactics at PAOK fixtures justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "financial governance and ownership",
+    "wiki_title": "governance",
+    "summary": "In debates about PAOK FC, governance is invoked to criticize the club’s ownership and board for opaque decision‑making, political interference and weak accountability—used by opponents to demand sanctions, transparency, and reform over finances, fan safety and sporting integrity. Conversely, supporters and the club often frame governance arguments to claim biased enforcement by league and federation bodies, pushing for procedural changes or protections against politicized penalties.",
+    "queries": [
+      "Is PAOK FC's financial governance and ownership reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "hellenic football federation",
+    "wiki_title": "hellenic football federation",
+    "summary": "In debates about PAOK FC the Hellenic Football Federation is invoked as the official authority whose disciplinary rulings, referee appointments, and governance decisions are used to justify sanctions or validate complaints about match outcomes; conversely supporters and commentators often criticize the federation for alleged bias or inconsistent rule enforcement that they say disadvantages PAOK and protects rival clubs. This dual role makes the HFF a focal point for calls for greater transparency and reform or for accusations that institutional unfairness shapes PAOK’s competitive fortunes.",
+    "queries": [
+      "How do people view the hellenic football federation regarding PAOK FC?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "state aid (eu)",
+    "wiki_title": "state aid (european union)",
+    "summary": "In debates about PAOK FC, EU state-aid arguments are used by critics to claim the club has benefited from unfair public subsidies (e.g., stadium projects, land deals or tax breaks), framing PAOK as enjoying a competitive advantage that warrants European Commission scrutiny or sanctions. Supporters counter that such funding is legitimate regional-development investment that justifies public backing and opposes punitive enforcement that could harm the local economy and club stability.",
+    "queries": [
+      "Is PAOK FC receiving state aid (EU) reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "paok arena",
+    "wiki_title": "paok bc",
+    "summary": "PAOK BC is often invoked in debates about PAOK FC to argue either that the club’s multi-sport success enhances institutional prestige and justifies centralized investment, or that uneven results and financial choices in the basketball arm reveal mismanagement and favoritism that undermine the football side; commentators cite PAOK BC when arguing for or against club governance, spending priorities, and the club’s broader identity.",
+    "queries": [
+      "How do people view paok arena atmosphere at PAOK FC matches?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "government of greece",
+    "wiki_title": "government of greece",
+    "summary": "The Greek government is frequently invoked in public debates about PAOK FC—critics allege it can favor or marginalize the club through choices on stadium funding, policing at matches, and regulatory enforcement, while supporters argue state intervention is necessary for public order and to legitimize infrastructure or ownership changes. Discussions of government involvement also fuel narratives about corruption, refereeing fairness, and club governance, shaping whether PAOK is portrayed as a proud regional institution or as a beneficiary of political favoritism.",
+    "queries": [
+      "Is the government of greece’s involvement with PAOK FC justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "european commission",
+    "wiki_title": "european commission",
+    "summary": "In debates about PAOK FC, the European Commission is often invoked as an external arbiter to challenge alleged state favouritism or public funding for the club and to demand compliance with EU rules on state aid, competition and anti-discrimination; critics call on the Commission to investigate subsidies or governance failings, while defenders warn that EU enforcement can be portrayed as overreach into national sporting affairs.",
+    "queries": [
+      "How do people view the european commission's role with PAOK FC?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "stadium subsidies",
+    "wiki_title": "stadium subsidy",
+    "summary": "Calls for public funding of a new or renovated PAOK stadium are presented by proponents as an investment in local regeneration, jobs and civic pride, while critics use the subsidy frame to argue the club’s owners receive unfair, elite benefits at the expense of schools and infrastructure; the debate often becomes a partisan, vote-motivated issue for local politicians.",
+    "queries": [
+      "Are PAOK FC’s stadium subsidies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "regional identity and politics",
+    "wiki_title": "national and regional identity in spain",
+    "summary": "Debates about national and regional identity in Spain—especially the Catalonia/Spain divide—are often used as a comparative frame when discussing PAOK FC, portraying the club as a regional and ethnic symbol for northern Greece and Pontic refugee heritage; this analogy is invoked both to justify fans’ political and cultural displays and to criticize the club as exclusionary or overly nationalist, and it informs arguments over whether football clubs should police political symbols and regionalist expression.",
+    "queries": [
+      "What effects has PAOK FC’s regional identity and politics caused?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "macedonia naming dispute",
+    "wiki_title": "macedonia naming dispute",
+    "summary": "The Macedonia naming dispute is frequently invoked by PAOK supporters and local politicians to frame the club as a guardian of Greek Macedonian identity—justifying nationalist chants, symbols and opposition to recognition or sporting ties with North Macedonia—while opponents use the same dispute to criticize PAOK for xenophobia, political grandstanding and for complicating transfers and cross‑border matches.",
+    "queries": [
+      "How do PAOK fans view the Macedonia naming dispute?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "vergina sun",
+    "wiki_title": "vergina sun",
+    "summary": "PAOK supporters and occasional club imagery employ the Vergina Sun as a visual shorthand of Greek Macedonian identity, using it to frame the club as a guardian of regional pride and historical claims in rivalries and political debates; opponents and commentators often criticize such use as politicizing the club, signaling exclusionary nationalism, and inflaming tensions during disputes over Macedonian identity.",
+    "queries": [
+      "What consequences has PAOK’s vergina sun use had?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "north macedonia",
+    "wiki_title": "north macedonia",
+    "summary": "References to North Macedonia are often invoked in arguments about PAOK FC’s regional and national identity—supporters use the Macedonian connection to bolster PAOK’s claim as the club of Greek Macedonia, while critics and nationalists cite player links or fan interactions with North Macedonia to allege foreign influence or stoke controversy, especially around the Macedonia naming dispute and high-profile transfers.",
+    "queries": [
+      "How do people view North Macedonia players at PAOK FC?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "greek nationalism",
+    "wiki_title": "greek nationalism",
+    "summary": "Greek nationalism is often mobilized around PAOK as a symbol of Northern Greek and Asia Minor refugee identity, with fans and some politicians framing the club’s successes as expressions of national/regional pride and justifying anti-Turkish rhetoric or exclusionary chants; conversely, opponents use charges of nationalism to criticize parts of PAOK’s ultras and leadership for xenophobia and hooliganism and to push for policing, antidiscrimination measures, or the depoliticization of the club.",
+    "queries": [
+      "Is PAOK FC's association with greek nationalism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "asia minor refugees",
+    "wiki_title": "greek refugees",
+    "summary": "References to Greek refugees are central to how PAOK FC is presented and defended: supporters and club rhetoric invoke its refugee-founders to cast PAOK as a proud, resilient, regionally rooted underdog with strong local solidarity and anti‑establishment credentials. Critics and rival fans, meanwhile, deploy the same refugee framing to either question the club’s political stances (portraying it as nationalist or exclusionary) or to contest claims about heritage, municipal support, and historical memory.",
+    "queries": [
+      "Is PAOK’s connection to asia minor refugees significant or not?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "constantinople greeks",
+    "wiki_title": "constantinople",
+    "summary": "References to Constantinople are used by PAOK supporters to anchor the club’s identity in the legacy of Constantinopolitan Greek refugees—framing PAOK as a proud, historical community club and a symbol of Byzantine/Orthodox heritage that can justify nationalist sentiment and antagonism toward Turkish rivals; critics and rivals invoke the same connection to label PAOK’s identity as overly reactionary or to challenge the club’s modern political claims and privileges.",
+    "queries": [
+      "How do people view constantinople greeks in PAOK fan culture?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "population exchange (greece–turkey)",
+    "wiki_title": "population exchange between greece and turkey",
+    "summary": "PAOK’s refugee origins from Asia Minor are routinely framed through the 1923 population exchange to validate the club’s Constantinopolitan identity and moral heritage, bolstering supporter pride and sometimes nationalist, anti‑Turkish rhetoric in club culture and chants. Critics say this selective invocation fosters exclusionary, ethno‑nationalist narratives, while others deploy it more benignly to commemorate refugee memory and cultural continuity.",
+    "queries": [
+      "How do fans view the population exchange (greece–turkey) affecting PAOK FC?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "greco-turkish war (1919–1922)",
+    "wiki_title": "greco-turkish war (1919–1922)",
+    "summary": "References to the Greco-Turkish War are often used to anchor PAOK’s identity as a club of Asia Minor refugees, legitimizing narratives of historical victimhood, regional pride and nationalist sentiment among supporters; critics argue such invocations weaponize trauma to stoke anti‑Turkish attitudes, exclusionary localism, or to advance club-aligned political agendas.",
+    "queries": [
+      "How do people view the greco-turkish war (1919–1922)’s role for PAOK?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "double-headed eagle",
+    "wiki_title": "double-headed eagle",
+    "summary": "PAOK’s double‑headed eagle emblem is often used by fans and club figures to claim a Byzantine/Constantinopolitan refugee heritage and to bolster narratives of local pride and cultural continuity; critics counter that its overt historical and religious connotations can be (and sometimes are) invoked to justify exclusionary, nationalist or far‑right stances within supporter culture and public debates about the club.",
+    "queries": [
+      "What discussions has the double-headed eagle sparked among PAOK supporters?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "athens-thessaloniki rivalry",
+    "wiki_title": "panathinaikos–paok rivalry",
+    "summary": "The Panathinaikos–PAOK rivalry is often invoked to cast PAOK as the proud Thessaloniki underdog opposing Athens-based power, bolstering narratives of regional identity and claims of institutional bias that justify fan solidarity and calls for fairer officiating. Opponents and critics, however, use the rivalry to depict PAOK as overly aggressive or prone to hooliganism, supporting arguments for tighter policing, sanctions, and stricter club governance.",
+    "queries": [
+      "How do PAOK fans view the athens-thessaloniki rivalry?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "ert3",
+    "wiki_title": "ert3",
+    "summary": "ERT3, the Thessaloniki public broadcaster, is often invoked in debates about PAOK FC for amplifying regional and fan perspectives—promoting the club's achievements and grievances (especially over refereeing or federation decisions) to build public pressure. It also occasionally frames investigative or critical coverage of club governance, contributing to calls for transparency or administrative change.",
+    "queries": [
+      "Is PAOK’s airtime on ert3 reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media coverage and scandals",
+    "wiki_title": "media coverage of catholic sexual abuse cases",
+    "summary": "In debates about PAOK FC, high-profile media coverage of Catholic sexual abuse cases is often invoked as a benchmark for institutional accountability—critics argue the same relentless investigative scrutiny should be applied to allegations of corruption, abuse, or mishandling of hooliganism at the club. Conversely, PAOK supporters sometimes point to perceived media selectivity in those scandals to accuse mainstream outlets of hypocrisy or bias, framing criticism of the club as politically or regionally motivated rather than principled.",
+    "queries": [
+      "What effects has media coverage and scandals had on PAOK FC?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "ivan savvidis",
+    "wiki_title": "ivan savvidi",
+    "summary": "Supporters portray Ivan Savvidi as the decisive benefactor who rescued and modernized PAOK through heavy investment and hands-on ownership, a narrative used to justify ambitious spending and centralized control over sporting and infrastructure decisions. Critics counter that his stewardship exemplifies oligarchic meddling and politicization—citing episodes of confrontational behavior and alleged interference with refereeing and governance—to frame PAOK as compromised by undue influence and a symptom of broader problems in Greek football.",
+    "queries": [
+      "What effects has ivan savvidis had on PAOK's reputation?"
+    ]
+  },
+  {
+    "id": "C6-1-1",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "aek athens f.c.",
+    "wiki_title": "aek athens f.c.",
+    "summary": "AEK Athens FC is often invoked as PAOK’s principal Athens-based foil in public debates, used by PAOK fans to argue against perceived Athenian bias in refereeing, governance and media coverage, and to justify grievances over disputed titles and sanctions. Conversely, critics cite AEK’s achievements to frame PAOK as less ambitious or poorly managed, shaping arguments about transfers, coaching decisions and regional rivalry.",
+    "queries": [
+      "What effects has aek athens f.c. had on PAOK FC rivalries?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "2018 pitch invasion",
+    "wiki_title": "pitch invasion",
+    "summary": "Pitch invasions involving PAOK are used in public debates to signal the passion and solidarity of the club’s supporters—often defended by fans as spontaneous celebration or protest—while critics and authorities cite such incidents to portray PAOK as prone to disorder, arguing for sanctions, tighter policing, and greater club accountability.",
+    "queries": [
+      "How do supporters view PAOK FC's 2018 pitch invasion?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "russian oligarchs",
+    "wiki_title": "russian oligarchs",
+    "summary": "References to \"Russian oligarchs\" are often invoked in discussions of PAOK to signal that the club is under the sway of a wealthy, politically connected foreign owner (notably Ivan Savvidis), fueling critiques about corruption, undue political influence, and competitive distortion in Greek football. Supporters counter that oligarch-style investment has stabilized the club financially and improved on-field competitiveness, so the label is used both to delegitimize decisions and to justify acceptance of powerful benefactors.",
+    "queries": [
+      "What consequences do russian oligarchs' ties to PAOK FC cause?"
+    ]
+  },
+  {
+    "id": "C6-1-7",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "sportswashing",
+    "wiki_title": "sportswashing",
+    "summary": "Accusations of sportswashing are used to claim PAOK is being leveraged by wealthy owners to burnish reputations and distract from political ties, legal troubles, or nationalist agendas, while supporters counter that investment and community projects are legitimate club-building; this contention shapes debates over owner accountability, limits on foreign or politically connected investment, and whether the club’s successes mask broader ethical concerns.",
+    "queries": [
+      "How do fans view sportswashing tied to PAOK FC?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "referee controversies",
+    "wiki_title": "list of 2010 fifa world cup controversies",
+    "summary": "References to the 2010 FIFA World Cup controversies are used in discussions about PAOK FC to frame the club’s complaints about refereeing, corruption, or institutional bias as part of broader, systemic failures in football governance—bolstering calls for transparency and reform—while opponents cite the same controversies to dismiss PAOK’s grievances as opportunistic or conspiratorial rather than evidence-based.",
+    "queries": [
+      "Are PAOK FC's referee controversies justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "var",
+    "wiki_title": "var",
+    "summary": "VAR figures centrally in debates about PAOK FC, with fans and commentators citing specific VAR interventions—overturned goals, disallowed penalties, or non-calls—to allege referee bias or institutional favoritism toward rivals and to justify protests against league governance. Opponents use VAR confirmations to rebut those claims, while both sides invoke VAR incidents to push for policy changes like greater transparency, clearer protocols, or expanded review powers.",
+    "queries": [
+      "How do fans view var decisions affecting PAOK FC?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "koriopolis",
+    "wiki_title": "koriopolis",
+    "summary": "References to Koriopolis are frequently invoked in debates about PAOK FC to allege that the club either benefited from or was implicated in systemic match-fixing and corrupt refereeing, bolstering calls for prosecutions and tighter governance; conversely, PAOK supporters and officials use the scandal’s selective interpretation to argue the club was unfairly targeted, framing criticism as institutional bias.",
+    "queries": [
+      "Is koriopolis's impact on PAOK FC justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "cas",
+    "wiki_title": "cas",
+    "summary": "PAOK and its supporters frequently invoke CAS rulings when contesting UEFA or federation disciplinary decisions, using favorable appeals to claim vindication from alleged bias and to secure reinstatement, reduced penalties, or preservation of European eligibility. Rival fans and critics, however, portray PAOK’s reliance on CAS outcomes as evidence of exploiting legal technicalities to avoid sporting accountability and gain competitive advantage.",
+    "queries": [
+      "Is PAOK’s CAS appeal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "uefa sanctions",
+    "wiki_title": "uefa",
+    "summary": "UEFA functions as the external arbiter in debates about PAOK: its allocation of Champions/Europa/Conference places, prize money and coefficient system are cited by supporters to argue PAOK is structurally disadvantaged versus wealthier Western clubs and by critics to explain the club’s limited European progress. UEFA’s disciplinary rulings, refereeing oversight and stadium licensing are also deployed in public arguments—fans claim bias when sanctions or officiating harm PAOK, while opponents point to UEFA sanctions as evidence PAOK must clean up behavior and infrastructure to compete fairly.",
+    "queries": [
+      "How do fans view PAOK FC’s uefa sanctions?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "sport24",
+    "wiki_title": "news24 (website)",
+    "summary": "News24’s Sport24 coverage and opinion pieces are used by English-speaking audiences to contextualize PAOK FC’s European performances, transfers and controversies, framing the club either as an ambitious challenger or as a side plagued by managerial and governance problems. Its analysis and commentary tend to emphasize coaching accountability, fan behavior and institutional shortcomings, which often bolster critical narratives about the club’s leadership and decision‑making.",
+    "queries": [
+      "Is sport24's coverage of PAOK FC reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "greek football match‑fixing",
+    "wiki_title": "2015 greek football match-fixing scandal",
+    "summary": "The 2015 match‑fixing scandal is often invoked in arguments about PAOK’s legitimacy and the fairness of Greek football — opponents and critical commentators use it to suggest systemic corruption that could affect PAOK’s results or governance, while PAOK supporters counter that investigations are selectively applied and reflect political or institutional bias against the club. It is also cited by reformers as evidence that stronger oversight of refereeing, competition rules, and club governance is needed to protect or vindicate PAOK depending on one’s stance.",
+    "queries": [
+      "How do fans view alleged greek football match‑fixing?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "commercial sponsorships and branding",
+    "wiki_title": "celebrity branding",
+    "summary": "Local and national celebrities—athletes, musicians and public figures—are used to amplify PAOK FC’s brand, attract sponsors and build narratives of Thessaloniki pride or economic benefit around stadium projects and merchandising. At the same time such endorsements are criticized when celebrities’ politics or commercial motives clash with fan culture, fueling claims that the club is being over‑commercialized or used for political image‑making rather than sporting integrity.",
+    "queries": [
+      "How do fans view commercial sponsorships and branding at PAOK FC?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "kappa",
+    "wiki_title": "kappa",
+    "summary": "As a kit supplier and visible sponsor, Kappa is often invoked in debates about PAOK’s identity and commercialization—supporters cite its professional designs and sponsorship revenue as signs of progress, while critics argue brand-driven kits dilute tradition, prioritize fashion over club heritage, and justify higher merchandise prices.",
+    "queries": [
+      "Is kappa’s sponsorship of PAOK FC justified or not?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "nova sports",
+    "wiki_title": "novasports",
+    "summary": "Novasports’ live broadcasts, highlights and pundit panels heavily shape public opinion about PAOK FC by amplifying performances, framing controversies (transfers, managerial choices, refereeing/VAR incidents) and serving as a frequent source cited when fans accuse broadcasters or rivals of bias. Its control of match exposure and analysis also feeds debates over TV-rights revenue and commercialization, used to justify or oppose policy decisions that affect PAOK’s financial and reputational standing.",
+    "queries": [
+      "Is nova sports’ coverage of PAOK FC balanced or biased?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "olympiacos",
+    "wiki_title": "olympiacos cfp",
+    "summary": "Olympiacos is invoked as PAOK’s principal rival and performance benchmark, shaping narratives that cast PAOK either as an embattled northern underdog fighting Athenian dominance or as failing when it falls short in title races. References to Olympiacos also fuel disputes over refereeing bias, corruption, and fan violence, and are used to justify calls for institutional reform or to criticize PAOK’s management and ambitions.",
+    "queries": [
+      "How do fans view olympiacos in PAOK rivalry?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "video assistant referee",
+    "wiki_title": "video assistant referee",
+    "summary": "VAR is frequently invoked in debates around PAOK FC, with fans and club figures claiming inconsistent or biased interventions have cost the team points or championships and framing such incidents as evidence of institutional unfairness; opponents sometimes cite VAR checks to defend adverse decisions. These controversies are used both to demand greater transparency and independent VAR oversight in Greek football and by skeptics to argue the system remains unreliable or manipulable.",
+    "queries": [
+      "Is video assistant referee intervention against PAOK FC reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "broadcasting rights",
+    "wiki_title": "broadcasting rights",
+    "summary": "Broadcasting rights often drive arguments about PAOK FC's finances and competitive standing—fans and club officials complain that opaque sales, pay-TV deals and Athens‑centric scheduling limit revenue and exposure, weakening the club compared with rivals. Critics invoke broadcast arrangements to charge media bias or to justify protests and calls for transparent, collective selling, while proponents argue lucrative rights are necessary for the club's modernization and growth.",
+    "queries": [
+      "What effects have PAOK's broadcasting rights had?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "byzantine double-headed eagle",
+    "wiki_title": "byzantine flags and insignia",
+    "summary": "PAOK supporters and club imagery frequently invoke Byzantine flags and the double‑headed eagle to foreground the team's Constantinopolitan refugee origins, asserting historical legitimacy, regional pride, and Orthodox identity as part of a cultural claim against perceived Athenian or rival establishments. Critics and rivals interpret the same symbols as signaling exclusionary nationalism or politicized, sometimes xenophobic sentiments, using that framing to argue for depoliticization of the club, stricter stadium policies, or public censure.",
+    "queries": [
+      "Is PAOK FC adopting the byzantine double-headed eagle reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "byzantine empire",
+    "wiki_title": "byzantine empire",
+    "summary": "Supporters and club imagery frequently invoke the Byzantine Empire—through the double-headed eagle and Constantinople references—to emphasize PAOK FC’s refugee roots, Orthodox Greek identity and to frame rivalries (notably with Turkish-linked teams) in historical and anti‑Ottoman terms. Critics counter that this appropriation of imperial symbolism can legitimize nationalist, exclusionary or revanchist attitudes, while defenders portray it as honoring the club’s Constantinopolitan heritage.",
+    "queries": [
+      "Is invoking the byzantine empire in PAOK’s identity reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-7",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "golden dawn",
+    "wiki_title": "golden dawn",
+    "summary": "References to Golden Dawn are often used by journalists, rival fans and politicians to allege far‑right influence among PAOK’s ultras and to justify calls for sanctions, increased policing, or stricter club oversight; PAOK officials and many supporters, in turn, invoke the accusation as a politicized smear, insisting the club and majority of fans reject extremist politics.",
+    "queries": [
+      "Is Golden Dawn influence among PAOK fans reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8",
+    "level": 3,
+    "topic": "transfer ban",
+    "wiki_title": "transfer (association football)",
+    "summary": "PAOK’s transfer activity is frequently invoked to judge the club’s ambitions and competence—big-money signings and targeted recruits are used to justify claims of European intent and strong ownership, while bargains or academy promotions are touted as smart, sustainable management. Conversely, frequent sales of key players, reliance on foreign imports, or opaque agent dealings are criticized as short-termism that undermines youth development, financial transparency, and long-term competitiveness.",
+    "queries": [
+      "How do fans view the transfer ban at PAOK FC?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "point deduction",
+    "wiki_title": "deduction",
+    "summary": "Commentators, fans, and analysts often use deductive reasoning—drawing conclusions from patterns in match results, refereeing decisions, transfer activity, or financial reports—to argue that PAOK FC is either a well-run club, the victim of biased officiating, or plagued by mismanagement. These deductions shape debates by providing seemingly logical justifications for calls for reform or defenses against allegations, but they also deepen polarization when the underlying premises or selective evidence are disputed.",
+    "queries": [
+      "How do fans view PAOK FC’s point deduction?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "russia–greece relations",
+    "wiki_title": "greece–russia relations",
+    "summary": "Debates about Greece–Russia relations are often used to explain and criticize PAOK FC’s ownership and behavior—critics point to the club’s Russian-linked backers as evidence of oligarchic, politically meddling influence and authoritarian tendencies, while supporters frame those same ties as legitimate diaspora investment and proof of close Greco‑Russian cultural and geopolitical affinity.",
+    "queries": [
+      "How do people view russia–greece relations today?"
+    ]
+  }
+]

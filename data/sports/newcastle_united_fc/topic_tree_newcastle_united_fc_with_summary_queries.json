@@ -1,0 +1,871 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Newcastle United F.C.",
+    "wiki_title": "Newcastle United F.C.",
+    "summary": "Newcastle United is often invoked as a symbol of regional identity and working‑class pride to justify demands for investment, fan influence and ambitious club projects, while opponents and commentators use the club as a focal case in debates over modern football’s commercialization and governance—most prominently framing the Saudi PIF takeover as sportswashing and raising ethical, regulatory and human‑rights concerns.",
+    "queries": [
+      "Is Newcastle United F.C.'s emphasis on star signings reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "sporting performance",
+    "wiki_title": "sport",
+    "summary": "Among supporters and critics of Newcastle United, appeals to 'sport' frame the club as a source of community identity, entertainment and competitive meritocracy—arguments often used to justify investment in players, facilities and youth development. At the same time 'sporting values' are invoked to condemn excessive commercialisation or foreign takeovers as potential sportswashing, and to push for stronger governance, financial fair play and fan protections that prioritize fair competition over outside political or financial interests.",
+    "queries": [
+      "Is Newcastle United's sporting performance reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "eddie howe",
+    "wiki_title": "eddie howe",
+    "summary": "Eddie Howe is often held up as the architect of Newcastle’s on‑pitch revival, with fans and pundits crediting his man‑management, tactical organisation and culture‑building to justify support for the club’s new ownership and transfer strategy. Conversely, critics invoke his selection choices, occasional tactical conservatism, or failure to secure consistent top‑level progress to argue the club needs greater investment, a different footballing direction, or changes in leadership.",
+    "queries": [
+      "How do fans view eddie howe’s transfer decisions at Newcastle?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "bruno guimarães",
+    "wiki_title": "bruno guimarães",
+    "summary": "Bruno Guimarães is often cited as living proof of Newcastle’s post-takeover ambition — his signing and consistently high-level midfield performances are used to justify heavy spending and argue the club can compete for top honours. Conversely, his injuries, tactical use, or form dips are frequently invoked to criticize Newcastle’s squad depth, rotation policy and managerial decisions.",
+    "queries": [
+      "How do fans view Bruno Guimarães' performances for Newcastle United?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "high press",
+    "wiki_title": "high press",
+    "summary": "Commentators and fans often credit Newcastle United’s switch to an energetic high press for their recent improvement, using it to argue the club is tactically modern and to justify signing athletic, high-work-rate players and backing manager Eddie Howe. Critics counter that the system can leave Newcastle exposed on counters and in congested schedules, framing arguments for more squad depth or a more conservative approach in certain fixtures.",
+    "queries": [
+      "Is Newcastle United’s high press a reasonable tactical choice or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "callum wilson",
+    "wiki_title": "callum wilson",
+    "summary": "Callum Wilson is often invoked in debates about Newcastle's recruitment and tactical identity—praised as a pragmatic, experienced Premier League goalscorer who justified signing a proven striker, or criticized as injury‑prone and emblematic of conservative transfer choices that constrained the club’s long‑term ambition. His form and fitness are used to justify selection and system debates (e.g., pairing with a quicker forward) and to argue for either further investment up front or a different recruitment strategy.",
+    "queries": [
+      "How do fans view Callum Wilson’s performance for Newcastle United?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "alexander isak",
+    "wiki_title": "alexander isak",
+    "summary": "Alexander Isak is frequently cited in debates about Newcastle United as proof that the club’s recruitment and post-takeover project can attract and develop top young talent, with supporters pointing to his goals and transfer as vindication of scouting and investment. Conversely, pundits and critics invoke his injuries, form swings or perceived need for greater support to argue the team still lacks reliable elite striking depth and needs further tactical adjustments or spending.",
+    "queries": [
+      "Is alexander isak's role at Newcastle United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "afc bournemouth",
+    "wiki_title": "afc bournemouth",
+    "summary": "AFC Bournemouth is frequently invoked in debates about Newcastle United as the archetype of a small-club, coaching- and recruitment-driven rise, used to criticize Newcastle’s reliance on big-money, state-backed investment and to argue for meritocratic squad-building. It’s also cited as a cautionary example in discussions about sustainability and financial rules, prompting calls for Newcastle to balance ambition with longer-term planning rather than short-term spending.",
+    "queries": [
+      "How do Newcastle United fans view afc bournemouth's playing style?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "england national team",
+    "wiki_title": "england team",
+    "summary": "Whether Newcastle players are picked for the England team is frequently used as shorthand for the club’s standing and player quality—supporters point to call‑ups as proof of Newcastle’s resurgence and recruiting success, while critics highlight omissions to attack coaching, recruitment, or perceived selection bias. Debates over call‑ups also feed club‑vs‑country conflicts (injury risk, availability) and are cited in transfer/valuation and policy arguments about the club’s ambitions and regional representation.",
+    "queries": [
+      "How do fans view the England national team selections involving Newcastle United?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "hamstring strain",
+    "wiki_title": "pulled hamstring",
+    "summary": "References to a pulled hamstring are often invoked to explain absences of key Newcastle players and to shape debate about the club’s squad depth, rotation and fixture management; clusters of hamstring injuries are used to justify demands for better medical/sports‑science investment and transfers or to criticize coaching, conditioning and pitch scheduling when results suffer.",
+    "queries": [
+      "What consequences could a hamstring strain have for Newcastle United’s season?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "saudi public investment fund",
+    "wiki_title": "public investment fund",
+    "summary": "Public investment funds (most notably Saudi Arabia's PIF in Newcastle's 2021 takeover) are cited by supporters to justify rapid investment, ambition and a return to competitiveness for the club. Critics use the fund's state links to frame the ownership as sportswashing and a source of unfair, politicized advantage, driving calls for stricter ownership rules and ethical scrutiny.",
+    "queries": [
+      "How do fans view the saudi public investment fund's role at Newcastle?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "premier league",
+    "wiki_title": "premier league",
+    "summary": "In debates about Newcastle United, the Premier League is invoked to justify expectations of rapid spending, high recruitment standards and top-table ambitions—arguing that lucrative TV revenue and top-flight status oblige the club to compete with the established elites or, conversely, that the league’s wealth disparities skew competition. It’s also used to frame controversies over the club’s ownership and governance (sportswashing, FFP scrutiny) and to measure legitimacy through league position, relegation risk, and access to European competition.",
+    "queries": [
+      "What impact has the premier league had on Newcastle United's growth?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "uefa champions league",
+    "wiki_title": "uefa champions league",
+    "summary": "The Champions League is treated as the chief benchmark for Newcastle United’s project—supporters and the club cite UCL qualification as justification for heavy spending and managerial change as proof the Saudi-led takeover is delivering elite ambition and legitimacy. Opponents and commentators use the competition to criticise perceived ‘buying’ of success and to push for stricter UEFA/FFP and state-ownership rules, arguing Newcastle’s path to Europe exposes regulatory and ethical problems.",
+    "queries": [
+      "How do fans view Newcastle United's uefa champions league prospects?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "uefa coefficient",
+    "wiki_title": "uefa coefficient",
+    "summary": "Newcastle's UEFA club coefficient is often used in debates about the club's European standing and seeding: supporters argue the metric lags behind the team's rapid post-takeover rise and thus unfairly penalises them in draws, while critics and rival fans point to a low coefficient to justify tougher group assignments and to argue Newcastle have not yet earned elite status or special consideration.",
+    "queries": [
+      "How do fans view Newcastle United’s UEFA coefficient standing?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "european super league",
+    "wiki_title": "european super league",
+    "summary": "The European Super League debate is frequently used to question whether Newcastle’s Saudi-backed ownership will drive the club toward elitist, commercial-driven competition models, fueling criticism that PIF-era spending worsens inequality and undermines Premier League solidarity. Supporters counter by invoking legal rulings and pro-ESL arguments to justify Newcastle pursuing lucrative continental opportunities, framing the club as a legitimate global competitor rather than a threat to open competition.",
+    "queries": [
+      "Is the European Super League right for Newcastle United?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "transfer market",
+    "wiki_title": "transfer market",
+    "summary": "Debates about the transfer market are used to judge Newcastle’s ambition and ownership — supporters point to heavy spending and high-profile signings as proof the new owners are serious, while critics use perceived overpayment, risky recruitment or slow activity in windows to accuse the club of mismanagement, short-termism, or flouting financial rules. Transfer-window moves (summer and January) therefore become focal evidence in arguments over the manager’s competence, the board’s priorities, and whether the club’s project is sustainable or merely PR-driven.",
+    "queries": [
+      "What impact has the transfer market had on Newcastle United's progress?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "summer transfer window",
+    "wiki_title": "transfer window",
+    "summary": "Transfer-window activity is a primary yardstick fans, pundits and rivals use to judge Newcastle’s direction—portraying heavy summer spending under the new ownership as evidence of ambition and smart recruitment, while citing past inactivity or cautious January windows to criticize previous management for limiting progress. Arguments about deadline-day deals, loan-versus-permanent tactics and compliance with financial rules are also deployed to frame Newcastle’s moves as either necessary short-term boosts to climb the table or risky, unsustainable shortcuts to success.",
+    "queries": [
+      "Is Newcastle United's summer transfer window spending reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "transfer fees",
+    "wiki_title": "transfer (association football)",
+    "summary": "Transfers are a focal point in debates about Newcastle United: supporters cite high‑profile signings after the takeover as proof of renewed ambition and rapid progress, while critics use heavy spending and aggressive transfer strategies to accuse the ownership of sportswashing, risking FFP breaches, or relying on short‑term fixes that mask deeper structural problems.",
+    "queries": [
+      "Are Newcastle United transfer fees justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "football agents",
+    "wiki_title": "sports agent",
+    "summary": "In debates about Newcastle United, sports agents are portrayed as the power-brokers behind high-profile signings and wage demands—celebrated when they secure elite talent for the club but blamed when negotiation leaks, hefty commissions or inflated transfer fees are seen to undermine club finances or sporting strategy. Their role is invoked to argue for greater transfer transparency and fee regulation, or alternatively to defend players’ market mobility and Newcastle’s aggressive spending under new ownership.",
+    "queries": [
+      "Is reliance on football agents by Newcastle United justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "financial fair play",
+    "wiki_title": "uefa financial fair play regulations",
+    "summary": "UEFA's Financial Fair Play rules are frequently invoked in debates over Newcastle's Saudi-backed ownership and rapid transfer spending, with critics alleging the club could be benefiting from state-linked funding or creative sponsorship valuations that undermine competitive balance. Supporters counter that deals are lawful and call for clear, consistent enforcement, so FFP serves as the central frame for arguments about fairness, regulatory reform, and whether regulators should clamp down on or adapt rules for modern ownership models.",
+    "queries": [
+      "What effects has financial fair play had on Newcastle United?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "club ownership and governance",
+    "wiki_title": "governance",
+    "summary": "Arguments about governance dominate debates over Newcastle United, used to scrutinize ownership, board transparency and Premier League oversight after the Saudi PIF takeover—supporters credit centralized control for renewed investment and ambition, while critics warn of sportswashing and insufficient accountability. These governance concerns shape policy positions calling either for stronger regulation, fan representation and human‑rights conditionality or for managerial freedom and centralized, investment‑led decision‑making to pursue competitiveness.",
+    "queries": [
+      "How do fans view club ownership and governance at Newcastle United F.C.?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "reuben brothers",
+    "wiki_title": "david and simon reuben",
+    "summary": "As wealthy co-investors in Newcastle United's ownership group, the Reuben brothers are deployed by supporters to justify optimism about big-money investment and stability at the club, while critics invoke their involvement to frame Newcastle as being run like a financial asset—raising worries about opaque, profit-driven ownership and diverting scrutiny onto the club’s backers.",
+    "queries": [
+      "Is the Reuben brothers' ownership of Newcastle United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "yasir al-rumayyan",
+    "wiki_title": "yasir al-rumayyan",
+    "summary": "Yasir al-Rumayyan is often invoked by supporters as proof that Newcastle’s takeover brings powerful, long-term capital and ambition that can rapidly elevate the club’s competitiveness and global profile. Conversely, critics portray him as the human face of state-linked influence, using ownership to sportswash human-rights concerns and test Premier League governance, which drives calls for stricter ethical scrutiny of club ownership.",
+    "queries": [
+      "How do people view yasir al-rumayyan’s decisions for Newcastle United?"
+    ]
+  },
+  {
+    "id": "C2-4-7",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "bein media group",
+    "wiki_title": "bein media group",
+    "summary": "beIN Media Group’s match coverage and commentary frequently places Newcastle United within a broader geopolitical and broadcasting-rights context, emphasizing concerns about state-backed Saudi ownership, sportswashing, and regulatory fairness. Its reporting is therefore often cited by critics urging scrutiny of the PIF takeover, while defenders of the club sometimes accuse beIN of regional or political bias.",
+    "queries": [
+      "Is bein media group's influence on fan opinions reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "sportswashing",
+    "wiki_title": "sportswashing",
+    "summary": "In debates about Newcastle United, critics use “sportswashing” to frame the Saudi-backed takeover as a deliberate PR strategy to distract from the Saudi state and PIF’s human-rights abuses, fueling calls for boycotts, stricter governance, or sanctions; supporters counter that the investment has revived the club and that engagement through sport can deliver local benefits, portraying accusations as politically motivated or unfair to fans.",
+    "queries": [
+      "Is sportswashing around Newcastle United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "human rights in saudi arabia",
+    "wiki_title": "human rights in saudi arabia",
+    "summary": "Critics invoke Saudi Arabia's human‑rights record to label Newcastle's PIF ownership as 'sportswashing,' using it to justify protests, boycotts, and calls for stricter ownership rules and reputational sanctions; supporters counter that investment revitalizes the club and argue for separating sport from geopolitics or engaging through football, making human‑rights claims the core of a polarized ethics‑vs‑success debate.",
+    "queries": [
+      "Are concerns about human rights in Saudi Arabia reasonable regarding Newcastle United?"
+    ]
+  },
+  {
+    "id": "C2-8-4",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "jamal khashoggi",
+    "wiki_title": "jamal khashoggi",
+    "summary": "Khashoggi’s murder is frequently invoked by critics to brand the Saudi-backed takeover of Newcastle United as sportswashing—arguing that ownership by parties linked to the Saudi state legitimizes human-rights abuses and warrants fan protests, boycotts, or political pressure. Supporters counter that the club should be judged on investment and sporting outcomes, asserting that Khashoggi’s case, while serious, is separate from football governance.",
+    "queries": [
+      "What do fans think about Jamal Khashoggi in relation to Newcastle United?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic and commercial impact",
+    "wiki_title": "economic impact of the gaza war",
+    "summary": "Commentators use the economic impact of the Gaza war to argue that geopolitical instability could jeopardize Saudi-backed funding and future transfers at Newcastle United, framing the club as exposed to risky state-linked investment and thereby criticizing the moral and financial legitimacy of its ownership. Supporters counter that such shocks either strengthen calls for insulating football from politics or will be absorbed by sovereign wealth safeguarding the club, minimizing calls for divestment and emphasizing continuity of investment.",
+    "queries": [
+      "How do people view Newcastle United F.C.'s economic and commercial impact?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "amanda staveley",
+    "wiki_title": "amanda staveley",
+    "summary": "Amanda Staveley is often invoked as the dealmaker and public face who brokered the 2021 takeover, with supporters crediting her for unlocking Saudi-backed investment that promises ambition, stability and big spending at Newcastle.  Conversely, critics portray her as the intermediary enabling controversial PIF-linked ownership, using her role to raise concerns about sportswashing, governance, and the ethics of the club’s new financial backing.",
+    "queries": [
+      "Is amanda staveley’s influence at Newcastle United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "parent": "C3",
+    "level": 2,
+    "topic": "castore",
+    "wiki_title": "castore",
+    "summary": "The Castore kit partnership is frequently invoked in debates about Newcastle United’s commercial priorities: proponents frame the deal as a sign of Premier League ambition and a modern, lucrative upgrade, while critics point to stock shortages, expensive shirts and unpopular designs to argue the owners value revenue and branding over supporter access and club tradition; some also highlight choosing a British up‑and‑coming supplier as either a point of local pride or another step toward corporate rebranding.",
+    "queries": [
+      "How do fans view Castore’s Newcastle United partnership?"
+    ]
+  },
+  {
+    "id": "C3-8-5",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "merchandise pricing",
+    "wiki_title": "pricing",
+    "summary": "Pricing is central to debates about Newcastle United, with proponents arguing higher ticket, hospitality and merchandise prices are necessary revenue to fund transfers, wages and on-field improvement, while critics say such pricing amounts to owner-led profiteering that prices out local fans and damages club-community ties. Transfer fees and wage levels are also framed through pricing rhetoric to justify heavy spending as investment or to condemn commercial priorities over supporter access and tradition.",
+    "queries": [
+      "Is Newcastle United F.C.'s merchandise pricing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "amazon prime video",
+    "wiki_title": "amazon prime video",
+    "summary": "Amazon Prime Video’s documentaries and exclusive broadcasts have been used to amplify Newcastle United’s post-takeover renaissance, framing the club as a global success story and commercial asset; critics counter that such productions sanitize or normalize the Saudi-backed ownership by prioritizing upbeat, curated access over scrutiny of human-rights and governance concerns, reinforcing pro-investment and globalization arguments in public debates.",
+    "queries": [
+      "Is amazon prime video coverage of Newcastle United justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "beoutq",
+    "wiki_title": "beoutq",
+    "summary": "Critics invoke beoutq as a symbol of alleged Saudi-backed media piracy to argue that Newcastle United’s Saudi-backed takeover is tainted by state-linked wrongdoing and sportswashing, using the controversy to justify ethical scrutiny, sanctions, or opposition to the club’s new ownership; supporters or apologists counter that beoutq’s connections are disputed and should not be used to delegitimize the club or private investment.",
+    "queries": [
+      "What consequences has beoutq caused for Newcastle United supporters?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "3pm blackout",
+    "wiki_title": "blackout (broadcasting)",
+    "summary": "Blackout policies are often cited in debates about Newcastle United to defend TV scheduling that prioritises ticketed match‑attendance and local broadcasters, with supporters arguing limited live telecasts protect stadium atmosphere and club revenues. Critics use blackouts to attack the commercialization of the club’s broadcasting rights—saying they restrict access for local and international Magpies, empower broadcasters and owners (especially under high‑profile ownership) over ordinary fans, and justify unpopular fixture changes.",
+    "queries": [
+      "What impacts has the 3pm blackout had on Newcastle United supporters?"
+    ]
+  },
+  {
+    "id": "C3-6-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "competition and markets authority",
+    "wiki_title": "competition and markets authority",
+    "summary": "In debates around Newcastle United’s takeover and rapid commercial growth, the Competition and Markets Authority is frequently invoked to argue for regulatory scrutiny of how state-backed owners could distort markets — for example by influencing broadcasting, sponsorship and other commercial rights — and to justify calls for investigations or structural remedies. Critics counter that the CMA’s narrow competition remit cannot address ethical concerns (like human-rights or “sportswashing”), so referencing the CMA tends to steer public arguments toward economic/market risks rather than moral or political ones.",
+    "queries": [
+      "Is the Competition and Markets Authority scrutinising Newcastle United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "human rights watch",
+    "wiki_title": "human rights watch",
+    "summary": "Human Rights Watch is invoked by critics who use its reporting on Saudi human-rights abuses to argue that Newcastle’s Saudi-backed ownership amounts to “sportswashing,” calling for accountability, transparency, or restrictions on state-linked investment in the club; its findings bolster campaigns for human-rights due diligence and conditionality. Supporters of the takeover often reject HRW-based critiques as politicized, so HRW’s role is to legitimize demands that football institutions factor human-rights considerations into ownership and commercial decisions.",
+    "queries": [
+      "Is Human Rights Watch’s criticism of Newcastle United F.C. reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "media, fandom and culture",
+    "wiki_title": "fandom",
+    "summary": "Newcastle’s fandom — the 'Toon Army' — is a frequent touchstone in debates about the club, used to legitimize demands for affordable tickets, fan representation and respect for local identity and matchday atmosphere while also being cited to justify or oppose major decisions. Fan opinion is marshalled both to celebrate new investment and on-field ambition and to condemn ownership or sponsorship as unethical (e.g., sportswashing), making supporter sentiment a key rhetorical lever in policy and media arguments about the club.",
+    "queries": [
+      "What effects has Newcastle United’s media, fandom and culture brought?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "all or nothing: newcastle",
+    "wiki_title": "all or nothing: manchester city",
+    "summary": "The All or Nothing: Manchester City documentary is often used as a contrast or blueprint in debates about Newcastle United, with analysts and fans citing City's portrayed data-led recruitment, managerial stability, and resource advantages to argue either that Newcastle can emulate that model under new ownership or that such advantages make Newcastle's rise structurally unlikely. Critics also use the series to accuse high-profile documentaries of glamorizing state-linked, market-dominant club models, applying that critique to questions about Newcastle's PIF-linked ownership and competitive fairness.",
+    "queries": [
+      "How do people view all or nothing: newcastle within Newcastle United culture?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "alan shearer",
+    "wiki_title": "alan shearer",
+    "summary": "As Newcastle's local legend and record goalscorer, Alan Shearer is invoked as a moral voice whose praise legitimizes demands for ambition and sensible recruitment, while his public criticisms of ownership, signings and performances are used to justify fan anger and calls for change. Critics or cautious commentators, however, point to his short managerial spell and pundit role to frame his interventions as emotional or nostalgic rather than strategic expertise.",
+    "queries": [
+      "Is Alan Shearer still a fitting symbol for Newcastle United?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "golden boot",
+    "wiki_title": "golden boot",
+    "summary": "The golden boot is invoked by fans, pundits and club insiders to anchor debates about Newcastle's attacking identity—used to celebrate historic figures like Alan Shearer or to compare and evaluate current forwards' worth. It also functions as a shorthand in policy arguments: proponents cite the award to justify expensive striker signings or youth promotion, while critics use the absence of a prolific scorer to argue that recruitment, tactics, or ambition are failing.",
+    "queries": [
+      "Is a Newcastle United player winning the golden boot reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "blackburn rovers",
+    "wiki_title": "blackburn rovers f.c.",
+    "summary": "Blackburn Rovers are frequently invoked in arguments about Newcastle United as a comparative case for ownership and club direction—used positively as an example of how wealthy local backing can deliver success (the Jack Walker era) or negatively as a cautionary tale of takeover mismanagement and decline (the Venky’s era), and cited in debates over ambition, spending and the risk of relegation to frame or criticize Newcastle’s owners and policies.",
+    "queries": [
+      "What impact could blackburn rovers players have on Newcastle’s transfer plans?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "match of the day",
+    "wiki_title": "match of the day",
+    "summary": "Match of the Day shapes national perceptions of Newcastle United by choosing which moments and angles to show and by how pundits interpret them—either amplifying narratives of the club’s resurgence under new ownership and title‑challenge credentials or highlighting tactical faults and controversial refereeing. Through selective highlights and authoritative commentary, the programme can legitimize or undermine public and media debates about Newcastle’s form, decision‑making, and status in the Premier League.",
+    "queries": [
+      "How do fans view match of the day’s analysis of Newcastle?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "sunderland a.f.c.",
+    "wiki_title": "sunderland a.f.c.",
+    "summary": "Sunderland A.F.C. is routinely invoked as Newcastle’s local foil in public debates—the Tyne–Wear rivalry is used to frame Newcastle’s successes or failures, justify fan attitudes, and stoke regional pride or shame. Pundits and supporters cite Sunderland to criticize or defend Newcastle’s ownership, investment, managerial choices, ticketing and crowd behavior, using comparisons to argue what the club should or should not do.",
+    "queries": [
+      "How do people view Sunderland A.F.C. among Newcastle United fans?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "stadium of light",
+    "wiki_title": "stadium of light",
+    "summary": "In debates about Newcastle United F.C. the Stadium of Light is used as a comparative yardstick: pundits and rival fans point to Sunderland’s modern, large-capacity ground to argue about regional fan support, club ambition and stadium investment, either praising Sunderland’s community reach or criticizing Newcastle’s past complacency. It therefore appears in arguments over ownership, spending and atmosphere to bolster claims that Newcastle must invest more to match regional rivals or risk losing local prestige.",
+    "queries": [
+      "How do fans view stadium of light in Newcastle United rivalry?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "rafa benítez",
+    "wiki_title": "rafael benítez",
+    "summary": "Rafael Benítez is frequently invoked by fans and pundits as the experienced, stabilising manager whose tenure exposed and was used to criticize owner underinvestment — his public disputes with the board are often cited to justify calls for greater ambition, resources, and managerial respect at Newcastle United F.C. At the same time, critics point to his pragmatic, defensive tactics and high‑profile clashes with club hierarchy as evidence that a manager’s style and personality can constrain progress or exacerbate governance problems.",
+    "queries": [
+      "Was Rafa Benítez’s tenure at Newcastle United justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "seaburn casuals",
+    "wiki_title": "seaburn casuals",
+    "summary": "References to the Seaburn Casuals are often invoked in discussions of Newcastle United F.C. to exemplify the violent Sunderland–Newcastle rivalry and to argue for tougher policing, stewarding and fan sanctions at derby matches; commentators use the firm to either criticize Newcastle’s supporter culture by comparison or to justify Newcastle-focused security measures and condemnations of hooliganism.",
+    "queries": [
+      "How do people view the Seaburn Casuals today?"
+    ]
+  },
+  {
+    "id": "C5-6-8",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "promotion and relegation",
+    "wiki_title": "promotion and relegation",
+    "summary": "Discussion of promotion and relegation around Newcastle United is used to pressure owners and managers—invoked by critics to blame poor stewardship when the club flirts with dropping out of the Premier League and by supporters to demand urgent investment or a change of direction; conversely, promotion from the Championship is framed as vindication of club identity and a defense of merit-based competition against proposals for closed, franchise-style leagues.",
+    "queries": [
+      "Is promotion and relegation fair for Newcastle United F.C.?"
+    ]
+  },
+  {
+    "id": "C5-8",
+    "parent": "C5",
+    "level": 2,
+    "topic": "sky sports",
+    "wiki_title": "sky sports",
+    "summary": "Sky Sports' match broadcasts, punditry and transfer coverage often set the agenda for how Newcastle United is seen—portraying the club as either a resurgent, ambitious project under new ownership or as a team facing scrutiny over spending, recruitment and management. Its expert commentary and story selection can legitimize club decisions and narratives or amplify criticism of performance, managerial choices and the ethics/competitiveness of Saudi-backed ownership.",
+    "queries": [
+      "How do people view Sky Sports' commentary on Newcastle United?"
+    ]
+  },
+  {
+    "id": "C5-8-6",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "var",
+    "wiki_title": "var",
+    "summary": "Controversial VAR decisions in Newcastle matches are routinely cited by fans, pundits and rival clubs to argue that the team’s results and momentum have been altered by officiating bias or inconsistent application of rules. These appeals fuel polarized views about the club’s legitimacy, are used to defend or discredit key results, and drive calls for greater transparency and reform of VAR protocols.",
+    "queries": [
+      "How do fans view var decisions involving Newcastle?"
+    ]
+  },
+  {
+    "id": "C5-2-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "safe standing",
+    "wiki_title": "safe standing",
+    "summary": "Newcastle supporters regularly invoke safe standing to press the club and regulators to install rail seating at St James’ Park as a way to restore atmosphere, lower ticket costs and assert fan influence; club management, safety authorities and some politicians counter by citing legal, regulatory and safety concerns, using the issue to justify caution or delay and frame debates about stadium investment and accountability.",
+    "queries": [
+      "Is safe standing at Newcastle United stadium reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "sir bobby robson statue",
+    "wiki_title": "bobby robson",
+    "summary": "Bobby Robson is often invoked by supporters and commentators as the archetypal Newcastle manager whose early-1990s revival is used to argue for appointing experienced, loyal coaches, investing in attacking football, and restoring the club’s traditional identity. His legacy is also deployed to criticize modern owners or strategies that appear short-term or commercial, framing debates as a choice between community-rooted pride and impersonal, results-only approaches.",
+    "queries": [
+      "Is the Sir Bobby Robson statue at Newcastle justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "saudi vision 2030",
+    "wiki_title": "saudi vision 2030",
+    "summary": "Supporters and club proponents invoke Saudi Vision 2030 to cast the PIF-backed takeover as legitimate national economic diversification and beneficial long-term investment that will modernize Newcastle and boost competitiveness; critics use Vision 2030 to argue the purchase is part of a sportswashing strategy—using the club to polish Saudi Arabia’s international image despite human-rights concerns—and to justify calls for ethical scrutiny, boycotts, or tighter football governance.",
+    "queries": [
+      "How do people view saudi vision 2030 supporting Newcastle United?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and regulatory issues",
+    "wiki_title": "regulation",
+    "summary": "Regulation is frequently invoked to contest or defend Newcastle United's ownership and financial practices—critics argue Premier League, UEFA and FFP/ownership rules are too weak to prevent state-linked takeovers, 'sportswashing' and unfair competitive advantage, while proponents point to regulatory approval as legitimizing investment and protecting commercial freedom. Supporters and policymakers also use regulatory arguments to push for stronger ticketing, stadium safety, transfer/agent and fan-protection rules to ensure fair competition and supporter rights.",
+    "queries": [
+      "What consequences have Newcastle United F.C.'s legal and regulatory issues caused?"
+    ]
+  },
+  {
+    "id": "C7-8",
+    "parent": "C7",
+    "level": 2,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International is frequently cited by critics to condemn Newcastle United’s Saudi-backed ownership as an exercise in ‘sportswashing,’ using reports and statements to demand transparency, human-rights safeguards and accountability. Supporters of the club often counter that Amnesty is politicising football, while opponents use its findings to push for boycotts, regulatory conditions or reputational pressure.",
+    "queries": [
+      "Is Amnesty International's criticism of Newcastle United justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "infrastructure and urban development",
+    "wiki_title": "infrastructure",
+    "summary": "Debates over infrastructure — chiefly St James' Park, training facilities, transport links and wider city regeneration — are used by supporters to justify new ownership and investment as delivering economic growth and community benefits for Newcastle. Critics, however, invoke infrastructure to challenge the club's priorities and public-subsidy deals, warn of greenwashing and gentrification, and press for binding commitments to sustainable, community-focused upgrades.",
+    "queries": [
+      "What impacts has Newcastle United F.C.'s infrastructure and urban development caused?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "st james' park",
+    "wiki_title": "st james' park",
+    "summary": "St James' Park is frequently invoked as the symbolic heart of Newcastle United — used to justify calls for owners to invest in redevelopment, protect fan access and preserve working‑class club identity (notably during debates over stadium naming rights and commercialisation). It also features in criticism of club policy when rising ticket prices, corporate hospitality or perceived neglect of supporter needs are framed as evidence owners prioritise profit over the club’s traditions and atmosphere.",
+    "queries": [
+      "Is St James' Park's atmosphere overrated or justified?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "stadium naming rights",
+    "wiki_title": "naming rights",
+    "summary": "Debates over naming rights at Newcastle United are often used as a shorthand for wider tensions between commercialization and tradition: critics (especially fans and local figures) frame proposals to rename St James' Park as evidence that owners—most famously during Mike Ashley’s tenure—prioritize corporate branding and profit over club heritage, while proponents argue selling naming rights is a pragmatic way to raise revenue and make the club more competitive.",
+    "queries": [
+      "Are stadium naming rights for Newcastle United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-1-6",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "tyne–wear derby",
+    "wiki_title": "tyne–wear derby",
+    "summary": "The Tyne–Wear derby is routinely used as a litmus test for Newcastle United’s competence and identity—derby wins are cited to justify managers, spending and a sense of local pride, while losses are seized on to criticize ownership, coaching decisions, or club priorities. It also frames broader debates about the club’s regional role and policy choices (ticketing, policing, transfers), with derby results deployed as shorthand evidence for whether Newcastle is honoring its working‑class fanbase and ambitions.",
+    "queries": [
+      "Is intense fan behaviour at the tyne–wear derby reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "newcastle city council",
+    "wiki_title": "newcastle city council",
+    "summary": "Newcastle City Council is invoked as the civic gatekeeper whose planning, licensing and public-investment decisions legitimize or constrain Newcastle United’s stadium expansions, commercial deals and community commitments, framing the club as a driver of local regeneration when the council backs projects. Critics and supporters alike cite the council’s stance to argue the club is either being rewarded despite ethical or neighbourhood concerns (ownership controversies, matchday impacts) or being held to account for promised jobs, facilities and community benefits.",
+    "queries": [
+      "How do people view Newcastle City Council’s role in club developments?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "planning permission",
+    "wiki_title": "planning permission",
+    "summary": "Planning permission is frequently invoked in debates over Newcastle United when proposals for St James’ Park redevelopment, new training facilities or surrounding regeneration are held up or approved — supporters use approvals to justify the owners’ ambition and economic benefits, while opponents cite refusals or conditions to criticise threats to heritage, traffic, housing and local services. Local councils and campaign groups therefore use planning decisions to frame the club either as a driver of regeneration or as an agent of unwanted commercialisation and gentrification.",
+    "queries": [
+      "Is Newcastle United's planning permission decision reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-8",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "evening chronicle",
+    "wiki_title": "evening chronicle",
+    "summary": "The Evening Chronicle, as Newcastle’s main local paper, shapes public arguments about Newcastle United by amplifying supporter sentiment and scrutinizing owners, managerial decisions and transfer policy—either rallying local pride after successes or legitimizing calls for change during poor runs. Its match reports, exclusives and fan-opinion pieces are regularly used to justify demands for investment, criticize club governance, or frame the club’s actions in terms of community identity and accountability.",
+    "queries": [
+      "Are criticisms of the Evening Chronicle's handling of Newcastle United justified?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "st james' quarter",
+    "wiki_title": "st james quarter",
+    "summary": "St James Quarter is often invoked in discussions about Newcastle United as physical evidence of the club’s contribution to city‑centre regeneration, used by supporters and civic leaders to justify investment, commercial partnerships, and a push to broaden the club’s tourist and retail appeal. Critics, however, point to the development to argue that rising prices, corporate hospitality and the gentrification of the matchday area prioritize commercial interests over traditional fan culture and community access.",
+    "queries": [
+      "Is investment in st james' quarter reasonable for supporting Newcastle United's growth?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "fenwick",
+    "wiki_title": "fenwick",
+    "summary": "The Fenwick department store is frequently used as a shorthand for Newcastle’s civic identity in discussions about Newcastle United, with supporters and commentators invoking it to argue the club should stay rooted in local Geordie culture. It appears in arguments both praising owners or initiatives that engage with local traditions and criticizing perceived commercialisation or distance from the community.",
+    "queries": [
+      "Is fenwick’s presence near St James’ Park beneficial for Newcastle United fans?"
+    ]
+  },
+  {
+    "id": "C8-3-4",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "landsec",
+    "wiki_title": "landsec",
+    "summary": "In discussions about Newcastle United, Landsec is often invoked as an archetype of large commercial property interests poised to gain from stadium redevelopment and increased city-centre commerce after the club’s change of ownership. Supporters cite firms like Landsec to bolster arguments for investment and urban regeneration, while critics use them to warn that commercial developers will prioritize profit over fans and local communities, accelerating gentrification and commodification of the club.",
+    "queries": [
+      "Is landsec’s influence on development around St James' Park justified?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "northumbria police",
+    "wiki_title": "northumbria police",
+    "summary": "Northumbria Police is often invoked in discussions of Newcastle United F.C. as the match‑day public‑order authority whose decisions on policing, crowd control and protest restrictions are used to justify calls for tougher security, stadium safety upgrades, or club accountability. Their handling of incidents like pitch invasions, ownership protests or allegations of abuse is also cited to criticize alleged heavy‑handedness or to challenge the club’s relationship with its supporters and local community.",
+    "queries": [
+      "What effects has Northumbria Police's actions around Newcastle matches caused?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "tyne and wear metro",
+    "wiki_title": "tyne and wear metro",
+    "summary": "The Tyne and Wear Metro is often cited in debates over matchday access to St James’ Park, with supporters and politicians arguing that reliable, frequent services (including airport links and late-night trains) are essential for crowd management, attendance and tourism tied to Newcastle United. Conversely, Metro delays or capacity limits are used to criticize club and council planning, prompting calls for public investment or for the club to contribute to transport upgrades as part of its community and commercial responsibilities.",
+    "queries": [
+      "Is tyne and wear metro adequate for Newcastle United matchday travel?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "st james metro station",
+    "wiki_title": "st james metro station",
+    "summary": "St James Metro station is often invoked in debates about matchday logistics and public safety—critics point to crowding, accessibility and policing issues at the station to argue for better transport investment or stricter stewarding, while proponents cite improvements as evidence of successful city-club coordination and urban regeneration around Newcastle United. It also appears in narratives about fan experience and local identity, used to justify policies that prioritize stadium access, tourism benefits, and coordinated planning between the club and transport authorities.",
+    "queries": [
+      "How do people view St James Metro Station's crowd management on matchdays?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "haymarket metro station",
+    "wiki_title": "haymarket metro station",
+    "summary": "Haymarket station is frequently invoked in arguments about Newcastle United matchday logistics—supporters and city planners cite its role as a key transit hub to argue for better Metro capacity, accessibility and crowd-control investment to accommodate fans. Conversely, critics use service delays, overcrowding or policing at Haymarket to blame the club and local authorities for poor event planning and to push for stricter transport and safety policies or stadium-related infrastructure changes.",
+    "queries": [
+      "Is Haymarket Metro Station's accessibility reasonable for Newcastle United supporters?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "nexus (transport)",
+    "wiki_title": "nexus (transport executive)",
+    "summary": "Nexus is routinely invoked in debates about Newcastle United’s matchday experience and stadium-area redevelopment — proponents (including the club and local politicians) cite the need for Nexus-led Metro capacity upgrades and better transport links to justify expansion and public investment, while critics point to service disruptions, fare or policing arrangements and poor coordination as evidence that local authorities (or the club) are failing fans and should be held to account.",
+    "queries": [
+      "Is nexus (transport) reliable for Newcastle United matchday travel or not?"
+    ]
+  },
+  {
+    "id": "C8-4-4",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "british transport police",
+    "wiki_title": "british transport police",
+    "summary": "When Newcastle United matchday safety or travel disruptions arise, the British Transport Police is routinely cited by local authorities and the club to justify increased rail patrols, travel restrictions, and tougher sanctions for disorder; conversely supporters and rights groups invoke BTP actions and statistics to criticize alleged over‑policing, profiling, or failures in coordinating safe transport to St James' Park.",
+    "queries": [
+      "Is British Transport Police presence at Newcastle matches reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "uk rail strikes",
+    "wiki_title": "2022–2024 united kingdom railway strikes",
+    "summary": "The 2022–2024 UK railway strikes are invoked by supporters and commentators to highlight how industrial action and poor public transport disrupt Newcastle fans’ ability to attend matches, framing the club and Premier League as out of touch when fixtures aren’t rescheduled or when TV/broadcaster interests trump local supporters. Critics also use the strikes to question Newcastle United’s solidarity with working‑class fans and transport workers—arguing the club should do more to assist travel, oppose policies harming rail staff, or push for fan‑friendly scheduling and ticketing reforms.",
+    "queries": [
+      "How do people view uk rail strikes impacting Newcastle United fans?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "park and ride",
+    "wiki_title": "park and ride",
+    "summary": "Proposals for park-and-ride schemes regularly appear in discussions about matchday access to St James’ Park, with fans and local officials citing them to press Newcastle United and the council to reduce congestion and promote greener, more reliable travel. Opponents use P+R critiques—cost, poor siting, and potential suburban disruption—to argue against expensive transport interventions or to portray the club as shirking responsibility for stadium access planning.",
+    "queries": [
+      "Is park and ride provision for Newcastle United matches reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "mike ashley",
+    "wiki_title": "mike ashley",
+    "summary": "Mike Ashley’s name is often used as the embodiment of Newcastle’s perceived mismanagement and commercial-first priorities—fans and pundits cite his tenure to criticize under‑investment, retail/ticketing policies and absentee ownership and to justify protests or a push for new, locally accountable owners. Supporters of market‑driven club governance, by contrast, invoke his era to argue that business discipline and financial stability can outweigh emotional calls for fan control or big‑spending ambition.",
+    "queries": [
+      "What consequences has mike ashley’s tenure had for Newcastle United?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "sports direct",
+    "wiki_title": "sports direct",
+    "summary": "Sports Direct is frequently invoked by critics as proof that under Mike Ashley Newcastle United was managed to benefit his retail empire—cited in arguments about retail deals, sponsorships and alleged underinvestment to justify fan protests and calls for a sale. Defenders, however, use the same connection to frame Ashley’s approach as pragmatic commercialisation that provided revenue and financial stability to the club.",
+    "queries": [
+      "How do people view sports direct’s influence at Newcastle United?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "stadium expansion",
+    "wiki_title": "michigan stadium",
+    "summary": "Commentators and supporters invoke Michigan Stadium as an example of the commercial upside of gigantic, showpiece venues to justify ambitious expansion plans for St James’ Park or Newcastle’s push into global friendlies and tours. Opponents use the same example to criticize a US-style, mega-stadium approach—arguing it would dilute matchday atmosphere and signal unwanted commercialization under the club’s wealthy owners.",
+    "queries": [
+      "How do fans view the stadium expansion at Newcastle United?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "newcastle united supporters trust",
+    "wiki_title": "newcastle united supporters trust",
+    "summary": "The Newcastle United Supporters Trust is often invoked in public debates to lend organized supporter weight to calls for greater transparency, fan representation and community-focused decision-making at Newcastle United F.C., using protests and campaigns to criticize ownership or commercial policies perceived as harming supporters; critics sometimes portray it as unrepresentative, but its endorsements or objections are frequently used to legitimize demands for governance changes or ticketing reforms.",
+    "queries": [
+      "Are Newcastle United Supporters Trust priorities reasonable for average supporters?"
+    ]
+  },
+  {
+    "id": "C8-7-4",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "section 106 agreement",
+    "wiki_title": "town and country planning act 1990",
+    "summary": "In debates over St James' Park redevelopment, training‑ground moves and related commercial projects, supporters invoke the Town and Country Planning Act 1990 to justify that proposals meet statutory planning tests and to secure permissions and S106 mitigations (transport, community benefits). Opponents and local groups likewise use the Act to challenge approvals, press for stricter conditions or enforcement, and frame critiques around procedural compliance, heritage protection and local amenity impacts.",
+    "queries": [
+      "Is the section 106 agreement linked to Newcastle United reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-1",
+    "parent": "C8",
+    "level": 3,
+    "topic": "mohammed bin salman",
+    "wiki_title": "mohammed bin salman",
+    "summary": "Mohammed bin Salman is often invoked by critics to frame Newcastle’s Saudi-backed takeover as state-led “sportswashing,” linking the club’s ownership to his contested human-rights record to argue the team is being used to launder regime reputation; defenders counter that the investment brings economic benefits and that football should be kept separate from geopolitics, while his involvement fuels calls for tougher Premier League ownership rules or consumer boycotts.",
+    "queries": [
+      "How do people view mohammed bin salman’s role in club ownership?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "bein sports",
+    "wiki_title": "bein sports",
+    "summary": "beIN Sports is frequently invoked in discussions of Newcastle United’s Saudi-backed takeover, with its coverage framing the club as a battleground for Gulf political rivalry and allegations of sportswashing. Because beIN is Qatari-owned, its critical reporting on PIF ownership and related broadcasting disputes is used both to support scrutiny of Newcastle’s new owners and by critics to allege geopolitical bias.",
+    "queries": [
+      "Is bein sports' coverage of Newcastle United reasonable or not?"
+    ]
+  }
+]

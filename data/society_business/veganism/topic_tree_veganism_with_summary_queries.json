@@ -1,0 +1,2169 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Veganism",
+    "wiki_title": "Veganism",
+    "summary": "Veganism is used in public debates as a moral and political framework to justify reforms—such as plant-based policies, stricter animal-welfare regulations, and climate/health arguments against industrial animal agriculture—and as an identity that legitimizes personal consumption choices. Critics invoke the term to argue it is elitist, impractical, or culturally insensitive and to defend animal-use on grounds of economy, nutrition, tradition, or rural livelihoods.",
+    "queries": [
+      "What consequences has Veganism caused?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "ethics and animal rights",
+    "wiki_title": "animal rights",
+    "summary": "Animal-rights claims are frequently deployed as the moral backbone of veganism, framing plant-based living as an ethical duty to stop treating animals as property and motivating abolitionist policies (e.g., bans on factory farming, animal use, or campaigns for legal personhood) while rejecting purely welfare-oriented reforms as inadequate. Opponents use counterarguments — appeals to species-based duties, utilitarian trade-offs, or practical/social-contract limits — to portray veganism as excessively demanding or to justify continued regulated animal use.",
+    "queries": [
+      "How do people view ethics and animal rights within Veganism?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "speciesism",
+    "wiki_title": "speciesism",
+    "summary": "Vegan advocates invoke speciesism to portray animal agriculture and experiments as morally analogous to racism or sexism, framing veganism as an ethical, policy, and social-justice response that demands ending exploitative practices and extending legal protections to animals. Opponents use accusations of speciesism to dismiss vegan claims as impractical or philosophically extreme, defending human-centered practices on grounds of cultural norms, biological differences, or competing human interests.",
+    "queries": [
+      "Is speciesism justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "animal welfare act",
+    "wiki_title": "animal welfare act",
+    "summary": "References to the Animal Welfare Act often surface in vegan debates as evidence that the law allows regulated ‘humane’ use of animals—an argument used by industry and welfare-focused reformers to defend continued animal agriculture. Vegans typically counter that such legislation legitimizes exploitation, promotes welfare-over-rights incrementalism, and delays abolitionist policies aimed at ending animal use altogether.",
+    "queries": [
+      "How do vegans view the animal welfare act?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "humane society of the united states",
+    "wiki_title": "humane world for animals",
+    "summary": "Advocates invoke a \"humane world for animals\" to frame veganism as the most effective moral and policy path to ending animal suffering, using the phrase to support plant-based diets, bans on factory farming, and stronger animal-protection laws. Critics and welfare-focused reformers also use the idea to justify incremental reforms or \"humane\" animal products, casting veganism as unnecessary or overly absolutist compared with improving animal welfare within existing systems.",
+    "queries": [
+      "What effects has Humane Society of the United States had on veganism?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "mercy for animals",
+    "wiki_title": "mercy for animals",
+    "summary": "Mercy For Animals supplies vivid undercover investigations and public campaigns that frame veganism as a moral necessity to end industrialized animal cruelty and to persuade consumers, corporations, and lawmakers to adopt plant-based options and stricter animal-protection policies. Its materials are used to justify abolitionist or reformist vegan arguments in public debate, while critics deploy accusations of sensationalism, selective footage, or economic harm to farming communities to deflect from its calls for reduced animal consumption.",
+    "queries": [
+      "What conflicts arise when prioritizing mercy for animals?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "earthlings",
+    "wiki_title": "earthling",
+    "summary": "The activist documentary Earthlings is often cited by vegan advocates as a visceral, evidence-backed moral argument against animal agriculture, used to justify ethical veganism and push for consumer and policy change by exposing systemic cruelty. Critics and industry defenders counter that its graphic, emotionally charged framing is manipulative and polarizing, portraying veganism as moral absolutism and sometimes undermining constructive dialogue or policy consensus.",
+    "queries": [
+      "How do people view earthlings in Veganism circles?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "stop huntingdon animal cruelty",
+    "wiki_title": "stop huntingdon animal cruelty",
+    "summary": "The Stop Huntingdon Animal Cruelty campaign is often invoked in vegan debates as a stark example of direct-action opposition to animal testing that bolsters abolitionist vegan arguments for boycotts, corporate divestment, and legal bans on vivisection, while its confrontational and sometimes illegal tactics are used by critics to portray parts of the vegan movement as extremist and to argue for more moderate, welfare-focused reforms.",
+    "queries": [
+      "How do people view stop huntingdon animal cruelty within veganism?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "eco-terrorism",
+    "wiki_title": "eco-terrorism",
+    "summary": "Claims of eco-terrorism are often invoked by critics and media to conflate veganism with extremist environmental violence, using isolated illegal acts by fringe activists to portray vegan advocacy as dangerous and to justify surveillance, criminalization, or stricter anti-protest laws. Vegan advocates counter that this framing is a smear that obscures mainstream nonviolent ethical, health, and environmental motivations, even as a tiny minority of radicals sometimes cite ecological collapse to legitimize direct action.",
+    "queries": [
+      "Is eco-terrorism within veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "domestic terrorism",
+    "wiki_title": "domestic terrorism",
+    "summary": "Accusations of 'domestic terrorism' are used to paint militant animal‑rights actions (e.g., arson, threats, or raids) as extremist crimes, bolstering calls for surveillance, prosecutions, and restrictions on vegan activism while undermining the movement's legitimacy; conversely, some vegans argue this label is overapplied to peaceful protest or is used to deflect scrutiny of systemic animal exploitation, framing the term as a tool to suppress dissent rather than a neutral legal category.",
+    "queries": [
+      "Is domestic terrorism in vegan activism ever justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "compassion in world farming",
+    "wiki_title": "compassion in world farming",
+    "summary": "In debates about veganism CIWF is often invoked as an authoritative pro-reform voice that bolsters arguments for incremental welfare improvements and “humane” meat rather than abstention, used by policymakers and consumers who want to reduce suffering without endorsing veganism. Vegans frequently cite CIWF as illustrative of a welfare-first approach they criticize for legitimizing animal use and distracting from calls for total abolition of animal products.",
+    "queries": [
+      "What impacts has compassion in world farming brought?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "tom regan",
+    "wiki_title": "tom regan",
+    "summary": "Tom Regan’s rights-based philosophy is frequently cited by vegan advocates to justify abolitionist positions — arguing that animals have inherent moral worth and that using them for food or other purposes is morally impermissible and should be ended rather than merely regulated. Opponents and pragmatists invoke Regan’s absolutism to portray veganism as impractical or legally extreme, preferring welfare reforms or utilitarian cost–benefit approaches instead.",
+    "queries": [
+      "What effects has tom regan had on veganism advocacy?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "infanticide",
+    "wiki_title": "infanticide",
+    "summary": "Infanticide is invoked by animal-rights advocates to liken the killing of animal young to killing human infants, heightening moral outrage and bolstering calls for stronger legal protections or abolition of animal farming; opponents counter that the analogy is emotionally manipulative or anthropomorphic, framing vegan arguments as extreme and arguing it undermines pragmatic dietary and policy debates.",
+    "queries": [
+      "What consequences could infanticide debates have for veganism?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "health and nutrition",
+    "wiki_title": "nutrition",
+    "summary": "Nutrition is a central battleground in veganism debates: advocates invoke nutritional science and population studies to argue that well‑planned vegan diets meet nutrient needs and reduce chronic disease risk, bolstering policies like plant‑based school meals and dietary guidelines; opponents stress risks of deficiencies (B12, iron, omega‑3, calcium, protein) to argue veganism can be unsafe for infants, pregnant people, and the elderly, and to resist blanket institutional mandates unless supplementation or fortification is ensured.",
+    "queries": [
+      "Is health and nutrition in veganism adequately addressed?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "vitamin b12 deficiency",
+    "wiki_title": "vitamin b12 deficiency",
+    "summary": "Critics of veganism frequently invoke vitamin B12 deficiency to portray plant-based diets as nutritionally risky—especially for children, pregnant people, and the elderly—and to justify continued animal-product consumption or stricter health warnings. Vegans and public-health advocates counter that B12 shortfall is a well-understood, preventable issue through supplements and fortification, using that argument to push for better guidance, access to supplements, and policies that enable safe, sustainable vegan diets rather than reject them.",
+    "queries": [
+      "What consequences has vitamin b12 deficiency caused among vegans?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "food fortification",
+    "wiki_title": "food fortification",
+    "summary": "In veganism debates, proponents point to fortifying plant-based staples and alternatives (notably with B12, iodine, vitamin D and calcium) as proof that vegan diets can be nutritionally adequate and as a rationale for policies to mandate or encourage fortification. Opponents argue fortification enables marketing of highly processed vegan products, masks underlying dietary shortcomings that require supplements, and can be used to deflect critiques about whole-foods nutrition.",
+    "queries": [
+      "Is food fortification in veganism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "omega-3 fatty acids",
+    "wiki_title": "omega−3 fatty acid",
+    "summary": "Omega‑3s are a flashpoint in vegan debates: critics use concerns about long‑chain EPA/DHA to argue plant diets are nutritionally risky and to justify eating fish, while vegan advocates point to ALA‑rich foods and algae‑derived DHA/EPA supplements as adequate and more sustainable. That framing drives policy and clinical recommendations (especially for pregnant people and infants) toward algae‑sourced supplements and fortified foods, and opponents sometimes point to mixed evidence on supplement benefit to claim omega‑3s aren’t a decisive refutation of veganism.",
+    "queries": [
+      "How do people view omega-3 fatty acids in vegan diets?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "algal oil",
+    "wiki_title": "seaweed oil",
+    "summary": "Seaweed oil is often invoked by vegan advocates to counter nutrition and sustainability critiques—presenting a market-ready, plant-derived source of EPA/DHA and a substitute for fish oil that strengthens arguments for plant-based diets and industry support. Critics, however, frame it as an example of industrially processed ‘‘fixes’’ (and potential ecological trade-offs from large‑scale algae farming), arguing it can be used for greenwashing or distract from whole-food, systemic food‑policy solutions.",
+    "queries": [
+      "Is algal oil an acceptable option for vegan diets?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "flaxseed oil",
+    "wiki_title": "linseed oil",
+    "summary": "Linseed (flaxseed) oil is often cited by vegans as a plant‑based substitute for animal-derived oils—used to justify nutritional claims (as an omega‑3 source) and to promote vegan consumer products and finishes as non‑animal alternatives. Critics and skeptics deploy it to challenge vegan arguments, noting that its omega‑3 is primarily ALA with limited conversion to EPA/DHA and that industrial processing or solvent extraction can complicate sustainability and ‘whole‑food’ vegan claims.",
+    "queries": [
+      "What impacts has flaxseed oil had on vegan meal planning?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "fish oil",
+    "wiki_title": "fish oil",
+    "summary": "Fish oil is often cited by critics of veganism to argue that animal‑derived EPA/DHA are necessary and that vegan diets are nutritionally insufficient, while vegans counter by promoting algal or plant‑based omega‑3 alternatives and highlighting fish oil’s sustainability, contamination, and animal‑welfare problems to justify plant‑based choices and policies favoring non‑fish sources.",
+    "queries": [
+      "Is using fish oil compatible with veganism or not?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "eicosapentaenoic acid",
+    "wiki_title": "eicosapentaenoic acid",
+    "summary": "EPA is often invoked in vegan debates as evidence by critics that strict plant-based diets lack essential long-chain omega‑3s, used to argue for eating fish or animal products unless one takes supplements; proponents counter that algae-derived EPA supplements or adequate ALA intake can meet needs and thus defend vegan nutritional adequacy. The molecule also features in policy and marketing arguments—used by supplement and fisheries interests to promote animal-sourced omega‑3s, and by vegan advocates to push for plant-based supplement access and clearer dietary guidance.",
+    "queries": [
+      "How do people view eicosapentaenoic acid in vegan diets?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "docosahexaenoic acid",
+    "wiki_title": "docosahexaenoic acid",
+    "summary": "DHA is frequently invoked in vegan debates as a health pivot: opponents claim excluding fish risks insufficient long‑chain omega‑3s for brain and fetal development and use that to argue against strict vegan diets, while proponents counter that ALA conversion plus algae‑derived DHA supplements and fortified foods provide vegan‑safe alternatives. This fuels policy and consumer arguments about prenatal guidance, fortification, labeling, and whether vegan diets require routine supplementation.",
+    "queries": [
+      "Is relying on docosahexaenoic acid supplements reasonable for vegans?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "american heart association",
+    "wiki_title": "american heart association",
+    "summary": "The American Heart Association’s dietary guidance favoring plant‑forward, low‑saturated‑fat eating is frequently cited by vegan advocates to support claims that vegan diets lower cardiovascular risk. Opponents and industry groups, however, seize on the AHA’s cautious, non‑absolutist stance (endorsing balanced patterns like Mediterranean/DASH rather than strict veganism) to argue for moderation and oppose policies that would privilege or mandate vegan options.",
+    "queries": [
+      "How do people view american heart association guidance for vegans?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "forks over knives",
+    "wiki_title": "forks over knives",
+    "summary": "Proponents cite Forks Over Knives as a science-framed, persuasive rationale for adopting and promoting whole-food plant-based vegan diets—using it to support public-health, institutional, and policy shifts toward plant-based eating by emphasizing disease prevention and reversal. Critics counter that the film and brand overstate causality and cherry-pick evidence, so it functions as a high-profile advocacy tool that both legitimizes veganism in policy debates and attracts critiques about practicality and selective science.",
+    "queries": [
+      "How do people view forks over knives within veganism?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "t. colin campbell",
+    "wiki_title": "t. colin campbell",
+    "summary": "t. colin campbell is frequently invoked by vegan and whole‑food, plant‑based advocates as a scientific authority linking animal‑based foods to chronic disease, using his work to justify adopting vegan diets and promoting policies that reduce animal‑product consumption; critics and some nutrition scientists counter by challenging his methodology and causal interpretations, arguing his findings are overstated or insufficient to mandate broad vegan policy prescriptions.",
+    "queries": [
+      "Is t. colin campbell’s influence on veganism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "caldwell esselstyn",
+    "wiki_title": "caldwell esselstyn",
+    "summary": "Caldwell Esselstyn is frequently cited by advocates to claim a strict whole‑food, plant‑based (vegan) diet can prevent and even reverse coronary artery disease, and thus to justify public‑health recommendations and policies that discourage meat and dairy. Skeptics use his tightly controlled case series to argue his results are selective and to frame vegan prescriptions as unusually strict or unrealistic for population‑level dietary advice.",
+    "queries": [
+      "Is Caldwell Esselstyn’s claim about heart disease and veganism reasonable?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "china study",
+    "wiki_title": "the china study",
+    "summary": "The China Study is frequently invoked by vegan advocates as a cornerstone piece of evidence linking animal-based diets to chronic disease and justifying personal, clinical, and policy moves toward whole‑food plant‑based diets; opponents and some scientists counter that the book selectively interprets data and uses flawed methods, using those critiques to challenge the book’s authority in defending vegan health claims.",
+    "queries": [
+      "What influence has the China Study had on Veganism adoption?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "physicians committee for responsible medicine",
+    "wiki_title": "physicians committee for responsible medicine",
+    "summary": "The Physicians Committee for Responsible Medicine is frequently invoked in debates to medicalize and legitimize veganism—using physician endorsements, nutrition reports, and institutional lobbying to argue that plant‑based diets are healthier and to push for vegan options in hospitals, schools, and federal policy—while attacking animal‑agriculture messaging. Because it frames veganism as evidence‑based public‑health policy, opponents often cast it as activist or overstating the science, making the group a polarizing authority in pro‑ and anti‑vegan arguments.",
+    "queries": [
+      "Is physicians committee for responsible medicine's vegan advocacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "beyond meat",
+    "wiki_title": "beyond meat",
+    "summary": "Beyond Meat is often cited as evidence that veganism can be made mainstream and palatable, bolstering pragmatic, health- and environment-focused arguments for reducing animal consumption and for market-based policy support for plant-based alternatives.  Critics counter that its highly processed, corporate nature and marketing constitute greenwashing that undermines ethical or whole‑food vegan principles and shifts attention away from systemic animal‑rights and dietary-health claims.",
+    "queries": [
+      "Is Beyond Meat acceptable within veganism or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "food labeling laws",
+    "wiki_title": "food labeling in mexico",
+    "summary": "Debates over food labeling in Mexico are used by vegan advocates to push for clear \"vegan\" or \"plant‑based\" certifications that make ethical and animal‑welfare choices visible and to counter industry greenwashing, while industry actors resist strict definitions to preserve marketing flexibility. Critics and some policymakers also use nutritional labeling and front‑of‑pack warnings to frame certain vegan products as unhealthy ultra‑processed foods, shaping public perceptions and regulatory battles about what counts as acceptable vegan options.",
+    "queries": [
+      "Are food labeling laws for vegan products reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "mcplant",
+    "wiki_title": "mcplant",
+    "summary": "The McPlant is commonly invoked in discussions about veganism as a symbol of mainstreaming and corporate co‑optation—used by supporters to show plant‑based options becoming accessible and by critics to argue that marketized ‘vegan’ products often dilute ethical and purity standards (shared production, opaque ingredients, product rollbacks), reinforcing calls for clearer labeling and stronger definitions of what counts as vegan.",
+    "queries": [
+      "Is mcplant a reasonable vegan fast-food choice or not?"
+    ]
+  },
+  {
+    "id": "C2-3-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "registered dietitian nutritionist",
+    "wiki_title": "nutritionist",
+    "summary": "Nutritionists are cited as health authorities in veganism debates—credentialed experts are used to support claims that well-planned vegan diets can be healthy and reduce disease risk, while unregulated or industry-linked nutritionists are often marshaled to emphasize nutrient deficiencies (e.g., B12, iron, omega‑3) and argue against vegan policies for children, pregnant women, or institutional meal programs; thus their endorsement or critique is frequently used to legitimize or undermine veganism in public and policy discussions.",
+    "queries": [
+      "Is consulting a registered dietitian nutritionist for veganism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "iron deficiency anemia",
+    "wiki_title": "iron-deficiency anemia",
+    "summary": "Critics of veganism frequently invoke iron-deficiency anemia to argue that plant-based diets are nutritionally inadequate or unsafe for vulnerable groups (women, children, pregnant people), using it to justify recommending animal products or cautioning against unplanned veganism. Vegans and public-health proponents counter that with routine use of iron-rich plant foods, fortification, vitamin C and supplements the risk is manageable, framing the issue instead as one of education, supplementation policy, and broader causes of anemia rather than an inherent flaw of veganism.",
+    "queries": [
+      "How do people view iron deficiency anemia risks in veganism?"
+    ]
+  },
+  {
+    "id": "C2-6-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "american college of obstetricians and gynecologists",
+    "wiki_title": "american college of obstetricians and gynecologists",
+    "summary": "In public debates about veganism ACOG is cited as an authoritative voice on maternal and reproductive nutrition, and its guidance about nutrient risks (B12, iron, omega‑3) is used by critics to argue vegan diets can endanger pregnant people and infants. Supporters of veganism likewise invoke ACOG’s emphasis on supplementation, monitoring, and prenatal care to argue that well‑planned plant‑based diets can be compatible with pregnancy when medically supervised.",
+    "queries": [
+      "Is american college of obstetricians and gynecologists' guidance for vegan pregnancies reasonable?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "michael greger",
+    "wiki_title": "michael greger",
+    "summary": "Michael Greger is often invoked by pro-vegan advocates as a science-based authority whose presentation of research on disease prevention and longevity is used to justify adopting and promoting plant-based diets and related public-health policies. Critics use him to frame veganism as health-obsessive or evidence-cherry-picked, arguing his claims can overstate benefits or underplay nutritional caveats, so he functions as a focal point in debates over the medical legitimacy of veganism.",
+    "queries": [
+      "Is michael greger’s influence on veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "environmental impact",
+    "wiki_title": "environmental issues",
+    "summary": "Environmental concerns are central to pro‑vegan arguments, used to justify shifting diets toward plant‑based foods and policies like meat taxes, subsidies for alternatives, or climate‑focused dietary guidelines by citing livestock’s role in greenhouse gases, land use and biodiversity loss; critics counter by questioning comparative footprints, highlighting sustainable/regenerative livestock practices, regional food realities, or arguing that framing veganism as an individual environmental fix distracts from corporate and systemic drivers of ecological harm.",
+    "queries": [
+      "How do people view veganism’s environmental impact?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "greenhouse gas emissions",
+    "wiki_title": "greenhouse gas emissions",
+    "summary": "Emissions data are widely invoked by vegan advocates to portray plant‑based diets as a high‑impact climate solution and to push policies such as meat taxes, subsidies for alternatives, and climate‑focused dietary guidance. Critics and some policymakers use the same GHG framing to argue dietary change is an oversimplified or inequitable response—pointing instead to fossil‑fuel cuts, technological fixes, land‑use tradeoffs, or the limits of individual behavior—thereby using emissions metrics to oppose or qualify broad vegan transitions.",
+    "queries": [
+      "Is Veganism's effect on greenhouse gas emissions justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-1",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "carbon footprint",
+    "wiki_title": "carbon footprint",
+    "summary": "Carbon-footprint numbers are often deployed to argue that shifting to vegan or plant-based diets is one of the most effective individual and policy-level ways to cut emissions, used to justify vegan advocacy, carbon-labeling of foods, sustainable procurement, and meat-reduction policies. Critics and skeptics counter with caveats about scope, methane vs CO2 accounting, land-use change, and high-impact plant products to minimize claimed benefits or to promote alternatives like regenerative grazing, technological fixes, or broader industrial emissions cuts.",
+    "queries": [
+      "Is Veganism’s carbon footprint claim justified or not?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "food and agriculture organization",
+    "wiki_title": "food and agriculture organization",
+    "summary": "In debates about veganism the FAO functions as an authoritative evidence source: its reports on emissions, land and water use, and “sustainable diets” are frequently cited by vegans to justify plant‑based shifts for climate and nutrition. Opponents and policymakers also invoke FAO analysis emphasizing livestock’s role in livelihoods, nutrition in low‑income regions, and methodological limits to argue against blanket vegan prescriptions, casting the agency as a moderating voice that favors sustainable dietary transitions rather than absolute veganism.",
+    "queries": [
+      "Are the food and agriculture organization’s veganism recommendations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "deforestation",
+    "wiki_title": "deforestation",
+    "summary": "In vegan debates, deforestation is cited by advocates to blame large-scale animal agriculture (pasture and feed crops) for forest loss and to justify shifting diets and policies toward plant-based, land-sparing food systems to protect biodiversity and climate; opponents counter that certain vegan-associated supply chains (e.g., soy for export, palm oil, monocultures) also drive forest clearance, fueling arguments for sustainable sourcing, stronger land-use rules, and attention to indigenous rights rather than simple diet prescriptions.",
+    "queries": [
+      "How do people view deforestation in relation to veganism?"
+    ]
+  },
+  {
+    "id": "C3-2-1",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "cattle ranching",
+    "wiki_title": "ranch",
+    "summary": "Ranches are often used by critics of veganism to justify continued meat consumption by invoking tradition, rural livelihoods, and claims that responsible or “regenerative” ranching provides environmental stewardship and humane animal care. Vegans counter by pointing to ranching’s role in animal exploitation, greenhouse-gas emissions, and land-use inefficiency to argue for plant-based diets and policies that reduce or replace animal agriculture.",
+    "queries": [
+      "How do people view cattle ranching in the veganism debate?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "soybean production",
+    "wiki_title": "soybean",
+    "summary": "Vegans point to soy as a practical, mainstream foundation for plant-based diets—powering familiar meat and dairy alternatives and demonstrating nutritional viability—while critics invoke soybean-driven industrial agriculture (GMOs, monocultures and land-use impacts), disputed health claims, and cultural taunts like 'soy boy' to challenge or stigmatize veganism.",
+    "queries": [
+      "Is soybean production justified as a core part of veganism?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "palm oil",
+    "wiki_title": "palm oil",
+    "summary": "Palm oil is often wielded in vegan debates as a point of attack — critics cite its links to deforestation, biodiversity loss and abuses in supply chains to label vegan products hypocritical or insufficiently ethical — while supporters or many vegans counter by arguing plant-based choices still reduce overall harm and push for certified-sustainable sourcing, greater transparency, or a shift toward whole-food plant diets; this drives policy demands for supply‑chain reforms, certification schemes, or consumer boycotts within the vegan movement.",
+    "queries": [
+      "What effects has palm oil had on vegan ethics?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "amazon rainforest",
+    "wiki_title": "amazon rainforest",
+    "summary": "The Amazon is often invoked by pro‑vegan voices to connect cattle ranching and feed‑crop expansion to deforestation and biodiversity loss, framing dietary shifts away from animal products as a necessary climate and conservation policy. Critics counter by blaming complex commodity chains (or arguing for sustainable grazing) and use Amazon concerns to portray veganism as simplistic or hypocritical, shifting debate toward supply‑chain regulation rather than individual diet change.",
+    "queries": [
+      "How do people view veganism's impact on the amazon rainforest?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "amazon soy moratorium",
+    "wiki_title": "amazon soy moratorium",
+    "summary": "Advocates for veganism cite the Amazon Soy Moratorium as proof that shifting diets and pressuring commodity supply chains can reduce rainforest loss, supporting calls for corporate pledges and deforestation-free plant sourcing. Skeptics point to the moratorium’s voluntary scope, leakage and limits to argue that veganism alone won’t solve Amazon deforestation and that stronger regulation and broader land-use policies are required.",
+    "queries": [
+      "What effects does the Amazon soy moratorium have on veganism?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "methane emissions",
+    "wiki_title": "methane emissions",
+    "summary": "Champions of veganism point to livestock methane as a persuasive, near-term climate rationale for reducing or eliminating animal products and for policies that shift food systems toward plants; opponents and some policymakers push back by highlighting other dominant methane sources, promoting technological or industrial fixes (e.g., leak capture, feed additives, regenerative grazing) or arguing diet-focused solutions unfairly burden farmers and communities.",
+    "queries": [
+      "Is concern about methane emissions in veganism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "enteric fermentation",
+    "wiki_title": "enteric fermentation",
+    "summary": "Advocates of veganism frequently cite enteric fermentation-driven methane from ruminants to frame animal agriculture as a major climate problem and justify calls for reduced meat consumption, plant-based dietary guidance, and policies to limit livestock numbers. Opponents (industry groups, some policymakers) respond by downplaying its impact relative to CO2, highlighting mitigation technologies or sustainable grazing to argue for reforming rather than eliminating animal farming.",
+    "queries": [
+      "Is enteric fermentation a justified concern in Veganism or not?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "livestock's long shadow",
+    "wiki_title": "livestock's long shadow",
+    "summary": "Vegan advocates frequently cite \"Livestock's Long Shadow\" to portray animal agriculture as a major driver of greenhouse gas emissions and ecological harm, using it to argue that adopting plant-based diets is a necessary climate and sustainability policy. Industry defenders and skeptics similarly point to methodological limits in the report to challenge those claims and justify resisting broad dietary or regulatory shifts away from animal products.",
+    "queries": [
+      "What implications does livestock's long shadow have for veganism's arguments?"
+    ]
+  },
+  {
+    "id": "C3-3-4",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "3-nitrooxypropanol",
+    "wiki_title": "3-nitrooxypropanol",
+    "summary": "Claims that 3‑nitrooxypropanol can cut livestock methane are often used by industry and policymakers to frame continued animal farming as compatible with climate goals and to push back against calls for reduced animal-product consumption; vegans and critics counter that this is a techno‑fix or greenwash that downplays animal welfare, health and land‑use concerns and risks delaying a dietary shift toward plant‑based alternatives.",
+    "queries": [
+      "How do vegans view 3-nitrooxypropanol use in agriculture?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "asparagopsis",
+    "wiki_title": "asparagopsis",
+    "summary": "Asparagopsis is often invoked in veganism debates as a methane-reducing feed supplement that proponents of continued animal farming use to argue livestock can be decarbonized without mass dietary change; vegans and critics push back that its limited scalability, potential ecological risks from cultivating an invasive seaweed, and failure to address animal welfare make it an inadequate rebuttal to calls for reducing or eliminating animal products.",
+    "queries": [
+      "What effects has asparagopsis had on vegan environmental goals?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "water footprint",
+    "wiki_title": "water footprint",
+    "summary": "In debates about veganism, advocates cite the generally much lower water footprint of plant-based diets versus beef and dairy to argue veganism reduces freshwater scarcity and to justify dietary shifts or policy incentives; critics counter that water impacts are highly context-dependent—certain crops (e.g., nuts, irrigated produce), trade in virtual water, and local hydrology can make some plant-based options water-intensive—using these caveats to temper or oppose blanket claims that veganism is always the best water-saving policy.",
+    "queries": [
+      "Is veganism's water footprint concern reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-3",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "almond milk",
+    "wiki_title": "almond milk",
+    "summary": "Almond milk is frequently deployed by proponents as concrete evidence that veganism is practical and mainstream—an accessible, fortified dairy replacement used to counter arguments about nutritional inadequacy and lifestyle inconvenience. Critics, however, use its environmental footprint and industrialized production to question the sustainability and authenticity of some vegan choices, and it also figures in policy battles over ‘milk’ labeling as dairy interests push back against plant-based alternatives.",
+    "queries": [
+      "Is almond milk a reasonable choice within veganism or not?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "avocado",
+    "wiki_title": "avocado",
+    "summary": "Avocados are often cited by vegans as a creamy, nutrient-dense exemplar that shows plant-based diets can deliver satisfying fats and culinary variety. Critics use avocados’ high water use, links to deforestation and social-justice issues in production and their ‘hipster’ status to argue that mainstream veganism can be environmentally harmful, elitist, or dependent on unethical global supply chains, bolstering calls for local, seasonal and ethically sourced alternatives.",
+    "queries": [
+      "How do people view avocado's role in veganism?"
+    ]
+  },
+  {
+    "id": "C3-4-5",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "virtual water",
+    "wiki_title": "virtual water",
+    "summary": "Advocates of veganism use virtual-water calculations to argue that plant-based diets dramatically lower water footprints and to justify dietary shifts and policy incentives aimed at conserving water. Critics respond that embedded-water accounting can be misleading—imports can externalize water stress, local scarcity and food-security tradeoffs complicate blanket vegan policy recommendations, and focusing solely on virtual water risks ignoring social and economic impacts.",
+    "queries": [
+      "What effects has virtual water emphasis had on veganism?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "california drought",
+    "wiki_title": "droughts in california",
+    "summary": "California droughts are often used in vegan debates to argue for dietary change or caution: advocates point to water scarcity as a reason to reduce meat and dairy—which require large water inputs through feed and livestock—while critics highlight that some high‑profile vegan staples grown in California (e.g., almonds, certain fruits) are water‑intensive, using the drought to challenge blanket claims that plant‑based diets always save water. These competing framings feed policy arguments about water allocations, agricultural subsidies, and what counts as sustainable or locally appropriate plant‑based food production.",
+    "queries": [
+      "How do people view the california drought’s role in veganism choices?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "cowspiracy",
+    "wiki_title": "cowspiracy",
+    "summary": "The documentary Cowspiracy is often deployed by vegan advocates as a vivid environmental rationale for adopting plant-based diets and pressuring governments and NGOs to target animal agriculture, while critics point to the film to argue that the movement exaggerates livestock’s share of emissions and favors alarmist or oversimplified policy prescriptions.",
+    "queries": [
+      "How do people view cowspiracy within veganism discussions?"
+    ]
+  },
+  {
+    "id": "C3-6-1",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "kip andersen",
+    "wiki_title": "kip andersen",
+    "summary": "Kip Andersen is invoked by proponents of veganism through his high-profile documentaries as a dramatizing voice that frames veganism as an urgent, evidence-based remedy for environmental destruction and public-health problems and thus supports calls for personal dietary change and policy shifts away from animal agriculture. Critics, conversely, point to Andersen’s selective use of science and sensationalism to discredit broader vegan health/environmental claims and to argue against policy or cultural changes premised on his films’ conclusions.",
+    "queries": [
+      "How do people view kip andersen within veganism circles?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "keegan kuhn",
+    "wiki_title": "keegan kuhn",
+    "summary": "Keegan Kuhn, through widely viewed documentaries and activist media, is used to promote and justify veganism by framing animal agriculture as a leading cause of environmental destruction, public‑health problems, and ethical harm, thereby urging individual dietary change and policy attention. His films also shape debate by drawing sharp criticism for selective evidence and alarmist claims, which opponents cite to question the scientific credibility of vegan advocacy.",
+    "queries": [
+      "How do people view Keegan Kuhn's role in veganism?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "greenpeace",
+    "wiki_title": "greenpeace",
+    "summary": "Pro-vegan advocates cite Greenpeace as an authoritative environmental voice linking animal agriculture to climate change, deforestation and biodiversity loss, using its research and campaigns to justify reduced-meat diets, promotion of plant-based foods, and policies curbing industrial livestock production; conversely, opponents point to Greenpeace’s controversial tactics and anti‑GMO positions to question its credibility and portray vegan policy proposals as ideologically driven or alarmist.",
+    "queries": [
+      "How do people view greenpeace’s role in vegan advocacy?"
+    ]
+  },
+  {
+    "id": "C3-8",
+    "parent": "C3",
+    "level": 2,
+    "topic": "meatless monday",
+    "wiki_title": "meatless monday",
+    "summary": "As a pragmatic public-health and climate-framing tactic, Meatless Monday is often used to present veganism as an accessible, incremental goal—encouraging reduced-meat habits and normalizing plant-based meals rather than insisting on complete abstinence. Supporters cite it to justify gradual, policy-friendly shifts toward flexitarian diets, while critics among vegans call it tokenistic and argue it dilutes moral and systemic arguments for full veganism.",
+    "queries": [
+      "How do people view meatless monday as a vegan outreach tool?"
+    ]
+  },
+  {
+    "id": "C3-8-2",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "paul mccartney",
+    "wiki_title": "paul mccartney",
+    "summary": "Paul McCartney is often used by pro-vegan advocates as a mainstream, celebrity endorsement that normalizes plant-based diets and bolsters arguments for animal-welfare and meat-reduction policies, while critics invoke his high-profile activism to portray veganism as elitist or preachy and to resist celebrity-led dietary or regulatory changes.",
+    "queries": [
+      "What effects has Paul McCartney's vegan campaigning produced?"
+    ]
+  },
+  {
+    "id": "C3-8-3",
+    "parent": "C3-8",
+    "level": 3,
+    "topic": "center for a livable future",
+    "wiki_title": "livability",
+    "summary": "In debates over veganism, advocates use livability to argue that plant-based diets and policies (e.g., public procurement, urban agriculture) boost urban quality of life via better public health, lower pollution, and greener, more walkable communities; critics use livability to argue the opposite — that vegan-focused policies can be elitist, impractical in food deserts, harm local livelihoods, and reduce affordable or culturally appropriate food choices.",
+    "queries": [
+      "What impacts has the center for a livable future had on veganism?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "pepsico partnership",
+    "wiki_title": "pepsico",
+    "summary": "PepsiCo is frequently invoked as evidence that vegan and plant-based products have mainstream, corporate backing—advocates point to its investments and product launches to argue that market forces can scale vegan options and normalize plant-based diets. Critics, however, use PepsiCo to warn about corporate opportunism and greenwashing, claiming the company repackages ultra-processed vegan items for profit while continuing to lobby and market in ways that protect industrial animal-product interests.",
+    "queries": [
+      "Is the pepsico partnership justified or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "food industry and economy",
+    "wiki_title": "food industry",
+    "summary": "The food industry is invoked in vegan debates both as the chief target of criticism—portrayed by vegans as driving animal cruelty, environmental damage, and obstructing plant-forward policy—and as the principal defender of the status quo, using marketing, PR, and lobbying to frame veganism as extreme, unhealthy, or harmful to farmers and jobs. Simultaneously, segments of the industry co‑opt and reframe veganism by promoting corporate plant‑based products and incremental market solutions, steering public opinion and policy away from systemic change.",
+    "queries": [
+      "Is Veganism’s effect on the food industry and economy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "impossible foods",
+    "wiki_title": "impossible foods",
+    "summary": "Impossible Foods is often cited by proponents of veganism as evidence that plant-based diets can be tasty, convenient, and scalable—strengthening arguments for environmental and animal-welfare policies—while critics invoke it to argue that modern veganism has been industrialized and commodified, raising concerns about ultra-processed foods, corporate concentration, health claims, and how plant-based products should be regulated and labelled.",
+    "queries": [
+      "Are impossible foods a reasonable option for vegans or not?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "patrick o. brown",
+    "wiki_title": "patrick o. brown",
+    "summary": "Patrick O. Brown is frequently invoked as the technologist-entrepreneur who frames veganism as a market- and science-driven solution—using plant-based and lab-designed meat substitutes to reduce animal agriculture for climate, health, and welfare reasons—so supporters cite him to justify pragmatic, incremental shifts toward alternative proteins, while critics use him to argue that veganism is being industrialized and narrowed to processed, consumerist substitutes rather than ethical or whole-food principles.",
+    "queries": [
+      "Is Patrick O. Brown’s vegan advocacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "leghemoglobin",
+    "wiki_title": "leghemoglobin",
+    "summary": "Leghemoglobin is often invoked in vegan debates as the ‘heme’ ingredient that makes plant-based meats taste convincingly meaty, with proponents arguing it’s a technological boon that can reduce animal farming and suffering. Opponents and sceptics use it to challenge the acceptability of biotech- and highly-processed products—calling for clear vegan certification, GMO transparency, and stricter labeling or regulatory scrutiny.",
+    "queries": [
+      "Is leghemoglobin use in vegan products reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "meat analogue",
+    "wiki_title": "meat alternative",
+    "summary": "Meat alternatives are often invoked in debates to portray veganism as practical and scalable—used by proponents to argue ethical, environmental and health goals can be achieved without major cultural sacrifice and to justify policy support for plant-based industries and labeling reforms. Critics counter that highly processed substitutes dilute vegan principles, enable corporate greenwashing, or raise questions about nutrition and the vegan status of cultured products, making them flashpoints in disputes over authenticity, regulation, and the politics of food transition.",
+    "queries": [
+      "Are meat analogue choices reasonable for veganism or not?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "quorn",
+    "wiki_title": "quorn",
+    "summary": "Quorn is often invoked in veganism debates as a high-profile example of how familiar, meat-like commercial alternatives can make plant-based diets more accessible and socially mainstream. At the same time, controversies over which Quorn products are actually vegan and concerns about processing and corporate industrialization are used to challenge vegan authenticity, push for clearer labeling, and promote whole‑food plant‑based choices.",
+    "queries": [
+      "Are concerns about quorn justified among vegans?"
+    ]
+  },
+  {
+    "id": "C4-3-4",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "tofu",
+    "wiki_title": "tofu",
+    "summary": "Tofu is often cited by vegan advocates as a tangible proof point that plant-based diets can deliver affordable, protein-rich, low-emissions alternatives to meat, used to support policies for plant-forward public procurement and incentives for alternative proteins. Critics, however, invoke tofu to undermine veganism by framing it as bland or overly processed, by repeating contested health or cultural-appropriation arguments about soy, or by warning that large-scale soy production can create its own environmental problems, thus challenging broad sustainability and nutrition claims.",
+    "queries": [
+      "How do people view tofu within Veganism?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "seitan",
+    "wiki_title": "seitan",
+    "summary": "Advocates point to seitan as proof that veganism can provide satisfying, protein-rich meat analogues—strengthening arguments for wider adoption in restaurants, institutions, and policy by addressing taste and nutrition objections. Critics use seitan to argue veganism sometimes depends on highly processed, gluten-containing substitutes that may be unhealthy, allergenic, culturally appropriative, or inaccessible, undermining claims of universal practicality.",
+    "queries": [
+      "How do people view seitan within vegan diets?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "ultra-processed food",
+    "wiki_title": "ultra-processed food",
+    "summary": "Arguments about ultra-processed foods are used to challenge the health credentials of many packaged vegan products and meat substitutes, giving critics ammunition to portray veganism as potentially unhealthy or corporate-driven. Supporters counter that the concern targets processing not plant-based eating itself, framing policy debates toward promoting whole‑food plant diets, clearer labeling, and limits on highly processed vegan products.",
+    "queries": [
+      "What impacts has ultra-processed food had on veganism?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "agricultural subsidies",
+    "wiki_title": "agricultural subsidy",
+    "summary": "Proponents of veganism point to heavy subsidies for meat, dairy and commodity crops to argue that policy — not just personal preference — keeps animal products artificially cheap and environmentally destructive, so public funds should be redirected to support plant-based agriculture and smallholder livelihoods. Critics and industry defenders counter that subsidies protect farmers and rural economies, framing subsidy reform as economically harmful and using that to portray vegan policy proposals as impractical or elitist.",
+    "queries": [
+      "How do agricultural subsidies affect vegan food affordability?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "farm bill",
+    "wiki_title": "united states farm bill",
+    "summary": "The U.S. Farm Bill is frequently invoked in vegan debates to criticize how federal subsidies, crop insurance, and commodity programs indirectly prop up animal agriculture and cheap processed foods, which activists say entrenches environmental harms and makes plant-based diets less affordable and scalable. Advocates therefore push for Farm Bill reforms—shifting support toward fruits, vegetables, and alternative-protein research—while opponents use its SNAP and farm-support provisions to argue for protecting rural livelihoods and food-security trade-offs.",
+    "queries": [
+      "How do vegans view the farm bill's support for livestock?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "common agricultural policy",
+    "wiki_title": "common agricultural policy",
+    "summary": "In veganism debates the Common Agricultural Policy is framed as a structural lever or obstacle: critics and vegan advocates argue its subsidy and payment rules have historically favored livestock and dairy, keeping animal products cheap and impeding shifts to plant-based diets. Vegans push CAP reform to redirect support toward horticulture, legumes and agroecology for environmental and animal-welfare reasons, while farming lobbies invoke CAP protections to defend rural incomes and portray vegan-driven policy changes as economically damaging.",
+    "queries": [
+      "Is the common agricultural policy reasonable regarding animal-product subsidies?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "crop insurance",
+    "wiki_title": "crop insurance",
+    "summary": "Crop insurance is often invoked in veganism debates to argue that public risk subsidies artificially lower the cost of commodity feed crops and thus make meat and dairy cheaper than they would be otherwise, bolstering the claim that current policy tilts the food system away from plant-based diets. Critics of vegan policy change likewise point to crop insurance as a reason to protect farmers and rural livelihoods, while advocates push to reform or redirect such supports toward diversified, plant-focused agriculture.",
+    "queries": [
+      "Is crop insurance for vegan farmers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "renewable fuel standard",
+    "wiki_title": "renewable fuel standard (united states)",
+    "summary": "In vegan debates the U.S. Renewable Fuel Standard is often cited as a policy that diverts crops and cropland into fuel production, which critics say fuels monoculture, habitat loss and higher food prices—undermining the environmental and animal‑welfare case for plant‑based diets. Conversely, supporters of biofuels invoke the RFS to argue that reducing fossil fuel use through crop‑based fuels is a pragmatic climate policy, challenging claims that dietary change alone is the best route to lower emissions.",
+    "queries": [
+      "Is the renewable fuel standard reasonable for vegan environmental goals?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "bill gates",
+    "wiki_title": "bill gates",
+    "summary": "Bill Gates is often cited in veganism debates as a prominent advocate for reducing meat consumption and funding plant‑based and cultured‑meat technologies, with his investments and pronouncements used to justify climate‑focused policies and market support for alternative proteins. Opponents use his involvement to portray vegan advocacy as elite, techno‑optimistic, or paternalistic—arguing it prioritizes industrial solutions over cultural, ethical, or individual dietary choice and sometimes pointing to perceived hypocrisy.",
+    "queries": [
+      "What impact does bill gates' funding have on vegan food innovation?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "flexitarianism",
+    "wiki_title": "flexitarianism",
+    "summary": "Flexitarianism is often invoked in debates to frame veganism as idealistic or impractical, providing a moderate, compromise-friendly alternative that industry groups and policymakers use to argue for incremental meat reduction rather than full vegan transitions. Advocates of veganism typically criticize this framing as enabling greenwashing and delaying systemic change, though some activists accept flexitarianism as a pragmatic stepping stone toward wider dietary shifts and policy measures.",
+    "queries": [
+      "Is flexitarianism compatible with veganism or not?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "regenerative agriculture",
+    "wiki_title": "regenerative agriculture",
+    "summary": "Regenerative agriculture is frequently deployed by ranchers, policymakers, and “sustainable meat” advocates to challenge vegan environmental critiques—claiming well-managed livestock can sequester carbon and restore soils and thus justify continued animal farming—while vegans counter that those claims are often unproven at scale, can serve as greenwashing that prolongs animal exploitation, and should not replace policies that favor efficient, plant-based food systems.",
+    "queries": [
+      "How do vegans view regenerative agriculture practices?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "processed meat",
+    "wiki_title": "processed meat",
+    "summary": "Advocates of veganism cite the health and industrial-harm narratives around processed meat to argue for reduced animal-product consumption, stricter regulation, and a shift to plant-based diets; critics counter by comparing processed meats to ultra‑processed vegetarian products or framing harms as solvable by reform, using those comparisons to defend meat-eating or incremental policy approaches rather than full veganism.",
+    "queries": [
+      "How do people view processed meat in the context of veganism?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "politics and public policy",
+    "wiki_title": "public policy",
+    "summary": "In debates over veganism, public policy is invoked to legitimize or block dietary change: proponents push regulations, subsidies, public procurement rules, school nutrition standards, meat taxes and labelling reforms to frame plant-based diets as beneficial for health, animal welfare and climate, while industry and rural stakeholders use policy arguments and lobbying to protect animal agriculture—emphasizing food security, jobs, tradition and restrictive labelling to portray veganism as economically or culturally harmful.",
+    "queries": [
+      "Is Veganism’s politics and public policy agenda reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "meat industry",
+    "wiki_title": "meat industry",
+    "summary": "Proponents of meat industry interests often use the sector in debates about veganism to paint vegan diets as unrealistic or harmful to jobs and rural cultures, promote ‘humane’ or sustainable meat alternatives, and lobby against plant-based policies. Critics and vegan advocates, by contrast, cite the industry's environmental damage, animal welfare abuses, and political influence to argue that veganism is an ethical and necessary response that requires stronger regulation and reduced meat consumption.",
+    "queries": [
+      "How do people view the meat industry regarding veganism?"
+    ]
+  },
+  {
+    "id": "C5-2-1",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "tyson foods",
+    "wiki_title": "tyson foods",
+    "summary": "Tyson Foods is frequently invoked in vegan debates as the archetype of industrial animal agriculture—used by vegans and advocates to illustrate environmental damage, animal cruelty, and corporate lobbying that blocks plant-based competition. Conversely, defenders of meat consumption or critics of veganism point to Tyson to argue that large-scale shifts to vegan diets would harm jobs, rural economies, and food security, while Tyson’s investments in alternative proteins are often portrayed as industry co‑optation or greenwashing.",
+    "queries": [
+      "What effects has Tyson Foods had on perceptions of veganism?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "meat tax",
+    "wiki_title": "meat tax",
+    "summary": "Proponents of veganism cite meat taxes as a policy lever to make animal-based foods less economically attractive and accelerate shifts to plant-based diets, using it to move the debate from personal ethics to public-health and climate policy. Opponents use the idea to portray vegan advocacy as coercive, elitist, or regressive—arguing it infringes on choice, burdens low-income families and farmers, and thereby undermines broader support for vegan-aligned reforms.",
+    "queries": [
+      "What consequences might a meat tax tied to veganism cause?"
+    ]
+  },
+  {
+    "id": "C5-4-1",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "meat lobby",
+    "wiki_title": "lobby (food)",
+    "summary": "In debates about veganism, 'lobby' is often invoked by critics as an emblem of regional, working-class meat traditions to argue that vegan advocacy is culturally insensitive or elitist and to resist meat-reduction policies. Conversely, vegans and advocates sometimes highlight plant-based versions of dishes like lobby to show that familiar flavors and social rituals can be preserved while reducing animal welfare and environmental harms.",
+    "queries": [
+      "Is the meat lobby's influence on veganism debates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "regressive tax",
+    "wiki_title": "regressive tax",
+    "summary": "In debates over meat taxes, subsidies, or pricing policies meant to encourage plant-based diets, opponents invoke the 'regressive tax' frame to argue such measures disproportionately burden low-income households and thus unfairly penalize non‑wealthy consumers; advocates counter by proposing targeted rebates, subsidies for plant-based foods, or revenue‑recycling to offset impacts, shaping whether vegan-oriented policies are presented as elitist/environmental justice tools or as economically harmful to the poor.",
+    "queries": [
+      "How do people view regressive tax within the veganism movement?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "green party",
+    "wiki_title": "green party",
+    "summary": "Green parties commonly promote veganism as a practical climate and animal-welfare policy—advocating public procurement of plant-based meals, incentives for alternatives, meat‑reduction campaigns, and dietary guidance as part of a just transition. Critics use green‑party vegan advocacy to portray it as elitist, culturally insensitive, or harmful to rural livelihoods, fueling debates over voluntary nudges versus coercive measures like meat taxes.",
+    "queries": [
+      "Is the green party's position on veganism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "farmers' protests",
+    "wiki_title": "farmers' protest",
+    "summary": "Farmers' protests are frequently used by opponents of veganism to frame plant-based advocacy as an urban elite threat to rural livelihoods and food sovereignty, justifying protectionist policies, subsidies, and legal barriers to vegan labeling. Vegan proponents, in turn, cite these protests to highlight industry resistance to environmental and animal-welfare reforms and to argue for just-transition policies that support farmers moving toward sustainable or plant-based production.",
+    "queries": [
+      "Are farmers' protests justified regarding veganism-related policies?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "national school lunch program",
+    "wiki_title": "national school lunch act",
+    "summary": "Advocates cite the National School Lunch Act as a policy lever to expand federally supported vegan/plant-based options in schools, arguing nutrition standards and funding can promote children's health, environmental goals, and animal-welfare values. Opponents — often including agricultural lobbies and concerned parents — invoke the Act to defend meat-and-dairy provisions, raising nutrition, parental-choice, religious-objection, and local-control arguments to criticize or block vegan-friendly changes.",
+    "queries": [
+      "Is the national school lunch program offering vegan meals reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "healthy, hunger-free kids act of 2010",
+    "wiki_title": "healthy, hunger-free kids act of 2010",
+    "summary": "Pro‑vegan advocates point to the Healthy, Hunger‑Free Kids Act of 2010—its focus on more fruits, vegetables and whole grains—as a policy lever to push schools toward plant‑based lunch options, while critics and some administrators invoke the act’s nutrient and meal‑component rules (and cost/implementation concerns) to argue that fully vegan school meals are impractical, nutritionally challenging, or an unwelcome government mandate.",
+    "queries": [
+      "How do people view the healthy, hunger-free kids act of 2010?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "people for the ethical treatment of animals",
+    "wiki_title": "people for the ethical treatment of animals",
+    "summary": "PETA frequently appears in vegan debates as the high-profile, uncompromising advocate that frames veganism as a moral imperative and uses provocative media campaigns to pressure consumers and policymakers to abandon animal products and industrial farming. Its shock tactics and controversies (including criticism over euthanasia and extreme messaging) are often cited by opponents to portray veganism as fringe or counterproductive, while supporters credit it with raising urgency about animal suffering.",
+    "queries": [
+      "Are people for the ethical treatment of animals justified within veganism?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "sodexo",
+    "wiki_title": "sodexo",
+    "summary": "Sodexo is often used as a visible test case in vegan debates—advocates point to its large institutional contracts to argue that corporate caterers can and should shift menus toward plant-based options and procurement to advance animal-welfare and climate goals. Skeptics and critics, however, highlight token vegan offerings, pricing and contract constraints, or PR-driven sustainability pledges by Sodexo to argue that corporate commitments are insufficient or insincere unless backed by real policy and menu changes.",
+    "queries": [
+      "Is Sodexo’s vegan menu offering sufficient or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "dietary guidelines for americans",
+    "wiki_title": "dietary guidelines for americans",
+    "summary": "The Dietary Guidelines for Americans are frequently cited in veganism debates as an authoritative arbiter of what constitutes a healthy diet — advocates point to its growing emphasis on plant-based eating to push for more vegan options in schools and public institutions, while critics highlight its continued endorsement of dairy and animal proteins to argue veganism is unnecessary or nutritionally risky. Both supporters and opponents also use accusations of industry influence on the guidelines to bolster claims that policy and public-health messaging either inadequately support or unfairly marginalize vegan diets.",
+    "queries": [
+      "How do people view the dietary guidelines for americans regarding veganism?"
+    ]
+  },
+  {
+    "id": "C5-6-2",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "myplate",
+    "wiki_title": "myplate",
+    "summary": "MyPlate is frequently invoked in discussions of veganism to justify mainstream dietary norms that include animal-derived protein and dairy, prompting critics to argue it marginalizes plant-based diets and downplays environmental or ethical concerns. Vegan advocates counter by adapting or critiquing MyPlate to show that vegan meals can meet its nutritional goals and to press for plant-forward policy changes in schools and institutions.",
+    "queries": [
+      "How do people view myplate’s relevance to vegan diets?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "C5",
+    "level": 2,
+    "topic": "right to farm",
+    "wiki_title": "right-to-farm laws",
+    "summary": "Proponents of industrial animal agriculture and some policymakers invoke right-to-farm laws to defend common livestock practices against vegan-led campaigns for stricter animal welfare rules, zoning changes, or nuisance suits, framing veganism as a threat to rural livelihoods. Vegans and critics counter that these laws function as legal shields that inhibit accountability and local efforts to curb factory farming and expand plant-based alternatives.",
+    "queries": [
+      "How do vegans view the right to farm?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "alicia silverstone",
+    "wiki_title": "alicia silverstone",
+    "summary": "Alicia Silverstone is frequently cited as a celebrity advocate who frames veganism as an ethical, healthful, family-oriented lifestyle—using her public platform and books to normalize plant-based parenting and animal-welfare arguments. Critics, however, point to her as an example of privileged, prescriptive activism, using her stance to argue that some vegan advocacy can be moralizing or unrealistic for broader public policy and parenting debates.",
+    "queries": [
+      "Is Alicia Silverstone's vegan advocacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-3-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "industrial agriculture",
+    "wiki_title": "industrial agriculture",
+    "summary": "Critics point to the animal welfare abuses, environmental harms, and corporate concentration of industrial agriculture to frame veganism as an ethical and pragmatic response and to advocate for policies that shift subsidies and markets toward plant-based foods. Defenders of industrial systems counter that their efficiency and role in global food supply make outright veganism impractical, using the industry to argue for welfare-focused reforms or technological fixes rather than eliminating animal products.",
+    "queries": [
+      "Is industrial agriculture compatible with veganism?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "science and innovation",
+    "wiki_title": "science and innovation park",
+    "summary": "Science and innovation parks that incubate plant‑based and cellular‑agriculture startups are invoked by vegan advocates to demonstrate veganism’s technological legitimacy, scalability, and economic promise, strengthening arguments for public research funding and supportive regulation. Critics counter that these parks symbolize a technocratic, corporate or elitist turn in veganism—framing it as processed, industrialized, or monopolized food production rather than a grassroots dietary and ethical movement.",
+    "queries": [
+      "Is veganism’s science and innovation justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "cultured meat",
+    "wiki_title": "cultured meat",
+    "summary": "Proponents use cultured meat to argue that technological innovation can achieve vegan aims (animal welfare, lower emissions) without requiring people to adopt vegan diets, framing it as a pragmatic middle way that undercuts moral pressure to stop eating animal products. Critics and many vegans counter that it may entrench industrial meat systems, rely on animal-derived inputs, and distract from systemic dietary and agricultural change—shaping disputes over whether to regulate, label, or subsidize cultured products as a complement or alternative to veganism.",
+    "queries": [
+      "What impact has cultured meat had on veganism?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "upside foods",
+    "wiki_title": "upside foods",
+    "summary": "Upside Foods is frequently cited in vegan debates as a cultured-meat success story used to argue for pragmatic, harm-reduction approaches—promising meat-like products without slaughter and supporting flexitarian or policy-focused emissions reductions. Many vegans, however, criticize it for normalizing continued meat consumption, reinforcing corporate control and techno‑solutionism, and sidestepping ethical arguments against animal commodification and dietary change.",
+    "queries": [
+      "Is Upside Foods' role in veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "cellular agriculture",
+    "wiki_title": "cellular agriculture",
+    "summary": "Supporters invoke cellular agriculture as a pragmatic extension of vegan aims—promoting investment and regulatory support for animal-free meat and dairy as a way to reduce slaughter and win over flexitarians—while opponents within vegan circles argue it normalizes continued consumption of animal-derived products, risks entrenching corporate, techno‑industrial solutions, and should not replace advocacy for whole‑food plant‑based diets or abolitionist animal‑rights goals.",
+    "queries": [
+      "Is cellular agriculture a reasonable alternative for vegans or not?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "eat just",
+    "wiki_title": "eat just",
+    "summary": "Eat Just, a food‑tech company behind plant‑based egg products and cultured meat efforts, is often invoked in veganism debates as evidence that market and tech solutions can mainstream animal‑free diets by offering convenient, palatable alternatives. Supporters cite it to justify pragmatic, consumer‑focused paths to reduce animal use, while critics use it to argue against corporate co‑option, over‑processing, and whether lab‑grown or highly processed items truly align with vegan ethics and principles.",
+    "queries": [
+      "Is eat just aligned with veganism’s principles or not?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "aleph farms",
+    "wiki_title": "aleph farms",
+    "summary": "Aleph Farms is often cited in veganism debates as a high‑profile example of cell‑cultured “ethical” meat that supporters use to argue for a technological compromise to reduce animal suffering while preserving meat consumption; conversely, many vegans criticize it for normalizing demand for animal products, entrenching corporate control of food, and diverting policy and public attention away from plant‑based diets.",
+    "queries": [
+      "Is aleph farms' cultured meat acceptable within veganism or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "precision fermentation",
+    "wiki_title": "precision fermentation",
+    "summary": "Proponents invoke precision fermentation to argue that veganism can be practical and mainstream by delivering animal-identical ingredients at scale, using that claim to justify public investment, permissive regulation, and corporate adoption as a pathway from animal agriculture. Critics within and outside the movement counter that reliance on engineered microbes risks corporate consolidation, patent-driven control, and a techno-optimistic shift away from ethical or agroecological goals, prompting calls for stricter oversight, open-source models, or alternative strategies.",
+    "queries": [
+      "How do people view precision fermentation within veganism?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "perfect day",
+    "wiki_title": "perfect day",
+    "summary": "Perfect Day is often invoked as a flagship example of biotech-produced dairy proteins that proponents use to argue veganism’s goals—ending animal suffering while preserving familiar tastes and convenience—can be met without animals. Critics, however, point to it as emblematic of corporate, highly processed ‘animal‑free’ solutions that may dilute whole‑food ethical principles, create labeling and regulatory disputes, and sidestep broader systemic critiques of industrial agriculture.",
+    "queries": [
+      "Is aiming for a perfect day as a vegan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "good food institute",
+    "wiki_title": "the good food institute",
+    "summary": "The Good Food Institute is cited in veganism debates as a pragmatic, market‑and‑science-focused advocate that promotes plant‑based and cultivated meat, corporate partnerships, and policy incentives as scalable ways to reduce animal agriculture’s environmental and health harms. Supporters use it to justify incremental, industry‑engaged paths toward vegan outcomes, while critics argue it frames veganism technocratically and favors industry‑friendly, market solutions over ethical or systemic food‑justice approaches.",
+    "queries": [
+      "What effects has the good food institute had on veganism?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "national milk producers federation",
+    "wiki_title": "odisha state cooperative milk producers' federation",
+    "summary": "In debates over veganism in India, the Odisha State Cooperative Milk Producers' Federation is typically invoked to defend continued dairy consumption by highlighting rural livelihoods, cultural norms, and the cooperative model as a responsible alternative to industrial dairy; its presence is used to criticize vegan arguments as economically and socially insensitive and to argue for reforming dairy practices rather than abandoning them. ",
+    "queries": [
+      "How do people view the National Milk Producers Federation's role in veganism?"
+    ]
+  },
+  {
+    "id": "C6-8",
+    "parent": "C6",
+    "level": 2,
+    "topic": "food and drug administration",
+    "wiki_title": "food and drug administration",
+    "summary": "In debates over veganism the FDA is frequently cited to legitimize or challenge plant‑based diets—through its approval of ingredients, nutrition and health claims, fortification rules, and safety reviews for novel alternatives (including cell‑cultured products) that can make vegan options appear safe and nutritionally adequate. Critics, however, point to FDA limits on mandatory nutrient standards and relatively lax oversight of dietary supplements to argue veganism poses regulatory and nutritional risks.",
+    "queries": [
+      "How do people view the food and drug administration regarding vegan labeling?"
+    ]
+  },
+  {
+    "id": "C6-8-4",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "standards of identity",
+    "wiki_title": "standards of identity for food",
+    "summary": "Standards of identity are frequently wielded in plant‑based food disputes: incumbent dairy and meat interests cite them to block vegan products from using established names like “milk,” “cheese,” or “burger,” framing plant‑based alternatives as misleading imitations, while vegan advocates push to reinterpret or reform those rules to protect market access, consumer clarity, and innovation and to challenge what they see as industry protectionism.",
+    "queries": [
+      "How do people view standards of identity within veganism?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6",
+    "level": 3,
+    "topic": "nhs",
+    "wiki_title": "national health service",
+    "summary": "The NHS is regularly invoked in veganism debates: supporters point to NHS research on diet-related disease and potential cost savings to argue that public-health guidance, hospital menus, and procurement should favor plant-based diets, while critics cite NHS warnings about nutrient deficiencies and risks for infants or vulnerable patients to frame strict veganism as medically risky or irresponsible.",
+    "queries": [
+      "Is nhs offering vegan meals in hospitals justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "cyanocobalamin",
+    "wiki_title": "cyanocobalamin",
+    "summary": "In debates over veganism, cyanocobalamin is often cited by proponents to show that vitamin B12 needs can be safely and cheaply met through supplementation or fortified foods, supporting claims that a plant-based diet is nutritionally adequate; conversely, critics point to the need for B12 pills—or disputes over which B12 form is best—as evidence that vegan diets are risky, unnatural, or dependent on pharmaceutical supplements, influencing arguments about public health guidance and food-fortification policy.",
+    "queries": [
+      "How do people view cyanocobalamin supplementation within veganism?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "nutritional yeast",
+    "wiki_title": "nutritional yeast",
+    "summary": "Advocates use nutritional yeast as a practical emblem of veganism’s culinary and nutritional viability—showing plant-based diets can deliver savory, cheese-like flavors and B vitamins (often via fortification) to rebut claims that veganism is bland or nutritionally deficient; opponents invoke reliance on fortified or processed items like nutritional yeast to argue veganism depends on industrial supplements and therefore is less 'natural' or self-sufficient than its supporters claim.",
+    "queries": [
+      "How do people view nutritional yeast among vegans?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "pernicious anemia",
+    "wiki_title": "pernicious anemia",
+    "summary": "Opponents of veganism often cite pernicious anemia as a dramatic example that strict plant-based diets can lead to dangerous B12 deficiency, using it to argue for animal products or stricter medical oversight; vegan advocates respond that the example actually underscores the need for routine B12 supplementation, testing, and food-fortification policies to make vegan diets safe and responsible.",
+    "queries": [
+      "How do people view pernicious anemia risks among vegans?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6",
+    "level": 3,
+    "topic": "mcdonald's",
+    "wiki_title": "mcdonald's",
+    "summary": "McDonald's is invoked in vegan debates as a symbol of meat-centric industrial food systems and corporate resistance to serious animal‑welfare and dietary change, with activists accusing its token plant‑based offerings of greenwashing and insufficient supply‑chain reform. At the same time, its experiments with vegan menu items are cited by proponents as evidence that plant-based diets can be made accessible, affordable, and scalable through mainstream fast‑food channels.",
+    "queries": [
+      "Are critics' concerns about McDonald's and veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "initial public offering",
+    "wiki_title": "initial public offering",
+    "summary": "When plant-based companies pursue IPOs, supporters cite those public offerings as market validation that veganism is mainstream, economically viable, and deserving of investment and policy support. Critics counter that IPO-driven growth commodifies and greenwashes vegan ethics—prioritizing shareholder returns, moderating activist stances, and turning a moral movement into a market trend.",
+    "queries": [
+      "What effects has an initial public offering had on veganism?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "leonardo dicaprio",
+    "wiki_title": "leonardo dicaprio",
+    "summary": "Leonardo DiCaprio is often invoked in vegan debates as a high-profile environmental celebrity whose climate advocacy is used to justify and popularize arguments that reducing animal-product consumption is necessary for emissions reductions; supporters point to his platform to legitimize mainstream vegan messaging. Conversely, critics deploy him as an emblem of celebrity virtue-signaling or alleged lifestyle inconsistency to discredit media-driven calls for dietary change and to argue that elite endorsements don’t translate into practical or equitable policy solutions.",
+    "queries": [
+      "Is Leonardo DiCaprio’s vegan advocacy justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "food labeling",
+    "wiki_title": "list of food labeling regulations",
+    "summary": "Lists of food labeling regulations are deployed in vegan debates to demand clear ‘vegan’ or ‘plant-based’ designations and independent certification so consumers can avoid hidden animal ingredients, while critics point to regulatory complexity to contest or restrict those claims. They frame policy fights (e.g., use of dairy/meat names, allergen and cross‑contamination rules), and are invoked both to accuse companies of greenwashing and to defend incumbent animal‑product interests.",
+    "queries": [
+      "Is food labeling for vegan products accurate or reasonable?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "north american meat institute",
+    "wiki_title": "north american meat institute",
+    "summary": "The North American Meat Institute is often invoked in debates about veganism as the organized voice defending meat production—funding research, PR, and lobbying that challenges environmental and health claims made by vegan advocates while emphasizing meat’s nutritional role, jobs, and cultural importance. It frames veganism as impractical or economically damaging and opposes policies or labeling changes that would advantage plant‑based alternatives.",
+    "queries": [
+      "What impacts has north american meat institute had on veganism?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "life-cycle assessment",
+    "wiki_title": "life-cycle assessment",
+    "summary": "Life-cycle assessments are often used in vegan debates to quantify and greenhouse-gas, land and water savings from replacing animal products with plant-based foods, giving activists and policymakers empirical backing for promoting vegan diets, carbon labeling and meat-reduction policies. Because LCA results hinge on methodological choices and system boundaries, opponents and industry groups cite selective LCAs to question the universality of vegan environmental benefits (e.g., pointing to high-impact crops, transport or land-use tradeoffs) and to argue for more nuanced, context-dependent dietary policies rather than blanket vegan prescriptions.",
+    "queries": [
+      "What impacts has life-cycle assessment had on veganism claims?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "culture and identity",
+    "wiki_title": "cultural identity",
+    "summary": "Cultural identity is deployed both to resist veganism—defending meat-based rituals, cuisines, and livelihoods as essential heritage or accusing vegan campaigns of cultural imperialism—and to legitimize it, as groups frame plant-based diets as expressions of religious, ethical, environmental, or health identities and use those narratives to support policy changes or critique vegan messaging as elitist or out-of-touch with local foodways.",
+    "queries": [
+      "How do people view Veganism’s culture and identity?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "carnism",
+    "wiki_title": "carnism",
+    "summary": "Vegans and advocacy groups invoke 'carnism' to explain meat-eating as a culturally embedded belief system that blocks empathy for farmed animals and to justify ethical, educational, and policy campaigns promoting plant-based diets and animal-protective laws; opponents counter by labeling vegan critiques as another ideology, arguing that the concept oversimplifies cultural differences and can be used to dismiss personal or economic arguments against vegan reforms.",
+    "queries": [
+      "How do people view carnism in relation to veganism?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "carnivore diet",
+    "wiki_title": "carnivore diet",
+    "summary": "Advocates of meat-heavy diets invoke the carnivore diet to portray veganism as unnecessary or nutritionally insufficient, framing animal-only eating as a natural, protein-focused counterexample to plant-based claims; conversely, vegans and health experts point to the diet’s extreme, unbalanced nature and health risks to discredit meat-centric arguments and defend evidence-based, plant-forward nutrition policies.",
+    "queries": [
+      "Is the carnivore diet reasonable or not in vegan discussions?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "ecofeminism",
+    "wiki_title": "ecofeminism",
+    "summary": "Ecofeminist writers and activists frame veganism as part of resisting patriarchal, extractive systems—arguing that meat consumption and industrial animal agriculture are linked to the domination of women, marginalized people, and nature and therefore that plant-based diets advance both ecological and feminist justice. They typically support intersectional, systemic reforms (e.g., food sovereignty, labor protections, alternatives to capitalist agribusiness) and critique purely individualistic or consumerist “choice” narratives that ignore structural oppression, while some strands also promote a spiritual/compassionate ethic toward nonhuman life.",
+    "queries": [
+      "Is ecofeminism’s influence within veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "carol j. adams",
+    "wiki_title": "carol j. adams",
+    "summary": "Carol J. Adams is cited in vegan debates as a theorist who links meat-eating to patriarchal power and gendered violence, giving advocates a feminist rationale for ethical or intersectional veganism and a vocabulary (e.g., the erasure of animal subjectivity) to challenge pro‑meat narratives. Her work is used to criticize appeals to tradition or masculinity in defense of meat and to push policy and cultural arguments that connect animal liberation with gender and social justice.",
+    "queries": [
+      "How do people view carol j. adams' arguments within veganism?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "the sexual politics of meat",
+    "wiki_title": "the sexual politics of meat",
+    "summary": "Adams’s book is often invoked in vegan debates to frame meat-eating as linked to patriarchy and sexualized domination, supporting an intersectional feminist case that veganism is not only about animal welfare but also resists gendered objectification; conversely, critics cite it to warn against conflating metaphorical links with policy or to argue the framing can essentialize gender and alienate potential allies.",
+    "queries": [
+      "Is the sexual politics of meat justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "patriarchy",
+    "wiki_title": "patriarchy",
+    "summary": "Critiques of patriarchy show up in vegan debates when meat-eating is defended as a marker of masculinity—used to dismiss or deride veganism as ‘unmanly’ and to protect male-dominated animal agriculture and hunting traditions from regulation. Conversely, feminist and intersectional advocates invoke patriarchy to link the exploitation of animals with the oppression of women and labor, framing veganism as a challenge to gendered power structures and a basis for policies that address food, health, and labor justice.",
+    "queries": [
+      "Is patriarchy influencing veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "indigenous food sovereignty",
+    "wiki_title": "food sovereignty",
+    "summary": "Advocates invoke food sovereignty to frame veganism as compatible with local, agroecological control of food systems—arguing plant‑based diets reduce corporate livestock power and better support community health and cultural autonomy. Critics counter that food sovereignty exposes veganism’s limits when universal vegan prescriptions override Indigenous and rural food practices, urging policies that prioritize local control and culturally appropriate diets rather than one‑size‑fits‑all ethics.",
+    "queries": [
+      "How do people view indigenous food sovereignty within veganism?"
+    ]
+  },
+  {
+    "id": "C7-4-7",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "care ethics",
+    "wiki_title": "ethics of care",
+    "summary": "Advocates invoke ethics of care to frame veganism as a relational duty to reduce the suffering of vulnerable animals and to push for compassionate food choices and welfare-focused policies rather than abstract rights rhetoric. Critics also use care-based arguments to caution against blanket vegan prescriptions when they would neglect existing caregiving relationships, cultural practices, or the needs of people dependent on animal-based livelihoods, urging context-sensitive compromises.",
+    "queries": [
+      "How do people view care ethics within Veganism?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "vegan leather",
+    "wiki_title": "artificial leather",
+    "summary": "In veganism debates, artificial leather is often deployed as evidence that ethical, animal-free fashion is practical and market-ready, supporting arguments for mainstream vegan consumption and industry transition. Opponents counter that petroleum-based production, microplastic pollution, and “vegan leather” greenwashing undermine environmental claims and spur calls for stricter labeling and sustainability standards rather than blanket praise.",
+    "queries": [
+      "How do people view vegan leather in Veganism?"
+    ]
+  },
+  {
+    "id": "C7-5-1",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "piñatex",
+    "wiki_title": "piñatex",
+    "summary": "Piñatex is frequently cited by proponents to demonstrate that veganism can deliver practical, fashionable alternatives to animal leather, supporting market- and policy-oriented arguments for replacing animal products with plant-based materials. Conversely, critics and some vegans point to its PLA and petroleum-derived components and lifecycle impacts to argue that vegan fashion can still be non-biodegradable or resource-intensive, highlighting risks of greenwashing and nuanced environmental trade-offs.",
+    "queries": [
+      "Is piñatex a reasonable vegan leather alternative or not?"
+    ]
+  },
+  {
+    "id": "C7-5-2",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "mycelium leather",
+    "wiki_title": "mycelium",
+    "summary": "Advocates point to mycelium as a scalable, animal-free source of meat analogues and sustainable materials (leather, packaging), using it to argue that veganism is technologically viable and worthy of research funding and favorable regulation; critics and some whole-food vegans counter that mycelium products are industrially processed, invite labeling and “naturalness” disputes, and can be used to argue that high-tech substitutes stray from simpler plant-based ethics.",
+    "queries": [
+      "What impacts has mycelium leather had for veganism?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "stella mccartney",
+    "wiki_title": "stella mccartney",
+    "summary": "Stella McCartney is often invoked by proponents to show that vegan principles can translate into high-fashion, mainstream, and commercially successful design, reinforcing portrayals of veganism as stylish, ethical consumerism. Critics use her example to question whether celebrity-led vegan fashion meaningfully addresses systemic animal- and labor-rights issues or instead risks greenwashing through luxury branding and synthetic-material trade‑offs.",
+    "queries": [
+      "What impacts has stella mccartney had on mainstream vegan fashion?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "microplastics",
+    "wiki_title": "microplastics",
+    "summary": "Microplastics are invoked by pro‑vegan voices to highlight contamination and biomagnification in seafood and animal products, framing plant‑based diets as a way to reduce exposure and curb demand for plastic‑intensive industries. Conversely, critics use microplastic concerns to challenge veganism’s environmental credentials—pointing to plastic packaging, processed vegan foods, and synthetic vegan textiles—and to push for broader anti‑plastic policies and regulation rather than diet change alone.",
+    "queries": [
+      "How do people view microplastics' role in vegan food choices?"
+    ]
+  },
+  {
+    "id": "C7-1-3",
+    "parent": "C7",
+    "level": 3,
+    "topic": "holocaust on your plate",
+    "wiki_title": "holocaust on your plate",
+    "summary": "PETA’s “Holocaust on Your Plate” is cited within veganism debates as an extreme shock tactic that frames animal agriculture as morally equivalent to human genocide to morally justify strict ethical veganism and urgent animal-rights reforms. Because it provoked widespread outrage for appearing to trivialize Jewish suffering, it’s also used to criticize provocative messaging—arguing such comparisons alienate allies, damage movement credibility, and strengthen calls for more sensitive, strategic advocacy or limits on tactics.",
+    "queries": [
+      "How do people view holocaust on your plate messaging in veganism?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "celebrity endorsement",
+    "wiki_title": "celebrity branding",
+    "summary": "Celebrities often make veganism visible and aspirational—driving consumer demand, normalizing plant-based diets, and framing vegan choices as fashionable, healthful, or climate-friendly—thus bolstering market-oriented and lifestyle-friendly pro-vegan narratives. At the same time, celebrity branding can be criticized for trivializing the movement’s ethical and policy aims, promoting performative or corporate-friendly alternatives, and provoking skepticism when endorsements feel inauthentic.",
+    "queries": [
+      "How do people view celebrity endorsement of veganism?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "greenwashing",
+    "wiki_title": "greenwashing",
+    "summary": "In debates about veganism, “greenwashing” is invoked by activists to expose food companies that market vegan or plant‑based products as environmentally friendly while masking unsustainable supply chains or token animal‑welfare gestures, thereby strengthening calls for stricter labeling, transparency, and regulation. Opponents also use the accusation to portray corporate vegan initiatives as cynical PR rather than meaningful change, fueling public skepticism about industry commitments.",
+    "queries": [
+      "How do people view greenwashing among vegan brands?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "dairy industry",
+    "wiki_title": "dairy",
+    "summary": "Dairy is a central target in vegan arguments—as evidence of animal welfare abuses, environmental damage, and health concerns that justify avoiding animal products, promoting plant-based alternatives, and pushing policy changes like school-menu reform or subsidy shifts. Opponents invoke cultural norms, nutrition claims, farmer livelihoods and “humane” or sustainable dairy narratives (and legal labeling fights) to defend dairy and resist vegan policies.",
+    "queries": [
+      "How do people view the dairy industry within veganism debates?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "supermarket chains",
+    "wiki_title": "list of supermarket chains in the united kingdom",
+    "summary": "Lists of UK supermarket chains are used in veganism debates to demonstrate how mainstream or marginal plant‑based options are—campaigners point to major retailers' product ranges and pricing to argue veganism is accessible and scalable, while critics cite gaps in availability or higher costs across chains to claim plant‑based diets are impractical or elitist. They also act as targets for policy and corporate‑responsibility arguments (labelling, shelf placement, subsidies and supply‑chain commitments), with pressure focused on the biggest chains to shape public consumption norms.",
+    "queries": [
+      "How do people view supermarket chains supporting vegan products?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "activism and social movements",
+    "wiki_title": "activism",
+    "summary": "Vegan activism frames veganism as an ethical, public-health, and climate necessity—using undercover investigations, boycotts, protests and social-media campaigns to push for reduced animal agriculture, plant-based procurement in institutions, labeling and welfare reforms. Those tactics and moral claims also generate backlash that portrays veganism as elitist or extremist, shaping polarized policy debates and public trust.",
+    "queries": [
+      "How do people view Veganism's activism and social movements?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "peta",
+    "wiki_title": "peta",
+    "summary": "PETA is frequently invoked in vegan debates as the high‑visibility advocate that frames veganism in absolute moral terms—supporters use its campaigns to justify ethical and policy shifts (corporate vegan options, legal limits on animal use), while opponents point to its provocative tactics to depict vegans as extreme. Its activism therefore both energizes animal‑rights arguments and polarizes public opinion about veganism, shaping both promotion and criticism of the movement.",
+    "queries": [
+      "How do people view PETA’s tactics in the vegan movement?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "ingrid newkirk",
+    "wiki_title": "ingrid newkirk",
+    "summary": "Ingrid Newkirk is frequently cited by both supporters and opponents of veganism as a high‑profile, often provocative voice who frames veganism as a moral imperative and pushes aggressive campaigns and policy pressure to end animal exploitation. Her confrontational tactics and absolutist rhetoric are used by critics to paint veganism as extreme or unrealistic, while allies point to her leadership in animal‑rights campaigns to justify stronger legal and corporate reforms toward plant‑based practices.",
+    "queries": [
+      "Is ingrid newkirk’s activism within veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-2",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "alex pacheco",
+    "wiki_title": "alex pacheco",
+    "summary": "Alex Pacheco’s undercover exposés and high‑profile PETA campaigning are frequently invoked by vegans and animal‑rights abolitionists to illustrate systemic animal suffering and to justify ethical veganism and direct, publicity‑driven tactics. Critics, however, use him as a symbol of sensationalist or confrontational activism to argue that such approaches are extreme, alienate moderates, and can undermine credibility of the vegan movement.",
+    "queries": [
+      "Is alex pacheco’s activism within veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "silver spring monkeys",
+    "wiki_title": "silver spring monkeys",
+    "summary": "The Silver Spring monkeys case is frequently cited by vegans and animal‑rights advocates as a vivid example of institutionalized animal suffering to argue that using animals (for food, research, or other purposes) is ethically unjustifiable and supports calls for veganism and stronger legal protections; critics and pro‑research voices counter by portraying the case as exceptional or sensationalized, using it to resist broad policy changes or to defend the necessity of some animal use.",
+    "queries": [
+      "What effects have Silver Spring Monkeys had on veganism?"
+    ]
+  },
+  {
+    "id": "C8-1-5",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "holocaust comparisons",
+    "wiki_title": "comparisons between israel and nazi germany",
+    "summary": "Comparisons between Israel and Nazi Germany sometimes surface in vegan debates as extreme analogies—equating state or industry practices with genocidal oppression—to shock audiences, justify abolitionist arguments, or to support boycott and direct-action tactics. Such parallels tend to polarize discussion, strengthening radical critiques of animal agriculture while provoking accusations of antisemitism and alienating mainstream supporters, often undermining constructive policy debate.",
+    "queries": [
+      "How do people view holocaust comparisons within veganism?"
+    ]
+  },
+  {
+    "id": "C8-1-6",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "nude protests",
+    "wiki_title": "nudity and protest",
+    "summary": "Animal-rights advocates and some vegan groups use nude protests as a shock tactic to personify animal vulnerability and dramatize exploitation (e.g., anti-fur, anti-leather actions), framing veganism as an ethical, embodied demand for empathy and consumer change. While such stunts can generate publicity and pressure for boycotts or welfare reforms, they also invite criticism as indecent or sensationalist and are frequently cited by opponents to portray vegans as extreme, potentially undermining mainstream policy support.",
+    "queries": [
+      "How do people view nude protests within vegan activism?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "undercover investigations",
+    "wiki_title": "list of undercover investigations into animal abuse",
+    "summary": "Graphic undercover footage is frequently used by vegan advocates to make ethical and emotional arguments for abandoning animal products and for stronger welfare regulation, persuading consumers and policymakers by portraying animal use as systemic cruelty; critics and industry defenders, however, invoke claims of selective editing, illegality, or atypical examples to discredit those videos and defend continued animal farming practices.",
+    "queries": [
+      "Are undercover investigations within veganism advocacy justified or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "animal liberation front",
+    "wiki_title": "animal liberation front",
+    "summary": "References to the Animal Liberation Front are frequently used in discussions of veganism to portray the movement as extreme or potentially violent—giving opponents and policymakers a rationale to dismiss vegan arguments, call for increased policing, or resist institutional reforms. Supporters sometimes invoke the ALF to signal moral urgency and uncompromising animal-liberation goals, while most mainstream vegans use it to distance themselves from illegal tactics and emphasize nonviolent, policy-driven change.",
+    "queries": [
+      "Is the animal liberation front justified within veganism or not?"
+    ]
+  },
+  {
+    "id": "C8-2-1",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "ronnie lee",
+    "wiki_title": "ronnie lee",
+    "summary": "Ronnie Lee is invoked in debates about veganism as the archetype of militant animal-rights activism—opponents use his history of direct action to portray veganism as linked to extremism and criminality, while some radical vegans and activists praise him as a principled exemplar, fueling disputes over the ethics and legality of aggressive tactics and policy responses to animal advocacy.",
+    "queries": [
+      "Is Ronnie Lee's activism justified within veganism or not?"
+    ]
+  },
+  {
+    "id": "C8-2-2",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "earth liberation front",
+    "wiki_title": "earth liberation front",
+    "summary": "The Earth Liberation Front is often invoked in vegan debates as a cautionary example—opponents cite its eco‑sabotage to paint vegan activism as extremist and to justify surveillance or restrictions—while some fringe animal‑rights supporters point to its direct‑action tactics as a model for militant resistance, forcing mainstream vegans to emphasize nonviolence and policy‑based reform to distance the movement from radicalism.",
+    "queries": [
+      "What consequences has the earth liberation front had for veganism?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "animal enterprise terrorism act",
+    "wiki_title": "animal enterprise terrorism act",
+    "summary": "Critics of veganism and animal-rights direct action invoke the Animal Enterprise Terrorism Act to brand protests, undercover investigations, or property-based tactics as ‘‘terrorism,’’ thereby justifying prosecutions, surveillance, and stricter laws to protect animal agriculture and discredit vegan advocacy. Conversely, vegan activists and civil-liberties defenders argue the law is used to chill legitimate protest and delegitimize the movement, framing veganism as a politically suppressed social cause rather than a security threat.",
+    "queries": [
+      "Does the animal enterprise terrorism act fairly target vegan protest methods?"
+    ]
+  },
+  {
+    "id": "C8-2-4",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "green scare",
+    "wiki_title": "green scare",
+    "summary": "The “Green Scare” label is invoked in veganism debates to depict animal-rights and vegan activists as dangerous extremists or domestic terrorists, a framing used to justify surveillance, criminalization, and harsher penalties for direct-action tactics. Activists and defenders of vegan advocacy, by contrast, deploy the term to argue that the state is unfairly repressing legitimate moral and political protest and to defend civil liberties and nonviolent vegan outreach.",
+    "queries": [
+      "What consequences has veganism's green scare caused?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "huntingdon life sciences",
+    "wiki_title": "huntingdon life sciences",
+    "summary": "Huntingdon Life Sciences is often invoked by vegan activists as a high-profile exemplar of institutional animal suffering to justify vegan ethical arguments, consumer boycotts, and campaigns to end or reform animal testing. Opponents and industry defenders, meanwhile, point to the company to portray veganism as extremist or impractical and to argue for the continuation or regulation of animal research on scientific and public-safety grounds.",
+    "queries": [
+      "Is Huntingdon Life Sciences' work reasonable or not among vegans?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "direct action everywhere",
+    "wiki_title": "direct action everywhere",
+    "summary": "Direct Action Everywhere is often invoked in veganism debates as the exemplar of uncompromising, civil-disobedience activism that frames veganism as an urgent moral and political project—using rescues, undercover investigations, and public disruptions to pressure institutions and normalize abolitionist vegan demands. Critics and policymakers use DxE’s tactics to portray the wider vegan movement as extremist or unlawful and to justify limits on protest or defence of incremental welfare and corporate ‘humane’ reforms against abolitionist criticism.",
+    "queries": [
+      "What consequences has direct action everywhere caused for veganism?"
+    ]
+  },
+  {
+    "id": "C8-3-1",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "open rescue",
+    "wiki_title": "open rescue",
+    "summary": "Open rescues are frequently invoked by vegan advocates as dramatic, evidence-based proof of animal suffering that legitimizes personal dietary change and stronger legal protections or abolitionist policies for animal agriculture; opponents use them to frame veganism as lawless or extreme, pressing for tougher enforcement and property-rights defenses while critics of those critiques point to the activists' transparency and nonviolence to argue for moral urgency and reform.",
+    "queries": [
+      "How do people view open rescue in veganism?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "In debates about veganism, activists sometimes push to deplatform vocal pro-meat promoters, graphic industry content, or alleged nutritional misinformation, while opponents use deplatforming claims to paint vegan advocates as intolerant or censorious. This contention is used to argue for stricter moderation to prevent harm and misinformation or, conversely, to defend free speech and cultural expression depending on one’s stance.",
+    "queries": [
+      "What effects has deplatforming had on vegan advocacy?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "veganuary",
+    "wiki_title": "veganuary",
+    "summary": "Advocates use Veganuary as a mainstreaming tool to frame veganism as an accessible, low-risk trial that delivers ethical and environmental benefits and therefore warrants corporate menu changes and policy support for reduced meat consumption. Critics counter that it encourages short-term virtue-signaling or faddish behavior and use the campaign to argue veganism is impractical, performative, or an insufficient basis for lasting dietary or policy change.",
+    "queries": [
+      "What impacts has veganuary had on veganism and public behavior?"
+    ]
+  },
+  {
+    "id": "C8-4-1",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "the vegan society",
+    "wiki_title": "the vegan society",
+    "summary": "The Vegan Society is commonly cited by advocates as an authoritative legitimizer—providing the widely used definition of veganism, research, and the Vegan Trademark to support ethical, health, and environmental claims and policy proposals—while critics point to its strict definitions or industry partnerships to portray veganism as ideological, impractical, or commercialized. Thus it functions both to mainstream and credentialize vegan arguments and as a focal point for critiques about purity, feasibility, and co‑option.",
+    "queries": [
+      "How do people view the vegan society?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "peter singer",
+    "wiki_title": "peter singer",
+    "summary": "Peter Singer is often cited to frame veganism as a moral obligation grounded in utilitarian opposition to “speciesism,” using suffering‑based arguments to justify avoiding animal products and pushing for policies that reduce animal harm. Critics counter by invoking his rigorous, sometimes controversial conclusions to argue that strict veganism is too demanding, to defend incremental welfare reforms or human‑first priorities, or to question whether his calculus should determine dietary policy.",
+    "queries": [
+      "How do people view Peter Singer’s role in veganism?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "effective altruism",
+    "wiki_title": "effective altruism",
+    "summary": "Effective altruism treats veganism as a high-impact cause to be pursued through cost‑effective, measurable interventions—e.g., targeted donations, corporate campaigns, and support for plant‑based or lab‑grown alternatives—to maximize reductions in farmed‑animal suffering. This pragmatic, outcome-focused framing often prioritizes incremental or technological solutions over rights‑based, identity, or cultural arguments for veganism, prompting criticism that it sidelines moral absolutism and deeper systemic change.",
+    "queries": [
+      "What impacts has effective altruism had on veganism?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "utilitarianism",
+    "wiki_title": "utilitarianism",
+    "summary": "Utilitarian arguments are commonly used by vegan advocates to frame plant-based diets and policy shifts (e.g., factory-farm reform, subsidies for alternatives, support from effective-altruist campaigns) as moral imperatives because they most reduce sentient suffering and maximize overall welfare. Critics respond that utilitarian aggregation can justify trade-offs (sacrificing some animals or human interests for greater net benefit) or fail to capture rights-based and identity-driven objections to veganism.",
+    "queries": [
+      "How do people view utilitarianism in the veganism debate?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "euthanasia",
+    "wiki_title": "euthanasia",
+    "summary": "Euthanasia is used in vegan debates to spotlight a split between welfare-minded pragmatists and abolitionist purists: some vegans accept humane euthanasia for suffering or terminal animals as preferable to prolonged cruelty in farming, labs, or shelters, while others argue that normalizing killing—even to end suffering—undermines the vegan goal of abolishing animal use. This framing shapes policy arguments over no-kill shelters, end-of-life care for companion and farmed animals, and whether reforms should prioritize reducing suffering or ending animal exploitation altogether.",
+    "queries": [
+      "Is euthanasia for animals consistent with veganism principles or not?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "disability rights movement",
+    "wiki_title": "disability rights movement",
+    "summary": "Disability-rights arguments are often used to oppose blanket or mandatory vegan policies—contending that institutional veganism can be medically exclusionary or ableist when it removes access to necessary animal-based foods or ignores accommodation needs—while disability advocates and allies also use rights-based language to demand that the vegan movement and public food policies become more inclusive, provide accessible plant-based options, and avoid ableist messaging.",
+    "queries": [
+      "How do people view the disability rights movement's veganism debates?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "factory farming",
+    "wiki_title": "intensive animal farming",
+    "summary": "Critics of animal agriculture often invoke intensive animal farming as central evidence in vegan arguments—using images of factory farms to moralize meat avoidance, push for plant-based diets, stronger animal welfare laws, and climate-oriented food policy. Conversely, industry defenders and some reformists cite its role in cheap, large-scale food production to portray veganism as impractical or elitist and to argue for incremental reforms (e.g., ‘humane’ standards) instead of abolition.",
+    "queries": [
+      "What impacts has factory farming had on veganism?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "concentrated animal feeding operation",
+    "wiki_title": "concentrated animal feeding operation",
+    "summary": "Vegan advocates point to CAFOs as emblematic evidence that modern animal agriculture is cruel, environmentally destructive, and a public-health hazard, using them to justify moral and policy arguments for reducing or eliminating animal products and shifting to plant-based diets. Critics or welfare-focused opponents counter that CAFO problems call for stricter regulation or improved husbandry (or are economically necessary), framing CAFO reform as an alternative to full veganism rather than a rationale for it.",
+    "queries": [
+      "What impacts have concentrated animal feeding operation practices had on vegan movements?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "california proposition 12",
+    "wiki_title": "2018 california proposition 12",
+    "summary": "California’s 2018 Proposition 12 is often invoked in vegan debates as a case of welfare reform that reduces particular cruelties while leaving animal agriculture intact—framed by some as pragmatic progress and by many vegans as a problematic legitimization of animal use that diverts attention from abolition and plant‑based transitions. It’s thus used both to justify stricter farm regulations and to criticize incrementalist policy approaches that, critics say, undercut the moral and consumer arguments for veganism.",
+    "queries": [
+      "Is california proposition 12 reasonable for veganism advocates or not?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "antimicrobial resistance",
+    "wiki_title": "antimicrobial resistance",
+    "summary": "Vegan advocates often use antimicrobial resistance linked to routine antibiotic use in industrial animal agriculture to argue that shifting toward plant-based diets is necessary for public health and should drive policies limiting prophylactic antibiotic use and intensive livestock production. Critics push back by emphasizing AMR’s complexity—arguing for improved stewardship, targeted regulation, or noting antimicrobial use in nonanimal sectors—to resist claims that veganism alone is the solution.",
+    "queries": [
+      "Is concern about antimicrobial resistance from Veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "earthlings (film)",
+    "wiki_title": "earthlings (film)",
+    "summary": "Activists and advocates commonly use Earthlings as a visceral advocacy film to expose animal suffering and morally justify ethical or abolitionist veganism, often citing it to push for behavior change and stricter animal-use policies. Opponents and industry defenders counter that its graphic presentation is emotionally manipulative propaganda, using that critique to defend incremental welfare reforms or current animal-use practices.",
+    "queries": [
+      "What effects has earthlings (film) had on veganism opinions?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and information",
+    "wiki_title": "information",
+    "summary": "Proponents of veganism deploy scientific and statistical information—on animal welfare, health outcomes, and environmental impacts—to portray vegan diets as evidence-based ethical and climate policy choices and to push for labeling, dietary guidelines, subsidies, or meat taxes. Critics and industry defenders counter by disputing data quality, highlighting nutritional or economic counter-evidence, and emphasizing uncertainty or cultural context to undermine policy changes and frame veganism as impractical or ideologically driven.",
+    "queries": [
+      "What effects has media and information had on veganism?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "the game changers",
+    "wiki_title": "the game changers",
+    "summary": "The Game Changers is often deployed in public debates as a high-profile, athlete-focused endorsement of veganism—advocates cite its stories and athletes to argue that plant-based diets boost performance and health, while critics use it to claim vegan advocacy relies on celebrity-driven, selective presentation of evidence and overstates scientific support.",
+    "queries": [
+      "Is the game changers film about veganism convincing or not?"
+    ]
+  },
+  {
+    "id": "C9-3-1",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "james wilks",
+    "wiki_title": "james wilks",
+    "summary": "James Wilks is invoked in veganism debates through his high-profile advocacy (notably The Game Changers) that frames plant-based diets as compatible with — and even advantageous for — athletic performance and health, a narrative supporters use to normalize veganism for elite sport and public nutrition; critics counter by disputing his evidence and methods, using those critiques to argue the film overstates benefits and should not drive policy or dietary guidelines.",
+    "queries": [
+      "Is James Wilks' advocacy within veganism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "patrik baboumian",
+    "wiki_title": "patrik baboumian",
+    "summary": "Patrik Baboumian is commonly invoked by vegan advocates as a high-profile example that a plant-based diet can support elite strength and athletic performance, used to rebut claims that vegans are inherently weak or protein-deficient. Critics counter that his case is anecdotal or atypical, arguing it doesn’t settle broader nutritional or public-health debates about vegan diets.",
+    "queries": [
+      "How do people view patrik baboumian within veganism?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "nutrition science",
+    "wiki_title": "nutritional science",
+    "summary": "Advocates of veganism lean on nutritional science to argue that well-planned plant-based diets lower risks of heart disease, obesity, and some cancers and can meet nutrient needs, using that evidence to push dietary guidelines and institutional plant-based options. Critics also cite nutritional science to warn about common shortfalls (B12, iron, omega‑3s, calcium, protein bioavailability), argue for supplements or caution for pregnant/infant/elderly groups, and reject blanket claims that vegan diets are universally optimal.",
+    "queries": [
+      "How do people view nutrition science related to Veganism?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "national cattlemen's beef association",
+    "wiki_title": "national cattlemen's beef association",
+    "summary": "The National Cattlemen's Beef Association is frequently deployed in debates about veganism as an industry advocate that frames vegan diets as a threat to public health, culinary tradition, and rural livelihoods, funding PR and research to challenge vegan environmental and nutritional claims. It lobbies against plant‑based labeling and policy shifts favoring meat alternatives while promoting messaging that normalizes beef consumption and casts veganism as economically harmful or ideologically driven.",
+    "queries": [
+      "What effects has the national cattlemen's beef association had on veganism?"
+    ]
+  },
+  {
+    "id": "C9-4-1",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "beef checkoff program",
+    "wiki_title": "checkoff",
+    "summary": "Commodity checkoff programs fund industry-wide marketing and lobbying that normalize and promote meat and dairy consumption, and are frequently cited by critics who argue these publicly-backed campaigns actively counter vegan messaging by framing animal products as healthy, traditional, and environmentally benign. Vegans and reformers therefore attack checkoffs as unfairly subsidizing pro-animal-agriculture narratives and sometimes push to redirect fees toward plant-based promotion or to restrict mandatory checkoff spending that disparages vegan alternatives.",
+    "queries": [
+      "Is the beef checkoff program reasonable for vegans or not?"
+    ]
+  },
+  {
+    "id": "C9-4-2",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "beef. it's what's for dinner",
+    "wiki_title": "beef. it's what's for dinner",
+    "summary": "The \"Beef. It's What's for Dinner\" campaign is frequently invoked in veganism debates to normalize and celebrate beef consumption, bolstering narratives that meat is traditional, nutritious, and economically vital and thus resisting vegan arguments and policy changes such as reduced subsidies or labeling. Critics—vegans, environmentalists, and animal‑welfare advocates—use the same focus on beef to highlight its high greenhouse‑gas footprint, land use, health and ethical costs and to justify dietary shifts or regulation in favor of plant‑based alternatives.",
+    "queries": [
+      "What impact does 'beef. it's what's for dinner' have on Veganism?"
+    ]
+  },
+  {
+    "id": "C9-4-7",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "u.s. department of agriculture",
+    "wiki_title": "united states department of agriculture",
+    "summary": "In veganism debates the USDA is cast as a gatekeeper whose subsidies, commodity programs, dietary guidance, school/SNAP procurement rules and labeling decisions can either entrench animal‑product industries or enable plant‑based shifts; critics say its close ties to livestock and dairy interests bias policy against veganism, while advocates press it to foreground plant‑forward guidelines, expand vegan options in public nutrition programs, and allow fair labeling for alternatives.",
+    "queries": [
+      "How do people view the u.s. department of agriculture regarding vegan policies?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube is a primary battleground for veganism debates, amplifying pro‑vegan documentaries, recipe and lifestyle influencers, and investigative exposés of animal agriculture while also hosting anti‑vegan creators, industry-sponsored rebuttals and misinformation. Its recommendation algorithms, monetization policies, and moderation choices heavily influence which pro- or anti‑vegan narratives spread, often privileging sensational, sponsored, or short-form content over nuanced scientific or ethical discussions.",
+    "queries": [
+      "How do people view youtube's role in veganism discussions?"
+    ]
+  },
+  {
+    "id": "C9-5-1",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "james aspey",
+    "wiki_title": "james aspey",
+    "summary": "James Aspey is frequently referenced in debates as a high-profile animal-rights advocate whose personal testimony and public stunts are used to frame veganism as a moral imperative and practical route to reduce animal suffering, improve health, and limit environmental harm. Supporters point to his emotional storytelling to justify activism and policy shifts toward plant-based options, while critics use him to illustrate claims that vegan advocacy can be moralizing, absolutist, or performative.",
+    "queries": [
+      "Is James Aspey's vegan activism justified or not?"
+    ]
+  },
+  {
+    "id": "C9-5-7",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "reaction videos",
+    "wiki_title": "reaction video",
+    "summary": "Reaction videos are often used in vegan debates to amplify persuasive impact—showing candid shock at slaughterhouse footage, emotional responses to animal-cruelty documentaries, or positive taste-test reactions to plant-based foods—to humanize vegan arguments and nudge viewers toward plant-based diets or animal-welfare policies. At the same time, opponents use the same format to mock or discredit veganism (e.g., feigned disgust at vegan foods or derision of activist claims), so reaction videos can either legitimize or undermine vegan positions depending on framing and editorial choices.",
+    "queries": [
+      "Are reaction videos about veganism justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "ag-gag laws",
+    "wiki_title": "ag-gag",
+    "summary": "Vegans and animal-rights advocates cite ag-gag laws as proof that the animal agriculture industry hides cruelty and that transparency is needed, using them to justify ethical and consumer-rights arguments for reducing or abandoning animal products; conversely, defenders of ag-gag frame the laws as protecting farms from deceptive or illegal undercover tactics, turning the issue into a flashpoint over free speech, consumer disclosure, and the legitimacy of activist evidence in debates about veganism.",
+    "queries": [
+      "How do people view ag-gag laws in relation to vegan activism?"
+    ]
+  },
+  {
+    "id": "C9-6-2",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "animal legal defense fund",
+    "wiki_title": "animal legal defense fund",
+    "summary": "The Animal Legal Defense Fund is frequently invoked by vegan advocates as a legal authority that frames animal agriculture as subject to litigation and regulatory reform—using lawsuits and policy campaigns to challenge factory farming practices, oppose \"ag-gag\" laws, and push for protections that bolster arguments for veganism and plant-based policy shifts. Critics, conversely, portray the ALDF as an activist, litigious force seeking to impose dietary and economic changes, using it to argue that vegan-driven legal strategies constitute overreach that threatens farmers and food businesses.",
+    "queries": [
+      "What consequences has the animal legal defense fund caused for veganism?"
+    ]
+  },
+  {
+    "id": "C9-6-3",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "american civil liberties union",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is often invoked in veganism debates as a defender of activists’ free‑speech and protest rights (for example opposing “ag‑gag” laws that would criminalize undercover investigations) and as a legal advocate for institutional accommodation of vegan diets on religious, ethical, or medical grounds. Its involvement frames veganism as a civil‑liberties and conscience issue—supporting protection for advocacy and accommodation—while critics sometimes argue this legal framing politicizes or privileges vegan claims.",
+    "queries": [
+      "Are the American Civil Liberties Union's actions regarding veganism justified?"
+    ]
+  },
+  {
+    "id": "C9-6-4",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "american farm bureau federation",
+    "wiki_title": "american farm bureau federation",
+    "summary": "The American Farm Bureau Federation is often cited in veganism debates as a defender of animal agriculture, framing vegan diets and plant-based policies as threats to farmers’ livelihoods, rural economies, and food security and using lobbying and public messaging to counter claims about the environmental or health superiority of veganism. It typically opposes labeling and regulatory changes that benefit meat and dairy alternatives and promotes narratives prioritizing conventional farming and consumer choice over systemic shifts toward veganism.",
+    "queries": [
+      "How do people view american farm bureau federation regarding veganism?"
+    ]
+  },
+  {
+    "id": "C9-6-5",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "first amendment",
+    "wiki_title": "first amendment to the united states constitution",
+    "summary": "The First Amendment is frequently invoked in vegan debates to defend activists’ protests, leafleting, undercover investigations and publication of criticism of animal agriculture, and to challenge restrictions on vegan advocacy or commercial speech (e.g., labeling rules). It also appears in litigation over religious or conscience-based vegan diet accommodations (prisons, schools, workplaces) and is used both to press claims for protection and by opponents who argue free‑speech rights do not require others to host or fund vegan messaging.",
+    "queries": [
+      "How do people view veganism’s first amendment arguments?"
+    ]
+  },
+  {
+    "id": "C9-6-7",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "dominion (film)",
+    "wiki_title": "dominion (disambiguation)",
+    "summary": "Invocations of “dominion” — most often in religious or cultural debates — are used to justify continued animal use and oppose vegan ethical or policy demands by framing humans as entitled to exploit animals; vegan advocates counter by reframing dominion as stewardship or rejecting it altogether to support animal-protection laws, welfare reforms, or rights-based arguments for plant-based diets.",
+    "queries": [
+      "What effects has dominion (film) had on people's views?"
+    ]
+  },
+  {
+    "id": "C9-2-3",
+    "parent": "C9",
+    "level": 3,
+    "topic": "plant-based diet",
+    "wiki_title": "plant-based diet",
+    "summary": "The phrase “plant-based diet” is often used to reframe veganism in pragmatic, health- and climate-focused terms, making reduced-animal eating more politically and commercially palatable and supporting policy or industry shifts that cut meat without demanding full ethical veganism. At the same time it is criticized by some vegans as diluting or commodifying moral arguments, and is invoked by industry and flexitarian advocates to resist stronger ethical or regulatory calls for animal-rights–driven change.",
+    "queries": [
+      "Is a plant-based diet central to veganism or not?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "dry january",
+    "wiki_title": "dry january",
+    "summary": "Dry January is often cited in discussions of veganism as a precedent for time-limited 'try it' campaigns (e.g., Veganuary), with supporters arguing that short-term experiments can lower barriers, normalize plant-based eating, and build public support for policies like expanded plant-based options; critics counter that equating veganism with a month-long trial frames it as a seasonal or performative trend rather than a sustained ethical or dietary commitment.",
+    "queries": [
+      "What effects has Dry January had on vegan communities?"
+    ]
+  },
+  {
+    "id": "C9-2-5",
+    "parent": "C9",
+    "level": 3,
+    "topic": "national farmers' union",
+    "wiki_title": "national farmers union",
+    "summary": "National farmers unions are often invoked as defenders of animal agriculture in veganism debates, framing vegan advocacy as a threat to rural livelihoods, food security, and national sovereignty while emphasizing cultural and economic harms. They typically criticize policies that would privilege plant-based diets (e.g., meat taxes or procurement shifts), advocate for incremental welfare and sustainability reforms, and push for just-transition supports for farmers rather than abolition of animal farming.",
+    "queries": [
+      "How do people view the national farmers' union regarding veganism?"
+    ]
+  },
+  {
+    "id": "C9-2-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "new year's resolutions",
+    "wiki_title": "new year's resolution",
+    "summary": "Advocates and organizers use New Year’s resolutions to frame trying veganism as an accessible, time-limited experiment (e.g., Veganuary), normalizing plant-based choices and promoting low-cost behavior-change campaigns and nudges. Critics and skeptics seize the same framing to dismiss veganism as a fad or performative gesture—arguing it signals weak commitment and undermines calls for stronger moral claims or regulatory measures.",
+    "queries": [
+      "What impacts do new year's resolutions for veganism have?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9",
+    "level": 3,
+    "topic": "instagram",
+    "wiki_title": "instagram",
+    "summary": "Instagram amplifies visually-driven, influencer-led pro-vegan narratives—glossy recipes, lifestyle transformations and hashtag communities—that normalize and market veganism while recruiting followers and boosting vegan businesses. Its algorithmic, image-first format and moderation tendencies often favor simplified, consumerist or performative messages (and can spread viral misinformation) while marginalizing more radical animal-rights or systemic policy critiques.",
+    "queries": [
+      "What impacts has instagram had on veganism communities?"
+    ]
+  },
+  {
+    "id": "C9-2-8",
+    "parent": "C9",
+    "level": 3,
+    "topic": "climate change",
+    "wiki_title": "climate change",
+    "summary": "Climate change is frequently invoked by vegan advocates to justify plant-based diets as a high-impact climate mitigation measure—citing livestock methane, land-use change, and deforestation to support policies like meat taxes, public procurement shifts, and dietary guidelines. Critics counter that climate framing can misplace responsibility on individual food choices rather than fossil-fuel and industrial emissions, promote alternatives like regenerative grazing or lab-grown meat, or risk unfairly burdening low-income communities.",
+    "queries": [
+      "Is promoting veganism to combat climate change justified or not?"
+    ]
+  },
+  {
+    "id": "C9-1-4",
+    "parent": "C9",
+    "level": 3,
+    "topic": "animal testing",
+    "wiki_title": "animal testing",
+    "summary": "In vegan discourse, animal testing is frequently invoked as another form of institutionalized animal exploitation—especially in cosmetics and nonessential research—to argue for abolition of animal use, stronger legal bans, and investment in non‑animal alternatives. Critics counter by citing lifesaving medical advances tied to animal research to justify narrow exemptions for biomedical studies, creating a central tension in vegan advocacy between uncompromising animal rights and pragmatic public‑health arguments.",
+    "queries": [
+      "Is avoiding products linked to animal testing reasonable for vegans?"
+    ]
+  },
+  {
+    "id": "C9-1-5",
+    "parent": "C9",
+    "level": 3,
+    "topic": "fur trade",
+    "wiki_title": "fur trade",
+    "summary": "In vegan arguments the fur trade is a frequent exemplar of avoidable animal cruelty and waste, deployed to justify moral vegetarian/vegan commitments, consumer boycotts, and calls for bans on fur. Opponents of veganism or pro-fur voices use the fur debate to push back—invoking tradition, livelihoods, indigenous rights, and environmental trade-offs—to criticize blanket vegan policies and portray veganism as impractical or culturally insensitive.",
+    "queries": [
+      "How do people view the fur trade within veganism?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9",
+    "level": 3,
+    "topic": "foie gras",
+    "wiki_title": "foie gras",
+    "summary": "Foie gras is frequently used by vegans as a vivid exemplar of deliberate animal suffering to justify adopting vegan ethics and advocating bans or stricter welfare laws; critics and culinary defenders counter by framing it as cultural tradition and personal liberty to argue that veganism is intolerant, impractical, or that reform (not abolition) is the appropriate policy response.",
+    "queries": [
+      "Is foie gras production ethical or not from a vegan perspective?"
+    ]
+  },
+  {
+    "id": "C9-1-7",
+    "parent": "C9",
+    "level": 3,
+    "topic": "pamela anderson",
+    "wiki_title": "pamela anderson",
+    "summary": "Pamela Anderson is often cited in veganism debates as a high-profile celebrity advocate whose PETA-backed activism is used to popularize and moralize vegan ethics, presenting veganism as compassionate, fashionable, and worthy of mainstream attention. Critics, however, point to her celebrity image and controversies to frame vegan advocacy as performative or elitist, using her support to question the movement’s seriousness or motives.",
+    "queries": [
+      "What impact has Pamela Anderson had on veganism perceptions?"
+    ]
+  },
+  {
+    "id": "C9-1-8",
+    "parent": "C9",
+    "level": 3,
+    "topic": "shock advertising",
+    "wiki_title": "shock advertising",
+    "summary": "Activist campaigns use shock advertising—graphic images and blunt slogans of slaughter and factory-farm conditions—to recast veganism as an urgent moral and public-health necessity, aiming to provoke empathy, guilt, and support for individual dietary change or stricter animal-welfare policies. These tactics also generate backlash and are exploited by critics to portray veganism as extreme, polarizing debate and sometimes undermining persuasion among moderates.",
+    "queries": [
+      "What impact has shock advertising had on veganism acceptance?"
+    ]
+  }
+]

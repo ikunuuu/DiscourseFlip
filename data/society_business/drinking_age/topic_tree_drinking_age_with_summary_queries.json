@@ -1,0 +1,981 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Drinking Age",
+    "wiki_title": "Drinking Age",
+    "summary": "Arguments about the drinking age are often framed around public‑health and safety evidence—advocates invoke traffic fatality reductions, adolescent brain development, and lower alcohol‑related harms to justify higher or unchanged minimums. Critics counter with appeals to individual liberty and legal consistency (voting/military age), plus pragmatic harm‑reduction claims that strict limits encourage clandestine binge drinking and impose enforcement and economic costs.",
+    "queries": [
+      "Is the Drinking Age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "public health and safety",
+    "wiki_title": "health and safety executive",
+    "summary": "In drinking-age debates the Health and Safety Executive is often cited to frame alcohol as a safety hazard—used by advocates to justify higher minimum ages or stricter enforcement by emphasizing risks of impairment and employer duties to prevent accidents. Critics respond that the HSE’s occupational focus supports targeted workplace controls and risk-based policies rather than broad, population-wide age bans.",
+    "queries": [
+      "How do people view public health and safety with the Drinking Age?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "mothers against drunk driving",
+    "wiki_title": "mothers against drunk driving",
+    "summary": "Mothers Against Drunk Driving is frequently invoked in drinking-age debates as a leading advocate for keeping and strengthening a 21 minimum, framing age-based restrictions as necessary public-safety measures backed by victim testimony and crash statistics and pushing zero-tolerance laws and stricter enforcement. Critics portray MADD’s role as evidence that the issue is driven by punitive, prohibitionist impulses that emphasize legal controls over alternative approaches like education or graduated privileges.",
+    "queries": [
+      "Are mothers against drunk driving’s tactics justified in drinking age debates?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "candy lightner",
+    "wiki_title": "lightner",
+    "summary": "The Lightner name is often invoked in drinking‑age debates as a symbol of anti‑drunk‑driving advocacy used to justify strict 21‑year laws and zero‑tolerance enforcement as necessary to prevent youth fatalities; critics counter that invoking Lightner exemplifies emotional, single‑issue pressure that produced punitive nationwide age restrictions instead of harm‑reduction or liberty‑focused alternatives.",
+    "queries": [
+      "How do people view candy lightner’s role in drinking age debates?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "victims' rights",
+    "wiki_title": "victims' rights",
+    "summary": "Victims’ rights rhetoric is often deployed to justify higher legal drinking ages and tougher DUI/assault penalties by centering survivors’ safety, restitution, and prevention of alcohol-related harm over individual drinking autonomy. It is also used to criticize laws or enforcement that retraumatize victims or prioritize punishment of youth without providing victim services and protections during prosecution.",
+    "queries": [
+      "Is victims' rights emphasized reasonably in drinking age policies?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "alcohol industry",
+    "wiki_title": "alcoholic beverage",
+    "summary": "In drinking-age debates, the concept of the alcoholic beverage is used by public‑health advocates to highlight physiological harms, addiction risk, and impaired driving to justify higher minimum ages and stricter controls, while industry, cultural defenders, and libertarians emphasize social, economic, and adult‑rights arguments—plus distinctions between beer/wine, spirits, and low‑ABV drinks—to argue for lower ages, graduated access, or education‑based approaches.",
+    "queries": [
+      "Is the alcohol industry's influence on drinking-age laws justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "zero tolerance laws",
+    "wiki_title": "zero tolerance",
+    "summary": "In drinking-age debates, proponents invoke “zero tolerance” to justify strict, non‑negotiable penalties for underage possession or consumption as a clear deterrent and enforcement principle. Critics use the term to argue these policies are punitive and counterproductive—criminalizing youth, discouraging reporting and education, and opposing harm‑reduction or graduated‑access approaches.",
+    "queries": [
+      "Are zero tolerance laws for the drinking age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "blood alcohol concentration",
+    "wiki_title": "blood alcohol content",
+    "summary": "BAC figures are frequently cited to justify strict under‑21 rules and zero‑tolerance driving laws—advocates argue measurable BAC thresholds provide objective grounds for enforcing a higher drinking age to reduce youth impairment and crash risk. Opponents contend that rigid BAC cutoffs can be arbitrary, ignore age‑related differences in vulnerability and behavior, and that policy should emphasize targeted enforcement, education, or impairment-based measures rather than solely maintaining or raising the legal drinking age.",
+    "queries": [
+      "Is blood alcohol concentration a reasonable basis for drinking age limits?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "breathalyzer",
+    "wiki_title": "breathalyzer",
+    "summary": "In drinking-age debates, breathalyzer readings and crash/arrest statistics are widely used to argue for stricter minimum ages and tougher enforcement—supporters claim routine BAC testing deters underage drinking and lowers alcohol‑related crashes. Critics counter that breathalyzer-based policies can enable civil‑liberties abuses, false positives, and selective policing, and therefore favor education, harm‑reduction, or alternate approaches over simply raising or more aggressively enforcing the legal drinking age.",
+    "queries": [
+      "What consequences has breathalyzer enforcement caused for drinking age compliance?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "implied consent laws",
+    "wiki_title": "implied consent",
+    "summary": "In drinking-age debates, implied consent is often invoked to justify mandatory breath, blood, or administrative sobriety checks for underage drivers or patrons—arguing that driving or entering licensed venues carries an implicit agreement to testing, which bolsters enforcement of age limits. Critics say this rationale erodes minors' civil and parental rights by coercing compliance, normalizing warrantless testing, and enabling punitive measures without full due process.",
+    "queries": [
+      "What consequences have implied consent laws had on drinking age enforcement?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "dui laws",
+    "wiki_title": "dui laws in california",
+    "summary": "California's DUI laws are often invoked by proponents of the 21‑year drinking age to highlight the traffic‑safety harms of underage drinking—pointing to zero‑tolerance BAC rules, administrative license suspensions, and stiff penalties as evidence that youth access to alcohol increases crash risk and thus justifies a high minimum age. Critics respond that robust DUI enforcement, education, and impairment‑focused policies (rather than an age cutoff) are the better way to reduce drunk driving, framing the debate around targeted prevention and personal responsibility.",
+    "queries": [
+      "What consequences have dui laws had on underage drinking?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "social host liability",
+    "wiki_title": "social host liability",
+    "summary": "Advocates for strict or higher drinking-age laws invoke social host liability to emphasize adult accountability and legal consequences for supplying minors, framing underage drinking as a public-safety problem that justifies strong age limits and penalties. Critics counter that such liability pushes drinking underground and unfairly criminalizes parents or hosts, bolstering arguments for supervised family exemptions or a lower, more permissive drinking age.",
+    "queries": [
+      "How do people view social host liability in Drinking Age enforcement?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "binge drinking",
+    "wiki_title": "binge drinking",
+    "summary": "Concerns about binge drinking are often invoked by proponents of a higher drinking age and stricter enforcement to justify restricting youth access as a means to reduce acute harms and protect developing brains. Opponents use binge-drinking narratives to argue the opposite — that punitive age limits drive secretive, unsupervised bingeing and that lower, supervised access combined with education and cultural change would better reduce risky consumption.",
+    "queries": [
+      "Is addressing binge drinking by changing the drinking age reasonable?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "fraternities and sororities",
+    "wiki_title": "college fraternities and sororities",
+    "summary": "Fraternities and sororities are often invoked in drinking-age debates as high-risk settings for underage and binge drinking, used by advocates of strict 21‑year policies and tougher campus enforcement to justify punitive laws, campus bans, and targeted policing. Opponents argue that prohibition pushes drinking into secretive Greek-house contexts and favor harm‑reduction or supervised consumption (or claim self‑regulation by chapters and alumni can promote safer behavior) as alternatives to strict age-based penalties.",
+    "queries": [
+      "Are fraternities and sororities responsible for enforcing the drinking age?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "alcohol poisoning",
+    "wiki_title": "alcohol intoxication",
+    "summary": "Claims about alcohol intoxication—particularly binge drinking, impaired driving, poisoning and cognitive harm—are frequently invoked to justify maintaining a high minimum drinking age as a protective public‑health measure; critics counter that restrictive laws promote hidden, riskier drinking and argue for harm‑reduction strategies (education, supervision, regulated access) as better ways to reduce intoxication‑related harms.",
+    "queries": [
+      "Is alcohol poisoning a sufficient reason to change the drinking age?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "college drinking culture",
+    "wiki_title": "drinking culture",
+    "summary": "Debates over the drinking age often invoke a society’s drinking culture to either justify stricter limits—arguing that entrenched binge‑drinking norms and youth party rituals heighten harm and require higher legal ages and enforcement—or to oppose them by claiming that traditions of supervised, moderate introduction to alcohol in some beer/wine cultures support lower ages and education‑based approaches. Both sides deploy cultural narratives (rites of passage, moderation norms, or problem‑drinking stereotypes) to legitimize policy change or to criticize age‑based rules as ineffective or culturally insensitive.",
+    "queries": [
+      "What effects has college drinking culture had on student safety?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "greek life",
+    "wiki_title": "greek life",
+    "summary": "In drinking-age debates, Greek life is commonly cited as a focal point of college binge drinking and alcohol-related harms, which supporters of strict enforcement or keeping the age at 21 use to argue for stronger policing, campus sanctions, and prevention programs. Opponents of the current age sometimes counter that pervasive underage drinking in fraternities and sororities shows prohibition fails and advocate lowering the age to enable regulation, education, and safer consumption.",
+    "queries": [
+      "What effects has Greek life had on drinking age compliance?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "fake id",
+    "wiki_title": "identity document forgery",
+    "summary": "Arguments about fake IDs are central to drinking-age debates: critics of high minimum ages cite widespread identity-document forgery to argue that prohibition drives youth into unregulated, risky drinking and a black market for falsified IDs—supporting calls to lower the age or regulate access—while proponents of strict limits point to forgeries as justification for tougher ID verification, harsher penalties, and investment in anti-counterfeit technology to curb underage drinking.",
+    "queries": [
+      "How do people view fake id use to bypass the drinking age?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "national highway traffic safety administration",
+    "wiki_title": "national highway traffic safety administration",
+    "summary": "Proponents of a 21 minimum legal drinking age frequently point to NHTSA crash and fatality data to argue that higher drinking ages and strict under‑21 enforcement (including zero‑tolerance laws and federal funding incentives) reduce alcohol‑related traffic deaths. Critics counter that NHTSA statistics are sometimes overinterpreted to claim causality or justify federal coercion, arguing the agency’s figures obscure enforcement, cultural, and harm‑reduction alternatives to outright age restrictions.",
+    "queries": [
+      "Is national highway traffic safety administration involvement in drinking age justified?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "driving under the influence",
+    "wiki_title": "driving under the influence",
+    "summary": "Arguments about DUI are frequently invoked to support higher drinking ages and zero-tolerance laws by linking minimum-age limits to reductions in alcohol-related crashes and youth fatalities. Critics counter that DUI outcomes reflect enforcement, education, and cultural factors rather than age alone, using the issue to push for targeted enforcement, graduated licensing, or controlled access reforms instead of stricter age restrictions.",
+    "queries": [
+      "How do people view driving under the influence among young drinkers?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and constitutional issues",
+    "wiki_title": "all-party parliamentary group for legal and constitutional affairs",
+    "summary": "Commentators and campaigners invoke the All‑Party Parliamentary Group for Legal and Constitutional Affairs to shift the drinking-age debate onto legal and rights-based ground—questioning whether age thresholds align with other legal definitions of adulthood, enforcement powers, and proportionality of criminal penalties. It is typically cited to call for careful legal scrutiny of proposals (used to justify reform or to criticize measures seen as legally disproportionate or constitutionally problematic).",
+    "queries": [
+      "What consequences have the legal and constitutional issues had on Drinking Age?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "south dakota v. dole",
+    "wiki_title": "south dakota v. dole",
+    "summary": "South Dakota v. Dole is frequently invoked in drinking-age debates as the Supreme Court precedent that legitimized Congress’s use of highway-funding incentives to push states toward a 21-year minimum, and is therefore cited by supporters as the legal and pragmatic justification for a uniform national drinking age on public-safety grounds. Critics, however, use the case to portray the 21 limit as the product of federal coercion that weakens state sovereignty and individual liberty rather than a purely democratic policy choice.",
+    "queries": [
+      "Is south dakota v. dole’s approach to drinking age reasonable?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "taxing and spending clause",
+    "wiki_title": "taxing and spending clause",
+    "summary": "Supporters point to the Taxing and Spending Clause to justify Congress’s use of federal highway funds to pressure states into a 21 drinking age as a public-safety measure, while critics frame that same power as coercive federal overreach that undermines state sovereignty and local control over alcohol policy.",
+    "queries": [
+      "Is using the taxing and spending clause to influence drinking age reasonable?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "tenth amendment",
+    "wiki_title": "tenth amendment to the united states constitution",
+    "summary": "The Tenth Amendment is often invoked by states’-rights advocates who argue that setting the legal drinking age should be a state decision and that federal actions like the 1984 National Minimum Drinking Age Act (which conditioned highway funds) unlawfully coerce states; this framing supports calls to lower or vary the age by state. Opponents counter that federal incentives are justified for protecting public safety and that invoking the Tenth Amendment can be a cover for weakening uniform protections.",
+    "queries": [
+      "Is the tenth amendment’s role in drinking age decisions justified?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "states' rights",
+    "wiki_title": "states' rights",
+    "summary": "In drinking-age debates, appeals to states' rights are used to argue that each state—not the federal government—should set its own minimum drinking age, portraying federal measures (like tying highway funds to a national age of 21) as coercive overreach that undermines local choice. Supporters of this line emphasize local control, individual freedom, and policy experimentation, while opponents argue federal standards are needed for public-health protection and to prevent cross-border harms such as drunk driving.",
+    "queries": [
+      "How do people view states' rights with regard to drinking age?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "dram shop laws",
+    "wiki_title": "dram shop",
+    "summary": "Dram shop liability is frequently cited in drinking-age debates to justify strict age limits and aggressive enforcement—advocates argue that holding bars and stores financially responsible for harms from underage drinking deters illegal sales and protects the public. Opponents counter that extending commercial liability shifts blame from individual choice to businesses and that stronger responsible-service rules, rather than a high drinking age, could address risks.",
+    "queries": [
+      "What effects have dram shop laws had on drinking age enforcement?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "ronald reagan",
+    "wiki_title": "ronald reagan",
+    "summary": "Reagan is often invoked as the conservative president who backed the federal leverage that standardized the U.S. drinking age at 21; advocates cite his stance to argue that public‑safety concerns (especially drunk‑driving prevention) justify federal incentives to set a uniform minimum. Critics counter that his role exposes conservative inconsistency—using federal coercion over states’ rights—and blame the 21 cutoff for encouraging clandestine binge drinking and unintended enforcement burdens.",
+    "queries": [
+      "How do people view Ronald Reagan’s influence on drinking age policy?"
+    ]
+  },
+  {
+    "id": "C2-1-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "highway trust fund",
+    "wiki_title": "highway trust fund",
+    "summary": "In drinking-age debates the Highway Trust Fund is often invoked as a proxy for road‑safety costs: proponents of a 21 minimum argue that higher drinking ages reduce alcohol‑related crashes and thus protect federal highway safety spending, while opponents portray this linkage as a political framing that exaggerates the fund‑level fiscal impact to justify restrictive age limits.",
+    "queries": [
+      "Is using the highway trust fund to address drinking age-related crashes justified?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "victim impact statements",
+    "wiki_title": "victim impact statement",
+    "summary": "Victim impact statements from families of alcohol‑related crash victims are frequently invoked in drinking‑age debates to personalize harms and build public support for higher minimum ages, stricter enforcement, and tougher penalties. Critics counter that these emotional testimonies can push policy toward punitive, symbolic responses rather than evidence‑based prevention or harm‑reduction approaches.",
+    "queries": [
+      "How do people view victim impact statements in drinking age incidents?"
+    ]
+  },
+  {
+    "id": "C2-3-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "public service announcements",
+    "wiki_title": "public service announcement",
+    "summary": "In drinking-age debates, PSAs are often used by public-health and law-enforcement advocates to dramatize the dangers of underage drinking—drunk driving, addiction, and developmental harm—to build support for higher minimum ages and stricter enforcement; critics argue these shock-based messages oversimplify youth behavior, stigmatize young people, and promote prohibitionist policies over education and harm-reduction approaches.",
+    "queries": [
+      "Are public service announcements about the drinking age justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "minor in possession",
+    "wiki_title": "minor in possession",
+    "summary": "Minor-in-possession prosecutions are often cited by supporters of the 21 drinking age as proof that strong legal penalties and enforcement deter underage drinking and protect public safety; opponents counter that MIP laws unfairly criminalize ordinary youth behavior, create lasting records, and strengthen arguments for harm-reduction approaches or lowering the drinking age.",
+    "queries": [
+      "Is minor in possession enforcement justified under current drinking age laws?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "driver's license suspension",
+    "wiki_title": "revocation",
+    "summary": "Threats or use of revocation—most often suspending or cancelling driving privileges, student housing or scholarships, or liquor licenses—are invoked to justify strict enforcement of the drinking age as a deterrent to underage drinking and drunk driving. Critics counter that such punitive revocations disproportionately harm young people (and sometimes businesses), infringe on civil liberties of legal adults, and may push drinking into less safe, unregulated settings.",
+    "queries": [
+      "Is driver's license suspension for underage drinking justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "road safety and driving",
+    "wiki_title": "road safety",
+    "summary": "Advocates for a higher drinking age invoke road safety evidence—linking alcohol-impaired driving to youth crash fatalities—to justify age-based restrictions as a lifesaving public‑health policy. Critics counter that road safety concerns are better addressed by targeted enforcement, education, graduated licensing, and safer vehicle/road design, arguing that raising the age treats the symptom (drinking) rather than the root causes of risky driving behavior.",
+    "queries": [
+      "Is the drinking age’s impact on road safety and driving reasonable?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "ignition interlock device",
+    "wiki_title": "ignition interlock device",
+    "summary": "In drinking‑age debates ignition interlocks are invoked as a harm‑reduction technology that lets policymakers argue for targeted enforcement (e.g., alternatives to license suspension or as a mitigation if age limits are loosened) rather than broad age bans. Critics counter that relying on IIDs frames the issue as technical surveillance and punishment—costly, stigmatizing, and ineffective at stopping underage drinking or changing youth drinking culture—while proponents use them to justify either stricter penalty regimes or more permissive age policies paired with safety measures.",
+    "queries": [
+      "Is an ignition interlock device justified for those violating drinking age laws?"
+    ]
+  },
+  {
+    "id": "C3-5-6",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "administrative license suspension",
+    "wiki_title": "administrative license suspension",
+    "summary": "Advocates of the 21‑year drinking age cite administrative license suspension as a powerful, non‑criminal enforcement tool that reinforces strict age‑based alcohol rules by deterring underage drinking and drunk driving. Critics argue its automatic, administrative penalties exemplify overbroad enforcement of youth drinking laws, raising due‑process and fairness concerns and strengthening calls for reform or less punitive approaches.",
+    "queries": [
+      "Is administrative license suspension for underage drinking reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "sobriety checkpoints",
+    "wiki_title": "random checkpoint",
+    "summary": "Proponents of a higher drinking age point to random sobriety checkpoints as an enforcement tool that deters and detects underage impaired driving, using their existence to justify strict age limits; critics counter that reliance on such checkpoints reveals the law’s dependence on intrusive policing that can criminalize youth, be unevenly applied, and argue for prevention-focused or less punitive alternatives.",
+    "queries": [
+      "How do people view sobriety checkpoints near drinking-age drivers?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "american civil liberties union",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU frames drinking-age debates as a civil‑liberties and equal‑protection issue, criticizing paternalistic laws and criminal penalties that curtail the rights of young adults and disproportionately harm marginalized communities. It typically advocates reducing criminalization, protecting due process and privacy, and opposing federal coercion used to force states into strict age limits.",
+    "queries": [
+      "How do people view american civil liberties union on drinking age?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "michigan v. sitz",
+    "wiki_title": "michigan department of state police v. sitz",
+    "summary": "In debates over the drinking age, Michigan Dept. of State Police v. Sitz is often cited to justify routine sobriety checkpoints and aggressive enforcement as constitutionally permissible tools to deter underage and drunk driving, bolstering arguments for strict age‑based restrictions. Critics invoke the case to warn that court‑sanctioned checkpoints enable civil‑liberty intrusions and disproportionate targeting of young drivers, framing enforcement-first approaches as overreach rather than the best response to underage alcohol use.",
+    "queries": [
+      "Is michigan v. sitz justified for drinking age enforcement?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "fourth amendment",
+    "wiki_title": "fourth amendment",
+    "summary": "In drinking-age debates the Fourth Amendment is cited by civil‑liberties advocates to challenge warrantless breath tests, vehicle or person searches, and random checkpoints used to enforce under‑21 alcohol laws as unreasonable intrusions on privacy; opponents or public‑safety proponents counter that court‑recognized exceptions (e.g., limited sobriety checkpoints or administrative testing) are necessary and justify rigorous enforcement to prevent drunk driving and protect minors.",
+    "queries": [
+      "Is using the fourth amendment to challenge drinking age checks justified?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "graduated driver licensing",
+    "wiki_title": "graduated driver licensing",
+    "summary": "Advocates for drinking-age reform often cite graduated driver licensing as a model, arguing that a staged, conditional approach (limited privileges tied to education, supervision, and testing) could reduce harms while recognizing young people’s maturation. Critics respond that GDL’s measurable, enforceable skill-based restrictions don’t translate to alcohol consumption and use that contrast to justify keeping a strict minimum drinking age.",
+    "queries": [
+      "Is graduated driver licensing reasonable given current drinking age laws?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "students against destructive decisions",
+    "wiki_title": "students against destructive decisions",
+    "summary": "Students Against Destructive Decisions (SADD) is often invoked in drinking-age debates as a peer-led advocacy group that legitimizes keeping the legal drinking age at 21 by emphasizing youth safety, prevention, education, and enforcement against underage drinking. Opponents of strict age limits sometimes portray SADD as promoting abstinence- or prohibition-style tactics rather than harm-reduction approaches such as supervised or lower-age drinking.",
+    "queries": [
+      "What impact has students against destructive decisions had on drinking age attitudes?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "school discipline",
+    "wiki_title": "school discipline",
+    "summary": "Proponents of a higher drinking age often cite school discipline concerns to argue that stricter age limits protect the learning environment, reduce on-campus drinking incidents, and lessen burdens on teachers and administrators. Opponents argue that coupling punitive school discipline with restrictive drinking laws criminalizes student behavior, disproportionately harms marginalized youth, and that education or restorative approaches — not higher age limits — are better solutions.",
+    "queries": [
+      "Is school discipline related to the drinking age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "college drinking",
+    "wiki_title": "alcohol use among college students",
+    "summary": "Reports of prevalent and risky alcohol use among college students are cited by advocates of a higher drinking age and stricter enforcement as evidence that age-based limits protect campus safety and academics, while critics use the same phenomenon to argue the current age limit is ineffective and to push for harm-reduction, supervised-drinking, or campus-culture reforms.",
+    "queries": [
+      "Is college drinking under the drinking age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "field sobriety tests",
+    "wiki_title": "field sobriety testing",
+    "summary": "In drinking‑age debates FSTs are often invoked as evidence that a higher legal drinking age can be practically enforced—supporters say they deter and catch underage impaired drivers—while critics use concerns about FST reliability, discretionary use, and resultant stops/arrests to argue that strict age limits promote over‑policing and that policy should favor education and harm‑reduction instead.",
+    "queries": [
+      "How do people view field sobriety tests?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "youth rights and maturity",
+    "wiki_title": "youth rights",
+    "summary": "Advocates invoke youth-rights claims to frame the drinking age as an arbitrary, adultist restriction—arguing that if young people can vote or serve in the military, they should have the autonomy to drink and that policies should shift toward lowering or abolishing the age and emphasizing education/harm reduction. Critics respond that invoking autonomy ignores developmental and public‑health evidence, using the youth‑rights framing to contest rather than concede whether age-based protections are justified.",
+    "queries": [
+      "Is youth rights and maturity a reasonable basis for drinking age policy?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "amethyst initiative",
+    "wiki_title": "amethyst initiative",
+    "summary": "The Amethyst Initiative is invoked in drinking-age debates as a group of college leaders arguing that the U.S. 21-year-old minimum contributes to hidden, dangerous binge drinking and should be re-examined in favor of education-based, campus-responsibility or lower-age policies; supporters cite its academic credibility to legitimize reform, while critics use it to claim elites would weaken enforcement and increase underage access.",
+    "queries": [
+      "How do people view the amethyst initiative within drinking age debates?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "university presidents",
+    "wiki_title": "chancellor (education)",
+    "summary": "University chancellors often enter drinking-age debates by framing the issue around student safety, campus liability, and institutional reputation—using high-profile alcohol incidents to justify maintaining or tightening minimum drinking ages and tougher enforcement. They can also support harm-reduction or supervised-campus policies as pragmatic alternatives, and their public statements are routinely cited to legitimize either stricter penalties or moderated, education-focused approaches.",
+    "queries": [
+      "How do people view university presidents on drinking age?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "alcohol education programs",
+    "wiki_title": "alcohol education",
+    "summary": "Alcohol education is invoked in drinking-age debates to justify stricter minimum ages by emphasizing health risks, underage harms, and prevention—reinforcing public‑health and temperance arguments for protective, prohibition‑style policies. Critics, however, frame education as a tool for harm reduction, arguing that evidence‑based instruction and supervised learning could support lower or graduated ages by teaching safe consumption rather than blanket bans.",
+    "queries": [
+      "How do people view alcohol education programs tied to the drinking age?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "age of majority",
+    "wiki_title": "age of majority",
+    "summary": "Advocates for lowering the drinking age invoke the age of majority to argue it’s inconsistent to recognize 18‑year‑olds as adults for voting, military service and contracts while denying them legal alcohol, using adult status to justify reduced drinking restrictions. Opponents respond that the age of majority is a different legal threshold and that public‑health, safety, and developmental evidence can legitimately support a higher drinking age as risk regulation rather than a denial of adulthood.",
+    "queries": [
+      "How do people view the age of majority in drinking policies?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "military service",
+    "wiki_title": "military service",
+    "summary": "Military service is often used in drinking-age debates through the “old enough to fight” claim—arguing that citizens who can be drafted or serve at 18 should be allowed to buy alcohol, which is invoked to support lowering the legal drinking age or creating exemptions for active-duty personnel and veterans. Critics respond that military service occurs in distinct, regulated contexts and carries responsibilities that don’t translate to civilian life, so appealing to service both polarizes opinions and is used to justify keeping or enforcing higher civilian drinking ages.",
+    "queries": [
+      "Is tying drinking age exceptions to military service reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "voting age",
+    "wiki_title": "voting age",
+    "summary": "Campaigners invoke the voting age to argue for lowering the drinking age, claiming it’s inconsistent to grant 18‑year‑olds civic responsibilities and rights but deny them alcohol access. Opponents respond that voting is a civic right while alcohol carries distinct public‑health and safety risks, using that distinction to justify maintaining higher or separate age limits.",
+    "queries": [
+      "Is lowering the voting age justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-1",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "26th amendment",
+    "wiki_title": "twenty-sixth amendment",
+    "summary": "Proponents of lowering the drinking age often invoke the Twenty-sixth Amendment’s enfranchisement of 18‑year‑olds to argue it’s inconsistent and unfair to grant voting and military responsibilities while denying legal alcohol—framing the 21 limit as age discrimination. Opponents respond that the amendment’s extension of civil rights doesn’t override public‑health and safety justifications for a higher drinking age, so the amendment is used rhetorically rather than as a legal mandate.",
+    "queries": [
+      "How reasonable is using the 26th Amendment in drinking age arguments?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "vietnam war",
+    "wiki_title": "vietnam war",
+    "summary": "Advocates for lowering the drinking age invoke the Vietnam War draft and the slogan “old enough to fight” to argue that 18‑year‑olds who can be conscripted or vote should also have legal access to alcohol; opponents counter by pointing to wartime youth risk, trauma, and public‑safety concerns to justify stricter age limits and prioritize health and order over parity with military obligations.",
+    "queries": [
+      "Is lowering the drinking age for vietnam war veterans reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "conscription",
+    "wiki_title": "conscription",
+    "summary": "Advocates for lowering the drinking age frequently invoke conscription—arguing that if 18‑year‑olds can be drafted and sent to fight, they should have the legal right to drink—while opponents counter that military service does not imply maturity for alcohol use and point to public‑safety concerns. Critics also use conscription to highlight fairness and gender inconsistencies (e.g., men subject to the draft but barred from drinking) to push for aligning ages of legal adulthood or maintaining stricter alcohol limits.",
+    "queries": [
+      "Is conscription a justified reason to lower the drinking age?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "selective service system",
+    "wiki_title": "selective service system",
+    "summary": "Proponents of lowering the drinking age invoke the selective service system to highlight a perceived inconsistency—arguing that if 18‑year‑olds can be drafted and held to adult obligations they should have adult privileges like drinking—while opponents use the draft’s narrow, historically male‑only scope to argue that conscription eligibility doesn’t prove maturity for alcohol and thus shouldn’t justify lowering the age.",
+    "queries": [
+      "How do people view the selective service system in drinking age policy?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "military enlistment age",
+    "wiki_title": "list of enlistment age by country",
+    "summary": "Comparisons of enlistment ages are frequently invoked in drinking‑age debates to argue that if 18‑year‑olds can be trusted with military service and lethal force, they should likewise be allowed to legally drink; opponents counter that military eligibility reflects a different set of responsibilities and societal needs, so cross‑country enlistment ages don’t justify lowering drinking ages and instead highlight inconsistencies in how adulthood is legally defined.",
+    "queries": [
+      "How do people view the military enlistment age?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "uniform code of military justice",
+    "wiki_title": "uniform code of military justice",
+    "summary": "Debate participants invoke the Uniform Code of Military Justice to argue two opposite points about drinking age: proponents for lowering the civilian age cite the fact that 18–20-year-old service members are treated as adults under the UCMJ to claim they should be allowed to drink, while opponents and policymakers point to the UCMJ’s separate, stricter discipline for troops to justify maintaining higher age limits or special penalties for underage drinking in military contexts.",
+    "queries": [
+      "Is the uniform code of military justice reasonable regarding drinking age rules?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "conscientious objection",
+    "wiki_title": "conscientious objector",
+    "summary": "Debates about the drinking age sometimes borrow the language of conscientious objection to argue that individuals should be exempt from blanket age-based bans for sincere moral or religious reasons (e.g., sacramental use or personal autonomy), framing underage drinking bans as paternalistic infringements on freedom of conscience; opponents counter that allowing conscience-based exemptions would weaken public‑health goals and enforcement, so the analogy is used both to justify narrow exemptions and to critique attempts to erode uniform age limits.",
+    "queries": [
+      "Are conscientious objection policies reasonable for drinking age enforcement?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "cultural norms and morality",
+    "wiki_title": "morality",
+    "summary": "In drinking-age debates, moral arguments are deployed to portray higher ages as a duty to protect youth and public safety—casting underage drinking as irresponsible, harmful, or immoral—while critics invoke moral claims about individual rights, adult responsibility, and fair rites of passage to argue that strict limits are paternalistic; this moral framing both justifies policy choices and fuels stigma or moral panic around young people’s drinking.",
+    "queries": [
+      "How do people view cultural norms and morality around the drinking age?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "temperance movement",
+    "wiki_title": "temperance movement",
+    "summary": "Arguments drawing on the temperance movement are used to justify higher legal drinking ages and strict enforcement by framing underage drinking as a moral and public‑health danger that requires legal limits; opponents counter by labeling age‑based restrictions as paternalistic, prohibitionist carryovers of temperance ideology and argue for education or harm‑reduction alternatives.",
+    "queries": [
+      "How do people view the temperance movement today regarding drinking age?"
+    ]
+  },
+  {
+    "id": "C7-1-1",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "women's christian temperance union",
+    "wiki_title": "woman's christian temperance union",
+    "summary": "The Women's Christian Temperance Union is invoked in drinking-age debates as a moralizing, protection-focused voice that historically pushed for higher legal limits, prohibition, and strict enforcement to shield youth and families from alcohol’s harms. Critics point to the WCTU as an example of religiously driven, paternalistic influence on policy, arguing its framing prioritizes moral control over individual rights and evidence-based harm reduction.",
+    "queries": [
+      "Is the women's christian temperance union's influence on drinking age justified?"
+    ]
+  },
+  {
+    "id": "C7-1-2",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "anti-saloon league",
+    "wiki_title": "anti-saloon league",
+    "summary": "In drinking-age debates the Anti-Saloon League is invoked as the archetypal temperance lobby whose moral campaigns and legal tactics helped justify strict controls on alcohol access, and proponents sometimes point to its success as precedent for strong age-based regulation. Critics use the League as a cautionary example of religiously driven paternalism and prohibitionist overreach to argue against high minimum drinking ages and moralistic policymaking.",
+    "queries": [
+      "What effects has the anti-saloon league had on drinking age debates?"
+    ]
+  },
+  {
+    "id": "C7-1-3",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "carrie nation",
+    "wiki_title": "carrie nation",
+    "summary": "Carrie Nation is invoked in drinking-age debates as a symbol of temperance zealotry: opponents of higher drinking ages use her image to portray age-based limits as moralistic and paternalistic, while some proponents cast her as an early public‑health crusader whose hardline approach foreshadows protective age restrictions.",
+    "queries": [
+      "What impact has carrie nation had on drinking age attitudes?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "18th amendment",
+    "wiki_title": "eighteenth amendment",
+    "summary": "The Eighteenth Amendment is often invoked as the canonical example of national prohibition in drinking-age debates. Critics of strict underage bans use it as a warning about moralistic overreach and unintended consequences of blanket prohibition, while advocates for national standards point to it as historical precedent that federal policy can shape access to alcohol.",
+    "queries": [
+      "What effects has the 18th amendment had on drinking age debates?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "volstead act",
+    "wiki_title": "volstead act",
+    "summary": "In debates over the drinking age, the Volstead Act is often invoked as a cautionary example of how blanket prohibition can backfire—fueling illicit markets, enforcement problems, and diminished public respect for the law—to argue for regulated minimum drinking ages and harm‑reduction approaches rather than outright bans; conversely, some use its history to claim that strong legal controls can be necessary to curb alcohol-related harms, supporting stricter age limits and enforcement.",
+    "queries": [
+      "What effects has the Volstead Act had on drinking age attitudes?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "21st amendment",
+    "wiki_title": "twenty-first amendment",
+    "summary": "The Twenty-first Amendment is frequently invoked in drinking-age debates to frame alcohol regulation as a states’ rights issue, used by advocates of lower or state-specific ages to argue against federal mandates. Opponents of that view point out that Congress can lawfully use its spending power to incentivize a uniform minimum drinking age for public-safety reasons, turning the amendment into a focal point for arguments about federal overreach versus national consistency.",
+    "queries": [
+      "What consequences has the 21st amendment had on drinking age laws?"
+    ]
+  },
+  {
+    "id": "C7-1-7",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "dry counties",
+    "wiki_title": "dry county",
+    "summary": "Dry counties are invoked in drinking-age debates as examples of local communities preferring strict alcohol limits—used by advocates to justify maintaining or raising age restrictions and empowering local control—while critics use them to argue that uniform minimum-age laws are blunt, can be circumvented, or that targeted local policies and enforcement are better alternatives.",
+    "queries": [
+      "What effects have dry counties had on alcohol access?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "nanny state",
+    "wiki_title": "nanny state",
+    "summary": "In debates over the drinking age, critics of higher or stricter age limits invoke “nanny state” rhetoric to portray such laws as paternalistic government overreach that restricts personal freedom and adult responsibility. This framing is used to justify lowering or opposing enforcement of age limits and to dismiss public‑health and safety arguments as excessive regulation rather than legitimate protection.",
+    "queries": [
+      "Is the nanny state justified in enforcing drinking age laws?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "libertarianism",
+    "wiki_title": "libertarianism",
+    "summary": "Libertarianism frames the drinking-age debate as a conflict between individual liberty and state paternalism, arguing that consensual alcohol use should not be criminalized and that adults (often from 18) or parents, not the state, should decide access. Libertarian voices typically push to lower or eliminate age-based bans while allowing narrowly tailored restrictions to prevent direct harm (e.g., drunk driving) under the non‑aggression principle.",
+    "queries": [
+      "Are libertarianism arguments for lowering the drinking age justified?"
+    ]
+  },
+  {
+    "id": "C7-5-4",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "paternalism",
+    "wiki_title": "paternalism",
+    "summary": "Proponents of a higher drinking age appeal to paternalistic reasoning to justify restricting young people's access to alcohol as a protective measure against harm and to promote long-term welfare, while critics label such laws paternalistic to argue they infantilize adults, infringe personal liberty, and favor education or graduated responsibility over blanket prohibition.",
+    "queries": [
+      "How do people view paternalism surrounding the drinking age?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "alcohol tax",
+    "wiki_title": "alcohol tax",
+    "summary": "In drinking-age debates, proponents of higher taxes argue raising excise duties can deter youth drinking and reduce alcohol-related harms as a price-based complement or alternative to strict age limits, while opponents say taxes unfairly penalize legal adults, are easy for underage drinkers to evade, and therefore cannot substitute for minimum‑age laws. Thus alcohol taxes are used to frame the dispute between harm‑reduction/regulatory strategies (supporting taxes alongside age restrictions) and critics who favor enforcement or oppose further fiscal penalties.",
+    "queries": [
+      "How do people view alcohol tax alongside drinking age laws?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "prohibition",
+    "wiki_title": "prohibition",
+    "summary": "Debates over the drinking age invoke Prohibition as both precedent and warning: supporters cite broad alcohol bans as justification for strict age limits to reduce youth access and public harms, while critics point to Prohibition’s unintended consequences—black markets, disrespect for law, and unsafe clandestine drinking—to argue for more targeted, harm‑reduction policies instead of blanket prohibitionist approaches.",
+    "queries": [
+      "What consequences has prohibition had for drinking age policy?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "bootlegging",
+    "wiki_title": "bootleg",
+    "summary": "In drinking-age debates “bootleg” is cited to emphasize that prohibition-style age limits spawn illegal supply—fake IDs, unlicensed sellers and unregulated homemade alcohol—which advocates of strict enforcement say increases harm and crime. Critics reply that a high drinking age itself incentivizes bootlegging and risky clandestine drinking, using the term to argue for harm-reduction measures (regulated access, education, or a lower legal age) rather than strict criminalization.",
+    "queries": [
+      "How do people view bootlegging in relation to the drinking age?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "responsibility.org",
+    "wiki_title": "foundation for advancing alcohol responsibility",
+    "summary": "The Foundation for Advancing Alcohol Responsibility is often used in drinking-age debates to promote enforcement of the minimum legal drinking age and fund education and prevention campaigns that frame underage drinking as a problem of individual responsibility. Opponents contend it functions as an alcohol-industry-backed voice that emphasizes education over tighter supply-side measures (eg, higher taxes, advertising limits), thereby shaping arguments to oppose more restrictive policy changes around the drinking age.",
+    "queries": [
+      "How do people view responsibility.org's influence on drinking age policy?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "choose responsibility",
+    "wiki_title": "choose responsibility",
+    "summary": "The advocacy group Choose Responsibility is cited in drinking-age debates to promote lowering or reforming the minimum drinking age through measures that emphasize education, parental consent, licensing, and individual responsibility as harm‑reduction alternatives to strict age bans. Supporters use it to argue that responsible access reduces clandestine binge drinking, while critics say its rhetoric privatizes public health, downplays adolescent risks, and normalizes underage access.",
+    "queries": [
+      "Is choose responsibility in drinking age policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-4",
+    "parent": "C7",
+    "level": 3,
+    "topic": "good samaritan laws",
+    "wiki_title": "good samaritan law",
+    "summary": "In drinking-age debates, advocates point to Good Samaritan protections as a pragmatic harm‑reduction tool—arguing that legal immunity for callers and helpers encourages people to seek emergency care for intoxicated minors without fear of arrest. Critics counter that such amnesties can be framed as undermining enforcement of age limits or tacitly condoning underage drinking, so the law is used to either justify medical-amnesty policies or criticize them as loopholes. ",
+    "queries": [
+      "Are good samaritan laws around the drinking age justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and public opinion",
+    "wiki_title": "public opinion",
+    "summary": "In drinking-age debates, advocates for a higher limit invoke public opinion polls about road safety, youth health, and parental concern to justify keeping the age at 21, while opponents point to survey support among younger adults and civil‑liberties framing to argue for lowering it to 18. Politicians, media campaigns, and interest groups routinely cite or shape popular sentiment to portray the issue as either a necessary public‑safety measure or an unjust paternalistic restriction, with shifts in public opinion often determining whether reforms gain traction.",
+    "queries": [
+      "Is media and public opinion on the Drinking Age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "designated driver",
+    "wiki_title": "designated driver",
+    "summary": "Supporters of lowering or relaxing the Drinking Age often invoke the designated driver as evidence that social norms and harm-reduction measures can control drunk driving without strict age bans, framing the debate around personal responsibility and targeted interventions. Critics argue that reliance on designated drivers is an unreliable substitute for legal limits, claiming it minimizes systemic risks among young people and thus supports maintaining or strengthening minimum drinking ages.",
+    "queries": [
+      "Is using a designated driver at drinking age gatherings reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "uber",
+    "wiki_title": "uber",
+    "summary": "In drinking-age debates Uber is invoked by harm-reduction advocates who argue that easy, cheap ride‑hailing and alcohol delivery reduce drunk‑driving harms and thus support more flexible or complementary approaches to age limits; critics counter that ride‑hailing can enable underage access to nightlife and alcohol, complicate enforcement, and has mixed evidence on actually lowering alcohol‑related crashes, so it’s used to both justify policy relaxation and argue for retaining strict age controls.",
+    "queries": [
+      "How do people view Uber’s effect on drinking-age enforcement?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "responsible beverage service",
+    "wiki_title": "food service",
+    "summary": "Restaurants, bars and caterers feature in drinking-age debates as stakeholders arguing both economic and safety points—some industry groups highlight lost revenue and push for lowered ages or supervised on‑premise exceptions, while many operators and server‑training advocates support a higher legal age and strict enforcement to limit liability, reduce underage drinking, and curb drunk‑driving.  Opponents also use the food‑service angle to argue that restricting legal purchase simply shifts youth drinking into unregulated private settings.",
+    "queries": [
+      "Is responsible beverage service tied to the drinking age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "college campuses",
+    "wiki_title": "campus",
+    "summary": "Campuses are framed as both the problem and the solution in drinking-age debates: supporters of a 21‑year minimum point to high rates of underage and binge drinking, campus injuries, and the need for strict enforcement and prevention programs, while critics argue the law pushes students into unregulated off‑campus drinking and that lowering the age could enable safer, supervised consumption on campus.",
+    "queries": [
+      "Is lowering the drinking age on college campuses reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "hazing",
+    "wiki_title": "hazing",
+    "summary": "Hazing is cited in drinking-age debates to justify stricter legal age limits and tougher enforcement—used by policymakers and campus administrators to point to the injury and death risks of clandestine, alcohol-fueled initiation rituals—while critics sometimes counter that prohibition drives drinking into unsupervised hazing contexts, using that claim to argue for regulated access or harm-reduction measures instead.",
+    "queries": [
+      "Is hazing justified or not under current drinking age laws?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok amplifies youth-facing narratives around the drinking age by circulating viral partying clips, advice for evading ID checks, and personal testimonies that proponents cite to argue the legal drinking age is arbitrary and should be lowered. Conversely, health advocates and parents use the platform to share shocking incidents, informational videos, and enforcement stories to argue for maintaining or strengthening age limits, with TikTok’s algorithm often privileging sensational content and skewing public perception.",
+    "queries": [
+      "What consequences has tiktok brought for public views on drinking age?"
+    ]
+  },
+  {
+    "id": "C8-6-7",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "age verification",
+    "wiki_title": "age verification system",
+    "summary": "In drinking-age debates, supporters of strict age limits and tighter alcohol regulation invoke age-verification systems as a practical enforcement tool for preventing underage online purchases and justifying tougher e‑commerce rules. Critics respond that these systems create privacy and security risks, are easily circumvented, and cannot substitute for broader legal or cultural measures—while some advocates for lowering the drinking age argue that robust age-gates could enable safer, regulated access instead of outright bans.",
+    "queries": [
+      "Is age verification for the drinking age reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-8",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "four loko",
+    "wiki_title": "four loko",
+    "summary": "Four Loko is often cited in drinking-age debates as evidence that potent, youth-targeted alcopops encourage underage binge drinking and therefore justify strict minimum ages, tighter enforcement, or product restrictions; critics point to its marketing and harms to argue for maintaining or strengthening a 21 limit. Opponents of age-focused policy sometimes counter that the solution lies in regulating formulations and marketing or improving education rather than changing the legal drinking age itself.",
+    "queries": [
+      "Is restricting four loko sales reasonable under current drinking age policies?"
+    ]
+  },
+  {
+    "id": "C8-2-4",
+    "parent": "C8",
+    "level": 3,
+    "topic": "federal highway funds",
+    "wiki_title": "federal highway administration",
+    "summary": "In debates over the drinking age, advocates and policymakers frequently cite Federal Highway Administration crash and fatality data to argue that raising (or keeping) the minimum legal drinking age reduces alcohol‑related traffic deaths, framing the issue primarily as a road‑safety measure. Critics counter that FHWA's traffic‑focused metrics can be misused or overinterpreted—questioning causation and urging attention to broader public‑health, civil‑liberty, or enforcement factors that the agency's data don't fully address.",
+    "queries": [
+      "Is tying federal highway funds to drinking age policies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8",
+    "level": 3,
+    "topic": "traffic fatalities",
+    "wiki_title": "traffic collision",
+    "summary": "Arguments about traffic collisions—particularly alcohol-related crashes involving young drivers—are central to debates on the drinking age: advocates cite declining youth crash and fatality rates after higher age limits and zero-tolerance enforcement to justify raising or keeping the minimum drinking age. Critics counter that collisions stem more from inexperience, enforcement, and risky driving behaviors, arguing alternative measures (graduated licensing, education, supervised drinking) better reduce crashes and that strict age bans can push drinking into unsafe settings that may increase crash risk.",
+    "queries": [
+      "Are traffic fatalities a reasonable justification for the drinking age?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8",
+    "level": 3,
+    "topic": "spring break",
+    "wiki_title": "spring break",
+    "summary": "Spring break is frequently invoked in drinking-age debates as a vivid case of concentrated youth binge-drinking—used by advocates of a 21 minimum (and stricter enforcement) to justify preventing mass intoxication, accidents, and violence. Opponents counter that the same phenomenon shows prohibition drives risky, unsupervised bingeing during events like spring break and argue for regulated access or education to reduce harms.",
+    "queries": [
+      "Is spring break drinking influenced by current drinking age laws?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8",
+    "level": 3,
+    "topic": "victim impact panel",
+    "wiki_title": "victimology",
+    "summary": "Advocates for a higher drinking age invoke victim-focused evidence about alcohol-related harms (drunk-driving fatalities, assault, impaired judgment) to frame young people as needing legal protection and justify stricter limits, while opponents use victimology to argue that criminalizing underage drinking victimizes youth through policing, stigma, and reduced help-seeking; thus victim-centered narratives are deployed to support both tougher regulation and calls for decriminalization or harm-reduction policies.",
+    "queries": [
+      "Is requiring a victim impact panel for underage drinking reasonable or not?"
+    ]
+  }
+]

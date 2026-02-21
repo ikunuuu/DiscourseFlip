@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Bill Gates",
+    "wiki_title": "Bill Gates",
+    "summary": "Public arguments about Bill Gates often invoke his wealth, technology pedigree, and high‑profile philanthropy to portray him as a pragmatic, technocratic problem‑solver whose funding and advice legitimize vaccines, global‑health initiatives, education reforms, and climate‑tech solutions; conversely, critics highlight his disproportionate influence, corporate past, and opaque decision‑making to frame him as an unaccountable elite whose interventions deserve skepticism, regulation, or even conspiracy‑laden distrust.",
+    "queries": [
+      "How do people view Bill Gates' role in global health?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "technology and innovation",
+    "wiki_title": "innovation",
+    "summary": "In public debates, 'innovation' is invoked to portray Bill Gates as a visionary problem-solver whose technological investments and philanthropy justify market-based, R&D-focused policies (from software and vaccines to climate and education tech). Critics counter that this framing legitimizes private power and technocratic solutions—defending patents, corporate influence, and ‘tech fixes’ over systemic or democratic approaches—so appeals to innovation are often used both to praise his impact and to challenge his authority and priorities.",
+    "queries": [
+      "Is Bill Gates’ technology and innovation influence justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "windows",
+    "wiki_title": "microsoft windows",
+    "summary": "Windows is frequently cited as the concrete legacy that made Bill Gates wealthy and influential, used to praise him as a visionary who popularized personal computing and funded later philanthropic work; at the same time Windows’ ubiquity, bundling practices and security flaws are invoked to portray Gates as a monopolistic, power-hoarding businessman and to justify antitrust scrutiny, calls for stricter tech regulation, or distrust of his motives.",
+    "queries": [
+      "How do people view windows under Bill Gates' influence?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "windows 95",
+    "wiki_title": "windows 95",
+    "summary": "Windows 95 is frequently cited as evidence of Bill Gates’ product vision and marketing prowess that helped make personal computing ubiquitous, bolstering narratives that his leadership justified Microsoft’s rise and wealth; at the same time it’s invoked by critics as a symbol of Microsoft’s aggressive, platform-controlling behavior (and the company’s bundling/market-power tactics), used to argue for antitrust oversight and skepticism of Gates’ corporate influence.",
+    "queries": [
+      "What consequences did Windows 95 have for the software industry?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "personal computer",
+    "wiki_title": "personal computer",
+    "summary": "References to the personal computer frame Bill Gates as the entrepreneur who brought computing into homes and offices—used by supporters to credit him with democratizing technology and driving economic innovation—while critics invoke the PC era to accuse Gates and Microsoft of creating Wintel dominance, anticompetitive practices, and excessive control over software ecosystems, fueling calls for antitrust action and open-source policies.",
+    "queries": [
+      "How do people view Bill Gates' role in personal computer development?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "ms-dos",
+    "wiki_title": "ms-dos",
+    "summary": "MS‑DOS is often cited as the product that launched Bill Gates’ rise from coder to powerful CEO, used by supporters to highlight his strategic vision and the commercial success that enabled Microsoft’s growth and his later philanthropy. Critics, however, point to MS‑DOS and the IBM licensing/deployment strategy as early evidence of Gates’ aggressive, platform‑control tactics—framing him as a monopolistic operator whose business moves justified regulatory scrutiny.",
+    "queries": [
+      "How do people judge ms-dos's long-term impacts?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "ibm pc",
+    "wiki_title": "ibm pc dos",
+    "summary": "References to IBM PC DOS are often used to frame Gates as either a brilliant dealmaker—pointing to Microsoft’s licensing to IBM as the strategic move that launched Microsoft’s platform dominance—or as an opportunistic, anti‑competitive actor, with critics invoking the DOS origin and licensing history to justify calls for tighter antitrust enforcement and tougher intellectual‑property oversight of Microsoft under Gates' leadership.",
+    "queries": [
+      "Was Bill Gates' role in the ibm pc justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "apple inc.",
+    "wiki_title": "apple inc.",
+    "summary": "Apple is often invoked as a foil in discussions about Bill Gates—its tightly controlled, consumer-focused hardware/software ecosystem is contrasted with Gates’ Microsoft-era emphasis on ubiquitous software and platform dominance to argue about which company was more monopolistic or aggressive. Commentators also use Apple to frame Gates’ legacy, either criticizing his business tactics by comparing them to Apple’s practices or defending Gates by highlighting his later philanthropic shift versus Apple’s continued commercial priorities.",
+    "queries": [
+      "What effects has Bill Gates' commentary on apple inc. caused?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "artificial intelligence",
+    "wiki_title": "artificial intelligence",
+    "summary": "AI is often invoked to portray Gates as a tech-savvy, policy-minded authority—his Microsoft legacy and public warnings about AI risks are used to justify calls for investment, regulation, and deploying AI in health and climate work. Conversely, critics use AI to accuse him of enabling corporate concentration, surveillance, or technocratic control (and sometimes fuel fringe conspiracies), arguing his influence skews AI policy toward powerful firms.",
+    "queries": [
+      "Are Bill Gates' artificial intelligence concerns reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "openai",
+    "wiki_title": "openai",
+    "summary": "OpenAI is frequently cited to validate Bill Gates’s public warnings about AI—supporters point to OpenAI’s rapid capabilities and high-profile safety debates (and Microsoft’s backing) as evidence that his calls for regulation and caution were prescient. Critics, however, invoke the Microsoft–OpenAI link to paint Gates as part of a profit-driven tech establishment that benefits from and helps enable the very systems he rhetorically warns about, fueling accusations of hypocrisy or undue influence.",
+    "queries": [
+      "Is Bill Gates’ support for openai reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "sam altman",
+    "wiki_title": "sam altman",
+    "summary": "Sam Altman is often invoked in discussions about Bill Gates as the emblem of the new, fast-moving AI entrepreneur whose aggressive commercialization and influence are contrasted with Gates’s more establishment, governance-oriented stance; critics use Altman’s rise to claim Gates is either out of touch or too cautious, while advocates of oversight cite Altman’s power to strengthen Gates’s calls for AI regulation and accountability.",
+    "queries": [
+      "How do people view sam altman’s relationship with Bill Gates?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Musk is frequently used as a foil in debates about Bill Gates—portrayed by critics as the disruptive, anti-establishment billionaire who exposes Gates as a technocratic, globalist philanthropist whose public‑health and vaccine initiatives are framed as elitist or authoritarian; conversely, defenders of Gates point to Musk’s erratic, conspiracy‑friendly statements to argue against anti‑expert populist attacks on Gates and his policies.",
+    "queries": [
+      "Is Elon Musk's public behavior justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "chatgpt",
+    "wiki_title": "chatgpt",
+    "summary": "Supporters and journalists use ChatGPT to summarize or simulate Bill Gates’ public arguments—emphasizing his advocacy for AI safety and global health—as a quick way to justify tech regulation and philanthropic interventions. Conversely, skeptics and conspiracy promoters use the model to generate persuasive‑sounding allegations or fabricated ‘quotes’ about vaccines, surveillance, or conflicts of interest, helping to spread distrust and undermine his credibility.",
+    "queries": [
+      "Is Bill Gates’ interest in chatgpt reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "ai safety",
+    "wiki_title": "ai safety",
+    "summary": "References to AI safety are often used to portray Bill Gates as a credible, precautionary voice whose warnings justify stronger regulation, public funding, and philanthropic efforts to govern advanced AI; conversely, critics and conspiracy-minded commentators invoke the same concerns to label him alarmist or accuse him of seeking technocratic control over society and innovation.",
+    "queries": [
+      "Are concerns about ai safety justified or overblown?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "existential risk",
+    "wiki_title": "global catastrophic risk",
+    "summary": "Concern about global catastrophic risks is central to how Gates frames and justifies his philanthropic agenda—his funding of pandemic preparedness, AI safety, and climate initiatives is presented by supporters as evidence of responsible, forward‑looking problem‑solving. Critics and conspiracy theorists, however, invoke the same doomsday rhetoric to portray him as alarmist or as leveraging fear to centralize influence over public‑health and technology policy, opposing interventions they see as overreach or self‑interest.",
+    "queries": [
+      "Is Bill Gates’ focus on existential risk reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "paul allen",
+    "wiki_title": "paul allen",
+    "summary": "Paul Allen is often invoked in discussions of Bill Gates as the sidelined co‑founder whose early retreat from Microsoft is used to portray Gates as the more dominant, ambitious (and at times ruthless) operator—supporting critiques of Gates’ business tactics and credit allocation. Allen’s subsequent low‑profile but large-scale philanthropy and investments are also contrasted with Gates’ high‑visibility philanthropic institutions to argue about differences in motives, effectiveness, and public image.",
+    "queries": [
+      "What impact did Paul Allen have on Bill Gates’s public image?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "vulcan inc.",
+    "wiki_title": "vulcan capital management",
+    "summary": "References to Vulcan Capital Management are used in debates about Bill Gates to draw comparisons between Gates and other tech-billionaire investment arms, framing him either as part of an elite network that uses private capital to influence markets and policy or as following a strategic, impact-focused model of philanthropy. Such mentions typically support critiques of concentrated techno‑financial power and the private shaping of public agendas, or are deployed defensively to justify targeted, investment-led approaches to social problems.",
+    "queries": [
+      "Is Vulcan Inc.'s role in tech philanthropy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "museum of pop culture",
+    "wiki_title": "museum of pop culture",
+    "summary": "Seattle’s Museum of Pop Culture is frequently invoked in debates about Bill Gates to show how Microsoft-era wealth shapes local culture—used either to celebrate Gates as part of a tech elite that funds and preserves cultural and technological heritage or to criticize billionaire philanthropy for granting outsized influence over public narratives and museum programming.",
+    "queries": [
+      "How do people view Bill Gates' involvement with museum of pop culture?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "seattle seahawks",
+    "wiki_title": "seattle seahawks",
+    "summary": "In debates about Bill Gates, the Seattle Seahawks are often invoked as a symbol of Seattle’s tech-era civic identity and a point of comparison with other Microsoft-linked billionaires (e.g., Paul Allen, the team’s former owner). Critics cite the team’s stadium subsidies and local prestige to argue Gates and his peers benefit from public support and worsen inequality, while supporters point to the Seahawks’ regional cultural and philanthropic ties to justify Gates’ civic influence.",
+    "queries": [
+      "How do people view the seattle seahawks' community role?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "idea man",
+    "wiki_title": "idea man",
+    "summary": "Calling Bill Gates an “idea man” frames him as the visionary originator behind major tech and philanthropy agendas, a portrayal supporters cite to justify deference to his proposals on vaccines, climate and AI, while critics use it to suggest he is detached from implementation and accountability or an influential ideologue whose ideas warrant skepticism or regulation.",
+    "queries": [
+      "Is Bill Gates being called an idea man reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1",
+    "level": 3,
+    "topic": "microsoft office",
+    "wiki_title": "microsoft office",
+    "summary": "Microsoft Office is often cited as tangible proof of Bill Gates’ transformative impact and business acumen — a flagship success that supporters use to justify admiration for his role in shaping modern workplace software and earning the resources for his philanthropy. Conversely, critics invoke Office’s market dominance, proprietary lock‑in, and subscription monetization to argue that Gates’ fortune and influence stemmed from aggressive, sometimes anticompetitive business practices that justify regulatory scrutiny and temper praise.",
+    "queries": [
+      "How do people view Microsoft Office in Bill Gates' legacy?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "linux",
+    "wiki_title": "linux",
+    "summary": "Linux is often invoked to contrast Bill Gates' legacy at Microsoft — critics cite Linux as proof that his proprietary, lock-in business model stifled competition and spurred the open‑source movement, while others point to Microsoft’s later acceptance of Linux to argue Gates’ influence softened or that the company adapted. Debates using Linux typically frame policy arguments about antitrust, interoperability, and corporate control of software when judging Gates’ impact on the tech industry.",
+    "queries": [
+      "Is Bill Gates' attitude toward linux reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "philanthropy and global health",
+    "wiki_title": "philanthropy",
+    "summary": "Gates’s philanthropy is often cited to portray him as a high-impact problem-solver — funding vaccines, global health, education and climate work — and to justify his ongoing influence in policy and institutional decision-making. Critics, however, frame that same philanthropic power as undemocratic and self-directed, arguing it lets him avoid taxes, shape public priorities toward technocratic solutions, create conflicts of interest, and even fuel conspiracy claims about hidden agendas.",
+    "queries": [
+      "How do people view Bill Gates' philanthropy and global health initiatives?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "bill & melinda gates foundation",
+    "wiki_title": "gates foundation",
+    "summary": "The Gates Foundation is frequently cited to cast Bill Gates as a global philanthropist and technocratic problem‑solver, lending authority to his advocacy for vaccines, data‑driven health programs, and market‑oriented education reforms. Conversely, critics and conspiracy theorists point to the foundation’s scale and private influence to argue Gates wields outsized, undemocratic power over public policy and potential conflicts of interest.",
+    "queries": [
+      "Is the bill & melinda gates foundation’s influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-1-3",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "polio eradication",
+    "wiki_title": "polio eradication",
+    "summary": "Polio eradication is frequently cited by supporters to showcase Bill Gates as a consequential global-health philanthropist whose funding and public–private approach accelerate vaccination campaigns; conversely critics and conspiracy theorists point to vaccine-derived outbreaks, OPV risks, or perceived Gates-driven priorities to argue he exerts undue influence, favors technocratic fixes over local systems, or pursues hidden agendas.",
+    "queries": [
+      "What consequences has Bill Gates' polio eradication work had?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "agra",
+    "wiki_title": "agra",
+    "summary": "Agra is sometimes invoked in debates about Bill Gates as an example Indian city where Gates Foundation health, sanitation and development programs are framed as tangible successes by supporters; critics counter that interventions in places like Agra exemplify top‑down, technocratic philanthropy that can bypass local accountability, cultural context, or fuel vaccine‑related skepticism.",
+    "queries": [
+      "Is Bill Gates’ involvement in Agra justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1-7",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "giving pledge",
+    "wiki_title": "the giving pledge",
+    "summary": "Supporters point to Gates’ participation in the Giving Pledge to portray him as a responsible, generous billionaire whose private philanthropy legitimizes his large role in global health, education, and climate policy; this framing is often used to deflect charges of personal greed. Critics, however, invoke the pledge to argue that Gates’s philanthropy concentrates power, can be performative or a substitute for fair taxation, and allows him to shape public priorities without democratic accountability.",
+    "queries": [
+      "How do people view Bill Gates' giving pledge?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "covax",
+    "wiki_title": "covax",
+    "summary": "COVAX is frequently invoked in debates about Bill Gates to exemplify his role as a backer of multilateral, equity-focused vaccine efforts—used by supporters to justify his philanthropic leadership in global health. Conversely, critics and conspiracy theorists point to COVAX as evidence of Gates exerting outsized influence over vaccine policy and global health governance, framing him as promoting centralized, technocratic control or hidden agendas.",
+    "queries": [
+      "How do people view covax and Bill Gates' role?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "cepi",
+    "wiki_title": "cepi",
+    "summary": "CEPI is often invoked to illustrate Bill Gates’s philanthropic influence over global vaccine R&D and pandemic preparedness—supporters cite his foundation’s backing of CEPI as evidence of responsible investment in rapid vaccine development and equitable access. Critics and conspiracy theorists, however, use CEPI to argue Gates wields undue control over vaccine policy and intellectual‑property decisions, fueling mistrust about his motives and support for stronger public oversight or less private-sector dominance in global health.",
+    "queries": [
+      "Is Bill Gates’s support for cepi reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "trips waiver",
+    "wiki_title": "trips agreement waiver",
+    "summary": "Advocates for the TRIPS waiver often cite Bill Gates as emblematic of elite resistance to global vaccine equity, accusing him of prioritizing pharmaceutical IP and corporate interests. Supporters of Gates counter that he frames the waiver as a symbolic measure that won’t by itself increase manufacturing capacity, arguing for targeted funding, licensing and technology transfer instead.",
+    "queries": [
+      "What impacts could a trips waiver have on Bill Gates's initiatives?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "world trade organization",
+    "wiki_title": "world trade organization",
+    "summary": "In public debates the WTO is invoked to argue that Gates and his philanthropic partners operate within and support multilateral trade and IP rules (notably TRIPS), which critics say privilege pharmaceutical patents and market-based vaccine distribution over equitable access, while supporters claim he is using those mechanisms to promote innovation and coordinated global health responses. Conspiracy and anti-globalization narratives also cite the WTO as evidence that Gates leverages international institutions to extend influence over health and trade policy.",
+    "queries": [
+      "What impacts has Bill Gates had on the world trade organization?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "south africa",
+    "wiki_title": "south africa",
+    "summary": "South Africa is often invoked as a frontline example in debates about Bill Gates: supporters point to Gates Foundation funding for HIV/TB and vaccine programs there to illustrate his global‑health impact, while critics cite South African campaigns for vaccine equity, calls for TRIPS waivers, and deep social inequality to argue he exerts outsized influence and tends to prioritize corporate or technocratic approaches over local public‑health sovereignty.",
+    "queries": [
+      "Is Bill Gates' involvement in South Africa justified or not?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "pfizer",
+    "wiki_title": "pfizer",
+    "summary": "Pfizer is frequently cited in debates about Bill Gates to either allege that Gates' vaccine advocacy and funding unfairly benefits large pharmaceutical companies (framing him as aligned with or enabling for‑profit interests and fueling conflict‑of‑interest or conspiracy claims) or, conversely, to illustrate how Gates' philanthropic efforts can partner with private firms to accelerate vaccine development and global distribution through public–private collaboration.",
+    "queries": [
+      "What effects has Pfizer’s collaboration with Bill Gates brought?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "moderna",
+    "wiki_title": "moderna",
+    "summary": "Moderna is frequently invoked in arguments about Bill Gates to either credit his role in accelerating mRNA vaccine development and global immunization efforts through philanthropic funding and policy advocacy, or to attack him—used by critics and conspiracists to allege Gates exerts undue control over vaccine makers, profits from pandemic responses, or promotes a technocratic global health agenda.",
+    "queries": [
+      "Is Bill Gates’ backing of Moderna justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "vaccine equity",
+    "wiki_title": "vaccine equity",
+    "summary": "Advocates cite vaccine equity to defend and justify Bill Gates’s philanthropic leadership and funding of global immunization efforts as necessary to get shots to low-income countries, while critics and conspiracy theorists weaponize the same language to allege undue influence, control over public health policy, or technocratic overreach; debates over patents, manufacturing scale-up, and IP waivers use ‘vaccine equity’ arguments both to support and to oppose Gates’s specific policy positions.",
+    "queries": [
+      "Is Bill Gates’ support for vaccine equity reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "global south",
+    "wiki_title": "global north and global south",
+    "summary": "The Global North/Global South frame is used to portray Gates either as a benevolent Global North actor delivering money, vaccines and technology to needy countries or as a technocratic, neo‑colonial influence imposing Northern priorities and market‑based solutions on Southern nations. That division shapes debates over his policy stances—vaccine equity, IP waivers, agricultural tech and digital infrastructure—where critics invoke Southern sovereignty and structural change while supporters justify his philanthropy as necessary transfer of resources and expertise.",
+    "queries": [
+      "How do people view Bill Gates' initiatives in the global south?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "anti-vaccine movement",
+    "wiki_title": "anti-vaccine activism",
+    "summary": "Anti-vaccine activists frequently cast Bill Gates as a central villain in conspiracy narratives—portraying his vaccine philanthropy as a covert scheme to control, microchip, or depopulate populations—which is used to delegitimize the public-health initiatives he funds, amplify distrust in vaccines, and justify opposition to mandates or Gates-backed policy interventions.",
+    "queries": [
+      "Are concerns from the anti-vaccine movement about Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "philanthrocapitalism",
+    "wiki_title": "philanthrocapitalism",
+    "summary": "Philanthrocapitalism is used to cast Gates as a business‑minded problem‑solver who brings market tools, data‑driven investments and public–private partnerships to global health and education, justifying his advocacy for scalable, technocratic solutions. Critics use the term to argue his wealth enables policy capture and corporate influence—bypassing democratic accountability, privileging market‑friendly reforms, and creating conflicts of interest where private preferences shape public policy.",
+    "queries": [
+      "What consequences has philanthrocapitalism from Bill Gates caused?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "tax avoidance",
+    "wiki_title": "tax avoidance",
+    "summary": "Critics invoke tax avoidance to portray Bill Gates as benefiting from legal but morally dubious strategies—such as charitable foundations and corporate tax planning—that lower his effective tax burden and concentrate influence outside democratic accountability, bolstering demands for higher billionaire taxes and tighter anti-avoidance rules. Supporters counter that his tax‑advantaged giving and lawful planning direct wealth to social goods more efficiently than government spending and therefore justify his approach.",
+    "queries": [
+      "How do people view tax avoidance by wealthy individuals like Bill Gates?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "melinda french gates",
+    "wiki_title": "melinda french gates",
+    "summary": "Melinda French Gates is often invoked in discussions about Bill Gates to humanize and legitimize his public role—supporters point to their joint philanthropic leadership and her advocacy for women’s empowerment to portray him as a collaborative, benevolent technocrat committed to global health and equity. Conversely, critics and conspiracy-minded commentators cite their divorce, her calls for accountability, and reports about internal workplace behavior to question his personal character, highlight risks of concentrated philanthropic power, and argue for greater public oversight of his influence.",
+    "queries": [
+      "How do people view Melinda French Gates in relation to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C2-8-5",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "prenuptial agreement",
+    "wiki_title": "prenuptial agreement",
+    "summary": "In coverage of Bill Gates’ divorce, prenuptial agreements are invoked to portray him either as a prudent billionaire protecting his assets and control over philanthropic structures or as someone using legal instruments to insulate vast wealth and limit spousal claims; proponents frame prenups as standard high-net-worth planning, while critics say they entrench inequality and can shield influential figures from financial accountability.",
+    "queries": [
+      "How do people view Bill Gates’ prenuptial agreement?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "antitrust and legal issues",
+    "wiki_title": "united states antitrust law",
+    "summary": "United States antitrust law is often invoked in discussions of Bill Gates to characterize his leadership of Microsoft as a case of monopolistic conduct, providing legal and moral grounds for calls to limit his commercial power or impose structural remedies. Critics use antitrust framing to argue for curbs on his market and political influence, while defenders counter that enforcement was overreach that discountenances the innovation and later philanthropic work associated with Gates.",
+    "queries": [
+      "Are Bill Gates' antitrust and legal issues justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "united states v. microsoft",
+    "wiki_title": "united states v. microsoft corp.",
+    "summary": "The Microsoft antitrust case is often invoked to portray Gates as the archetype of aggressive, monopolistic tech leadership and to justify stronger antitrust scrutiny of today’s Big Tech. Defenders use the case and its aftermath to argue he was properly regulated or has since been redeemed by his philanthropic work, shaping whether his legacy is seen as tainted by corporate abuse or mitigated by later contributions.",
+    "queries": [
+      "How do people view united states v. microsoft’s impact on Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "thomas penfield jackson",
+    "wiki_title": "thomas penfield jackson",
+    "summary": "Judge Thomas Penfield Jackson’s antitrust findings and public remarks are often invoked to portray Bill Gates as the architect of Microsoft’s monopolistic, exclusionary practices and to justify regulatory or breakup arguments. Conversely, defenders of Gates cite Jackson’s criticized conduct and rhetoric to argue that Gates was unfairly demonized and that the court overreached.",
+    "queries": [
+      "Is thomas penfield jackson’s behavior toward Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "In debates about Bill Gates, ministries or departments of justice are often invoked as the proper bodies to investigate or adjudicate allegations—from historical antitrust scrutiny of Microsoft to contemporary conspiracy or corruption claims about the Gates Foundation and vaccine programs—so critics demand probes or prosecutions while defenders point to the absence of legal action to argue allegations are baseless. They are thus framed either as a route to accountability that should curb Gates' influence or as institutions that are captured or ineffective at holding powerful actors to account.",
+    "queries": [
+      "Is the Department of Justice scrutiny of Bill Gates justified or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "u.s. department of justice",
+    "wiki_title": "united states department of justice",
+    "summary": "The U.S. Department of Justice is often invoked in discussions of Bill Gates via its historic antitrust action against Microsoft, which critics use to portray Gates as a builder of anti‑competitive tech power that warrants stronger regulation, while defenders treat the DOJ’s intervention as evidence that legal oversight—rather than personal vilification—was the appropriate response. References to the DOJ in broader debates about Gates and big tech therefore serve to justify tougher competition enforcement or to insist disputes be resolved through formal legal channels rather than speculation.",
+    "queries": [
+      "Is u.s. department of justice scrutiny of Bill Gates justified?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "jeffrey epstein",
+    "wiki_title": "jeffrey epstein",
+    "summary": "Epstein is invoked to cast doubt on Bill Gates’ judgment and moral credibility—critics use their past contacts to suggest secrecy, poor vetting, or hidden influence and to discredit Gates’ philanthropic and public‑health initiatives, while defenders say the meetings were limited and not evidence of wrongdoing. The association also fuels conspiracy claims and strengthens calls for greater transparency and oversight of billionaire philanthropy and Gates‑led projects.",
+    "queries": [
+      "What effects has Bill Gates' contacts with Jeffrey Epstein caused?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "fbi",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "In debates about Bill Gates the FBI is often invoked as an authority to either amplify accusations or to dismiss them—conspiracy-minded critics demand or allege FBI action/cover-ups around vaccines, influence, or technocratic power, while defenders point to the absence of public FBI charges or probes to argue his conduct is lawful. Journalists and policymakers also reference FBI cybercrime or national-security findings tied to Microsoft-era issues to justify calls for regulation or scrutiny of Gates and other tech billionaires.",
+    "queries": [
+      "What consequences has FBI scrutiny of Bill Gates caused?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "covid-19 misinformation",
+    "wiki_title": "covid-19 misinformation",
+    "summary": "COVID-19 misinformation often pins conspiratorial motives on Bill Gates—claiming he engineered or profits from the pandemic, intends to use vaccines for population control or microchipping, or wields undue influence over global health—which frames him as a villain and is used to justify anti-vaccine activism, oppose public-health measures (like vaccine mandates or digital health IDs), and criticize philanthropic influence in policymaking.",
+    "queries": [
+      "What impacts has covid-19 misinformation about Bill Gates caused?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "european commission",
+    "wiki_title": "european commission",
+    "summary": "The European Commission is invoked in arguments about Bill Gates both as a regulator that has historically constrained Microsoft and modern tech power—used by critics to underscore Gates' corporate influence—and as a policymaker that partners with or endorses Gates‑funded global health and climate initiatives, which supporters cite to justify his philanthropic role while skeptics claim it demonstrates undue elite influence on public policy.",
+    "queries": [
+      "How do people view the European Commission’s dealings with Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-3-1",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "ursula von der leyen",
+    "wiki_title": "ursula von der leyen",
+    "summary": "Ursula von der Leyen is often invoked in debates about Bill Gates as a high-level European touchpoint: supporters cite her cooperation with Gates or the Gates Foundation to legitimize public–private vaccine, health and tech collaborations, while critics point to her meetings or policy alignments to argue that Gates wields outsized influence over EU health, pandemic and digital policy.",
+    "queries": [
+      "How do people view Ursula von der Leyen’s ties to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-3-2",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "european medicines agency",
+    "wiki_title": "european medicines agency",
+    "summary": "Supporters of Bill Gates point to EMA approvals as independent expert validation of vaccines and therapies the Gates Foundation promotes, using the agency’s regulatory decisions to counter claims that Gates controls vaccine safety. Critics and conspiracy-minded commentators, however, invoke the EMA’s industry ties to argue that regulators and pharmaceutical companies are complicit with Gates’ agenda, citing approvals as evidence of undue influence rather than impartial oversight.",
+    "queries": [
+      "Is Bill Gates' influence on the european medicines agency reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-3",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "eu digital covid certificate",
+    "wiki_title": "eu digital covid certificate",
+    "summary": "The EU digital COVID certificate is often dragged into debates about Bill Gates as purported proof of a Gates-led push for vaccine passports and digital IDs, reinforcing conspiratorial claims that his philanthropy aims to enable global surveillance or social control; conversely, supporters point to such certificates as examples of the kind of public‑health and digital‑infrastructure solutions Gates funds to facilitate safe travel and pandemic management rather than authoritarianism.",
+    "queries": [
+      "How do people view the eu digital covid certificate?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "european green deal",
+    "wiki_title": "european green deal",
+    "summary": "Supporters invoke the European Green Deal to cast Bill Gates as a constructive force for ambitious decarbonization, arguing his philanthropic and investment focus on clean‑tech and innovation complements EU climate goals. Critics cite the Deal’s reliance on private investment and tech‑centric policies to accuse Gates of promoting market‑driven, corporate solutions that enhance his influence and commercial interests rather than systemic social or regulatory change.",
+    "queries": [
+      "Is Bill Gates' support for the European Green Deal reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-6",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "world economic forum",
+    "wiki_title": "world economic forum",
+    "summary": "The World Economic Forum is often invoked to depict Bill Gates as part of a transnational elite coordinating global policy—supporters point to his WEF participation as proof his vaccine, pandemic-preparedness, climate and tech initiatives are legitimate public–private cooperation. Critics use his WEF ties to justify narratives that he is a technocratic ‘globalist’ seeking disproportionate influence (e.g., Great Reset conspiracies), framing his philanthropy as power-grabbing rather than purely charitable.",
+    "queries": [
+      "How do people view the world economic forum and Bill Gates' role?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "netscape",
+    "wiki_title": "netscape",
+    "summary": "Netscape is often cited in debates about Bill Gates as the emblematic casualty of Microsoft’s 1990s tactics, used to portray Gates as a monopolist who suppressed rivals and to justify antitrust action and stricter regulation; critics of that narrative argue Netscape’s fall reflected competitive market and product failures, framing Gates’ behavior as hard-nosed but legitimate competition.",
+    "queries": [
+      "Is Netscape's challenge to Bill Gates' market dominance reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "internet explorer",
+    "wiki_title": "internet explorer",
+    "summary": "Internet Explorer is frequently cited in discussions of Bill Gates as a symbol of his leadership of Microsoft’s aggressive market strategy—used by critics to justify claims of anticompetitive conduct, regulatory intervention, and poor security stewardship, and by defenders to showcase Gates’s strategic vision and commercial success; thus it frames debates over his legacy and informs calls for stricter tech regulation versus praise for technological influence.",
+    "queries": [
+      "Is Bill Gates' involvement with internet explorer reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-3",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "marc andreessen",
+    "wiki_title": "marc andreessen",
+    "summary": "Marc Andreessen is often cited in debates about Bill Gates as a Silicon Valley, pro‑innovation counterpoint—commentators invoke him to criticize Gates’ calls for cautious regulation or technocratic philanthropy, framing Gates as part of an older, establishment approach. Conversely, supporters of Gates use Andreessen’s market‑first rhetoric to justify opposition to Gates’ policy prescriptions and to highlight a broader clash between venture‑capitalist libertarianism and Gates’ emphasis on public‑health and governance.",
+    "queries": [
+      "How do people view marc andreessen’s relationship with Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-4-4",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "browser wars",
+    "wiki_title": "browser wars",
+    "summary": "The browser wars are often cited to frame Bill Gates as the leader of Microsoft’s aggressive, platform-leveraging tactics—used by critics to justify accusations of monopolistic behavior and antitrust action—while defenders cast the same episode as evidence of his strategic vision and competitive drive that accelerated web adoption and innovation.",
+    "queries": [
+      "What consequences has Bill Gates' involvement in the browser wars caused?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "aol",
+    "wiki_title": "aol",
+    "summary": "AOL is often invoked as a cautionary example in discussions about Bill Gates—critics cite AOL’s rapid fall from dominance to warn that Microsoft or Gates-era strategies can be disrupted by platform shifts, while defenders contrast Gates’ strategic pivots as having avoided an AOL-style collapse. It’s also used in broader antitrust and tech-consolidation arguments to frame the risks and limits of dominant software companies like Microsoft.",
+    "queries": [
+      "Is Bill Gates' connection to aol justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "embrace, extend, extinguish",
+    "wiki_title": "embrace, extend, and extinguish",
+    "summary": "Critics invoke “embrace, extend, and extinguish” to portray Bill Gates as the driving force behind Microsoft’s aggressive, anti‑competitive tactics, a framing that fuels mistrust of his leadership and supports calls for antitrust action; defenders counter that the label unfairly personalizes corporate strategy and is used to discredit his later philanthropic and policy influence.",
+    "queries": [
+      "What consequences has Bill Gates' embrace, extend, extinguish caused?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "browser bundling",
+    "wiki_title": "product bundling",
+    "summary": "Product bundling is frequently invoked in debates about Bill Gates to characterize Microsoft’s strategy of packaging Windows with Internet Explorer and other software as either proof of exclusionary, monopolistic conduct that warranted antitrust action and calls for regulation, or as a legitimate way to deliver integrated value and grow a platform. Critics use bundling to argue Gates pursued market dominance and stifled competitors, while defenders argue it produced consumer convenience, innovation, and economies of scale that make break-up or heavy-handed remedies unnecessary.",
+    "queries": [
+      "How do people view browser bundling by Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "browser choice screen",
+    "wiki_title": "browserchoice.eu",
+    "summary": "In debates about Bill Gates, browserchoice.eu is often cited as a concrete outcome of antitrust action against Microsoft—used by critics to highlight Gates' role in building monopolistic Windows-era practices and by defenders to show that Microsoft (and by extension Gates) complied with regulatory remedies. As a result it is invoked to bolster calls for stricter tech oversight and to frame Gates' corporate legacy either as culpable for market dominance or as corrected through enforcement.",
+    "queries": [
+      "What effects has the browser choice screen had on Bill Gates' projects?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "mozilla firefox",
+    "wiki_title": "firefox",
+    "summary": "Firefox is often invoked in discussions of Bill Gates to exemplify successful open‑source competition against Microsoft’s Internet Explorer and to criticize Gates-era market dominance and alleged anticompetitive behavior, bolstering calls for antitrust action, open standards, and user choice. Opponents sometimes point to Firefox’s later decline to argue that Microsoft’s platform resilience (and by extension Gates’ strategic influence) ultimately prevailed.",
+    "queries": [
+      "How do people view mozilla firefox within Bill Gates' tech influence?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "sherman antitrust act",
+    "wiki_title": "sherman antitrust act",
+    "summary": "The Sherman Antitrust Act is often invoked in debates about Bill Gates to frame Microsoft’s 1990s conduct as classic monopolistic behavior warranting breakup or stronger regulation, supporting critiques that his market dominance harmed competition and consumer choice. Conversely, defenders use arguments about the Act’s origins and limits to oppose heavy-handed enforcement, claiming antitrust remedies could misapply 19th‑century law to dynamic tech markets and stifle innovation.",
+    "queries": [
+      "Is invoking the Sherman Antitrust Act against Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "steve ballmer",
+    "wiki_title": "steve ballmer",
+    "summary": "Steve Ballmer is often invoked as a foil to Bill Gates—critics cite Ballmer’s tenure and business priorities to blame Gates’ leadership transitions for Microsoft’s strategic missteps, while defenders contrast Ballmer’s operational, acquisitive style with Gates’s perceived long‑term vision and greater global philanthropic focus to bolster Gates’s reputation as the company’s primary strategic architect and public‑spirited leader.",
+    "queries": [
+      "Is steve ballmer’s leadership reasonable compared to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "satya nadella",
+    "wiki_title": "satya nadella",
+    "summary": "Satya Nadella is often invoked to reframe Bill Gates’ legacy — supporters point to Nadella’s cloud- and AI-focused, more collaborative stewardship as a continuation and vindication of Gates’ technological vision, while critics use Nadella’s tenure to argue that modern controversies and policy responsibilities (antitrust, AI ethics, platform power) lie with current leadership rather than with Gates or that Gates’ era created problems Nadella inherited.",
+    "queries": [
+      "How do people view Satya Nadella compared to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "windows phone",
+    "wiki_title": "windows phone",
+    "summary": "Windows Phone is often cited in debates about Bill Gates as emblematic of Microsoft’s missed opportunity in mobile, used to criticize his strategic focus on desktop software and to question his legacy on innovation. Opponents point to the platform’s failure as evidence of leadership blind spots, while defenders argue it was a post-Gates-era operational failure and therefore not a fair measure of his personal record.",
+    "queries": [
+      "How do people view windows phone in the context of Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "nokia acquisition",
+    "wiki_title": "nokia",
+    "summary": "Nokia is frequently cited in critiques of Bill Gates' legacy to exemplify Microsoft’s failure to capture the smartphone market—the Microsoft–Nokia partnership and Microsoft’s costly exit from phones are used to argue that the company culture and strategic choices fostered under Gates left it blind to mobile. Supporters, however, invoke the same episode to separate Gates personally from later management mistakes, framing the Nokia debacle as the result of post‑Gates leadership and aggressive corporate tactics rather than a refutation of his vision or philanthropic role.",
+    "queries": [
+      "How do people view the nokia acquisition linked to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "ballmer group",
+    "wiki_title": "ballmer group",
+    "summary": "The Ballmer Group is often invoked in debates about Bill Gates as a contrasting example of how tech-billionaire philanthropy can be prioritized — commentators use Ballmer’s focus on domestic economic mobility to criticize Gates’ global-health and education emphasis as reflecting narrow personal priorities. The comparison also appears in arguments about the democratic legitimacy of billionaire influence, with some saying Ballmer’s different priorities show there’s no single ‘responsible’ model and others using it to defend or attack Gates’ particular policy sway.",
+    "queries": [
+      "What influence does ballmer group have on Bill Gates’s philanthropy?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "public policy and governance",
+    "wiki_title": "governance",
+    "summary": "Discussions of governance cast Bill Gates either as a technocratic problem-solver whose philanthropic funding and policy advocacy bring coordination, data-driven reforms, and public–private partnerships to global health and education, or as a source of undue, unaccountable influence over public institutions. Critics use governance language to demand more transparency, accountability, and limits on philanthropic power, while supporters cite his role in strengthening institutions and governance mechanisms as pragmatic responses to complex global challenges.",
+    "queries": [
+      "Is Bill Gates’ role in public policy and governance appropriate or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "covid-19 pandemic",
+    "wiki_title": "covid-19 pandemic",
+    "summary": "The COVID-19 pandemic is used to both praise and vilify Bill Gates: supporters point to his foundation’s funding of vaccines, diagnostics and preparedness as evidence of constructive global leadership, while critics and conspiracy theorists portray his pre‑pandemic warnings and public health investments as signs of undue technocratic influence or sinister control (e.g., surveillance or population‑control) and call for greater accountability over philanthropic power.",
+    "queries": [
+      "How do people view the covid-19 pandemic and Bill Gates' influence?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "vaccine patents",
+    "wiki_title": "patent",
+    "summary": "Patents are cited in discussions of Bill Gates to portray him as a defender of strong IP regimes—using Microsoft’s patenting and licensing practices as evidence that he prioritizes corporate control and market incentives for technological progress—while opponents invoke patents to argue for loosening IP rules for global health or, in fringe narratives, to claim Gates seeks control through patented biomedical technologies.",
+    "queries": [
+      "Is Bill Gates' stance on vaccine patents reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "india–south africa proposal",
+    "wiki_title": "indian south africans",
+    "summary": "Indian South Africans are sometimes invoked in discussions of Bill Gates to illustrate how his global philanthropy and tech investments reach racially and culturally distinct communities in South Africa—used by supporters as evidence his programs benefit diverse local groups, and by critics to argue that external wealthy actors impose priorities, sideline local leadership, and can reinforce inequalities in policymaking and public health.",
+    "queries": [
+      "What effects could the india–south africa proposal have on Bill Gates?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "c-tap",
+    "wiki_title": "tap",
+    "summary": "Supporters often describe Gates as being “tapped” to lead or advise major global‑health and technology initiatives, which frames him as a trusted technocratic problem‑solver whose expertise legitimizes his policy influence; critics and conspiracy narratives use “tapped” to imply he quietly recruits allies, channels philanthropic funding, or exerts covert control over institutions, reinforcing claims of undue power and secrecy.",
+    "queries": [
+      "How do people view c-tap in relation to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C5-7-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "big pharma",
+    "wiki_title": "big pharma",
+    "summary": "References to “Big Pharma” are frequently invoked by critics to cast Bill Gates as colluding with pharmaceutical interests—accusing him of using his foundation and influence to push vaccine mandates, protect patents, and funnel profits to industry while undermining individual choice. Supporters, by contrast, use his association with pharma to argue he provides necessary funding and coordination to accelerate vaccine R&D and global immunization, backing policies that prioritize rapid development and distribution of medical countermeasures.",
+    "queries": [
+      "What concerns do people raise about Bill Gates and big pharma?"
+    ]
+  },
+  {
+    "id": "C5-8-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "wealth tax",
+    "wiki_title": "wealth tax",
+    "summary": "Advocates invoke Bill Gates as a high‑profile example of concentrated billionaire wealth to argue that a wealth tax is needed to curb inequality and finance public goods, while opponents point to his philanthropy, charitable giving, and role in innovation to argue that taxing fortunes like his is unfair or counterproductive and could deter wealth creation.",
+    "queries": [
+      "How do people view a wealth tax on billionaires like Bill Gates?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "conspiracy theories and misinformation",
+    "wiki_title": "conspiracy theory",
+    "summary": "Conspiracy theories cast Bill Gates as secretly orchestrating global health and technology agendas — claiming, for example, that he profits from or uses vaccines for microchipping, population control, or mass surveillance — and are deployed to delegitimize his philanthropy and expertise. These narratives fuel vaccine hesitancy, justify resistance to public‑health measures and regulation tied to Gates, and amplify distrust of institutions associated with him.",
+    "queries": [
+      "Are conspiracy theories and misinformation about Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "event 201",
+    "wiki_title": "johns hopkins center for health security",
+    "summary": "Supporters cite Johns Hopkins Center for Health Security’s research and pandemic simulations (including a widely publicized 2019 exercise that involved the Gates Foundation) to legitimize Bill Gates’ calls for more vaccine funding, global preparedness, and technocratic public‑health policies. Opponents and conspiracy theorists use the same events and reports as evidence of Gates’ undue influence or alleged preplanning, framing his advocacy as coordinated elite control rather than public‑health stewardship.",
+    "queries": [
+      "Is event 201’s depiction of pandemic risks reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "5g conspiracy theory",
+    "wiki_title": "5g",
+    "summary": "5G is often invoked in conspiracy-driven attacks that falsely tie Bill Gates to covert surveillance, population control, or even causing/controlling pandemics, casting him as a technocratic villain and undermining his public-health and technology philanthropy. Defenders point to these 5G-based claims as emblematic of misinformation, using them to argue for better public communication, fact-checking, and regulation of tech and health initiatives associated with Gates.",
+    "queries": [
+      "What consequences has the Bill Gates 5g conspiracy theory caused?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "great reset",
+    "wiki_title": "great reset",
+    "summary": "Conspiracy theorists invoke the \"Great Reset\" to portray Bill Gates as part of a secret globalist scheme using vaccines and pandemic responses to exert control, which amplifies distrust and anti-vaccine sentiment toward him. Critics also deploy the Great Reset narrative more soberly to argue that Gates’s large-scale funding and policy influence represent undue private-sector sway over public health and climate policy.",
+    "queries": [
+      "What effects has the great reset had?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube functions as a battleground of narratives about Bill Gates, amplifying conspiratorial and sensational videos that portray him as a technocratic villain behind vaccines, microchipping, or population‑control schemes—thereby bolstering anti‑vaccine and anti‑global‑health policy sentiment—while simultaneously hosting mainstream interviews, documentaries, and fact‑checks that defend his philanthropic and technology initiatives and argue for science‑based interventions. Its recommendation algorithms and influencer culture tend to magnify distrust and policy opposition to Gates’s influence, even as established outlets and Gates‑connected channels use the platform to justify his views and rebut misinformation.",
+    "queries": [
+      "Is YouTube's coverage of Bill Gates fair or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "plandemic",
+    "wiki_title": "plandemic",
+    "summary": "Plandemic frames Bill Gates as a central villain in COVID-era conspiracy narratives—portraying him as orchestrating or profiting from the pandemic via vaccines and public‑health initiatives—and is used to justify distrust of his vaccine philanthropy, oppose vaccination campaigns and global health policies he supports, and call for curbing his influence.",
+    "queries": [
+      "Is the plandemic claim about Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-8",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "population control",
+    "wiki_title": "population control",
+    "summary": "The term 'population control' is used by critics and conspiracy theorists to claim Bill Gates aims to reduce global population—frequently alleging vaccines or biotech as tools—and to cast him as secretly malevolent; defenders portray his support for vaccination, maternal health, and voluntary family‑planning as public‑health and development work that ethically lowers fertility by improving child survival and access to contraception, with disputes centering on intent, transparency, and technocratic power.",
+    "queries": [
+      "Is Bill Gates' support for population control reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "QAnon narratives cast Bill Gates as a central villain of a secret global conspiracy—accusing him of using vaccines, public‑health programs and technology (microchips/trackers) to control or depopulate people—and portray his philanthropy as a cover for sinister aims. These framings fuel distrust of vaccination and public‑health policies, justify opposition or harassment of Gates and his initiatives, and are used to argue against government health interventions and tech regulation.",
+    "queries": [
+      "What effects has qanon targeting Bill Gates caused?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "anthony fauci",
+    "wiki_title": "anthony fauci",
+    "summary": "Anthony Fauci is frequently invoked alongside Bill Gates as a symbol of scientific and institutional authority on vaccines and pandemic policy, with supporters using their alignment to justify funding, vaccination campaigns, and global health interventions. Conversely, critics and conspiracy theorists conflate Fauci and Gates to portray them as an elitist, technocratic “vaccine-industrial” complex, using Fauci’s public-health role to frame Gates’ philanthropy as political overreach or control.",
+    "queries": [
+      "How do people view anthony fauci’s influence in Bill Gates’ circles?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "gavi",
+    "wiki_title": "gavi",
+    "summary": "Supporters cite Bill Gates’ prominent role in funding and shaping Gavi to portray him as a force for improving global vaccine access and advancing public–private solutions to health inequities. Critics and conspiracy-minded commentators use the same connection to argue he exerts outsized, unaccountable influence on global health policy—fueling concerns about private power, transparency, and alleged vaccine-related agendas.",
+    "queries": [
+      "How do people view Gavi's relationship with Bill Gates?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "vaccine diplomacy",
+    "wiki_title": "vaccine diplomacy",
+    "summary": "Vaccine diplomacy is invoked in discussions of Bill Gates to cast him as a major facilitator of global vaccination cooperation—used to justify philanthropic, multilateral vaccine sharing and public‑health leadership associated with the Gates Foundation. It is also deployed by critics and conspiracy theorists to argue he wields outsized geopolitical influence via funding and vaccine access, supporting skepticism or opposition to philanthropic involvement in health policy.",
+    "queries": [
+      "How do people view Bill Gates' vaccine diplomacy?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "vaccine hesitancy",
+    "wiki_title": "vaccine hesitancy",
+    "summary": "Vaccine hesitancy is frequently anchored to conspiratorial attacks on Bill Gates, portraying his philanthropic support for global immunization as evidence of hidden agendas (population control, profit, or surveillance) to justify opposition to vaccines and mandates; public-health defenders counter that those Gates-focused narratives are a major source of misinformation that unfairly delegitimizes vaccination efforts and damages trust in policy.",
+    "queries": [
+      "How do people view vaccine hesitancy related to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "world health organization",
+    "wiki_title": "world health organization",
+    "summary": "The WHO is frequently invoked in debates about Bill Gates: supporters point to his foundation's collaborations with WHO to portray him as a legitimate philanthropist advancing vaccines and pandemic preparedness, while critics and conspiracy theorists use WHO ties and funding to argue he exerts undue influence over global health policy or even controls international health agendas.",
+    "queries": [
+      "Is the World Health Organization’s influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "tedros adhanom",
+    "wiki_title": "tedros adhanom ghebreyesus",
+    "summary": "As WHO director, Tedros is frequently invoked in debates about Bill Gates: supporters point to his public collaboration with WHO and Gates-funded initiatives to legitimize Gates’ role in global health and vaccine campaigns, while critics and conspiracy theorists portray Tedros as evidence of undue Gates influence over international health policy and pandemic responses.",
+    "queries": [
+      "Is tedros adhanom’s cooperation with Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "pandemic treaty",
+    "wiki_title": "who pandemic agreement",
+    "summary": "References to the WHO pandemic agreement are used to cast Bill Gates as either a constructive advocate for stronger international pandemic preparedness—consistent with his funding and policy advocacy—or as a target of conspiratorial criticism claiming the treaty would let him (and other global actors) centralize control over health policy and impose mandates that erode national sovereignty.",
+    "queries": [
+      "Is Bill Gates' support for a pandemic treaty justified or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "conflict of interest",
+    "wiki_title": "conflict of interest",
+    "summary": "Allegations of conflict of interest are frequently used to question Bill Gates’s motives when his philanthropy, investments, or advisory roles intersect with public health, research, or policy—portraying him as able to shape agendas for private or ideological gain and prompting calls for recusal, transparency, or limits on philanthropic influence. Supporters respond that his funding and expertise fill public gaps and argue the remedy is stronger governance and disclosure rather than wholesale exclusion or suspicion.",
+    "queries": [
+      "What consequences has Bill Gates' conflict of interest caused?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "vaccine misinformation",
+    "wiki_title": "vaccine misinformation",
+    "summary": "Vaccine misinformation frequently portrays Bill Gates as a sinister figure behind global vaccination efforts—accusing him of using vaccines to depopulate, implant trackers, or expand surveillance—which reframes his philanthropic funding of health programs as nefarious. These claims are used to discredit Gates, stoke distrust of his initiatives, and bolster anti‑vaccine and anti‑global‑health policy positions.",
+    "queries": [
+      "What effects has vaccine misinformation about Bill Gates caused?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "vaccine passport",
+    "wiki_title": "vaccine passport",
+    "summary": "Vaccine passports are frequently invoked in debates about Bill Gates to fuel conspiracy narratives that portray him as orchestrating global surveillance and authoritarian control via vaccines and digital health credentials; conversely, advocates point to his vaccine philanthropy to frame such passports as legitimate public‑health measures for safe reopening, so the term polarizes attitudes toward Gates and shapes pro- and anti-regulation policy stances.",
+    "queries": [
+      "Are concerns about Bill Gates and vaccine passport justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7-2",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "id2020",
+    "wiki_title": "id2020",
+    "summary": "ID2020 is often cited in arguments about Bill Gates by conspiracists as purported proof that his philanthropic work seeks to deploy digital IDs tied to vaccines for mass surveillance and control, which is used to justify distrust of his vaccine and public-health initiatives. Supporters, however, point to ID2020 to frame Gates as a technocratic philanthropist promoting legal identity and inclusion to improve access to services and health outcomes.",
+    "queries": [
+      "How do people view id2020 and Bill Gates' role?"
+    ]
+  },
+  {
+    "id": "C6-7-4",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "digital identity",
+    "wiki_title": "digital identity",
+    "summary": "Digital identity is often invoked in debates about Bill Gates to justify his philanthropic and tech investments—supporters present his backing of digital ID and vaccine-passport projects as tools for public health, financial inclusion, and efficient service delivery—while critics seize on the same concepts to portray Gates as enabling privacy-eroding surveillance and technocratic control, fueling calls for stricter regulation or rejection of his influence.",
+    "queries": [
+      "How do people react to Bill Gates' role in digital identity?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "vaccine mandates",
+    "wiki_title": "vaccination policy",
+    "summary": "Discussions of vaccination policy are used to frame Bill Gates either as a philanthropic public-health advocate—cited for his foundation’s funding and promotion of global immunization to justify praise for evidence-based vaccine programs—or as a target of criticism and conspiracy, with opponents alleging that his influence steers policy undemocratically, creates conflicts of interest, or supports mandatory/coercive measures for profit or control.",
+    "queries": [
+      "How do people view vaccine mandates associated with Bill Gates?"
+    ]
+  },
+  {
+    "id": "C6-8",
+    "parent": "C6",
+    "level": 2,
+    "topic": "microchip implant",
+    "wiki_title": "microchip implant",
+    "summary": "Microchip implants are invoked in conspiracy narratives that falsely allege Bill Gates is using vaccines or public-health programs to secretly implant tracking or control devices, casting him as a technocratic villain and bolstering anti‑vaccine and anti‑surveillance sentiments. These claims are used to criticize his philanthropic influence on global health and to argue for restricting vaccine mandates, data‑sharing, and public–private health initiatives he supports.",
+    "queries": [
+      "How do people view microchip implant claims linked to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C6-8-3",
+    "parent": "C6-8",
+    "level": 3,
+    "topic": "rfid tag",
+    "wiki_title": "radio-frequency identification",
+    "summary": "RFID frequently appears in conspiracy and privacy narratives about Bill Gates — critics claim he seeks to 'microchip' people via vaccines or digital ID projects using RFID-style tags to enable surveillance and control, a charge used to vilify him and mobilize opposition to his public‑health initiatives. Supporters, however, point to RFID as a legitimate logistics and tracking tool Gates funds for vaccine distribution and supply‑chain efficiency, framing such technology as pragmatic while opponents highlight attendant civil‑liberties risks.",
+    "queries": [
+      "How do people view an rfid tag linked to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "education and school reform",
+    "wiki_title": "education reform",
+    "summary": "In debates about Bill Gates, \"education reform\" is invoked to frame him as a data-driven philanthropist who funds standards-based, technology-centric, and market-oriented changes (e.g., Common Core, charter expansion, testing-anchored teacher evaluations) that supporters say modernize schools and improve outcomes. Critics use the term to cast Gates as a technocratic, privatizing influence that pushes top-down policies favoring measurable metrics and private providers while marginalizing teachers, communities, and public accountability.",
+    "queries": [
+      "Is Bill Gates’s education and school reform agenda reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "common core state standards",
+    "wiki_title": "common core",
+    "summary": "Common Core is often invoked in discussions of Bill Gates to illustrate his influence on U.S. education—critics point to Gates Foundation funding and advocacy as evidence he promotes technocratic, market-oriented reforms and exerts outsized control over curricula. Supporters counter that his backing of Common Core reflects a genuine push for higher, more consistent academic standards and data-driven improvements to equity and college/career readiness.",
+    "queries": [
+      "What effects has Bill Gates' promotion of common core state standards had?"
+    ]
+  },
+  {
+    "id": "C8-2-3",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "smarter balanced",
+    "wiki_title": "smarter balanced assessment consortium",
+    "summary": "Critics invoke the Smarter Balanced Assessment Consortium as evidence of Bill Gates’ outsized influence on public education, arguing his foundation’s funding and advocacy helped impose nationwide standardized testing, data collection, and market‑oriented reform priorities. Supporters point to the consortium to justify Gates’ emphasis on measurable standards and accountability as tools to improve student outcomes.",
+    "queries": [
+      "How do people view smarter balanced's impact on classroom teaching?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "foundation for excellence in education",
+    "wiki_title": "foundation for excellence in education",
+    "summary": "The Foundation for Excellence in Education is often invoked in discussions about Bill Gates as part of the same reform network promoting market‑oriented, accountability‑heavy and tech‑friendly school policies; supporters point to its work to justify Gates’ funding of standards, testing, charters and digital learning, while critics cite it to argue Gates is pushing a top‑down, privatizing influence on public education.",
+    "queries": [
+      "What effects has the foundation for excellence in education produced?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "tea party movement",
+    "wiki_title": "tea party movement",
+    "summary": "Tea Party activists and allies cast Bill Gates as a wealthy technocratic 'elite' whose philanthropic funding of vaccines, public‑health programs, education reform, and climate initiatives exemplifies undue elite and globalist influence, using him to justify opposition to big‑government solutions, vaccine mandates, and international institutions; this framing often fuels skepticism or conspiratorial claims about his motives.",
+    "queries": [
+      "How do people view the tea party movement's views on Bill Gates?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "standardized testing",
+    "wiki_title": "standardized test",
+    "summary": "Standardized tests are central to critiques and defenses of Bill Gates' education agenda: proponents cite his push for measurable, test-based accountability and data-driven reforms as evidence of commitment to improving outcomes, while critics argue his funding and advocacy promote a testing-centric, technocratic approach that narrows curriculum, empowers private vendors, and sidelines teachers' professional judgment.",
+    "queries": [
+      "Is standardized testing reasonable for assessing student learning outcomes?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "parcc",
+    "wiki_title": "parcc",
+    "summary": "PARCC is invoked in discussions of Bill Gates to exemplify the standardized-testing and Common Core agenda his foundation has funded: critics use PARCC to portray Gates as promoting top-down, corporate-style education reform and excessive testing, while supporters frame such assessments as part of his push for higher standards, accountability, and college readiness.",
+    "queries": [
+      "Is Bill Gates's support for parcc justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3-4",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "opt-out movement",
+    "wiki_title": "opt-outs in the european union",
+    "summary": "In discussions about Bill Gates, EU opt-outs are often cited by critics as protective tools that limit the reach of his global health and digital-policy influence, reinforcing narratives that cast him as a technocratic globalist whom sovereign states should resist. Conversely, supporters of Gates-backed initiatives use opt-outs to argue that national exemptions hinder effective coordination on vaccines, data standards, and pandemic preparedness that his philanthropy aims to promote.",
+    "queries": [
+      "What consequences has the opt-out movement related to Bill Gates caused?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "value-added modeling",
+    "wiki_title": "value-added modeling",
+    "summary": "Bill Gates and the Gates Foundation have pushed value-added modeling as a data-driven rationale for teacher accountability, merit pay, and other school-reform initiatives, using it to justify funding and policy changes. Critics counter that his promotion of VAM amplifies a contested, noisy metric that can scapegoat teachers and further technocratic, market-oriented (and sometimes privatizing) education agendas.",
+    "queries": [
+      "What effects has value-added modeling produced in schooling outcomes?"
+    ]
+  },
+  {
+    "id": "C8-4-2",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "met project",
+    "wiki_title": "met",
+    "summary": "References to who or what Bill Gates 'met'—whether reported meetings with politicians, health officials and industry leaders or his appearances at elite institutions like “The Met”—are deployed by supporters to demonstrate his collaborative influence in philanthropy and policymaking, while detractors and conspiracy theorists use the same anecdotes to allege secretive back‑room power, elitism, or improper sway over public institutions.",
+    "queries": [
+      "Is the met project supported by Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "race to the top",
+    "wiki_title": "race to the top",
+    "summary": "In debates about Bill Gates, “race to the top” is used to frame his influence in education as driving competitive, accountability-focused reforms — supporters say his philanthropy and policy advocacy push higher standards and innovation, while critics use the term to accuse him of promoting technocratic, market‑oriented changes (testing, charters, teacher evaluation) that centralize power and erode public control.",
+    "queries": [
+      "How do people view the race to the top?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "raj chetty",
+    "wiki_title": "raj chetty",
+    "summary": "Raj Chetty's empirical findings on social mobility, education, and neighborhood effects are often used to bolster Bill Gates' image as an evidence-driven philanthropist—supporters cite Chetty to justify the Gates Foundation's focus on data-backed education, early-childhood, and place-based interventions—while critics point to Chetty's work to argue that deep structural barriers demand public policy and redistribution rather than technocratic philanthropy, framing Gates' approach as insufficient or misdirected.",
+    "queries": [
+      "How do people view Raj Chetty's findings on economic mobility?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "charter schools",
+    "wiki_title": "charter school",
+    "summary": "Bill Gates' philanthropic backing of charter schools is often cited to portray him as a technocratic education reformer who promotes market-style accountability, innovation, and school choice as fixes for underperforming public schools.  Opponents counter that his charter advocacy exemplifies how wealthy donors privatize education policy, weaken unions and local control, and push corporate models over community-driven public schooling.",
+    "queries": [
+      "How do people view Bill Gates’ involvement with charter schools?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "school choice",
+    "wiki_title": "school choice",
+    "summary": "Advocates point to Gates’s support for school choice to portray him as a pragmatic, evidence-oriented reformer who funds charters, ed‑tech, and policy pilots to raise student outcomes; opponents use school choice to cast him as promoting privatization and technocratic, donor-driven influence that undermines democratic public schooling.",
+    "queries": [
+      "What consequences has Bill Gates' promotion of school choice had?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "success academy",
+    "wiki_title": "success academy",
+    "summary": "Success Academy is often invoked in debates about Bill Gates' education philanthropy: supporters point to its strong test results as evidence that Gates-style charter expansion, accountability, and ed‑tech investments work, while critics cite its disciplinary practices, union conflicts, and alleged selective enrollment to argue Gates’ reforms promote privatization, test-driven policies, and inequitable outcomes over investment in traditional public schools.",
+    "queries": [
+      "What effects has Bill Gates’s backing of Success Academy produced?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "eva moskowitz",
+    "wiki_title": "eva moskowitz",
+    "summary": "Eva Moskowitz is often invoked in arguments about Bill Gates to personify the charter-school, test-driven education reforms associated with Gates-era philanthropy; supporters point to Success Academy as evidence that Gates-style investments can improve outcomes, while critics use her as an example of the privatizing, punitive or market-driven consequences they attribute to Gates-backed education policy.",
+    "queries": [
+      "Is eva moskowitz's education approach reasonable alongside Bill Gates' reforms?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "michelle rhee",
+    "wiki_title": "michelle rhee",
+    "summary": "Michelle Rhee is frequently invoked by supporters as proof that Bill Gates backs bold, outcome-focused education reform—willing to fund controversial, accountability-driven leaders who push charters and strict teacher-evaluation policies. Critics, however, cite Rhee’s contentious record to portray Gates as promoting technocratic, top-down and union-busting reforms that prioritize test scores and privatization over community-led public education.",
+    "queries": [
+      "How do people view Michelle Rhee's partnerships with funders like Bill Gates?"
+    ]
+  },
+  {
+    "id": "C8-5-7",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "teach for america",
+    "wiki_title": "teach for america",
+    "summary": "Teach For America is often invoked in discussions of Bill Gates to illustrate his support for market-oriented, accountability-focused education reforms — critics point to TFA’s short-term corps model and affinity with charter and test-driven approaches to argue Gates promotes privatization and weakens traditional public schools, while supporters cite TFA’s alignment with Gates-funded initiatives as evidence of his commitment to innovation and closing achievement gaps.",
+    "queries": [
+      "Is Bill Gates' support for Teach For America justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "gates millennium scholars",
+    "wiki_title": "gates millennium scholars program",
+    "summary": "Supporters point to the Gates Millennium Scholars Program as concrete evidence that Bill Gates uses his wealth to expand college access and promote racial equity, framing him as a philanthropic problem-solver; critics invoke the program to argue his giving is high-profile PR and a private-bandage approach that distracts from calls for systemic policy changes like progressive taxation and stronger public investment.",
+    "queries": [
+      "How do people view gates millennium scholars' fairness in selections?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "historically black colleges and universities",
+    "wiki_title": "historically black colleges and universities",
+    "summary": "HBCUs are often invoked in debates about Bill Gates' philanthropy and education agenda to argue whether his foundation’s tech-driven, reform-focused grants meaningfully address racial inequities—critics say Gates prioritizes market-oriented solutions and underinvests in historically Black institutions, while supporters point to targeted donations to HBCUs as evidence of his commitment to closing racial gaps in higher education.",
+    "queries": [
+      "How do people view Bill Gates and historically black colleges and universities?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "affirmative action",
+    "wiki_title": "affirmative action",
+    "summary": "Affirmative action is invoked in discussions of Bill Gates to evaluate whether his philanthropy, education reform efforts, and influence on tech hiring advance race-conscious remedies or instead prioritize meritocratic, data‑driven solutions. Supporters point to his investments in access and diversity programs as addressing systemic inequality, while critics argue his technocratic approach and policy priorities can sideline explicit race‑based measures and perpetuate elite advantages.",
+    "queries": [
+      "Is Bill Gates' support for affirmative action reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "pell grant",
+    "wiki_title": "pell grant",
+    "summary": "In debates about Bill Gates, Pell Grants are often cited to contrast his private scholarship and education‑reform efforts with federal need‑based aid—supporters say Gates’ programs complement Pell by helping low‑income students access college, while critics argue his philanthropic focus and promotion of market‑style reforms can deflect attention and political pressure away from expanding or protecting the Pell Grant program and public higher‑education funding.",
+    "queries": [
+      "Is Bill Gates's support for pell grant justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-5",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "student debt",
+    "wiki_title": "student debt",
+    "summary": "In debates about Bill Gates, 'student debt' is invoked by critics to argue that his market-oriented education reforms and preference for philanthropy over higher taxation leave systemic indebtedness unaddressed, with calls for billionaire-funded debt cancellation or public solutions. Supporters counter that his foundation’s targeted grants and scholarship programs are practical measures that reduce individual borrowing even if they stop short of advocating broad debt forgiveness.",
+    "queries": [
+      "Is Bill Gates' position on student debt reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "privatization in education",
+    "wiki_title": "privatization",
+    "summary": "Privatization is used to criticize Bill Gates by claiming his foundation and policy influence push public services (education, health, vaccines) toward private-sector control and market-based solutions, effectively shifting decision‑making from democratically accountable institutions to wealthy philanthropies and corporations. Defenders frame the same privatization‑adjacent strategies as pragmatic public–private partnerships that deliver innovation, funding, and scale where governments are seen as slow or underfunded.",
+    "queries": [
+      "Is Bill Gates' support for privatization in education reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "pearson plc",
+    "wiki_title": "pearson plc",
+    "summary": "Critics cite Pearson as an example of the private education companies that allegedly benefit from and help implement Bill Gates’s school-reform agenda, arguing that his funding and policy influence steer public education toward standardized testing, digital products, and market-driven solutions; supporters counter that Pearson is simply an industry partner that operationalizes reforms rather than a sign of sinister collusion.",
+    "queries": [
+      "Is Bill Gates' support for pearson plc reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-7",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "school vouchers",
+    "wiki_title": "school voucher",
+    "summary": "Invoking school vouchers frames Gates either as a pro‑choice, market‑oriented education reformer who favors private and charter options to drive accountability and innovation, or as a privatizing elite whose support for voucher‑style policies is criticized for diverting public funds, increasing inequality, and undermining public education.",
+    "queries": [
+      "What consequences have Bill Gates' school vouchers efforts produced?"
+    ]
+  },
+  {
+    "id": "C8-7-8",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "national education association",
+    "wiki_title": "national education association",
+    "summary": "The National Education Association is often invoked in debates about Bill Gates as a leading critic of his education philanthropy, portraying Gates-funded policies (like emphasis on standardized testing, merit pay, and charter expansion) as technocratic, market-driven interventions that weaken public schools and teachers’ rights. Its framing is used to justify opposition to Gates’ influence on education policy and to argue for stronger public control and support for teachers over private philanthropic sway.",
+    "queries": [
+      "How do people view the National Education Association’s ties to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "climate and energy initiatives",
+    "wiki_title": "climate and energy",
+    "summary": "In discussions of Bill Gates, 'climate and energy' is used to cast him as a pragmatic philanthropist and investor backing clean‑energy R&D, carbon removal, and advanced nuclear as necessary, market‑oriented fixes, while critics use the same topic to portray him as a technocratic elite who promotes technology‑first solutions (including geoengineering) that concentrate influence and may serve his financial or policy preferences.",
+    "queries": [
+      "How do people view Bill Gates' climate and energy initiatives?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "breakthrough energy",
+    "wiki_title": "breakthrough energy",
+    "summary": "Supporters point to Breakthrough Energy as proof that Gates is a pragmatic climate philanthropist who uses private capital to speed up clean‑energy innovation, framing his approach as market‑driven and solution‑oriented rather than purely political. Critics use it to argue he prioritizes tech‑centric, corporate-led fixes and wields financial influence to shape policy, accusing the effort of enabling elite control, greenwashing, or sidelining regulatory and equity-focused climate responses.",
+    "queries": [
+      "What effects has Bill Gates' breakthrough energy caused?"
+    ]
+  },
+  {
+    "id": "C9-1-3",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "small modular reactor",
+    "wiki_title": "small modular reactor",
+    "summary": "Supporters point to Gates’ investment and advocacy for small modular reactors as evidence of his pragmatic, technology‑led approach to decarbonization and as a concrete example of his leverage in pushing advanced nuclear policy and commercialization. Critics use his backing of SMRs to frame him as a technocratic influencer who favors centralized, industry‑friendly, and potentially risky nuclear solutions over distributed renewables and community‑driven energy approaches.",
+    "queries": [
+      "What impacts has Bill Gates's small modular reactor backing had?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "clean technology",
+    "wiki_title": "clean technology",
+    "summary": "Clean technology is invoked to portray Gates as a pragmatic climate leader and investor—his Breakthrough Energy funding and advocacy for advanced nuclear, carbon capture, and market-driven R&D are used to justify an innovation-first, technocratic approach. Critics use the same association to argue he privileges techno‑fixes and private profit, steering policy toward philanthrocapitalist solutions rather than systemic or equity-centered climate action.",
+    "queries": [
+      "Is Bill Gates’ clean technology emphasis reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "terrapower",
+    "wiki_title": "terrapower",
+    "summary": "Gates’ backing of TerraPower is frequently invoked to paint him as a pragmatic, pro‑nuclear technocrat who leverages his wealth to push advanced nuclear technology as a climate solution; supporters use it to justify his focus on large‑scale, innovation‑driven decarbonization. Critics counter that the same association shows he favors corporate, centralized, high‑risk approaches over renewables, questions his influence on energy policy, and sometimes fuels conspiratorial claims about control and secrecy.",
+    "queries": [
+      "What concerns do people have about terrapower and Gates' involvement?"
+    ]
+  },
+  {
+    "id": "C9-2-2",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "traveling wave reactor",
+    "wiki_title": "traveling wave reactor",
+    "summary": "References to traveling-wave reactors in discussions of Bill Gates are used by supporters to portray him as a forward‑looking investor and climate philanthropist backing cutting‑edge nuclear solutions, while critics cite the technology’s unproven status and his TerraPower ties to argue he promotes risky, centralized and market‑driven energy projects that shouldn’t drive public policy or receive special support.",
+    "queries": [
+      "How do people view the traveling wave reactor in Gates’s initiatives?"
+    ]
+  },
+  {
+    "id": "C9-2-3",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "china national nuclear corporation",
+    "wiki_title": "china national nuclear corporation",
+    "summary": "In debates over Bill Gates’ promotion of nuclear power, references to the China National Nuclear Corporation are often invoked to cast his investments and advocacy as entangled with Chinese state interests—used by critics to raise security, sovereignty, or hypocrisy concerns. Supporters counter that mentioning CNNC simply reflects the global nature of the nuclear industry and is used to frame Gates’ stance as pragmatic cooperation for decarbonization rather than political alignment.",
+    "queries": [
+      "Is Bill Gates' involvement with china national nuclear corporation reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "ge hitachi nuclear energy",
+    "wiki_title": "ge hitachi nuclear energy",
+    "summary": "GE Hitachi Nuclear Energy is frequently cited in discussions about Bill Gates as evidence of his support for corporate-led nuclear solutions: proponents point to engagement with firms like GE Hitachi to portray Gates as a pragmatic investor advancing decarbonization, while critics use the company's involvement to argue he leans toward big‑industry, technocratic fixes and close ties to the nuclear sector that can marginalize renewables and public-policy approaches.",
+    "queries": [
+      "Are concerns about ge hitachi nuclear energy justified or not?"
+    ]
+  },
+  {
+    "id": "C9-2-6",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "u.s. department of energy",
+    "wiki_title": "u.s. department of energy, office of inspector general",
+    "summary": "Audits and reports from the Department of Energy’s Office of Inspector General are frequently cited in discussions about Bill Gates’ influence on energy policy—critics use OIG findings to allege problematic public–private arrangements linked to Gates’ clean‑energy investments, while defenders point to OIG oversight as evidence that any DOE collaborations are subject to accountability and scrutiny.",
+    "queries": [
+      "Is u.s. department of energy collaborating with Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "kemmerer, wyoming",
+    "wiki_title": "kemmerer, wyoming",
+    "summary": "References to Kemmerer, Wyoming in discussions of Bill Gates are often used by critics to portray him as a remote, secretive landowner whose rural property acquisitions symbolize elite control over farmland and local communities, fueling narratives that he can unduly influence food systems and local policy. Supporters push back that such mentions are sensationalized, arguing they reflect routine investment behavior rather than evidence of malfeasance or conspiratorial intent.",
+    "queries": [
+      "How do people view Bill Gates' investments in kemmerer, wyoming?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "carbon capture and storage",
+    "wiki_title": "carbon capture and storage",
+    "summary": "Carbon capture is frequently referenced in discussions of Bill Gates because he publicly funds and promotes CCS as a tech-driven climate solution, which allies point to as pragmatic support for innovation in hard-to-abate sectors. Critics use his advocacy and investments to argue he prioritizes market-led, techno-fix approaches that can entrench fossil-fuel interests, shift policy toward private ventures, or distract from faster renewables and efficiency measures.",
+    "queries": [
+      "How do people view carbon capture and storage in Gates' climate agenda?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "carbon engineering",
+    "wiki_title": "carbon engineering",
+    "summary": "Carbon Engineering is frequently invoked in discussions of Bill Gates as a concrete example of his funding and public advocacy for carbon‑removal technology; supporters point to his backing as evidence of pragmatic investment in climate innovation, while critics argue it highlights his preference for marketable, corporate techno‑fixes that can be used to justify continued fossil‑fuel use or centralized control over climate solutions.",
+    "queries": [
+      "Is Bill Gates's investment in carbon engineering justified or not?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "climeworks",
+    "wiki_title": "climeworks",
+    "summary": "Climeworks is often cited in discussions about Bill Gates as a tangible example of the techno‑optimist, investment‑led climate strategy he funds and promotes — supporters point to its scaling of direct air capture as evidence his focus on innovation and carbon removal is practical, while critics argue it exemplifies Gates’ preference for expensive techno‑fixes and market solutions over stronger emissions regulations and systemic change. It also appears in debates over public subsidies and carbon‑credit policy that Gates endorses, and sometimes in conspiratorial narratives about his influence on climate interventions.",
+    "queries": [
+      "Is climeworks investment by Bill Gates reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "fossil fuel industry",
+    "wiki_title": "fossil fuel",
+    "summary": "Fossil fuels are invoked in discussions about Bill Gates to cast him as either a climate-minded funder of clean‑energy and carbon‑removal technologies aimed at phasing out coal and oil, or as a target of criticism for privileging techno‑fixes (carbon capture, advanced nuclear) and maintaining investment or lifestyle links to high‑carbon systems rather than backing immediate, systemic fossil‑fuel phase‑out.",
+    "queries": [
+      "Is Bill Gates's involvement with the fossil fuel industry reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "net zero",
+    "wiki_title": "net-zero emissions",
+    "summary": "Supporters invoke net-zero to cast Gates as a pragmatic, tech-focused climate leader whose investments in clean-energy R&D and carbon removal are presented as realistic ways to meet emissions targets; critics use net-zero to argue he champions market-based, techno-capitalist fixes that enable corporate offsets, greenwashing, and elite control instead of systemic emissions cuts.",
+    "queries": [
+      "What effects has Bill Gates' net zero support had?"
+    ]
+  },
+  {
+    "id": "C9-3-7",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "greenwashing",
+    "wiki_title": "greenwashing",
+    "summary": "Accusers invoke 'greenwashing' to portray Bill Gates’s climate investments, tech-focused solutions and philanthropic campaigns as image-management or self‑serving PR that dodge systemic reforms and protect vested interests, bolstering calls for stricter regulation and skepticism of market-based fixes; his defenders reject this framing as unfair, arguing it downplays substantive contributions to innovation and aid.",
+    "queries": [
+      "Is Bill Gates's greenwashing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "nuclear power",
+    "wiki_title": "nuclear power",
+    "summary": "Gates’s support for advanced nuclear is cited to portray him as a pragmatic, pro-technology climate realist—his investments and advocacy are used to justify his preference for large-scale, engineered decarbonization solutions. Detractors use the same stance to frame him as techno‑elitist and risk‑tolerant, arguing it aligns him with centralized industry interests and downplays cheaper, decentralized renewable alternatives.",
+    "queries": [
+      "What are the societal impacts of nuclear power supported by Bill Gates?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "nuclear regulatory commission",
+    "wiki_title": "nuclear regulatory commission",
+    "summary": "In debates about Bill Gates’ financing and advocacy for advanced nuclear startups (like TerraPower), the NRC is used to either legitimize his agenda—with supporters citing its licensing and oversight as proof the projects can be safely regulated—or to criticize it, with opponents pointing to NRC delays, regulatory hurdles, or alleged capture to argue Gates’ nuclear push is impractical, risky, or serves elite interests. Conspiracy-minded critics also invoke the NRC to claim undue influence or secrecy around Gates-backed nuclear initiatives.",
+    "queries": [
+      "How do people view the nuclear regulatory commission's stance on Gates-backed projects?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "nuclear waste",
+    "wiki_title": "radioactive waste",
+    "summary": "Critics use concerns about radioactive waste to attack Bill Gates’ backing of advanced nuclear ventures (e.g., TerraPower), arguing his promotion of next‑gen reactors downplays long‑term disposal risks and centralized hazardous infrastructure. Supporters invoke reduced waste profiles, recycling and novel reactor designs to justify his nuclear investments as pragmatic climate policy rather than an environmental hazard.",
+    "queries": [
+      "What impacts could nuclear waste decisions involving Bill Gates have?"
+    ]
+  },
+  {
+    "id": "C9-4-7",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "greenpeace",
+    "wiki_title": "greenpeace",
+    "summary": "Critics cite Greenpeace to argue that Gates’ philanthropy and investments push technocratic, corporate-friendly fixes—like support for industrial agriculture, GMOs, carbon markets and geoengineering—framing his influence as harmful centralization of power over public policy and nature. Supporters counter by pointing to Greenpeace’s anti-GMO/anti-corporate reputation and protest tactics to dismiss those critiques as ideologically motivated or alarmist.",
+    "queries": [
+      "Is greenpeace's criticism of Bill Gates justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-8",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "department of energy",
+    "wiki_title": "ministry of energy",
+    "summary": "In discussions about Bill Gates, ministries of energy are invoked to show how his advocacy and investments in advanced nuclear and clean‑energy R&D can influence national energy policy and funding priorities; supporters point to ministries adopting innovation‑and‑R&D approaches he promotes, while critics cite ministry procurements and policy shifts as evidence that Gates‑backed, large‑scale technology solutions crowd out renewables and local energy autonomy.",
+    "queries": [
+      "Are concerns about the Department of Energy and Bill Gates justified?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "solar geoengineering",
+    "wiki_title": "solar radiation modification",
+    "summary": "Discussions about SRM often center on Bill Gates because his philanthropic funding and public calls to study solar geoengineering are used by supporters to portray him as a pragmatic technocrat funding emergency climate options, while opponents and conspiracy theorists cite the same connection to criticize him as promoting risky, unilateral 'weather control' or as evidence of elite influence over climate policy. Consequently, SRM-related coverage of Gates fuels debates over technocratic power, moral hazard (that researching SRM could weaken emissions efforts), and the need for international governance versus private or unilateral action.",
+    "queries": [
+      "What risks or benefits are linked to solar geoengineering and Bill Gates?"
+    ]
+  },
+  {
+    "id": "C9-5-2",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "david keith",
+    "wiki_title": "david keith",
+    "summary": "David Keith’s work on solar geoengineering and carbon removal is often cited in debates about Bill Gates to portray Gates as a backer of technology-first climate solutions—supporters use Keith’s research to justify Gates’ investments in carbon-removal and geoengineering research as pragmatic, science-based policy. Critics, however, invoke the Gates–Keith connection to accuse Gates of favoring risky, top‑down technological fixes that could distract from emissions reductions and democratic oversight.",
+    "queries": [
+      "How do people view david keith's climate work linked to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C9-5-3",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "stratospheric aerosol injection",
+    "wiki_title": "stratospheric aerosol injection",
+    "summary": "Stratospheric aerosol injection figures in narratives about Bill Gates both as a focal point for conspiracy theories that falsely allege he intends or funds clandestine global spraying, and as a policy flashpoint used by critics to argue his philanthropy promotes risky, technocratic ‘quick fixes’ to climate change rather than prioritizing emissions reductions, while supporters cast his funding of research as pragmatic exploration of potential tools.",
+    "queries": [
+      "How do people view stratospheric aerosol injection and Gates’ involvement?"
+    ]
+  },
+  {
+    "id": "C9-5-5",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "etc group",
+    "wiki_title": "etc",
+    "summary": "In discussions about Bill Gates, 'etc.' is often used to shorthand the wide range of his philanthropic and technological activities (vaccines, education, global health, etc.), reinforcing narratives of expansive influence or, when used in lists of elites (Gates, Bezos, Zuckerberg, etc.), supporting critiques of concentrated tech power. Critics and conspiracy-minded commentators also deploy 'etc.' to imply unspecified or nefarious additions (microchips, population control, etc.), whose vagueness helps their claims evade scrutiny and amplify suspicion.",
+    "queries": [
+      "How do people view the etc group linked to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "carbon pricing",
+    "wiki_title": "carbon price",
+    "summary": "Carbon pricing is often invoked by Gates and his backers to justify his advocacy and investments in low‑carbon technologies, portraying him as a pragmatic, market‑oriented problem‑solver who favors price signals and innovation over heavy regulation. Critics counter that his promotion of carbon markets and taxes reflects a neoliberal technocratic outlook that shifts costs onto consumers, advantages private firms (including ventures he funds), and downplays equity and systemic change.",
+    "queries": [
+      "What effects has Bill Gates' carbon pricing advocacy caused?"
+    ]
+  },
+  {
+    "id": "C9-6-2",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "carbon tax",
+    "wiki_title": "carbon tax",
+    "summary": "In public debates, Gates' advocacy of carbon pricing is used to portray him as a market‑oriented, technology‑first problem solver — supporters point to his endorsement of a carbon tax/fee as a practical way to drive clean‑energy innovation, while critics invoke it to depict him as favoring technocratic, corporate‑friendly policies that can be regressive or distract from systemic, equity‑centered solutions.",
+    "queries": [
+      "Is Bill Gates's support for a carbon tax justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-3",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "cap and trade",
+    "wiki_title": "carbon emission trading",
+    "summary": "References to carbon emission trading are often used to cast Gates as a pragmatic, pro‑market climate actor who favors carbon pricing, offsets and technology-driven solutions (like carbon removal) to meet emissions goals; opponents use the same policy to criticize him for backing market mechanisms that they say benefit corporations and offsets over strict emissions cuts, equity, or regulatory approaches.",
+    "queries": [
+      "How do people view cap and trade in Bill Gates' agenda?"
+    ]
+  },
+  {
+    "id": "C9-6-5",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "voluntary carbon markets",
+    "wiki_title": "carbon market in india",
+    "summary": "India’s carbon market is often cited in discussions of Bill Gates to cast him as a market-oriented climate philanthropist who supports financing carbon offsets and removal projects as pragmatic tools to scale low-carbon technologies. Conversely, critics invoke Indian carbon trading examples to argue Gates’s backing of corporate-led offsets enables greenwashing, concentrates control over land and resources, and sidelines small farmers and public-sector mitigation, framing his approach as technocratic and pro-market rather than justice-focused.",
+    "queries": [
+      "Are voluntary carbon markets supported by Bill Gates justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "green premium",
+    "wiki_title": "green bond",
+    "summary": "Supporters point to green bonds as an example of how Gates promotes market-based, private-capital solutions to scale climate technology and fund Sustainable Development goals through his investments and advocacy; critics counter that his backing of such instruments exemplifies financialized, elite-driven climate governance that can enable greenwashing, profit-seeking, or outsized influence over public policy.",
+    "queries": [
+      "How do people view the green premium in Gates' proposals?"
+    ]
+  },
+  {
+    "id": "C9-7",
+    "parent": "C9",
+    "level": 2,
+    "topic": "green new deal",
+    "wiki_title": "green new deal",
+    "summary": "In debates about Bill Gates, the Green New Deal is used to cast him either as a potential ally—citing his philanthropy and investments in clean‑energy R&D as helpful to ambitious decarbonization goals—or as a foil: progressive critics argue his corporate and technology‑first approach conflicts with the GND’s justice‑focused, regulatory agenda, while right‑wing and conspiratorial narratives portray Gates and the GND as evidence of elite technocratic control.",
+    "queries": [
+      "Is the green new deal reasonable or not, according to Bill Gates?"
+    ]
+  },
+  {
+    "id": "C9-7-1",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "alexandria ocasio-cortez",
+    "wiki_title": "alexandria ocasio-cortez",
+    "summary": "Progressive lawmakers such as Alexandria Ocasio‑Cortez are often cited in arguments about Bill Gates to exemplify a critique of billionaire philanthropy and concentrated power—used to argue Gates’ influence should be constrained by taxation, regulation, and democratic oversight rather than celebrated. Conversely, opponents invoke her to characterize attacks on Gates as ideologically driven assaults on private philanthropy and technocratic solutions.",
+    "queries": [
+      "Do people think Alexandria Ocasio-Cortez’s views on Bill Gates are reasonable?"
+    ]
+  },
+  {
+    "id": "C9-7-7",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "public-private partnership",
+    "wiki_title": "public–private partnership",
+    "summary": "Supporters point to Bill Gates’ promotion of public–private partnerships as a pragmatic way his foundation leverages private capital and expertise to deliver global health and education outcomes; critics invoke PPPs to argue he gains outsized, opaque influence over public policy, promotes privatized solutions and corporate interests, and circumvents democratic accountability.",
+    "queries": [
+      "What outcomes have public-private partnership initiatives involving Bill Gates produced?"
+    ]
+  }
+]

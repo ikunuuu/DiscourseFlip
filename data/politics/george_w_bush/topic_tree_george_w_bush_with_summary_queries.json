@@ -1,0 +1,1905 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "George W. Bush",
+    "wiki_title": "George W. Bush",
+    "summary": "George W. Bush is often used as a shorthand in debates about national security and conservative policy—supporters invoke his decisiveness, tax‑cutting and tough post‑9/11 stance to justify strong executive action and hawkish foreign policy, while critics point to the Iraq War, crisis mismanagement, and the 2008 economic fallout to argue against unilateral military intervention, deregulation, and weak accountability.",
+    "queries": [
+      "What impacts has George W. Bush had on US foreign policy?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "presidential legacy",
+    "wiki_title": "presidential memorials in the united states",
+    "summary": "Memorials and naming efforts tied to George W. Bush are used as levers in public debates to either cement a narrative of decisive 9/11-era leadership and domestic achievements (supporting conservative interpretations and policy continuity) or to contest and complicate his legacy by foregrounding the Iraq War, civil‑liberties tradeoffs, and policy failures. Disputes over whether to erect, fund, or contextualize such memorials reflect broader partisan fights about how history should evaluate Bush and which policies should be celebrated or critiqued.",
+    "queries": [
+      "Is George W. Bush's presidential legacy viewed as justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "iraq war",
+    "wiki_title": "iraq war",
+    "summary": "The Iraq War is the defining lens through which George W. Bush is judged: critics use it to argue he misled the public, pursued reckless policy that produced long-term instability and damaged U.S. credibility, while supporters invoke it as evidence of decisive, security‑focused leadership in the post‑9/11 era.",
+    "queries": [
+      "What impacts did George W. Bush's iraq war have?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "weapons of mass destruction",
+    "wiki_title": "weapon of mass destruction",
+    "summary": "Allegations that Iraq possessed weapons of mass destruction were the principal public rationale the George W. Bush administration used to justify the 2003 invasion, framing the president as taking necessary preemptive action to protect national security. After WMD claims proved unfounded, the phrase became a potent criticism of Bush—used to accuse his team of intelligence manipulation, eroded credibility, and to challenge the administration's hawkish, interventionist policies (while defenders argue decisions were made in good faith on flawed intelligence).",
+    "queries": [
+      "How do people view George W. Bush’s weapons of mass destruction claims?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "colin powell",
+    "wiki_title": "colin powell",
+    "summary": "Colin Powell’s public support—most famously his 2003 UN presentation on Iraq’s alleged WMDs—was invoked to legitimize George W. Bush’s push for the Iraq War and to give establishment credibility to administration foreign‑policy claims; his subsequent expressions of regret and distancing are now cited by critics as evidence of flawed intelligence and Bush’s mismanagement. As a respected, moderate Republican, Powell’s later criticisms and refusals to defend Bush-era policies are frequently used in debates to undermine Bush’s legacy and argue for reassessment of his decisions.",
+    "queries": [
+      "Is Colin Powell's support for the Iraq War justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "2003 invasion of iraq",
+    "wiki_title": "2003 invasion of iraq",
+    "summary": "The 2003 invasion of Iraq is the central reference point for evaluating Bush’s presidency—critics use it to portray him as misleading, unilateral, and responsible for long-term regional instability and human costs, while supporters invoke it as evidence of decisive leadership that toppled a dictator and pursued security and freedom. It therefore frames judgments of his competence, credibility, and foreign‑policy legacy and drives debates over interventionism and executive war powers.",
+    "queries": [
+      "How do people view the 2003 invasion of iraq?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "halliburton",
+    "wiki_title": "halliburton",
+    "summary": "Halliburton is often invoked in critiques of George W. Bush as emblematic of alleged administration cronyism and corporate influence—via Dick Cheney’s ties—to argue that the Iraq War, energy policy, and postwar contracting favored private oil and contractor profits over public interest. Supporters counter that Halliburton illustrates the administration’s reliance on private-sector logistics and expertise, framing outsourcing of reconstruction and services as practical rather than corrupt.",
+    "queries": [
+      "What do people think about Halliburton's influence on Bush-era policy?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "war on terror",
+    "wiki_title": "war on terror",
+    "summary": "The 'war on terror' is frequently used to defend George W. Bush as a decisive protector who responded to 9/11 with strong security and preemptive policies, while opponents use it to criticize his administration for launching costly, prolonged wars, expanding executive power and surveillance, and enabling human-rights abuses that tarnish his legacy.",
+    "queries": [
+      "What impacts has the war on terror under Bush produced?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "afghanistan war",
+    "wiki_title": "war in afghanistan",
+    "summary": "Supporters portray Bush’s initiation of the 2001 Afghanistan war as a necessary, decisive response to 9/11 that demonstrated strong leadership on counterterrorism and homeland defense. Critics use the prolonged, costly conflict—mission creep, civilian harm, and weak exit planning—to argue his administration mismanaged nation-building, expanded executive war powers, and left lasting instability.",
+    "queries": [
+      "How do people view the Afghanistan War today?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "bush doctrine",
+    "wiki_title": "bush doctrine",
+    "summary": "In debates about George W. Bush, the term is invoked by supporters to legitimize his administration’s assertive, unilateral and preemptive use of force as decisive defense against threats, framing him as a strong protector of U.S. security; critics use it to portray Bush as militaristic and neoconservative, accusing him of reckless regime-change policies that undermine international norms and inflame anti-American sentiment.",
+    "queries": [
+      "How do people view the Bush doctrine?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "preemptive strike",
+    "wiki_title": "preemptive war",
+    "summary": "Debates over preemptive war are central to assessments of George W. Bush because his 2002–03 “Bush Doctrine” and the Iraq invasion were framed as necessary preemptive action against WMD and terrorism, helping supporters cast him as decisive on national security.  Opponents argue the policy operated as preventive aggression based on faulty intelligence, underpinning criticisms of unilateralism, illegality, and reckless foreign policy that damaged U.S. credibility.",
+    "queries": [
+      "How do people view George W. Bush’s preemptive strike?"
+    ]
+  },
+  {
+    "id": "C1-3-4",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "neoconservatism",
+    "wiki_title": "neoconservatism",
+    "summary": "Neoconservatism is invoked to explain and defend George W. Bush’s assertive, democracy‑promoting foreign policy—used by supporters to justify interventions (notably Iraq) as principled actions to secure U.S. interests. Critics use the label to cast Bush as ideologically driven toward militarism, unilateralism, and imperial overreach, blaming neocon advisers for strategic missteps and costly wars.",
+    "queries": [
+      "What consequences did neoconservatism bring to Bush's foreign policy?"
+    ]
+  },
+  {
+    "id": "C1-3-6",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "axis of evil",
+    "wiki_title": "axis of evil",
+    "summary": "In debates about George W. Bush, the term is invoked to show how his administration used stark, moralizing rhetoric to justify a muscular, preemptive national‑security agenda (including the case for invading Iraq). Critics counter that its use demonstrates Bush’s tendency toward alarmist, binary framing that simplified complex geopolitics, weakened diplomacy, and helped legitimize unnecessary military intervention.",
+    "queries": [
+      "Is George W. Bush's axis of evil label justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "aumf",
+    "wiki_title": "repeal of the 2002 aumf",
+    "summary": "Calls to repeal the 2002 AUMF are often used to criticize George W. Bush's legacy by framing his administration as having authorized open-ended military interventions and expanded executive war powers, arguing repeal is necessary to constrain the long-running post‑9/11 wars his policies enabled. Conversely, defenders of retaining the AUMF portray Bush-era authorizations as essential national security tools, using the law to justify continuity of force and to defend his wartime decisions.",
+    "queries": [
+      "How do people view Bush’s aumf today?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "no child left behind",
+    "wiki_title": "no child left behind act",
+    "summary": "No Child Left Behind is frequently cited to portray George W. Bush as a reform-minded, ‘compassionate conservative’ who pushed federal accountability and bipartisan action in education; conversely critics use it to argue his administration favored top‑down mandates, expanded federal power, and relied on high‑stakes testing that damaged local control and harmed his policy legacy.",
+    "queries": [
+      "What effects has George W. Bush's no child left behind caused?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "margaret spellings",
+    "wiki_title": "margaret spellings",
+    "summary": "As Bush’s domestic policy adviser and later Secretary of Education, Margaret Spellings is often invoked to defend and personify his education agenda—especially No Child Left Behind—framing his presidency as focused on standards, accountability, and school reform. Critics use her tenure to argue the administration expanded federal control, imposed high‑stakes testing and unfunded mandates, and prioritized political messaging over effective support for schools.",
+    "queries": [
+      "Is Margaret Spellings’s education agenda under George W. Bush reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "united states department of education",
+    "wiki_title": "united states department of education",
+    "summary": "The U.S. Department of Education is commonly cited in debates about George W. Bush as the agency that implemented his signature No Child Left Behind agenda—used by supporters to highlight his emphasis on accountability, standards, and testing and by critics to argue he promoted federal overreach, underfunded mandates, and a narrowing of curriculum. References to his department appointments and funding choices are deployed to either credit him with reforming struggling schools or to fault him for weakening local control and teacher autonomy.",
+    "queries": [
+      "Is the united states department of education under Bush reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "standardized testing",
+    "wiki_title": "standardized test",
+    "summary": "During George W. Bush’s presidency standardized testing became the centerpiece of No Child Left Behind and is invoked by supporters to justify federal accountability and measurable school improvement, while critics use it to attack his legacy for promoting “teaching to the test,” narrowing curricula, and imposing punitive sanctions on underperforming schools, framing him as prioritizing quantified outcomes over broader educational goals.",
+    "queries": [
+      "How do people view standardized testing during George W. Bush’s administration?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "adequate yearly progress",
+    "wiki_title": "adequate yearly progress",
+    "summary": "In discussions of George W. Bush’s education legacy, Adequate Yearly Progress is used by supporters to show he emphasized accountability and measurable gains for struggling schools; critics invoke AYP to argue his administration pushed punitive, test‑focused federal mandates that narrowed curriculum, stigmatized schools, and exemplified overreach in education policy.",
+    "queries": [
+      "Was adequate yearly progress fair for schools and students?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "reading first",
+    "wiki_title": "reading first",
+    "summary": "References to the Reading First program are used to illustrate George W. Bush’s education agenda—supporters point to it as evidence he pushed accountability, early-literacy funding and ‘scientific’ reading instruction under No Child Left Behind—while critics invoke it to argue his administration imposed top-down, test-driven solutions, politicized research, favored scripted phonics programs, and undermined local control and broader curricular goals.",
+    "queries": [
+      "How do people view George W. Bush’s reading first policy?"
+    ]
+  },
+  {
+    "id": "C1-4-6",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "national education association",
+    "wiki_title": "national education association",
+    "summary": "The National Education Association is frequently cited by critics to portray George W. Bush as favoring federal mandates, high‑stakes testing and privatization (most notably around No Child Left Behind), arguing his policies weakened public schools and teachers; the NEA also served as an organized, partisan focal point for opposition to his education agenda and reelection efforts.",
+    "queries": [
+      "Is Bush's treatment of the national education association reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "unfunded mandate",
+    "wiki_title": "unfunded mandate",
+    "summary": "During George W. Bush’s presidency opponents used “unfunded mandate” to criticize policies—most notably No Child Left Behind—as federal overreach that forced states and localities to meet standards without adequate funding, portraying Bush as hypocritically expanding federal burdens while touting small‑government principles. Supporters countered that federal mandates were needed to enforce national education and accountability goals and that funding (though often contested as insufficient) accompanied the requirements, so the term frames his domestic legacy as either necessary reform or costly imposition.",
+    "queries": [
+      "Was George W. Bush's unfunded mandate reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "hurricane katrina",
+    "wiki_title": "hurricane katrina",
+    "summary": "Hurricane Katrina is often invoked by critics as a shorthand indictment of George W. Bush’s leadership—used to argue his administration was incompetent, indifferent to poor and Black communities, and failed on disaster preparedness and coordination. Defenders counter that the catastrophe reflected unprecedented scale and state/local engineering failures, so the episode is also used to debate federal emergency funding, accountability, and the limits of Bush’s ‘compassionate conservatism.’",
+    "queries": [
+      "How do people view Hurricane Katrina’s impact on Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "fema",
+    "wiki_title": "federal emergency management agency",
+    "summary": "FEMA’s mishandling of Hurricane Katrina is frequently invoked to criticize George W. Bush as an inept and uncaring leader—evidence in debates that his administration was slow to protect poor and predominantly Black communities and bungled federal emergency response. Defenders argue the problems reflected federalism, logistics, and institutional limits (leading to policy changes in homeland security and emergency management), but FEMA’s performance remains a central cudgel in fights over Bush’s competence and priorities.",
+    "queries": [
+      "How do people view FEMA’s actions under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "michael d. brown",
+    "wiki_title": "michael d. brown",
+    "summary": "Michael D. Brown is frequently invoked as evidence of the Bush administration’s failures in crisis management and patronage, with critics citing his bungled FEMA leadership during Hurricane Katrina to argue that George W. Bush appointed unqualified allies and presided over an incompetent federal response. Supporters, meanwhile, sometimes cast Brown as a scapegoat for state and local shortcomings to deflect blame from Bush.",
+    "queries": [
+      "Was michael d. brown's leadership during the Bush administration justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "united states army corps of engineers",
+    "wiki_title": "united states army corps of engineers",
+    "summary": "In debates about George W. Bush the U.S. Army Corps of Engineers is often invoked to criticize the administration’s handling of Hurricane Katrina—blamed for levee design, maintenance and slow coordination—and used to argue that Bush prioritized other policies over disaster preparedness and infrastructure. Defenders, however, point to the Corps’ long-standing design choices and funding shortfalls to frame blame as institutional and historical rather than solely presidential.",
+    "queries": [
+      "Is United States Army Corps of Engineers’ role under Bush justified?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "mercedes-benz superdome",
+    "wiki_title": "caesars superdome",
+    "summary": "Images and accounts of people sheltering in the New Orleans Superdome after Hurricane Katrina are frequently invoked to condemn George W. Bush’s leadership—used to symbolize an administration seen as slow, incompetent, and indifferent (especially toward poor and Black communities) and to demand accountability and FEMA reform. Supporters counter that the Superdome’s failures reflect state and local mismanagement, using it to argue that blame should not rest solely with Bush.",
+    "queries": [
+      "What impact did Bush-era decisions at the mercedes-benz superdome have?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "ray nagin",
+    "wiki_title": "ray nagin",
+    "summary": "In discussions of George W. Bush’s presidency, Ray Nagin is invoked both ways: critics point to his highly publicized clashes with the federal government after Hurricane Katrina to argue that the Bush administration failed vulnerable communities, while defenders cite Nagin’s own leadership mistakes and later criminal conviction to argue that blame for Katrina’s fallout lay with local officials rather than the president. His prominence in the Katrina narrative thus gets used to either amplify charges of federal neglect under Bush or to deflect them by portraying the crisis as primarily a local governance failure.",
+    "queries": [
+      "How do people view Ray Nagin’s actions during Katrina under Bush?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "kathleen blanco",
+    "wiki_title": "kathleen blanco",
+    "summary": "As Louisiana's governor during Hurricane Katrina, Kathleen Blanco is often invoked in arguments about George W. Bush’s leadership and disaster-response competence—critics use her public complaints and the botched federal–state coordination to portray Bush as slow or ineffective, while supporters point to state-level failures and constraints she faced to deflect blame. Her role thus frames debates about Bush’s competence, federal responsibility, and emergency-management policy.",
+    "queries": [
+      "How do people view Kathleen Blanco’s leadership during Bush-era crises?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "abu ghraib",
+    "wiki_title": "abu ghraib",
+    "summary": "Abu Ghraib's photographs and revelations are invoked as emblematic evidence of the Bush administration’s failures on human rights and oversight, used by critics to argue that policies like the Iraq War, detention regimes, and “enhanced interrogation” reflected leadership culpability and eroded U.S. moral authority. Defenders counter that the abuses were aberrant actions by individuals rather than official policy, framing the controversy as unfair scapegoating amid difficult wartime decisions and necessary counterterrorism measures.",
+    "queries": [
+      "Was accountability for Abu Ghraib in the Bush administration sufficient?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "donald rumsfeld",
+    "wiki_title": "donald rumsfeld",
+    "summary": "Donald Rumsfeld is invoked as the embodiment of George W. Bush's national-security approach: critics point to his role in promoting flawed WMD claims, management failures (including prisoner‑abuse scandals) and the Iraq strategy to argue that Bush presided over reckless, poorly planned wars, while supporters cite his push for military transformation and decisive post‑9/11 action to justify Bush’s hawkish, assertive foreign‑policy leadership.",
+    "queries": [
+      "How do people view Donald Rumsfeld's decisions under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "taguba report",
+    "wiki_title": "taguba report",
+    "summary": "The Taguba report is frequently invoked by critics of George W. Bush to argue that his administration's interrogation and detention policies produced systemic human‑rights abuses and a failure of presidential oversight, bolstering calls for accountability and policy reform. Supporters counter that the report documents mainly lower‑level misconduct and chain‑of‑command failures, using it to defend Bush from direct culpability and to frame the abuses as implementation problems rather than official policy.",
+    "queries": [
+      "How do people view the Taguba Report's impact on Bush administration?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "torture memos",
+    "wiki_title": "torture memos",
+    "summary": "The torture memos are invoked as key evidence in debates about George W. Bush’s legacy: critics portray them as proof he authorized and legally insulated abusive interrogation and expanded unchecked executive power, while defenders argue they show a controversial but security‑focused legal posture taken in the post‑9/11 emergency.",
+    "queries": [
+      "Are George W. Bush's torture memos justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "lynndie england",
+    "wiki_title": "lynndie england",
+    "summary": "Lynndie England is frequently invoked by critics of George W. Bush as a symbol of the administration’s detainee-abuse scandals and a shorthand for failures of oversight, accountability, and moral judgment during the War on Terror; defenders counter by portraying her as a low-level rogue or scapegoat to downplay White House and senior-command responsibility for interrogation policies.",
+    "queries": [
+      "Is Lynndie England’s conduct during the Bush administration justifiable or not?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "caci international",
+    "wiki_title": "caci",
+    "summary": "In debates about George W. Bush, CACI is often invoked as emblematic of the administration's reliance on private contractors—critics point to CACI's involvement in Abu Ghraib and related detainee-interrogation work to condemn Bush-era policies on outsourcing, torture, and accountability, while defenders argue contractor misconduct reflected local failures or confused wartime orders rather than direct White House directives.",
+    "queries": [
+      "How do people view CACI International's role in Bush-era policies?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "human rights watch",
+    "wiki_title": "human rights watch",
+    "summary": "Human Rights Watch's reports on Bush-era policies—particularly on 'enhanced interrogation' (torture), extraordinary rendition, Guantanamo detentions, and expanded surveillance—are routinely cited by critics to argue that George W. Bush undermined the rule of law and violated international human-rights norms and to press for investigations, prosecutions, or policy reversals. Supporters of Bush often respond by labeling HRW as politically biased or decontextualizing its findings, so the organization functions both as a key source for condemnation and a focal point of partisan rebuttal.",
+    "queries": [
+      "Is Human Rights Watch's criticism of George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "2008 financial crisis",
+    "wiki_title": "2008 financial crisis",
+    "summary": "Critics invoke the 2008 financial crisis to blame George W. Bush’s administration for deregulatory policies and lax oversight, using it to argue for stronger financial regulation and to portray Republican economic stewardship as reckless. Defenders counter that the crisis had broader, global causes beyond Bush’s control and point to his administration’s emergency interventions to justify pragmatic bailouts and oppose heavy-handed regulation.",
+    "queries": [
+      "What lessons should policymakers learn from the 2008 financial crisis?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "hank paulson",
+    "wiki_title": "henry paulson",
+    "summary": "As George W. Bush’s Treasury Secretary and former Goldman Sachs CEO, Henry Paulson is often cited to justify the administration’s 2008 bailout as pragmatic, technocratic crisis-management; conversely, critics use his role to depict the Bush years as captive to Wall Street, highlighting regulatory capture, revolving‑door influence, and a willingness to protect financial elites over ordinary consumers.",
+    "queries": [
+      "Is Hank Paulson's role in Bush's administration justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "tarp",
+    "wiki_title": "tarp",
+    "summary": "References to TARP in discussions of George W. Bush are used to frame his response to the 2008 financial crisis—supporters cite it to argue he acted pragmatically to stabilize markets, while critics use it to fault his economic management and to portray his administration as bailing out Wall Street, encouraging moral hazard and corporate favoritism.",
+    "queries": [
+      "Is George W. Bush's TARP justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "lehman brothers",
+    "wiki_title": "lehman brothers",
+    "summary": "Lehman Brothers' 2008 collapse is often cited to fault the George W. Bush administration's deregulatory posture, weak supervision of mortgage and financial markets, and policy choices as major contributors to the crisis, bolstering calls for stricter regulation and critiques of Bush-era economic stewardship. Defenders counter that Lehman's failure reflected broader market excesses and structural problems beyond the president's direct control, using it to argue against ad hoc bailouts and to shift blame to regulators or prior policies.",
+    "queries": [
+      "Was the Bush administration’s handling of Lehman Brothers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "too big to fail",
+    "wiki_title": "too big to fail",
+    "summary": "In assessments of George W. Bush’s presidency, “too big to fail” is often used by critics to link his deregulatory policies and close ties to Wall Street to the rise of oversized financial firms whose 2008 bailouts (like TARP) became symbols of cronyism and moral hazard; supporters rebut that his administration’s interventions were pragmatic, emergency measures to prevent broader economic collapse rather than endorsements of concentrated financial power.",
+    "queries": [
+      "Is George W. Bush’s reliance on too big to fail justified?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "federal reserve",
+    "wiki_title": "federal reserve",
+    "summary": "In debates about George W. Bush the Federal Reserve is often invoked to allocate responsibility for the 2000s boom-and-bust—critics blame the Fed’s low-rate policies and lax oversight for fueling the housing bubble while defenders argue Fed independence makes it the primary culprit rather than Bush’s fiscal choices. Supporters point to Bush’s appointment of Ben Bernanke and the Fed’s emergency actions in 2008 to justify his crisis response, whereas opponents cite Fed-backed bailouts to condemn the administration’s deregulatory, pro‑bank orientation and the moral hazard it created.",
+    "queries": [
+      "How do people view George W. Bush’s relationship with the Federal Reserve?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "mortgage-backed securities",
+    "wiki_title": "mortgage-backed security",
+    "summary": "Mortgage-backed securities are often used to criticize George W. Bush by linking his deregulatory, pro‑homeownership stance and close ties to Wall Street to the proliferation of risky MBS that fueled the 2008 financial crisis, portraying his administration as responsible for weak oversight. Supporters respond that MBS problems predated his term and point to his late‑term emergency interventions (e.g., TARP) to argue he acted as needed, so MBS become a proxy in debates over his culpability versus systemic causes.",
+    "queries": [
+      "Was George W. Bush's use of mortgage-backed securities justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "fannie mae/freddie mac",
+    "wiki_title": "fannie mae",
+    "summary": "Fannie Mae is frequently cited in debates over George W. Bush as either a symbol of the administration’s housing-promotion and deregulatory failures—used by critics to pin part of the 2008 housing crisis on Bush-era policies and lax oversight—or as a counterargument used by defenders to say longstanding GSE practices and prior regulations, not Bush alone, were chiefly responsible.  Discussion of Fannie Mae thus frames evaluations of Bush’s economic stewardship and shapes policy arguments about regulation, homeownership goals, and government involvement in housing finance.",
+    "queries": [
+      "How do people view fannie mae/freddie mac during Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "dick cheney",
+    "wiki_title": "dick cheney",
+    "summary": "Cheney is frequently invoked in discussions of George W. Bush as the powerful, hawkish force behind the administration’s post‑9/11 security agenda — used by critics to attribute the Iraq War, torture policies, and expanded surveillance to Bush’s deference to a militaristic vice president, and by defenders to portray the Bush team as resolute and security‑first rather than indecisive.",
+    "queries": [
+      "How do people view dick cheney’s role in the Bush administration?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "unitary executive theory",
+    "wiki_title": "unitary executive theory",
+    "summary": "During George W. Bush’s presidency, defenders invoked the unitary executive to justify expansive national-security moves—signing statements, warrantless surveillance, military detention and interrogation policies—arguing they required strong, centralized presidential control. Critics seized on the doctrine to portray Bush as enabling executive overreach, secrecy, and the erosion of checks and balances in the name of security.",
+    "queries": [
+      "How do people view the unitary executive theory?"
+    ]
+  },
+  {
+    "id": "C1-8-5",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "energy task force",
+    "wiki_title": "energy task force",
+    "summary": "Critics invoke the Energy Task Force as evidence that George W. Bush pursued a pro-industry, supply-side energy agenda and let fossil-fuel interests and secretive processes shape policy at the expense of environmental protections; supporters frame it as a pragmatic, market-oriented effort to boost energy supply and economic growth.",
+    "queries": [
+      "Is George W. Bush’s energy task force justified or not?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "vice president of the united states",
+    "wiki_title": "vice president of the united states",
+    "summary": "References to the vice presidency in debates about George W. Bush usually center on Dick Cheney’s outsized influence: critics use the office to argue that Cheney engineered the administration’s hawkish Iraq-war, surveillance, and executive-power decisions behind the scenes, while supporters frame Cheney’s role as necessary experienced counsel that justified and implemented Bush’s conservative national-security agenda.",
+    "queries": [
+      "How do people view Bush's vice president of the united states?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign policy and security",
+    "wiki_title": "foreign policy",
+    "summary": "Debates about Bush’s foreign policy—centered on the Bush Doctrine, the 2003 Iraq invasion, and the broader War on Terror—are used to cast him either as a decisive protector who acted preemptively to defend U.S. security and promote democracy, or as a reckless unilateralist whose preemptive war, intelligence failures, and counterinsurgency choices damaged U.S. credibility and cost lives. Supporters point to strengthened homeland security and bold action; critics emphasize strained alliances, civilian casualties, torture/rendition controversies, and long-term regional instability to condemn his approach.",
+    "queries": [
+      "What effects has George W. Bush’s foreign policy and security caused?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "saddam hussein",
+    "wiki_title": "saddam hussein",
+    "summary": "Saddam Hussein is invoked by Bush supporters as the menacing tyrant whose alleged WMDs and links to terror legitimized the 2003 invasion and cast George W. Bush as a decisive, liberating protector; conversely, critics cite Saddam to argue Bush misled the public, pursued an unnecessary, imperialist war that destabilized the region and damaged U.S. credibility.",
+    "queries": [
+      "How do people view Saddam Hussein’s influence on Bush’s decision?"
+    ]
+  },
+  {
+    "id": "C2-2-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "guantanamo bay detention camp",
+    "wiki_title": "guantanamo bay detention camp",
+    "summary": "Guantanamo Bay is often invoked as a shorthand critique of George W. Bush’s post‑9/11 presidency, used to highlight allegations of human rights abuses, indefinite detention, and the erosion of due process and international law under his national‑security policies. Supporters, by contrast, frame the facility as a necessary and pragmatic instrument of wartime executive authority to detain and interrogate dangerous terrorists and defend the country.",
+    "queries": [
+      "What consequences has guantanamo bay detention camp had for Bush's presidency?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "department of homeland security",
+    "wiki_title": "united states department of homeland security",
+    "summary": "Supporters point to Bush’s creation and expansion of the Department of Homeland Security as evidence of decisive post‑9/11 leadership and a lasting institutional response to terrorism and border security. Critics invoke DHS to argue that his administration centralized power, normalized intrusive surveillance and immigration enforcement, and oversaw bureaucratic failures (e.g., Katrina) that harmed civil liberties and emergency response.",
+    "queries": [
+      "Was the department of homeland security under Bush reasonable?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "9/11 attacks",
+    "wiki_title": "september 11 attacks",
+    "summary": "The 9/11 attacks are central to narratives that portray George W. Bush as a decisive wartime president who legitimately expanded national-security powers and launched the global \"war on terror,\" while critics use the attacks to fault his administration for intelligence failures, for using the crisis to justify controversial policies (notably the Iraq war, mass surveillance, and the Patriot Act), and for the long human and financial costs of his post‑9/11 strategy.",
+    "queries": [
+      "Were the policy changes after the 9/11 attacks reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "osama bin laden",
+    "wiki_title": "osama bin laden",
+    "summary": "Osama bin Laden is invoked by defenders of George W. Bush to frame his post‑9/11 agenda—military intervention in Afghanistan, tougher intelligence and surveillance, and expanded executive authority—as necessary responses to an existential terrorist threat; by critics he is used to argue that Bush exploited fear of terrorism to justify the Iraq War, rollbacks of civil liberties, and policy missteps or intelligence failures rather than pursue more effective counterterror strategies.",
+    "queries": [
+      "What consequences did focusing on osama bin laden have for Bush?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "9/11 commission",
+    "wiki_title": "9/11 commission",
+    "summary": "The 9/11 Commission is often cited in arguments about George W. Bush to hold his administration accountable for intelligence, coordination, and preparedness failures that critics say reflect flawed leadership and policy choices; its findings are used to justify calls for oversight and intelligence reform. At the same time, supporters point to the commission’s bipartisan character and absence of a finding of deliberate presidential wrongdoing to defend Bush from accusations of complicity and to legitimize the post‑9/11 security changes enacted under his presidency.",
+    "queries": [
+      "Was the 9/11 commission's work under George W. Bush sufficient or not?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "preventive war",
+    "wiki_title": "preventive war",
+    "summary": "In discussions of George W. Bush, \"preventive war\" is cited by proponents as the Bush-era rationale for the 2003 Iraq invasion—framing force as necessary to eliminate future threats and reshape regional power even when threats were not imminent. Critics use the term to condemn Bush’s foreign policy as legally dubious, intelligence-driven, and excessively hawkish, arguing it expanded executive war-making, eroded international norms, and produced long-term instability.",
+    "queries": [
+      "How do people view preventive war under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "2002 national security strategy",
+    "wiki_title": "national security",
+    "summary": "During and after his presidency, national security was invoked to justify the War on Terror, the 2003 invasion of Iraq, expanded surveillance (the Patriot Act and warrantless monitoring), and tougher homeland and immigration measures; supporters frame these moves as decisive protection against terrorism, while critics say Bush used a sweeping national-security rationale to exploit flawed intelligence, erode civil liberties, and pursue unnecessary, costly wars.",
+    "queries": [
+      "How do people view the 2002 national security strategy?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "guantanamo bay",
+    "wiki_title": "guantánamo bay",
+    "summary": "Guantánamo Bay is invoked as the defining symbol of George W. Bush’s post‑9/11 security policies—used by supporters to argue that extraordinary detention and interrogation measures were necessary to protect the nation, and by critics to portray his administration as having undermined civil liberties, enabled torture/indefinite detention, and damaged U.S. human‑rights credibility, shaping much of his legacy and public reputation.",
+    "queries": [
+      "What effects did guantanamo bay have on Bush's legacy?"
+    ]
+  },
+  {
+    "id": "C2-5-3",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "boumediene v. bush",
+    "wiki_title": "boumediene v. bush",
+    "summary": "Boumediene v. Bush is frequently cited to criticize George W. Bush for expanding executive power in the War on Terror—used by opponents to argue his administration unlawfully denied detainees habeas rights and eroded civil liberties—while defenders frame the ruling as judicial overreach that curtailed essential counterterrorism tools and complicated national-security policy.",
+    "queries": [
+      "How do people view Boumediene v. Bush under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C2-5-4",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "cia black sites",
+    "wiki_title": "cia black sites",
+    "summary": "In debates about George W. Bush, CIA black sites are invoked by critics as a central symbol of his administration’s alleged human‑rights abuses, secrecy, and erosion of the rule of law—used to argue for accountability, legal reform, and a diminished legacy. Supporters use them to justify Bush’s post‑9/11 security posture, framing his choices as necessary wartime measures that warrant deference to executive authority rather than recrimination.",
+    "queries": [
+      "Is George W. Bush's use of cia black sites justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "extraordinary rendition",
+    "wiki_title": "extraordinary rendition",
+    "summary": "Extraordinary rendition is invoked by critics to portray George W. Bush as presiding over a covert, rights-abusing counterterrorism program that eroded legal norms and sullied his human-rights legacy; defenders use it to justify aggressive, pragmatic measures taken in the name of national security and to argue that harsh tactics were necessary to prevent attacks.",
+    "queries": [
+      "Is George W. Bush's extraordinary rendition justified or not?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International was frequently invoked by critics of George W. Bush to document and condemn his post‑9/11 'war on terror' policies—especially Guantánamo detentions, extraordinary rendition and so‑called enhanced interrogation—using its reports to argue the administration violated international law and to demand closures, accountability and restored due process. Supporters of Bush often dismissed Amnesty’s critiques as politicized or as failing to account for security imperatives, so the NGO became a key authoritative voice framing the security‑vs‑rights debate around his presidency.",
+    "queries": [
+      "What impact did Amnesty International have on views of Bush policies?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "international criminal court",
+    "wiki_title": "international criminal court",
+    "summary": "Critics of George W. Bush invoke the ICC to argue he and senior officials should face international criminal accountability for the Iraq War, detainee abuse, and rendition/torture policies. Supporters point to the Bush administration’s active resistance to ICC jurisdiction and pursuit of immunity agreements to defend unilateral U.S. actions as necessary for national security and to reject outside legal constraints.",
+    "queries": [
+      "How do people view the international criminal court under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "patriot act",
+    "wiki_title": "patriot act",
+    "summary": "The Patriot Act is often deployed as a shorthand for Bush’s post‑9/11 leadership — praised by proponents as decisive, security‑first governance and by critics as evidence he expanded executive power and eroded civil liberties through surveillance and detention policies. It anchors arguments about his legacy, framing him either as an effective protector of the nation or as a president who traded constitutional rights for perceived security.",
+    "queries": [
+      "What effects has George W. Bush's patriot act had on civil liberties?"
+    ]
+  },
+  {
+    "id": "C2-7-1",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "john ashcroft",
+    "wiki_title": "john ashcroft",
+    "summary": "John Ashcroft is often invoked as the Bush administration’s chief legal and moral advocate—used by supporters to justify aggressive post‑9/11 counterterrorism policies, expanded executive authority, and faith‑based conservative initiatives. Critics point to Ashcroft as evidence of the administration’s politicized Justice Department and a willingness to sacrifice civil liberties, privacy, and procedural safeguards in the name of security and religiously framed policy priorities.",
+    "queries": [
+      "Is John Ashcroft’s role under George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "warrantless wiretapping",
+    "wiki_title": "nsa warrantless surveillance (2001–2007)",
+    "summary": "The NSA warrantless surveillance program is frequently cited to portray George W. Bush as a president who expanded executive power and subordinated civil liberties to counterterrorism, fueling criticisms that he skirted legal oversight and damaged constitutional checks and balances. Supporters invoke the program to defend his administration’s emphasis on proactive security, arguing that extraordinary intelligence measures were necessary after 9/11 even if they strained existing legal frameworks.",
+    "queries": [
+      "How do people view warrantless wiretapping during Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "fourth amendment",
+    "wiki_title": "fourth amendment",
+    "summary": "During the Bush administration, the Fourth Amendment was frequently invoked by critics to condemn warrantless NSA surveillance, expanded searches at borders and airports, and detention-related intrusions as unconstitutional erosions of search-and-seizure protections; defenders framed the same measures as necessary, legally defensible responses to post‑9/11 threats under congressional authorizations like the Patriot Act and the president’s national‑security powers.",
+    "queries": [
+      "Is the fourth amendment handled appropriately under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C2-8-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "2000 election",
+    "wiki_title": "list of elections in 2000",
+    "summary": "Records of the 2000 elections—especially the razor‑thin presidential outcome and state‑level results—are frequently invoked to question or defend Bush’s political legitimacy and the scope of his mandate; critics point to the Florida recount and popular‑vote loss to portray his presidency as born of procedural contingency, while supporters cite electoral‑college victory and GOP down‑ballot gains to justify his tax‑cut and conservative policy agenda. Those election results are also used in debates over electoral rules and reforms (recount standards, ballot design, voting access) that critics say enabled an unrepresentative outcome and proponents argue simply enforced existing law.",
+    "queries": [
+      "How do people view controversies in the 2000 election?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "domestic policy and economy",
+    "wiki_title": "domestic policy",
+    "summary": "References to Bush’s domestic policy are used to argue over his record at home: defenders highlight his tax cuts, education reform (No Child Left Behind) and Medicare Part D as evidence of conservative, pro-growth governance, while critics point to rising deficits, increased inequality, expanded federal intervention in education, and administrative failures (notably Hurricane Katrina) to portray his domestic agenda as fiscally reckless and poorly executed.",
+    "queries": [
+      "How do people view George W. Bush's domestic policy and economy?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "bush tax cuts",
+    "wiki_title": "bush tax cuts",
+    "summary": "The Bush tax cuts are often invoked as the defining example of George W. Bush’s economic policy—supporters point to them as evidence of his pro-growth, low-tax conservatism, while critics use them to argue he prioritized tax breaks for the wealthy, worsened deficits, and exacerbated inequality, shaping both praise and blame of his fiscal legacy.",
+    "queries": [
+      "How do people view the bush tax cuts today?"
+    ]
+  },
+  {
+    "id": "C3-1-3",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "congressional budget office",
+    "wiki_title": "congressional budget office",
+    "summary": "The Congressional Budget Office’s cost estimates and deficit projections were repeatedly invoked in debates over George W. Bush’s tax cuts, Medicare Part D, Social Security privatization proposals and Iraq-war spending to argue that his policies would substantially increase federal deficits and long-term liabilities. Supporters often attacked particular assumptions, but CBO scorekeeping became the authoritative basis for fiscal criticism of the Bush agenda and for demanding offsets or policy changes.",
+    "queries": [
+      "Did the congressional budget office fairly assess Bush’s tax cuts?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "tax policy center",
+    "wiki_title": "tax policy center",
+    "summary": "In debates over George W. Bush, the Tax Policy Center is frequently invoked to quantify the distributional and budgetary effects of his 2001 and 2003 tax cuts, with its analyses used to argue those policies disproportionately benefited higher‑income households and increased federal deficits. Progressive critics lean on TPC findings to justify opposing extensions or rollbacks of Bush-era cuts, while defenders dispute the policy implications but must contend with the center’s empirical estimates.",
+    "queries": [
+      "Is the tax policy center's view on George W. Bush reasonable?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "trickle-down economics",
+    "wiki_title": "trickle-down economics",
+    "summary": "In debates about George W. Bush, opponents invoke \"trickle-down economics\" to frame his 2001 and 2003 tax cuts as policies that disproportionately benefited the wealthy, worsened inequality, and prioritized corporate interests over middle‑class needs. Supporters, by contrast, use the same label (or reject it) to defend his supply‑side tax agenda as necessary stimulus to spur investment and economic growth.",
+    "queries": [
+      "What effects did trickle-down economics have during Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C3-1-6",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "budget deficit",
+    "wiki_title": "deficit spending",
+    "summary": "During Bush's presidency, critics seized on rising deficit spending—driven by large tax cuts, Medicare Part D, and wars in Iraq and Afghanistan—to portray him as fiscally irresponsible and shifting costs onto future generations; defenders argued those deficits were necessary to finance wartime and post‑9/11 security needs and to stabilize the economy after recession.",
+    "queries": [
+      "How do people view the budget deficit under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C3-1-7",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "estate tax",
+    "wiki_title": "inheritance tax",
+    "summary": "Arguments about inheritance/estate taxes were central to portrayals of George W. Bush’s tax agenda—supporters invoked his push to cut or phase out the estate tax as protecting family farms and small businesses, while critics framed those moves as giveaways to the wealthy that increased inequality and drained revenue for social programs.",
+    "queries": [
+      "Is the estate tax change during Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "u.s. department of education",
+    "wiki_title": "u.s. department of education, office of inspector general",
+    "summary": "OIG reports are invoked in debates over George W. Bush as documentary support for critiques of how his education agenda—especially No Child Left Behind—was implemented and funded, with critics pointing to audits to allege mismanagement, data manipulation, or waste. Supporters, conversely, cite OIG findings that are limited or exculpatory to argue that alleged abuses were overstated or corrected.",
+    "queries": [
+      "Is George W. Bush’s u.s. department of education reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "teachers' unions",
+    "wiki_title": "teachers union",
+    "summary": "Teachers unions figured prominently in debates over George W. Bush’s education agenda—leading public criticism of No Child Left Behind, high‑stakes testing, and privatization by arguing these policies undermined public schools, teacher professionalism, and collective bargaining. Supporters of Bush, by contrast, depicted unions as entrenched interests resisting accountability and school choice, using them to justify reform narratives.",
+    "queries": [
+      "Is George W. Bush’s stance on teachers' unions justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "english language learners",
+    "wiki_title": "english-language learner",
+    "summary": "Advocates and critics invoke English-language learners when debating George W. Bush’s legacy: critics argue his No Child Left Behind-era accountability rules and funding choices left ELL students underserved, while supporters cite his emphasis on English proficiency and testing as justification for stricter standards and assimilation-focused education and immigration policies.",
+    "queries": [
+      "Is George W. Bush's stance on english language learners justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "medicare part d",
+    "wiki_title": "medicare part d",
+    "summary": "Medicare Part D is invoked as a signature element of Bush’s domestic legacy — praised by supporters as a political win that expanded seniors’ drug coverage through market-oriented reform and touted as evidence of his 'compassionate conservative' credentials, while critics use it to argue he favored private insurers and the pharmaceutical industry, refused to allow Medicare to negotiate lower drug prices, and contributed to higher federal spending and deficits.",
+    "queries": [
+      "Was Medicare Part D's cost and coverage tradeoff reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-1",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "medicare modernization act",
+    "wiki_title": "medicare prescription drug, improvement, and modernization act",
+    "summary": "The Medicare Prescription Drug, Improvement, and Modernization Act is invoked to depict George W. Bush as either a pragmatic 'compassionate conservative' who extended benefits to seniors with Medicare Part D, or as a president who abandoned small‑government principles by enacting a costly, industry‑friendly program critics call a giveaway to pharmaceutical companies and private insurers.",
+    "queries": [
+      "How do people view the Medicare Modernization Act under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "pharmaceutical industry",
+    "wiki_title": "pharmaceutical industry",
+    "summary": "The pharmaceutical industry is invoked in debates over George W. Bush to argue he favored corporate interests—citing Medicare Part D, restrictions on price negotiation, lobbying ties, and biotech contracts—as evidence he prioritized drug-company profits over affordable care; conversely, defenders point to initiatives like PEPFAR and public–private partnerships to claim his policies expanded access to medicines globally.",
+    "queries": [
+      "Is George W. Bush’s relationship with the pharmaceutical industry justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "aarp",
+    "wiki_title": "aarp",
+    "summary": "AARP routinely appears in debates over George W. Bush by framing his proposals on Social Security and Medicare—especially his 2005 push for partial privatization and any cuts—as direct threats to seniors’ retirement security, using member mobilization and research to lobby and generate public opposition. While generally nonpartisan, it also shaped narratives about his record by supporting expansions like prescription drug benefits when they benefited retirees but criticizing policies that exposed older Americans to market risk or reduced guaranteed benefits.",
+    "queries": [
+      "Is AARP's support for George W. Bush policies reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-4",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "donut hole",
+    "wiki_title": "donut hole",
+    "summary": "In debates about George W. Bush, “donut hole” is used as shorthand for the Medicare Part D coverage gap created under laws he signed and is frequently invoked to criticize his administration’s prescription‑drug policy as leaving seniors exposed to high out‑of‑pocket costs. Critics use it to argue Bush prioritized private plan design and fiscal constraints over comprehensive coverage, while defenders cast the gap as an unavoidable trade‑off to expand access without unsustainable spending.",
+    "queries": [
+      "Was the donut hole policy under George W. Bush reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "medicare trust fund",
+    "wiki_title": "social security trust fund",
+    "summary": "During Bush's presidency the Social Security trust fund became a focal point for his 2005 push to create private retirement accounts—his allies cited projected shortfalls in the trust fund to justify structural reform, while Bush presented privatization as necessary to preserve benefits for future retirees. Critics countered that his tax cuts and war spending undermined the trust fund and that privatization would require costly transitions, shift risk to individuals, and effectively hollow out Social Security, portraying Bush as threatening the program's solvency and safety net.",
+    "queries": [
+      "Is George W. Bush's medicare trust fund approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "stafford act",
+    "wiki_title": "stafford",
+    "summary": "In discussions of George W. Bush, Stafford is sometimes invoked by UK commentators as a prototypical English market town whose local reactions — whether protest, polling, or cordial reception — are used to symbolise British public opinion; references to Stafford typically serve to criticise Bush’s Iraq-era foreign policy and transatlantic alignment, or less often to argue that ordinary communities abroad remained sympathetic to his leadership.",
+    "queries": [
+      "How do people view the Stafford Act response under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C3-4-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "racial disparities",
+    "wiki_title": "racial inequality in the united states",
+    "summary": "Critics invoke racial inequality to argue that Bush-era policies—from tax cuts and criminal-justice stances to the administration's response to Hurricane Katrina—disproportionately harmed Black and low-income communities, framing his presidency as indifferent to or exacerbating racial disparities. Supporters counter that initiatives like No Child Left Behind, faith-based programs, and minority outreach show an attempt to help disadvantaged groups, so debates about racial inequality are used either to condemn his priorities or to defend his ‘compassionate conservative’ agenda.",
+    "queries": [
+      "How do people view George W. Bush’s handling of racial disparities?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "freddie mac",
+    "wiki_title": "freddie mac",
+    "summary": "Freddie Mac is often invoked by critics of George W. Bush as evidence of regulatory failure and industry capture, arguing that his administration’s deregulatory stance, housing‑promotion rhetoric, and regulatory appointments helped enable the GSEs’ risky behavior that contributed to the 2008 crisis; defenders use the same example to argue the problems were broader or predated Bush and to frame the conservatorship as a necessary corrective rather than solely his responsibility.",
+    "queries": [
+      "Was freddie mac’s influence during George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "housing bubble",
+    "wiki_title": "housing bubble",
+    "summary": "Critics use the housing bubble to argue that George W. Bush’s deregulatory agenda, promotion of homeownership, and weak oversight of mortgage markets helped create the conditions for the 2007–08 crash and thus demand stronger financial regulation; defenders counter that blame lies with private lenders, the Federal Reserve, and earlier policies, framing the bubble as evidence that Bush was not solely responsible and cautioning against overbroad government intervention.",
+    "queries": [
+      "Were policy responses to the housing bubble under George W. Bush reasonable?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "troubled asset relief program",
+    "wiki_title": "troubled asset relief program",
+    "summary": "References to the Troubled Asset Relief Program are used to frame George W. Bush either as a pragmatic crisis manager who took extraordinary government action to avert economic collapse or as a president who sided with Wall Street, betrayed free‑market rhetoric, and enabled corporate bailouts at the expense of average homeowners — a focal point for criticism of his economic stewardship and GOP policy direction.",
+    "queries": [
+      "How do people view the troubled asset relief program?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "bank bailouts",
+    "wiki_title": "bailout",
+    "summary": "Bailouts—particularly the 2008 bank rescue/TARP enacted late in his term—are used to criticize George W. Bush as having abandoned free‑market principles and enabled cronyism and moral hazard. Supporters, however, invoke the bailout to frame him as a pragmatic crisis manager who took extraordinary action to prevent systemic economic collapse.",
+    "queries": [
+      "Were George W. Bush's bank bailouts justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "emergency economic stabilization act",
+    "wiki_title": "emergency economic stabilization act of 2008",
+    "summary": "Supporters cite the Emergency Economic Stabilization Act of 2008 as evidence that Bush acted pragmatically and bipartisanship in a crisis, willing to suspend ideological free‑market instincts to stabilize the financial system. Critics use the bailout to portray his presidency as captive to Wall Street—pointing to regulatory failures, corporate favoritism, and a contradiction of his small‑government rhetoric.",
+    "queries": [
+      "Was George W. Bush's backing of the emergency economic stabilization act reasonable?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "goldman sachs",
+    "wiki_title": "goldman sachs",
+    "summary": "Goldman Sachs is often invoked in debates about George W. Bush as evidence of the administration's closeness to Wall Street—most prominently through Treasury Secretary Henry Paulson’s move from Goldman to the Bush cabinet—and is used to criticize Bush-era deregulatory and pro‑finance policies as examples of cronyism. Defenders argue that Goldman-linked officials provided essential market expertise during crises and that market‑friendly policies were aimed at promoting growth rather than special pleading.",
+    "queries": [
+      "How do people view Goldman Sachs’ influence during Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "faith-based initiatives",
+    "wiki_title": "white house office of faith-based and neighborhood partnerships",
+    "summary": "The Bush-era White House Office of Faith-Based and Neighborhood Partnerships is often cited to bolster the portrayal of George W. Bush as a “compassionate conservative” who expanded federal support for religious nonprofits and privatized social services to appeal to evangelical constituencies.  Conversely, critics invoke the office to argue he blurred church–state boundaries, favored faith groups politically and constitutionally, and used religion to mobilize his base.",
+    "queries": [
+      "What consequences have faith-based initiatives caused?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "charitable choice",
+    "wiki_title": "charitable choice",
+    "summary": "Supporters point to charitable choice as evidence of George W. Bush’s “compassionate conservative” agenda, arguing it strengthened community- and faith-based delivery of social services and reduced reliance on bureaucratic programs. Critics use it to portray Bush as favoring religious groups over secular providers, undermining church–state separation and advancing socially conservative priorities through government funding.",
+    "queries": [
+      "How do people view George W. Bush’s charitable choice?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "separation of church and state",
+    "wiki_title": "separation of church and state",
+    "summary": "Debates over church–state separation were used to criticize George W. Bush for blending evangelical religious commitments with government—citing his faith-based funding initiatives, socially conservative policies (e.g., opposition to same-sex marriage and restrictions on stem-cell research), and religious rhetoric after 9/11 as evidence he privileged religion in policymaking. Supporters countered by framing his actions as protecting religious freedom and empowering faith-based civil society, arguing such engagement was appropriate civic accommodation rather than unconstitutional entanglement.",
+    "queries": [
+      "Is separation of church and state being appropriately protected or not?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "jerry falwell",
+    "wiki_title": "jerry falwell",
+    "summary": "Falwell’s vocal endorsement and framing of Bush as an ally of evangelical priorities was used to legitimize Bush’s social‑conservative policies and to mobilize religious voters; critics pointed to Falwell’s influence to argue Bush pandered to the religious right, eroding church–state separation and shaping policy toward restrictions on abortion and expanded faith‑based initiatives.",
+    "queries": [
+      "What impact did Jerry Falwell have on Bush-era politics?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "law and civil liberties",
+    "wiki_title": "civil liberties",
+    "summary": "Civil liberties are invoked by critics to argue that Bush's post‑9/11 measures — including the PATRIOT Act, warrantless NSA surveillance, Guantánamo detentions, and enhanced interrogation policies — represented an erosion of constitutional protections and dangerous executive overreach. Supporters, by contrast, frame civil liberties as necessarily balanced against national security, using them to justify temporary expansions of power in the name of preventing terrorism.",
+    "queries": [
+      "Is George W. Bush's record on law and civil liberties justified?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "nsa surveillance",
+    "wiki_title": "mass surveillance in the united states",
+    "summary": "Mass surveillance in the United States is frequently invoked in debates about George W. Bush to highlight the post‑9/11 expansion of domestic spying—supporters portray it as necessary executive action that enhanced security, while critics use it to condemn his administration's secrecy and violations of civil liberties. It therefore frames Bush's legacy as one that privileged counterterrorism and broad presidential authority over privacy and judicial oversight, shaping arguments for stronger oversight or retrospective repudiation of his policies.",
+    "queries": [
+      "What consequences has NSA surveillance during Bush’s presidency caused?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "fisa court",
+    "wiki_title": "united states foreign intelligence surveillance court",
+    "summary": "In debates over Bush’s post‑9/11 surveillance policies, critics invoke the Foreign Intelligence Surveillance Court to argue the administration sidestepped judicial oversight and eroded civil liberties by conducting warrantless wiretapping, while defenders claim its limited public role reflected necessary secrecy for national security — a tension that shaped assessments of Bush’s legacy and fueled calls for FISA reform.",
+    "queries": [
+      "How do people view the fisa court’s actions in the Bush era?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "john yoo",
+    "wiki_title": "john yoo",
+    "summary": "John Yoo's legal memos and public defenses are frequently cited to justify and legitimize George W. Bush–era policies—broad executive power, warrantless surveillance, and harsh interrogation techniques—supporting a narrative of necessity and strong presidential prerogative. Conversely, critics invoke Yoo to argue that Bush enabled unlawful torture and constitutional overreach, using his reasoning as evidence of damaged rule of law and ethical failure.",
+    "queries": [
+      "Is John Yoo’s legal rationale during George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "enhanced interrogation techniques",
+    "wiki_title": "enhanced interrogation techniques",
+    "summary": "References to enhanced interrogation are central to arguments that George W. Bush presided over a program that violated legal and moral norms—used by critics to portray his administration as complicit in torture and to demand accountability—while defenders frame the same practices as harsh but necessary post‑9/11 security measures or the result of legal advice, shaping polarized evaluations of his legacy and leadership.",
+    "queries": [
+      "Is George W. Bush's use of enhanced interrogation techniques justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3-1",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "waterboarding",
+    "wiki_title": "waterboarding",
+    "summary": "During George W. Bush's presidency, waterboarding became a focal point for criticism that his administration authorized and legally defended \"enhanced interrogation,\" used to argue he violated domestic and international law and permanently tarnished his moral and legal legacy. Defenders framed its use as a necessary, albeit harsh, counterterrorism tool that demonstrated resolve to protect Americans, fueling polarized debates over accountability, human rights, and security policy.",
+    "queries": [
+      "How do people view waterboarding used during Bush's administration?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "warrantless surveillance",
+    "wiki_title": "warrantless searches in the united states",
+    "summary": "Debates over warrantless searches are frequently used to critique George W. Bush’s post‑9/11 policies—portraying his administration as willing to override constitutional protections and expand executive power in the name of national security.  Conversely, defenders invoke such searches as necessary counterterrorism tools, framing Bush as a leader who prioritized public safety over legal formalities.",
+    "queries": [
+      "Was George W. Bush's warrantless surveillance justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "president's surveillance program",
+    "wiki_title": "president's surveillance program",
+    "summary": "The President's Surveillance Program is often invoked in debates about George W. Bush to portray him as an executive who prioritized aggressive, secretive national-security measures—used by critics to condemn him for trampling civil liberties and exceeding legal limits, and by defenders to justify robust post‑9/11 counterterrorism powers. It thus frames assessments of his legacy around a tradeoff between security and oversight, fueling calls either for stricter legal constraints on the presidency or for broader executive latitude in wartime.",
+    "queries": [
+      "Is the president's surveillance program under George W. Bush justified?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "military commissions act",
+    "wiki_title": "military commissions act",
+    "summary": "The Military Commissions Act is often invoked in discussions of George W. Bush to defend his administration’s wartime detention and interrogation policies as necessary security measures. Critics use it to argue his presidency eroded civil liberties and expanded executive power, framing debates over his legacy on human rights and rule of law.",
+    "queries": [
+      "Was the military commissions act under George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "habeas corpus",
+    "wiki_title": "habeas corpus",
+    "summary": "Habeas corpus featured centrally in debates over George W. Bush as critics argued his detention policies (Guantánamo, military commissions, and efforts to limit federal habeas review) violated constitutional safeguards and civil liberties, while supporters used limitations on habeas as a rationale for stronger wartime security powers to detain suspected terrorists. These opposing frames shaped public perceptions of Bush either as undermining the rule of law or as taking necessary extraordinary measures to protect the country.",
+    "queries": [
+      "Was George W. Bush’s stance on habeas corpus justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "hamdan v. rumsfeld",
+    "wiki_title": "hamdan v. rumsfeld",
+    "summary": "Hamdan v. Rumsfeld is frequently invoked by critics as judicial confirmation that George W. Bush exceeded constitutional authority in his Guantánamo and military-commission policies, bolstering arguments about executive overreach and civil‑liberties abuses during the War on Terror; defenders, conversely, frame the decision as problematic judicial interference that constrained necessary presidential flexibility in wartime.",
+    "queries": [
+      "Is hamdan v. rumsfeld justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "salim hamdan",
+    "wiki_title": "salim hamdan",
+    "summary": "Salim Hamdan’s legal fight over Guantánamo and the Bush-era military commissions is often cited to criticize George W. Bush for overreaching executive power and undermining due process and international law during the War on Terror. Proponents of Bush’s policies sometimes counter by using Hamdan’s detention to justify aggressive anti-terror measures as necessary for national security.",
+    "queries": [
+      "What impact did salim hamdan’s case have on Bush-era policies?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "geneva conventions",
+    "wiki_title": "geneva conventions",
+    "summary": "The Geneva Conventions are invoked in debates about George W. Bush to condemn his administration’s detention and interrogation policies (Guantánamo, Abu Ghraib, legal memos) as breaches of international humanitarian law and grounds for accountability, while his defenders argue narrow legal interpretations or security exceptions justified those measures.",
+    "queries": [
+      "How do people view Bush-era policies regarding the Geneva Conventions?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "office of legal counsel",
+    "wiki_title": "office of legal counsel",
+    "summary": "During the Bush administration the Office of Legal Counsel is frequently invoked for drafting memos that framed controversial counterterrorism programs—like warrantless surveillance and harsh interrogation techniques—as lawful assertions of executive power. Critics say those opinions provided legal cover for rights violations and unchecked presidential authority, while defenders argue they were reasoned advice aimed at reconciling aggressive security measures with constitutional limits.",
+    "queries": [
+      "What consequences did the office of legal counsel have under Bush?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "alberto gonzales",
+    "wiki_title": "alberto gonzales",
+    "summary": "As Bush’s White House counsel and later Attorney General, Alberto Gonzales is frequently invoked by supporters as the loyal legal defender who crafted justifications for the administration’s aggressive national-security policies; by critics he is used to symbolize the politicization of the Justice Department and the legal rationales that eroded civil liberties (e.g., warrantless surveillance and harsh interrogation practices).",
+    "queries": [
+      "How do people view Alberto Gonzales’s role in the Bush administration?"
+    ]
+  },
+  {
+    "id": "C4-7-1",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "dismissal of u.s. attorneys",
+    "wiki_title": "2017 dismissal of u.s. attorneys",
+    "summary": "The 2017 dismissal of U.S. attorneys is invoked in arguments about George W. Bush to frame his 2006 dismissals as part of a broader, bipartisan pattern of politicizing the Justice Department — bolstering criticism that Bush abused prosecutorial power — or conversely to accuse his critics of hypocrisy by pointing out similar purges under other administrations.",
+    "queries": [
+      "How do people view the dismissal of u.s. attorneys by Bush?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral politics",
+    "wiki_title": "electoral system",
+    "summary": "Contests over electoral systems — especially the 2000 Florida recount and Bush v. Gore — are frequently invoked in debates about George W. Bush to challenge or defend the legitimacy of his presidency: critics argue the Electoral College and vote‑count rules produced an undemocratic result, while supporters cite adherence to constitutional procedures and his 2004 win as justification for his mandate. These disputes also surface when opponents attribute his policies to a flawed electoral process (or claim voter suppression), and when allies use electoral outcomes to legitimize his domestic and foreign-policy choices.",
+    "queries": [
+      "Is George W. Bush's electoral politics justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "bush v. gore",
+    "wiki_title": "bush v. gore",
+    "summary": "Bush v. Gore is routinely invoked in debates over George W. Bush to either delegitimize his presidency—portraying him as a beneficiary of a partisan, activist Supreme Court decision—or to defend it as a legally settled outcome that ended electoral uncertainty. Critics use the case to question his mandate and argue for electoral and judicial reform, while supporters cite it to emphasize finality, rule-of-law arguments, and acceptance of court-resolved contests.",
+    "queries": [
+      "Was bush v. gore justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "al gore",
+    "wiki_title": "al gore",
+    "summary": "Gore is often invoked as Bush’s 2000 opponent to question Bush’s democratic legitimacy—critics point to the Bush v. Gore outcome and Gore’s popular-vote victory to argue Bush lacked a clear mandate—while Gore’s high‑profile climate advocacy is used to frame Bush’s environmental and science policies as backward; Bush supporters counter by portraying Gore as a partisan, elite activist whose complaints reflect sour grapes rather than substantive critique.",
+    "queries": [
+      "What consequences did Al Gore’s actions have for Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C5-1-2",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "katherine harris",
+    "wiki_title": "katherine harris",
+    "summary": "Katherine Harris is frequently invoked in discussions of George W. Bush as the Florida official whose certification of the 2000 recount is used by critics to allege partisan manipulation and cast doubt on the legitimacy of his victory, while defenders portray her as the legal authority who closed the dispute and enabled the transition of power.",
+    "queries": [
+      "Was Katherine Harris's role in George W. Bush's election reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-4",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "hanging chad",
+    "wiki_title": "chad (paper)",
+    "summary": "The “chad” controversy from the 2000 Florida recount is often invoked to question George W. Bush’s legitimacy, with critics using hanging/dimpled chads as evidence that his victory rested on flawed ballots and voter disenfranchisement and to demand election reform. Supporters counter that the legal process (Bush v. Gore) settled the dispute, using the chad episode to justify reliance on judicial resolution and stricter ballot standards to prevent ambiguous results.",
+    "queries": [
+      "How do people view the hanging chad issue in Bush’s election?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "u.s. supreme court",
+    "wiki_title": "supreme court of the united states",
+    "summary": "The Supreme Court is frequently invoked in debates over George W. Bush as the institution that controversially decided his 2000 victory (Bush v. Gore) and as the tribunal that both checked and validated his wartime policies on detention and executive power (Rasul, Hamdan), and his appointments of John Roberts and Samuel Alito are cited by supporters as a durable conservative legacy and by critics as a source of contested shifts in constitutional interpretation.",
+    "queries": [
+      "Was the u.s. supreme court's role in Bush era justified?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "equal protection clause",
+    "wiki_title": "equal protection clause",
+    "summary": "The Equal Protection Clause is often invoked in debates over George W. Bush to challenge the legitimacy of Bush v. Gore and to criticize his civil‑rights record — critics say his administration’s positions on the Florida recount, same‑sex marriage, voting restrictions, and detainee/immigration policies produced unequal treatment under the law. Supporters, conversely, have used equal‑protection arguments to defend state authority or portray court rulings that benefited Bush as neutral applications of constitutional rules rather than partisan outcomes.",
+    "queries": [
+      "What impacts did George W. Bush’s equal protection clause policies cause?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "2000 florida recount",
+    "wiki_title": "election recount",
+    "summary": "References to the Florida recount and Bush v. Gore are frequently used to cast doubt on George W. Bush’s legitimacy—fueling narratives that his victory depended on partisan or technical intervention and that his mandate was weaker as a result—while supporters invoke the final recount outcome and court ruling to justify acceptance of his presidency and to argue for election-system reforms rather than attacking his authority.",
+    "queries": [
+      "Is the 2000 Florida recount’s result for George W. Bush reasonable?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "jeb bush",
+    "wiki_title": "jeb bush",
+    "summary": "Jeb Bush is frequently invoked to place George W. Bush inside a multigenerational “Bush dynasty” debate—supporters point to family continuity and pragmatic conservatism to defend George W.’s record, while critics cite Jeb’s failed 2016 run and policy differences to argue the Bush brand (and by extension George W.’s legacy) has lost influence. Commentators also use Jeb’s more technocratic, moderate stances (on immigration, education, governance) as a foil to highlight or soften critiques of George W.’s hawkish, partisan decisions and the conservative movement’s later shift.",
+    "queries": [
+      "Is Jeb Bush’s potential candidacy reasonable in George W. Bush’s context?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "C5",
+    "level": 2,
+    "topic": "2004 presidential election",
+    "wiki_title": "2004 presidential election",
+    "summary": "Bush’s 2004 reelection is frequently cited by supporters as a democratic mandate for his Iraq War, tax-cut, and national‑security agenda, while critics use the election to argue those policies were sustained by fear‑based campaigning, misinformation about WMDs, and a polarized electorate, calling the strength and legitimacy of his mandate into question.",
+    "queries": [
+      "What impacts did the 2004 presidential election have on Bush’s leadership?"
+    ]
+  },
+  {
+    "id": "C5-3-1",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "john kerry",
+    "wiki_title": "john kerry",
+    "summary": "As Bush’s 2004 Democratic challenger and a prominent critic of the Iraq War, Kerry is often cited by Bush opponents to underscore and moralize Bush’s wartime decisions and to portray him as overly hawkish or illegitimate. Conversely, Bush defenders invoke the Swift Boat controversy and attacks on Kerry’s credibility to discredit antiwar critiques and justify Bush’s national-security policies.",
+    "queries": [
+      "Is John Kerry's criticism of George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-3",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "swift boat veterans",
+    "wiki_title": "swift boat",
+    "summary": "The 'Swift Boat' episode and the derived term 'swiftboating' came to shape debates around George W. Bush by helping allies aggressively question opponents' military credibility, thereby reinforcing Bush's emphasis on national-security and hawkish policies. Critics, meanwhile, invoke 'swiftboating' to condemn what they view as dishonest, politically motivated smears by Bush-era partisans and to delegitimize similar attack strategies.",
+    "queries": [
+      "Are swift boat veterans’ claims in the George W. Bush era justified?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "ohio",
+    "wiki_title": "ohio",
+    "summary": "Ohio is invoked as a decisive swing‑state litmus test for George W. Bush—his 2004 victory there is cited by supporters as proof his security, cultural‑conservative, and tax‑cut message won blue‑collar and suburban voters. Critics counter that Ohio exemplifies the Bush era’s failures, pointing to manufacturing job losses, high Iraq War casualties among Ohio families, and disputed 2004 voting irregularities to challenge his economic and foreign‑policy record and question electoral legitimacy.",
+    "queries": [
+      "How do people view ohio's role in Bush-era politics?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "presidential debates",
+    "wiki_title": "presidential debate",
+    "summary": "Debates are frequently cited in discussions of George W. Bush as defining moments where his folksy demeanor and rhetorical control were used to justify confidence in his leadership—especially on national security—while critics point to his short, evasive answers and failure to detail policy (notably on Iraq and disaster response) to argue he lacked competence or honesty. Public commentary about his debate performances is therefore deployed to support opposing interpretations of his readiness to govern and the legitimacy of his administration's decisions.",
+    "queries": [
+      "How do people view George W. Bush’s presidential debates?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "C5",
+    "level": 2,
+    "topic": "karl rove",
+    "wiki_title": "karl rove",
+    "summary": "As George W. Bush's chief political architect, Karl Rove is invoked to explain Bush’s electoral wins and the crafting of his public persona and messaging—supporters credit Rove with selling policies like tax cuts and the Iraq War as principled choices, while critics portray him as the cynical spin‑doctor who prioritized partisan advantage, political manipulation, and the politicization of government to defend and expand Bush’s agenda.",
+    "queries": [
+      "How do people view karl rove’s role in Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C5-4-1",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "plame affair",
+    "wiki_title": "plame affair",
+    "summary": "Critics cite the Plame affair as emblematic of the Bush administration’s politicization of intelligence and readiness to retaliate against critics, using it to undermine his credibility over the Iraq War and to demand greater accountability; supporters portray it as misconduct by subordinate aides rather than proof of Bush’s personal intent, using it to deflect claims that he deliberately misled the public.",
+    "queries": [
+      "Is the plame affair during George W. Bush’s presidency justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "microtargeting",
+    "wiki_title": "microtargeting",
+    "summary": "Campaign operatives and later commentators have used microtargeting to amplify messages that portray George W. Bush as a decisive, security-focused leader to specific voter segments—strengthening support for his wartime and social-conservative policies—while critics have deployed targeted ads stressing Iraq, torture, and Katrina to erode his appeal among persuadable groups, making microtargeting a tool that both entrenches partisan interpretations of his record and narrows broad public debate about his legacy.",
+    "queries": [
+      "How do people view microtargeting used during George W. Bush's campaigns?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "american crossroads",
+    "wiki_title": "american crossroads",
+    "summary": "American Crossroads, the Karl Rove–linked GOP super PAC, is often invoked in discussions of George W. Bush to signal continuity of Bush-era establishment conservatism and to mobilize support for his policy legacy (tax cuts, hawkish national security) and allied candidates. Critics use its involvement to argue that Bush-style priorities are perpetuated by big-money Republican networks, blaming those networks for promoting interventionist foreign policy and economic choices that deepened inequality.",
+    "queries": [
+      "Is american crossroads’ influence during George W. Bush’s era justified or not?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "republican national committee",
+    "wiki_title": "republican national committee",
+    "summary": "The Republican National Committee routinely invokes George W. Bush’s presidency to defend conservative priorities—highlighting his national security credentials, tax cuts, and faith-based initiatives—to justify present-day GOP policies and blunt criticism. Critics, meanwhile, point to the RNC’s embrace of Bush to argue the party remains committed to controversial legacies like the Iraq War and expanded surveillance, using that linkage to pressure Republicans to repudiate or explain those choices.",
+    "queries": [
+      "How do people view the republican national committee's influence?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "push poll",
+    "wiki_title": "push poll",
+    "summary": "During debates about George W. Bush, push polls have been used to seed doubt and amplify partisan narratives—posing leading questions that insinuate dishonesty, poor judgment, or warmongering (especially around the Iraq War and executive decision‑making)—thus bolstering critiques of his competence and motives.  At the same time, Bush supporters have used similar tactics to undermine his opponents, so push‑polling functions to manufacture seemingly empirical support for both attacks and defenses in controversies about his record.",
+    "queries": [
+      "How do people view push poll use in Bush-era campaigns?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "campaign finance",
+    "wiki_title": "campaign finance",
+    "summary": "Campaign finance is often used to attack Bush by highlighting his reliance on wealthy corporate, energy and defense donors as evidence that his tax cuts, deregulation and wartime priorities served big-money interests; supporters respond that his fundraising was routine and point to his backing of campaign‑finance reform (the 2002 BCRA) to argue he respected legal limits and sought to curb undue influence.",
+    "queries": [
+      "How do people view George W. Bush’s campaign finance decisions?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "electoral college",
+    "wiki_title": "electoral college",
+    "summary": "The electoral college is frequently invoked in debates about Bush’s legitimacy after the 2000 election—critics point to his winning the presidency via the electoral college despite losing the popular vote and the disputed Florida recount/Bush v. Gore to argue his mandate was weak and to push for reform or abolition. Supporters counter that the electoral college is constitutional validation and a bulwark of federalism and small‑state influence, using it to defend the legitimacy of Bush’s victory and Republican electoral strategies.",
+    "queries": [
+      "What effects did the electoral college have on Bush-era election outcomes?"
+    ]
+  },
+  {
+    "id": "C5-5-2",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "2000 u.s. election",
+    "wiki_title": "2000 united states elections",
+    "summary": "The contested 2000 election—most notably the Florida recount and Supreme Court decision—has been used to question the legitimacy and popular mandate of George W. Bush, bolstering narratives that his presidency rested on a razor-thin, disputed outcome. Supporters counter by invoking the legal and institutional resolution (Electoral College and courts) to justify his authority and policy agenda, while critics cite the episode to argue systemic unfairness and weakened moral standing for his administration.",
+    "queries": [
+      "How do people view the 2000 u.s. election?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "ralph nader",
+    "wiki_title": "ralph nader",
+    "summary": "Nader is often invoked in discussions of George W. Bush as the third‑party 'spoiler' whose 2000 candidacy is blamed for handing Bush the presidency and thus used to question Bush’s democratic legitimacy; his consumer/environmental activism is also cited by critics to contrast and attack Bush administration policies on deregulation, environmental rollbacks, and the need for electoral reform.",
+    "queries": [
+      "What consequences did Ralph Nader's candidacy have for Bush's presidency?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "faithless electors",
+    "wiki_title": "faithless elector",
+    "summary": "In debates about George W. Bush—especially after the contested 2000 election—appeals to the possibility of faithless electors have been used by critics to highlight the fragility and perceived illegitimacy of his victory and to push for Electoral College reforms, while supporters point to party discipline and state laws to dismiss that scenario and defend the election’s legitimacy.",
+    "queries": [
+      "Is faithless electors’ impact on George W. Bush’s victory reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "national popular vote",
+    "wiki_title": "national popular vote",
+    "summary": "Because George W. Bush lost the 2000 popular vote yet won the presidency, appeals to the national popular vote are frequently used to cast doubt on the democratic legitimacy of his first term and to argue for electoral reforms; opponents cite the popular-vote outcome to justify change, while his defenders point to the Electoral College result to argue his mandate was constitutionally valid and that national-popular-vote fixes are unnecessary.",
+    "queries": [
+      "Is George W. Bush's position on national popular vote reasonable?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "title i",
+    "wiki_title": "title i",
+    "summary": "References to Title I are invoked in debates over George W. Bush’s education legacy to credit his No Child Left Behind reforms with tightening accountability and directing federal attention to disadvantaged schools, while critics argue he distorted Title I’s purpose by prioritizing standardized testing and sanctions without adequate funding, framing his policy as federal overreach that narrowed curricula and failed many low-income students.",
+    "queries": [
+      "Is Title I under George W. Bush reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "rod paige",
+    "wiki_title": "rod paige",
+    "summary": "Rod Paige is often invoked as evidence of George W. Bush’s education agenda—his role as secretary who championed No Child Left Behind is used to portray Bush as committed to standards, accountability, and reform. Critics, however, point to Paige and NCLB to argue that the Bush administration prioritized high‑stakes testing, narrowed curricula, and federal micromanagement with mixed or harmful results.",
+    "queries": [
+      "Is rod paige’s education policy under George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C5-6-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "teaching to the test",
+    "wiki_title": "teaching to the test",
+    "summary": "In discussions of George W. Bush, teaching to the test is invoked mainly as a criticism of his No Child Left Behind-era policies—accused of narrowing curricula, incentivizing short-term score boosting, and undermining deeper learning—while defenders present the testing emphasis as a necessary accountability tool to expose failing schools and raise standards.",
+    "queries": [
+      "What effects did teaching to the test have during Bush's tenure?"
+    ]
+  },
+  {
+    "id": "C5-6-8",
+    "parent": "C5",
+    "level": 3,
+    "topic": "every student succeeds act",
+    "wiki_title": "every student succeeds act",
+    "summary": "In debates about George W. Bush’s education legacy, the Every Student Succeeds Act is often invoked to argue that his No Child Left Behind policies over‑centralized testing and punitive accountability—ESSA is framed by critics as a corrective that returns power to states. Conversely, defenders of Bush’s approach cast ESSA as a rollback that weakens the accountability and standards his administration pushed, using it to defend the necessity of federal oversight in school reform.",
+    "queries": [
+      "Is the every student succeeds act reasonable within Bush-era education?"
+    ]
+  },
+  {
+    "id": "C5-7-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "tony blair",
+    "wiki_title": "tony blair",
+    "summary": "Blair is invoked as Bush’s closest transatlantic ally whose public backing and joint rhetoric were used to legitimize and internationalize Bush’s post‑9/11 interventions; supporters point to Blair to portray those actions as multilateral and humanitarian, while critics use Blair to argue the administration relied on flawed intelligence, pressured partners, and shared moral responsibility for the Iraq fiasco.",
+    "queries": [
+      "Was Tony Blair’s support for Bush’s Iraq policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-8",
+    "parent": "C5",
+    "level": 2,
+    "topic": "compassionate conservatism",
+    "wiki_title": "compassionate conservatism",
+    "summary": "Supporters used 'compassionate conservatism' to portray George W. Bush as a caring conservative whose faith‑based and market‑oriented programs morally justified modest government action to help the disadvantaged; critics countered that the phrase masked cutbacks, privatization, paternalism, or undue favoritism toward religious organizations in his policy agenda.",
+    "queries": [
+      "What effects has compassionate conservatism had during Bush’s presidency?"
+    ]
+  },
+  {
+    "id": "C5-8-4",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "usa freedom corps",
+    "wiki_title": "usa freedom corps",
+    "summary": "Supporters point to the USA Freedom Corps to portray George W. Bush as a unifying, compassionate president who channeled post‑9/11 patriotism into volunteerism and civic renewal rather than relying solely on military or federal programs. Critics use the Corps to argue it functioned as PR and an ideological pivot—highlighting voluntarism to deflect attention from the Iraq War and to promote private, non‑governmental solutions over substantive public investment.",
+    "queries": [
+      "Is the USA Freedom Corps’ volunteer focus justified or not?"
+    ]
+  },
+  {
+    "id": "C5-8-6",
+    "parent": "C5-8",
+    "level": 3,
+    "topic": "evangelical christians",
+    "wiki_title": "list of evangelical christians",
+    "summary": "Lists of evangelical Christians are often invoked to show the religious coalition that legitimized and mobilized support for George W. Bush, used to justify his socially conservative agenda (abortion restrictions, opposition to same-sex marriage) and his faith-based policy initiatives by portraying his 'born-again' identity as moral grounding. Opponents likewise point to such lists to argue he instrumentalized evangelical endorsements for political gain, to challenge the mixing of religion and government, or to question the sincerity of his religious rhetoric.",
+    "queries": [
+      "Are evangelical christians’ expectations of George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and public image",
+    "wiki_title": "the public image",
+    "summary": "Bush’s public image — alternately cast as a plain-speaking, decisive wartime president after 9/11 or as a gaffe-prone, ideologically driven “cowboy” — is regularly used to frame debates about his legacy, especially the Iraq War, tax cuts, and the federal response to crises like Hurricane Katrina. Supporters lean on the image of strong, patriotic leadership to justify aggressive national-security and conservative economic policies, while critics invoke portrayals of incompetence or moral failure to argue those policies were reckless, costly, or damaging to democratic norms.",
+    "queries": [
+      "Is George W. Bush’s media and public image justified or not?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "coalition of the willing",
+    "wiki_title": "coalition of the willing",
+    "summary": "During the Iraq War era the Bush administration invoked a “coalition of the willing” to portray the 2003 invasion as internationally supported and to legitimize its preemptive, unilateral-minded foreign policy; supporters used it to defend George W. Bush as decisive and globally backed. Critics countered that the coalition was thin, often symbolic or coerced, using the phrase to frame Bush as dismissive of multilateral institutions and international law and to delegitimize his policy choices.",
+    "queries": [
+      "Was the coalition of the willing justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6",
+    "level": 3,
+    "topic": "invasion of afghanistan",
+    "wiki_title": "invasions of afghanistan",
+    "summary": "The 2001 invasion of Afghanistan is invoked to both bolster and attack George W. Bush’s legacy: supporters cite it as decisive, necessary action against terrorism that legitimizes a hawkish national‑security posture and expanded executive power, while critics point to the prolonged occupation, mission creep, and eventual Taliban return as evidence of flawed nation‑building, strategic overreach, and costly long‑term failure.",
+    "queries": [
+      "How do people view the invasion of afghanistan under George W. Bush?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "mission accomplished",
+    "wiki_title": "mission accomplished speech",
+    "summary": "The 'Mission Accomplished' speech is frequently invoked as shorthand for Bush’s premature triumphalism in Iraq — critics use it to argue his administration misled the public, downplayed the war’s difficulties, and symbolized poor judgment and overconfidence, while supporters cite it to stress the initial military success of removing Saddam Hussein and justify the invasion’s early gains.",
+    "queries": [
+      "Is George W. Bush’s mission accomplished declaration justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-1",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "uss abraham lincoln",
+    "wiki_title": "uss abraham lincoln",
+    "summary": "The USS Abraham Lincoln—most famously as the backdrop for Bush’s 2003 “Mission Accomplished” speech—is invoked by critics as a symbol of his premature triumphalism, media staging, and misrepresentation of the Iraq War, while defenders point to the carrier image to underscore his show of support for the military and resolve in wartime.",
+    "queries": [
+      "How do people view the USS Abraham Lincoln's role during Bush's presidency?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "cindy sheehan",
+    "wiki_title": "cindy sheehan",
+    "summary": "Sheehan has been deployed by Bush’s critics as a personalized symbol of the human cost of the Iraq War to portray his administration as responsible and lacking empathy, while his defenders use her protests to argue that opposition was politicized—making her a polarizing foil in debates over Bush’s war policy, accountability, and moral legitimacy.",
+    "queries": [
+      "How do people view Cindy Sheehan's criticism of George W. Bush?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "embedded journalism",
+    "wiki_title": "embedded journalism",
+    "summary": "Critics invoke embedded journalism to argue that media access arrangements during the Iraq War helped the Bush administration control the narrative, dampen independent scrutiny, and build public support for the invasion; defenders counter that embedding was necessary for reporter safety and frontline coverage, framing debate about Bush-era transparency and media complicity in wartime policymaking.",
+    "queries": [
+      "Was embedded journalism during George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-7",
+    "parent": "C6",
+    "level": 3,
+    "topic": "brownie comment",
+    "wiki_title": "brownie mary",
+    "summary": "Critics of George W. Bush invoke 'Brownie Mary' as a humanizing symbol of compassionate medical marijuana activism to argue that his administration's aggressive federal drug-enforcement priorities were insensitive to seriously ill patients and civil‑liberties concerns; supporters of strict drug policy occasionally invoke her story to caution against informal, unregulated distribution as they defend Bush-era enforcement.",
+    "queries": [
+      "Is the brownie comment by George W. Bush justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "bushisms",
+    "wiki_title": "bushism",
+    "summary": "References to “bushisms” are frequently used by critics and satirists to portray George W. Bush as inarticulate or intellectually unreliable, a framing that undercuts his credibility on complex issues (e.g., the Iraq War, economic policy). Supporters, however, cast the same gaffes as charming plainspoken quirks to humanize him and to deflect criticism, using them to argue that verbal slips do not reflect his competence or policy judgments.",
+    "queries": [
+      "How do people view Bush's bushisms today?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "the daily show",
+    "wiki_title": "the daily show",
+    "summary": "The Daily Show routinely used satire to lampoon George W. Bush and his administration—especially the rationale for the Iraq War, national-security rhetoric, and perceived incompetence or misleading statements—thereby shaping public narratives that cast Bush-era policies as misguided. Its comedic framing promoted skeptical, broadly liberal interpretations that encouraged younger audiences to distrust Bush’s claims, question mainstream media coverage, and oppose interventions and expansions of executive power.",
+    "queries": [
+      "Is the daily show's coverage of George W. Bush fair or not?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "malapropism",
+    "wiki_title": "malapropism",
+    "summary": "Malapropisms in discussions of George W. Bush—often labeled “Bushisms”—are used by critics to portray him as inarticulate or intellectually unfit and to undermine his credibility on complex policies (notably the Iraq war), while supporters frame them as signs of plainspoken authenticity or political outsider charm.",
+    "queries": [
+      "What effects has George W. Bush’s malapropism had on public perception?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "white house speechwriters",
+    "wiki_title": "white house director of speechwriting",
+    "summary": "Observers and critics point to the White House director of speechwriting as the architect of George W. Bush’s public voice—crediting the office with crafting calming, decisive post‑9/11 rhetoric and the “compassionate conservatism” framing, while opponents fault it for producing talking points and euphemisms that helped justify the Iraq War and other contested policies. References to the director are used to argue whether Bush’s statements reflected genuine conviction or managerial spin, shaping views of his leadership as either authentic and steady or heavily managed and misleading.",
+    "queries": [
+      "How do people view George W. Bush's white house speechwriters?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube hosts archival footage, documentary clips, pundit commentary, and viral memes that critics use to spotlight and condemn George W. Bush’s decisions on the Iraq War, surveillance, and torture, while conservative and official channels use the platform to justify his national‑security actions and portray him as decisive; the site’s algorithmic amplification and partisan creators therefore drive both simplified condemnations and rehabilitations of his legacy.",
+    "queries": [
+      "What effects has youtube commentary about George W. Bush caused?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6",
+    "level": 3,
+    "topic": "swift boat veterans for truth",
+    "wiki_title": "swift vets and pows for truth",
+    "summary": "The Swift Vets and POWs for Truth are often cited in discussions of George W. Bush as an example of how veteran-backed attack ads and testimonial politics helped bolster Bush’s national-security image by discrediting his Democratic opponents in 2004; defenders point to their appeals as validating Bush-era wartime policies, while critics invoke the group’s controversial tactics and disputed claims to portray Bush’s campaign as reliant on smear tactics and to challenge the legitimacy of pro-war narratives.",
+    "queries": [
+      "How do people view the tactics of Swift Boat Veterans for Truth?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6",
+    "level": 3,
+    "topic": "bush's brain",
+    "wiki_title": "bush's brain",
+    "summary": "Critics invoke \"Bush's Brain\" to depict George W. Bush as a leader whose decisions and public persona were engineered by Karl Rove, framing his presidency as driven by political calculation rather than principle. This narrative is used to delegitimize Bush's leadership, cast doubt on the motives behind his policies, and emphasize worries that campaign strategy trumped substantive governance.",
+    "queries": [
+      "How do people view bush's brain role in decision-making?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "saturday night live",
+    "wiki_title": "saturday night live",
+    "summary": "Saturday Night Live frequently used satirical impersonations (most famously Will Ferrell’s) to caricature George W. Bush as folksy, bungling, and intellectually lightweight, a framing opponents used to undercut his competence and moral authority on issues like the Iraq War and Hurricane Katrina. Supporters of Bush and some commentators accused the show of partisan bias, arguing those sketches amplified liberal criticism rather than offering balanced critique.",
+    "queries": [
+      "How do people view saturday night live’s portrayals of George W. Bush?"
+    ]
+  },
+  {
+    "id": "C6-7-1",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "will ferrell",
+    "wiki_title": "will ferrell",
+    "summary": "Ferrell’s high‑profile satirical portrayals of George W. Bush are often cited in debates to caricature and delegitimize Bush’s competence and rhetoric—emphasizing bumbling mannerisms and malapropisms to bolster criticism of his leadership and policies (notably the Iraq era). At the same time, the affectionate, comedic tone of those portrayals can also soften public memory, a dynamic both critics and defenders invoke to either ridicule or humanize Bush.",
+    "queries": [
+      "How do people view will ferrell’s portrayal of George W. Bush?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "social and cultural impact",
+    "wiki_title": "cultural impact of shakira",
+    "summary": "Shakira’s prominence in U.S. popular culture is often invoked in discussions of George W. Bush to argue that his immigration and Latin America policies were out of step with the growing cultural and political influence of Latinos; critics use her visibility to highlight perceived disconnects and cultural grievances, while some defenders point to her cross‑border appeal as evidence of enduring American soft power despite Bush-era policy controversies.",
+    "queries": [
+      "Is George W. Bush's social and cultural impact justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "the surge",
+    "wiki_title": "the surge",
+    "summary": "Because it shares a name with the 2007 Iraq troop “surge,” the video game The Surge is sometimes used jokingly or satirically in online memes or cultural critiques to frame George W. Bush’s escalation as militaristic spectacle, but it plays little role in serious policy debates or scholarly assessments of his presidency.",
+    "queries": [
+      "What consequences did the surge have for George W. Bush’s Iraq policy?"
+    ]
+  },
+  {
+    "id": "C7-5-7",
+    "parent": "C7",
+    "level": 3,
+    "topic": "congressional hearings",
+    "wiki_title": "united states congressional hearing",
+    "summary": "United States congressional hearings are often used to challenge or defend George W. Bush’s record—investigations into prewar intelligence, interrogation and surveillance programs, and Katrina oversight serve critics who portray his administration as misleading, reckless, or abusive of executive power, while defenders point to congressional authorizations (like the AUMF) and testimony as justification for his national-security choices. Partisan readings of those hearings shape whether they are presented as evidence of accountability and legal failure or as necessary responses to intelligence and security threats.",
+    "queries": [
+      "What consequences have George W. Bush's congressional hearings caused?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7",
+    "level": 3,
+    "topic": "late-night television",
+    "wiki_title": "late-night television",
+    "summary": "Late-night television became a major venue for satirical critique of George W. Bush—comedians and hosts repeatedly mocked his rhetoric, decision‑making (notably over the Iraq War and Hurricane Katrina) and perceived incompetence, helping to legitimize public skepticism and liberal opposition. While occasional friendly bits humanized him, the dominant late‑night framing reinforced narratives of untrustworthiness and policy failure that shaped perceptions among younger, politically engaged viewers.",
+    "queries": [
+      "Was George W. Bush’s depiction on late-night television reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-8",
+    "parent": "C7",
+    "level": 2,
+    "topic": "religious right",
+    "wiki_title": "religious right",
+    "summary": "In discussions of George W. Bush, the religious right is invoked to account for his political base and policy priorities—supporters point to his promotion of faith-based programs, anti‑abortion stances, conservative judicial appointments, and opposition to same‑sex marriage. Critics use the label to argue he pandered to evangelicals, blurred church‑state lines, and at times framed domestic and foreign policy (including the Iraq War) in moral or providential terms.",
+    "queries": [
+      "What consequences did the religious right have on Bush-era policies?"
+    ]
+  },
+  {
+    "id": "C7-8-2",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "pat robertson",
+    "wiki_title": "pat robertson",
+    "summary": "As a high-profile evangelical broadcaster and conservative activist, Pat Robertson helped frame George W. Bush as a morally and divinely sanctioned leader, using his media platforms and networks to rally evangelical support for Bush’s national-security and social-conservative policies; he also functioned as a religious critic or enforcer when Bush’s positions diverged from hardline religious-right expectations.",
+    "queries": [
+      "How do people view Pat Robertson's role during George W. Bush?"
+    ]
+  },
+  {
+    "id": "C7-8-3",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "focus on the family",
+    "wiki_title": "focus on the family",
+    "summary": "Supporters cite Focus on the Family to signal and justify George W. Bush’s ties to the evangelical base and his faith‑based, socially conservative policies such as pro‑life stances, traditional marriage advocacy, and abstinence education. Critics invoke the organization to argue that Bush empowered exclusionary religious influences in government policy, judicial appointments, and public rhetoric, particularly on LGBT and family‑policy issues.",
+    "queries": [
+      "What effects has George W. Bush’s focus on the family produced?"
+    ]
+  },
+  {
+    "id": "C7-8-4",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "christian coalition",
+    "wiki_title": "christian coalition",
+    "summary": "The Christian Coalition is often cited to explain and mobilize the evangelical base that helped elect and sustain George W. Bush, framing him as a defender of pro‑life, traditional‑family, and faith‑friendly policies. Critics likewise point to the Coalition’s influence to argue Bush pandered to the Religious Right—shaping appointments and social policy—or to question his moral authority when political compromises conflicted with religious rhetoric.",
+    "queries": [
+      "What effects has the christian coalition had on George W. Bush's policies?"
+    ]
+  },
+  {
+    "id": "C7-8-6",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "partial-birth abortion ban act",
+    "wiki_title": "partial-birth abortion ban act",
+    "summary": "The Partial-Birth Abortion Ban Act is often invoked to cast George W. Bush as a firm social conservative who translated pro‑life rhetoric into concrete policy, reinforcing his credibility with evangelical and anti‑abortion supporters. Critics use the law to argue that Bush prioritized restricting reproductive rights and advanced a moral agenda through legislation and judicial appointments.",
+    "queries": [
+      "Is the partial-birth abortion ban act justified or not?"
+    ]
+  },
+  {
+    "id": "C7-8-7",
+    "parent": "C7-8",
+    "level": 3,
+    "topic": "federal marriage amendment",
+    "wiki_title": "federal marriage amendment",
+    "summary": "Bush’s public backing of a federal marriage amendment was deployed by allies to brand him as a protector of “traditional” family values and to mobilize evangelical and social‑conservative voters, while critics used his advocacy to accuse him of political pandering and of promoting a policy that curtails LGBT rights, reinforcing portrayals of his presidency as socially conservative and polarizing.",
+    "queries": [
+      "Is a federal marriage amendment reasonable or not?"
+    ]
+  }
+]

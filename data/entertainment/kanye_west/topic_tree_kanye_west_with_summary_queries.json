@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Kanye West",
+    "wiki_title": "Kanye West",
+    "summary": "People use Kanye West as a shorthand in public debates: defenders emphasize his artistic innovation and cultural influence to argue against “canceling” or punitive measures, while critics point to his repeated controversial conduct and rhetoric to justify deplatforming, lost endorsements, or legal and commercial accountability. His case is invoked in wider arguments about free speech versus hate-speech limits, whether art can or should be separated from the artist, and how society balances compassion for mental health with consequences for harmful public behavior.",
+    "queries": [
+      "How do people view Kanye West's influence on music and culture?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "music and cultural impact",
+    "wiki_title": "cultural impact of the beatles",
+    "summary": "Commentators invoke the Beatles’ cultural impact as a benchmark when debating Kanye West—either to elevate him as a comparably transformative, genre-defying force in music, fashion, and pop culture, or to argue he falls short because his persona is more polarizing and self-aggrandizing than the Beatles’ broadly resonant legacy. Those comparisons are deployed to justify canonizing or defending Kanye’s experimental commercial moves and influence, or to criticize his behavior and oppose conferring him the same institutional honors and cultural reverence.",
+    "queries": [
+      "What consequences has Kanye West's music and cultural impact caused?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "jay-z",
+    "wiki_title": "jay-z",
+    "summary": "Jay‑Z is often invoked as the industry elder and mentor whose collaborations and business standing are used to frame Kanye West: critics point to Jay‑Z as evidence that Kanye’s public volatility and political moves cost him industry respect and commercial stability, while defenders cast Jay‑Z as an establishment gatekeeper whose ambivalence or distancing explains tensions and elite backlash against Kanye.",
+    "queries": [
+      "What impact has Kanye had on jay-z’s public image?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "watch the throne",
+    "wiki_title": "watch the throne",
+    "summary": "Fans and cultural commentators invoke Watch the Throne as proof of Kanye's artistic peak and influence, using its maximalist production and celebration of Black wealth to frame him as a visionary and a symbol of cultural success. Critics, meanwhile, point to its ostentation and celebrity politics as early evidence of the ego and commodification that they say justify later critiques of Kanye’s behavior and political stances.",
+    "queries": [
+      "What effects has Watch the Throne had on Kanye West's image?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "niggas in paris",
+    "wiki_title": "niggas in paris",
+    "summary": "Discussed as a marquee example of Kanye’s peak cultural and commercial power, the song is often used by admirers to justify his reputation as an influential hitmaker and spectacle-driven artist; conversely, critics invoke its provocative language and triumphalist, luxury-focused imagery to frame Kanye as ostentatious, tone-deaf, or emblematic of commercial excess rather than substantive artistry.",
+    "queries": [
+      "Is Kanye West’s 'niggas in paris' influential or not?"
+    ]
+  },
+  {
+    "id": "C1-1-4",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "roc‑a‑fella records",
+    "wiki_title": "roc-a-fella records",
+    "summary": "Roc‑A‑Fella is often invoked to frame Kanye as a protégé whose early credibility and access were established through Jay‑Z’s camp, supporting narratives of his talent legitimized by hip‑hop institutions. It’s also used to criticize or explain his later trajectory — citing his split from label allies to portray him as rebellious/entrepreneurial or as someone who clashed with industry power and struggled with business and control.",
+    "queries": [
+      "What effects has Roc‑A‑Fella Records had on Kanye West’s artistry?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "roc nation",
+    "wiki_title": "roc nation",
+    "summary": "Roc Nation is cited in discussions about Kanye West as a stand‑in for the music‑industry establishment: critics point to his links with Roc Nation to argue he’s been co‑opted or compromised, while supporters use those ties to highlight his mainstream legitimacy and business influence. Public statements or partnerships involving Roc Nation are frequently deployed to bolster or rebut claims about Kanye’s insider status, leadership, and commercial strategy.",
+    "queries": [
+      "Is Kanye West’s association with roc nation justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "the blueprint",
+    "wiki_title": "the blueprint",
+    "summary": "Commentators and fans often invoke 'The Blueprint' as a cultural benchmark when assessing Kanye West’s artistic legacy, using it to frame debates about whether his albums meet, exceed, or diverge from a supposed gold standard of production, cohesion, and hip‑hop authenticity. Depending on the speaker, the reference either supports praise for Kanye as an innovator on par with that landmark or is wielded to criticize him for straying from or failing to live up to that template.",
+    "queries": [
+      "How do people view the blueprint in Kanye West’s career?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "g.o.o.d. music",
+    "wiki_title": "g.o.d",
+    "summary": "g.o.d is sometimes invoked in cross-cultural debates about Kanye West to contrast a domestically rooted, legacy-building model of pop stardom with Kanye’s global, controversy-driven persona. Commentators use the group to argue that steady, community-centered songwriting and sustained national reverence can be a more durable measure of artistic worth than the shock-value, headline-dominant career that critics attribute to Kanye.",
+    "queries": [
+      "Is Kanye West’s g.o.o.d. music still culturally influential or not?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "pusha t",
+    "wiki_title": "pusha t",
+    "summary": "Pusha T is often invoked as evidence of Kanye’s ability to mentor and elevate artists—his promotion within GOOD Music is used to justify views of West as an influential tastemaker and industry kingmaker. At the same time, Pusha T’s later public distancing is cited to criticize Kanye’s volatility and misconduct, framing West as a figure whose controversies drive even close collaborators to leave.",
+    "queries": [
+      "How do people view pusha t's role in Kanye West's controversies?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "big sean",
+    "wiki_title": "big sean",
+    "summary": "Big Sean is frequently cited as both proof of Kanye’s influential mentorship—used to praise West’s role in launching and shaping successful artists—and, after publicly distancing himself, as a high‑profile example that critics use to argue West’s conduct drives collaborators away and warrants reputational and professional consequences.",
+    "queries": [
+      "What effects has Big Sean’s alignment with Kanye West caused?"
+    ]
+  },
+  {
+    "id": "C1-2-3",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "john legend",
+    "wiki_title": "john legend",
+    "summary": "John Legend is often cited as a mainstream peer whose public criticisms of Kanye’s political stances, antisemitic remarks, and erratic behavior are used to frame Kanye as a political and moral outlier within the music community; his commentary lends authority to calls for accountability while sometimes tempering condemnation with appeals to compassion and mental‑health awareness.",
+    "queries": [
+      "Is john legend’s criticism of Kanye West reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "kid cudi",
+    "wiki_title": "kid cudi",
+    "summary": "Kid Cudi is frequently cited as a close protégé and collaborator whose praise or withdrawal of support is used to shape debates about Kanye West—his endorsements are invoked to defend West’s artistic brilliance and personal struggles, while his distancing or criticism is used to justify accountability and show that even intimate allies won’t tolerate certain behavior. As a public figure associated with mental‑health openness and creative reinvention, Cudi’s stance often frames whether commentators argue for forgiveness/redemption or for consequences and reputational limits.",
+    "queries": [
+      "Is kid cudi collaborating with Kanye West reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "cruel summer",
+    "wiki_title": "cruel summer",
+    "summary": "References to Cruel Summer in conversations about Kanye West are used to highlight his influence as a label boss and cultural curator—supporting portrayals of him as a collaborative tastemaker who builds star-driven projects—and to criticize him for prioritizing spectacle, branding, and commercial gambits over sustained artist development or artistic cohesion.",
+    "queries": [
+      "Is Kanye West’s cruel summer justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "g.o.o.d. fridays",
+    "wiki_title": "good fridays",
+    "summary": "Kanye's Good Fridays are frequently invoked in debates to portray him as a prolific, fan-focused artist whose surprise free releases demonstrate creative abundance and savvy self-branding, used by supporters to justify his ambition and cultural influence. Critics, however, frame the same practice as a calculated publicity stunt or distraction from controversy, arguing it reflects self-promotion and media manipulation rather than pure artistic generosity.",
+    "queries": [
+      "How do people view g.o.o.d. fridays from Kanye West?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "def jam recordings",
+    "wiki_title": "def jam recordings",
+    "summary": "References to Def Jam Recordings are often used to frame Kanye West as a product of major-label power — critics point to his association with big labels to argue he was commodified and benefited from corporate backing, while supporters say that label resources enabled his artistic reach. Mention of Def Jam also surfaces in debates about artist control and contract reform, used to bolster calls for greater independence or to challenge Kanye’s anti‑establishment rhetoric as inconsistent with his mainstream industry ties.",
+    "queries": [
+      "How do people view Kanye West’s history with def jam recordings?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "yeezy",
+    "wiki_title": "yeezy",
+    "summary": "In public debates, “Yeezy” is used as shorthand for Kanye West’s commercial and cultural clout—invoked by supporters to defend his artistic genius and economic impact, and by critics to point to tangible consequences (boycotts, corporate distancing) as evidence for accountability, consumer ethics, and corporate responsibility.",
+    "queries": [
+      "How do people view Yeezy's pricing and exclusivity?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "2009 mtv vmas",
+    "wiki_title": "2009 mtv video music awards",
+    "summary": "The 2009 MTV VMAs interruption is repeatedly cited as emblematic evidence of Kanye’s impulsive arrogance and disrespect, used by critics to justify moral condemnation, reputational damage, and arguments that he serially mistreats peers. Supporters counter that it was a singular lapse or media-driven overreaction, deploying the incident to argue for forgiveness, critique “cancel culture,” or contextualize his later apologies and attempts at rehabilitation.",
+    "queries": [
+      "How do people view Kanye West and the 2009 mtv vmas?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "taylor swift",
+    "wiki_title": "taylor swift",
+    "summary": "Taylor Swift is frequently invoked in discussions of Kanye West as the high-profile example of his criticized behavior — especially after the 2009 VMAs and later lyrics — and is used to justify accusations of entitlement, misogyny, and abuse of celebrity power. Conversely, her treatment by media and fans is also deployed by some of Kanye’s supporters to argue selective outrage, narrative manipulation, or to question who gets protected or punished in celebrity controversies.",
+    "queries": [
+      "What effects has Kanye West's conflict with Taylor Swift caused?"
+    ]
+  },
+  {
+    "id": "C1-4-2",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "beyoncé",
+    "wiki_title": "beyoncé",
+    "summary": "Beyoncé is frequently invoked as a foil to Kanye West: commentators and fans use her polished, carefully managed superstar image and commercial respectability — and her ties to Jay‑Z — to argue that Kanye's erratic public behavior, self-promotion, and controversial politics undermine his credibility and worthiness as a cultural leader. Conversely, some defenders of Kanye point to Beyoncé's mainstream caution to argue that institutional success can be conservative, using the comparison to justify his contrarian artistic risks.",
+    "queries": [
+      "Is Kanye West’s criticism of beyoncé reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "my beautiful dark twisted fantasy",
+    "wiki_title": "my beautiful dark twisted fantasy",
+    "summary": "Fans and critics alike invoke My Beautiful Dark Twisted Fantasy as the artistic touchstone in debates about Kanye West—supporters cite it as proof of his visionary genius and cultural importance, while opponents use its grandiosity and confessional excess to argue he is self-aggrandizing; the album is frequently central to arguments about whether artistic achievement should outweigh or be separated from his controversial behavior when judging his legacy.",
+    "queries": [
+      "Is my beautiful dark twisted fantasy indulgent or justified?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "george condo",
+    "wiki_title": "george condo",
+    "summary": "Supporters point to George Condo’s high-profile collaborations with Kanye (album art and visual design) to argue that Kanye is a serious, interdisciplinary artist who deliberately situates his music within the contemporary fine-art world. Critics counter that Condo’s involvement demonstrates how Kanye borrows elite art-world cachet to legitimize his persona and aesthetic or to commercialize and appropriate high-art credibility.",
+    "queries": [
+      "Is george condo’s collaboration with Kanye West justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "all of the lights",
+    "wiki_title": "all of the lights",
+    "summary": "Supporters point to “All of the Lights” as a flagship example of Kanye West’s ambitious, maximalist artistry and ability to marshal high-profile collaborators, using it to argue his musical genius and lasting cultural influence outweigh or contextualize his public controversies. Critics counter that its bombastic spectacle and industry accolades illustrate excess and the music world’s readiness to reward blockbuster output, arguing that critical acclaim shouldn’t excuse problematic behavior or mask performative narcissism.",
+    "queries": [
+      "Is Kanye West’s all of the lights justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "runaway",
+    "wiki_title": "runaway",
+    "summary": "Kanye West’s “Runaway” is often invoked as proof of his artistic self-awareness and complexity, cited by supporters to frame his missteps as moments of introspection within a larger creative project. Critics, however, use it to argue that such confessional art is performative cover that should not lessen demands for accountability or excuse harmful behavior.",
+    "queries": [
+      "How do people view runaway in Kanye West’s catalog?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "nicki minaj",
+    "wiki_title": "nicki minaj",
+    "summary": "Nicki Minaj is frequently invoked as a high-profile peer whose praise, collaboration, or public distancing is used to validate or challenge narratives about Kanye West’s artistic legacy and industry standing; supporters point to mutual respect and collaborations as proof of his enduring influence, while critics highlight any distancing or critique from her as a sign that controversial behavior should have consequences. Her statements are therefore used to frame debates over whether to separate Kanye’s contributions from his conduct and whether the music industry should continue to platform him.",
+    "queries": [
+      "Is criticism of nicki minaj justified among Kanye West supporters?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "pitchfork",
+    "wiki_title": "pitchfork",
+    "summary": "References to “pitchforks” are invoked in discourse about Kanye West as a metaphor for mob-style outrage—critics use it to justify calls for boycotts and accountability, while Kanye and his defenders use the same image to frame backlash as unjust persecution or cancel-culture hysteria.",
+    "queries": [
+      "Is Kanye West's use of pitchfork imagery justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "grammy awards",
+    "wiki_title": "grammy awards",
+    "summary": "The Grammys are invoked as a proxy for industry validation in debates about Kanye West—his many wins are used to bolster claims of genius and cultural impact, while high‑profile snubs, nominations removals or exclusions are cited to argue industry bias, moral policing, or punitive retaliation. These uses feed broader disputes over whether awards should separate art from artist, reform eligibility for misconduct, or are flawed gatekeeping institutions.",
+    "queries": [
+      "What effects has Kanye West's relationship with the Grammy Awards had?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "cover art controversy",
+    "wiki_title": "cover art",
+    "summary": "Kanye West’s album and single cover art is repeatedly invoked in public debates as a visual shorthand for his persona—supporters point to bold or unconventional covers as evidence of artistic innovation, while critics use provocative or appropriative imagery to accuse him of sensationalism, insensitivity, or self-promotion. Discussions of his cover art therefore shape narratives about his branding, mental state, religious turn, or commercial priorities and are mobilized both to defend his creative freedom and to justify calls for censure or boycott.",
+    "queries": [
+      "Is Kanye West’s cover art controversy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "808s & heartbreak",
+    "wiki_title": "808s & heartbreak",
+    "summary": "808s & Heartbreak is often deployed as evidence that Kanye West is a boundary-pushing innovator willing to foreground vulnerability and reshape hip‑hop (credited with jump‑starting emo‑rap and modern autotune aesthetics), while critics cite it as proof he abandoned rap’s traditional roots for stylized affectation—and it frequently appears in arguments about his artistic legacy and the role of personal trauma in his work.",
+    "queries": [
+      "Is Kanye West’s 808s & heartbreak emotionally honest or not?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "roland tr-808",
+    "wiki_title": "roland tr-808",
+    "summary": "The TR-808 is often cited in discussions of Kanye West as evidence of his production influence—his album 808s & Heartbreak and frequent use of booming 808 bass are used to justify claims that he reshaped modern hip‑hop/pop sonics. Opponents, however, invoke his reliance on 808-driven, electronic textures to argue he departed from sample‑based “authentic” hip‑hop or embraced a more commercial, processed aesthetic.",
+    "queries": [
+      "How do people view Kanye's use of the roland tr-808?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "love lockdown",
+    "wiki_title": "love lockdown",
+    "summary": "Supporters point to 'Love Lockdown' as proof of Kanye’s fearless reinvention—its spare production and Auto-Tune intimacy are cited to justify claims that he reshaped mainstream pop/hip‑hop and pushed emotional expression in commercial music. Critics, conversely, use the song to argue that Kanye trades in stylized, performative grief and production gimmicks to manufacture authenticity and attention rather than convey genuine vulnerability.",
+    "queries": [
+      "What effects has love lockdown had on Kanye West's reputation?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "alternative r&b",
+    "wiki_title": "alternative r&b",
+    "summary": "Alternative R&B is often invoked to cast Kanye as a boundary‑pushing innovator whose use of R&B textures, Auto‑Tune and atmospheric production (beginning with 808s and on through later projects) helped legitimize and influence the alt‑R&B movement. Critics, however, deploy the label to argue he co‑opts or dilutes R&B traditions for experimental or commercial ends, framing his genre‑hopping as either authentic evolution or opportunistic trend‑chasing.",
+    "queries": [
+      "Is Kanye West's use of alternative r&b justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "auto-tune",
+    "wiki_title": "auto-tune",
+    "summary": "Auto-Tune is often invoked in discussions of Kanye West to underline his status as an innovator who used vocal processing (e.g., on 808s & Heartbreak) to expand hip‑hop’s emotional and sonic range, while opponents use the same fact to argue he manufactures authenticity or hides vocal shortcomings — framing him either as a pioneering artist who reshaped pop culture or as a technologically dependent, commercial figure.",
+    "queries": [
+      "What effects has Kanye West’s auto-tune had on artistry?"
+    ]
+  },
+  {
+    "id": "C1-7-1",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "t-pain",
+    "wiki_title": "t-pain",
+    "summary": "T‑Pain is often invoked in debates about Kanye’s use of Auto‑Tune, cast either as the populist pioneer whose sonic tricks Kanye expanded on or as an example of club/pop vocal techniques Kanye appropriated to gain artistic legitimacy (notably on 808s & Heartbreak). His high‑profile collaboration with Kanye on “Good Life” and shared awards are also used to argue that Kanye both spotlights and capitalizes on mainstream hitmakers to bolster his pop credibility, or alternatively sidelines the originators of those sounds.",
+    "queries": [
+      "What effects has T-Pain's work with Kanye West had?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "cher",
+    "wiki_title": "cher",
+    "summary": "In debates about Kanye West, Cher is often invoked as a mainstream, progressive pop icon whose outspoken advocacy is used to frame Kanye’s antisemitic and extremist remarks as out of step with entertainment-industry norms and to justify distancing or sanctions; conversely, her reputation for continual reinvention and artistic longevity is sometimes cited by those arguing for forgiveness or rehabilitation of controversial artists like Kanye.",
+    "queries": [
+      "How do people view Cher’s public comments about Kanye West?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "emo rap",
+    "wiki_title": "emo rap",
+    "summary": "Emo rap is often invoked to credit Kanye West—his emotionally frank, melodic experiments (especially 808s & Heartbreak) are cited as a key influence that opened hip‑hop to confessional, sung delivery, supporting narratives that portray him as a boundary‑pushing innovator. Conversely, commentators also use emo rap to criticize or complicate his legacy, arguing he later abandoned those vulnerable roots, or to debate authenticity and cultural ownership when comparing his aesthetic experiments with younger emo‑rap artists.",
+    "queries": [
+      "What effects has emo rap had on Kanye West’s public image?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "pitch correction",
+    "wiki_title": "pitch correction",
+    "summary": "Discussions of pitch correction around Kanye West are used to argue about his artistic intent—supporters portray his Auto-Tune use as innovative production that heightens emotion and redefines pop/rap aesthetics, while critics say it conceals vocal limitations and exemplifies artifice. Debates over his reliance on pitch correction also feed broader arguments about authenticity, live performance credibility, and the commercialization of musical expression.",
+    "queries": [
+      "How do people view pitch correction used by Kanye West?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "antisemitism and hate speech",
+    "wiki_title": "antisemitism on social media",
+    "summary": "Antisemitism on social media is often invoked in discussions of Kanye West to argue that his public statements and the viral antisemitic content he shared both normalize and amplify hateful tropes, justifying deplatforming, lost partnerships, and calls for stronger moderation and corporate accountability. Conversely, some defenders cast the backlash as selective censorship or as linked to his mental-health struggles, using the episode to argue against punitive responses and for clearer free-speech boundaries on platforms.",
+    "queries": [
+      "Is Kanye West's antisemitism and hate speech reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "anti-defamation league",
+    "wiki_title": "anti-defamation league",
+    "summary": "The ADL has publicly condemned Kanye West’s antisemitic remarks, framing them as hate speech and urging platforms, brands and regulators to cut ties or impose sanctions — messaging that helped justify corporate and platform actions that damaged his reputation and revenue. Critics counter that the ADL’s interventions can broaden definitions of antisemitism and wield outsized influence over speech and commercial consequences.",
+    "queries": [
+      "Are criticisms from the Anti-Defamation League toward Kanye West reasonable?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "adidas",
+    "wiki_title": "adidas",
+    "summary": "Adidas — as Kanye West’s major commercial partner through the Yeezy brand — is invoked to show how corporate deals can legitimize and amplify an artist’s cultural influence, and its eventual split with him over his antisemitic remarks became a flashpoint in debates about cancel culture, corporate responsibility, and whether businesses should prioritize ethics over profit. Critics argue Adidas helped enable and enrich West before abandoning him, while supporters point to the termination as evidence that major companies can and should hold public figures accountable.",
+    "queries": [
+      "How do people view adidas’s ties to Kanye West?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "tucker carlson",
+    "wiki_title": "tucker carlson",
+    "summary": "Tucker Carlson is often invoked by conservatives to portray Kanye West as a victim of ‘cancel culture,’ defending his right to provocative expression and criticizing media and corporate fallout; critics, meanwhile, point to Carlson’s defenses as part of a pattern in right‑wing media that normalizes or amplifies Kanye’s antisemitic and conspiratorial rhetoric.",
+    "queries": [
+      "Are tucker carlson’s comments about Kanye West justified?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "antisemitism allegations",
+    "wiki_title": "antisemitism in the british labour party",
+    "summary": "References to antisemitism in the British Labour Party are often invoked in debates about Kanye West to frame his antisemitic remarks as either part of a broader cultural/political problem or as an instance of selective outrage. Critics use the comparison to demand firmer sanctions and accountability, while defenders point to it to argue media and institutional double standards in policing speech by politicians versus high-profile entertainers.",
+    "queries": [
+      "What consequences have Kanye West’s antisemitism allegations caused?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "holocaust denial",
+    "wiki_title": "holocaust denial",
+    "summary": "Critics invoke Holocaust denial when condemning Kanye West’s 2022 antisemitic statements and praise of Hitler to portray him as endorsing extremist, dangerous ideas and to justify deplatforming, corporate split-offs, and public denunciation; some defenders, meanwhile, reject or downplay these accusations as censorship or mischaracterization and fringe supporters may echo denial-adjacent conspiracies to defend him.",
+    "queries": [
+      "How do people view Kanye West’s holocaust denial?"
+    ]
+  },
+  {
+    "id": "C4-3-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "stockx",
+    "wiki_title": "stockx",
+    "summary": "StockX resale-price data for Yeezy sneakers is often invoked in debates about Kanye West to quantify his brand's market value and to argue whether his controversies (such as antisemitic remarks and the Adidas split) have produced measurable financial consequences; observers who emphasize price drops use that evidence to justify corporate distancing and boycotts, while those noting stable demand point to resale strength as proof of enduring cultural cachet. This marketplace data therefore helps frame arguments about accountability, the economic impact of speech, and whether market forces or policy responses are the appropriate remedy.",
+    "queries": [
+      "How do people view Kanye's partnership with stockx?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4",
+    "level": 3,
+    "topic": "oversight board",
+    "wiki_title": "oversight board",
+    "summary": "Oversight boards are often invoked in debates over whether platforms should ban or reinstate Kanye West, with supporters pointing to independent rulings to defend free expression and opponents using them to justify stricter moderation against hate speech. Critics also argue oversight boards let tech companies outsource accountability or apply inconsistent standards, shaping narratives about whether Kanye’s conduct should be punished or tolerated.",
+    "queries": [
+      "Is Kanye West's oversight board justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4",
+    "level": 3,
+    "topic": "section 230",
+    "wiki_title": "section 230",
+    "summary": "Section 230 is frequently invoked in debates over Kanye West’s platform bans and reinstatements: critics cite his removals as evidence platforms can arbitrarily silence controversial figures and call for stricter regulation, while defenders point to Section 230 as the legal framework that permits companies to moderate content without being held liable. Policy arguments about reforming or preserving Section 230 often use Kanye as a test case—either to push for limits on platform immunity to curb hate speech or to warn that constraining the law could undermine private content moderation and free expression online.",
+    "queries": [
+      "Is section 230 protection for platforms in Kanye West's case justified?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "mental health and personal life",
+    "wiki_title": "mental health",
+    "summary": "Mental health is frequently invoked to explain or contextualize Kanye West’s erratic public behavior and controversial statements—supporters cite his bipolar diagnosis to argue for compassion and treatment-focused responses, while critics warn it can be used to excuse harmful rhetoric and avoid accountability. It also shapes debates about celebrity privacy, stigma, and whether the music industry and public institutions should prioritize care and safeguards versus imposing consequences.",
+    "queries": [
+      "How do people view Kanye West’s mental health and personal life?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "bipolar disorder",
+    "wiki_title": "bipolar disorder",
+    "summary": "References to bipolar disorder are often invoked to explain or contextualize Kanye West's erratic, impulsive, and controversial public behavior—used by supporters to argue for compassion, treatment, and reduced moral blame, and by opponents to question his fitness for public roles or to justify limiting his platform. Critics counter that invoking mental illness can stigmatize, improperly excuse harmful speech, or be weaponized in debates over privacy, accountability, and interventions for public figures.",
+    "queries": [
+      "Is Kanye West's bipolar disorder being discussed fairly or not?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "mental health stigma",
+    "wiki_title": "mental disorder",
+    "summary": "References to mental disorder (notably discussions of Kanye West’s bipolar diagnosis) are used by supporters to frame his outbursts as health issues deserving compassion, treatment, and privacy, while opponents sometimes invoke mental-health labels to discredit his politics or justify distancing from his work; this contest shapes debates over stigma, personal accountability, and whether responses should prioritize care, censorship, or removal of platforms.",
+    "queries": [
+      "What effects has mental health stigma had on Kanye West's career?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "kim kardashian",
+    "wiki_title": "kim kardashian",
+    "summary": "Kim Kardashian is frequently invoked in discussions of Kanye West as either the stabilizing mediator trying to limit his public meltdowns and shield their family or, conversely, as an enabler whose silence or interventions are criticized; commentators use her actions and statements to frame debates over Kanye’s mental health, accountability for inflammatory political and antisemitic remarks, and the real-world consequences of celebrity behavior on family, reputation, and commerce.",
+    "queries": [
+      "How do people view kim kardashian's role in Kanye West's life?"
+    ]
+  },
+  {
+    "id": "C6-2-1",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "north west",
+    "wiki_title": "points of the compass",
+    "summary": "Writers and commentators often use compass-point metaphors and left/right directional language—including puns on his surname “West”—to map and debate Kanye West’s cultural and political positioning. Supporters use those metaphors to portray ideological shifts as intentional reinvention, while critics use them to argue he is inconsistent, extreme, or emblematic of problematic ‘Western’ power dynamics.",
+    "queries": [
+      "How do people view north west’s presence in the media?"
+    ]
+  },
+  {
+    "id": "C6-2-2",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "chicago west",
+    "wiki_title": "west side, chicago",
+    "summary": "References to Chicago’s West Side are frequently invoked to frame Kanye West as a product of working‑class, Black Midwestern struggle and cultural resilience, bolstering narratives that his music and persona are rooted in authentic local experience. Critics and supporters alike also use his West Side origins to judge his politics, philanthropy, or commercial choices—either condemning him for ‘selling out’ and abandoning community values or defending controversial behavior as shaped by his upbringing.",
+    "queries": [
+      "How do people view Chicago West’s public presence?"
+    ]
+  },
+  {
+    "id": "C6-2-3",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "kardashian family",
+    "wiki_title": "kardashian family",
+    "summary": "The Kardashian family is often invoked in discussions of Kanye West to explain how his marriage into a powerful celebrity dynasty amplified his visibility and intensified scrutiny of his behavior; critics use the family's influence to argue that fame enabled or excused his erratic public conduct and raised questions about his parenting, while defenders point to their role protecting Kim and the children and helping manage or mitigate reputational and commercial fallout.",
+    "queries": [
+      "How do people view the Kardashian family’s influence on Kanye West?"
+    ]
+  },
+  {
+    "id": "C6-2-4",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "skims",
+    "wiki_title": "skims",
+    "summary": "Skims is often cited in comparisons between Kim Kardashian’s commercial success and Kanye West’s fraught public trajectory, used to argue that she has accrued greater cultural and economic clout while he has become more controversial. Commentators also use Skims to frame debates about power, gender, and cancel culture—portraying Kim’s mainstream, market-friendly brand as a foil to Kanye’s polarizing fashion and political stances.",
+    "queries": [
+      "Is Kanye West's involvement with skims justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "keeping up with the kardashians",
+    "wiki_title": "keeping up with the kardashians",
+    "summary": "Keeping Up with the Kardashians is often used to frame Kanye West as part of the Kardashian media engine—either to humanize and legitimize his celebrity and fashion/brand moves through family-focused storylines and publicity, or to criticize him as a disruptive figure amplified by a manufactured ‘famous-for-being-famous’ culture that enables and magnifies his controversies.",
+    "queries": [
+      "Is Kanye West’s keeping up with the kardashians reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "donda west",
+    "wiki_title": "donda west",
+    "summary": "Donda West is invoked to humanize Kanye—supporters use her influence and his grief over her death to explain his artistic ambition and to elicit sympathy for his erratic behavior—while critics use her legacy to argue he exploits or fails to honor his mother's memory, framing his controversies as betrayals of her values.",
+    "queries": [
+      "Is Donda West’s influence on Kanye West justified or not?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "plastic surgery",
+    "wiki_title": "plastic surgery",
+    "summary": "References to plastic surgery are often used to explain or criticize perceived changes in Kanye West’s or his partners’ appearances, framing him as either an authentic artist who reinvents his image or as a manufactured celebrity who profits from commodified beauty. Critics cite cosmetic alteration to argue he cultivates inauthenticity and market-driven aesthetics, while defenders treat such procedures as personal expression and part of his fashion/branding strategy.",
+    "queries": [
+      "Is Kanye West’s plastic surgery reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "coronary artery disease",
+    "wiki_title": "coronary artery disease",
+    "summary": "Coronary artery disease is cited in the autopsy of Kanye West’s mother, Donda, and is repeatedly used in public debate to frame Kanye’s background — either to humanize him and explain his grief-driven activism and emotional volatility, or to deflect/shift blame between surgical negligence and preexisting health risks. Supporters invoke the diagnosis to elicit empathy and argue for better cosmetic-surgery oversight, while critics use it to contextualize and sometimes rationalize his behavior and public persona.",
+    "queries": [
+      "How do people view Kanye West's coronary artery disease coverage?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "wrongful death lawsuit",
+    "wiki_title": "wrongful death claim",
+    "summary": "Wrongful death claims tied to Kanye West or events connected to him are wielded by critics to depict him as legally and morally responsible for harm, reinforcing demands for accountability and stricter safety or regulatory measures; supporters counter by framing such suits as opportunistic or politicized attempts to tarnish his reputation, using them to defend him and downplay culpability.",
+    "queries": [
+      "Is pursuing a wrongful death lawsuit against Kanye West reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "chicago state university",
+    "wiki_title": "chicago state university",
+    "summary": "Chicago State University is often invoked in conversations about Kanye West because his late mother, Donda West, taught there, and commentators use that connection to emphasize his Chicago, academically rooted upbringing; supporters cite it to bolster his intellectual and cultural legitimacy, while critics use it to highlight perceived departures from or betrayals of those local, working-class roots.",
+    "queries": [
+      "How do people view Chicago State University’s role in Kanye West’s career?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "psychiatric hospitalization",
+    "wiki_title": "psychiatric hospital",
+    "summary": "References to psychiatric hospitals are often used to explain or pathologize Kanye West’s erratic public behavior—either to argue for compassion, medical treatment, and privacy for someone with a mental-health crisis, or conversely to delegitimize his statements and portray him as unfit for influence. They also appear in debates about whether his actions should be judged as personal responsibility versus symptoms requiring clinical intervention, shaping opinions on media coverage, platform moderation, and involuntary care.",
+    "queries": [
+      "Is Kanye West's psychiatric hospitalization justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4-2",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "saint pablo tour",
+    "wiki_title": "saint pablo tour",
+    "summary": "The Saint Pablo Tour is invoked both to praise Kanye’s audacious, boundary-pushing showmanship (the suspended “floating” stage and immersive spectacle) and to criticize his reliability and conduct after 2016—mid-tour cancellations, onstage tirades, and a subsequent hospitalization are used by critics to argue he endangered fans/staff and became unprofessional, while supporters frame those events as evidence of mental‑health struggles and uncompromising artistic vision.",
+    "queries": [
+      "What effects has the saint pablo tour brought?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "5150 psychiatric hold",
+    "wiki_title": "5150",
+    "summary": "Critics frequently invoke '5150' to portray Kanye West as mentally unstable—using the psychiatric connotation in headlines, social posts, and commentary to discredit his statements, argue he’s unfit for public roles, or justify distancing from him. Supporters push back that applying '5150' stigmatizes mental illness and is used to silence or pathologize his controversial behavior, reframing debates about accountability versus empathy.",
+    "queries": [
+      "What effects has Kanye West's 5150 psychiatric hold had?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "conservatorship",
+    "wiki_title": "conservatorship",
+    "summary": "Conservatorship is invoked around Kanye to argue either that his erratic public behavior justifies legal intervention and reduced accountability, or conversely that conservatorship would be an unjust tool used by family, industry, or the establishment to control and silence him. References to conservatorship — often via the Britney Spears case — also fuel calls to reform guardianship laws and shape partisan narratives about mental health, autonomy, and celebrity power.",
+    "queries": [
+      "What consequences has conservatorship had for Kanye West?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "manic episodes",
+    "wiki_title": "mania",
+    "summary": "Invocations of mania are used to interpret Kanye West’s erratic, grandiose, or inflammatory behavior as rooted in psychiatric illness, often prompting supporters to call for compassion, treatment, or mitigation of blame. Critics counter by using the label to discredit or contain his influence, fueling debates over stigma, accountability, and when mental health should excuse or explain public conduct.",
+    "queries": [
+      "How do people view Kanye West's manic episodes?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "tabloid media",
+    "wiki_title": "tabloid journalism",
+    "summary": "Tabloid journalism drives and polarizes public views of Kanye West by sensationalizing his remarks, relationships, and controversies—portraying him alternately as a dangerous provocateur, unstable figure, or defiant genius—which amplifies outrage, cancellation talk, or celebrity gossip cycles. Its appetite for scandal and quick online churn also shapes media narratives, PR responses, and debates over privacy, defamation, and platform moderation related to his actions.",
+    "queries": [
+      "What impacts has tabloid media had on Kanye West's reputation?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "mental illness stigma",
+    "wiki_title": "mental illness in media",
+    "summary": "Media framing of mental illness frequently appears in coverage of Kanye West, with some sources invoking diagnosis to explain or excuse his controversies while others sensationalize it to discredit or dehumanize him, fueling debates about accountability versus compassion and celebrity privacy. Such framing tends to bolster calls for humane, treatment‑oriented responses and criticizes narratives that weaponize mental‑health labels to delegitimize his artistic or political positions.",
+    "queries": [
+      "Is mental illness stigma around Kanye West reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7-6",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "nami",
+    "wiki_title": "nami",
+    "summary": "Advocacy groups and resources like NAMI are often cited in discussions of Kanye West’s public behavior and bipolar disorder to push narratives of compassion, treatment, and improved mental‑health support rather than punishment. At the same time critics invoke mental‑health frameworks to argue that a diagnosis should not excuse hateful or dangerous statements, using NAMI‑style guidance to balance calls for care with demands for accountability.",
+    "queries": [
+      "What impact has nami had on Kanye West’s public image?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "race and identity",
+    "wiki_title": "the madness of crowds: gender, race and identity",
+    "summary": "Douglas Murray’s The Madness of Crowds is often invoked in discussions about Kanye West to frame him as a provocateur targeted by identity‑politics and “cancel culture,” bolstering defenses of his free‑speech posture and contrarian statements. Conversely, critics use the book’s critique of identity movements to explain how backlash and reactionary rhetoric surrounding Kanye can both reflect and reinforce harmful race and gendered narratives.",
+    "queries": [
+      "Is Kanye West’s focus on race and identity justified or not?"
+    ]
+  },
+  {
+    "id": "C7-1",
+    "parent": "C7",
+    "level": 2,
+    "topic": "donald trump",
+    "wiki_title": "donald trump",
+    "summary": "Commentators and critics invoke Donald Trump to frame Kanye West as a celebrity ally of populist, right-wing politics—using their public friendship and mutual praise to argue West has embraced anti-establishment, conservative, or authoritarian-leaning positions and to portray him as betraying Black political interests. Supporters, however, use the Trump association to legitimize Kanye’s outsider credentials and normalize celebrity political intervention as a challenge to elite consensus.",
+    "queries": [
+      "Is Kanye West’s support for donald trump reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-4",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "republican party",
+    "wiki_title": "republican party",
+    "summary": "In public debates the Republican Party label is used to cast Kanye West as an unconventional conservative ally—pointing to his past support for Donald Trump, meetings with GOP leaders, and occasional endorsement of pro-business or socially conservative themes—to suggest he lends celebrity credibility to Republican outreach. Critics counter that invoking the party exposes questions about the authenticity of his politics and accuses Republicans of opportunistically courting or defending him (sometimes despite controversial statements or his mental-health struggles).",
+    "queries": [
+      "How do people view Kanye West aligning with the republican party?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News frequently uses Kanye West’s celebrity politics—his pro-Trump gestures, anti-establishment rhetoric, and public controversies—to argue against 'cancel culture' and to illustrate celebrity alignment with conservative causes. Opinion hosts vary between defending his free-speech impulses or framing his erratic/antisemitic remarks as either mental‑health issues or evidence of liberal media bias, deploying him to advance broader culture‑war narratives.",
+    "queries": [
+      "Is Fox News's coverage of Kanye West reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-1-6",
+    "parent": "C7-1",
+    "level": 3,
+    "topic": "political endorsement",
+    "wiki_title": "political endorsement",
+    "summary": "Endorsements involving Kanye West—most notably his public support for Donald Trump, MAGA imagery, and his 2020 presidential bid—are invoked to either legitimize his shift toward conservative politics and portray him as a serious influencer or to criticize him as an opportunistic, polarizing celebrity whose political alliances normalize extreme views. Supporters use endorsements to argue he represents anti‑establishment or free‑speech positions, while opponents point to them to question his motives, judgment, and the dangers of celebrity sway in politics.",
+    "queries": [
+      "How do people view Kanye West's political endorsement?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "make america great again",
+    "wiki_title": "make america great again",
+    "summary": "Kanye's public embrace of MAGA—wearing the hat, praising Trump and echoing pro-Trump tropes—has been used by critics to portray him as abandoning Black political interests and aligning with racially coded conservative nationalism, while supporters and some commentators frame it as anti-establishment or religious conservatism, shaping whether his actions are read as opportunism, ideological conversion, or provocateur performance.",
+    "queries": [
+      "How do people view make america great again in Kanye West’s context?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "candace owens",
+    "wiki_title": "candace owens",
+    "summary": "Candace Owens frequently defends and amplifies Kanye West's political turns, using his pro-Trump and anti-establishment statements to argue that he exemplifies a principled break from liberal orthodoxy and a target of 'cancel culture.' In debates about West she reframes criticism as partisan silencing, downplays or contextualizes his more controversial comments, and elevates him as a symbol for Black conservatism and free expression.",
+    "queries": [
+      "Is candace owens’s support for Kanye West reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "conservative media",
+    "wiki_title": "media bias",
+    "summary": "Accusations of media bias are deployed by Kanye supporters to argue that mainstream outlets obsess over his controversies — from erratic behavior and mental-health episodes to antisemitic remarks — while minimizing his artistic contributions, a claim used to delegitimize criticism and resist platforming restrictions. Opponents counter that the media often sensationalizes or insufficiently contextualizes his statements for clicks or gives him undue amplification, a framing that bolsters calls for deplatforming, advertiser pressure, and stricter content moderation.",
+    "queries": [
+      "Is Kanye West's engagement with conservative media justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter is frequently used to evaluate Kanye West’s racial and political credibility—BLM-aligned critics portray his pro-Trump gestures, controversial remarks about slavery and policing, and alignment with conservative figures as betrayals of anti-racist and criminal-justice reform aims, while his defenders invoke anti-BLM or “cancel culture” arguments to frame him as a persecuted Black dissident whose divergent views should be tolerated.",
+    "queries": [
+      "Is Kanye West's support for black lives matter justified or not?"
+    ]
+  },
+  {
+    "id": "C7-3-2",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "maga",
+    "wiki_title": "maga",
+    "summary": "Kanye’s visible embrace of MAGA (e.g., wearing the hat and meeting with Trump) is routinely invoked to paint him as aligned with Trump-era nationalist/populist politics, used by critics to argue he is endorsing or normalizing racist, authoritarian, or exclusionary positions and to diminish his cultural credibility. Conversely, his defenders use MAGA to frame him as an anti‑establishment free‑speech provocateur challenging Hollywood and the music industry, making the slogan a focal point in debates over whether his actions reflect genuine politics or performative provocation tied to mental‑health narratives.",
+    "queries": [
+      "What effects has Kanye West's maga association brought?"
+    ]
+  },
+  {
+    "id": "C7-3-4",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "slavery remark",
+    "wiki_title": "slavery in africa",
+    "summary": "References to slavery in Africa surface in debates about Kanye West when critics accuse him of downplaying the distinct horrors of the transatlantic slave trade—especially after his “slavery was a choice” remarks—while some defenders invoke broader African slavery histories to reframe his comments as emphasizing Black agency or challenging dominant victimhood narratives.",
+    "queries": [
+      "What effects has Kanye West's slavery remark had?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "criminal justice reform",
+    "wiki_title": "criminal justice reform",
+    "summary": "Kanye West’s involvement in criminal justice reform—most visibly his 2018 White House visit and role in securing Alice Johnson’s commutation—is often cited by supporters to portray him as a serious, nonpartisan advocate for Black lives and policy change and to justify his ties to conservative figures. Critics argue that reform activism is sometimes used as a convenient shield or PR asset that downplays his erratic behavior and controversial statements, and should not excuse his political alliances or harmful rhetoric.",
+    "queries": [
+      "How do people view criminal justice reform tied to Kanye West?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "black conservatism",
+    "wiki_title": "black conservatism",
+    "summary": "Black conservatism is used to cast Kanye West as either a principled dissenter whose public embrace of faith, entrepreneurship, and pro‑Republican stances exemplifies Black self‑reliance and rejection of liberal orthodoxy, or as a sellout who has abandoned collective racial justice for GOP alignment. Supporters invoke it to justify his rhetoric and policy preferences, while critics argue it explains and legitimizes his opposition to systemic remedies favored by many in the Black community.",
+    "queries": [
+      "Is Kanye West's embrace of black conservatism reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "cultural appropriation",
+    "wiki_title": "cultural appropriation",
+    "summary": "Accusations of cultural appropriation are used to criticize Kanye when commentators say he commercializes or strips sacred Black, religious, or minority cultural symbols in his music, fashion and imagery—arguing he profits from or distorts traditions without proper credit or respect. Defenders counter that his identity as a Black innovator, artistic experimentation, and cross-cultural influences complicate or invalidate simple appropriation claims, framing the debate as one between cultural preservation/ethical sourcing and creative freedom.",
+    "queries": [
+      "How do people view cultural appropriation by Kanye West?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "paris fashion week",
+    "wiki_title": "paris fashion week",
+    "summary": "Paris Fashion Week functions as a public litmus test for Kanye West’s cultural and design legitimacy—coverage of his shows or collaborations there is used to bolster claims that he is a serious fashion innovator or, conversely, to dismiss his work as celebrity-driven spectacle. After his high-profile controversies, references to PFW have also been mobilized to argue for or against the luxury industry's willingness to platform or disown him, with bookings framed as rehabilitation and cancellations as necessary accountability.",
+    "queries": [
+      "What effects might Kanye West's paris fashion week involvement have?"
+    ]
+  },
+  {
+    "id": "C7-6-4",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "black hairstyles",
+    "wiki_title": "list of hairstyles",
+    "summary": "Catalogues of Kanye West’s hairstyles are often invoked in media and fan debates to map his evolving public persona—used by supporters to argue he’s a fashion innovator and constantly reinventing his brand, and by critics to portray him as erratic, attention-seeking, or culturally opportunistic. Commentaries on specific looks are also leveraged in broader arguments about his authenticity, masculinity, and credibility during political or personal controversies.",
+    "queries": [
+      "Is Kanye West’s use of black hairstyles appropriate or not?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "music sampling",
+    "wiki_title": "sampling (music)",
+    "summary": "Sampling is a central talking point in debates about Kanye West, used by supporters to argue that his pitched-up soul collages and reworkings of older records demonstrate creative vision and a dialogue with Black musical traditions. Critics, and legal commentators, however, point to his heavy use of samples to challenge his originality, highlight costly clearance disputes and copyright tensions, and fuel calls for stricter licensing or reform to address compensation and cultural-appropriation concerns.",
+    "queries": [
+      "How do people view Kanye West's music sampling?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "african american culture",
+    "wiki_title": "african-american culture",
+    "summary": "Invocations of African-American culture are used to both celebrate Kanye West as a pioneering force who elevates Black musical, fashion, and entrepreneurial expression and to condemn him as betraying or commodifying the community when his politics, statements, or behavior clash with mainstream Black interests. Critics and defenders alike deploy this frame to argue over his cultural authenticity, political loyalty, impacts on Black representation, and whether his controversies help or harm collective social and political gains.",
+    "queries": [
+      "What effects has Kanye West had on african american culture?"
+    ]
+  },
+  {
+    "id": "C7-7-1",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "hip hop",
+    "wiki_title": "hip-hop",
+    "summary": "Discussions of hip-hop are often used to frame Kanye West either as a transformative artist whose production, genre-blending and business moves advanced the form and artists’ economic power, or as someone who commercialized and at times betrayed hip-hop’s social roots by prioritizing celebrity, fashion and divisive politics. Debates invoking hip-hop thus justify praise for his innovation and influence or criticism that his behavior and rhetoric undermine the genre’s cultural responsibilities and authenticity.",
+    "queries": [
+      "Is Kanye West’s hip hop influence justified or not?"
+    ]
+  },
+  {
+    "id": "C7-7-5",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "black church",
+    "wiki_title": "black church",
+    "summary": "The Black church is often invoked to both legitimize Kanye West’s religious turn—framing his Sunday Service, gospel recordings, and public repentance as a continuation of African American spiritual tradition—and to condemn him when his politics or provocative statements clash with church moral authority. Clergy and commentators use Black church norms to either defend his authenticity and communal influence or to accuse him of exploiting sacred practices and betraying community values (for example over his political alignments or inflammatory remarks).",
+    "queries": [
+      "How do people view Kanye West's ties to the black church?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "gospel music",
+    "wiki_title": "gospel music",
+    "summary": "Kanye West’s turn toward gospel — through albums like Jesus Is King and his high-profile Sunday Service performances — is used by supporters to frame him as spiritually reborn, morally authoritative, and legitimately rooted in Black church tradition; detractors use the same gospel framing to argue his religiosity is performative branding, cultural appropriation, or a way to deflect accountability, sparking debates about sincerity, commercialization of faith, and the mixing of celebrity, politics, and church.",
+    "queries": [
+      "What influence has gospel music had on Kanye West’s public image?"
+    ]
+  },
+  {
+    "id": "C7-7-7",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "black fashion",
+    "wiki_title": "black fashion museum",
+    "summary": "Invocations of a Black fashion museum are used in arguments about whether Kanye’s design work should be preserved and canonized as part of Black cultural heritage or be excluded as ethically tainted by his public conduct; proponents point to his commercial influence and role in popularizing Black-led streetwear, while critics use the museum frame to demand institutional accountability and to critique cultural appropriation, gatekeeping, or erasure of other Black designers.",
+    "queries": [
+      "How do people view black fashion in Kanye West’s work?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7",
+    "level": 3,
+    "topic": "nick fuentes",
+    "wiki_title": "nick fuentes",
+    "summary": "Critics point to Kanye West’s ties to Nick Fuentes as evidence that West’s antisemitic turn aligns him with white‑nationalist and Christian‑nationalist movements, using the association to argue his rhetoric normalizes extremist ideology and undermines his cultural legitimacy. Conversely, Fuentes and his allies invoke West’s engagement to claim celebrity endorsement legitimizes and helps mainstream their far‑right agenda.",
+    "queries": [
+      "Is Kanye West’s association with Nick Fuentes justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "root",
+    "level": 2,
+    "topic": "twitter/x",
+    "wiki_title": "twitter",
+    "summary": "On Twitter/X, Kanye West’s own posts and the platform’s moderation decisions are repeatedly cited in public debates—supporters amplify and defend his provocative statements as free expression while critics use his tweets as evidence of antisemitic or harmful rhetoric. Trending threads, memes, and corporate reactions on X often determine whether he’s framed as a censored artist or a dangerous influencer, shaping both public opinion and policy calls (e.g., bans, boycotts).",
+    "queries": [
+      "How do people view Kanye West's twitter/x activity?"
+    ]
+  },
+  {
+    "id": "C5-1-6",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "cancel culture",
+    "wiki_title": "cancel culture",
+    "summary": "In debates about Kanye West, cancel culture is invoked by critics to justify boycotts, deplatforming, and severing corporate or industry ties after his inflammatory or antisemitic remarks, and by defenders to argue those responses are disproportionate attacks on his free speech or a politicized attempt to end his career. That framing shapes policy and public opinion on deplatforming, corporate sponsorships, and whether punishment, rehabilitation, or continued platform access is the appropriate response.",
+    "queries": [
+      "What consequences has cancel culture produced for Kanye West?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "root",
+    "level": 2,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Elon Musk is cited in debates about Kanye West as a high-profile ally and platform gatekeeper—supporters invoke his defense of Ye to argue against ‘cancel culture’ and for unrestricted artistic expression, while critics point to Musk’s backing and X’s relaxed moderation as evidence that powerful tech figures can legitimize or amplify Kanye’s antisemitic and extremist rhetoric.",
+    "queries": [
+      "What consequences has Elon Musk’s public backing of Kanye West caused?"
+    ]
+  },
+  {
+    "id": "C5-2-3",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "free speech",
+    "wiki_title": "freedom of speech",
+    "summary": "Debates about freedom of speech often surface around Kanye West, with supporters framing his provocative statements and artistic persona as deserving protection from censorship or deplatforming, while critics argue that his antisemitic and harmful rhetoric crosses legitimate limits and justifies content moderation, public condemnation, or other sanctions. This framing is used to defend him as a persecuted icon of free expression or to argue for stronger enforcement of hate-speech and platform policies to prevent real-world harm.",
+    "queries": [
+      "What consequences has Kanye West’s free speech prompted?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "Deplatforming of Kanye West—through social‑media suspensions, lost partnerships, and removed content—features in arguments painting him either as a dangerous purveyor of hate who must be silenced to protect targeted communities or as a censored artist victimized by ‘cancel culture.’ These competing framings drive calls for stricter content moderation and corporate responsibility on one side and free‑speech and anti‑censorship reforms on the other, while shaping his public image and commercial prospects.",
+    "queries": [
+      "What effects has deplatforming of Kanye West brought?"
+    ]
+  },
+  {
+    "id": "C5-3",
+    "parent": "root",
+    "level": 2,
+    "topic": "instagram",
+    "wiki_title": "instagram",
+    "summary": "Instagram is often the primary forum where Kanye West performs and shapes his public persona—announcing music and fashion drops, posting provocative images or statements that fans amplify and detractors use to critique his behavior and beliefs. Platforms' actions to remove, restrict, or allow his posts become focal points in debates over celebrity accountability, deplatforming vs. free expression, and whether algorithmic visibility normalizes or curbs his controversial views.",
+    "queries": [
+      "What impacts has Kanye West’s instagram presence had?"
+    ]
+  },
+  {
+    "id": "C5-3-1",
+    "parent": "C5-3",
+    "level": 3,
+    "topic": "meta platforms",
+    "wiki_title": "meta platforms",
+    "summary": "Meta's content-moderation choices and algorithmic amplification are frequently cited in discussions about Kanye West—his posts, bans, reinstatements, and loss of monetization on Facebook and Instagram are used as evidence of how platforms enable or curb the spread of his controversial and antisemitic statements. Critics point to Meta as proof that Big Tech must deplatform or penalize him to protect communities and advertisers, while defenders accuse Meta of inconsistent, profit-driven enforcement and argue for greater free-speech protections.",
+    "queries": [
+      "How do people view Kanye West's meta platforms activity?"
+    ]
+  },
+  {
+    "id": "C5-4",
+    "parent": "root",
+    "level": 2,
+    "topic": "youtube",
+    "wiki_title": "youtube",
+    "summary": "YouTube is a primary venue where supporters amplify Kanye West’s music, interviews, and livestreams to celebrate his artistry and reshape controversies, while critics compile clips and documentary-style videos to document and condemn his problematic statements. Debates about YouTube’s recommendation, demonetization, and takedown policies frequently center on Kanye, shaping arguments over platform responsibility, free expression, and whether his influence should be curtailed or contextualized.",
+    "queries": [
+      "How do people view Kanye West on youtube?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "the breakfast club",
+    "wiki_title": "the breakfast club",
+    "summary": "Commentators sometimes invoke The Breakfast Club’s image of the misunderstood outsider to frame Kanye West as a rebellious, nonconformist artist persecuted by cultural gatekeepers, while critics contrast the film’s status as a beloved cultural touchstone to argue Kanye’s recent provocations tarnish rather than build a comparable, enduring legacy.",
+    "queries": [
+      "What consequences has Kanye West's breakfast club interview caused?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "jeen-yuhs",
+    "wiki_title": "jeen-yuhs",
+    "summary": "Supporters cite Jeen-Yuhs to humanize Kanye as a visionary shaped by personal struggle and mental-health challenges, using its intimate archival footage to justify empathy, continued admiration, or separating his art from his controversies. Critics counter that the documentary is overly sympathetic and selective, arguing it frames problematic behavior as understandable rather than holding him accountable for harmful statements and actions.",
+    "queries": [
+      "What impact has jeen-yuhs had on perceptions of Kanye West?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "famous (song)",
+    "wiki_title": "famous",
+    "summary": "Kanye West’s fame is often invoked to justify the outsized attention and influence his opinions and actions receive—supporters treat his celebrity as cultural authority that legitimizes his artistic experimentation and political commentary, while critics use his fame to argue for greater accountability, blame celebrity privilege for enabling erratic or harmful behavior, and to support calls for limiting his platform or influence.",
+    "queries": [
+      "What influence has Kanye West’s famous (song) had?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "bound 2",
+    "wiki_title": "bound 2",
+    "summary": "Supporters cite Bound 2 as evidence Kanye can still mine soulful, emotionally direct songwriting that reconnects him to his early-career strengths, framing him as a versatile artist rather than just a provocateur. Detractors, however, point to the song and its polarizing visuals as examples of Kanye’s oscillation between sincere artistry and calculated spectacle, using it to argue he often prioritizes publicity and persona over consistent artistic integrity.",
+    "queries": [
+      "What effects has bound 2 had on Kanye West's public image?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "alex jones",
+    "wiki_title": "alex jones",
+    "summary": "Alex Jones' platforms and appearances have amplified and framed Kanye West's controversial statements as proof of an anti‑establishment, anti‑media narrative—portraying Kanye as a persecuted truth‑teller and legitimizing supporters' free‑speech and anti‑elite arguments. Conversely, critics cite Jones' promotion and crossover with conspiracy networks to depict Kanye as politically radicalized and to justify condemnation, deplatforming, or warnings about ties to extremist and antisemitic movements.",
+    "queries": [
+      "How do people view Alex Jones’s influence on Kanye West?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5-4",
+    "level": 3,
+    "topic": "content id",
+    "wiki_title": "content id",
+    "summary": "Content ID is often cited in conversations about Kanye West as the automated tool labels and platforms use to block, remove, or monetize unauthorized uploads and leaks of his songs, videos, and performances, thereby controlling what material fans and media can access. Critics use its enforcement to argue that the music industry and rights-holders gatekeep and suppress fan edits, leaks, or journalism, while defenders point to it as a necessary means to protect Kanye’s revenue and intellectual property.",
+    "queries": [
+      "What impacts has Kanye West's content id had?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "root",
+    "level": 2,
+    "topic": "spotify",
+    "wiki_title": "spotify",
+    "summary": "Spotify is often invoked in debates about Kanye West as a lever of cultural and economic accountability—editorial delisting, algorithmic demotion, and changes in playlist promotion are cited as ways platforms can punish or amplify him after controversies. Advocates for limits point to Spotify’s control over visibility and revenue as justification for sanctions, while critics frame those actions as censorship and use Spotify’s royalty/playlist mechanics to argue about fairness and the accurate measurement of his popularity.",
+    "queries": [
+      "What impacts has Kanye West’s Spotify availability had?"
+    ]
+  },
+  {
+    "id": "C5-5-1",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "daniel ek",
+    "wiki_title": "daniel ek",
+    "summary": "Daniel Ek is often invoked in debates about Kanye West as the archetypal streaming-platform executive whose choices—whether to keep, demonetize, or remove Ye’s music—are used to argue larger points about corporate responsibility, free expression, and the limits of tolerating artists’ harmful speech. Supporters of moderation cite Ek as someone who should act decisively to punish antisemitic or dangerous rhetoric, while opponents frame his restraint as principled defense of artistic access or as evidence that tech platforms prioritize revenue and neutrality over moral accountability.",
+    "queries": [
+      "How do people view daniel ek’s role in Kanye West’s projects?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "tidal",
+    "wiki_title": "tidal",
+    "summary": "Tidal is often invoked to frame Kanye as a music‑industry entrepreneur and advocate for artist control—supporters point to his use of exclusive releases and platform ties as attempts to challenge streaming norms—while critics cite those same moves as celebrity‑driven publicity stunts that fragment access and dodge substantive debates about fair streaming economics.",
+    "queries": [
+      "Is Kanye West’s use of tidal justified or not?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "boycott campaigns",
+    "wiki_title": "boycott",
+    "summary": "Calls to boycott Kanye West—targeting his music, Yeezy products, or corporate partners—are used by critics to economically punish and delegitimize him for antisemitic statements and other controversial actions and to justify companies ending deals; defenders present boycotts as necessary accountability. Opponents cast boycott campaigns as cancel-culture overreach that suppresses free expression, can be symbolic or harm employees, and may not actually change behavior.",
+    "queries": [
+      "What effects do boycott campaigns around Kanye West produce?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "root",
+    "level": 2,
+    "topic": "tmz",
+    "wiki_title": "tmz",
+    "summary": "TMZ frequently breaks and amplifies Kanye West’s scandals, viral incidents, and legal troubles, supplying headlines and clips that frame him as erratic, controversial, and newsworthy. Their sensational tabloid coverage is often cited in public debates to justify criticism or stoke outrage about his behavior rather than to promote nuanced discussion of his art or mental health.",
+    "queries": [
+      "Is tmz's coverage of Kanye West fair or not?"
+    ]
+  },
+  {
+    "id": "C5-6-2",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "pete davidson",
+    "wiki_title": "pete davidson",
+    "summary": "Pete Davidson is frequently invoked in discussions about Kanye West as the target of Kanye’s public attacks over Davidson’s relationship with Kim Kardashian, with critics citing those attacks as evidence of Kanye’s harassment, misogyny, and threatening behavior that warrants platform moderation or legal accountability. Supporters sometimes frame Kanye’s actions toward Davidson as raw emotional expression or artistic provocation, using the feud to justify leniency or contextualize Kanye’s conduct.",
+    "queries": [
+      "Is Kanye West’s criticism of pete davidson justified or not?"
+    ]
+  },
+  {
+    "id": "C5-7",
+    "parent": "root",
+    "level": 2,
+    "topic": "content moderation",
+    "wiki_title": "content moderation",
+    "summary": "Content moderation is central to debates about Kanye West because platforms' decisions to remove, label, or reinstate his posts and accounts are presented by critics as necessary enforcement against hate speech and by his supporters as censorship or political bias. Those moderation choices shape public perception—silencing or amplifying his reach—and drive policy arguments about platform responsibility, free-speech limits, and protecting targeted communities.",
+    "queries": [
+      "How do people view content moderation involving Kanye West?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5-7",
+    "level": 3,
+    "topic": "hate speech",
+    "wiki_title": "hate speech",
+    "summary": "Accusations that Kanye West's public antisemitic and racist remarks constitute hate speech are used to frame him as promoting prejudice and to justify deplatforming, corporate cutoffs, and calls for legal or policy sanctions. Critics invoke hate‑speech harms to argue for stronger moderation and loss of endorsements, while defenders appeal to free expression, artistic license, or mental‑health explanations to resist punishment.",
+    "queries": [
+      "How do people view Kanye West’s hate speech?"
+    ]
+  }
+]

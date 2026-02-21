@@ -1,0 +1,2664 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Democratic Party (United States)",
+    "wiki_title": "Democratic Party (United States)",
+    "summary": "Commentators and advocates invoke the Democratic Party as a shorthand for support of civil rights, social safety nets, climate action, and expanded social freedoms, using the party label to justify progressive policy proposals and coalition-based governance. Critics and political opponents use the label to attack ‘big government,’ elite or identity-driven priorities, or economic softness, while intra-party disputes over centrism versus the progressive wing frame arguments about whether Democrats best represent working-class interests or technocratic liberalism.",
+    "queries": [
+      "How do people view the Democratic Party (United States) today?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "political ideology",
+    "wiki_title": "ideology",
+    "summary": "Political actors invoke ideology to label the Democratic Party as a liberal/progressive worldview that legitimizes expanded social programs, environmental regulation, civil-rights expansions, and identity-conscious policies, using these principles to mobilize supporters. Opponents counter by branding that ideology as 'socialist', elitist, or impractical to discredit Democratic proposals, while intra-party debates often frame tensions as pragmatic centrism versus ideologically driven progressivism.",
+    "queries": [
+      "Is the Democratic Party's political ideology justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "american liberalism",
+    "wiki_title": "liberalism in the united states",
+    "summary": "References to 'liberalism in the United States' are often used to cast the Democratic Party as the natural advocate for expanded social safety nets, civil liberties, environmental regulation, and redistributive economic policies, providing ideological cover for progressive agendas; critics weaponize the label to argue Democrats favor big government, fiscal excess, or divisive identity politics, while internal debates use it to push the party either further left or toward pragmatic centrism.",
+    "queries": [
+      "Is american liberalism within the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "bernie sanders",
+    "wiki_title": "bernie sanders",
+    "summary": "Bernie Sanders is invoked as the emblematic progressive force pushing the Democratic Party leftward, used by supporters to justify bold policy shifts (e.g., single‑payer health care, tuition‑free college, labor empowerment, Green New Deal) and to argue the party should abandon neoliberal centrism. Opponents and moderates, meanwhile, deploy his image to warn about electability, brand the party as ‘socialist,’ and frame internal debates over strategy, coalition‑building, and party identity.",
+    "queries": [
+      "Is Bernie Sanders' electability reasonable for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "alexandria ocasio-cortez",
+    "wiki_title": "alexandria ocasio-cortez",
+    "summary": "Alexandria Ocasio-Cortez is often invoked within debates about the Democratic Party as a living emblem of its progressive wing—used by allies to justify pushing the party toward bold climate, healthcare, and economic-justice policies and grassroots insurgency against the establishment. Opponents (both conservatives and centrist Democrats) use her as a foil to argue the party is too radical, impractical, or focused on identity politics, shaping disputes over electability and strategy.",
+    "queries": [
+      "Are alexandria ocasio-cortez's policy positions justified or not?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "labor unions",
+    "wiki_title": "trade union",
+    "summary": "Trade unions are invoked as the Democratic Party’s core labor constituency and funding/mobilization source, used by supporters to justify the party’s pro-worker agenda (collective bargaining, higher minimum wages, workplace protections) and to portray Democrats as defenders of the working class. Critics, however, frame unions as special-interest power brokers that overly influence Democratic policy, block market-oriented reforms, or enable patronage and corruption.",
+    "queries": [
+      "Are labor unions’ political endorsements justified in Democratic Party politics?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "progressivism",
+    "wiki_title": "progressivism",
+    "summary": "Progressivism is invoked by left-leaning activists and electeds to pull the Democratic Party toward bolder government action on inequality, universal health care, climate regulation, labor rights, and limits on corporate power, framing those positions as both moral necessity and pragmatic reform. Opponents and cautious Democrats counterpose the label to portray the party as ideologically extreme or electorally risky, fueling internal battles over messaging and policy priorities.",
+    "queries": [
+      "Is progressivism within the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2-7",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "student loan forgiveness",
+    "wiki_title": "student loans in the united states",
+    "summary": "Student loans are a key political lens through which the Democratic Party is portrayed as the champion of younger and working-class voters—advocating debt relief, income‑driven repayment, and expanded public college affordability—while internal debate pits progressives favoring broad forgiveness against moderates favoring targeted reforms. Opponents frame Democratic loan proposals as fiscally reckless or political pandering, using them to argue for market-based or means-tested alternatives and to question the party’s economic stewardship.",
+    "queries": [
+      "Is student loan forgiveness reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "democratic socialism",
+    "wiki_title": "democratic socialism",
+    "summary": "In U.S. Democratic Party debates, democratic socialism is invoked by the progressive wing to justify expansive public programs, stronger labor and wealth‑redistribution policies, and critiques of corporate power, while centrists and conservative opponents use the label as a warning or smear to portray Democrats as too radical or electorally risky, shaping primary fights and party policy positioning.",
+    "queries": [
+      "How do people view democratic socialism in today’s Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "red-baiting",
+    "wiki_title": "red-baiting",
+    "summary": "Political opponents often use red-baiting to portray the Democratic Party or its progressive wing as dangerously radical or 'socialist,' discrediting proposals like expanded social programs, universal healthcare, or strong regulation and rallying conservative voters against them. This framing bolsters market-friendly, law-and-order, and anti-regulation positions while marginalizing left-leaning Democrats and narrowing acceptable policy debate.",
+    "queries": [
+      "What consequences has red-baiting produced for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "democratic socialists of america",
+    "wiki_title": "democratic socialists of america",
+    "summary": "Progressives and primary challengers invoke the DSA to argue the Democratic Party should move left—adopting pro‑labor, universal‑benefit, climate‑ambitious, and anti‑war positions—using endorsements and insurgent campaigns to pressure or replace centrist Democrats. Conversely, moderates and opponents cite the DSA to portray the party as radical or unelectable, justifying resistance to progressive platforms and candidates.",
+    "queries": [
+      "Is democratic socialists of america influence in the Democratic Party reasonable?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "justice democrats",
+    "wiki_title": "justice democrats",
+    "summary": "Justice Democrats is invoked in debates over the Democratic Party as the archetype of the insurgent progressive wing that pressures the party to adopt bold anti‑corporate, Medicare‑for‑All and Green New Deal–style policies and to replace establishment incumbents via primary challenges. Supporters cite it to argue the party must shift left and reject corporate influence, while critics use it to warn that nomination fights and ideological purity can fracture electoral coalitions and harm general‑election prospects.",
+    "queries": [
+      "Is justice democrats’ approach justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-7",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "primary challenges",
+    "wiki_title": "primary challenge",
+    "summary": "In debates about the Democratic Party, primary challenges are portrayed by progressives as a democratic tool to hold incumbents accountable and push the party left on issues like healthcare and climate, while centrists and party leaders depict them as risky, divisive moves that threaten electoral unity and are used to justify protecting incumbents or tightening nomination rules.",
+    "queries": [
+      "What effects have primary challenges had on Democratic Party unity?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "new deal",
+    "wiki_title": "new deal",
+    "summary": "The New Deal is invoked by Democrats and allies as the foundational precedent for using federal power to expand social safety nets, labor protections, and economic regulation—legitimizing modern progressive policies and the party’s coalition-building. Opponents use it to paint the Democratic Party as inclined toward big-government overreach, costly intervention, and regulatory burdens, framing contemporary proposals as continuations of that statist legacy.",
+    "queries": [
+      "What impacts has the Democratic Party's new deal produced?"
+    ]
+  },
+  {
+    "id": "C1-5-1",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "franklin d. roosevelt",
+    "wiki_title": "franklin d. roosevelt",
+    "summary": "Franklin D. Roosevelt is often invoked by Democrats as the defining exemplar of the party’s activist, pro-labor, and social-welfare tradition—the New Deal model used to justify expanded federal programs, regulation, and coalition-building. Critics and centrist opponents, meanwhile, cast his legacy as a cautionary symbol of big-government overreach or outdated economic policies, using FDR to argue against large-scale spending or to push the party toward a more moderate course.",
+    "queries": [
+      "Was franklin d. roosevelt’s use of executive power reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "social security act",
+    "wiki_title": "social security act",
+    "summary": "The Social Security Act is invoked by supporters to portray the Democratic Party as the defender and extender of the New-Deal social safety net—used to justify opposition to privatization, calls for benefit expansions, and claims that Democrats protect seniors and low-income Americans. Critics deploy it to paint Democrats as architects of an expensive entitlement state in need of fiscal reform, while intra-party debates use the Act to argue between expansionist goals and long-term solvency measures.",
+    "queries": [
+      "Is the Democratic Party’s support for the Social Security Act reasonable?"
+    ]
+  },
+  {
+    "id": "C1-5-4",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "works progress administration",
+    "wiki_title": "works progress administration",
+    "summary": "The Works Progress Administration (WPA) is frequently invoked in debates about the Democratic Party as a historical exemplar Democrats use to justify large-scale federal job programs, infrastructure investment, and cultural funding as effective responses to economic crises and to anchor modern progressive policies in the New Deal legacy. Conversely, critics use the WPA to portray the party as favoring big, inefficient government and patronage, arguing it exemplifies why market-based or smaller-government alternatives are preferable.",
+    "queries": [
+      "What impacts has the Works Progress Administration had on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-5-5",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "wagner act",
+    "wiki_title": "national labor relations act of 1935",
+    "summary": "The National Labor Relations Act of 1935 is frequently cited by supporters of the Democratic Party (United States) as the legal foundation for its pro-union, pro-worker platform—used to justify policies favoring collective bargaining, stronger labor enforcement, and resistance to right-to-work laws. Critics use the Act to press Democrats either to strengthen and modernize worker protections (progressive critique) or to accuse the party of being captive to union interests and regulatory overreach (conservative critique).",
+    "queries": [
+      "Do people think the Wagner Act remains justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5-6",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "court-packing plan",
+    "wiki_title": "judicial procedures reform bill of 1937",
+    "summary": "The 1937 court‑packing episode is often cited in partisan debate to cast the Democratic Party as either willing to undermine judicial independence and aggrandize executive power to achieve policy goals, or conversely as a precedent for assertive institutional reform when conservative courts block progressive laws; contemporary discussions of court expansion, term limits, or judicial reform use it to warn against overreach or to justify bold corrective measures depending on the speaker's view of Democratic priorities.",
+    "queries": [
+      "What consequences might the court-packing plan have for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "keynesian economics",
+    "wiki_title": "keynesian economics",
+    "summary": "Democrats and their supporters invoke Keynesian economics to justify fiscal stimulus, large-scale public investment, and unemployment-reduction programs (e.g., ARRA, the American Rescue Plan, infrastructure/green spending) as tools to stabilize demand and promote recovery. Critics deploy the same framework to attack the party for encouraging deficit-driven spending, inflation risk, and expanded government roles, while internal party disputes split progressives favoring sustained demand management from moderates who prefer more targeted, fiscally constrained measures.",
+    "queries": [
+      "Is keynesian economics reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "affordable care act",
+    "wiki_title": "affordable care act",
+    "summary": "The Affordable Care Act is wielded as the Democratic Party’s signature policy achievement to portray it as committed to expanding health coverage, consumer protections, and government-led solutions; Democrats cite it to justify further progressive reforms like a public option or Medicare expansion. Opponents and some critics use the law to paint the party as favoring big government, higher costs and mandates, while internal debates over its compromises shape arguments about whether the party should pursue bolder single-payer alternatives.",
+    "queries": [
+      "Is the Affordable Care Act the Democratic Party’s right policy choice?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "barack obama",
+    "wiki_title": "barack obama",
+    "summary": "Obama is frequently invoked as the Democratic Party’s exemplar of pragmatic, coalition-minded governance—cited by supporters to justify incremental policy reforms, centrist messaging, and electability-focused strategies (healthcare compromise, multilateral diplomacy).  At the same time, progressives use him to argue the party tolerated too much compromise and insufficient structural change, while conservatives use him to paint Democrats as elitist or overly liberal, making him a central touchstone in debates over the party’s ideological direction.",
+    "queries": [
+      "What effects has Barack Obama had on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "medicaid expansion",
+    "wiki_title": "medicaid coverage gap",
+    "summary": "The Medicaid coverage gap is frequently invoked by Democrats to highlight the party’s commitment to expanding healthcare access and to blame Republican-controlled states for leaving millions uninsured, framing Democrats as the advocates for low‑income and Southern voters. It also fuels Democratic calls for stronger federal solutions (expanded Medicaid, public options or Medicare for All) when state refusals frustrate incremental reforms.",
+    "queries": [
+      "Is Medicaid expansion within the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "king v. burwell",
+    "wiki_title": "king v. burwell",
+    "summary": "King v. Burwell is often invoked by critics to portray the Democratic Party as responsible for a poorly drafted, legally vulnerable Affordable Care Act and to use the case as evidence that Democratic policy-making creates uncertainty in health coverage. Conversely, Democrats and their allies cite the Court’s outcome as vindication and a rallying point to defend the ACA, push legislative fixes, and argue the party is the protector of Americans’ health benefits against partisan legal attacks.",
+    "queries": [
+      "Was King v. Burwell justified or not in its ruling?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "healthcare.gov",
+    "wiki_title": "healthcare.gov",
+    "summary": "Healthcare.gov is frequently cited by critics to portray the Democratic Party as favoring big-government solutions that produced costly, poorly managed implementation failures, reinforcing narratives about incompetence and fiscal waste; supporters use it to embody Democrats’ commitment to expanding health coverage and protecting the ACA, arguing technical problems do not negate the policy’s goals of broader access and subsidies for low- and middle-income Americans.",
+    "queries": [
+      "What consequences has healthcare.gov brought for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "2010 midterm elections",
+    "wiki_title": "2010 united states elections",
+    "summary": "The 2010 elections are often invoked to criticize the Democratic Party as electorally vulnerable and punished for the Obama administration’s agenda (notably the Affordable Care Act and economic messaging), used by opponents to argue the party suffers from policy overreach and poor messaging; Democrats and some internal critics cite the rout to justify shifting strategy—either toward centrism to regain swing voters or toward stronger grassroots engagement and clearer economic messaging to win back disaffected constituencies.",
+    "queries": [
+      "What effects did the 2010 midterm elections have on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "sunrise movement",
+    "wiki_title": "sunrise movement",
+    "summary": "Sunrise Movement is invoked in debates about the Democratic Party as evidence of a rising progressive pressure that demands Green New Deal–style climate policies and resistance to fossil‑fuel influence, a framing progressives use to justify pushing Democratic incumbents left while critics and centrists cite the group to argue the party is fracturing or tilting too far from pragmatic/centrist voters.",
+    "queries": [
+      "What consequences has the sunrise movement had for Democratic Party policy?"
+    ]
+  },
+  {
+    "id": "C1-7-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "inflation reduction act",
+    "wiki_title": "inflation reduction act",
+    "summary": "Democrats tout the Inflation Reduction Act as a signature legislative win that showcases the party’s competence on climate action, prescription drug costs, and industrial investment while arguing it will reduce deficits and help ordinary voters. Critics and intra‑party rivals use it to attack Democratic priorities—portraying it either as excessive spending that fuels inflation and favors corporate/green subsidies or as too modest for progressive goals—making the law a central symbol in debates over the party’s economic credibility and political direction.",
+    "queries": [
+      "What effects has the inflation reduction act by Democrats had?"
+    ]
+  },
+  {
+    "id": "C1-7-4",
+    "parent": "C1",
+    "level": 3,
+    "topic": "fossil fuel industry",
+    "wiki_title": "fossil fuel",
+    "summary": "Fossil fuels are a central foil in debates about the Democratic Party: Democrats and their allies cite fossil-fuel pollution and climate risk to justify stronger regulations, clean-energy investment, carbon pricing, and ‘just transition’ policies, while opponents portray Democratic proposals as economically harmful, elitist, or anti–energy-independence. At the same time progressives use fossil-fuel ties and campaign donations to criticize centrist Democrats for being too close to industry or too timid on bans and moratoria.",
+    "queries": [
+      "How do people view the fossil fuel industry’s influence on Democrats?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "carbon pricing",
+    "wiki_title": "carbon price",
+    "summary": "Carbon pricing is invoked by many Democrats—especially centrists and pro-business figures—as a market-friendly way to show climate seriousness, raise revenue for clean-energy programs, and win bipartisan support; opponents use it to cast the party as tax‑heavy, while progressives within the party often criticize pricing as insufficient or regressive unless paired with strong emissions caps, rebates, and equity protections.",
+    "queries": [
+      "How do people view carbon pricing within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News routinely frames the Democratic Party as elitist, radical, or responsible for societal and economic harm, amplifying scandals and selective stories to undermine Democratic proposals on issues such as taxation, immigration, health care, climate policy, and election rules. By promoting partisan narratives to conservative audiences, it justifies opposition to Democratic leaders, mobilizes skepticism of their policy agenda, and helps delegitimize Democratic electoral claims.",
+    "queries": [
+      "How do Democrats view Fox News’s influence on public opinion?"
+    ]
+  },
+  {
+    "id": "C1-8",
+    "parent": "C1",
+    "level": 2,
+    "topic": "black lives matter",
+    "wiki_title": "black lives matter",
+    "summary": "Black Lives Matter is often cited to cast the Democratic Party as the party of racial justice—used by supporters to justify policing and criminal-justice reforms, equity measures, and outreach to Black and young voters—while critics portray Democrats as overly influenced by activists, soft on crime, or supportive of radical reforms like “defund the police,” and intra-party debates see moderates pushing back against BLM-driven policy demands.",
+    "queries": [
+      "What consequences has black lives matter had for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C1-8-1",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "defund the police",
+    "wiki_title": "defund the police",
+    "summary": "Conservatives and centrist critics weaponize “defund the police” to portray the Democratic Party as soft on crime and politically extreme, while progressives within the party invoke it to justify reallocating policing funds toward social services and criminal-justice reform; the slogan therefore amplifies intra-party splits and forces Democrats to clarify or temper public-safety policy positions to avoid electoral backlash.",
+    "queries": [
+      "What effects has defund the police had for Democratic Party voters?"
+    ]
+  },
+  {
+    "id": "C1-8-2",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "george floyd",
+    "wiki_title": "george floyd",
+    "summary": "George Floyd’s killing is frequently invoked by Democrats and their allies to justify police and criminal-justice reforms, rally support for racial-justice legislation (e.g., the George Floyd Justice in Policing Act), and frame the party as responsive to systemic racism; opponents use his image to attack Democrats as soft on crime or supportive of disruptive protests, shaping narratives that Democratic policies undermine public safety.",
+    "queries": [
+      "How do people view George Floyd's influence on Democratic Party politics?"
+    ]
+  },
+  {
+    "id": "C1-8-3",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "breonna taylor",
+    "wiki_title": "breonna taylor",
+    "summary": "Breonna Taylor’s killing is frequently invoked by activists and progressive Democrats to demand stronger police accountability, criminal justice reform, and racial-justice policies, and to pressure the party to convert protest energy into concrete legislation. Critics on the right and some centrists use the case to accuse Democrats of either political opportunism or being soft on public safety, making her name a focal point in debates over the party’s priorities and effectiveness.",
+    "queries": [
+      "How do people view Breonna Taylor within Democratic Party debates?"
+    ]
+  },
+  {
+    "id": "C1-8-4",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "congressional black caucus",
+    "wiki_title": "congressional black caucus",
+    "summary": "In debates about the Democratic Party, the Congressional Black Caucus is often cited by progressives and activists to push the party toward stronger commitments on racial justice, voting rights, policing reform, and economic equity, framing Democrats as obligated to prioritize Black voters’ policy priorities. Opponents and skeptics — inside and outside the party — use the caucus to argue the party practices identity-based factionalism or special-interest politics and to criticize Democrats for resisting compromise or centrist approaches.",
+    "queries": [
+      "What effects has the congressional black caucus had on Democratic Party policy?"
+    ]
+  },
+  {
+    "id": "C1-8-6",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "joe biden",
+    "wiki_title": "joe biden",
+    "summary": "Biden is frequently invoked as the face of the Democratic establishment and pragmatic centrism—used by allies to justify moderate, electability-focused policies (bipartisan infrastructure, economic relief, multilateral foreign policy) and a return-to-normal governing style. Opponents and some progressives use him to criticize the party as geriatric, too cautious or beholden to elites, and to blame Democratic stewardship for economic frustrations or failures like the Afghanistan withdrawal.",
+    "queries": [
+      "Is joe biden's leadership within the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1-8",
+    "level": 3,
+    "topic": "patrisse cullors",
+    "wiki_title": "patrisse cullors",
+    "summary": "As a co-founder of the Black Lives Matter movement and advocate of abolitionist, racial-justice reforms, Patrisse Cullors is cited by progressives to press the Democratic Party to adopt bold policing, criminal-justice and racial-equity policies. Conversely, conservatives and centrist critics invoke her rhetoric and controversies to portray Democrats as too radical, anti‑police, or hypocritical—using her as a symbol to justify resisting or distancing from the party’s progressive wing.",
+    "queries": [
+      "What effects has Patrisse Cullors had on Democratic Party perceptions?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral strategy",
+    "wiki_title": "southern strategy",
+    "summary": "In debates about the Democratic Party, the “southern strategy” is invoked to explain why Democrats lost white Southern voters after the civil‑rights era and to frame Democrats as the party that championed civil rights and minority interests. Opponents also use the term to argue Democrats alienated white Southerners or rely on identity‑based appeals, shaping attacks on Democratic racial policies and electoral outreach.",
+    "queries": [
+      "What impacts has the Democratic Party's electoral strategy had?"
+    ]
+  },
+  {
+    "id": "C2-1",
+    "parent": "C2",
+    "level": 2,
+    "topic": "democratic national committee",
+    "wiki_title": "democratic national committee",
+    "summary": "The DNC is frequently invoked as the Democratic Party’s organizational engine—its messaging shop, fundraiser, and rules arbiter—so defenders cast it as essential to coordinating campaigns, protecting the party brand, and getting voters to the polls. Critics use it as shorthand for establishment control and donor influence, accusing it of bias against insurgent or progressive challengers and of narrowing internal debate over policy and nominations.",
+    "queries": [
+      "Is the democratic national committee’s fundraising strategy justified or not?"
+    ]
+  },
+  {
+    "id": "C2-1-2",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "tom perez",
+    "wiki_title": "tom perez",
+    "summary": "Tom Perez is often cited as an embodiment of the Democratic Party’s institutional, pro-labor establishment — supporters point to his labor credentials and focus on party rules, unity, and electability to justify pragmatic, professionalized organizing and centrist coalition-building. Critics, especially on the progressive flank, invoke his DNC leadership to argue the party resists bold populist reforms and protects insider processes over grassroots change.",
+    "queries": [
+      "How do people view tom perez’s role in the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-1-6",
+    "parent": "C2-1",
+    "level": 3,
+    "topic": "ngp van",
+    "wiki_title": "ngp van",
+    "summary": "NGP VAN is cited in debates over the Democratic Party as the backbone of its data-driven campaign operation—championed by supporters as a tool for efficient organizing, targeted persuasion, and fundraising, and attacked by critics as evidence of centralized, consultant-led politics, invasive microtargeting, and dependence on private tech platforms that raise transparency and privacy concerns.",
+    "queries": [
+      "What impacts has ngp van had on Democratic Party campaigns?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "get out the vote",
+    "wiki_title": "get out the vote",
+    "summary": "In debates about the Democratic Party, GOTV is portrayed as the party’s strategic emphasis on mobilizing young, urban, and minority voters through registration drives, mail-in ballots, and turnout operations—used by supporters to justify investment in outreach and voting-access reforms and by critics to accuse Democrats of relying on turnout engineering instead of persuasion. It also underpins Democratic policy advocacy for expanded early and absentee voting and opposition to restrictive ID and purging laws, while opponents frame those priorities as partisan or vulnerable to abuse.",
+    "queries": [
+      "How do people view Democratic get out the vote efforts?"
+    ]
+  },
+  {
+    "id": "C2-2-1",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "stacey abrams",
+    "wiki_title": "stacey abrams",
+    "summary": "Stacey Abrams is often invoked as the leading example of the Democratic Party’s modern strategy—used to justify its emphasis on voting-rights advocacy, grassroots turnout of Black and minority voters, and progressive policy priorities. Opponents and some intra‑party critics deploy her name to argue that Democrats prioritize coalition‑building and identity politics over electability or pragmatic governance.",
+    "queries": [
+      "Is Stacey Abrams’s role in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-2",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "fair fight action",
+    "wiki_title": "fair fight action",
+    "summary": "Fair Fight Action is cited to portray the Democratic Party as proactively fighting voter suppression and expanding access to the ballot—through litigation, advocacy, and mobilization—to justify Democratic priorities like federal voting-rights reforms. Critics, meanwhile, invoke Fair Fight Action to argue Democrats rely on partisan election activism and federal intervention in state election rules, framing those efforts as politically motivated rather than purely protective of democracy.",
+    "queries": [
+      "Is fair fight action a reasonable strategy for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-2-4",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "voter suppression",
+    "wiki_title": "voter suppression",
+    "summary": "Accusations of voter suppression are a core framing Democrats use to portray themselves as defenders of enfranchisement and to justify federal voting-rights laws and measures expanding mail, early, and same-day registration; they argue Republican-backed rules (ID laws, roll purges, and limits on voting methods) are designed to reduce turnout among minority, young, and low-income voters. In public debate the term is used both to mobilize Democratic voters and to delegitimize opponents’ election policies, while opponents counter with election-integrity claims to defend those restrictions.",
+    "queries": [
+      "How do people view voter suppression in relation to Democratic Party strategy?"
+    ]
+  },
+  {
+    "id": "C2-2-6",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "early voting",
+    "wiki_title": "early voting",
+    "summary": "Advocates portray early voting as a Democratic-aligned policy to expand turnout among working, minority, and young voters and to strengthen voting rights, and Democrats use it to justify voting-access laws and mobilization strategies. Opponents—often aligned with Republicans—frame early voting as a partisan advantage or fraud risk and push restrictions, making the practice a focal point in debates over election integrity versus access.",
+    "queries": [
+      "Is the Democratic Party's early voting strategy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "canvassing",
+    "wiki_title": "canvassing",
+    "summary": "Democratic operatives and supporters frame canvassing as proof of the party’s grassroots organizing and a necessary means to expand turnout among young, minority, and swing voters, citing its role when defending policies like broader voter registration, early/absentee voting, and community outreach. Critics portray canvassing as partisan targeting or intrusive and use concerns about accuracy, safety (e.g., pandemic-era door‑knocking), and alleged abuse of registration drives to argue for tighter election rules and voter ID restrictions.",
+    "queries": [
+      "Is the Democratic Party's canvassing justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2-8",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "rock the vote",
+    "wiki_title": "rock the vote",
+    "summary": "Rock the Vote is frequently cited as a mobilizing organ for the Democratic Party because its youth-targeted registration and advocacy amplify progressive priorities and help expand the party’s electoral base. Critics, especially conservatives, counter that the group acts as a de facto Democratic ally that pushes partisan messaging under the guise of nonpartisan civic engagement.",
+    "queries": [
+      "Is rock the vote's link to the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "swing states",
+    "wiki_title": "swing state",
+    "summary": "Swing states are invoked to justify the Democratic Party’s strategic emphasis on centrist messaging, targeted advertising, and resource allocation to win persuadable suburban and working‑class voters essential for electoral college victories. They also fuel intra‑party debates—progressives argue for policies that appeal to blue‑collar swing voters, while critics use swing‑state losses to portray Democrats as out‑of‑touch or strategically inept.",
+    "queries": [
+      "What consequences has concentrating on swing states had for Democrats?"
+    ]
+  },
+  {
+    "id": "C2-3-1",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "electoral college",
+    "wiki_title": "electoral college",
+    "summary": "Democrats frequently frame the Electoral College as a structural bias that has allowed Republican victories despite Democratic popular votes (notably 2000 and 2016), using that claim to justify reforms such as the National Popular Vote compact, abolishing the system, or expanding D.C./territorial representation. Opinions within the party vary—progressives favor outright abolition while pragmatists push state-level fixes and strategic campaigning—yet the critique is commonly used to bolster arguments for voting-rights, redistricting, and electoral-reform policies.",
+    "queries": [
+      "Is the electoral college fair regarding Democratic Party interests?"
+    ]
+  },
+  {
+    "id": "C2-3-5",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "latino voters",
+    "wiki_title": "latino vote",
+    "summary": "In debates about the Democratic Party, appeals to the \"Latino vote\" are used to justify prioritizing immigration reform, bilingual outreach, labor and social-welfare policies as essential to the party’s electoral strategy and image as the defender of immigrant communities. Opponents and critics also invoke the term to accuse Democrats of taking Latino support for granted or of oversimplifying a diverse electorate—arguing the party should either shift to more centrist stances (e.g., on border security or social issues) to win certain subgroups or do more substantive engagement rather than symbolic outreach.",
+    "queries": [
+      "Is the Democratic Party's outreach to latino voters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4",
+    "parent": "C2",
+    "level": 2,
+    "topic": "mail-in voting",
+    "wiki_title": "postal voting",
+    "summary": "Supporters in the Democratic Party portray expanded postal voting as a practical way to increase turnout, protect public health, and enfranchise voters—pushing measures like no‑excuse mail ballots, drop boxes, and USPS funding—while critics reject these changes as politically motivated or vulnerable to fraud; Democrats respond by citing research showing turnout gains and by emphasizing procedural safeguards, making postal voting a central flashpoint in debates over election access and legitimacy.",
+    "queries": [
+      "What effects has mail-in voting had within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ballot drop boxes",
+    "wiki_title": "ballot box",
+    "summary": "Democrats often frame ballot boxes—especially drop boxes—as practical tools to expand access and turnout by making mail-in voting more secure and convenient, using them to justify policies that broaden voting options. When opponents raise fraud or security concerns, Democratic rhetoric typically characterizes those claims as minimal or politically motivated and calls for standardized security and transparency rather than restrictive bans that could suppress votes.",
+    "queries": [
+      "How do people view ballot drop boxes within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "united states postal service",
+    "wiki_title": "united states postal service",
+    "summary": "The United States Postal Service is often invoked in debates about the Democratic Party: Democrats defend funding and protections for the USPS as essential to mail-in voting access and working-class services, framing operational disruptions as partisan voter-suppression targeting their coalition. Opponents counter by citing USPS inefficiency or union influence to argue for privatization, fiscal restraint, or to accuse Democrats of politicizing election administration.",
+    "queries": [
+      "Is Democratic Party support for the united states postal service reasonable?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "ballot harvesting",
+    "wiki_title": "ballot collecting",
+    "summary": "Opponents frequently portray ballot collecting as a tool that disproportionately benefits the Democratic Party and use allegations of ‘ballot harvesting’ to delegitimize Democratic victories and push for tighter voting restrictions. Supporters aligned with the Democratic Party frame it as a practical access measure to boost turnout among the elderly, disabled and remote communities and advocate regulated expansion combined with safeguards.",
+    "queries": [
+      "How do people view ballot harvesting within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "covid-19 pandemic",
+    "wiki_title": "covid-19 pandemic",
+    "summary": "In U.S. debate the COVID‑19 pandemic is used to cast Democrats as proponents of robust, science‑driven federal action—vaccine campaigns, mask/vaccine mandates, testing, lockdowns and broad economic relief—to protect public health and vulnerable communities. Opponents counter that framing by accusing Democrats of government overreach that harmed civil liberties, schools and small businesses, while supporters point to expanded healthcare access and relief programs as necessary and compassionate policy responses.",
+    "queries": [
+      "What effects has the covid-19 pandemic had on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2-4",
+    "level": 3,
+    "topic": "2020 presidential election",
+    "wiki_title": "2020 national electoral calendar",
+    "summary": "The 2020 national electoral calendar — with pandemic-driven primary postponements, expanded mail-in and early voting, and shifted state deadlines — is frequently invoked in debates about the Democratic Party to argue that procedural changes boosted turnout and helped Democratic candidates or, conversely, that those changes undermined electoral norms; Democrats and voting-rights advocates cite the calendar to justify federal protections for absentee and early voting, while critics use its atypical timing to question election administration and the legitimacy of Democratic gains.",
+    "queries": [
+      "Is the Democratic Party's handling of the 2020 presidential election reasonable?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "african american voters",
+    "wiki_title": "african americans",
+    "summary": "African Americans are portrayed as a core Democratic constituency whose voting power and civil-rights priorities are invoked to justify the party’s emphasis on voting access, anti-discrimination, social welfare, and criminal-justice reforms; Democratic leaders cite Black support to legitimize progressive policies and mobilize turnout. Critics use African-American outcomes to either accuse Democrats of taking Black voters for granted and practicing identity‑based pandering, or to argue that Democratic policies have failed Black communities and merit conservative alternatives.",
+    "queries": [
+      "Is the Democratic Party’s approach to african american voters reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "naacp",
+    "wiki_title": "naacp",
+    "summary": "The NAACP is often cited as a litmus test for the Democratic Party’s commitment to racial justice — endorsing and mobilizing Black voters for Democrats while publicly pressuring or criticizing party leaders when legislation or policies (on voting rights, policing, education, and economic equity) are seen as insufficient.  Its endorsements, legal actions, and public statements are used both to bolster claims that Democrats are the primary vehicle for civil-rights progress and to push the party toward more aggressive anti-discrimination and accountability measures.",
+    "queries": [
+      "Is the naacp’s influence on the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-6",
+    "parent": "C2-5",
+    "level": 3,
+    "topic": "black church",
+    "wiki_title": "black church",
+    "summary": "Black churches function as a key Democratic constituency and mobilizing force—clergy endorsements and congregation networks are frequently invoked to portray the party as the defender of civil rights, social welfare, and economic justice for Black communities; at the same time, the churches' often socially conservative stances on issues like LGBTQ rights and abortion are used to criticize Democrats for clashing with or taking Black religious voters for granted.",
+    "queries": [
+      "Is the black church’s influence on the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "young voters",
+    "wiki_title": "youth politics",
+    "summary": "In US debates, youth politics is invoked to cast the Democratic Party as the natural home of young, progressive voters and to justify policies like student-debt relief, climate action, expanded reproductive and LGBTQ rights and campus mobilization efforts. Opponents use the same trope to argue Democrats pander to or radicalize young people, prioritizing identity-driven or costly policies over mainstream economic concerns and older voters’ priorities.",
+    "queries": [
+      "Are Democratic Party young voters' priorities reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "march for our lives",
+    "wiki_title": "march for our lives",
+    "summary": "March for Our Lives is invoked by supporters to depict the Democratic Party as responsive to a youth-led groundswell demanding stricter gun-control measures, giving Democrats grassroots legitimacy to press for background checks, bans on certain weapons and other safety laws. Opponents use the movement to portray Democrats as leveraging tragedy to push partisan, anti–Second Amendment policies or as engaging in emotionalized, performative politics, which critics say undermines the party’s claims to balanced policymaking.",
+    "queries": [
+      "How do people view march for our lives within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "tiktok",
+    "wiki_title": "tiktok",
+    "summary": "TikTok functions as both a campaign and culture-war tool in debates about the Democratic Party: progressive candidates and activists use viral short videos to mobilize young voters, explain policies (student debt, climate, reproductive rights) and humanize the party, while opponents use TikTok controversies to accuse Democrats of tech favoritism, bias, or naivety on security. Policy arguments on the platform usually pit Democratic-leaning calls for regulation, content-moderation transparency, and civic outreach against Republican-led demands for bans and national-security measures that critics frame as politically motivated.",
+    "queries": [
+      "What impact has tiktok had on Democratic Party opinions?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "super pacs",
+    "wiki_title": "super pac",
+    "summary": "Super PACs are portrayed as both a crucial external funding mechanism for Democratic campaigns—used to defend incumbents, counter Republican outside spending, and influence primaries—and a political liability, with critics (including progressives and opponents) arguing their large-donor influence skews Democratic priorities, invites charges of hypocrisy on money-in-politics, and intensifies calls for campaign-finance reform.",
+    "queries": [
+      "How do people view super pacs in Democratic Party politics?"
+    ]
+  },
+  {
+    "id": "C2-7-2",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "correct the record",
+    "wiki_title": "correct the record",
+    "summary": "\"Correct the Record\" is cited in debates about the Democratic Party as a model of the party establishment's organized rapid-response and fact-checking apparatus used to defend Democratic candidates (notably Hillary Clinton) and rebut conservative attacks and alleged misinformation. Supporters portray it as necessary corrective and reputation management for the party, while critics use it to argue the Democratic Party engages in partisan censorship, astroturfing, and centralized message control.",
+    "queries": [
+      "Is the Democratic Party’s correct the record program justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "tom steyer",
+    "wiki_title": "tom steyer",
+    "summary": "Tom Steyer is invoked as a high-profile example of how wealthy outside donors can steer the Democratic Party toward aggressive climate action and anti-Trump mobilization through big spending and turnout programs, with supporters citing him as proof that donor-funded pressure can change party priorities. Critics use Steyer to argue the party is susceptible to plutocratic influence and self-funded candidacies that can distort primaries and marginalize grassroots power.",
+    "queries": [
+      "How do people view tom steyer’s role within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C2-7-5",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "actblue",
+    "wiki_title": "actblue",
+    "summary": "ActBlue is often cited to frame the Democratic Party as powered by small-dollar, grassroots donors—used by supporters to justify the party’s progressive priorities and electoral legitimacy as reflecting widespread individual backing—while critics use it to argue Democrats gain an outsized advantage through a centralized, tech-driven fundraising monopoly that concentrates donor data, amplifies certain factions, and raises campaign-finance and coordination concerns.",
+    "queries": [
+      "Is actblue’s role in the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "dark money",
+    "wiki_title": "dark money",
+    "summary": "Critics seize on the Democratic Party’s use of dark money to charge hypocrisy and secretive influence, portraying Democrats as beholden to undisclosed interests and undermining their claims about transparency. Democrats counter that such spending is a pragmatic response to GOP advantages and donor‑privacy concerns, a contention that fuels partisan battles over disclosure rules and campaign‑finance reform.",
+    "queries": [
+      "Is dark money in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "federal election commission",
+    "wiki_title": "federal election commission",
+    "summary": "Debates about the Democratic Party often invoke the Federal Election Commission as evidence either of systemic failure to curb 'dark money'—a critique Democrats use to press for stricter disclosure and public-financing reforms—or of partisan bias when investigations and rulings touch Democratic committees; critics on both sides cite FEC decisions and enforcement gaps to justify accusing the other party of corrupt fundraising or of weaponizing oversight.",
+    "queries": [
+      "Is criticism of the federal election commission by Democrats justified or not?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "policy platform",
+    "wiki_title": "intergovernmental science-policy platform on biodiversity and ecosystem services",
+    "summary": "Democrats and their allies invoke IPBES reports as authoritative, science-based justification for stronger biodiversity protections, conservation funding, and integrating nature into climate and infrastructure policy, framing the party as evidence-driven and internationally responsible; opponents and skeptics use IPBES citations to criticize Democrats for supporting international environmental mandates, regulatory overreach, or policies that they say may prioritize conservation over jobs and economic growth, while moderates point to the platform to argue for pragmatic, phased approaches.",
+    "queries": [
+      "How do people view the Democratic Party's policy platform today?"
+    ]
+  },
+  {
+    "id": "C3-1-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "nancy pelosi",
+    "wiki_title": "nancy pelosi",
+    "summary": "Nancy Pelosi is often invoked as the embodiment of the Democratic establishment—her legislative skill and institutional leadership are used to justify pragmatic, centrist, governance‑first approaches within the party. Critics on the right and the left use her as a foil for arguments about Democratic elitism, corruption, and resistance to progressive change, framing the party as out of touch or overly cautious.",
+    "queries": [
+      "Are Nancy Pelosi's policy priorities justified or problematic?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "individual mandate",
+    "wiki_title": "individual mandate",
+    "summary": "Opponents invoke the individual mandate to portray the Democratic Party as favoring coercive government intervention and to attack the Affordable Care Act, while Democrats defend it as a pragmatic tool to expand coverage, prevent free-riding, and stabilize insurance markets. Within the party, support for the mandate signals willingness to use regulatory and market-based mechanisms to achieve broader coverage, though some progressives criticize it as an inadequate compromise compared with proposals like Medicare for All.",
+    "queries": [
+      "What effects has the individual mandate had for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "nfib v. sebelius",
+    "wiki_title": "national federation of independent business v. sebelius",
+    "summary": "NFIB v. Sebelius is often invoked in partisan debate to portray the Democratic Party as the architect of major social-welfare reform—used by supporters to demonstrate Democrats’ commitment to expanding healthcare through the ACA—while opponents cite the ruling’s limits on federal power and reliance on the courts to argue that Democratic policy-making is overreaching and dependent on judicial interpretation (influencing critiques of the party’s legislative strategy and judicial priorities).",
+    "queries": [
+      "What impact has nfib v. sebelius had on Democratic Party strategy?"
+    ]
+  },
+  {
+    "id": "C3-1-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "republican party",
+    "wiki_title": "republican party",
+    "summary": "Republicans routinely frame the Democratic Party as promoting big government, high taxes, regulatory overreach, and progressive cultural change—painting Democrats as economically irresponsible and hostile to traditional values. This portrayal is used to justify conservative alternatives and to rally opposition to Democratic policies such as expansive social programs, stricter climate regulations, gun control, and identity-focused initiatives.",
+    "queries": [
+      "How do Democrats view the republican party today?"
+    ]
+  },
+  {
+    "id": "C3-2-2",
+    "parent": "C3",
+    "level": 3,
+    "topic": "ed markey",
+    "wiki_title": "ed markey",
+    "summary": "Ed Markey is often invoked as a leading progressive exemplar within the Democratic Party—his high-profile co-sponsorship of the Green New Deal and advocacy for aggressive climate action, net neutrality, and consumer protections are used to argue that the party should embrace bold regulatory and environmental priorities. Opponents likewise cite Markey to portray the party as drifting leftward or prioritizing activist policy gestures that, they argue, could hurt electoral competitiveness.",
+    "queries": [
+      "Is Ed Markey's role in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "budget reconciliation",
+    "wiki_title": "reconciliation (united states congress)",
+    "summary": "Democratic leaders invoke reconciliation as a necessary legislative shortcut to enact big-ticket priorities — from health care and climate policy to taxes and student-debt relief — with a simple Senate majority when Republicans block bills, framing it as fulfilling campaign promises and overcoming the filibuster. Opponents and some internal critics counter that reliance on reconciliation is partisan procedural gaming that produces narrow, often temporary measures, heightens pressure for party unity, and sidelines bipartisan compromise.",
+    "queries": [
+      "How do people view budget reconciliation in the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C3-2-6",
+    "parent": "C3",
+    "level": 3,
+    "topic": "american petroleum institute",
+    "wiki_title": "american petroleum institute",
+    "summary": "The American Petroleum Institute is frequently cited in debates to criticize Democratic Party climate and energy proposals, funding ads and lobbying that portray Democrats as anti‑energy, job‑killing, and responsible for higher fuel costs; it uses that framing to justify industry resistance to stricter emissions rules and to push for watered‑down or blocked Democratic initiatives.",
+    "queries": [
+      "Is the American Petroleum Institute's influence on Democrats reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "just transition",
+    "wiki_title": "just transition",
+    "summary": "Democrats and progressives invoke 'just transition' to justify ambitious climate policies tied to federal investment, job training and union protections, framing the party as balancing decarbonization with worker and community support (often invoked in Green New Deal–style arguments). Opponents and centrist critics use the term to press Democrats for concrete job safeguards or to attack such policies as costly, impractical, or politicized redistribution.",
+    "queries": [
+      "How do people view the Democratic Party's just transition?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "medicare for all",
+    "wiki_title": "single-payer healthcare",
+    "summary": "Single-payer proposals are a partisan flashpoint used by progressives to push the Democratic Party toward bold, universal reforms like Medicare-for-All and to signal commitment to equity, while moderates and critics use concerns about cost and feasibility to argue for incremental approaches; opponents commonly weaponize single-payer rhetoric to portray Democrats as fiscally irresponsible or ‘socialist,’ shaping public perceptions and primary battles over the party’s direction.",
+    "queries": [
+      "How do voters view medicare for all within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "elizabeth warren",
+    "wiki_title": "elizabeth warren",
+    "summary": "As a leading progressive policy voice, Warren is often invoked to argue that the Democratic Party should prioritize aggressive anti‑Wall Street regulation, consumer protections and structural economic reforms; supporters cite her technocratic, policy‑first approach to justify a leftward, economic‑reform agenda, while opponents use her as evidence that the party is either too radical on business and taxation or too elitist and impractical for general election appeal.",
+    "queries": [
+      "Is Elizabeth Warren's influence within the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-6",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "pharmaceutical industry",
+    "wiki_title": "pharmaceutical industry",
+    "summary": "The pharmaceutical industry is often used to attack Democrats as hypocritical — accused of taking industry donations and cozy partnerships while rhetorically promising lower drug prices and stricter oversight — bolstering narratives of ‘industry capture.’ Democrats, meanwhile, argue engagement with pharma is needed for innovation and public-health interventions, while progressives cite industry behavior to justify policies like Medicare negotiation, price caps, patent reform, and tougher regulation.",
+    "queries": [
+      "How do people view the Democratic Party’s ties to the pharmaceutical industry?"
+    ]
+  },
+  {
+    "id": "C3-3-7",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "public option",
+    "wiki_title": "public health insurance option",
+    "summary": "The public option is used as a litmus test in debates about the Democratic Party—progressives invoke it to pressure the party toward bolder, government-backed health reforms and to criticize leaders for moderation or unfulfilled promises, while centrists point to its absence to justify incrementalism and opponents portray it as evidence the party favors expanded government control and fiscal risk.",
+    "queries": [
+      "Is a public option within the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "build back better",
+    "wiki_title": "build back better",
+    "summary": "Democrats invoke “Build Back Better” as a rallying label to justify ambitious climate, social-welfare and infrastructure spending—framing the party as committed to an equitable, post-crisis economic recovery that taxes wealthier Americans and funds childcare, climate action, and expanded benefits. Critics and cautious centrists use the phrase to attack the party as fiscally irresponsible and prone to government overreach, and its stalled legislative record is often cited to portray Democrats as divided or unable to deliver on major promises.",
+    "queries": [
+      "Is the Democratic Party's build back better plan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-1",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "joe manchin",
+    "wiki_title": "joe manchin",
+    "summary": "Joe Manchin is often deployed as the prototypical conservative/centrist Democrat whose frequent opposition to progressive priorities—on energy, social policy, and major spending and voting-rights bills—is used by critics to claim the Democratic Party is too liberal and alienates moderates/rural voters, and by centrists to justify pragmatic, bipartisan restraint and policy compromises within the party.",
+    "queries": [
+      "Is Joe Manchin’s role in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-2",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "kyrsten sinema",
+    "wiki_title": "kyrsten sinema",
+    "summary": "Kyrsten Sinema is often invoked in debates about the Democratic Party as a symbol of centrist independence — progressives cite her refusal to back major reconciliation spending and to eliminate the filibuster as evidence that moderates obstruct the party’s progressive agenda, while centrists and opponents praise her bipartisanship and fiscal restraint as a corrective to liberal overreach. Her party switch and cross‑party voting are used to frame arguments about Democratic unity, electoral vulnerability in swing states, and whether the party should move left or accommodate moderates.",
+    "queries": [
+      "Is Kyrsten Sinema’s stance within the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "child tax credit",
+    "wiki_title": "child tax credit",
+    "summary": "Democrats commonly cite expansions of the child tax credit to show the party’s commitment to reducing child poverty, supporting working- and middle-class families, and prioritizing direct cash benefits as a key economic justice policy. Critics use debates over the credit’s size and refundability to paint the party as fiscally liberal and prone to costly, dependency-producing programs, shaping attacks on Democratic priorities and competence on spending.",
+    "queries": [
+      "How do people view the child tax credit proposed by Democrats?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "senate parliamentarian",
+    "wiki_title": "parliamentarian of the united states senate",
+    "summary": "In debates about the Democratic Party, the Senate parliamentarian is framed as the procedural gatekeeper that can either legitimize or choke off Democratic priorities—party leaders lean on favorable rulings to justify using reconciliation and other tactics, while progressive critics and allies alike fault the parliamentarian when her interpretations curb ambitious Democratic policy proposals and sometimes call to replace or override her to advance the agenda.",
+    "queries": [
+      "How do people view the Senate Parliamentarian within Democratic Party strategy?"
+    ]
+  },
+  {
+    "id": "C3-5-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "debbie wasserman schultz",
+    "wiki_title": "debbie wasserman schultz",
+    "summary": "Debbie Wasserman Schultz is often invoked as a symbol of the Democratic Party’s establishment—used by critics to argue the party machinery favors centrist/Clinton-era interests and tolerates insider bias (especially after the 2016 DNC email controversy), and by defenders to highlight experienced leadership, fundraising ability, and institutional continuity. Her name crops up in debates about DNC neutrality, internal reform, and the tension between party control and grassroots progressive influence.",
+    "queries": [
+      "Is Debbie Wasserman Schultz’s influence within the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "congressional progressive caucus",
+    "wiki_title": "congressional progressive caucus",
+    "summary": "In discussions about the Democratic Party, the Congressional Progressive Caucus is invoked as the organized left flank that pushes the party toward bold policies—Medicare-for-All, the Green New Deal, higher taxes on the wealthy, stronger labor and social-welfare programs—and is used by allies to justify a more progressive platform. Opponents and centrists invoke the caucus to argue that the party is internally divided or pursuing electorally risky, impractical proposals, framing debates over strategy, primaries, and leadership around its influence.",
+    "queries": [
+      "How do people view the Congressional Progressive Caucus within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C3-6-1",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "pramila jayapal",
+    "wiki_title": "pramila jayapal",
+    "summary": "As a prominent progressive leader in Congress, Pramila Jayapal is used to argue that the Democratic Party should embrace bold pro‑worker, immigrant‑rights, Medicare‑for‑All and climate policies and to hold the party accountable to left‑wing priorities and grassroots activists. Critics — both conservatives and centrist Democrats — invoke her as evidence that the party is moving “too far left” or promoting impractical agendas, while supporters cite her to frame the Democrats as a populist, anti‑corporate alternative.",
+    "queries": [
+      "Is Pramila Jayapal’s influence in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C3-6-8",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "service employees international union",
+    "wiki_title": "service employees international union",
+    "summary": "The Service Employees International Union (SEIU) is a major Democratic constituency and donor that endorses, mobilizes, and finances candidates while framing the party as the champion of low‑wage workers, immigrant communities, healthcare expansion, and public‑sector labor rights. It also pressures and sometimes publicly rebukes Democrats to adopt stronger pro‑labor stances (higher minimum wages, Medicare/healthcare expansions, opposition to privatization), a dynamic critics cast as evidence of organized‑labor influence on party positions.",
+    "queries": [
+      "What impact has the Service Employees International Union had on Democratic strategies?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "afl–cio",
+    "wiki_title": "afl-cio",
+    "summary": "Political operatives and commentators point to AFL-CIO endorsements, funding, and mobilization to portray Democrats as the party of organized labor that favors pro-union, higher-wage, and worker-protection policies. Opponents and some progressives use the AFL-CIO connection to criticize Democrats as beholden to union interests or insufficiently transformative on labor reform, shaping debates over the party’s priorities and credibility on economic justice.",
+    "queries": [
+      "Is afl–cio’s influence within the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "seiu",
+    "wiki_title": "seiu 775",
+    "summary": "SEIU 775 is frequently invoked in debates about the Democratic Party (United States) as a mobilizing labor ally that endorses candidates, finances campaigns, and pushes Democrats to prioritize caregiver wages, Medicaid expansion, and long‑term care funding. Supporters point to it as evidence that Democrats champion working‑class and care‑sector interests, while critics argue its political spending and endorsements can steer the party toward union‑friendly deals or moderate candidates at the expense of other progressive priorities.",
+    "queries": [
+      "Are seiu’s endorsements for Democrats justified or problematic?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "united auto workers",
+    "wiki_title": "united auto workers",
+    "summary": "The United Auto Workers is invoked as both a key labor ally and a watchdog of the Democratic Party, using endorsements, strikes, and public pressure to portray Democrats as either champions of union rights, manufacturing jobs, industrial policy and protectionist trade measures or as betrayers of working-class interests when party leaders support trade deals, concessions, or centrist policies. Its backing or criticism is frequently used in debates to justify progressive labor platforms or to argue that Democrats have lost touch with blue‑collar voters.",
+    "queries": [
+      "Is Democratic Party support for united auto workers justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "american federation of teachers",
+    "wiki_title": "american federation of teachers",
+    "summary": "The AFT is invoked as a major labor ally that pushes the Democratic Party toward pro‑public‑education, collective‑bargaining, and broader labor and social‑welfare policies through endorsements and voter mobilization; critics counter that AFT’s influence drives Democrats to prioritize union protections over charter‑school expansion and market‑oriented education reforms.",
+    "queries": [
+      "How do people view the American Federation of Teachers in Democratic politics?"
+    ]
+  },
+  {
+    "id": "C3-7-4",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "employee free choice act",
+    "wiki_title": "employee free choice act",
+    "summary": "Support for the Employee Free Choice Act is often cited as evidence that the Democratic Party champions organized labor and pro-worker, pro-union policies to rebuild the middle class, mobilize its labor base, and oppose corporate power; opponents use the bill to portray Democrats as favoring coerced unionization, limiting secret-ballot elections, and imposing burdensome rules on employers.",
+    "queries": [
+      "What impacts could Democratic support for the employee free choice act have?"
+    ]
+  },
+  {
+    "id": "C3-7-7",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "working families party",
+    "wiki_title": "working families party",
+    "summary": "The Working Families Party is cited as a progressive pressure group that pushes the Democratic Party leftward—using cross-endorsements, primary challenges, and coalition-building to demand pro-labor, economic-justice, and voting-reform policies. Supporters portray it as a necessary corrective to Democratic centrism, while critics accuse it of undermining party unity or acting as a spoiler in tight races.",
+    "queries": [
+      "How do people view the working families party within Democratic politics?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "social identity politics",
+    "wiki_title": "identity politics",
+    "summary": "In U.S. debates, commentators and politicians cast the Democratic Party as the vehicle for identity-based demands—using that framing to justify its emphasis on policies and messaging that foreground race, gender, sexuality, and immigrant status (e.g., affirmative-action, LGBTQ+ protections, targeted social programs) and to explain its coalition-building. Critics on the right and from the left weaponize the label to argue Democrats prioritize symbolically inclusive or group-specific remedies over universal economic appeals or structural redistribution, saying this alienates working‑class voters and dilutes class-based reform.",
+    "queries": [
+      "What effects has social identity politics had on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C4-1-3",
+    "parent": "C4",
+    "level": 3,
+    "topic": "criminal justice reform",
+    "wiki_title": "criminal justice reform",
+    "summary": "Supporters cite criminal justice reform to cast the Democratic Party as prioritizing racial equity, reduced mass incarceration, and rehabilitation-focused policies (police oversight, bail and sentencing changes); opponents use the issue to argue Democrats are soft on crime or promote risky policing cuts, framing their policies as threats to public safety.",
+    "queries": [
+      "Is the Democratic Party's criminal justice reform reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "police unions",
+    "wiki_title": "police union",
+    "summary": "Police unions are frequently invoked in debates about the Democratic Party as powerful stakeholders that shape its policing agenda—progressives accuse unions of blocking accountability and reforms while centrists point to labor ties and public-safety concerns when defending union-backed candidates. Opponents use police-union endorsements to portray Democrats as either beholden to special interests or soft on crime, fueling intra-party clashes over funding, oversight, and criminal-justice policy.",
+    "queries": [
+      "Do police unions’ positions align with Democratic Party priorities or not?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "lgbt rights",
+    "wiki_title": "lgbtq rights by country or territory",
+    "summary": "Comparisons of LGBTQ rights by country are often deployed by Democratic supporters to justify the party’s pro‑LGBTQ platform—arguing Democrats advance civil rights, marriage equality, and a global human‑rights agenda—and to press for stronger domestic and foreign policies protecting LGBTQ people. Opponents and some internal critics use the same comparisons to portray Democrats as culturally out of touch or to argue the party should moderate its approach on contentious issues like transgender rights or the prioritization of international advocacy.",
+    "queries": [
+      "Is the Democratic Party’s support for lgbt rights reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "equality act",
+    "wiki_title": "equality act",
+    "summary": "The Equality Act is invoked by Democratic leaders and activists as tangible proof of the party’s commitment to expanding civil‑rights protections for LGBTQ+ people and to mobilize progressive and younger voters, framing Democrats as defenders of nondiscrimination. Opponents — including Republicans and some religiously conservative or moderate Democrats — use controversies around the bill to argue the party prioritizes identity‑based reforms over religious liberty or other concerns, and to paint Democrats as extreme on social issues.",
+    "queries": [
+      "How do people view the Equality Act within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "human rights campaign",
+    "wiki_title": "human rights campaign",
+    "summary": "The Human Rights Campaign is often invoked in debates about the Democratic Party as a leading LGBTQ+ advocacy group that endorses and scores Democratic candidates, pressuring the party to adopt and defend policies on nondiscrimination, marriage equality, transgender rights, and inclusive healthcare. Supporters cite its endorsements to signal the party’s civil‑rights credentials, while critics use its influence to argue Democrats prioritize identity‑based agendas over other concerns.",
+    "queries": [
+      "How do people view the Democratic Party's human rights campaign?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "obergefell v. hodges",
+    "wiki_title": "obergefell v. hodges",
+    "summary": "Republicans and Democrats alike cite Obergefell v. Hodges when debating the Democratic Party: supporters point to the ruling as proof that Democrats are the party of LGBTQ equality and civil-rights progress, using it to justify pro–same-sex marriage platforms and anti-discrimination policies; critics use it to paint Democrats as driven by judicial activism and cultural-identity priorities (sometimes at the expense of religious liberty or working-class economic concerns).",
+    "queries": [
+      "What political effects has obergefell v. hodges had for Democrats?"
+    ]
+  },
+  {
+    "id": "C4-2-4",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "don't ask, don't tell",
+    "wiki_title": "don't ask, don't tell",
+    "summary": "Don't Ask, Don't Tell is frequently invoked to criticize Democrats—especially the Clinton-era leadership—for compromising LGBT equality for political or military pragmatism, casting the party as incremental or politically calculating on civil‑rights issues. Conversely, Democrats’ later leadership in repealing DADT is used to frame the party as having evolved into a champion of LGBT inclusion and progressive social policy.",
+    "queries": [
+      "What consequences has don't ask, don't tell had for Democrats?"
+    ]
+  },
+  {
+    "id": "C4-2-5",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "north carolina hb2",
+    "wiki_title": "north carolina",
+    "summary": "North Carolina is cited by Democrats as a prime example of how suburban growth, increasing racial diversity in metros like Charlotte and the Research Triangle, and pro-voter-access policies can produce electoral gains — shaping party arguments for expanded voting rights, Medicaid expansion, education and infrastructure investment. Conversely, critics point to its persistent rural conservatism, contentious voting-law fights and gerrymandering battles to argue Democrats are disconnected from nonurban voters and rely on litigation and identity-based outreach rather than broad-based appeals.",
+    "queries": [
+      "What effects has north carolina hb2 produced in local politics?"
+    ]
+  },
+  {
+    "id": "C4-2-6",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "transgender military ban",
+    "wiki_title": "transgender military ban in the united states",
+    "summary": "Debates over the transgender military ban are used to frame the Democratic Party as the defender of LGBTQ+ rights and inclusion—Democrats argue bans are discriminatory, damage military morale by sidelining qualified service members, and require reversal and nondiscrimination protections—while opponents cast Democrats as prioritizing identity politics over military readiness, making the issue a litmus test in partisan attacks and campaign messaging.",
+    "queries": [
+      "How should the Democratic Party respond to the transgender military ban?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "daca",
+    "wiki_title": "deferred action for childhood arrivals",
+    "summary": "DACA is frequently invoked by Democrats to underscore the party’s image as pro-immigrant and compassionate—used to justify calls for a pathway to citizenship for 'Dreamers' and to mobilize Latino and younger voters—while opponents use it to accuse Democrats of relying on executive action and being weak on border enforcement. Debates over DACA also expose intra-party divides, with progressives pushing for full legalizations and moderates favoring incremental legislative solutions.",
+    "queries": [
+      "What consequences has DACA had on Democratic Party politics?"
+    ]
+  },
+  {
+    "id": "C4-4-1",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "dreamers",
+    "wiki_title": "the dreamers",
+    "summary": "Dreamers are invoked by Democrats as a moral and electoral touchstone to justify DACA, pathways to citizenship, and broader pro-immigrant platforms while mobilizing Latino and young voters. Opponents and some centrists depict this focus as unrealistic or neglectful of border security, using the debate to criticize Democratic strategies and push the party toward compromises or more incremental reforms.",
+    "queries": [
+      "Is the Democratic Party's support for dreamers justified or not?"
+    ]
+  },
+  {
+    "id": "C4-4-2",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "dream act",
+    "wiki_title": "dream act",
+    "summary": "Support for the DREAM Act is often invoked to frame the Democratic Party as the pro‑immigrant, compassionate choice—used to justify comprehensive immigration reform, protections for DACA recipients, and outreach to Latino and young voters. Critics deploy the bill to portray Democrats as favoring “amnesty” and weak border enforcement, while intra‑party debates around the Act highlight tensions between progressive calls for full citizenship and moderates seeking compromise.",
+    "queries": [
+      "Is the Dream Act reasonable policy for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "planned parenthood",
+    "wiki_title": "planned parenthood",
+    "summary": "Planned Parenthood is often used to portray the Democratic Party as the defender of reproductive rights and to justify Democratic policy priorities like federal funding for family‑planning, abortion access, and sex‑education. Opponents, meanwhile, invoke Planned Parenthood to criticize Democrats as extreme on abortion or wasteful with taxpayer dollars, making the organization a recurring litmus test and mobilizing symbol in campaigns and primaries.",
+    "queries": [
+      "What consequences has Planned Parenthood support caused for Democrats?"
+    ]
+  },
+  {
+    "id": "C4-5-2",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "roe v. wade",
+    "wiki_title": "roe v. wade",
+    "summary": "Roe v. Wade is invoked to portray the Democratic Party as the defender of reproductive rights, used by Democrats to justify federal protections, abortion access policies, and appeals to women's autonomy and civil rights; opponents cite Roe (and its reversal) to criticize Democrats as out of step with conservative moral views, rally pro‑life voters, and argue for state control or restrictions on abortion.",
+    "queries": [
+      "How do Democrats view roe v. wade today?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "hyde amendment",
+    "wiki_title": "hyde amendment",
+    "summary": "Within debates about the Democratic Party, the Hyde Amendment functions as a litmus test: progressives and reproductive‑rights advocates use calls to repeal it to push the party toward a firmer pro‑choice stance and to criticize Democrats seen as insufficiently committed, while moderates and some elected Democrats have framed retention as an electoral compromise — and opponents seize repeal efforts to portray the party as endorsing taxpayer‑funded abortion.",
+    "queries": [
+      "Is the hyde amendment still justified within the Democratic Party or not?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "title x",
+    "wiki_title": "title x",
+    "summary": "References to Title X are used to portray the Democratic Party as a defender of reproductive-health access and contraceptive services for low-income Americans—supporting federal funding for clinics and rights-based framing—while opponents invoke Title X to criticize Democrats as endorsing taxpayer-subsidized abortion or government overreach, justifying restrictions, funding cuts, or “gag rule” policies.",
+    "queries": [
+      "Is the Democratic Party's title x justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "pro-choice movement",
+    "wiki_title": "abortion-rights movement",
+    "summary": "Advocates and critics invoke the abortion-rights movement to cast the Democratic Party as the principal defender of reproductive freedom—using party support for legal abortion and opposition to restrictive laws or anti‑abortion judicial picks to mobilize voters and justify Democratic platforms. Opponents and intra‑party critics likewise use abortion debates (especially over limits like late‑term procedures) to portray Democrats as either too extreme or insufficiently committed, shaping narratives about the party’s principles and electability.",
+    "queries": [
+      "What effects has the pro-choice movement had on Democratic Party politics?"
+    ]
+  },
+  {
+    "id": "C4-5-7",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "pro-life movement",
+    "wiki_title": "anti-abortion movements",
+    "summary": "Anti-abortion movements portray the Democratic Party’s pro‑choice stance as morally extreme and use messaging, protests, litigation, and targeted electoral campaigns to mobilize conservative and swing voters against Democratic candidates. They criticize party leaders for defending abortion rights, press for legal restrictions or concessions, and try to shape Democratic rhetoric and policy by making abortion a high‑salience issue in primaries and general elections.",
+    "queries": [
+      "Is the pro-life movement's influence on the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "hispanic and latino americans",
+    "wiki_title": "hispanic and latino americans",
+    "summary": "Hispanic and Latino Americans are frequently invoked as a crucial voting bloc that Democrats must court, and are used to justify the party's focus on immigration reform, bilingual outreach, social-safety-net policies, and coalition-building. Critics counter by pointing to the community’s ideological and national-origin diversity and recent electoral swings to argue the Democratic Party either takes Latino support for granted or panders with identity-based promises instead of delivering economic or cultural responsiveness.",
+    "queries": [
+      "How do people view hispanic and latino americans within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C4-7-2",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "immigration reform",
+    "wiki_title": "immigration reform",
+    "summary": "Immigration reform is used to cast the Democratic Party as the party of immigrant rights—advocating DACA protections, pathways to citizenship, and more humane enforcement—which opponents portray as weak on border security or bordering on ‘open borders.’ It also exposes intra-party splits (progressives pushing for bold pro‑immigrant measures like limiting ICE versus moderates favoring compromise with security), and serves both to mobilize Latino and progressive voters and to attack Democratic motives in electoral debates.",
+    "queries": [
+      "Is the Democratic Party's immigration reform reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-7-3",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "u.s.–mexico border wall",
+    "wiki_title": "mexico–united states border wall",
+    "summary": "The Mexico–United States border wall is frequently used by opponents to cast the Democratic Party as soft on immigration and unwilling to protect national borders, while Democrats point to their opposition to a large physical wall as evidence of prioritizing immigrants' rights, fiscal responsibility, and evidence-based alternatives (technology, personnel, and comprehensive immigration reform). Intra-party debate is usually limited to strategy—broad opposition to Trump-style wall funding unites much of the party, though moderates sometimes accept limited barriers within a larger security and reform package.",
+    "queries": [
+      "Is opposition to the u.s.–mexico border wall justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-4",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "congressional hispanic caucus",
+    "wiki_title": "congressional hispanic caucus",
+    "summary": "The Congressional Hispanic Caucus is invoked as the Democratic Party’s internal Latino voice that pushes the party toward pro‑immigrant, pro‑access and social‑justice policies — e.g., immigration reform (DACA/TPS), expanded healthcare and anti‑discrimination measures — and publicly pressures leaders when they appear to neglect Latino communities. Critics and allies alike use the caucus to argue either that Democrats prioritize Hispanic voters’ interests or that the party offers symbolic support without sufficient policy follow-through.",
+    "queries": [
+      "Is the congressional hispanic caucus within the Democratic Party effective or not?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "univision",
+    "wiki_title": "univision",
+    "summary": "Univision's Spanish-language news and programming often frame the Democratic Party as the defender of Latino and immigrant interests—highlighting immigration reform, DACA, health care access, and social programs—and is frequently cited in public debates as a vehicle for mobilizing Latino voters toward Democrats. Critics on the right use Univision's coverage to allege media bias in favor of the party, while some Latino activists invoke its reporting to pressure Democrats to deliver stronger policy commitments.",
+    "queries": [
+      "What effects has univision had on Democratic Party outreach?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "latinx",
+    "wiki_title": "latinx",
+    "summary": "Supporters within Democratic circles cite 'Latinx' to demonstrate the party’s commitment to LGBTQ+ inclusion and progressive identity politics, using it to justify outreach to gender-nonconforming and younger Hispanic voters. Critics — including rival politicians and some Hispanic community leaders — point to its limited popular acceptance to argue Democrats are out of touch with mainstream Latino constituencies and should favor more conventional labels and centrist messaging.",
+    "queries": [
+      "Is the Democratic Party’s use of latinx reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic and labor policy",
+    "wiki_title": "economic policy",
+    "summary": "Economic policy is used to portray the Democratic Party as favoring progressive taxation, expanded social spending, regulation, and labor-friendly interventions to reduce inequality and invest in infrastructure — framing Democrats as champions of the middle and working class or, to critics, as proponents of big government and higher taxes. It also structures intra-party debates, pitting centrist calls for fiscal restraint against progressive proposals like Medicare for All, the Green New Deal, and student-debt relief.",
+    "queries": [
+      "How do people view the Democratic Party's economic and labor policy?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "minimum wage",
+    "wiki_title": "minimum wage",
+    "summary": "Minimum-wage proposals are a central political symbol for the Democratic Party, used by its progressive and labor-aligned factions to portray Democrats as defenders of working people, economic justice, and inequality reduction (e.g., campaigns for a $15 federal minimum). Critics — including moderates within the party and opponents on the right — use counterarguments about job losses and small-business costs to temper or attack these proposals, making the issue a flashpoint that distinguishes progressive priorities from centrist Democratic strategies.",
+    "queries": [
+      "What consequences has the Democratic Party's minimum wage push caused?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "fight for $15",
+    "wiki_title": "fight for $15",
+    "summary": "Fight for $15 is often cited to portray the Democratic Party as the party of labor and economic justice—used by progressives to justify ambitious wage and inequality policies and to bolster the party’s pro-worker brand—while critics and moderates deploy it to argue Democrats favor costly regulation that could harm jobs and small businesses, making it a flashpoint in intra-party and public debates over the party’s economic priorities.",
+    "queries": [
+      "Is Democratic Party support for the fight for $15 reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-2",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "raise the wage act",
+    "wiki_title": "raise the wage act",
+    "summary": "The Raise the Wage Act is often invoked to portray the Democratic Party as the champion of working people and economic justice — a concrete policy symbol used by progressives to justify calls for higher minimum wages, reduced inequality, and bold federal intervention. Opponents and critics use it to frame Democrats as hostile to small businesses or fiscally imprudent, and it also serves as a flashpoint in intra-party disputes between progressive and moderate factions over policy ambition and political trade‑offs.",
+    "queries": [
+      "Is the Democratic Party's raise the wage act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "national restaurant association",
+    "wiki_title": "national restaurant association",
+    "summary": "The National Restaurant Association often features in debates as the restaurant industry's critic of Democratic policies—arguing that Democratic proposals (higher minimum wages, expanded paid leave, stricter labor and health regulations, or pandemic-related restrictions) impose costly burdens on small restaurants and threaten jobs. It also lobbies for and highlights Democratic support when beneficial (for example, COVID relief), using those moments to frame Democrats either as regulatory threats or as necessary providers of industry aid.",
+    "queries": [
+      "Is the national restaurant association aligned with Democratic Party priorities or not?"
+    ]
+  },
+  {
+    "id": "C5-4-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "right-to-work laws",
+    "wiki_title": "right-to-work law",
+    "summary": "Democrats portray right-to-work laws as Republican-backed attacks that weaken unions, depress wages, and erode workers’ bargaining power, using opposition to those laws to justify pro-union policies and mobilize labor and working-class voters; in messaging battles they cast themselves as defenders of organized labor against a GOP narrative that frames such laws as individual choice.",
+    "queries": [
+      "What consequences do right-to-work laws pose for Democratic Party support?"
+    ]
+  },
+  {
+    "id": "C5-4-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "union pacs",
+    "wiki_title": "pacs",
+    "summary": "Critics frequently invoke PACs to argue that the Democratic Party is beholden to corporate donors or ‘‘dark money,’’ using PAC funding records to paint Democrats as corrupt or insufficiently progressive. Conversely, advocates point to union and progressive PAC support to justify the party’s policy priorities, voter outreach, and to validate more moderate or electable candidates, fueling internal debates between centrists and the progressive wing.",
+    "queries": [
+      "Is union pacs influence on Democrats reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "working-class voters",
+    "wiki_title": "working class in the united states",
+    "summary": "In debates about the Democratic Party, the 'working class' is invoked both to justify the party’s pro-labor, redistributionist agenda (union support, higher wages, expanded safety nets and healthcare) and to criticize Democrats as out-of-touch elites who prioritize identity politics and professional-class interests over blue‑collar economic concerns, shaping arguments over whether the party should pivot to class-based economic populism or maintain progressive social priorities.",
+    "queries": [
+      "How do people view working-class voters’ influence within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C5-5-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "american rescue plan",
+    "wiki_title": "american rescue plan act of 2021",
+    "summary": "Supporters treat the American Rescue Plan Act of 2021 as a flagship accomplishment that Democrats point to when arguing the party delivers rapid, large-scale relief for working families and strengthens social safety nets; critics and opponents use it to characterize the Democratic Party as committed to expansive, inflationary, and partisan big-government spending, a charge used in electoral attacks and intra-party debates over how far to push progressive priorities.",
+    "queries": [
+      "Is the Democratic Party's american rescue plan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "infrastructure investment and jobs act",
+    "wiki_title": "infrastructure investment and jobs act",
+    "summary": "Supporters invoke the Infrastructure Investment and Jobs Act as proof that the Democratic Party can deliver tangible, bipartisan results—funding roads, broadband, climate resilience and job creation—to justify expanded federal investment and pragmatic governance. Critics use it to attack Democrats either as fiscally irresponsible, blaming the party for excessive or pork-laden spending, or from the left as evidence the party won’t pursue bolder climate and inequality reforms like the Green New Deal.",
+    "queries": [
+      "Is the Democratic Party’s infrastructure investment and jobs act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "federal reserve",
+    "wiki_title": "federal reserve",
+    "summary": "In debates about the Democratic Party, opponents often blame the Fed’s low-rate and emergency lending policies for inflation and asset bubbles to attack Democratic spending and regulatory choices, while Democrats credit Fed interventions as essential crisis tools that complement their stimulus and employment-focused agenda. Inside the party, moderates typically defend Fed independence and monetary stimulus, whereas progressives call for tighter oversight, greater transparency, and use of Fed tools to address inequality, climate risk, and Wall Street influence.",
+    "queries": [
+      "How do Democrats view the federal reserve's role?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "student debt forgiveness",
+    "wiki_title": "student debt",
+    "summary": "Student debt is a central talking point Democrats use to argue for economic fairness—framing loan forgiveness, expanded repayment programs, and tuition relief as ways to help young and middle‑class borrowers and reduce inequality—while progressives push broad cancellation and moderates prefer targeted reforms. Opponents frame Democratic proposals as fiscally irresponsible and unfair redistribution that rewards past borrowers and burdens taxpayers, making student‑debt policy a wedge issue in critiques of the party.",
+    "queries": [
+      "What effects might student debt forgiveness have politically for Democrats?"
+    ]
+  },
+  {
+    "id": "C5-6-4",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "department of education",
+    "wiki_title": "list of education ministries",
+    "summary": "Lists of foreign education ministries are used in U.S. debates to provide real-world comparisons that Democrats invoke to justify stronger federal roles in standards, funding, universal pre-K, and equity-focused reforms; opponents counterpose the term “ministry of education” to portray Democratic proposals as European-style, top-down control of curriculum and an erosion of local and parental authority.",
+    "queries": [
+      "Is the department of education's role in the Democratic Party justified?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "public service loan forgiveness",
+    "wiki_title": "public service loan forgiveness",
+    "summary": "Public Service Loan Forgiveness is invoked by Democrats and their allies as evidence the party prioritizes working‑class and public‑sector workers by supporting student‑debt relief and targeted forgiveness, and is used to justify broader proposals for cancelling or restructuring loan debt. Opponents, however, use PSLF’s administrative problems and cost projections to portray Democrats as fiscally careless or promising unsustainable benefits to special groups, framing the party as prone to overreach or poor implementation.",
+    "queries": [
+      "What consequences has public service loan forgiveness caused?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and messaging",
+    "wiki_title": "text messaging",
+    "summary": "Text messaging is a core tool in Democratic campaigns for rapid voter outreach, fundraising, and mobilizing younger and urban constituencies, and is frequently highlighted in public narratives as proof of modernized grassroots engagement. It is also a battleground in debates over privacy, targeted persuasion, and misinformation — with Democrats often pushing for stronger consumer protections and anti-disinformation measures while critics charge that microtargeted texts can be manipulative or invasive.",
+    "queries": [
+      "What consequences has the Democratic Party's media and messaging caused?"
+    ]
+  },
+  {
+    "id": "C6-1-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "wikileaks",
+    "wiki_title": "wikileaks",
+    "summary": "WikiLeaks’ publication of DNC and Clinton-related emails is frequently invoked by critics to portray the Democratic Party as institutionally biased, corrupt, or manipulative—fueling calls for party reform and skepticism about its primary processes. Supporters of the party counter by framing the releases as illicit, foreign-influenced interference that underscores the need for stronger cybersecurity, rules on hacked materials, and defenses against disinformation.",
+    "queries": [
+      "Is the Democratic Party's response to wikileaks justified or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "msnbc",
+    "wiki_title": "ms now",
+    "summary": "MS NOW functions in public debates as a sympathetic media platform that amplifies Democratic messaging and frames issues such as healthcare, climate action, and social justice in ways that justify Democratic policy choices while portraying Republican opposition as obstructionist. It also serves as a venue for internal left‑of‑center critique—pressuring the party toward more progressive positions—while being used by opponents to argue media bias in favor of Democrats.",
+    "queries": [
+      "How do people view msnbc’s influence on Democratic Party messaging?"
+    ]
+  },
+  {
+    "id": "C6-2-6",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "2024 united states presidential election",
+    "wiki_title": "2024 united states presidential election",
+    "summary": "The 2024 election is often invoked to argue the Democratic Party is beset by leadership and messaging problems—used by critics to claim the party needs generational, ideological, or strategic overhaul and by opponents to portray Democrats as electorally vulnerable and out of touch. Supporters counter by framing the outcome as a consequence of campaign failures and external factors while defending the party’s commitments to protecting democracy, reproductive rights, and progressive policy priorities.",
+    "queries": [
+      "Is Democratic Party strategy in the 2024 united states presidential election justified?"
+    ]
+  },
+  {
+    "id": "C6-2-7",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "rachel maddow",
+    "wiki_title": "rachel maddow",
+    "summary": "Rachel Maddow is often invoked by Democrats and their allies to amplify and defend the party’s priorities—portraying the party as fact-driven, institution-defending, and aggressive on issues like oversight, healthcare, and civil rights—while mobilizing the base with investigative, narrative-driven coverage. Opponents and skeptics use her as evidence of mainstream media bias toward the Democratic Party, arguing she promotes partisan talking points, over-hypes stories, or shields establishment figures from more radical criticism.",
+    "queries": [
+      "What effects has Rachel Maddow had on Democratic Party discourse?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "On X, Democratic politicians, campaign accounts, and allied journalists and activists use rapid posts, hashtags, and viral media to promote policies (climate action, voting rights, social justice), shape news agendas, and mobilize supporters, while opponents and disinformation networks use the platform to attack the party, amplify scandals, and allege censorship; changes under Elon Musk have intensified disputes over moderation and misinformation that Democrats argue undermine their messaging and voter-protection efforts.",
+    "queries": [
+      "How do people view Democrats’ engagement on twitter?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "hunter biden laptop controversy",
+    "wiki_title": "hunter biden laptop controversy",
+    "summary": "Opponents invoke the Hunter Biden laptop controversy to portray the Democratic Party as tolerating corruption and nepotism, using the story to justify investigations, media criticism, and voter distrust of Democrats; supporters counter that it’s a politically driven smear or disinformation campaign, framing attacks as partisan double‑standards and defending the party’s leadership.",
+    "queries": [
+      "Is the hunter biden laptop controversy damaging for Democrats or not?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Democrats point to Elon Musk’s public support for Republicans, influence over the X platform, and anti‑union/anti‑regulation posture as evidence that billionaire tech power amplifies misinformation and undermines Democratic priorities, using his actions to argue for stronger tech regulation, antitrust enforcement, and campaign‑finance limits. Opponents counter by portraying attacks on Musk as partisan censorship, but within Democratic debates he is primarily deployed to justify oversight of wealthy private actors and platform accountability.",
+    "queries": [
+      "How do people view Elon Musk’s impact on Democratic politics?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "content moderation",
+    "wiki_title": "content moderation",
+    "summary": "Content moderation is cast as a policy battleground for the Democratic Party, used to justify the party’s support for stronger platform oversight, transparency, and reforms to Section 230 to combat misinformation, hate speech, and protect vulnerable groups. Opponents counter-frame it as partisan censorship, accusing Democrats of relying on platforms to silence conservative viewpoints and influence public discourse.",
+    "queries": [
+      "Is the Democratic Party’s content moderation justified or not?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "priorities usa action",
+    "wiki_title": "priorities usa action",
+    "summary": "Priorities USA Action is cited as the Democratic Party’s high-budget messaging arm that shapes public perceptions by running ads and campaigns which portray the party as pragmatic, electable, and committed to priorities like expanded healthcare, climate action, and economic fairness. Critics use its role and donor base to argue the party is beholden to wealthy interests and establishment consultants, pushing candidates toward centrist, consultant-driven strategies rather than grassroots-driven change.",
+    "queries": [
+      "How do people view Priorities USA Action’s ad spending tactics?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "campaign finance reform",
+    "wiki_title": "campaign finance reform",
+    "summary": "Campaign finance reform is used to cast the Democratic Party as the anti-corruption, pro-transparency force—Democrats commonly advocate limits on big-dollar donors, public financing, disclosure rules and reversing Citizens United to argue they will reduce corporate and wealthy influence. Critics and some centrists counter that such reforms can be politically selective or restrict speech, and intra-party disputes often pit progressive calls for strict limits against pragmatic Democrats who still rely on PACs and high-dollar fundraising.",
+    "queries": [
+      "What effects has campaign finance reform backed by the Democratic Party caused?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "political advertising",
+    "wiki_title": "campaign advertising",
+    "summary": "Campaign advertising is a chief way Democrats package their agenda—emphasizing healthcare, climate action, racial and economic equity, and competency—to persuade swing voters, energize the base, and frame Republicans as extreme or out of touch. Critics point to Democratic use of targeted social‑media ads and negative messaging as evidence of elitist spin or manipulation, fueling calls for greater transparency, limits on microtargeting/dark ads, and debates over campaign‑finance and broadcast rules.",
+    "queries": [
+      "How do people view Democratic Party political advertising?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "the squad",
+    "wiki_title": "squad",
+    "summary": "The label “the Squad” is invoked in debates over the Democratic Party’s direction as a symbol of its progressive wing—used by supporters to justify bold policy agendas, greater racial and generational representation, and grassroots activism, and by critics to portray the party as too radical, fractious, or electorally risky, bolstering centrist arguments for moderation.",
+    "queries": [
+      "Are criticisms of the squad justified within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "ilhan omar",
+    "wiki_title": "ilhan omar",
+    "summary": "Ilhan Omar is often deployed as a shorthand for the Democratic Party’s progressive, pro-immigrant, and anti‑war faction—supporters point to her to argue the party should pursue bold economic justice and foreign‑policy reforms and center racial and gender diversity. Opponents and some moderates use her controversial statements about Israel and religion to criticize the party as too radical or tolerant of antisemitism, arguing it harms electability.",
+    "queries": [
+      "How do people view Ilhan Omar’s role in the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "2016 election interference",
+    "wiki_title": "election interference",
+    "summary": "Claims of election interference are frequently invoked by Democrats to argue for strengthened voting rights, election security, and limits on foreign or disinformation influence, and to challenge the legitimacy of opponents when irregularities or foreign meddling are alleged. Opponents accuse Democrats of weaponizing interference narratives to expand federal oversight or dismiss normal political losses, so the term is used both to justify reformist policies and to contest partisan legitimacy.",
+    "queries": [
+      "What effects has 2016 election interference had on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C6-6-1",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "russian interference",
+    "wiki_title": "cyberwarfare by russia",
+    "summary": "Allegations of Russian cyberwarfare are frequently invoked by Democrats to frame the party as a target of foreign interference and to justify stronger election security, sanctions, intelligence cooperation, and more assertive cyber and foreign-policy responses; critics counter that Democrats weaponize or overstate Russian meddling to delegitimize Republican wins, expand investigative powers, or avoid addressing domestic political weaknesses.",
+    "queries": [
+      "What consequences has russian interference had for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C6-6-4",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "steele dossier",
+    "wiki_title": "steele dossier",
+    "summary": "Political opponents use the Steele dossier to portray the Democratic Party as engaging in partisan, unreliable opposition research and to delegitimize Democratic-led calls for Russia-related investigations; defenders and many Democrats treat the dossier as one contested piece of evidence that helped justify scrutiny of Russian election interference and stronger counterintelligence and election-security responses while stressing the need for verified proof.",
+    "queries": [
+      "How do people view the Steele dossier in Democratic Party discussions?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "mueller investigation",
+    "wiki_title": "mueller special counsel investigation",
+    "summary": "Democrats invoke the Mueller investigation to argue that the 2016 election was compromised and to justify oversight, accountability actions, and election-security reforms, framing the party as defending rule of law and protecting democracy. Opponents counter by pointing to the probe’s failure to establish criminal conspiracy to portray Democratic calls for impeachment and continued investigations as partisan overreach, using the report to undermine Democratic credibility on these issues.",
+    "queries": [
+      "Is the mueller investigation justified or not for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "fusion gps",
+    "wiki_title": "fusion gps",
+    "summary": "Fusion GPS is often cited in arguments about the Democratic Party as the private opposition-research firm behind the Steele dossier, with critics using it to portray Democrats as weaponizing paid research and raw intelligence to smear political opponents and delegitimize investigations, while supporters frame its work as legitimate investigative sourcing that helped justify scrutiny of Trump–Russia ties and the need for oversight.",
+    "queries": [
+      "How do people view Fusion GPS's work related to the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C6-6-7",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "james comey",
+    "wiki_title": "james comey",
+    "summary": "James Comey is invoked by critics to argue the Democratic Party’s 2016 presidential effort was harmed by the FBI’s late-stage handling of Hillary Clinton’s email probe, while Democrats point to his firing and congressional testimony about President Trump as proof of Republican assaults on institutions and to justify demands for accountability, oversight, and stronger norms protecting the rule of law.",
+    "queries": [
+      "Are criticisms of james comey within the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "politifact",
+    "wiki_title": "politifact",
+    "summary": "PolitiFact is frequently cited in debates about the Democratic Party to bolster or undermine its credibility—Democrats lean on favorable rulings to defend policy claims and track promises, while opponents point to negative ratings to portray Democratic leaders as misleading. Its fact-checks shape public perceptions of Democratic competence and honesty, but those effects are often contested as both sides accuse PolitiFact of partisan bias.",
+    "queries": [
+      "Is politifact’s scrutiny of Democratic Party claims fair or not?"
+    ]
+  },
+  {
+    "id": "C6-7-5",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "for the people act",
+    "wiki_title": "for the people act",
+    "summary": "Democrats tout the For the People Act as proof of the party’s commitment to expanding voting access, curbing dark money, and strengthening ethics, using it to justify their reform agenda and progressive credentials. Opponents frame the bill as federal overreach and a partisan power grab to entrench Democratic advantage, and disputes over its passage are used to criticize the party’s strategy and highlight intra-party divisions.",
+    "queries": [
+      "Is supporting the for the people act reasonable for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "party organization and governance",
+    "wiki_title": "governance",
+    "summary": "Discussions of governance around the Democratic Party are used to justify the party’s emphasis on strengthening public institutions, regulatory oversight, transparency, and technocratic policymaking—framing Democrats as proponents of accountable, inclusive government that tackles complex problems through expert-driven rules and public investment. Opponents counter-frame the same governance claims as evidence of bureaucratic overreach, centralized control, or elite rule, using 'governance' to argue for deregulation, state/local autonomy, or limits on administrative power.",
+    "queries": [
+      "Are reforms to the Democratic Party's party organization and governance justified?"
+    ]
+  },
+  {
+    "id": "C7-1-1",
+    "parent": "C7",
+    "level": 3,
+    "topic": "jaime harrison",
+    "wiki_title": "jaime harrison",
+    "summary": "Jaime Harrison is often invoked in debates over the Democratic Party (United States) as an emblem of its fundraising muscle and establishment strategy—supporters cite his high-profile, big-dollar Senate run and DNC leadership to argue the party can compete nationally and champion diverse leadership, while critics use him to argue the party relies on centralized, donor-driven tactics that marginalize progressive grassroots priorities.",
+    "queries": [
+      "How do people view jaime harrison's leadership within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7-1-5",
+    "parent": "C7",
+    "level": 3,
+    "topic": "donna brazile",
+    "wiki_title": "donna brazile",
+    "summary": "Donna Brazile is cited in debates about the Democratic Party as both an establishment insider who defends the party’s pragmatism and outreach to Black voters and as a whistleblower whose 2016 disclosures have been used by critics to argue the DNC favors certain candidates and lacks transparency; supporters point to her leadership and diversity advocacy, while opponents use her revelations to justify calls for reform and neutrality.",
+    "queries": [
+      "How do people view donna brazile’s influence within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "superdelegates",
+    "wiki_title": "superdelegate",
+    "summary": "Critics invoke superdelegates as evidence that the Democratic Party is controlled by insiders who can override primary voters and rig nominations, fueling narratives about elitism and calls for greater grassroots democracy. Supporters counter that they provide a stabilizing, experienced check to promote electability and party unity, framing reforms to their power as a balance between democratic legitimacy and pragmatic strategy.",
+    "queries": [
+      "Are superdelegates in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2-2",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "pledged delegates",
+    "wiki_title": "delegate (american politics)",
+    "summary": "In discussions about the Democratic Party, delegates—especially the role of superdelegates and the rules allocating pledged delegates—are used as shorthand for whether the party is governed by grassroots voters or by party insiders; critics cite delegate rules to claim the party protects establishment choices and suppresses reformers, while defenders argue delegate safeguards preserve electability, coalition-building and party unity. Debates over caucus vs. primary allocation, proportional rules, and delegate binding are therefore central to arguments about the party’s fairness, inclusivity, and democratic legitimacy.",
+    "queries": [
+      "What impacts have pledged delegates had on the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "hillary clinton",
+    "wiki_title": "hillary clinton",
+    "summary": "Clinton is frequently invoked as the face of the Democratic establishment—used by allies to argue the party is experienced, pragmatic, electable, and committed to centrist, internationalist governance—and by critics (both Republicans and left-wing progressives) as shorthand for elite influence, corporate ties, hawkish foreign policy, and political untrustworthiness to push for either more conservative attacks or a shift toward populist/progressive alternatives.",
+    "queries": [
+      "Is Hillary Clinton’s influence in the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "2016 democratic primaries",
+    "wiki_title": "2016 democratic party presidential primaries",
+    "summary": "The 2016 Democratic primaries are often invoked as evidence of a party torn between establishment centrism (Clinton/DNC) and insurgent progressive populism (Sanders), used to criticize the Democratic Party for privileging electability and insider control (superdelegates, perceived DNC bias) over grassroots democratic reform, or conversely to justify pragmatic centrism as necessary to win general elections.",
+    "queries": [
+      "How do people view the 2016 democratic primaries within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "democratic national convention",
+    "wiki_title": "democratic national convention",
+    "summary": "Party operatives and allies use the Democratic National Convention to showcase unity, legitimize the presidential ticket, and broadcast the party’s platform priorities (e.g., healthcare, climate, civil rights) as central Democratic commitments; opponents and intra‑party critics portray it as a choreographed, establishment‑driven spectacle that masks factional tensions and elite control, often pointing to superdelegates and platform compromises.",
+    "queries": [
+      "Is the democratic national convention still necessary or not?"
+    ]
+  },
+  {
+    "id": "C7-3-5",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "keynote speech",
+    "wiki_title": "keynote",
+    "summary": "At Democratic Party events, keynote speeches are deployed to set the party’s narrative — spotlighting priorities (e.g., healthcare, climate, social justice), elevate rising leaders, and signal whether the party leans establishment or progressive. Opponents and intra‑party critics seize on keynote choices and rhetoric to portray Democrats as either elitist/out‑of‑touch or dangerously radical, so keynotes become focal points for framing and contesting the party’s direction.",
+    "queries": [
+      "What effects has the Democratic Party’s keynote speech had?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "democratic congressional campaign committee",
+    "wiki_title": "democratic congressional campaign committee",
+    "summary": "The Democratic Congressional Campaign Committee is often cited in debates over the party’s direction because it steers House races by allocating funds, endorsing and recruiting candidates—frequently prioritizing perceived electability and centrist pragmatism. Critics use its endorsements to argue the Democratic Party is too establishment-leaning and cautious on progressive reforms, while supporters point to its role in winning seats and defending a practical path to advancing Democratic policy priorities.",
+    "queries": [
+      "What impact has the democratic congressional campaign committee had on Democrats?"
+    ]
+  },
+  {
+    "id": "C7-4-1",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "national republican congressional committee",
+    "wiki_title": "national republican congressional committee",
+    "summary": "The NRCC shapes public debates about the Democratic Party by running targeted attack ads, opposition research, and messaging campaigns that portray Democrats as fiscally irresponsible, ideologically extreme, or out of touch with swing voters. It amplifies opposition to Democratic policy priorities (higher taxes, expanded social programs, looser regulation and immigration stances) to justify electing Republican challengers and to mobilize donors and voters against Democratic incumbents.",
+    "queries": [
+      "How do people view the national republican congressional committee's tactics?"
+    ]
+  },
+  {
+    "id": "C7-4-2",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "cheri bustos",
+    "wiki_title": "cheri bustos",
+    "summary": "Bustos is often invoked as an example of the Democratic Party’s pragmatic, center‑leaning, midwestern strategy—used to argue the party should emphasize electability, pro‑working‑class economic messaging, and moderate policies to win competitive districts. Critics counter that her establishment ties and post‑Congress lobbying work illustrate a party tendency to prioritize fundraising and centrist compromise over progressive reform.",
+    "queries": [
+      "How do people view cheri bustos’s political positions?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "sean patrick maloney",
+    "wiki_title": "sean patrick maloney",
+    "summary": "Sean Patrick Maloney is often invoked as a symbol of the Democratic Party’s centrist electoral strategy—critics cite his tenure as DCCC chair and 2022 loss to argue that moderate, nationally driven tactics fail in suburban swing districts, while defenders point to his leadership and LGBTQ representation to justify pragmatic, inclusive approaches aimed at winning broad coalitions. His career and defeat are frequently used in internal debates over whether the party should shift left on policy or double down on moderate messaging and campaign infrastructure.",
+    "queries": [
+      "How do people view sean patrick maloney within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7-4-5",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "redistricting",
+    "wiki_title": "redistricting",
+    "summary": "Democrats frequently use redistricting as a rallying issue to accuse Republicans of partisan gerrymandering that dilutes Democratic and minority votes, justifying court challenges, support for independent commissions, and federal voting-rights enforcement to restore fair representation and competitiveness. At the same time, they frame some district-drawing measures (like majority‑minority districts or protective maps for incumbents) as necessary remedies for historic disenfranchisement, so redistricting becomes a central tool in Democratic claims about electoral legitimacy and reform.",
+    "queries": [
+      "Is the Democratic Party’s redistricting approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-6",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "incumbency advantage",
+    "wiki_title": "incumbent",
+    "summary": "In debates about the Democratic Party, being an \"incumbent\" is invoked to portray elected Democrats as experienced stewards who deserve re-election and institutional support (emphasized in fundraising and arguments for policy continuity), or conversely to criticize them as an entrenched establishment resisting progressive change or reform. Opponents also use incumbency to attack perceived complacency or corruption, while intra-party challengers frame open seats or primary fights as opportunities to break incumbency advantage and push bolder policies.",
+    "queries": [
+      "How do people view incumbency advantage in the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "state democratic parties",
+    "wiki_title": "washington state democratic party",
+    "summary": "The Washington State Democratic Party is often invoked as a Pacific Northwest exemplar of the national party’s direction — praised by supporters as a model of progressive governance, strong grassroots organizing, and pro-labor/environmental priorities, and criticized by opponents as evidence of liberal overreach. It also features in intra-party debates over endorsements and strategy, used to illustrate tensions between the party’s progressive wing and more moderate national approaches.",
+    "queries": [
+      "Is state democratic parties' influence reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-2",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "gubernatorial elections",
+    "wiki_title": "governor",
+    "summary": "Governors are frequently cited as concrete proof points about the Democratic Party’s governing competence and electability—party defenders point to Democratic governors’ record on expanding Medicaid, climate action, and public education as evidence the party delivers pragmatic, effective policies. Opponents and internal critics likewise seize on governors’ pandemic mandates, tax choices, or bipartisan compromises to argue Democrats are either overreaching and fiscally irresponsible or insufficiently progressive, shaping debates between moderates and left-wing factions.",
+    "queries": [
+      "Is the Democratic Party's approach to gubernatorial elections reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-6-3",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "primary elections",
+    "wiki_title": "primary election",
+    "summary": "Within debates about the Democratic Party, primaries are framed as the mechanism that reveals whether the party is grassroots-driven or controlled by party elites — critics point to caucuses, superdelegates, and scheduling rules as evidence the party rigs nominations against progressives, while defenders argue party oversight protects electability and coalition-building. Controversies over open vs. closed primaries, superdelegate power, and primary calendars therefore fuel calls for reforms (expanded participation, proportional allocation) or for preserving party gatekeeping to maximize general-election success.",
+    "queries": [
+      "Are primary elections in the Democratic Party fair or not?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "party platform",
+    "wiki_title": "political platform",
+    "summary": "The Democratic Party platform is used publicly to justify and promote the party’s priorities—such as expanded health care, climate action, reproductive rights, labor protections, immigration reform, and racial/economic equity—and to frame Democrats as favoring government intervention and progressive, evidence-based policy solutions. Critics and intra‑party rivals use the platform to attack Democrats as fiscally irresponsible, overly regulatory, or too radical (or conversely too centrist), turning specific planks into focal points for accountability, electoral messaging, and debates over the party’s direction.",
+    "queries": [
+      "How do people view the Democratic Party's party platform?"
+    ]
+  },
+  {
+    "id": "C7-7-6",
+    "parent": "C7-7",
+    "level": 3,
+    "topic": "assault weapons ban",
+    "wiki_title": "assault weapons ban",
+    "summary": "Advocates within the Democratic Party use calls for assault weapons bans to frame the party as committed to gun-violence prevention and public-safety regulation, while critics portray those proposals as evidence the party is hostile to the Second Amendment; the topic is therefore a focal point for partisan attacks, voter mobilization, and intra-party tensions between electoral-minded moderates and progressive gun-control advocates.",
+    "queries": [
+      "Is an assault weapons ban by the Democratic Party reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "legal and constitutional issues",
+    "wiki_title": "all-party parliamentary group for legal and constitutional affairs",
+    "summary": "U.K. all‑party parliamentary groups for legal and constitutional affairs are sometimes cited in American commentary as a model of cross‑party, institutional handling of constitutional questions, and used to bolster Democratic arguments for protecting judicial independence, voting rights, and other rule‑of‑law measures. Conversely, opponents reference such groups to argue Democrats either blindly follow international norms or are selectively invoking ‘constitutional safeguards’ to justify partisan reforms like court‑packing or expansive executive checks.",
+    "queries": [
+      "How do people view the Democratic Party's legal and constitutional issues?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "supreme court",
+    "wiki_title": "supreme court",
+    "summary": "The Supreme Court is portrayed by Democrats as a pivotal political institution whose conservative majority can undo reproductive rights, voting protections, and regulatory safeguards, bolstering Democratic arguments for aggressive judicial nominations and structural reforms (court expansion, term limits) to restore balance. Critics counter that such reforms politicize the judiciary, so debates about the Court are used to rally the Democratic base and justify judicial-focused policy and electoral strategies.",
+    "queries": [
+      "Is Democratic Party criticism of the supreme court justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "judicial nominations",
+    "wiki_title": "national judicial appointments commission",
+    "summary": "Proposals for a national judicial appointments commission are used by Democrats to argue the party seeks to depoliticize and diversify the federal bench and to check conservative court activism, framing Democrats as defenders of judicial independence and fair process. Critics—especially Republican opponents—use the idea to portray Democrats as trying to circumvent presidential and senatorial prerogatives or to entrench liberal judicial outcomes.",
+    "queries": [
+      "Are the Democratic Party's judicial nominations justified or not?"
+    ]
+  },
+  {
+    "id": "C8-1-2",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "merrick garland",
+    "wiki_title": "merrick garland",
+    "summary": "Democrats point to Merrick Garland as a symbol of the party’s commitment to institutionalism and the rule of law, using his restrained, expert-judge image to justify measured legal and judicial approaches; opponents use his tenure to argue either that the party is too cautious about holding Trump-era actors accountable (criticism from the left) or that Democrats weaponize the Justice Department (criticism from the right).",
+    "queries": [
+      "How do people view Merrick Garland’s independence from partisan pressure?"
+    ]
+  },
+  {
+    "id": "C8-1-3",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "brett kavanaugh",
+    "wiki_title": "brett kavanaugh",
+    "summary": "Brett Kavanaugh’s contentious 2018 confirmation and his subsequent conservative decisions are often invoked by Democrats to argue that Republican-led, highly political judicial appointments threaten abortion rights, labor and regulatory protections and therefore justify calls for judicial ethics reforms and Democratic mobilization. Democrats also use the confirmation fight to portray the GOP as prioritizing power over accountability, framing policy battles as necessary checks on a conservative judiciary.",
+    "queries": [
+      "Is criticism of Brett Kavanaugh within the Democratic Party justified?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "amy coney barrett",
+    "wiki_title": "amy coney barrett",
+    "summary": "Amy Coney Barrett is often invoked in arguments about the Democratic Party as evidence of Republican capture of the federal judiciary: Democrats cite her rapid confirmation and conservative, originalist rulings to argue that Democratic policy goals (especially abortion rights, the Affordable Care Act, voting and administrative-regulatory protections) are endangered and to mobilize opposition to Republican judicial appointments. Conversely, Republicans portray her as a principled check on liberal activism and use attacks on Democrats’ judicial critiques to delegitimize Democratic policy claims.",
+    "queries": [
+      "Is appointing Amy Coney Barrett justified or problematic in partisan terms?"
+    ]
+  },
+  {
+    "id": "C8-1-7",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "senate judiciary committee",
+    "wiki_title": "united states senate committee on the judiciary",
+    "summary": "The Senate Judiciary Committee is a central theater for arguments about the Democratic Party’s legal agenda: Democrats use it to justify promoting civil‑rights, reproductive‑rights, and voting‑rights priorities through confirmations and oversight, while opponents use committee fights to accuse the party of politicizing the courts or pushing ideological tests — pressures that in turn shape Democratic messaging and confirmation strategy.",
+    "queries": [
+      "Are the Democratic Party's senate judiciary committee priorities justified?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "voting rights act",
+    "wiki_title": "voting rights act of 1965",
+    "summary": "Democrats invoke the Voting Rights Act of 1965 as a foundational justification for federal oversight and proactive policies to expand voter access, oppose strict ID laws and purges, and push to restore preclearance and stronger enforcement. In public debates this frames the party as the defender of minority suffrage and civil-rights protections, while critics cast the party’s reliance on the law as politically motivated.",
+    "queries": [
+      "Is the voting rights act still justified?"
+    ]
+  },
+  {
+    "id": "C8-2-1",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "shelby county v. holder",
+    "wiki_title": "shelby county v. holder",
+    "summary": "Shelby County v. Holder is often cited to argue that the Court’s rollback of federal voting oversight enabled Republican-led state laws that Democrats condemn as voter suppression, framing the Democratic Party as the defender of minority voting rights and the chief advocate for restoring federal protections. Conversely, opponents invoke the decision to portray Democratic efforts to reinstate preclearance or expand federal election oversight as partisan attempts to federalize and control elections.",
+    "queries": [
+      "What political effects has Shelby County v. Holder produced?"
+    ]
+  },
+  {
+    "id": "C8-2-6",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "department of justice",
+    "wiki_title": "ministry of justice",
+    "summary": "References to a ministry/department of justice (analogous to the U.S. Department of Justice) are used to frame the Democratic Party as either a protector of civil rights, voting access, anti‑corruption enforcement, and criminal‑justice reform, or — by opponents — as a party that politicizes federal prosecutions and weaponizes legal institutions against conservatives. Debates about the justice ministry thus shape arguments over prosecutorial independence, policing and immigration enforcement, and whether Democratic policies prioritize accountability and rights or partisan advantage.",
+    "queries": [
+      "Is the Democratic Party's use of the department of justice reasonable?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "citizens united v. fec",
+    "wiki_title": "citizens united v. fec",
+    "summary": "Citizens United v. FEC is invoked by Democrats and their allies to argue that big‑money and independent spending have distorted American elections and to justify the party’s push for campaign‑finance reform, public financing, and efforts to overturn or blunt the decision; opponents portray Democrats as using the ruling as a political explanation for losses and as a pretext for policies critics call restrictions on political speech.",
+    "queries": [
+      "Is citizens united v. fec reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "disclose act",
+    "wiki_title": "disclose act",
+    "summary": "Democrats invoke the DISCLOSE Act in public debates to portray their party as fighting ‘dark money’ and corporate influence by demanding stronger disclosure rules and campaign-finance transparency, framing opponents as defenders of special interests; critics use it to argue Democrats favor regulatory overreach that could chill political speech.",
+    "queries": [
+      "How do people view the disclose act within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "moveon.org",
+    "wiki_title": "moveon",
+    "summary": "MoveOn functions as a high-profile progressive pressure group that frames the Democratic Party as needing to adopt bolder, left-leaning policies and greater grassroots accountability, using mass petitions, endorsements and activist campaigns to shape primary and general-election debates. It typically pushes Democrats toward positions on climate action, expanded healthcare and economic justice while criticizing centrist, corporate-aligned, or perceived overly cautious party leaders.",
+    "queries": [
+      "Is moveon.org's influence on the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "corporate personhood",
+    "wiki_title": "corporate personhood",
+    "summary": "Progressives and reformers invoke corporate personhood to criticize the Democratic Party’s susceptibility to corporate money and to push for overturning Citizens United, tighter campaign finance rules, stronger antitrust enforcement, and greater corporate accountability. Conversely, centrist or business-aligned Democrats are often accused of accommodating corporate personhood—defending market-friendly policies and fundraising ties—which frames intra-party conflicts over regulation, populist messaging, and reform priorities.",
+    "queries": [
+      "Is corporate personhood compatible with the Democratic Party's values?"
+    ]
+  },
+  {
+    "id": "C8-3-7",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "center for responsive politics",
+    "wiki_title": "opensecrets",
+    "summary": "OpenSecrets' donor, lobbying and revolving‑door data are routinely used in debates about the Democratic Party (United States): critics cite its reports to argue Democrats are beholden to corporate and big‑money interests, while reformist Democrats and progressives use the same evidence to demand greater transparency, criticize establishment fundraisers, and push for stricter campaign‑finance rules.",
+    "queries": [
+      "What consequences has the center for responsive politics caused for Democrats?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "gerrymandering",
+    "wiki_title": "gerrymandering",
+    "summary": "In debates about the Democratic Party, accusations of gerrymandering are often used to explain why Democrats can win the popular vote yet win fewer legislative seats, fueling Democratic support for independent redistricting commissions, stronger Voting Rights Act enforcement, and litigation against partisan maps. Opponents counter by highlighting Democratic-friendly urban packing or demographic patterns, so gerrymandering frames disputes over structural fairness, minority representation, and the legitimacy of electoral outcomes.",
+    "queries": [
+      "How do people view the Democratic Party's gerrymandering?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "rucho v. common cause",
+    "wiki_title": "rucho v. common cause",
+    "summary": "Rucho v. Common Cause is cited in debates about the Democratic Party to argue that the Supreme Court’s ruling barring federal review of partisan gerrymandering has enabled Republican-drawn maps that Democrats say entrench GOP power and dilute Democratic representation, boosting Democratic calls for independent redistricting commissions and federal voting-rights reforms. Supporters of the decision counter that it frames Democratic grievances as political questions for legislatures rather than courts, used to justify state-level mapmaking that disadvantages Democrats.",
+    "queries": [
+      "Is rucho v. common cause reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "voter id laws",
+    "wiki_title": "voter identification laws",
+    "summary": "Voter ID laws are a frequent partisan battleground: Democrats typically criticize strict photo‑ID requirements as tools that disproportionately disenfranchise minorities, young and low‑income voters and therefore advocate for softer ID rules, same‑day registration, and expanded access; opponents portray Democratic resistance as neglecting election security. Debates over voter ID thus frame the Democratic Party either as defenders of voting access for marginalized groups or as standing against measures claimed to prevent fraud, shaping public perceptions and legislative priorities.",
+    "queries": [
+      "Are the Democratic Party’s positions on voter id laws reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "brennan center for justice",
+    "wiki_title": "brennan center for justice",
+    "summary": "Democratic politicians and advocates frequently cite the Brennan Center’s legal research and policy proposals to justify party priorities—expanding access to voting, curbing big-money influence, and advancing progressive election and labor reforms—as evidence that the Democratic Party defends democratic inclusion and equal justice. Opponents use the Brennan Center’s partisan reputation to challenge or discredit Democratic arguments on voter fraud, ID laws, and election security, framing those proposals as politically motivated.",
+    "queries": [
+      "What impact has brennan center for justice had on Democratic Party strategy?"
+    ]
+  },
+  {
+    "id": "C8-5-6",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "voter fraud",
+    "wiki_title": "electoral fraud",
+    "summary": "Allegations of electoral fraud are often used by critics to claim the Democratic Party wins through illegitimate means, a framing that delegitimizes Democratic victories and is cited to justify restrictive voting laws and audits. Democrats typically push back—arguing fraud is rare and that such claims are partisan—and use discussions of integrity to advocate for measures (like secure mail-in voting and anti‑suppression policies) that expand access while guarding against abuse.",
+    "queries": [
+      "What consequences has voter fraud talk from the Democratic Party had?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "filibuster",
+    "wiki_title": "filibuster",
+    "summary": "Debates over the filibuster are central to how people judge the Democratic Party’s ability and willingness to enact its agenda: progressives portray the filibuster as an undemocratic GOP tool that must be reformed or abolished so Democrats can pass voting rights, climate and social policy, while moderates and some Democrats defend it as a check that fosters bipartisanship and protects minority interests. Critics on the right and centrists use filibuster fights to accuse Democrats either of legislative impotence when they can't clear it or of seeking unchecked power if they push to eliminate it, shaping narratives about competence and overreach.",
+    "queries": [
+      "Is the Democratic Party's use of the filibuster justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-3",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "chuck schumer",
+    "wiki_title": "chuck schumer",
+    "summary": "As Senate Democratic leader, Chuck Schumer is frequently invoked as the party’s establishment, pragmatic tactician—used by allies to justify cautious, institution-focused strategies (negotiating compromises, managing confirmations and Senate rules) and to argue that the party can deliver governing results. Opponents on the left use him to criticize Democrats for diluting progressive ambitions, while conservatives portray him as a procedural hard-liner who weaponizes Senate power against them.",
+    "queries": [
+      "Is chuck schumer’s leadership within the Democratic Party justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "nuclear option",
+    "wiki_title": "nuclear option",
+    "summary": "Democrats portray the nuclear option as a pragmatic way to overcome Republican obstruction and confirm their judicial and executive nominees; critics counter that when Democrats used it in 2013 they eroded Senate norms, invited partisan retaliation, and weakened minority rights in the chamber.",
+    "queries": [
+      "How do people view the nuclear option within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C8-6-6",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "cloture",
+    "wiki_title": "cloture",
+    "summary": "Cloture figures in arguments about the Democratic Party as a procedural lever Democrats cite to overcome GOP filibusters and advance their legislative and nomination priorities, prompting calls to lower or eliminate cloture thresholds to enact agenda items. Opponents counter that changing cloture rules is a partisan power grab that weakens Senate norms and minority protections, so cloture rhetoric is used both to justify majoritarian reform by Democrats and to criticize them for eroding institutional checks.",
+    "queries": [
+      "How do people view cloture within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "impeachment of donald trump",
+    "wiki_title": "second impeachment of donald trump",
+    "summary": "The second impeachment is invoked by supporters to cast the Democratic Party as a defender of constitutional norms and accountability, justifying aggressive oversight, prosecutions, and rhetoric against political violence and extremism tied to Trump. Critics use it to argue Democrats are partisan and vindictive—framing party leaders as willing to weaponize impeachment and legal mechanisms, a narrative that paints the party as polarizing and hostile to political opponents.",
+    "queries": [
+      "How do people view the impeachment of Donald Trump?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "adam schiff",
+    "wiki_title": "adam schiff",
+    "summary": "Adam Schiff is often invoked as the Democratic Party’s public face for aggressive oversight and accountability—used to justify the party’s emphasis on impeachment, investigations into Trump-era misconduct, and a security‑focused approach to governance. Conservatives portray him as a partisan or ‘deep state’ figure weaponizing intelligence, while some progressives cast him as establishment‑oriented, making him a focal point in disputes over how the party balances investigative zeal with broader reform agendas.",
+    "queries": [
+      "What impact has Adam Schiff had on the Democratic Party's image?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "jerry nadler",
+    "wiki_title": "jerry nadler",
+    "summary": "Jerry Nadler is often cited as the Democratic Party’s legal-oversight figurehead: supporters invoke his role as House Judiciary chair to justify aggressive investigations, defense of civil liberties, and progressive positions on voting, reproductive and LGBTQ rights, while critics use him to argue Democrats are weaponizing Congress and elevating partisan prosecutions over policymaking.",
+    "queries": [
+      "How do people view Jerry Nadler’s role among Democratic leaders?"
+    ]
+  },
+  {
+    "id": "C8-7-4",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "house intelligence committee",
+    "wiki_title": "united states house permanent select committee on intelligence",
+    "summary": "Democrats often point to the House Permanent Select Committee on Intelligence's reports and hearings to legitimize claims about foreign interference, surveillance reform, and the need for stronger oversight, using the committee to frame the party as prioritizing national security and evidence-based investigations. Opponents, however, portray the committee under Democratic control as a vehicle for partisan investigations, arguing its findings are used to justify aggressive probes and political attacks.",
+    "queries": [
+      "Are the House Intelligence Committee investigations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "trump–ukraine scandal",
+    "wiki_title": "2019 trump–ukraine scandal",
+    "summary": "Democrats cite the 2019 Trump–Ukraine scandal to justify impeachment, oversight, and a narrative of defending rule-of-law and anti-corruption norms; opponents use it to portray the party as partisan, opportunistic, and prone to weaponizing investigations, shaping debates over the Democratic Party’s legitimacy and electoral motives.",
+    "queries": [
+      "Is the trump–ukraine scandal politically damaging for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C8-7-7",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "articles of impeachment",
+    "wiki_title": "article of impeachment",
+    "summary": "Democrats invoke articles of impeachment to formalize and publicize allegations against rival officeholders, framing the party as defending accountability, the rule of law, and institutional norms; high-profile impeachments become focal points of Democratic narratives about corruption or abuse of power. Opponents counter that articles are partisan weapons, arguing Democrats seek political removal rather than respecting voters, a claim that shapes criticism of the party’s motives and influences electoral framing.",
+    "queries": [
+      "Are the Democratic Party's articles of impeachment justified or not?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "foreign policy",
+    "wiki_title": "foreign policy",
+    "summary": "In U.S. debates, foreign policy is used to paint Democrats as proponents of multilateral diplomacy, alliance-building, human-rights and climate-focused engagement, and reliance on sanctions and aid over broad unilateral force. Critics counter by accusing the party of being either weak on defense or overly interventionist, while progressives use the term to push anti-war, global-justice, and institution-strengthening positions within the party.",
+    "queries": [
+      "What consequences has the Democratic Party's foreign policy caused?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "nato",
+    "wiki_title": "nato",
+    "summary": "NATO is invoked to portray Democrats as committed to multilateral security leadership—used to justify Democratic support for aid to Ukraine, stronger alliances, and coalition-based defense policies under administrations like Biden’s. Opponents exploit NATO to accuse Democrats of 'globalism' or excessive militarism, while progressive critics use it to argue the party prioritizes military alliances and spending over diplomacy and domestic needs.",
+    "queries": [
+      "Is the Democratic Party’s support for NATO justified or not?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "transatlantic relations",
+    "wiki_title": "transatlantic relations",
+    "summary": "In debates about the Democratic Party, transatlantic relations are invoked to portray Democrats as internationalist and multilateral—favoring close U.S.–EU cooperation on security, climate, human-rights, and rule-based trade—and to justify diplomatic engagement and global institutions. Opponents counter that these close ties reflect a ‘globalist’ elite orientation that can undermine U.S. sovereignty or ignore working-class economic concerns, while allies praise Democrats for strengthening alliances.",
+    "queries": [
+      "How do people view the Democratic Party’s transatlantic relations?"
+    ]
+  },
+  {
+    "id": "C9-1-7",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "progressive democrats",
+    "wiki_title": "progressive democrats",
+    "summary": "Progressive Democrats are invoked in debates over the Democratic Party to press for a leftward agenda—Medicare for All, a Green New Deal, debt relief, stronger labor and anti-poverty measures—and to cast the party as morally driven toward redistribution and climate action. Opponents and centrists counterpose the label to argue that the party is too radical or electorally vulnerable, using it to justify moderation, strategic retreats, or primary challenges.",
+    "queries": [
+      "How do people view progressive democrats within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "iran nuclear deal",
+    "wiki_title": "joint comprehensive plan of action",
+    "summary": "The JCPOA is frequently cited to cast the Democratic Party as committed to diplomacy, multilateralism, and negotiated nonproliferation solutions—arguments Democrats use to justify engagement and sanctions-relief over military action—while opponents (especially Republicans) portray support for the deal as evidence the party is weak on security; intraparty disputes over whether to re-enter or tighten the deal also shape progressive vs. moderate fault lines on foreign policy.",
+    "queries": [
+      "What consequences has the iran nuclear deal produced for Democrats?"
+    ]
+  },
+  {
+    "id": "C9-2-2",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "john kerry",
+    "wiki_title": "john kerry",
+    "summary": "John Kerry is often invoked as the Democratic Party’s archetypal establishment statesman—used by supporters to justify a pragmatic, diplomacy-first foreign policy and technocratic climate leadership as signs of competence and electability, while critics on both the right and left cite him to portray the party as elitist, overly cautious on systemic change, and too close to corporate or security‑state interests.",
+    "queries": [
+      "What impact has John Kerry had on Democratic Party priorities?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "benjamin netanyahu",
+    "wiki_title": "benjamin netanyahu",
+    "summary": "Netanyahu is frequently invoked in U.S. debates about the Democratic Party’s Israel policy: Republicans and pro-Israel critics use his strong alignment with right-wing Israeli politics to paint Democrats as weak or disloyal when they criticize Israel, while progressive Democrats cite his settlement expansion, human-rights record, and controversial policies to push the party toward conditioning aid, tougher criticism, or a more even-handed Middle East stance.",
+    "queries": [
+      "How do Democrats view Benjamin Netanyahu's recent actions?"
+    ]
+  },
+  {
+    "id": "C9-2-5",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "aipac",
+    "wiki_title": "aipac",
+    "summary": "In debates about the Democratic Party, AIPAC is invoked to portray Democrats as committed to a hawkish, pro‑Israel foreign policy and to pressure candidates to adopt pro‑Israel positions. Progressive critics use AIPAC to argue that party leadership is unduly influenced by pro‑Israel lobbying and neglects Palestinian rights, while party centrists and allies cite AIPAC's bipartisan reach to defend moderate Israel-aligned stances and fend off primary challenges.",
+    "queries": [
+      "What impact does aipac have on Democratic Party electoral strategy?"
+    ]
+  },
+  {
+    "id": "C9-2-6",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "iran sanctions",
+    "wiki_title": "international sanctions against iran",
+    "summary": "International sanctions against Iran feature in debates about the Democratic Party as a marker of its internal foreign‑policy divide—many Democrats emphasize diplomacy and rejoining the Iran nuclear deal while supporting targeted sanctions, whereas progressive critics argue broad sanctions harm civilians and prefer engagement and relief. Opponents often use Democrats’ restraint on maximum pressure to portray the party as weak on national security and to justify hawkish alternatives.",
+    "queries": [
+      "Is the Democratic Party's support for iran sanctions reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-2-7",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "u.s. congress",
+    "wiki_title": "united states congress",
+    "summary": "In public debates about the Democratic Party, Congress is framed as the primary battleground where Democrats’ priorities—healthcare expansion, climate action, voting rights, and social spending—are either enacted or blocked, so control of the House or Senate is used to justify praise for successes or blame for failures. Commentators also focus on Senate rules (like the filibuster and 60-vote threshold) and committee control to argue that Democrats are either stymied by Republican obstruction or liable for perceived overreach when they hold unified power.",
+    "queries": [
+      "How do people view the Democratic Party’s u.s. congress performance?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "afghanistan withdrawal",
+    "wiki_title": "afghanistan withdrawal",
+    "summary": "Critics use the Afghanistan withdrawal—especially the chaotic 2021 exit—to portray Democrats as weak or incompetent on national security and to blame the party for humanitarian and geopolitical fallout, a line deployed frequently in Republican campaigns. Supporters counter that withdrawal reflects a core Democratic preference to end long wars, prioritize troops’ lives and shift toward diplomacy and reconstruction, framing execution errors as operational failures rather than a mistaken policy goal.",
+    "queries": [
+      "Is the Democratic Party's afghanistan withdrawal decision justified or not?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "evacuation of kabul",
+    "wiki_title": "fall of kabul (2021)",
+    "summary": "The Fall of Kabul is used by opponents to portray the Democratic Party—especially the Biden administration—as weak and incompetent on national security, bolstering attacks that Democratic leadership jeopardized U.S. credibility and mishandled immigration and evacuation logistics; defenders counter that ending America’s longest war was necessary, blame the prior administration and Afghan collapse, and frame the event as requiring humanitarian response and refugee resettlement rather than renewed military intervention.",
+    "queries": [
+      "How do people view the Democratic Party's evacuation of Kabul?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "kabul airport bombing",
+    "wiki_title": "2023 kabul airport bombing",
+    "summary": "Opponents of the Democratic Party, particularly critics of the Biden administration, cite the 2023 Kabul airport bombing to portray Democratic-led withdrawal and evacuation planning as incompetent and to argue for tougher national-security and immigration-vetting policies; Democrats counter by framing the attack as evidence of complex global terrorism threats that require better intelligence, humanitarian evacuations, and support for refugees rather than a rollback of withdrawal commitments.",
+    "queries": [
+      "How should the Democratic Party respond to the Kabul airport bombing?"
+    ]
+  },
+  {
+    "id": "C9-3-4",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "special immigrant visas",
+    "wiki_title": "special immigrant visa",
+    "summary": "Democrats commonly invoke special immigrant visas—notably for Afghan and Iraqi allies—to frame the party as upholding moral obligations to U.S. partners and to justify policies for faster processing, expanded eligibility, and humanitarian immigration relief; opponents counter by raising vetting and security concerns or arguing Democrats emphasize such programs at the expense of stricter border enforcement to criticize the party’s immigration priorities.",
+    "queries": [
+      "Is the Democratic Party’s support for special immigrant visas justified or not?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "department of defense",
+    "wiki_title": "ministry of defence",
+    "summary": "References to a “ministry of defence” are used in U.S. debates to portray the Democratic Party as more inclined toward civilian oversight, multilateral cooperation, and institutional reform of the Pentagon—emphasizing diplomacy, alliance-based security, and budgetary accountability alongside targeted modernization. Opponents flip the trope to argue Democrats are either weak on national security for prioritizing diplomacy or complicit in a sprawling, bureaucratic military establishment depending on the critic’s angle.",
+    "queries": [
+      "How do people view the department of defense under Democrats?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "u.s.–china relations",
+    "wiki_title": "united states–china relations act of 2000",
+    "summary": "The United States–China Relations Act of 2000 is frequently cited by critics to blame Democratic centrism—arguing that Clinton-era Democrats’ vote to normalize trade with China exemplified neoliberal trade policies that accelerated manufacturing job loss and sidelined labor and human-rights concerns. Supporters within the party use it to justify engagement and trade liberalization as pragmatic economic policy, while progressives point to it as a turning point prompting demands for tougher trade and China policy.",
+    "queries": [
+      "Is the Democratic Party’s approach to u.s.–china relations reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-2",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "xi jinping",
+    "wiki_title": "xi jinping",
+    "summary": "Xi Jinping is frequently invoked in U.S. political debate to frame the Democratic Party as either naïve and soft on an assertive, authoritarian China (a critique used by opponents) or as justified in pushing tougher economic, tech and human-rights policies. Within the party, references to Xi help justify stronger industrial policy, export controls, and a harder line on Chinese influence while fueling internal splits between engagement-oriented and competition-oriented approaches.",
+    "queries": [
+      "What consequences does Democratic criticism of Xi Jinping produce?"
+    ]
+  },
+  {
+    "id": "C9-4-3",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "china–us trade war",
+    "wiki_title": "trade war",
+    "summary": "Political actors use “trade war” to criticize or defend Democratic trade stances: opponents warn that Democratic support for tariffs, buy‑America rules, or aggressive enforcement will provoke retaliatory tariffs and harm consumers and exporters, portraying Democrats as economically reckless, while many Democrats and their supporters frame targeted trade measures as necessary leverage to protect labor, enforce rules against China, and correct unfair trade rather than as a reckless escalation into full‑scale trade conflict.",
+    "queries": [
+      "Is the China–US trade war approach reasonable for the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C9-4-4",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "huawei",
+    "wiki_title": "huawei",
+    "summary": "Huawei is frequently invoked in U.S. political debates to shape views of the Democratic Party—Republicans use Huawei-related security and espionage claims to portray Democrats as weak on China, while many Democrats (especially national-security and human-rights-oriented members) cite Huawei to justify export controls, 5G bans, investment screening, and multilateral tech decoupling; others within the party stress balancing those measures with trade, innovation, and civil‑liberties concerns.",
+    "queries": [
+      "How do people view Huawei policy from Democratic Party leaders?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "taiwan relations act",
+    "wiki_title": "taiwan relations act",
+    "summary": "In U.S. partisan debates the Taiwan Relations Act is often invoked to portray Democrats as defenders of Taiwan and democratic values—used by supporters to justify Democratic policies on arms sales, deterrence and alliance-building—while critics use it to accuse the party either of reckless interventionism that could provoke China or of hypocrisy when Democrats emphasize diplomacy over military escalation.",
+    "queries": [
+      "What consequences has the taiwan relations act had for Democratic foreign policy?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "xinjiang internment camps",
+    "wiki_title": "xinjiang internment camps",
+    "summary": "Democratic Party lawmakers and advocates frequently invoke the Xinjiang internment camps to cast the party as defenders of human rights and to justify sanctions, visa bans, and import/forced‑labor restrictions as part of a tougher, values‑based China policy. Opponents, meanwhile, use Democrats’ rhetoric to press for consistency or to accuse them of economic hypocrisy when balancing human‑rights objections with trade and investment ties to China.",
+    "queries": [
+      "Is the Democratic Party’s stance on xinjiang internment camps reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-7",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "chips and science act",
+    "wiki_title": "chips and science act",
+    "summary": "Supporters within and outside the party point to the CHIPS and Science Act as evidence that Democrats deliver pragmatic, pro‑growth industrial policy—using federal investment to create jobs, strengthen supply chains, and compete with China—while critics frame it as emblematic of Democratic willingness to fund corporate subsidies and expand government intervention, accusing the party of cronyism or inefficient spending.",
+    "queries": [
+      "How do people view the chips and science act?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "ukraine aid",
+    "wiki_title": "aid to ukraine during the russo-ukrainian war",
+    "summary": "Support for aid to Ukraine is frequently used to portray Democrats as defenders of democracy, international alliances, and deterrence against authoritarian aggression, with advocates pointing to party leaders’ push for weapons, funding, and sanctions as evidence of responsible multilateralism. Opponents and some critics use the issue to cast the Democratic Party as interventionist or fiscally irresponsible and intra-party disputes over amounts, conditions, and oversight fuel narratives about moderates versus progressives within the party.",
+    "queries": [
+      "Is the Democratic Party's support for Ukraine aid reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-4",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "house freedom caucus",
+    "wiki_title": "freedom caucus",
+    "summary": "In arguments about the Democratic Party, the Freedom Caucus is often cited by Democrats as the engine of conservative obstruction used to block Democratic priorities (from healthcare to voting-rights reforms), bolstering claims that Democrats must fight to defend institutions and policies against far-right resistance. Republicans and conservative media, meanwhile, invoke the caucus’s hardline posture to justify opposing Democratic initiatives as extreme threats that require uncompromising pushback.",
+    "queries": [
+      "Is the House Freedom Caucus's influence on Democrats reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-5",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "lend-lease act",
+    "wiki_title": "lend-lease",
+    "summary": "Advocates invoke Lend‑Lease as a historical precedent that links the Democratic Party—especially FDR-era leadership—to internationalist, alliance‑driven policies, using it to justify contemporary Democratic support for foreign aid, coalition-building, and intervention as means of protecting U.S. security and values. Opponents frame the same legacy as evidence Democrats favor costly overseas entanglements and interventionism over restraint and domestic priorities, using it to criticize modern Democratic foreign‑policy spending.",
+    "queries": [
+      "Is the Democratic Party's support for the lend-lease act reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-5-8",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "sanctions against russia",
+    "wiki_title": "sanctions involving russia",
+    "summary": "In U.S. debates, sanctions on Russia are invoked to frame the Democratic Party as willing to use economic pressure to punish Russian aggression, election interference, and human-rights abuses—supporting a hawkish, rules-based foreign policy stance. Critics use the issue both to accuse Democrats of escalating tensions or politicizing foreign policy and (from the left) to argue they over-rely on sanctions that can harm civilians and distract from diplomacy.",
+    "queries": [
+      "How do people view sanctions against Russia promoted by Democrats?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "israel–palestine conflict",
+    "wiki_title": "israeli–palestinian conflict",
+    "summary": "The Israeli–Palestinian conflict is a frequent prism for debating Democratic Party priorities, with party leaders and centrists stressing a strong U.S.–Israel alliance, continued aid, and a two‑state framework while progressives push for tougher human‑rights scrutiny, conditioning of aid, and greater advocacy for Palestinian rights; political opponents and interest groups use those divides to paint Democrats as either insufficiently supportive of Israel or turning anti‑Israel, shaping donor behavior, primaries, and voter coalitions.",
+    "queries": [
+      "How do people view the israel–palestine conflict within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C9-6-3",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "j street",
+    "wiki_title": "j street",
+    "summary": "Within debates about the Democratic Party, J Street is invoked as the party’s organized pro-Israel–pro-peace flank that pushes Democratic candidates toward diplomacy, a two-state solution, and occasionally conditioning or criticism of Israeli government policies. Its endorsements and policy reports are used to justify more critical Israel policy among Democrats, while opponents on the right accuse the party of being soft on Israel when aligned with J Street and critics on the left argue it doesn’t go far enough for Palestinian rights.",
+    "queries": [
+      "How do people view j street within Democratic Party debates?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "two-state solution",
+    "wiki_title": "two-state solution",
+    "summary": "The two-state solution is invoked to cast the Democratic Party as the party of diplomacy and international norms on Israel-Palestine—used by centrists to justify continued U.S. engagement, conditional aid, and support for a negotiated Palestinian state alongside secure Israel. Progressives wield it to criticize Democratic leaders for not enforcing Israeli concessions or ending occupation, while opponents accuse Democrats of being either weak on Israel or overly sympathetic to Palestinian demands.",
+    "queries": [
+      "Is the Democratic Party's two-state solution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-7",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "u.s. foreign aid to israel",
+    "wiki_title": "united states foreign aid",
+    "summary": "United States foreign aid is a frequent talking point in debates about the Democratic Party: opponents paint Democrats as internationalist spenders who prioritize foreign assistance over domestic needs, while supporters frame aid as a core Democratic value that advances human rights, climate action, and U.S. alliances. Inside the party, it also divides factions—progressives push for humanitarian, rights‑conditioned, non‑military aid, whereas moderates and security‑minded Democrats defend larger, strategic aid programs as diplomacy and competition with rivals like China.",
+    "queries": [
+      "How do people view u.s. foreign aid to israel among Democrats?"
+    ]
+  },
+  {
+    "id": "C9-7",
+    "parent": "C9",
+    "level": 2,
+    "topic": "antony blinken",
+    "wiki_title": "antony blinken",
+    "summary": "Antony Blinken is invoked as the Democratic Party’s centrist foreign‑policy face — used by supporters to signal competence, multilateralism, and steady diplomacy, and by critics (especially progressives and political opponents) to argue the party is aligned with the Washington foreign‑policy establishment, hawkish interventions, and ties to defense‑industry–linked consulting that undermine anti‑war and reformist critiques.",
+    "queries": [
+      "How do people view Antony Blinken within the Democratic Party?"
+    ]
+  },
+  {
+    "id": "C9-7-2",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "2023 israel–hamas war",
+    "wiki_title": "gaza war",
+    "summary": "The Gaza war is used to pressure and polarize views of the Democratic Party—Republicans and critics cast Democrats as either complicit in Israeli-caused civilian suffering when they support military aid, or as weak on Israel when they call for restraints—while internal Democratic debates pit progressives demanding ceasefires, humanitarian relief, and conditioning of U.S. aid against centrists and Biden-aligned leaders who emphasize Israel’s security and maintain robust, often unconditional, support.",
+    "queries": [
+      "How do Democratic Party members justify positions on 2023 israel–hamas war?"
+    ]
+  },
+  {
+    "id": "C9-7-3",
+    "parent": "C9-7",
+    "level": 3,
+    "topic": "russian invasion of ukraine",
+    "wiki_title": "2022 russian invasion of ukraine",
+    "summary": "Partisan narratives use the 2022 invasion to portray Democrats as the party of international leadership and multilateralism—justifying Biden-era policies like lethal aid, sanctions, refugee resettlement, and strengthened NATO commitments as necessary defense of democracy. Critics counter that Democrats are risking escalation, overspending on foreign interventions, or exploiting the crisis for political advantage, framing the party as out of touch with domestic priorities.",
+    "queries": [
+      "How do Democrats view the russian invasion of ukraine?"
+    ]
+  }
+]

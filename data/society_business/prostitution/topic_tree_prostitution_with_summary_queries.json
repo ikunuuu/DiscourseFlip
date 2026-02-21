@@ -1,0 +1,1366 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Prostitution",
+    "wiki_title": "Prostitution",
+    "summary": "Public debates use the term to support two opposing policy frames: abolitionists portray prostitution as gendered exploitation and human‑trafficking risk to justify criminalizing buyers and expanding exit/protection programs, while sex‑worker advocates cast it as legitimate labor needing decriminalization, regulation, and harm‑reduction to reduce stigma and improve health and safety; moral and public‑health arguments are routinely marshaled by both sides to justify their preferred laws.",
+    "queries": [
+      "What impacts does Prostitution have on public health and safety?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "moral and religious views",
+    "wiki_title": "religious views on euthanasia",
+    "summary": "Religious arguments used in euthanasia debates often serve as shorthand for a broader faith-based moral framework in discussions of prostitution, invoking human dignity and sexual morality to condemn prostitution as degrading or exploitative and to justify criminalization or ‘rescue and rehabilitation’ policies rather than legalization. At the same time, those same religious commitments are sometimes framed to emphasize compassion and social support for sex workers, but they generally oppose treating prostitution primarily as an exercise of personal autonomy.",
+    "queries": [
+      "What impact have moral and religious views on prostitution had?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "catholic church",
+    "wiki_title": "catholic church",
+    "summary": "In public debates the Catholic Church is frequently cited to condemn prostitution as a violation of human dignity and sexual morality, promoting abolitionist policies, anti‑trafficking measures, and charity‑based ‘rescue’ and rehabilitation programs while opposing legalization or commercialization of sex. Critics respond that this moral framing stigmatizes sex workers and can block harm‑reduction, decriminalization, and rights‑based approaches favored by many public‑health and human‑rights advocates.",
+    "queries": [
+      "Is the catholic church reasonable in addressing prostitution?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "caritas internationalis",
+    "wiki_title": "caritas internationalis",
+    "summary": "Caritas Internationalis is invoked as a faith‑based humanitarian voice that frames prostitution as exploitation and a violation of human dignity, pushing public debates toward victim‑centered services, prevention and anti‑trafficking measures rather than normalization; it typically supports rehabilitation and reintegration policies and criticizes efforts to legalize or commercialize sex work.",
+    "queries": [
+      "How do people view caritas internationalis and its work with sex workers?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "talitha kum",
+    "wiki_title": "talitha kum",
+    "summary": "Talitha Kum is invoked in public debates to frame prostitution primarily as human trafficking and exploitation, using Catholic anti-trafficking rhetoric to justify rescue, rehabilitation and abolitionist policies while criticizing moves to decriminalize or normalize sex work. Its advocacy is cited to support tougher law‑enforcement measures against traffickers and buyers and expanded survivor services rather than labor‑rights or regulatory approaches.",
+    "queries": [
+      "Are Talitha Kum's methods reasonable in supporting people affected by prostitution?"
+    ]
+  },
+  {
+    "id": "C1-1-7",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "catholic social teaching",
+    "wiki_title": "catholic social teaching",
+    "summary": "Advocates invoke Catholic social teaching to frame prostitution as a violation of human dignity and solidarity, using that moral language to oppose legalization or market normalization and to promote abolitionist policies, criminalizing demand, and expanded rescue, rehabilitation and anti‑trafficking and social‑support measures that address the poverty and exploitation underlying sex work.",
+    "queries": [
+      "How do people view catholic social teaching regarding prostitution?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "pope francis",
+    "wiki_title": "pope francis",
+    "summary": "Pope Francis is invoked in discussions of prostitution to frame it primarily as exploitation and a symptom of poverty and social injustice, calling for compassion, support services and efforts to help people exit the industry while targeting traffickers and structural causes. His words are used to justify policies prioritizing victim protection and rehabilitation and to criticize approaches that normalize or commercialize sex work.",
+    "queries": [
+      "How do people view Pope Francis’s comments about prostitution?"
+    ]
+  },
+  {
+    "id": "C1-2-6",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "pastoral care",
+    "wiki_title": "pastoral care",
+    "summary": "In public debates about prostitution, pastoral care is deployed as a moral and therapeutic frame that pushes for compassionate, survivor-centered responses—advocating trauma-informed support, exit programs, and policies that prioritize health and social services over criminal punishment.  Religious pastoral voices often use spiritual counseling to justify abolitionist or ‘rescue’-oriented approaches, while secular pastoral actors emphasize nonjudgmental harm reduction and decriminalization to protect autonomy and wellbeing.",
+    "queries": [
+      "Is pastoral care for people involved in prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "purity culture",
+    "wiki_title": "purity culture",
+    "summary": "Purity culture frames prostitution as a breach of sexual purity and moral order, reinforcing stigma that sex workers are sinful or simply victims to be rescued rather than people with labor rights. That rhetoric tends to justify criminalization, punitive “rescue” and abstinence-based interventions while opposing decriminalization and harm‑reduction or rights‑based approaches.",
+    "queries": [
+      "What consequences has purity culture had for prostitution policy debates?"
+    ]
+  },
+  {
+    "id": "C1-6-1",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "purity ring",
+    "wiki_title": "purity ring",
+    "summary": "Purity rings are often invoked in discussions of prostitution to moralize sex and bolster narratives that stigmatize sex work, lending cultural support to criminalization, abstinence-based policies, and “rescue” approaches rather than harm-reduction. Critics say they amplify shame-based framings that ignore sex workers’ agency and structural drivers, undermining decriminalization and rights-focused policy proposals.",
+    "queries": [
+      "How do people view the purity ring within prostitution debates?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "true love waits",
+    "wiki_title": "true love waits",
+    "summary": "True Love Waits is invoked by conservative and religious voices to frame prostitution as a symptom of moral decline and the commodification of sex, bolstering narratives that emphasize abstinence, purity, and marriage as the remedies. It therefore tends to support punitive or ‘rescue’-oriented policies and oppose decriminalization, harm‑reduction, or rights‑based approaches to sex work.",
+    "queries": [
+      "Is 'true love waits' reasonable within conversations about prostitution?"
+    ]
+  },
+  {
+    "id": "C1-6-3",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "purity ball",
+    "wiki_title": "purity ball",
+    "summary": "Purity balls are cited in debates over prostitution as cultural evidence for abstinence‑based, guardian‑centered sexual morality that stigmatizes sex work and supports punitive laws and policies rather than decriminalization or harm‑reduction. Critics argue these ceremonies normalize treating women as property and submissive, which fuels stigma, victim‑blaming, and barriers to survivor‑centered services for people in the sex trade.",
+    "queries": [
+      "Is purity ball justified as a response to prostitution concerns?"
+    ]
+  },
+  {
+    "id": "C1-6-4",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "abstinence-only sex education",
+    "wiki_title": "abstinence-only sex education",
+    "summary": "Abstinence-only education is often invoked by proponents of punitive or prohibitionist approaches to prostitution to moralize paid sex, justify criminalization or ‘rescue’ programs, and emphasize prevention via personal virtue rather than regulation. Critics counter that it fuels stigma, reduces access to sexual-health information and services for sex workers, and weakens support for harm‑reduction or decriminalization policies that prioritize safety and rights.",
+    "queries": [
+      "How do people view abstinence-only sex education regarding prostitution?"
+    ]
+  },
+  {
+    "id": "C1-6-5",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "chastity",
+    "wiki_title": "chastity",
+    "summary": "Chastity rhetoric is often used by religiously and morally conservative actors to portray prostitution as a violation of purity, legitimizing criminalization, rescue/rehabilitation initiatives, and social stigma against sex workers. Critics argue this purity framing fosters victim‑blaming, undermines harm‑reduction and decriminalization efforts, and prioritizes moral enforcement over sex workers’ safety, rights, and agency.",
+    "queries": [
+      "What consequences does promoting chastity have for prostitution?"
+    ]
+  },
+  {
+    "id": "C1-6-8",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "slut-shaming",
+    "wiki_title": "slut-shaming",
+    "summary": "Slut-shaming is deployed to cast prostitution as moral deviance—fueling stigma, policing, criminalization, and social or even physical punishment of sex workers—and to justify restrictive policies that limit their access to health, labor rights, and legal protection. Opponents of slut-shaming use the term to challenge those narratives, arguing for destigmatization, decriminalization, and rights-based approaches that treat sex work as legitimate labor rather than evidence of personal immorality.",
+    "queries": [
+      "Is slut-shaming toward sex workers justified or not?"
+    ]
+  },
+  {
+    "id": "C1-4-5",
+    "parent": "C1",
+    "level": 3,
+    "topic": "equality now",
+    "wiki_title": "equality now",
+    "summary": "Equality Now is cited in public debates to frame prostitution as a form of gendered violence and human-rights harm, supporting laws and policies that prioritize protecting survivors and penalizing exploiters (traffickers/buyers) while criticizing narratives that present sex work as ordinary labor or call for full decriminalization.",
+    "queries": [
+      "Is equality now’s approach to prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "ecpat",
+    "wiki_title": "ecpat",
+    "summary": "ECPAT is invoked in prostitution debates to center child sexual exploitation and trafficking, backing stronger anti‑trafficking laws, buyer criminalization, and victim protection measures. Its framing of prostitution primarily as abuse and demand-driven harm is used to justify restrictive, enforcement‑led policies and is often cited by critics who say this approach can conflate consensual adult sex work with trafficking.",
+    "queries": [
+      "Is ecpat’s approach to prostitution issues reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-5-3",
+    "parent": "C1",
+    "level": 3,
+    "topic": "international justice mission",
+    "wiki_title": "international justice mission",
+    "summary": "International Justice Mission is frequently cited in public debates as a prominent anti‑trafficking authority that frames prostitution largely as exploitation and modern slavery, using rescue narratives to justify strengthened law‑enforcement, prosecution, and abolitionist policies. Critics invoke IJM to argue that this approach conflates consensual sex work with trafficking, undermines decriminalization and sex‑worker rights, and promotes policing‑led interventions rather than harm‑reduction or labor‑rights solutions.",
+    "queries": [
+      "Is the international justice mission in addressing prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "law and regulation",
+    "wiki_title": "regulation",
+    "summary": "Calls for regulation are invoked by proponents to frame prostitution as a labor/public‑health issue—arguing licensing, zoning, health checks and workplace protections will reduce harm, improve safety, and enable taxation and oversight. Opponents use the concept to criticize legalization as state‑sanctioned exploitation that can entrench inequality, increase trafficking and surveillance of marginalized workers, or justify abolitionist/criminalizing policies.",
+    "queries": [
+      "What consequences has law and regulation of prostitution caused?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "coalition against trafficking in women",
+    "wiki_title": "coalition against trafficking in women",
+    "summary": "Advocates cite CATW to portray prostitution as inherently exploitative and to justify abolitionist policies—such as criminalizing buyers and prioritizing exit services—against decriminalization or labor-rights frameworks. Critics use its prominence to argue that this framing conflates consensual sex work with trafficking, sidelines sex workers’ voices, and blocks harm-reduction and rights-based approaches.",
+    "queries": [
+      "What effects has the coalition against trafficking in women had?"
+    ]
+  },
+  {
+    "id": "C2-7-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "melissa farley",
+    "wiki_title": "melissa farley",
+    "summary": "Melissa Farley’s research and public advocacy are frequently invoked by abolitionist policymakers and campaigns to portray prostitution as inherently violent, traumatic, and linked to trafficking—arguments used to justify criminalizing buyers, funding exit services, and treating prostitution as a public‑health and gendered exploitation problem. Her work thus helps frame debate toward prohibitionist policies, while critics point to methodological bias and overgeneralization that can marginalize sex‑worker perspectives.",
+    "queries": [
+      "How do people view Melissa Farley’s research on prostitution?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "exit programs",
+    "wiki_title": "exit status",
+    "summary": "In conversations about prostitution, “exit status” is often invoked as a shorthand metric for whether someone has left sex work and is used to justify rescue-oriented policies, criminalization, or targeted funding by claiming measurable success. Critics counter that this binary framing stigmatizes people, oversimplifies complex livelihoods, and promotes programs that ignore structural supports needed for sustainable transitions.",
+    "queries": [
+      "What effects have exit programs had on prostitution?"
+    ]
+  },
+  {
+    "id": "C2-4-1",
+    "parent": "C2",
+    "level": 3,
+    "topic": "moonlite bunnyranch",
+    "wiki_title": "bunnyranch",
+    "summary": "By adopting the Moonlite BunnyRanch name, the band is often invoked in cultural debates as an example of how prostitution is normalized and commodified in popular culture—used by proponents of destigmatization and decriminalization as evidence of shifting social attitudes, and by critics as a symbol of mainstreaming or trivializing sex work and related moral concerns.",
+    "queries": [
+      "How do people view moonlite bunnyranch within prostitution debates?"
+    ]
+  },
+  {
+    "id": "C2-4-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "mustang ranch",
+    "wiki_title": "mustang ranch",
+    "summary": "The Mustang Ranch is often invoked in debates over prostitution as a high‑profile example of a licensed brothel that proponents cite to argue legalization and regulation can improve health, safety, taxation, and labor protections; critics, however, point to its legal controversies and ties to criminality to warn against normalizing or commercializing sex work. As a result it frames policy battles between regulation and prohibition, and shapes arguments about public safety, morality, and workers' rights.",
+    "queries": [
+      "Is Mustang Ranch’s role in prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-3",
+    "parent": "C2",
+    "level": 3,
+    "topic": "dennis hof",
+    "wiki_title": "dennis hof",
+    "summary": "Dennis Hof is invoked by advocates as a high‑profile example of a legal, regulated brothel owner who frames prostitution as a legitimate, marketable industry that can be made safer through legalization and regulation; his political activism is used to argue for decriminalization and workers’ rights. Opponents, however, cite his celebrity marketing and the controversies around his establishments to portray prostitution as exploitative and morally harmful, using him to argue that regulation can fail to prevent abuse and commodification of vulnerable people.",
+    "queries": [
+      "What impacts did dennis hof have on prostitution perceptions?"
+    ]
+  },
+  {
+    "id": "C2-4-4",
+    "parent": "C2",
+    "level": 3,
+    "topic": "nevada revised statutes",
+    "wiki_title": "nevada revised statutes",
+    "summary": "Lawyers, policymakers, and activists invoke the Nevada Revised Statutes as the concrete legal model that legitimizes and confines licensed brothel prostitution to certain counties, using its provisions on licensing, health checks, and zoning to argue that regulation can reduce harm and improve oversight. Opponents counter that the statutes institutionalize exploitation and create unequal access, citing them to support abolitionist stances or to advocate for broader decriminalization and alternative regulatory approaches.",
+    "queries": [
+      "What effects have nevada revised statutes had on prostitution?"
+    ]
+  },
+  {
+    "id": "C2-4-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "nye county",
+    "wiki_title": "nye county, nevada",
+    "summary": "Nye County is frequently invoked in U.S. debates over prostitution as a practical example of Nevada’s county‑level, regulated brothel system — cited by proponents to argue that legalization yields local economic benefits and public‑health oversight, and by critics to underscore community moral objections, alleged exploitation, and perceived enforcement and trafficking vulnerabilities.",
+    "queries": [
+      "Is Nye County’s approach to prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-4-6",
+    "parent": "C2",
+    "level": 3,
+    "topic": "clark county",
+    "wiki_title": "clark county",
+    "summary": "Clark County (home to Las Vegas) is often invoked in debates as the urban, tourism-focused counterexample to Nevada’s licensed-brothel counties, used by officials and advocates to justify strict prohibition and aggressive anti‑trafficking enforcement to protect public order and the city’s image. Critics use Clark County to argue the prohibition model drives sex work underground, increases risks to workers, and highlights the inconsistency and harms of banning rather than regulating prostitution.",
+    "queries": [
+      "How do people view Clark County’s prostitution policies?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2",
+    "level": 3,
+    "topic": "restorative justice",
+    "wiki_title": "restorative justice",
+    "summary": "Restorative justice is cited in prostitution debates to argue for victim-centered, reparative responses—favoring services, community-mediated accountability for traffickers and clients, and alternatives to prosecuting sex workers. Supporters use it to justify decriminalization and exit/repair programs, while critics warn it can retraumatize survivors, obscure structural causes like poverty, or allow abusers to avoid formal legal sanctions.",
+    "queries": [
+      "Is restorative justice a reasonable alternative to criminal approaches for prostitution?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "criminal justice and enforcement",
+    "wiki_title": "criminal justice",
+    "summary": "Arguments about prostitution frequently invoke criminal justice to justify policing, arrests, buyer‑targeting laws (e.g., the Nordic model), and anti‑trafficking prosecutions, or conversely to argue for diversion and decriminalization as necessary to protect victims and public health. Critics say reliance on criminal justice frames criminalizes and stigmatizes sex workers, enables police abuse, and leaves people with records that hinder rehabilitation and access to services.",
+    "queries": [
+      "What impacts has criminal justice and enforcement in prostitution produced?"
+    ]
+  },
+  {
+    "id": "C3-4",
+    "parent": "C3",
+    "level": 2,
+    "topic": "vice squad",
+    "wiki_title": "vice",
+    "summary": "Describing prostitution as a 'vice' casts it as a moral and social scourge, bolstering calls for criminalization, policing, abolitionist 'rescue' programs, and community stigmatization; it is often invoked to justify punitive or rehabilitation-focused policies. Opponents say that labeling sex work a vice stigmatizes workers, obscures structural harms of criminalization, and is used to oppose rights-based decriminalization and harm-reduction approaches.",
+    "queries": [
+      "Is the vice squad's approach to prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C3-4-6",
+    "parent": "C3-4",
+    "level": 3,
+    "topic": "police corruption",
+    "wiki_title": "police corruption",
+    "summary": "In debates about prostitution, allegations of police corruption are often used to argue that criminalization and enforcement create incentives for bribery, extortion, entrapment and sexual exploitation of sex workers, undermining trust and strengthening calls for decriminalization, independent oversight, and harm‑reduction policies. Such claims also serve to criticize police‑led anti‑trafficking raids as performative, counterproductive, or complicit with networks that exploit sex workers.",
+    "queries": [
+      "How do people view police corruption related to prostitution?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "john schools",
+    "wiki_title": "john school",
+    "summary": "John schools are often cited to frame prostitution as a problem of individual male demand that can be curtailed through education and diversion, thereby bolstering policies that prioritize arrest-and-rehabilitate approaches and supply‑reduction strategies over decriminalization or harm‑reduction. Critics counter that invoking john schools shifts blame onto clients while stigmatizing sex workers, legitimizes policing and moralizing interventions, and offers little proven benefit for reducing prostitution or improving worker safety.",
+    "queries": [
+      "Are john schools justified or not in tackling prostitution?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "diversion programs",
+    "wiki_title": "diversion program",
+    "summary": "In public debates about prostitution, diversion programs are cited by advocates as a humane alternative that reframes arrested sex workers as clients of social and health services rather than criminals, supporting decriminalization and harm‑reduction policies. Critics counter that diversion can be coercive or paternalistic—especially when tied to anti‑trafficking agendas—letting buyers evade accountability, reinforcing police control over marginalized people, and substituting conditional “rehabilitation” for full rights and legalization.",
+    "queries": [
+      "Are diversion programs for prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "pimping",
+    "wiki_title": "procuring (prostitution)",
+    "summary": "In debates over prostitution, references to procuring/pimping are invoked to portray the sex industry as inherently exploitative and trafficking‑ridden, bolstering arguments for criminalization, abolitionist rescue efforts, and broad enforcement. Critics of that framing emphasize a distinction between coercive procuring and consensual sex work, using the concept to support decriminalization, regulation, worker protections, and targeted action against traffickers rather than blanket bans.",
+    "queries": [
+      "How do people view pimping in the context of prostitution?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "brothel",
+    "wiki_title": "brothel",
+    "summary": "In public debates, brothels are often invoked to argue that indoor, regulated sex work can be safer and more manageable—supporting legalization, licensing, zoning and public‑health approaches that treat prostitution as labor. Conversely, critics use the brothel image to emphasize coercion, trafficking and moral harm, bolstering calls for prohibition, raids, or stricter policing and framing prostitution as inherently exploitative.",
+    "queries": [
+      "Are brothels a reasonable approach to regulating prostitution?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "operation cross country",
+    "wiki_title": "crosscountry",
+    "summary": "CrossCountry is invoked in discussions about prostitution as an example of how rail operators’ policies and service changes shape the safety, visibility and regulation of sex work—critics argue that its not-managing-stations status and timetable cuts let companies evade responsibility for policing, lighting and outreach where street-based prostitution occurs. Advocates counter that reduced services and disrupted routes (and operator inaction) worsen sex workers’ mobility and safety, framing CrossCountry as part of infrastructure decisions that either mitigate or exacerbate vulnerability.",
+    "queries": [
+      "Is operation cross country’s approach to prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-1",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "fbi",
+    "wiki_title": "federal bureau of investigation",
+    "summary": "The FBI is invoked as the authoritative law‑enforcement voice in prostitution debates, with its investigations, sting operations, and trafficking reports used to justify criminalization, raids, and tougher anti‑trafficking policies. Critics counter that the bureau’s focus and terminology often conflate consensual sex work with trafficking, legitimizing punitive policing that harms sex workers and undermines calls for decriminalization and harm‑reduction approaches.",
+    "queries": [
+      "Is the FBI’s intervention in prostitution investigations justified or not?"
+    ]
+  },
+  {
+    "id": "C3-7-2",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "innocence lost initiative",
+    "wiki_title": "innocence project",
+    "summary": "The Innocence Project is frequently cited by sex‑worker and criminal‑justice reform advocates to argue that punitive prostitution laws and aggressive policing produce wrongful convictions of marginalized people, bolstering calls for decriminalization, diversion, record sealing, and broader legal reforms. Critics counter that using wrongful‑conviction framing can downplay trafficking and exploitation concerns, but the Project’s involvement typically shifts debates toward reducing criminal enforcement and remedying systemic injustice.",
+    "queries": [
+      "How do people view the Innocence Lost Initiative in prostitution cases?"
+    ]
+  },
+  {
+    "id": "C3-2-1",
+    "parent": "C3",
+    "level": 3,
+    "topic": "swedish model",
+    "wiki_title": "swedish model",
+    "summary": "In debates over prostitution the Swedish model is often cited by abolitionist advocates to frame sex-selling as gendered exploitation and justify criminalizing buyers while emphasizing protective services for people who sell sex. Critics — particularly sex-worker rights groups — argue it stigmatizes and endangers workers, drives the trade underground, and opposes legalization or decriminalization-based harm-reduction policies.",
+    "queries": [
+      "What impacts has the swedish model had on prostitution?"
+    ]
+  },
+  {
+    "id": "C3-2-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "nordic council",
+    "wiki_title": "nordic council",
+    "summary": "The Nordic Council often appears in debates as a regional champion of the \"Nordic model\"—framing prostitution primarily as gendered violence and trafficking and supporting criminalization of buyers while advocating victim‑centered, abolitionist policies across member states. Critics say its influence promotes laws that stigmatize and endanger sex workers and contest that it sidelines rights‑based, harm‑reduction approaches.",
+    "queries": [
+      "Is the Nordic Council’s approach to prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "world health organization",
+    "wiki_title": "world health organization",
+    "summary": "In debates over prostitution, WHO is invoked as an expert authority that frames sex work as a public‑health and human‑rights issue, promoting harm‑reduction measures (condom access, STI/HIV prevention, health services and stigma reduction) and often endorsing decriminalization of consensual sex work to improve health outcomes. Advocates use WHO guidance to argue against punitive, moralistic laws, while critics accuse its health‑focused stance of downplaying exploitation and trafficking concerns.",
+    "queries": [
+      "Is the world health organization's stance on prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-5",
+    "parent": "C3",
+    "level": 3,
+    "topic": "global network of sex work projects",
+    "wiki_title": "global network of sex work projects",
+    "summary": "Advocates point to the global network of sex work projects to legitimize treating prostitution as labor—citing its research, survivor testimony, and model policies to argue for decriminalization, health services, and harm-reduction approaches—while opponents invoke the network to claim that such framing normalizes exploitation and downplays trafficking, using it to justify abolitionist or punitive responses.",
+    "queries": [
+      "What consequences has the global network of sex work projects caused?"
+    ]
+  },
+  {
+    "id": "C3-3-7",
+    "parent": "C3",
+    "level": 3,
+    "topic": "human rights watch",
+    "wiki_title": "human rights watch",
+    "summary": "Human Rights Watch is often invoked in prostitution debates to push a rights-based, harm-reduction frame — it argues for decriminalizing adult consensual sex work, expanding health and labor protections, and distinguishing trafficking from consensual prostitution. It also criticizes models and anti‑trafficking practices that criminalize clients or third parties and that, in HRW’s view, increase sex workers’ vulnerability to violence, stigma, and rights abuses.",
+    "queries": [
+      "How do people view Human Rights Watch regarding prostitution policy?"
+    ]
+  },
+  {
+    "id": "C3-8-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "safe harbor laws",
+    "wiki_title": "safe harbor",
+    "summary": "Safe harbor is invoked in prostitution debates to reframe people engaged in selling sex—especially minors and trafficking survivors—as victims who should be diverted from arrest into services and protection, bolstering arguments for decriminalization or victim-centered policy. Critics use the term to argue such protections can undermine enforcement against traffickers or implicitly normalize commercial sex, framing safe-harbor laws as too permissive.",
+    "queries": [
+      "Are safe harbor laws for prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "public health and safety",
+    "wiki_title": "health and safety executive",
+    "summary": "In debates about prostitution, the Health and Safety Executive is invoked by advocates to frame sex work as labour that should receive occupational health and safety protections, bolstering arguments for decriminalization, safer working conditions and harm‑reduction regulation. Critics counter that HSE-style workplace regulation can risk normalizing or facilitating prostitution or is ill-suited to address exploitation and situations that remain criminalized or informal.",
+    "queries": [
+      "Is prostitution’s impact on public health and safety justified or not?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "hiv/aids",
+    "wiki_title": "hiv/aids",
+    "summary": "HIV/AIDS is often invoked in public debates about prostitution to portray sex work as a public-health danger and to justify criminalization, policing, and restrictive regulations; conversely, public-health experts and sex‑worker rights advocates use HIV/AIDS evidence to argue that stigma and criminal laws worsen transmission and that decriminalization, condom access, testing and harm‑reduction services better protect both workers and the public.",
+    "queries": [
+      "How do people view HIV/AIDS risks tied to prostitution?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "hiv criminalization",
+    "wiki_title": "criminalization of homosexuality",
+    "summary": "In prostitution debates, the criminalization of homosexuality is invoked by moralizing or conservative voices to conflate same‑sex desire with sex work and justify punitive policing, harsher penalties, and exclusionary policies. Conversely, advocates for sex‑worker rights and public‑health approaches cite the harms caused by criminalizing homosexual conduct—stigma, police harassment and barriers to healthcare—as a parallel argument for decriminalizing and protecting sex workers.",
+    "queries": [
+      "What consequences has HIV criminalization brought for prostitution communities?"
+    ]
+  },
+  {
+    "id": "C4-1-6",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "durbar mahila samanwaya committee",
+    "wiki_title": "durbar mahila samanwaya committee",
+    "summary": "Durbar Mahila Samanwaya Committee is often cited in debates as a sex-worker-led advocacy group that reframes prostitution as legitimate work, using public-health evidence and human-rights arguments to push for decriminalization, collective bargaining, and harm-reduction policies. It is invoked to criticize abolitionist or rescue-oriented approaches and to justify policies that prioritize sex workers’ agency, safety, and access to services.",
+    "queries": [
+      "How do people view durbar mahila samanwaya committee’s role in prostitution?"
+    ]
+  },
+  {
+    "id": "C4-1-7",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "pepfar",
+    "wiki_title": "president's emergency plan for aids relief",
+    "summary": "PEPFAR and its conditional funding rules are often cited in debates over prostitution to justify anti‑prostitution, abstinence‑oriented, and trafficking‑focused policies by aligning HIV aid with moralistic restrictions. Public‑health and sex‑worker rights advocates counter that those conditions stigmatize sex workers and hinder harm‑reduction and HIV‑prevention programs targeted at this population.",
+    "queries": [
+      "How do people view pepfar’s policies on prostitution?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "sexually transmitted infections",
+    "wiki_title": "sexually transmitted infection",
+    "summary": "Concerns about sexually transmitted infections are often used to stigmatize and criminalize prostitution—portraying sex work as a public‑health threat that justifies policing, venue closures, or client bans—while alternatively public‑health advocates invoke STI risks to argue for decriminalization, regulation, routine testing, free condoms and treatment access as harm‑reduction measures that protect sex workers and reduce transmission.",
+    "queries": [
+      "Are sexually transmitted infections within prostitution adequately addressed or not?"
+    ]
+  },
+  {
+    "id": "C4-2-2",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "pre-exposure prophylaxis",
+    "wiki_title": "pre-exposure prophylaxis",
+    "summary": "In debates about prostitution, PrEP is invoked by harm‑reduction advocates to justify expanding healthcare access, targeted outreach, and decriminalization-friendly policies by reframing sex work as a public‑health issue rather than a moral failing. Critics argue reliance on PrEP can encourage risk compensation (reduced condom use), medicalize or tacitly enable commercial sex, and distract from addressing exploitation and structural drivers of sex work.",
+    "queries": [
+      "What effects has pre-exposure prophylaxis had in prostitution contexts?"
+    ]
+  },
+  {
+    "id": "C4-2-3",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "condom distribution",
+    "wiki_title": "condom",
+    "summary": "Condoms function as a public-health and policy touchstone in debates over prostitution: advocates point to condom distribution and mandatory workplace condom rules as justification for decriminalization and regulated sex work to protect workers and reduce STIs, while opponents claim such measures normalize or enable prostitution; additionally, practices like police seizing condoms as ‘evidence’ are frequently criticized for undermining harm-reduction and increasing health risks.",
+    "queries": [
+      "What consequences has condom distribution in prostitution caused?"
+    ]
+  },
+  {
+    "id": "C4-2-7",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "sexual health clinics",
+    "wiki_title": "sexual health clinic",
+    "summary": "Advocates invoke sexual health clinics to recast prostitution as a public‑health and rights issue, using clinic outreach, testing data, and free services to argue for decriminalization, harm‑reduction measures, and non‑punitive support for sex workers. Conversely, critics point to clinic caseloads or STI rates to justify stricter regulation, mandatory testing or surveillance, framing sex work as a public‑safety problem that requires control.",
+    "queries": [
+      "How do people view sexual health clinics related to prostitution?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "harm reduction",
+    "wiki_title": "harm reduction",
+    "summary": "In discussions of prostitution, harm reduction reframes sex work as a public‑health and human‑rights issue, buttressing arguments for decriminalization, regulated services (condom distribution, testing, outreach) and policies that prioritize sex workers’ safety and agency over punitive policing. Supporters cite reduced violence and STI transmission under harm‑reduction models, while critics argue such approaches risk normalizing exploitative practices or inadequately addressing coercion and trafficking.",
+    "queries": [
+      "How do people view harm reduction in prostitution?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "needle exchange",
+    "wiki_title": "needle and syringe programmes",
+    "summary": "Needle and syringe programmes are invoked in prostitution debates as part of a harm‑reduction frame that argues sex work should be treated as a public‑health issue—using NSP outreach to protect sex workers, reduce disease transmission, and justify decriminalization and integrated services. Critics, however, cite NSPs to argue that drug provision normalizes or enables drug‑dependent prostitution and use them to justify punitive, enforcement‑led responses rather than health‑based policies.",
+    "queries": [
+      "What effects has needle exchange had on prostitution and public health?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "peer education",
+    "wiki_title": "peer education",
+    "summary": "Advocates for sex workers frequently point to peer education as evidence that worker-led outreach improves health, safety and bargaining power, using it to support decriminalization, harm-reduction and rights-based policy over punitive or “rescue” approaches; critics sometimes frame peer education as insufficient or as normalizing prostitution rather than addressing exploitation.",
+    "queries": [
+      "How do people view peer education among sex workers?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "police raids",
+    "wiki_title": "police raid",
+    "summary": "Police raids are often cited by proponents of criminalization to frame prostitution as a public-safety and moral problem—using high-profile sting operations and rescues to justify tougher laws, policing resources, and anti-trafficking rhetoric. Critics use the same raids to highlight harms (displacement, violence, coerced cooperation, and the conflation of consensual sex work with trafficking) and to argue for decriminalization, harm-reduction, and rights-based policy alternatives.",
+    "queries": [
+      "Are police raids on prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "undercover stings",
+    "wiki_title": "undercover stings",
+    "summary": "Undercover stings are often presented by proponents of criminalization and tougher policing as concrete proof of illegal prostitution, trafficking, and the need for law-enforcement intervention. Critics counter that stings rely on entrapment, target marginalized sex workers, and create publicity-driven statistics that bolster calls for decriminalization, harm-reduction, and stronger worker protections.",
+    "queries": [
+      "What effects have undercover stings had on prostitution communities?"
+    ]
+  },
+  {
+    "id": "C4-6-7",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "civil rights lawsuits",
+    "wiki_title": "lawsuit",
+    "summary": "Lawsuits are often used by sex workers, trafficking survivors, and advocacy groups to challenge criminalization, police practices, and exploitative operators—framing prostitution as a civil-rights and harm-reduction issue that supports decriminalization, compensation, and regulatory reform. At the same time, civil actions by municipalities, victims, or private plaintiffs seeking injunctions or damages are cited to justify tougher enforcement and restrictions, so litigation outcomes are frequently wielded to bolster either reformist or punitive policy positions.",
+    "queries": [
+      "How do people view civil rights lawsuits in prostitution disputes?"
+    ]
+  },
+  {
+    "id": "C4-7",
+    "parent": "C4",
+    "level": 2,
+    "topic": "violence against sex workers",
+    "wiki_title": "violence against prostitutes",
+    "summary": "References to violence against prostitutes are deployed on both sides of the prostitution debate: abolitionists and those favoring criminalization cite it to argue prostitution is inherently exploitative and dangerous, while sex‑worker advocates cite it to demand decriminalization, labor protections, policing reform, and social supports to reduce harm. High‑profile murders and abuse narratives also drive moral panic and punitive enforcement policies, a dynamic critics say can worsen risks for sex workers rather than improve safety.",
+    "queries": [
+      "Is violence against sex workers ever justified or reasonable?"
+    ]
+  },
+  {
+    "id": "C4-7-5",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "jack the ripper",
+    "wiki_title": "jack the ripper",
+    "summary": "Jack the Ripper is invoked in debates about prostitution as a lurid emblem of the extreme violence sex workers can face—used by some to justify harsher policing, regulation, or moral crackdowns—while activists and scholars cite the case to criticize criminalization, police failure, and social marginalization and to argue for harm‑reduction, legal protections, and decriminalization.",
+    "queries": [
+      "What effects has Jack the Ripper had on perceptions of prostitution?"
+    ]
+  },
+  {
+    "id": "C4-7-6",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "police brutality",
+    "wiki_title": "police brutality",
+    "summary": "Advocates for sex-worker rights and harm reduction frequently cite police brutality to argue that criminalization and aggressive enforcement make sex workers more vulnerable to violence, coercion, and racialized abuse—using these examples to push for decriminalization, oversight, and non‑police safety approaches. Opponents of loosening enforcement often minimize such abuses or frame forceful policing as necessary for combating trafficking and protecting public order, shaping policy debates about enforcement vs. protection.",
+    "queries": [
+      "Is police brutality against sex workers justified or not?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4-7",
+    "level": 3,
+    "topic": "social stigma",
+    "wiki_title": "social stigma",
+    "summary": "Social stigma around prostitution is frequently used to label sex workers as immoral or tainted, legitimizing criminalization, policing, and exclusionary “rescue” interventions; it also underpins public hostility that fuels violence and barriers to healthcare. Conversely, advocates highlight the harms of stigma to argue for decriminalization, harm‑reduction, and rights‑based policies, while opponents warn that destigmatization would normalize exploitation — so stigma frames both punitive and reformist positions in the debate.",
+    "queries": [
+      "Is prostitution’s social stigma justified or not?"
+    ]
+  },
+  {
+    "id": "C4-8-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "new zealand",
+    "wiki_title": "new zealand",
+    "summary": "New Zealand is frequently cited in prostitution debates as the exemplar of full decriminalisation—advocates point to its 2003 Prostitution Reform Act and reported gains in sex‑worker safety, health access, and labour rights to justify decriminalisation. Critics counter that evidence is mixed, arguing the law normalises exploitation, may be linked to trafficking or community harms, and therefore use New Zealand to support more restrictive or regulatory alternatives.",
+    "queries": [
+      "Has new zealand's prostitution policy been beneficial or not?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "labor and economic rights",
+    "wiki_title": "labor rights",
+    "summary": "Calls to apply labor rights to prostitution reframe sex work as legitimate labor and are used to argue for decriminalization, workplace health and safety standards, and the right to organize so workers can reduce harm and bargain for better conditions. Critics say a pure labor-rights frame can normalize coercion or trafficking and therefore is often contested by abolitionist voices who favor criminalization or rescue-oriented policies.",
+    "queries": [
+      "Are labor and economic rights for prostitution workers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "sex workers' rights",
+    "wiki_title": "sex workers' rights",
+    "summary": "In public debates over prostitution, proponents invoke ‘sex workers’ rights’ to reframe selling sex as legitimate labor and a rights-based public-health issue, bolstering calls for decriminalization, regulation, destigmatization, and worker protections. Opponents counter that this framing normalizes exploitation and trafficking and use the term to justify continued criminalization or abolitionist policies.",
+    "queries": [
+      "How do people view sex workers' rights in prostitution discussions?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "scarlet alliance",
+    "wiki_title": "scarlet alliance",
+    "summary": "Scarlet Alliance is invoked in public debates as the peer-led voice of sex workers that reframes prostitution as labor, a public-health matter, and a human-rights issue—using evidence to push for decriminalization, safer working conditions, and harm-reduction policies while opposing criminalization and policies that conflate sex work with trafficking. Its advocacy is used to challenge moralistic or abolitionist narratives, though opponents (abolitionists and some conservatives) dispute its legitimacy and argue its positions downplay exploitation.",
+    "queries": [
+      "How do people view scarlet alliance within prostitution debates?"
+    ]
+  },
+  {
+    "id": "C5-2",
+    "parent": "C5",
+    "level": 2,
+    "topic": "decriminalization of sex work",
+    "wiki_title": "decriminalization of sex work",
+    "summary": "Calls to decriminalize sex work are used to reframe prostitution from a criminal issue to one of labor rights, public health, and harm reduction, supporting policies that prioritize safety, access to services, and reduced stigma for sex workers. Opponents invoke decriminalization to argue it legitimizes and expands prostitution markets, framing it as increasing exploitation and threatening vulnerable women and children and gender-equality objectives.",
+    "queries": [
+      "Is the decriminalization of sex work justified or not?"
+    ]
+  },
+  {
+    "id": "C5-2-7",
+    "parent": "C5-2",
+    "level": 3,
+    "topic": "nevada brothels",
+    "wiki_title": "list of brothels in nevada",
+    "summary": "The 'list of brothels in Nevada' is often cited in prostitution debates as concrete evidence of a regulated, quasi-legal model—used by proponents to argue legalization can enable licensing, health checks, worker protections, and local economic benefits. Opponents, however, point to the list to argue that such facilities normalize and compartmentalize sex work, reveal moral and social harms, or demonstrate that Nevada’s limited, localized approach neither eliminates illicit markets nor easily transfers to other jurisdictions.",
+    "queries": [
+      "Is allowing nevada brothels reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-5",
+    "parent": "C5",
+    "level": 2,
+    "topic": "sex workers' union",
+    "wiki_title": "sex workers union",
+    "summary": "Sex workers unions are invoked to reframe prostitution as work, bolstering arguments for decriminalization, labor protections, health and safety measures, and destigmatization in policy debates. Critics use the existence of such unions to argue that legalization normalizes exploitation or obscures trafficking, making them a focal point for clashes between rights-based and abolitionist positions.",
+    "queries": [
+      "How do people view sex workers' union organizing efforts?"
+    ]
+  },
+  {
+    "id": "C5-5-6",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "red umbrella",
+    "wiki_title": "red umbrella",
+    "summary": "The red umbrella is a visible symbol used by sex-worker rights movements to reframe prostitution as work deserving of labor protections, decriminalization, and reduced stigma, mobilizing public sympathy and policy arguments for safety and rights. Abolitionist critics counter that the symbol normalizes exploitation and diverts attention from trafficking and gender inequality.",
+    "queries": [
+      "Is the red umbrella symbol justified in prostitution advocacy?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5-5",
+    "level": 3,
+    "topic": "collective bargaining",
+    "wiki_title": "collective bargaining",
+    "summary": "Supporters of decriminalization use collective bargaining to frame sex work as legitimate labor, arguing that unions and collective agreements can improve safety, wages and agency for sex workers; opponents and abolitionists use the prospect of unionization to argue that formalizing collective bargaining would legitimize or institutionalize exploitation and complicate anti‑trafficking enforcement. In policy debates, calls for collective bargaining typically signal a labor‑rights/regulation approach, while resistance to it is invoked to justify criminalization or restrictive models.",
+    "queries": [
+      "Is collective bargaining for sex workers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "occupational health and safety",
+    "wiki_title": "occupational safety and health",
+    "summary": "Advocates for decriminalization and regulation invoke occupational safety and health to reframe prostitution as work that should receive workplace protections—access to health services, violence-prevention measures, safe premises, and labor rights—while critics and some policymakers invoke OSH to justify licensing, mandatory health checks, strict regulation, or outright bans on the grounds that formalization can normalize exploitation or inadequately protect trafficked and vulnerable people.",
+    "queries": [
+      "Is occupational health and safety for prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-6-5",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "workplace violence",
+    "wiki_title": "workplace violence",
+    "summary": "Claims about workplace violence are used both to depict prostitution as intrinsically dangerous—supporting abolitionist, criminalizing, or rescue‑oriented policies—and to argue for pragmatic reforms such as decriminalization, regulation, labor protections, and occupational‑safety measures that advocates say will reduce harm; critics counter that increased policing or criminal penalties often exacerbate violence by driving sex work underground.",
+    "queries": [
+      "Is workplace violence in prostitution settings inevitable or preventable?"
+    ]
+  },
+  {
+    "id": "C5-6-6",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "hiv testing",
+    "wiki_title": "national hiv testing day",
+    "summary": "On National HIV Testing Day public-health advocates invoke the day to argue that prostitution should be managed through harm-reduction—expanded testing, condom access, outreach and often decriminalization—to reduce transmission and protect workers. Opponents occasionally use testing-focused messaging to emphasize public‑health risks and justify stricter regulation or enforcement, so the day frames debates around health‑centered rights versus punitive responses.",
+    "queries": [
+      "Is hiv testing for sex workers reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "organized crime",
+    "wiki_title": "organized crime",
+    "summary": "Organized crime is frequently cited to portray prostitution as inseparable from trafficking, pimping, and violent exploitation, strengthening calls for criminalization, raids, and tougher anti‑trafficking enforcement. Conversely, advocates for regulation or decriminalization argue that punitive policies actually empower organized crime by driving sex work underground, so the “organized‑crime” narrative is used both to justify policing and to argue for reforms that reduce criminal control and improve worker safety.",
+    "queries": [
+      "What consequences has organized crime brought to prostitution?"
+    ]
+  },
+  {
+    "id": "C5-3-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "client criminalization",
+    "wiki_title": "client (prostitution)",
+    "summary": "The figure of the client is central to public debates: ‘end‑demand’ and Nordic‑model advocates portray clients as the source of exploitation and public nuisance and use that framing to justify criminalizing buyers, increased policing, and anti‑trafficking measures; sex‑worker and harm‑reduction voices counter that targeting clients drives the trade underground, increases worker risk, and undermines health and safety. How clients are described (as anonymous predators, ordinary consumers, or rare female buyers) steers stigma, gendered assumptions, and whether policy emphasis falls on law enforcement or decriminalization and worker protections.",
+    "queries": [
+      "Is client criminalization in prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C5-3-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "radical feminism",
+    "wiki_title": "radical feminism",
+    "summary": "Radical feminists frame prostitution as a form of patriarchal sexual domination and exploitation, using that analysis to oppose legalization or normalization and to advocate abolitionist policies (e.g., criminalizing buyers, funding exit services) as means to reduce male demand and protect women. They commonly challenge sex‑worker–rights arguments as ignoring structural gendered coercion and trafficking and argue policy should prioritize dismantling those power relations.",
+    "queries": [
+      "How do people view radical feminism’s approach to prostitution?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "feminist and gender perspectives",
+    "wiki_title": "gender",
+    "summary": "Gender is invoked to cast prostitution either as an outcome of gendered power and male demand—used to justify abolitionist or Nordic-style client-criminalization policies as protections for (mostly female) victims—or as a form of gendered labor, emphasizing the agency and rights of women, trans, and non‑binary sex workers and supporting decriminalization and labor protections. Debates over prostitution thus hinge on competing gendered narratives about exploitation, consent, masculinity, and the marginalization of trans and male sex workers, shaping public opinion and policy priorities.",
+    "queries": [
+      "Are feminist and gender perspectives on prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "catharine mackinnon",
+    "wiki_title": "catharine a. mackinnon",
+    "summary": "Catharine A. MacKinnon is frequently cited in prostitution debates as a leading feminist legal theorist who frames prostitution as a form of gendered violence and sexual exploitation, using that framing to justify abolitionist policies (such as criminalizing buyers and pimps) and to oppose legalization, regulation, and sex‑worker‑rights arguments.",
+    "queries": [
+      "What effects have Catharine Mackinnon's ideas on prostitution caused?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "andrea dworkin",
+    "wiki_title": "andrea dworkin",
+    "summary": "Andrea Dworkin is frequently invoked in debates to justify an abolitionist, radical-feminist framing of prostitution as a form of sexual violence and patriarchal exploitation, supporting criminalization or demand-reduction policies (e.g., the Nordic model) and expanded exit services rather than legalization. Critics use her name to characterize anti–sex‑work positions as moralistic and dismissive of sex workers’ agency.",
+    "queries": [
+      "How do people view andrea dworkin’s arguments about prostitution?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "intersectionality",
+    "wiki_title": "intersectionality",
+    "summary": "Intersectionality frames prostitution debates by showing how race, class, gender identity, immigration status and disability shape who is most vulnerable and how criminalization or policing produces unequal harms, which bolsters arguments for decriminalization, labor protections, and targeted services. It is also used to critique abolitionist and paternalistic policies that center white, middle‑class perspectives and to argue policies must address structural inequalities rather than treating sex work as a uniform issue.",
+    "queries": [
+      "How do people view intersectionality’s role in prostitution policy?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "transgender sex workers",
+    "wiki_title": "transgender sex workers",
+    "summary": "Transgender sex workers are frequently cited in prostitution debates as high‑vulnerability cases that bolster calls for decriminalization, trans‑inclusive health services, and targeted anti‑violence protections. Opponents sometimes use their marginalization to justify more punitive or abolitionist policies framed as rescuing exploited people, making them a focal point for competing narratives about harm, agency, and policy priorities.",
+    "queries": [
+      "How do people view transgender sex workers in prostitution discussions?"
+    ]
+  },
+  {
+    "id": "C6-3-4",
+    "parent": "C6",
+    "level": 3,
+    "topic": "coyote",
+    "wiki_title": "coyote",
+    "summary": "In discussions of prostitution, \"coyote\" is invoked as the archetypal smuggler or middleman who trafficks and coerces migrants into sex work, a portrayal used to justify tougher anti‑trafficking enforcement, border controls, and criminal penalties. Critics and sex‑worker advocates argue this framing conflates migration assistance with exploitation, stigmatizes migrant sex workers, and legitimizes punitive policies that often harm consensual workers and impede their rights.",
+    "queries": [
+      "Is a coyote's role in prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "human trafficking and migration",
+    "wiki_title": "human trafficking",
+    "summary": "Claims about human trafficking are used by abolitionists and tough-on-crime advocates to portray prostitution as inherently coercive and to justify criminalization, rescue-oriented policing, and stricter immigration/enforcement measures; by contrast, sex‑worker rights advocates invoke trafficking distinctions to argue that consensual adult prostitution should be decriminalized, regulated, and handled separately from anti‑trafficking efforts to protect workers and avoid abusive policing.",
+    "queries": [
+      "Is human trafficking and migration in prostitution contexts reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "migrant sex workers",
+    "wiki_title": "migrant sex work",
+    "summary": "Migrant sex work is frequently used in debates to portray prostitution as inherently exploitative and linked to trafficking, bolstering calls for criminalization, stricter immigration enforcement, and “rescue”-focused interventions. Conversely, rights-based advocates cite migrants’ legal and economic vulnerability to argue for decriminalization, labor protections, access to health and social services, and anti-discrimination approaches, while critics sometimes weaponize migrant involvement to justify xenophobic restrictions.",
+    "queries": [
+      "Is legal protection for migrant sex workers justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2-5",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "immigration enforcement",
+    "wiki_title": "immigration enforcement",
+    "summary": "Immigration enforcement is often invoked in debates about prostitution to link sex work with trafficking and undocumented migration, thereby justifying raids, arrests, and deportations and bolstering calls for tougher policing and border controls. Critics counter that such enforcement criminalizes and endangers migrant sex workers, undermining victim protections and decriminalization efforts while reinforcing xenophobic narratives.",
+    "queries": [
+      "How do people view immigration enforcement related to prostitution?"
+    ]
+  },
+  {
+    "id": "C7-2-6",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International is frequently invoked in debates to argue for decriminalizing consensual sex work, framing prostitution as a human-rights and labor issue that requires legal protection, health services, and access to justice rather than criminal penalties. Its 2015 policy shift is used to justify harm-reduction and service-based approaches and to oppose Nordic/abolitionist models, while opponents cite the stance to criticize Amnesty for allegedly downplaying trafficking and exploitation concerns.",
+    "queries": [
+      "Are Amnesty International’s calls on prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C7-2-7",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "survival sex",
+    "wiki_title": "survival sex",
+    "summary": "Advocates and critics invoke 'survival sex' to challenge portrayals of prostitution as freely chosen, framing many encounters as driven by coercion, poverty, and lack of alternatives and thereby undermining claims of full agency. That framing is used to push policy toward housing, welfare, harm‑reduction and victim‑centered services — or, in abolitionist rhetoric, to argue for criminalizing buyers and expanding exit supports rather than policing sellers.",
+    "queries": [
+      "How do people view survival sex among those in prostitution?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "polaris project",
+    "wiki_title": "polaris project",
+    "summary": "Polaris Project is often cited in public debates to portray prostitution as closely linked to human trafficking, using hotline data and reports to justify tougher law-enforcement responses, buyer-focused criminalization, and expanded victim-services funding; critics say its framing conflates consensual sex work with trafficking and is used to oppose decriminalization or legalization of sex work.",
+    "queries": [
+      "How do people view the Polaris Project’s role in prostitution?"
+    ]
+  },
+  {
+    "id": "C7-3-6",
+    "parent": "C7-3",
+    "level": 3,
+    "topic": "sex workers outreach project",
+    "wiki_title": "sex workers outreach project usa",
+    "summary": "Sex Workers Outreach Project USA is cited in debates over prostitution as a frontline advocate for harm-reduction, rights-based and decriminalization policies, supplying testimony and community-led evidence to justify access to health, safety, and social services and to oppose punitive/abolitionist approaches. Critics, however, point to the group to argue that policy should not normalize or expand sex‑work protections, framing its advocacy as evidence of bias toward legalization.",
+    "queries": [
+      "How do people view sex workers outreach project in prostitution debates?"
+    ]
+  },
+  {
+    "id": "C7-5",
+    "parent": "C7",
+    "level": 2,
+    "topic": "international organization for migration",
+    "wiki_title": "international organization for migration",
+    "summary": "In public debates the International Organization for Migration frames prostitution primarily through migration and trafficking lenses, using research and programs to highlight migrant vulnerability and to justify anti‑trafficking interventions, assisted return, and protection services. Its authority is invoked both to support rights‑based, survivor‑centered aid and to legitimize restrictive policing or immigration measures—drawing criticism that it sometimes conflates consensual sex work with exploitation.",
+    "queries": [
+      "Is the international organization for migration's role in prostitution policy justified?"
+    ]
+  },
+  {
+    "id": "C7-5-3",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "sex worker",
+    "wiki_title": "sex worker",
+    "summary": "In debates over prostitution, invoking “sex worker” reframes the issue as labor and human‑rights matter—used to justify decriminalization, workplace protections, and destigmatization while shifting policy toward harm reduction. Critics say the label downplays exploitation and normalizes commodifying sex, so choice of the term signals whether one favors rights‑based regulation or abolition/victim‑focused enforcement.",
+    "queries": [
+      "Is sex worker regulation in prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C7-5-5",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "assisted voluntary return",
+    "wiki_title": "voluntary return",
+    "summary": "In prostitution debates, voluntary return is frequently invoked by authorities and anti‑trafficking actors to justify repatriating migrant sex workers—framing them as temporary, removable “problems” and a quick policy fix instead of offering protection, legal status, or labor rights. Critics counter that this narrative masks coercion and lack of safe alternatives, enabling pressured or premature returns that heighten vulnerability and let traffickers evade accountability.",
+    "queries": [
+      "What effects has assisted voluntary return had on prostitution?"
+    ]
+  },
+  {
+    "id": "C7-5-6",
+    "parent": "C7-5",
+    "level": 3,
+    "topic": "international labour organization",
+    "wiki_title": "international labour organization",
+    "summary": "The ILO is often cited to reframe prostitution as a labour and human‑rights issue rather than solely a criminal or moral one: its reports and statements emphasize distinguishing forced or trafficked prostitution from consensual adult sex work and promote labour protections, social security and occupational safety for workers, which advocates use to justify decriminalization and regulatory reform. Conversely, opponents invoke ILO anti‑trafficking and forced‑labour mandates to argue for stronger enforcement and restrictions, so the organization is deployed on both sides to legitimize either rights‑based policy change or tougher anti‑exploitation measures.",
+    "queries": [
+      "How do people view the international labour organization’s policies on prostitution?"
+    ]
+  },
+  {
+    "id": "C7-6",
+    "parent": "C7",
+    "level": 2,
+    "topic": "trafficking in persons report",
+    "wiki_title": "trafficking in persons report",
+    "summary": "Trafficking in Persons reports are often invoked to equate prostitution with sexual exploitation, providing evidence for abolitionist and criminalization policies and justifying increased policing, prosecution, restrictive immigration rules, and foreign-aid conditionality. Critics — including decriminalization and sex‑worker rights advocates — counter that these reports conflate consensual sex work with trafficking, inflate victim counts, and legitimize interventions that increase stigma and harm rather than protecting workers' rights and safety.",
+    "queries": [
+      "How do people view the trafficking in persons report?"
+    ]
+  },
+  {
+    "id": "C7-6-5",
+    "parent": "C7-6",
+    "level": 3,
+    "topic": "united nations office on drugs and crime",
+    "wiki_title": "united nations office on drugs and crime",
+    "summary": "The UN Office on Drugs and Crime frames prostitution primarily through a trafficking and organized‑crime lens, supplying data and policy recommendations that emphasize anti‑trafficking enforcement, victim protection, and international criminal justice cooperation. Critics say this emphasis tends to conflate consensual sex work with exploitation and is used to justify criminalization and punitive measures that harm sex workers' rights and safety.",
+    "queries": [
+      "Is united nations office on drugs and crime justified regarding prostitution?"
+    ]
+  },
+  {
+    "id": "C7-7",
+    "parent": "C7",
+    "level": 2,
+    "topic": "nordic model",
+    "wiki_title": "nordic model",
+    "summary": "In debates over prostitution the “Nordic model” is invoked to justify criminalizing buyers while funding strong social services to help people exit sex work, framing prostitution as a gendered harm that state welfare should correct. Critics use the term to argue this approach stigmatizes and endangers sex workers, miscasts prostitution as solely a social problem rather than labor, and is only practicable where extensive welfare supports exist.",
+    "queries": [
+      "Is the nordic model for prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "digital platforms and technology",
+    "wiki_title": "digital platform (infrastructure)",
+    "summary": "Digital platforms are frequently invoked in prostitution debates: supporters argue that marketplaces, social networks and payment/hosting policies give sex workers greater autonomy, safety and evidence for calls to decriminalize and implement harm-reduction-focused regulation, while opponents claim these same platforms enable trafficking, exploitative advertising and anonymous demand, justifying tighter regulation, enforcement actions or platform bans. Contention therefore centers on platform moderation, payment restrictions and the real-world safety impacts of deplatforming versus regulated online facilitation.",
+    "queries": [
+      "Is the role of digital platforms and technology in prostitution justified?"
+    ]
+  },
+  {
+    "id": "C8-1",
+    "parent": "C8",
+    "level": 2,
+    "topic": "backpage",
+    "wiki_title": "backpage",
+    "summary": "Backpage became the focal example used by anti‑trafficking advocates and lawmakers to argue that online platforms facilitate prostitution and should face stricter regulation, prosecution, and liability. Conversely, sex‑worker rights and free‑speech advocates pointed to Backpage’s shutdown as evidence that removing online venues harms consensual workers’ safety and bolsters calls for decriminalization and harm‑reduction policies.",
+    "queries": [
+      "What consequences has backpage had on prostitution safety or exploitation?"
+    ]
+  },
+  {
+    "id": "C8-1-1",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "carl ferrer",
+    "wiki_title": "josé ferrer",
+    "summary": "José Ferrer is rarely central to modern debates about prostitution, but when evoked his career is used to illustrate how mid‑20th‑century Hollywood portrayals of gender, sexuality, and exoticized ‘others’ fed stereotypes that shaped public attitudes toward sex workers. These references tend to support cultural critiques that blame historical media representation for stigmatization rather than arguing specific policy solutions.",
+    "queries": [
+      "How do people view Carl Ferrer’s involvement with prostitution platforms?"
+    ]
+  },
+  {
+    "id": "C8-1-4",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "first amendment",
+    "wiki_title": "first amendment to the united states constitution",
+    "summary": "In debates over prostitution, advocates invoke the First Amendment to protect sex workers’ ability to advertise, speak about their experiences, organize, and use online platforms—arguing that bans on escort ads, solicitation-related speech, or prior restraint on content abridge free speech and association—while opponents and regulators rely on exceptions (obscenity, solicitation-as-conduct) to justify censorship and criminalization of prostitution-related communications.",
+    "queries": [
+      "Is restricting speech about prostitution compatible with the first amendment?"
+    ]
+  },
+  {
+    "id": "C8-1-6",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "u.s. department of justice",
+    "wiki_title": "united states department of justice",
+    "summary": "The U.S. Department of Justice is frequently invoked in debates over prostitution as the federal enforcer who frames sex work primarily through criminal law and anti‑trafficking narratives, using prosecutions, reports, and sting operations to justify punitive, law‑and‑order policies. Critics use DOJ actions and rhetoric to argue it conflates consensual sex work with exploitation, opposing decriminalization and harm‑reduction approaches while proponents cite it to support stricter enforcement.",
+    "queries": [
+      "How do people view the u.s. department of justice's prostitution policies?"
+    ]
+  },
+  {
+    "id": "C8-1-8",
+    "parent": "C8-1",
+    "level": 3,
+    "topic": "michael lacey",
+    "wiki_title": "michael lacey",
+    "summary": "As a long-time publisher of alternative weeklies, Michael Lacey is invoked in prostitution debates as an exemplar of media defending sex‑workers’ rights and press freedom—his papers’ investigative exposes of police stings and their publication of adult classifieds are used to argue for decriminalization and against law‑enforcement overreach. Conversely, critics point to his outlets as examples of media that normalize or facilitate commercial sex, using his record to justify tighter regulation and policing.",
+    "queries": [
+      "How do people view michael lacey’s role in prostitution debates?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sesta/fosta",
+    "wiki_title": "fosta-sesta",
+    "summary": "FOSTA-SESTA is invoked by proponents of tougher anti‑trafficking and platform‑liability policies to justify cracking down on online facilitation of prostitution by framing it as inseparable from trafficking; critics use FOSTA‑SESTA as a cautionary example that conflating consensual sex work with trafficking harms workers’ safety, free expression, and harm‑reduction efforts and thus bolsters calls for decriminalization or safer‑regulation approaches.",
+    "queries": [
+      "Is sesta/fosta justified regarding online prostitution regulation?"
+    ]
+  },
+  {
+    "id": "C8-2-2",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "section 230",
+    "wiki_title": "section 230",
+    "summary": "Debates about Section 230—especially its FOSTA-SESTA carve‑outs—are used to justify platforms removing ads and forums tied to prostitution as necessary to combat trafficking and protect victims, while critics cite the same legal change as having driven consensual sex workers offline, curtailed harm‑reduction, and enabled broad censorship and stigmatization of sex work.",
+    "queries": [
+      "Is section 230’s role in prostitution platform moderation justified or not?"
+    ]
+  },
+  {
+    "id": "C8-2-5",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "aclu",
+    "wiki_title": "american civil liberties union",
+    "summary": "The ACLU is invoked in prostitution debates to reframe sex work as a civil‑liberties and public‑health concern, arguing against criminalization and policing of consensual adult sex work and for decriminalization, harm‑reduction, and legal protections for sex workers. Opponents use the ACLU as a foil, portraying its stance as overly permissive or as minimizing trafficking and exploitation.",
+    "queries": [
+      "What effects has aclu involvement had on prostitution laws?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "onlyfans",
+    "wiki_title": "onlyfans",
+    "summary": "OnlyFans is often cited by proponents of sex‑work normalization as evidence that digital platforms can provide agency, income opportunities, and a rationale for decriminalization and labor protections for sex workers. Critics, however, use its low average earnings, platform policy controversies, and bank-driven content pressures to argue that platformized sex work amplifies exploitation, trafficking risks, and calls for tighter regulation or moral restrictions.",
+    "queries": [
+      "Are concerns about OnlyFans and prostitution justified or not?"
+    ]
+  },
+  {
+    "id": "C8-3-2",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "stripe (company)",
+    "wiki_title": "stripe, inc.",
+    "summary": "Stripe, as a dominant online payments processor, is frequently cited in debates over prostitution because its policies about permitting or blocking payments effectively enable or cut off income for sex workers; proponents of restriction point to such de-risking as a way to curb trafficking and illegal activity, while critics argue Stripe’s enforcement economically marginalizes consensual sex workers, reinforces stigma, and undermines harm‑reduction and safety efforts.",
+    "queries": [
+      "How do people view Stripe (company)'s policies toward prostitution payments?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "pornography",
+    "wiki_title": "pornography",
+    "summary": "In public debates about prostitution, porn is invoked by sex‑positive advocates to normalize paid sexual labor and bolster arguments for decriminalization, regulation, and workplace protections based on consent, while abolitionist and feminist critics cite porn as evidence that sexual commodification entrenches exploitation and misogyny and thus warrants prohibition or stricter controls. Concerns about non‑consensual porn and deepfakes further fuel calls for tighter legal safeguards and enforcement across the sex industry.",
+    "queries": [
+      "What effects has pornography had on prostitution?"
+    ]
+  },
+  {
+    "id": "C8-3-6",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "creator economy",
+    "wiki_title": "creator economy",
+    "summary": "The creator-economy frame is used by advocates to recast prostitution as platform-enabled independent labor—citing subscription and pay-per-view models to argue for destigmatization, labor protections, and decriminalization—while opponents use the same frame to highlight platform-driven precarity, surveillance, exploitation and trafficking risks, pushing for stricter regulation, content moderation, and bans.",
+    "queries": [
+      "How do people view the creator economy's impact on prostitution?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "craigslist personals",
+    "wiki_title": "craigslist",
+    "summary": "Craiglist’s personals and escort listings became a focal point in public debates about prostitution, cited by prosecutors and anti‑trafficking advocates as evidence that online platforms enable commercial sex and should face stricter enforcement, while sex‑worker advocates and harm‑reduction proponents used Craigslist as an example of how moderated online spaces can improve safety and autonomy and warned that policing such sites (e.g., after FOSTA‑SESTA) can push sex work into more dangerous, unregulated settings.",
+    "queries": [
+      "How do people view craigslist personals regarding prostitution?"
+    ]
+  },
+  {
+    "id": "C8-4-5",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "escort services",
+    "wiki_title": "escort agency",
+    "summary": "Escort agencies are used in debates as a symbol of either a regulated, professionalized form of sex work that proponents cite to justify decriminalization and labor protections, or as evidence of commercialization and hidden coercion that critics use to argue for stricter enforcement and abolition. By foregrounding issues of safety, trafficking, and profit, agencies shape whether prostitution is framed as legitimate work requiring regulation or as inherently exploitative needing prohibition.",
+    "queries": [
+      "How do people view escort services in the prostitution industry?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "johns",
+    "wiki_title": "johns",
+    "summary": "In debates about prostitution, 'johns' are frequently cast as the source of demand and moral/perpetrator problem—justifying policies like buyer-focused criminalization, stings, and \"john schools\" aimed at reducing trafficking and protecting victims. Opposing narratives portray johns as ordinary consenting clients to argue that prosecuting them stigmatizes sex workers, drives the industry underground, and undermines harm-reduction or decriminalization efforts.",
+    "queries": [
+      "Is the behavior of johns in prostitution reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "paypal",
+    "wiki_title": "paypal",
+    "summary": "PayPal is often cited in debates over prostitution as an example of private financial gatekeepers whose anti–sex‑work policies and account shutdowns deplatform and economically marginalize consensual sex workers, fueling critiques that such practices harm safety and necessitate legal or regulatory protections for financial access. Defenders of PayPal’s restrictions argue they are legitimate compliance and anti‑trafficking measures, framing the issue as a conflict between platform risk management and advocates for decriminalization and banking inclusion.",
+    "queries": [
+      "What consequences does paypal’s stance on prostitution create?"
+    ]
+  },
+  {
+    "id": "C8-5-2",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "venmo",
+    "wiki_title": "venmo",
+    "summary": "In debates over prostitution, Venmo is often cited as a source of digital evidence—public transactions and social-feed metadata have been used by journalists and law enforcement to identify and prosecute sex workers and clients, bolstering calls for stricter enforcement and surveillance. Critics argue Venmo’s default publicity and data practices endanger sex workers’ privacy and safety, fueling demands for stronger platform privacy protections and policy reforms (including decriminalization) to reduce surveillance harms.",
+    "queries": [
+      "Is venmo use for prostitution payments reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-5-5",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "chargebacks",
+    "wiki_title": "chargeback",
+    "summary": "In debates over prostitution, client-initiated chargebacks are invoked by banks and payment platforms as evidence of high fraud and legal risk, a rationale often used to block payment services and justify deplatforming sex work. Advocates argue chargebacks instead disproportionately victimize sex workers—enabling client theft and undermining safety and income—which fuels calls for regulated payment access and legal protections.",
+    "queries": [
+      "Are chargebacks in prostitution cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "Removing ads, forums, or advocacy related to prostitution is often promoted by anti‑trafficking and abolitionist voices as a way to reduce demand and exploitative networks, while opponents argue deplatforming silences sex workers, undermines their safety and organizing, and entrenches stigma and criminalization. Thus debates over deplatforming tend to track policy positions: pro‑deplatforming supports suppression and enforcement approaches, whereas anti‑deplatforming supports harm‑reduction, decriminalization, and free‑speech advocates.",
+    "queries": [
+      "What effects has deplatforming had on prostitution communities?"
+    ]
+  },
+  {
+    "id": "C8-6-7",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "reddit",
+    "wiki_title": "reddit",
+    "summary": "On Reddit, prostitution is debated in dedicated subreddits where sex workers and allies post first‑hand accounts, harm‑reduction advice, and arguments for decriminalization and labor rights, while other communities push abolitionist or trafficking‑focused moralizing narratives; voting, moderation, and anecdote-driven threads determine which frames gain visibility and influence public and policy conversations.",
+    "queries": [
+      "Are reddit policies on prostitution content justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "sting operations",
+    "wiki_title": "sting operation",
+    "summary": "In public debates over prostitution, sting operations are often showcased by proponents of criminalization and 'end demand' or rescue-focused policies as proof of buyer culpability and trafficking, bolstering arguments for stricter policing and prosecutions; opponents argue stings frequently amount to entrapment, misidentify consensual sex work, harm worker safety, and undercut harm‑reduction or decriminalization proposals.",
+    "queries": [
+      "What effects have sting operations in prostitution produced?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "entrapment",
+    "wiki_title": "entrapment",
+    "summary": "Allegations of entrapment frequently shape arguments about prostitution by portraying sting operations as manufactured crimes that disproportionately target vulnerable sex workers and clients, bolstering calls for decriminalization, limits on undercover policing, and greater protections for consensual sex work. Conversely, proponents of undercover tactics argue such operations are necessary to catch traffickers and protect exploited persons, framing entrapment claims as obstacles to enforcement.",
+    "queries": [
+      "How do people view entrapment related to prostitution?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "undercover operation",
+    "wiki_title": "covert operation",
+    "summary": "Undercover stings and covert investigations are often used in public debates over prostitution to generate criminal evidence or sensational 'rescue' narratives that justify tougher policing, abolitionist policies, and anti‑trafficking measures. Critics counter that these tactics entrap or misrepresent consensual sex work, undermine worker safety and trust, and are used to argue for decriminalization and harm‑reduction approaches instead.",
+    "queries": [
+      "Are undercover operations in prostitution investigations justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-7",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "police misconduct",
+    "wiki_title": "police misconduct",
+    "summary": "Allegations of police misconduct—including sexual exploitation, entrapment, extortion, and violence—are frequently cited to argue that criminal enforcement of prostitution endangers sex workers and undermines trust in law enforcement, bolstering calls for decriminalization, independent oversight, and service-based responses. Opponents also use misconduct claims to demand stricter oversight, professionalization of policing, or regulatory models that reduce street-based policing while focusing resources on trafficking and exploitation.",
+    "queries": [
+      "Is police misconduct in prostitution investigations justified or not?"
+    ]
+  }
+]

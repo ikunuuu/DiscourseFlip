@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Electric Vehicles",
+    "wiki_title": "Electric Vehicles",
+    "summary": "In public debates, EVs are framed by advocates as a technocratic solution to climate change, air pollution, and energy dependence that justifies subsidies, mandates, and infrastructure investment; opponents use EVs to criticize government spending, question range, costs and battery-supply-chain impacts, and to argue against rapid phase-outs of internal-combustion vehicles and related regulations.",
+    "queries": [
+      "Is the shift to Electric Vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "environmental impact",
+    "wiki_title": "environmental issues",
+    "summary": "Advocates cite environmental issues to portray electric vehicles as a necessary means to cut CO2 and urban air pollution, bolstering arguments for subsidies, stricter tailpipe rules, and investment in charging and renewable power. Critics invoke environmental concerns about battery mining, manufacturing and disposal, and grid emissions to argue EVs can shift rather than solve harms and to demand tougher mining, recycling and clean‑energy policies.",
+    "queries": [
+      "Is electric vehicles' environmental impact reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "lithium mining",
+    "wiki_title": "lithium",
+    "summary": "Lithium figures prominently in EV debates as the key raw material underpinning battery range and cost—supporters point to falling lithium‑ion battery prices, improved chemistry, and recycling/domestic sourcing to justify rapid electrification and subsidies, while critics highlight environmental damage from lithium mining, supply bottlenecks, and geopolitical dependence to argue for slower rollout, stricter extraction rules, or alternative technologies.",
+    "queries": [
+      "Is lithium mining expansion reasonable given electric vehicles' demand?"
+    ]
+  },
+  {
+    "id": "C1-1-1",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "albemarle corporation",
+    "wiki_title": "albemarle corporation",
+    "summary": "Albemarle is frequently invoked in EV debates as a canary for the battery supply chain—supporters point to its lithium production and projects as proof that raw‑material constraints can be overcome to scale electric vehicles and justify industrial policy to secure supplies, while critics use the company to argue that EVs simply outsource environmental and social harms from fossil fuels to mining regions and create new geopolitical and price vulnerabilities that warrant stricter regulation.",
+    "queries": [
+      "How do people view albemarle corporation in the EV battery materials market?"
+    ]
+  },
+  {
+    "id": "C1-1-2",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "sqm",
+    "wiki_title": "sqm",
+    "summary": "In EV debates, the company SQM is often invoked as either an enabler—used by proponents to show that lithium supplies can scale to support mass EV adoption—or as a foil by critics who point to its environmental, water‑use, and governance controversies to argue for slower rollout, stricter regulation, more recycling, or alternative battery strategies.",
+    "queries": [
+      "Is using sqm for EV battery size comparisons reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-3",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "salar de atacama",
+    "wiki_title": "salar de atacama",
+    "summary": "The Salar de Atacama is frequently cited in EV debates as an example of the environmental and social costs of lithium extraction, used by critics to argue EVs simply relocate pollution to fragile ecosystems and indigenous communities and therefore aren’t purely ‘green.’ Supporters invoke it to press for stricter sourcing standards, recycling, and alternative battery chemistries or industrial policies to secure ethical supply chains rather than abandon electrification.",
+    "queries": [
+      "Are environmental concerns around salar de atacama reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-1-5",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "indigenous rights",
+    "wiki_title": "indigenous rights",
+    "summary": "Indigenous rights are often invoked to criticize electric vehicle supply chains that rely on mining for lithium, cobalt and nickel on or near indigenous lands, framing the EV transition as environmental injustice or “green colonialism” and demanding free, prior and informed consent, land protections, and benefit‑sharing. They also shape pro‑EV arguments that insist policy design include indigenous consultation, community‑led renewable/EV projects, jobs and recycling so the transition respects sovereignty and delivers local benefits.",
+    "queries": [
+      "Is prioritizing electric vehicles over indigenous rights reasonable or not?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "cobalt mining",
+    "wiki_title": "cobalt",
+    "summary": "Cobalt figures prominently in EV debates as the ethically and geopolitically fraught metal in many lithium‑ion batteries, with stories about DRC‑centric supply chains, child labor, and environmental harm used to criticize the morality and feasibility of rapid EV adoption. Proponents counter by pushing for responsible sourcing, recycling, and low‑ or no‑cobalt battery chemistries, or by calling for policy to diversify and secure supply chains to justify continued electrification.",
+    "queries": [
+      "How do people view cobalt mining tied to Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C1-2-1",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "democratic republic of the congo",
+    "wiki_title": "democratic republic of the congo",
+    "summary": "The DRC is routinely invoked in EV debates as evidence of ethical, environmental and geopolitical downsides of battery supply chains—cited by critics to argue EVs are ‘‘not truly green’’ because mining in the DRC is linked to human-rights abuses, conflict finance and concentrated foreign control. Proponents and policymakers counter by using the DRC to justify stricter due diligence, investment in local processing and recycling, supply‑chain diversification, or slower/alternative technology pathways to avoid dependency.",
+    "queries": [
+      "Is the democratic republic of the congo’s role in electric vehicles justified?"
+    ]
+  },
+  {
+    "id": "C1-2-2",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "artisanal and small-scale mining",
+    "wiki_title": "artisanal mining",
+    "summary": "Artisanal mining is frequently raised in EV debates as evidence of harmful, often informal cobalt and lithium supply chains—used by critics to portray electric vehicles as ethically compromised and to argue against rapid adoption or foreign-sourced batteries. Supporters and policymakers, meanwhile, point to artisanal-mining harms to justify stronger due-diligence laws, battery recycling, alternative chemistries, and formalization programs to make electrification socially and environmentally acceptable.",
+    "queries": [
+      "How do people view artisanal and small-scale mining for EV batteries?"
+    ]
+  },
+  {
+    "id": "C1-2-4",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "amnesty international",
+    "wiki_title": "amnesty international",
+    "summary": "Amnesty International is frequently cited in EV debates to expose human‑rights abuses in battery mineral supply chains—notably cobalt mining in the DRC—and to challenge industry ‘green’ claims, pressing for mandatory due diligence, transparency, reparations, and stronger regulation. Its reports are used both to criticize automakers and governments for enabling exploitation and to push pro‑EV reforms that prioritize workers’ rights, responsible sourcing, and recycling rather than opposing electrification outright.",
+    "queries": [
+      "Is Amnesty International’s criticism of EV manufacturers justified or not?"
+    ]
+  },
+  {
+    "id": "C1-2-5",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "glencore",
+    "wiki_title": "glencore",
+    "summary": "Glencore is frequently cited in EV debates as a symbol of how the electric‑vehicle transition depends on large mining and commodity‑trading firms that control critical battery metals, driving concerns about supply security, price volatility and geopolitical leverage. Opponents point to Glencore to criticize ongoing environmental and human‑rights harms and to demand stricter regulation, recycling and supply‑diversification, while proponents highlight its investments as evidence that mineral supply can scale to meet EV demand.",
+    "queries": [
+      "What consequences has glencore had for Electric Vehicles adoption?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "lifecycle assessment",
+    "wiki_title": "life-cycle assessment",
+    "summary": "Life-cycle assessments (LCAs) are routinely deployed in EV debates to argue that electric cars deliver lower lifetime greenhouse-gas emissions—supporting subsidies, zero‑emission vehicle mandates, grid decarbonization, and recycling policies—while critics cite LCAs that highlight battery production emissions, mining impacts, and sensitivity to electricity mix or boundary choices to question EVs’ net climate benefits or to demand stronger supply‑chain and recycling regulation.",
+    "queries": [
+      "How do people view lifecycle assessment in electric vehicles?"
+    ]
+  },
+  {
+    "id": "C1-4-1",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "iso 14040",
+    "wiki_title": "iso 14000 family",
+    "summary": "Stakeholders invoke the ISO 14000 family to argue that standardized environmental management and lifecycle accounting make electric-vehicle production and battery supply chains demonstrably lower-impact, using certification to justify corporate claims, procurement preferences, and policy support for EV adoption. Critics counter that ISO certifications are voluntary and narrow, framing them as potential greenwashing that fail to address embedded emissions, electricity mix, and end-of-life impacts, and thus insufficient without stricter regulation or transparent lifecycle standards.",
+    "queries": [
+      "How do people view iso 14040 in electric vehicle sustainability debates?"
+    ]
+  },
+  {
+    "id": "C1-4-3",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "grid electricity mix",
+    "wiki_title": "levelized cost of electricity",
+    "summary": "Proponents cite falling LCOE for wind and solar to argue that powering vehicles with electricity will be cheaper and lower‑carbon over the long run, bolstering calls for subsidies, charging infrastructure investment, and rapid EV adoption. Critics counter that LCOE can hide time‑of‑day pricing, grid upgrade and distribution costs, and regional fuel mixes, using higher or selectively framed LCOE estimates to argue EVs may not be as economical or clean in many places and thus to oppose mandates or generous incentives.",
+    "queries": [
+      "How do people view the grid electricity mix affecting EV emissions?"
+    ]
+  },
+  {
+    "id": "C1-4-8",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "ipcc",
+    "wiki_title": "intergovernmental panel on climate change",
+    "summary": "Policymakers, advocates and media routinely invoke IPCC findings to justify rapid electrification of road transport, bans on new internal-combustion sales, and EV subsidies/charging build‑out as necessary measures to cut CO2 quickly. Critics also cite IPCC caveats about lifecycle emissions, supply‑chain impacts and the need for low‑carbon electricity and complementary measures (public transit, recycling, demand reduction) to argue EVs are not a standalone solution.",
+    "queries": [
+      "What consequences has ipcc’s EV guidance produced?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "dieselgate",
+    "wiki_title": "volkswagen emissions scandal",
+    "summary": "Proponents cite the Volkswagen scandal as evidence that combustion-engine manufacturers and weak enforcement cannot be trusted to reduce pollution, using it to justify a rapid shift to battery electric vehicles, stricter emissions rules, and supportive public policies. Critics and skeptics invoke the episode to demand tougher oversight and lifecycle‑emissions transparency for EVs, warning against greenwashing or assuming a powertrain switch alone will fix industry malpractice.",
+    "queries": [
+      "What long-term effects might dieselgate have on electric vehicles adoption?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "environmental protection agency",
+    "wiki_title": "united states environmental protection agency",
+    "summary": "Advocates cite EPA emissions data, lifecycle analyses, and tailpipe/GHG standards to justify mandates, subsidies, and consumer claims that electric vehicles cut pollution and climate impacts; EPA certifications and fuel-economy/GHG labels are frequently invoked to validate EV benefits. Critics, however, frame EPA rulemaking as regulatory overreach or challenge its methodologies (e.g., grid-emissions assumptions, battery lifecycle impacts) to argue EV policies impose economic costs or unfairly constrain industry and consumer choice.",
+    "queries": [
+      "How do people view the environmental protection agency’s role in EV policy?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "greenwashing",
+    "wiki_title": "greenwashing",
+    "summary": "In EV debates, accusations of greenwashing are used to challenge automakers’ and governments’ claims about electric cars’ climate benefits—pointing to battery mining, grid emissions, and lifecycle impacts to argue against subsidies, mandates or to demand stricter transparency and regulation. Conversely, opponents of fossil‑fuel incumbents use counter-accusations of greenwashing to defend aggressive electrification policies, making the charge a rhetorical weapon that either undermines or bolsters support for EV rollout depending on the speaker.",
+    "queries": [
+      "Is greenwashing in electric vehicles justified or not?"
+    ]
+  },
+  {
+    "id": "C1-3-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "agbogbloshie",
+    "wiki_title": "agbogbloshie",
+    "summary": "Agbogbloshie is invoked in electric vehicle debates as a vivid cautionary example that electrification can shift pollution and toxic battery and electronics waste to poorer countries, and is used by critics to argue EVs’ climate benefits are undermined by weak end‑of‑life and supply‑chain management. Proponents and policy advocates likewise cite it to demand stronger extended producer responsibility, closed‑loop battery recycling, ethical sourcing and stricter export controls so EVs are not accompanied by the harms seen at Agbogbloshie.",
+    "queries": [
+      "Is exporting EV batteries to agbogbloshie justified or not?"
+    ]
+  },
+  {
+    "id": "C1-6-2",
+    "parent": "C1",
+    "level": 3,
+    "topic": "clean air act waiver",
+    "wiki_title": "clean air act (united states)",
+    "summary": "The U.S. Clean Air Act is cited by EV proponents to justify EPA vehicle-emissions rules, zero‑emission mandates, and incentives as necessary tools to cut tailpipe pollution and protect public health; opponents invoke CAA limits, legal challenges, costs, and lifecycle electricity/emissions concerns to argue against strict mandates or for more technology‑neutral policies.",
+    "queries": [
+      "What impacts has the clean air act waiver had on EV adoption?"
+    ]
+  },
+  {
+    "id": "C1-8-7",
+    "parent": "C1",
+    "level": 3,
+    "topic": "direct-to-consumer sales",
+    "wiki_title": "direct-to-consumer",
+    "summary": "EV proponents use direct‑to‑consumer sales to depict electric cars as modern, tech‑centric products that justify bypassing traditional dealerships—arguing DTC accelerates adoption through lower prices, tighter integration of software/OTA updates, and a superior buying experience—while critics frame DTC as concentrating control over pricing, data, and service, threatening local dealers and consumer protections and thus meriting regulatory pushback.",
+    "queries": [
+      "What consequences have direct-to-consumer sales had on electric vehicles?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "economic and market",
+    "wiki_title": "free market",
+    "summary": "Advocates of a free‑market frame often criticize EV subsidies, mandates, and public charging investments as government 'picking winners' that should be decided by consumer demand and private investment, using this argument to oppose rapid regulatory pushes for electrification. Others who favor market solutions invoke the same frame to support market‑based tools like carbon pricing or emissions trading and competition/deregulation to spur EV innovation rather than direct subsidies or rigid mandates.",
+    "queries": [
+      "Is the economic and market transition toward Electric Vehicles justified or not?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "u.s. ev tax credit",
+    "wiki_title": "new markets tax credit program",
+    "summary": "In EV debates, advocates point to the New Markets Tax Credit as a way to steer private capital into EV factories, battery plants, and charging networks in low‑income or post‑industrial communities, framing electrification as both economic development and environmental‑justice policy. Critics use the program to argue that such tax credits can become corporate welfare—channeling subsidies to large firms without guarantees of local jobs, affordability, or meaningful emissions benefits.",
+    "queries": [
+      "Are benefits of the u.s. ev tax credit justified or not?"
+    ]
+  },
+  {
+    "id": "C2-6",
+    "parent": "C2",
+    "level": 2,
+    "topic": "total cost of ownership",
+    "wiki_title": "total cost of ownership",
+    "summary": "Debaters use total cost of ownership to claim EVs are cheaper over time—citing lower fuel and maintenance costs plus tax credits—to support subsidies, fleet electrification, and stricter emissions policies; opponents counter by highlighting contested TCO inputs (battery replacement, charging availability, electricity prices, resale values and lifecycle costs) to argue EVs can be more expensive for many buyers and should not be broadly subsidized or mandated.",
+    "queries": [
+      "Is the total cost of ownership for Electric Vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-2",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "gasoline prices",
+    "wiki_title": "gasoline and diesel usage and pricing",
+    "summary": "Fuel prices and consumption patterns are central talking points in EV debates: advocates emphasize high or volatile gasoline/diesel costs to argue EVs lower household fuel bills and reduce oil dependence, while critics point to low fuel prices to question EVs’ near‑term economic benefits and oppose generous subsidies. Debates about fuel taxation and unpriced pollution also shape policy positions—pro‑EV voices call for higher fuel taxes or carbon pricing and incentives to correct market failures, whereas opponents use cheap fuel or fiscal concerns to resist mandates and subsidies.",
+    "queries": [
+      "Is concern about gasoline prices driving EV purchases justified?"
+    ]
+  },
+  {
+    "id": "C2-6-3",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "electricity prices",
+    "wiki_title": "electricity pricing",
+    "summary": "Debates over electric vehicles frequently hinge on electricity pricing: advocates use low or time-of-use tariffs and forecasts of cheaper renewable power to argue EVs have lower lifetime operating costs and justify subsidies, smart‑charging and V2G policies, while critics point to high retail rates, demand charges, and fossil‑fuel‑dependent peak pricing to claim EVs may not deliver savings and could raise grid costs, opposing rapid rollouts or demanding stricter cost‑recovery and infrastructure rules.",
+    "queries": [
+      "Are rising electricity prices for electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-6-6",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "vehicle depreciation",
+    "wiki_title": "depreciation",
+    "summary": "Debates about EVs frequently invoke depreciation as a proxy for resale risk and total cost of ownership: supporters highlight improving residual values and accelerated tax depreciation for fleets to justify adoption and subsidies, while skeptics point to battery-aging uncertainty and steep early resale declines in some models to argue EVs are risky investments or require continued policy support.",
+    "queries": [
+      "What effects has vehicle depreciation had on EV adoption?"
+    ]
+  },
+  {
+    "id": "C2-6-7",
+    "parent": "C2-6",
+    "level": 3,
+    "topic": "auto insurance",
+    "wiki_title": "vehicle insurance",
+    "summary": "Insurers' coverage terms and premiums are frequently mobilized in EV debates—critics point to higher repair and battery-replacement costs, specialized parts and fire/cyber risks to argue EVs raise ownership costs, while proponents emphasize lower accident rates, reduced maintenance and emerging ‘green’ discounts to advocate subsidies, tailored underwriting, or regulatory changes to make EVs cheaper and less risky to insure.",
+    "queries": [
+      "What consequences have auto insurance changes for electric vehicles caused?"
+    ]
+  },
+  {
+    "id": "C2-7",
+    "parent": "C2",
+    "level": 2,
+    "topic": "used car market",
+    "wiki_title": "used cars",
+    "summary": "The used-car market is central to debates about EV equity and practicality: advocates argue that a robust certified pre-owned EV market and good resale values will expand access and reduce lifecycle emissions, while critics point to scarce supply, battery-replacement costs, range/charging concerns and uncertain depreciation that can leave second‑hand buyers exposed. Policymakers invoke these dynamics to justify incentives, trade‑in or warranty programs to protect used-EV buyers or, alternatively, to argue against fast new‑car EV mandates as unfair to low‑income drivers who depend on the used market.",
+    "queries": [
+      "Is the used car market adapting to Electric Vehicles reasonably or not?"
+    ]
+  },
+  {
+    "id": "C2-7-3",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "certified pre-owned",
+    "wiki_title": "certified pre-owned",
+    "summary": "Proponents cite manufacturer certified pre-owned programs as evidence that used EVs can be trusted—pointing to warranty-backed battery checks to justify mainstream adoption and policies that favor expanding the secondary EV market. Critics counter that CPO programs let makers capture resale premiums, obscure long-term battery degradation and limit independent repair, fueling calls for stronger battery-disclosure rules and protections to keep affordable used EVs accessible.",
+    "queries": [
+      "How do people view certified pre-owned electric vehicles?"
+    ]
+  },
+  {
+    "id": "C2-7-6",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "tesla model 3",
+    "wiki_title": "tesla model 3",
+    "summary": "The Model 3 is often held up as the proof‑point that electric vehicles can be affordable, practical, and mainstream—used by advocates to justify subsidies, charging infrastructure investment, and policies accelerating electrification. Critics, however, cite Tesla‑specific issues (quality and service problems, Autopilot safety controversies, battery supply and lifecycle impacts, and dependence on incentives) to argue against uncritical promotion of EVs and for tighter regulation or different policy priorities.",
+    "queries": [
+      "What impacts has the tesla model 3 had on EV adoption?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2-7",
+    "level": 3,
+    "topic": "carvana",
+    "wiki_title": "carvana",
+    "summary": "Carvana is invoked in EV debates as an example of how online used-car platforms can broaden access to affordable electric vehicles and reveal market pricing and residual-value trends that support expanding used-EV incentives. Critics, however, use Carvana’s inspection, battery-disclosure, and customer-service shortcomings to argue online sales can undermine buyer trust and to push for stronger transparency and regulatory standards for second‑hand EVs.",
+    "queries": [
+      "How do people view Carvana's approach to selling electric vehicles?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "oil industry",
+    "wiki_title": "petroleum industry",
+    "summary": "The petroleum industry frequently frames electric vehicles as economically impractical or environmentally overstated—highlighting battery mining, lifecycle emissions, grid constraints, and range anxiety—to argue against rapid EV mandates and subsidies and to defend continued demand for liquid fuels. It backs political lobbying and public campaigns that emphasize oil-sector jobs, energy-security risks, and alternatives (e‑fuels, hybrids, carbon capture) to slow electrification and shape policy toward gradual, oil-inclusive transitions.",
+    "queries": [
+      "How do people view the oil industry’s role in EV transition?"
+    ]
+  },
+  {
+    "id": "C2-8-1",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "exxonmobil",
+    "wiki_title": "exxonmobil",
+    "summary": "ExxonMobil is often cited in EV debates to cast doubt on rapid electrification—its research, advertising, and lobbying are used to highlight battery lifecycle emissions, grid reliability, and to promote low‑carbon fuels or hydrogen as alternatives to battery EVs. Conversely, EV advocates point to ExxonMobil’s funding and policy influence as evidence the company seeks to protect oil markets and delay EV adoption through misinformation and pressure on regulators.",
+    "queries": [
+      "What effects has ExxonMobil had on electric vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C2-8-2",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "shell",
+    "wiki_title": "shell",
+    "summary": "The oil major Shell is frequently invoked in EV debates as a corporate example of both building charging infrastructure and protecting its fossil-fuel interests—supporters cite its investments as pragmatic private-sector support for electrification, while critics use Shell to argue that such moves are greenwashing and that the company lobbies for slower, hybrid- or fuel-substitute transitions rather than rapid, policy-driven electrification.",
+    "queries": [
+      "Is Shell’s involvement in electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-8-3",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "american petroleum institute",
+    "wiki_title": "american petroleum institute",
+    "summary": "The American Petroleum Institute often shows up in EV debates as an industry lobby that questions rapid electrification—promoting narratives about grid strain, lifecycle emissions, range/reliability concerns, and harm to fuel-sector jobs—to justify opposing strict EV mandates and generous subsidies. It generally supports policies that preserve fossil‑fuel demand or cleaner-combustion alternatives and frames aggressive EV targets as economically risky and premature.",
+    "queries": [
+      "How do people view the American Petroleum Institute's influence on electric vehicles?"
+    ]
+  },
+  {
+    "id": "C2-8-4",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "fuel subsidies",
+    "wiki_title": "energy subsidy",
+    "summary": "Proponents point to energy subsidies as a justification for EV tax credits, charging‑infrastructure funding, and manufacturer support to lower upfront costs, scale production, and speed decarbonization and job growth; critics invoke subsidies to argue that EV incentives distort markets, disproportionately help wealthier buyers, and are ineffective if the grid remains fossil‑fuel‑dependent, while opponents also highlight existing fossil‑fuel subsidies as unfairly tilting competition away from electrification.",
+    "queries": [
+      "How do people view fuel subsidies affecting Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C2-8-5",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "gas stations",
+    "wiki_title": "filling station",
+    "summary": "Filling stations are often invoked in EV debates as symbols of existing convenience and fueling infrastructure—used by skeptics to justify range‑anxiety and practicality arguments against rapid electrification, and by proponents to argue for policies that retrofit gas stations with fast chargers. They also surface in discussions about who benefits or loses from the transition (oil majors, convenience retailers, rural access), shaping calls for subsidies, mandates or regulatory pushback around charger deployment and site conversion.",
+    "queries": [
+      "Are gas stations still necessary given electric vehicle growth?"
+    ]
+  },
+  {
+    "id": "C2-8-7",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "fossil fuel divestment",
+    "wiki_title": "fossil fuel divestment",
+    "summary": "Activists use fossil fuel divestment to argue that public and private capital should be redirected into electrification, framing electric vehicles as a practical, investable alternative to oil dependence and as grounds for subsidies, mandates, and corporate pressure to accelerate EV production. Opponents invoke divestment critics to argue that simply shifting capital is symbolic or risky unless accompanied by grid decarbonization and responsible supply‑chain policies, using the debate to question rapid EV mandates or to emphasize mining and lifecycle emissions concerns.",
+    "queries": [
+      "Is fossil fuel divestment justified to support Electric Vehicles transition?"
+    ]
+  },
+  {
+    "id": "C2-5-5",
+    "parent": "C2",
+    "level": 3,
+    "topic": "atacama desert",
+    "wiki_title": "atacama desert",
+    "summary": "The Atacama Desert is frequently cited in EV debates as the source of much of the world’s lithium, with critics using it to argue that electric vehicles outsource environmental harm—water depletion, ecosystem damage and impacts on indigenous communities—to fragile landscapes. Supporters and policymakers invoke Atacama to justify stricter mining safeguards, battery recycling, alternative chemistries, and supply‑chain diversification to prevent greenwashing of electrification.",
+    "queries": [
+      "Is sourcing EV batteries from the Atacama Desert reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-5-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "water scarcity",
+    "wiki_title": "water scarcity",
+    "summary": "Water scarcity is frequently used to critique EVs’ lifecycle impacts—highlighting high water use in lithium/brine extraction, battery processing and thermoelectric power cooling—to argue against unchecked EV expansion and for stricter supply‑chain rules, battery recycling, and low‑water mining practices. Proponents respond that EVs can still lower overall water use compared with oil extraction/refining and thus use the water‑scarcity frame to justify pairing EV adoption with renewable, low‑water electricity and circular‑economy policies rather than abandoning electrification.",
+    "queries": [
+      "How do people view water scarcity related to electric vehicles?"
+    ]
+  },
+  {
+    "id": "C2-5-8",
+    "parent": "C2",
+    "level": 3,
+    "topic": "resource nationalism",
+    "wiki_title": "resource nationalism",
+    "summary": "Resource nationalism is invoked in EV debates to argue for national control of lithium, cobalt and other battery materials—justifying domestic mining, export curbs, or state-led battery plants to secure supplies, jobs and geopolitical leverage. Critics say these policies inflate costs, scare off investment, and risk politicizing supply chains in ways that could slow global EV adoption and provoke supply disruptions.",
+    "queries": [
+      "Is resource nationalism justified in electric vehicle supply chains?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "technology and innovation",
+    "wiki_title": "innovation",
+    "summary": "In public debates about electric vehicles, appeals to innovation are invoked to justify subsidies, R&D funding and industrial policy—arguing that ongoing technological progress in batteries, charging and power management will drive down costs, increase range and secure national competitiveness. At the same time, 'innovation' is used to criticize or delay policy: proponents of market-led tech fixes argue against strict mandates, while skeptics point to unmet innovation promises (recycling, mineral supply, grid impacts) to question the pace and equity of EV rollout.",
+    "queries": [
+      "Is technology and innovation in electric vehicles advancing responsibly or not?"
+    ]
+  },
+  {
+    "id": "C3-1",
+    "parent": "C3",
+    "level": 2,
+    "topic": "tesla, inc.",
+    "wiki_title": "tesla, inc.",
+    "summary": "Tesla, Inc. is frequently invoked as the emblem of EV success—used to argue that electric vehicles are technologically mature, desirable, and deserving of supportive policies, subsidies, and charging-investment because of its market traction, battery/range performance, and Supercharger ecosystem. At the same time opponents point to Tesla’s high prices, Autopilot safety controversies, labor and supply‑chain issues, and political lobbying to claim EVs are elitist, overhyped, or inadequately regulated, using the company to justify skepticism or stricter oversight.",
+    "queries": [
+      "Is tesla, inc.'s pricing strategy for electric vehicles reasonable?"
+    ]
+  },
+  {
+    "id": "C3-1-5",
+    "parent": "C3-1",
+    "level": 3,
+    "topic": "battery day",
+    "wiki_title": "batteries plus",
+    "summary": "Batteries Plus is often cited in EV debates as a litmus test for whether existing battery retailers can ease adoption — supporters say chains like it could provide decentralized replacement, diagnostics and recycling that lower costs and infrastructure gaps, while critics point out such stores typically lack the training and equipment for high‑voltage EV packs, using that gap to argue for stricter repair standards, certification requirements, or continued reliance on specialized dealers.",
+    "queries": [
+      "How do people view Battery Day announcements?"
+    ]
+  },
+  {
+    "id": "C3-2",
+    "parent": "C3",
+    "level": 2,
+    "topic": "elon musk",
+    "wiki_title": "elon musk",
+    "summary": "Elon Musk is frequently cited as the charismatic face of electric vehicles: advocates point to his Tesla-driven innovations and market success to argue EVs are technologically superior and should be advanced via market-friendly policies, while critics use his corporate power, safety controversies, and politicized rhetoric to frame the EV transition as elite-driven, overhyped, and requiring stronger regulation and equitable policymaking.",
+    "queries": [
+      "Is elon musk's influence on electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-3",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "full self-driving",
+    "wiki_title": "full self-driving",
+    "summary": "Full self-driving is often invoked by EV proponents to cast electric vehicles as the foundation for a high‑tech, efficiency‑boosting future—arguing that autonomy will improve safety, enable shared electric mobility, and justify investment and subsidies. Critics, however, point to FSD hype and safety failures to undermine industry credibility, demand stricter regulation and liability rules, and argue against linking unproven autonomy to the case for rapid electrification.",
+    "queries": [
+      "Is full self-driving in electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-2-5",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "gigafactory",
+    "wiki_title": "gigafactory",
+    "summary": "Supporters invoke gigafactories as evidence that EVs can scale affordably and boost domestic manufacturing, using them to justify subsidies, industrial policy, and confidence in battery supply security. Critics counter that gigafactories concentrate corporate power, rely on environmentally harmful mining and heavy subsidies, and create fragile centralized supply chains and local impacts that deserve stricter regulation or a slower transition.",
+    "queries": [
+      "Is building a gigafactory for electric vehicles justified or not?"
+    ]
+  },
+  {
+    "id": "C3-2-8",
+    "parent": "C3-2",
+    "level": 3,
+    "topic": "twitter",
+    "wiki_title": "twitter",
+    "summary": "Twitter/X functions as a central battleground for EV debates, where automakers, advocates, journalists, politicians and critics push competing narratives—proponents use it to promote climate, technology and subsidy arguments and to mobilize support for charging and incentive policies, while opponents amplify concerns about cost, range, safety and lifecycle emissions. High‑profile accounts, influencers and coordinated campaigns (including bot activity and Musk‑amplified threads) often turn complex technical and policy issues into viral soundbites that shape public sentiment and pressure policymakers either for faster adoption or for rollbacks and stricter scrutiny.",
+    "queries": [
+      "How do people view twitter’s coverage of Electric Vehicles issues?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "lithium-ion battery",
+    "wiki_title": "lithium-ion battery",
+    "summary": "Lithium‑ion batteries are the focal point of EV debates: proponents point to falling costs, rising range and improving safety to justify subsidies, mandates, and rapid electrification, while critics use concerns over fires, recycling, and resource‑intensive or geopolitically concentrated mining (lithium, cobalt) to argue for slower transitions, alternative chemistries, or stronger domestic industrial policy. Promises of next‑generation chemistries (LFP, solid‑state) are invoked to bolster optimism about EV affordability and safety, whereas present limitations in longevity and supply chains are used to resist aggressive EV policies.",
+    "queries": [
+      "Is lithium-ion battery use in electric vehicles justified or not?"
+    ]
+  },
+  {
+    "id": "C3-3-2",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "catl",
+    "wiki_title": "catl",
+    "summary": "CATL is frequently invoked as proof of China’s lead in EV batteries—supporters point to its scale and technology to argue that mass, low‑cost battery production accelerates EV adoption and merits active industrial policy—while critics use CATL to highlight supply‑chain concentration, geopolitical and security risks, and raw‑material or environmental concerns, pushing for diversification, domestic support, or tighter regulation.",
+    "queries": [
+      "Is catl's dominance in EV batteries reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-3-3",
+    "parent": "C3-3",
+    "level": 3,
+    "topic": "panasonic",
+    "wiki_title": "panasonic",
+    "summary": "Panasonic is often invoked in EV debates as evidence that large-scale, high-performance battery and automotive-systems manufacturing can deliver the range and reliability needed to justify rapid electrification, supporting industry-friendly policies like subsidies, factory investment, and supply-chain partnerships. Critics counter that Panasonic’s central role highlights risks of supplier concentration and resource-extraction impacts, using it to argue for domestic battery production, stricter raw‑material regulation, and stronger recycling requirements.",
+    "queries": [
+      "Is panasonic’s role in EV batteries justified or not?"
+    ]
+  },
+  {
+    "id": "C3-5",
+    "parent": "C3",
+    "level": 2,
+    "topic": "zero-emission vehicle mandate",
+    "wiki_title": "zero-emissions vehicle",
+    "summary": "Calling electric vehicles “zero-emission” is used to frame them as decisive climate and public-health solutions, justifying incentives, regulatory ZEV mandates, and bans on internal-combustion vehicles. Critics invoke the term to argue it’s misleading — highlighting lifecycle emissions, electricity sources, and infrastructure limits — to oppose strict EV mandates or promote alternatives and cleaner-grid priorities instead.",
+    "queries": [
+      "Is the zero-emission vehicle mandate reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-5-1",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "california air resources board",
+    "wiki_title": "california air resources board",
+    "summary": "The California Air Resources Board is frequently invoked as the regulatory driver behind EV mandates and emissions rules, used by proponents to justify aggressive state and national policies, incentives, and framing electric vehicles as necessary for cleaner air and climate goals. Critics, meanwhile, cite CARB to argue regulatory overreach, increased vehicle costs, and politicized standards that pressure automakers and consumers toward EVs.",
+    "queries": [
+      "What impacts has the california air resources board had on electric vehicles?"
+    ]
+  },
+  {
+    "id": "C3-5-7",
+    "parent": "C3-5",
+    "level": 3,
+    "topic": "sierra club",
+    "wiki_title": "sierra club",
+    "summary": "The Sierra Club champions electric vehicles as a key climate solution, using lobbying and public campaigns to push for subsidies, charging infrastructure, zero-emission vehicle mandates, and electrified public transit while prioritizing equitable access; it also frames criticisms of EVs around lifecycle impacts and supply-chain/environmental harms to argue EV adoption must be paired with a clean grid and responsible mining practices.",
+    "queries": [
+      "Are Sierra Club's EV recommendations justified or questionable?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "battery recycling",
+    "wiki_title": "battery recycling",
+    "summary": "Battery recycling is a common foil in EV debates: critics point to limited recycling capacity, toxic residues, and unsafe worker conditions to argue EVs merely shift pollution and therefore don't justify aggressive subsidies or mandates. Supporters counter that improved recycling, second‑life uses, and strong producer‑responsibility policies can close material loops, reduce mining and lifecycle emissions, and thus bolster arguments for electrification and investment in charging and recycling infrastructure.",
+    "queries": [
+      "Is battery recycling for electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-1",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "extended producer responsibility",
+    "wiki_title": "extended producer responsibility",
+    "summary": "In EV debates, EPR is cited to pressure automakers to internalize battery end‑of‑life costs—bolstering calls for mandatory take‑back, recycling targets and design‑for‑recovery rules so EVs deliver real lifecycle emissions benefits—while opponents point to absent or weak EPR as evidence that EVs’ environmental claims are overstated and that subsidies should be conditioned on producers bearing disposal and remanufacturing costs.",
+    "queries": [
+      "Is extended producer responsibility for electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-6-2",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "eu batteries regulation",
+    "wiki_title": "electric battery",
+    "summary": "Batteries are the focal point of pro‑EV arguments—cited for rapidly falling costs, rising energy density, and their role as mobile storage that makes EVs cleaner and more efficient than ICE vehicles. Critics counter with worries about limited range, charging infrastructure, high upfront costs, mining of lithium/cobalt, manufacturing and recycling emissions, and degradation, using those points to argue for slower deployment, stronger regulations, or greater domestic supply‑chain and recycling policies.",
+    "queries": [
+      "What impacts has eu batteries regulation had on Electric Vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C3-6-3",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "redwood materials",
+    "wiki_title": "redwood materials",
+    "summary": "Redwood Materials is invoked in EV debates as proof that a domestic, circular battery-supply chain — through large-scale recycling and materials recovery — can reduce lifecycle emissions, ease dependence on foreign mining, and thus justify subsidies, industrial policy, and rapid electrification. Supporters use it to rebut critiques about battery waste and environmental harm, while critics question the firm's scalability and argue recycling alone won’t eliminate the need for new mining.",
+    "queries": [
+      "What impacts has redwood materials had on electric vehicle battery sourcing?"
+    ]
+  },
+  {
+    "id": "C3-6-4",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "umicore",
+    "wiki_title": "umicore",
+    "summary": "Umicore is frequently invoked in EV debates as evidence that battery material supply and end‑of‑life recycling can be industrialized — supporters cite its materials and recycling capabilities to argue EV scale‑up is feasible and can be made more ethical and circular. Critics, however, point to Umicore to highlight ongoing reliance on mined inputs, corporate concentration in supply chains, and to push for stricter sourcing, transparency, and regulation despite industry claims of sustainability.",
+    "queries": [
+      "How do people see umicore’s role in EV battery materials?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "hydrometallurgy",
+    "wiki_title": "hydrometallurgy",
+    "summary": "In EV debates hydrometallurgy is invoked by proponents as a key way to extract and recycle battery metals (lithium, cobalt, nickel) more efficiently and with lower greenhouse‑gas intensity than traditional smelting, bolstering arguments for domestic supply chains and circular‑economy policies; critics counter that large‑scale hydrometallurgical operations can create toxic effluents, high water and chemical use, and social harms in producing regions, using those risks to argue for stricter regulation, slower EV rollout, or alternative technologies.",
+    "queries": [
+      "Are concerns about hydrometallurgy's environmental impacts in EVs justified?"
+    ]
+  },
+  {
+    "id": "C3-7",
+    "parent": "C3",
+    "level": 2,
+    "topic": "range anxiety",
+    "wiki_title": "range anxiety",
+    "summary": "In public debates, range anxiety is used by critics to portray electric vehicles as impractical and to justify slower electrification or continued reliance on hybrids and fossil-fuel cars, while proponents invoke it to demand large public investments in charging infrastructure, battery R&D, and incentives to speed adoption. Advocates also frame it as a solvable psychological barrier—citing usage data and ownership experience—whereas opponents amplify it to prioritize infrastructure gaps and consumer-risk arguments in policy discussions.",
+    "queries": [
+      "Is range anxiety about electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "dc fast charging",
+    "wiki_title": "gb/t charging standard",
+    "summary": "The GB/T charging standard is frequently invoked in debates about EV interoperability and industrial policy: proponents cite it as proof that China can build a tailored charging ecosystem to speed domestic rollout and protect local manufacturers. Critics counter that its divergence from international standards (e.g., CCS) creates compatibility problems, trade frictions, and a fragmented global charging market that can be used to argue against China-centric approaches or for harmonized international standards.",
+    "queries": [
+      "Is dc fast charging for electric vehicles reliable or not?"
+    ]
+  },
+  {
+    "id": "C3-7-6",
+    "parent": "C3-7",
+    "level": 3,
+    "topic": "range extender",
+    "wiki_title": "range extender",
+    "summary": "Range extenders are often cited in public debates as a pragmatic compromise to defeat range anxiety and accelerate adoption—used by automakers and some policymakers to justify rollouts of near‑electric cars that retain fuel backup. Critics counter that they dilute tailpipe‑emissions gains, complicate rules and incentives, and can be a loophole against stricter BEV mandates, so the term frequently frames arguments about how quickly to push pure electrification versus transitional solutions.",
+    "queries": [
+      "How do people view range extender use in EVs?"
+    ]
+  },
+  {
+    "id": "C3-4-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "north american charging standard",
+    "wiki_title": "north american charging standard",
+    "summary": "In public debates about Electric Vehicles, the North American charging standard is used as a focal point to argue for interoperable, government-backed infrastructure—advocates say a common standard reduces consumer confusion, lowers deployment costs, and speeds adoption, while opponents warn that mandating one standard can lock in certain automakers or network operators and suppress technological competition. Consequently, disputes over the standard shape policy positions on public charging funding, procurement rules, cross-border compatibility, and who benefits from EV infrastructure rollouts.",
+    "queries": [
+      "Is north american charging standard reasonable for electric vehicles or not?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "charging infrastructure",
+    "wiki_title": "charging station",
+    "summary": "Charging stations are central to arguments about EV viability—supporters point to expanding fast‑charging networks to justify subsidies, public investment, and rapid adoption, while critics cite patchy coverage, high installation costs, and ‘charging deserts’ to argue EVs are impractical or inequitable. Debates over who pays, where stations are sited, standards and grid impacts shape policy positions on regulation, incentives, and the pace of the transition.",
+    "queries": [
+      "How do people view charging infrastructure rollout for electric vehicles?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "tesla supercharger",
+    "wiki_title": "tesla supercharger",
+    "summary": "Tesla's Supercharger network is frequently invoked by EV proponents as evidence that high-speed, widely deployed charging can make electric cars practical for long trips, while critics point to its private control, proprietary access and fee structures to argue EV adoption risks being shaped by corporate interests, uneven access, and the need for stronger public investment and regulation.",
+    "queries": [
+      "Are tesla supercharger access policies fair or justified for EV drivers?"
+    ]
+  },
+  {
+    "id": "C4-2",
+    "parent": "C4",
+    "level": 2,
+    "topic": "electrify america",
+    "wiki_title": "electrify america",
+    "summary": "Electrify America is often invoked in debates as a high-profile example of private-sector investment that proponents use to argue EV charging infrastructure is rapidly expanding and commercially viable, while critics point to its patchy geographic rollout, uptime and pricing issues to argue that reliance on corporate networks is insufficient and that stronger public funding, regulation and equity-focused siting are needed.",
+    "queries": [
+      "Is electrify america's expansion for Electric Vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-7",
+    "parent": "C4-2",
+    "level": 3,
+    "topic": "evgo",
+    "wiki_title": "evgo",
+    "summary": "EVgo is frequently invoked in EV debates as a tangible example of private-sector fast‑charging buildout, supporting pro‑EV claims that charging infrastructure is expanding and that market actors can help overcome range anxiety. Critics, however, point to EVgo’s uneven coverage, pricing and reliability issues to argue that charging access is still insufficient and that stronger public investment or regulation is needed.",
+    "queries": [
+      "What impacts has evgo had on electric vehicles adoption?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "chargepoint",
+    "wiki_title": "chargepoint",
+    "summary": "ChargePoint is often invoked in EV debates as an example of private-sector charging infrastructure that proponents cite to argue market-driven rollouts, subsidies for businesses, and workplace/curbside charging will solve range anxiety and accelerate adoption; critics, however, point to its uneven coverage, pricing and interoperability issues to justify calls for stronger public investment, standardization, and regulation instead of leaving deployment to market forces.",
+    "queries": [
+      "Are chargepoint locations convenient for Electric Vehicles users?"
+    ]
+  },
+  {
+    "id": "C4-4",
+    "parent": "C4",
+    "level": 2,
+    "topic": "ccs connector",
+    "wiki_title": "type 2 connector",
+    "summary": "The Type 2 connector frequently appears in EV debates as a proxy for whether charging infrastructure is standardized and consumer-friendly: advocates cite its broad EU acceptance to argue that policy-led harmonization reduces barriers to EV adoption, while opponents point to multiple connector variants and vendor-specific adaptations as evidence of ongoing fragmentation that raises costs, complicates interoperability, and undermines consumer confidence.",
+    "queries": [
+      "Is the CCS connector standard beneficial for Electric Vehicles or not?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "ionity",
+    "wiki_title": "ionity",
+    "summary": "IONITY is often cited by EV proponents as proof that automakers can deliver high‑power charging and cross‑border interoperability, bolstering arguments for industry-led infrastructure and standardized features like Plug & Charge. Critics counter that its high prices, carmaker control and financialized ownership illustrate why stronger public investment, price regulation and true open access are needed to make EV charging equitable and accelerate adoption.",
+    "queries": [
+      "Is Ionity’s EV charging pricing reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-4-6",
+    "parent": "C4-4",
+    "level": 3,
+    "topic": "sae j1772",
+    "wiki_title": "sae j1772",
+    "summary": "Advocates invoke SAE J1772 as a symbol of achievable interoperability, using its widespread use to argue for policies and investments that expand accessible Level‑1/2 public charging and reduce consumer friction. Critics counter that J1772’s limits (and coexistence with regional or proprietary plugs) are evidence of potential lock‑in and fragmentation, advancing calls for broader harmonization or alternative standards for fast charging.",
+    "queries": [
+      "Is sae j1772 still reasonable for modern electric vehicles?"
+    ]
+  },
+  {
+    "id": "C4-5",
+    "parent": "C4",
+    "level": 2,
+    "topic": "chademo",
+    "wiki_title": "chademo",
+    "summary": "CHAdeMO is often cited in debates about charging-standard fragmentation—critics use it to argue that competing, country-specific connectors confuse consumers, slow rollout of public fast chargers, and necessitate regulatory harmonization. Proponents counter that its early deployment and technical evolution show multiple standards can spur innovation and national infrastructure leadership, while opponents point to industry shifts away from CHAdeMO as evidence that interoperability is essential for mainstream EV adoption.",
+    "queries": [
+      "Is CHAdeMO's continued use in EVs justified or not?"
+    ]
+  },
+  {
+    "id": "C4-5-3",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "combined charging system",
+    "wiki_title": "combined charging system",
+    "summary": "In public debates CCS is referenced by proponents to argue that a common, high‑power charging standard reduces range anxiety and justifies investment in interoperable EV infrastructure to accelerate adoption; opponents use it to highlight risks of standards capture, vendor lock‑in, international fragmentation (vs. Tesla/CHAdeMO/GB/T), and the need for policy to ensure fair access and manage grid impacts from ultra‑fast charging.",
+    "queries": [
+      "Is the combined charging system reasonable for electric vehicles or not?"
+    ]
+  },
+  {
+    "id": "C4-5-6",
+    "parent": "C4-5",
+    "level": 3,
+    "topic": "iec 61851",
+    "wiki_title": "iec 61851",
+    "summary": "Advocates, manufacturers, and regulators invoke IEC 61851 to justify safety, interoperability, and procurement rules for conductive EV charging—framing electric-vehicle rollout as reliant on standardized connectors and certifications to build consumer trust. Critics counter that its slow, complex development can be used to delay deployments or entrench incumbents, so references to the standard often support either calls for harmonized policy or skepticism about regulatory bottlenecks.",
+    "queries": [
+      "Has iec 61851 kept pace with EV tech advances, in your view?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "bipartisan infrastructure law",
+    "wiki_title": "infrastructure investment and jobs act",
+    "summary": "The Infrastructure Investment and Jobs Act is cited by EV proponents as proof of federal commitment to accelerate electric-vehicle adoption—funding nationwide charging networks, grid upgrades and manufacturing incentives while promising jobs and emissions reductions. Critics invoke the law to argue government overreach or misprioritization, contending funding is inadequate or poorly targeted, benefits certain regions or firms, and doesn’t fully address grid capacity, supply-chain, or equity concerns.",
+    "queries": [
+      "What effects has the bipartisan infrastructure law had on electric vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C4-6-2",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "department of transportation",
+    "wiki_title": "department of transportation",
+    "summary": "DOTs are invoked as the authoritative actor in EV debates: supporters point to DOT-led charging programs, highway electrification initiatives, and funding/permits as evidence that EVs are feasible and worthy of public investment, while critics cite DOT spending choices, regulatory barriers, and concerns about road wear, safety rules, or charging reliability to argue EVs are costly or impractical. By setting safety standards, charging policy, and infrastructure priorities, federal and state DOTs frame whether EVs are presented to the public as a reliable, scalable transition or as an expensive, disruptive experiment.",
+    "queries": [
+      "How do people view the department of transportation on EV infrastructure?"
+    ]
+  },
+  {
+    "id": "C4-6-6",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "automotive industry",
+    "wiki_title": "automotive industry",
+    "summary": "In public debates about electric vehicles the automotive industry is often presented as a pragmatic authority that champions gradual, technology‑neutral transitions, manufacturing incentives, charging infrastructure investment, and policies framed around jobs and competitiveness to shape policy in its favor. Opponents counter that this framing reflects vested‑interest lobbying and greenwashing—used to justify subsidies, protections, or slower electrification—thereby prompting calls for stricter emissions mandates, stronger oversight of batteries and supply chains, and limits on industry influence.",
+    "queries": [
+      "What impacts has the automotive industry had on electric vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C4-7-7",
+    "parent": "C4",
+    "level": 3,
+    "topic": "winter driving",
+    "wiki_title": "snow",
+    "summary": "In EV debates, snow and cold-weather performance are often cited to claim that battery electric vehicles suffer reduced range, slower charging, and operational challenges in winter, a line of argument used to question EV reliability for rural and snow-prone regions and to resist rapid ICE phase-outs. Supporters respond that EVs can offer good winter traction, that battery thermal management and charging infrastructure can mitigate range losses, and that electrifying snow-clearing fleets and grid resilience measures justify continued policy support and targeted incentives.",
+    "queries": [
+      "Is winter driving with electric vehicles more challenging or reasonable?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "public policy and regulation",
+    "wiki_title": "public policy",
+    "summary": "Public policy is the central framing device in EV debates: supporters point to subsidies, emissions and efficiency standards, charging‑infrastructure investment and procurement mandates to justify rapid adoption as a climate and industrial strategy, while critics use those same policies to argue EVs are costly market distortions, unfair to low‑income drivers, or premature given grid and supply‑chain limits. Policy narratives also steer public attitudes on equity, jobs, national security and technological readiness, shaping whether people view EVs as progressive public-good investments or as government overreach.",
+    "queries": [
+      "What effects has public policy and regulation had on electric vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C5-1",
+    "parent": "C5",
+    "level": 2,
+    "topic": "carb",
+    "wiki_title": "carb",
+    "summary": "In public debates about electric vehicles, references to 'CARB' function as a focal point for policy arguments—supporters cite its emissions rules and ZEV mandates as necessary tools to accelerate EV adoption and public-health benefits, while opponents portray CARB-driven regulations as regulatory overreach that raises costs, limits consumer choice, and harms automakers and dealers; the older 'carb' (carburetor) is sometimes invoked nostalgically by critics to argue EVs erode mechanical skill and repairability.",
+    "queries": [
+      "Is carb’s role in Electric Vehicles policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-1-1",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "zero-emission vehicle program",
+    "wiki_title": "zero emission",
+    "summary": "Advocates use the “zero-emission” label to portray electric vehicles as a clear-cut climate and public-health solution, justifying subsidies, regulatory mandates, and rapid deployment of charging infrastructure. Critics use the same label to challenge EV policy by highlighting lifecycle emissions from electricity generation and manufacturing, pushing for “well-to-wheel” accounting, grid clean-up, or alternative technologies instead of unconditional support.",
+    "queries": [
+      "What impacts has the zero-emission vehicle program had on Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "gavin newsom",
+    "wiki_title": "gavin newsom",
+    "summary": "Newsom is often held up by supporters as a climate-forward exemplar—cited for California’s push to phase out new gasoline car sales by 2035 and for directing incentives and charging infrastructure investment—to justify aggressive EV mandates and regulatory leadership; critics use him as shorthand for government overreach and elitist, impractical policy, arguing his actions raise costs, limit consumer choice, or unfairly export California rules to the rest of the country.",
+    "queries": [
+      "Are Gavin Newsom’s Electric Vehicles mandates justified or not?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5-1",
+    "level": 3,
+    "topic": "california emissions waiver",
+    "wiki_title": "california smog check program",
+    "summary": "California’s smog check program is frequently cited in EV debates to emphasize electric vehicles’ air‑quality benefits and to justify incentives or stricter tailpipe rules—EVs avoid smog failures, which proponents use to argue for accelerated electrification. Opponents counter that exempting EVs from smog checks can look like regulatory favoritism, and they invoke the program to push for lifecycle (grid) emissions accounting or to highlight impacts on low‑income drivers who rely on older, inspected ICE cars.",
+    "queries": [
+      "How do people view the California emissions waiver?"
+    ]
+  },
+  {
+    "id": "C5-4-2",
+    "parent": "C5",
+    "level": 3,
+    "topic": "federal highway administration",
+    "wiki_title": "federal highway administration",
+    "summary": "The Federal Highway Administration is often invoked in EV debates as the federal authority that can steer funding, standards, and siting for interstate fast‑charging networks—used by proponents to justify federal grants and national charger rules and by critics to blame slow bureaucracy or highway‑centric priorities for patchy deployment. It also features in arguments about lost gas‑tax revenue and heavy EV trucks, shaping policy fights over who pays for charging infrastructure and whether investments should prioritize highways or more equitable local access.",
+    "queries": [
+      "Is the federal highway administration's EV charging policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "buy american act",
+    "wiki_title": "buy american act",
+    "summary": "Supporters invoke the Buy American Act to push federal EV procurement, grants, and incentives toward U.S.-made cars, batteries, and critical minerals as a way to shore up domestic manufacturing, jobs, and supply-chain security. Critics counter that such protectionist rules raise costs, disadvantage automakers tied to global supply chains, and risk slowing EV adoption or provoking supply bottlenecks and trade friction.",
+    "queries": [
+      "How do people view the buy american act regarding EV manufacturing?"
+    ]
+  },
+  {
+    "id": "C5-4-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "electric grid",
+    "wiki_title": "electrical grid",
+    "summary": "In EV debates the electrical grid is portrayed as the enabling backbone whose decarbonization, capacity upgrades, smart charging and V2G services are necessary to deliver real climate and reliability benefits from electrification; conversely critics invoke grid capacity limits, upgrade costs, reliability and cyber‑security risks to argue for slower EV adoption or more cautious policy timelines.",
+    "queries": [
+      "Are investments in the electric grid justified for widespread electric vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C5-7-6",
+    "parent": "C5",
+    "level": 3,
+    "topic": "consumer reports",
+    "wiki_title": "consumer reports",
+    "summary": "Consumer Reports shapes EV debates by publishing independent test results on range, safety, reliability, and total cost of ownership that journalists, consumers, and policymakers cite to justify purchases, subsidies, or skepticism. Its critical findings about battery life, charging infrastructure, or misleading manufacturer claims are often used to criticize automakers and push for greater transparency, regulation, and consumer protections.",
+    "queries": [
+      "What influence do consumer reports have on electric vehicle buyers?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "energy and grid integration",
+    "wiki_title": "distributed generation",
+    "summary": "Distributed generation is often invoked by EV advocates to argue that local solar, batteries, and microgrids can provide low‑carbon, resilient charging and therefore justify incentives for home chargers, vehicle‑to‑grid programs, and decentralized grid investment. Critics use the same technology to warn that intermittent DERs complicate grid balancing, create reverse‑flow and upgrade costs, and could undermine emissions benefits from EVs unless paired with smart charging and policy support.",
+    "queries": [
+      "Is energy and grid integration for electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "vehicle-to-grid (v2g)",
+    "wiki_title": "vehicle-to-grid",
+    "summary": "Proponents deploy V2G as evidence that EVs can be multi‑purpose assets that stabilize the grid, integrate more renewables, and deserve subsidies, smart‑charging standards and market access for vehicle owners; critics counter that V2G’s technical complexity, added infrastructure costs, uncertain compensation and potential battery wear make it a shaky basis for major policy or investment decisions.",
+    "queries": [
+      "What trade-offs does vehicle-to-grid (v2g) present for EV owners?"
+    ]
+  },
+  {
+    "id": "C6-1-1",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "nissan leaf",
+    "wiki_title": "nissan leaf",
+    "summary": "The Nissan Leaf is often cited in public debates as the archetypal affordable, mass‑market EV used to argue that electric cars can meet everyday family needs and therefore warrant supportive policies like subsidies and charging infrastructure investment. Conversely, critics point to its early range limits, perceived blandness, and battery‑longevity concerns to frame EVs as still impractical or inferior value compared with ICE cars or premium electric alternatives.",
+    "queries": [
+      "How do people view the Nissan Leaf’s practicality for EV drivers?"
+    ]
+  },
+  {
+    "id": "C6-1-3",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "smart grid",
+    "wiki_title": "smart grid",
+    "summary": "Proponents cite smart-grid technologies to argue that managed charging, vehicle‑to‑grid services and demand‑response will smooth EV load profiles, enable higher renewable charging and justify public investment in grid modernization and time‑of‑use incentives. Critics counter that required upgrades, cybersecurity and privacy risks, and uneven deployment make EV rollouts costly or premature, using smart‑grid gaps to argue for slower adoption or more conditional policy support.",
+    "queries": [
+      "Is smart grid integration with electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "federal energy regulatory commission",
+    "wiki_title": "federal energy regulatory commission",
+    "summary": "Proponents invoke the Federal Energy Regulatory Commission as the key federal actor whose wholesale market rules, interconnection policies, and support for demand-response and storage can unlock large-scale EV charging, enable vehicle-to-grid services, and help match EV load with renewable generation. Critics counter that FERC’s market-oriented, interstate focus can entrench incumbent utilities and wholesale generators, produce regressive rate structures and demand charges, and leave distribution-level equity and local charging access insufficiently addressed.",
+    "queries": [
+      "How do people view the federal energy regulatory commission's stance on EVs?"
+    ]
+  },
+  {
+    "id": "C6-1-6",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "time-of-use tariff",
+    "wiki_title": "tariff",
+    "summary": "Tariffs on imported electric vehicles and components are often invoked by supporters to justify protecting and scaling domestic EV and battery manufacturing, preserving jobs, and reducing reliance on Chinese supply chains by framing imports as a national-security and industrial-policy risk. Critics reply that these tariffs raise consumer prices, slow EV adoption and innovation, disrupt complex supply chains, invite retaliation, and ultimately undermine economic competitiveness and climate policy goals.",
+    "queries": [
+      "Is time-of-use tariff for electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "smart charging",
+    "wiki_title": "smart charging",
+    "summary": "Smart charging is invoked by EV proponents to argue that wide EV adoption need not overwhelm the electricity system—framing EVs as complementary to renewables, enabling grid services, lower costs, and justifying time‑of‑use pricing and infrastructure investment. Critics use smart charging to raise concerns about surveillance and utility control over when vehicles can be used, added complexity and costs, and unequal impacts on renters or low‑income drivers who lack smart infrastructure.",
+    "queries": [
+      "How do people view smart charging in the electric vehicle context?"
+    ]
+  },
+  {
+    "id": "C6-2-8",
+    "parent": "C6-2",
+    "level": 3,
+    "topic": "ofgem",
+    "wiki_title": "ofgem",
+    "summary": "In public debates about electric vehicles, Ofgem is cited as the gatekeeper whose rules on grid capacity, network charging and investment determine how fast charging infrastructure can scale and who bears the costs. Its promotion of smart‑charging, time‑of‑use tariffs and targeted network upgrades is used to justify EV rollout and system stability, while critics invoke Ofgem to argue the regulator favours incumbent networks and cost‑shifting that can slow equitable access or raise consumer bills.",
+    "queries": [
+      "What effects has Ofgem had on EV adoption?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "time-of-use pricing",
+    "wiki_title": "dynamic pricing",
+    "summary": "In EV debates dynamic pricing is used to justify time‑of‑use rates and surge charges that policymakers and utilities claim will shift charging to off‑peak hours, finance grid upgrades, and reward vehicle‑to‑grid services. Opponents counter that it can penalize drivers without flexible schedules or home chargers, deepen equity gaps, and requires consumer protections (caps, opt‑outs, subsidies) to avoid being seen as punitive price‑gouging.",
+    "queries": [
+      "Is time-of-use pricing for EV charging reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-3-2",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "smart meter",
+    "wiki_title": "smart meter",
+    "summary": "Smart meters are frequently cited to argue that EVs can be integrated into the grid affordably—enabling time‑of‑use pricing, managed/vehicle‑to‑grid charging, and demand‑response programs that utilities and policymakers use to justify incentives and grid upgrades. Opponents use the same technology to criticize EV policies on grounds of privacy, cybersecurity, cost‑shifting, and unequal impacts from dynamic pricing or remote control of charging that may disadvantage low‑income drivers.",
+    "queries": [
+      "What consequences has smart meter monitoring of EV charging caused?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "net metering",
+    "wiki_title": "net metering",
+    "summary": "In EV debates, proponents point to net metering as a way to make home EV charging cheaper and cleaner by pairing rooftop solar (and potential vehicle‑to‑grid services) with electric vehicles, framing EV adoption as both low‑cost and low‑carbon. Critics—often utilities and some regulators—argue generous net metering shifts grid and maintenance costs to non‑solar customers, complicates fair EV electricity rates, and is invoked to resist tariff reforms needed to manage growing EV charging demand.",
+    "queries": [
+      "What impacts does net metering have on electric vehicle adoption?"
+    ]
+  },
+  {
+    "id": "C6-3-7",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "tesla powerwall",
+    "wiki_title": "tesla powerwall",
+    "summary": "The Powerwall is often invoked in EV debates to show how home storage can smooth home charging, support renewable self‑consumption, and claim to bolster grid resilience—arguments used to justify faster electric vehicle adoption and incentives for distributed storage. Detractors counter that it exemplifies Tesla’s proprietary, costly ecosystem that shifts responsibility onto consumers, distracts from needed grid upgrades and public-transit solutions, and raises questions about lifecycle cost and resource impacts.",
+    "queries": [
+      "How do people view Tesla Powerwall’s role in Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "california independent system operator",
+    "wiki_title": "california independent system operator",
+    "summary": "CAISO’s modeling, pricing signals, and reliability assessments are often invoked in EV debates to justify managed charging, time‑of‑use rates, and grid upgrades—framing EVs either as flexible resources that help integrate renewables or as new peak‑load risks that require costly infrastructure. Proponents cite CAISO analyses to push smart‑charging and vehicle‑to‑grid policies, while critics use its capacity warnings to argue for slower deployment and stronger planning/investment.",
+    "queries": [
+      "How do people view california independent system operator’s EV policies?"
+    ]
+  },
+  {
+    "id": "C6-4-1",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "resource adequacy",
+    "wiki_title": "resource adequacy",
+    "summary": "Resource adequacy is invoked in EV debates to argue that large-scale electrification will raise peak demand and therefore requires new capacity, storage, or smart‑charging policies—used by proponents to justify investments, capacity markets, and demand‑response programs. Critics use RA shortfalls to caution against rapid EV rollout and to argue for keeping fossil backup or slowing electrification, while supporters counter that managed charging, vehicle-to-grid and storage can meet adequacy without new fossil generation.",
+    "queries": [
+      "What consequences have resource adequacy concerns caused for Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "managed charging",
+    "wiki_title": "managed care",
+    "summary": "Supporters invoke managed care as a precedent for using centralized, cost-focused programs—arguing that insurers, health systems, and government can steer vehicle purchasing, provide incentives, and manage charging infrastructure to lower pollution-related health costs and expand equitable EV access. Opponents cite managed care as a cautionary example that heavy management and cost-driven incentives can limit consumer choice, stifle market innovation, and create uneven or lower-quality outcomes when applied to EV policies.",
+    "queries": [
+      "How do people view managed charging in EV adoption?"
+    ]
+  },
+  {
+    "id": "C6-4-5",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "pacific gas and electric",
+    "wiki_title": "pacific gas and electric company",
+    "summary": "Proponents of EV adoption point to PG&E as a necessary partner for scaling charging infrastructure—using its rate designs, time‑of‑use incentives, rebate programs and managed‑charging/V2G pilots to justify utility-led electrification. Opponents use PG&E’s reliability, rate‑setting power and crisis history to argue for decentralized charging, tighter regulation or public/municipal alternatives and to warn against allowing IOUs to control EV rollout and subsidies.",
+    "queries": [
+      "How do people view pacific gas and electric’s policies on Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C6-4-6",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "california public utilities commission",
+    "wiki_title": "california public utilities commission",
+    "summary": "The California Public Utilities Commission is frequently invoked in EV debates as the regulator whose approvals of utility-led charging programs, rate structures, and grid-integration projects can accelerate or bottleneck electric vehicle adoption. Proponents point to CPUC decisions as essential for expanding public chargers, equitable access, and managed charging, while critics accuse it of siding with incumbent utilities, enabling rate shifts, or failing to prioritize low-income communities and competitive market development.",
+    "queries": [
+      "Is california public utilities commission action on EVs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "inflation reduction act",
+    "wiki_title": "inflation reduction act",
+    "summary": "The Inflation Reduction Act is frequently cited to justify federal EV tax credits, grants for charging infrastructure, and incentives for domestic battery and auto supply chains—used by proponents to argue that government investment will speed adoption, cut emissions, and create jobs. Opponents invoke it to criticize market intervention, claim it unfairly benefits certain manufacturers or unionized plants, or argue it props up EV rollout with taxpayer funds rather than consumer demand.",
+    "queries": [
+      "What impacts has the Inflation Reduction Act had on electric vehicles?"
+    ]
+  },
+  {
+    "id": "C6-5-2",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "critical minerals",
+    "wiki_title": "critical raw materials",
+    "summary": "Concerns about scarce or geopolitically concentrated critical raw materials are frequently invoked to criticize EVs' environmental and ethical claims—arguing that battery mining causes pollution, human-rights abuses, and lifecycle emissions that undercut the case for rapid electrification. Conversely, industry and policymakers point to critical‑materials dependence to justify industrial policy (domestic mining and refining, recycling, alternative chemistries, stockpiles and trade deals) as necessary to secure EV supply chains and national security.",
+    "queries": [
+      "Are electric vehicles' reliance on critical minerals justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5-3",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "battery manufacturing",
+    "wiki_title": "toyota battery manufacturing north carolina",
+    "summary": "Toyota’s battery manufacturing plans in North Carolina are often cited as evidence that legacy automakers are localizing EV supply chains and creating domestic jobs, thereby bolstering arguments for industrial policy, incentives, and supply‑chain security in support of broader EV adoption. Critics, however, invoke the same project to argue Toyota’s incremental, hybrid‑lean approach delays full electrification or leverages public subsidies without committing to a faster, model‑wide EV transition.",
+    "queries": [
+      "How do people view battery manufacturing in the electric vehicle industry?"
+    ]
+  },
+  {
+    "id": "C6-5-4",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "united auto workers",
+    "wiki_title": "united auto workers",
+    "summary": "The United Auto Workers is frequently cited in EV debates to press that electrification must come with job guarantees, domestic battery and parts production, and collective-bargaining protections—using strikes and contract demands to push automakers and policymakers to tie incentives to good union jobs and training. Opponents and skeptics then point to UAW resistance or disruption to frame the EV transition as economically risky or likely to destroy traditional auto jobs unless labor’s conditions are met.",
+    "queries": [
+      "Are the united auto workers' demands around EVs reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-5-5",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "internal revenue service",
+    "wiki_title": "internal revenue service",
+    "summary": "The IRS is central to debates over electric vehicles because it administers federal EV tax credits and guidance (income and price caps, domestic‑content rules), so its interpretations and enforcement determine who benefits and how quickly adoption scales. Critics use IRS data and enforcement failures to argue incentives disproportionately favor wealthier buyers or are prone to abuse, while supporters point to IRS‑administered credits and depreciation rules as essential, market‑shaping tools to accelerate electrification and incentivize domestic supply chains.",
+    "queries": [
+      "How do people view the internal revenue service's role in EV incentives?"
+    ]
+  },
+  {
+    "id": "C6-5-7",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "china",
+    "wiki_title": "china",
+    "summary": "China is often invoked as both the engine and the cautionary tale in EV debates: its state-led subsidies, dominant battery and critical‑minerals supply chains, and rapid domestic adoption are cited by proponents to justify industrial policy and aggressive decarbonization, while critics use Chinese market dominance, alleged dumping, supply‑chain and data‑security risks to push for tariffs, domestic manufacturing support, and diversification. It also fuels arguments about labor and environmental standards, prompting calls for stricter due diligence and limits on Chinese technology in national markets.",
+    "queries": [
+      "What effects has China’s EV policy had on other countries?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "demand response",
+    "wiki_title": "demand response",
+    "summary": "Proponents cite demand response to argue that smart charging, time‑of‑use pricing and vehicle‑to‑grid schemes can shift EV charging off peaks and let large EV fleets be absorbed without massive new generation, supporting policies that favor flexible charging infrastructure and aggregator markets. Critics counter that relying on demand response shifts costs and operational risk to consumers, requires expensive upgrades and regulatory change, and is an uncertain fix that shouldn’t be used to justify underinvestment in grid capacity.",
+    "queries": [
+      "Is demand response for electric vehicles reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-5",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "pjm interconnection",
+    "wiki_title": "pjm interconnection",
+    "summary": "PJM Interconnection is often cited in EV debates as the authoritative grid-operator assessment of how large-scale EV charging will affect demand, reliability, and wholesale costs—critics point to PJM analyses warning of higher peaks and costly transmission upgrades to argue against rapid EV mandates, while supporters use PJM scenarios showing that smart charging, off‑peak incentives, and market flexibility can accommodate EV growth affordably. Regulators and utilities also lean on PJM market signals and capacity projections to justify rate designs, charging incentives, and infrastructure investments that either accelerate or temper EV deployment.",
+    "queries": [
+      "Is PJM Interconnection’s role in EV charging infrastructure reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-6-6",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "enel x",
+    "wiki_title": "enel x",
+    "summary": "Enel X is frequently invoked in EV debates as a corporate exemplar of how large energy firms can accelerate electric-vehicle adoption by deploying public and workplace charging, promoting smart‑charging and vehicle‑to‑grid services, and lobbying for incentives and grid‑integration policies. Opponents point to Enel X to criticize potential incumbent capture of charging markets, data/privacy issues, and the risk of greenwashing when charging is not matched by genuinely renewable supply.",
+    "queries": [
+      "How do people view enel x's role in electric vehicle infrastructure?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "social equity and access",
+    "wiki_title": "social equity",
+    "summary": "Advocates invoke social equity to justify targeted EV policies—income‑based rebates, publicly funded charging in low‑income and multi‑unit housing, and prioritizing bus/fleet electrification—so health and economic benefits reach marginalized communities. Critics use the same frame to oppose universal tax credits and market‑led rollouts that disproportionately favor wealthier buyers and urban areas, arguing these approaches worsen rural, charging‑access and frontline environmental‑justice gaps.",
+    "queries": [
+      "How do people view social equity and access within EV adoption?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "environmental justice",
+    "wiki_title": "environmental justice",
+    "summary": "Environmental justice is used to argue that electric vehicles can and should reduce disproportionate air-pollution harms in low-income and racialized communities—supporting policies that prioritize electrifying buses/trucks, siting chargers and incentives in disadvantaged neighborhoods, and ensuring affordable access. It is also invoked to criticize EV supply chains and battery production for shifting pollution and social costs to Indigenous, Global South, or poor communities, pushing for stronger regulation, ethical sourcing, recycling, and community consent rather than unchecked market-led electrification.",
+    "queries": [
+      "How do people view environmental justice linked to electric vehicles?"
+    ]
+  },
+  {
+    "id": "C8-3-5",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "environmental racism",
+    "wiki_title": "environmental racism",
+    "summary": "In debates about electric vehicles, advocates of environmental justice invoke environmental racism to criticize EV supply chains and end-of-life waste—arguing that battery mining, processing, and recycling often concentrate health and environmental harms in communities of color and in the Global South. This framing is used to push for stricter mining and recycling rules, community consent and benefit agreements, equitable charging and investment in public transit, and to challenge corporate greenwashing that treats EV scale-up as inherently just.",
+    "queries": [
+      "Is environmental racism in electric vehicle deployment justified or not?"
+    ]
+  },
+  {
+    "id": "C8-4",
+    "parent": "C8",
+    "level": 2,
+    "topic": "just transition",
+    "wiki_title": "just transition",
+    "summary": "In EV debates, advocates use “just transition” to demand that electrification policies include retraining, income supports, local manufacturing, union and environmental standards, and recycling programs so workers and communities aren’t left behind; critics use it to oppose or condition EV subsidies and mandates when they believe rollout harms fossil‑fuel workers or exploits mining communities, pushing for social and industrial policies tied to EV incentives.",
+    "queries": [
+      "What impacts could a just transition bring to Electric Vehicles adoption?"
+    ]
+  },
+  {
+    "id": "C8-4-3",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "green new deal",
+    "wiki_title": "green new deal",
+    "summary": "Supporters invoke the Green New Deal to cast electric vehicles as a core, government-driven solution for rapid decarbonization—using the GND to justify large public investments, mandates, charging infrastructure, domestic battery/vehicle manufacturing and programs to ensure equitable access and worker transition. Critics use the GND frame to argue EV policy represents costly government overreach or techno‑optimism (pointing to mining, disposal, and grid readiness issues) or to insist EVs be paired with broader systemic changes in energy and transport policy.",
+    "queries": [
+      "How do people view the green new deal for Electric Vehicles?"
+    ]
+  },
+  {
+    "id": "C8-4-6",
+    "parent": "C8-4",
+    "level": 3,
+    "topic": "coal miners",
+    "wiki_title": "history of coal miners",
+    "summary": "Debates about electric vehicles often invoke the history of coal miners to warn that rapid decarbonization can produce concentrated job loss and political backlash in mining communities unless policy makers deliver a ‘just transition’ with retraining and local investment. The miners’ legacy is also used to criticize EV narratives as hypocritical or unjust when they shift extraction and labor burdens to lithium and cobalt miners in poorer countries, influencing calls for stronger labor and supply-chain protections.",
+    "queries": [
+      "How do people view coal miners in the electric vehicles transition?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "multi-unit housing",
+    "wiki_title": "smoke-free multi-unit housing",
+    "summary": "Advocates invoke smoke‑free multi‑unit housing as a precedent for health‑based regulation, arguing that promoting EVs and installing chargers in apartment buildings reduces harmful tailpipe pollution for renters and supports equitable access to cleaner air. Critics counter by using MUH debates to emphasize property‑rights, cost and building‑safety (fire/electrical) concerns, framing mandatory charger or EV mandates in multi‑unit buildings as an undue burden on owners and managers.",
+    "queries": [
+      "Is prioritizing EV infrastructure in multi-unit housing justified or not?"
+    ]
+  },
+  {
+    "id": "C8-6-1",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "homeowners association",
+    "wiki_title": "homeowner association",
+    "summary": "Homeowner associations frequently show up in EV debates as local gatekeepers, invoking aesthetics, safety, or covenant rules to block or limit installation of home and shared EV charging infrastructure—practices critics say create a practical barrier to residential EV adoption. Pro‑EV advocates therefore push ‘right to charge’ laws and policies to override HOA restrictions and expand charging access, while opponents defend HOA authority on grounds of property rights, uniformity, and management of shared utilities.",
+    "queries": [
+      "Are homeowners association EV policies justified given electric vehicles?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "landlord–tenant law",
+    "wiki_title": "landlord–tenant law",
+    "summary": "Landlord–tenant law is central to debates over EV adoption in rental housing: tenant advocates invoke accommodation and access principles to push requirements or protections for installing EV chargers in multifamily buildings, framing it as an equity and climate-policy issue, while landlords and property-rights proponents use landlord–tenant rules to argue such mandates unfairly impose costs, liability, and property-alteration burdens on owners.",
+    "queries": [
+      "Are landlord–tenant law changes for EV infrastructure reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-6-4",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "national electrical code",
+    "wiki_title": "national electrical code",
+    "summary": "The National Electrical Code is frequently cited in EV debates to justify updating building and permitting rules so chargers are installed safely and by qualified electricians, bolstering pro-EV policies for mandated workplace/home/public charging and funding for infrastructure. At the same time opponents use NEC requirements to criticize rapid rollout plans, arguing compliance costs, technical complexity, and permitting delays make aggressive EV deployment impractical or too expensive.",
+    "queries": [
+      "Is the national electrical code reasonable for electric vehicle charging?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "ride-hailing drivers",
+    "wiki_title": "rideshare drivers united (california)",
+    "summary": "Rideshare Drivers United (California) brings a worker-centered lens to Electric Vehicle debates, acknowledging EV environmental benefits but warning that rapid electrification can harm drivers unless paired with subsidies, charging access, and income protections. They typically support incentives and infrastructure investments while criticizing mandates or timelines that would force gig drivers to absorb high purchase or downtime costs.",
+    "queries": [
+      "How do people view ride-hailing drivers switching to electric vehicles?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "uber green",
+    "wiki_title": "uber",
+    "summary": "Advocates point to Uber’s electrification pledges and robotaxi partnerships as a practical pathway to cut transport emissions and justify public investment in chargers and EV subsidies for fleet operators, while critics use Uber to argue that electrifying ride‑hail alone won’t fix increased vehicle miles, congestion, or equity issues and that mandates or costs could unfairly fall on drivers. ",
+    "queries": [
+      "How do people view uber green claims about EV sustainability?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "safety and standards",
+    "wiki_title": "office for product safety and standards",
+    "summary": "The Office for Product Safety and Standards is often invoked in EV debates as the government authority whose testing, recall decisions, and safety guidance on batteries, chargers and components can be used to either highlight risks (e.g., battery fires) or reassure consumers by enforcing standards. Its interventions are typically cited to justify stricter regulation and mandatory testing of EV technologies, while industry critics sometimes frame those actions as regulatory overreach that could slow deployment or innovation.",
+    "queries": [
+      "What impacts have safety and standards for electric vehicles produced?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "iso 26262",
+    "wiki_title": "iso 26262",
+    "summary": "ISO 26262 is often invoked in EV discussions as the authoritative safety benchmark to justify strict testing, certification, and regulatory oversight of batteries, power electronics, and software controls—supporting pro-regulation stances and manufacturer claims that compliant EVs are safe. Critics counter that reliance on the standard can be used to slow innovation or erect market barriers and does not fully address EV‑specific or ML/cyber risks, so they argue for supplemental rules or new standards.",
+    "queries": [
+      "Is iso 26262 adequate for Electric Vehicles safety or not?"
+    ]
+  },
+  {
+    "id": "C9-3-1",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "automotive safety integrity level",
+    "wiki_title": "automotive safety integrity level",
+    "summary": "References to automotive safety integrity level are commonly used in EV debates to argue that battery management, power electronics, drive‑by‑wire and software-rich features require high ASIL certification — proponents point to ASIL compliance as evidence that EVs are as safe or safer than ICE cars, while critics cite absent or insufficient ASIL validation to justify calls for slower rollout, stricter regulation, or liability protections. Policymakers and commentators invoke ASIL to frame demands for tougher testing, certification and recall rules tailored to the unique failure modes of electric platforms.",
+    "queries": [
+      "What impacts has automotive safety integrity level had on EV safety?"
+    ]
+  },
+  {
+    "id": "C9-3-2",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "battery management system",
+    "wiki_title": "battery management system",
+    "summary": "Proponents point to advanced battery management systems as evidence that EVs are safe, reliable, and long-lived—reducing range anxiety, lifecycle emissions, and enabling grid services like V2G and fast charging—bolstering arguments for subsidies and infrastructure investment. Critics counter that BMS complexity, proprietary software and security/privacy concerns increase costs, limit repairability and second‑life reuse, and thus are used to argue for stricter standards, right‑to‑repair rules, or caution about EV adoption.",
+    "queries": [
+      "Is the battery management system essential for Electric Vehicles or not?"
+    ]
+  },
+  {
+    "id": "C9-3-4",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "tüv süd",
+    "wiki_title": "tüv",
+    "summary": "In public debates about electric vehicles, TÜV certification is often treated as an authoritative safety and compliance stamp — proponents point to TÜV approvals to argue EVs meet established vehicle standards and deserve policy support, subsidies, and consumer trust. Conversely, critics cite TÜV inspection findings or approval barriers (battery safety, charging interoperability, conversion limitations) to justify concerns about fire risk, inadequate standards, or the need for stricter regulation, shaping both regulatory decisions and resale-market perceptions.",
+    "queries": [
+      "What effects has tüv süd had on EV safety standards?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "iso 15118",
+    "wiki_title": "iso 15118",
+    "summary": "ISO 15118 is often cited in EV debates as proof that charging systems can become seamless and interoperable—its Plug&Charge and smart‑charging capabilities are used by automakers, utilities, and policymakers to argue for smoother user experience, harmonized standards, and policies that accelerate EV adoption. Opponents and privacy advocates counter that the standard can enable vendor lock‑in, centralized control of billing and data, and introduce security or implementation delays, framing it as a potential barrier rather than a panacea for charging deployment.",
+    "queries": [
+      "Is iso 15118's plug-and-charge emphasis justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-2",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "open charge point protocol",
+    "wiki_title": "open charge point protocol",
+    "summary": "Supporters invoke the Open Charge Point Protocol as evidence that EV charging can be interoperable and vendor‑neutral, using it to justify policies that mandate open standards to lower costs, enable roaming, smart charging and grid integration. Critics point to proprietary or non‑OCPP networks to argue that charging infrastructure is fragmented, prone to vendor lock‑in and higher prices, and sometimes raise implementation and cybersecurity concerns to call for stricter regulation.",
+    "queries": [
+      "How do people view open charge point protocol in EV infrastructure?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "public key infrastructure",
+    "wiki_title": "public key infrastructure",
+    "summary": "In EV debates PKI is often invoked as the essential trust layer that enables secure charging, vehicle-to-grid and vehicle-to-infrastructure communications and OTA updates, and proponents use it to justify regulation, interoperability requirements, and consumer confidence in EV safety. Skeptics argue reliance on PKI creates centralized failure and surveillance risks, vendor lock‑in, and cost/complexity that are used to argue for slower deployment, stronger standards, or alternate architectures.",
+    "queries": [
+      "How do people view public key infrastructure in electric vehicles?"
+    ]
+  },
+  {
+    "id": "C9-4-6",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "iec 62196",
+    "wiki_title": "iec 62196",
+    "summary": "IEC 62196 is frequently cited in EV debates to argue for standardized charging plugs and protocols—advocates use it to justify regulations and infrastructure investments that promote interoperability, safety, and easier public charging. Opponents and critics point to deviations or proprietary variants (e.g., Tesla or alternative plugs) to argue that fragmentation increases costs, locks consumers into ecosystems, and slows broad adoption of electric vehicles.",
+    "queries": [
+      "Is iec 62196 adequate for Electric Vehicles' charging needs or not?"
+    ]
+  },
+  {
+    "id": "C9-5",
+    "parent": "C9",
+    "level": 2,
+    "topic": "tesla autopilot",
+    "wiki_title": "tesla autopilot",
+    "summary": "Tesla Autopilot is frequently cited in discussions of electric vehicles as proof of EVs' technological edge and a vision of automated, efficiency-improving transportation, used by supporters to justify subsidies, investment, and premium pricing for EVs. Conversely, high-profile Autopilot crashes and regulatory scrutiny are used by critics to question EV safety, corporate accountability, and to argue for stricter oversight of autonomous-driving features.",
+    "queries": [
+      "What effects has tesla autopilot had on EV safety perceptions?"
+    ]
+  },
+  {
+    "id": "C9-5-5",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "level 2 autonomy",
+    "wiki_title": "autonomy",
+    "summary": "In public debates about electric vehicles, 'autonomy' is invoked both to justify EV policies — arguing they enhance energy and national independence from oil and enable more resilient, decentralized mobility — and to criticize them, with opponents framing mandates or bans as infringements on individual consumer autonomy; it also appears in arguments over industry autonomy to set standards for batteries and automated-driving features.",
+    "queries": [
+      "What concerns do drivers have about level 2 autonomy?"
+    ]
+  },
+  {
+    "id": "C9-5-6",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "lidar",
+    "wiki_title": "lidar",
+    "summary": "In EV debates, lidar is portrayed by proponents as the critical sensor that enables safe autonomous electric vehicles and justifies investment, regulatory support, and business models like robo‑taxis and shared fleets. Opponents use lidar's cost, weather/technical limits, privacy/mapping concerns, and the camera-first argument (e.g., Tesla) to criticize reliance on lidar and to argue against rapid deployment or subsidies tied to autonomy.",
+    "queries": [
+      "How do people view lidar for electric vehicles?"
+    ]
+  },
+  {
+    "id": "C9-5-7",
+    "parent": "C9-5",
+    "level": 3,
+    "topic": "over-the-air updates",
+    "wiki_title": "over-the-air update",
+    "summary": "Advocates point to OTA updates to argue EVs can be continually improved after purchase—delivering safety patches, new features, and range/performance tweaks without recalls—strengthening claims that EVs are future‑proof and lower total ownership costs. Critics counter that OTA systems create cybersecurity, privacy, and ownership risks (remote disabling, feature‑gating, vendor lock‑in), which bolsters calls for right‑to‑repair rules and stricter regulation of automotive software updates.",
+    "queries": [
+      "How do people view over-the-air updates for electric vehicles?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "battery thermal runaway",
+    "wiki_title": "thermal runaway",
+    "summary": "In EV debates, 'thermal runaway' is often invoked by critics and sensationalist media to highlight catastrophic battery‑fire risks and argue against rapid adoption, home charging, or lax regulation. Proponents, manufacturers, and regulators counter by citing the phenomenon to justify stronger safety standards, improved thermal management, alternative chemistries, emergency‑responder training, and tighter rules for transport and recycling.",
+    "queries": [
+      "How do people view battery thermal runaway risks in EVs?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "battery thermal management",
+    "wiki_title": "thermal management (electronics)",
+    "summary": "In public debates, electronic thermal management is invoked by proponents to justify higher upfront costs and investment in R&D and regulation—arguing that sophisticated cooling/heating systems preserve battery life, enable safe fast charging, and protect range in extreme climates. Critics use thermal issues (overheating, thermal runaway, and poor cold‑weather performance) to question EV reliability, safety, and suitability for certain regions, bolstering calls for stricter standards or slower adoption.",
+    "queries": [
+      "Is battery thermal management in electric vehicles justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-7",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "product recall",
+    "wiki_title": "product recall",
+    "summary": "Product recalls are often cited by critics to portray electric vehicles as technologically immature or unsafe—especially pointing to battery fires, software glitches, and mass software-driven fixes—to argue against subsidies, rapid rollout, or weak oversight. Proponents and regulators, however, use recalls to emphasize manufacturer accountability and functioning safety systems, urging stronger standards (battery testing, right-to-repair, warranty rules) rather than abandoning EV policy goals.",
+    "queries": [
+      "Is a product recall in Electric Vehicles justified or not?"
+    ]
+  },
+  {
+    "id": "C9-6-8",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "first responders",
+    "wiki_title": "first responder",
+    "summary": "First responders are invoked in EV debates as practical authorities: reports of battery fires, challenging extrication, and the need for high‑voltage training are used to criticize EV safety and push for stricter regulations or slower rollout. Conversely, endorsements from emergency services about successful fleet electrification and calls for more training and emergency‑ready charging infrastructure are used to justify subsidies, funding, and policy support for the EV transition.",
+    "queries": [
+      "Are first responders adequately prepared for electric vehicle incidents?"
+    ]
+  }
+]

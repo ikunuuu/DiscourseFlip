@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "level": 0,
+    "topic": "Gun Control",
+    "wiki_title": "Gun Control",
+    "summary": "In public debate, 'gun control' is used by advocates to frame the issue as a public‑safety and public‑health matter that justifies background checks, licensing, and bans, while opponents use the term to highlight constitutional rights, self‑defense, and government overreach; as a result it serves as a cultural shorthand that pushes people toward either risk‑reduction or liberty‑protection policy positions.",
+    "queries": [
+      "Is Gun Control justified or not?"
+    ]
+  },
+  {
+    "id": "C1",
+    "parent": "root",
+    "level": 1,
+    "topic": "public safety & crime",
+    "wiki_title": "public security",
+    "summary": "Arguments about public security are used to justify stricter gun laws—police, emergency responders, and public-health advocates point to shootings, mass-casualty risks, and response limitations to support background checks, bans on certain weapons, and limits on capacity. Opponents flip the same frame, claiming more permissive gun policies improve public security by enabling self‑defense, deterring crime, and compensating for perceived gaps or failures in law enforcement, casting restrictions as harmful to community safety.",
+    "queries": [
+      "How do people view public safety & crime under gun control?"
+    ]
+  },
+  {
+    "id": "C1-1",
+    "parent": "C1",
+    "level": 2,
+    "topic": "national rifle association",
+    "wiki_title": "national rifle association",
+    "summary": "The NRA is invoked as the principal defender of expansive Second Amendment rights, using lobbying, campaign spending, grassroots mobilization, and legal challenges to frame gun-control measures (like assault‑weapon bans, strict background checks, and licensing) as unconstitutional government overreach. Critics, by contrast, use the NRA as shorthand for an entrenched gun lobby that blocks regulation after mass shootings and prioritizes political and industry interests over public‑safety reforms.",
+    "queries": [
+      "What consequences has the National Rifle Association had on gun control?"
+    ]
+  },
+  {
+    "id": "C1-1-6",
+    "parent": "C1-1",
+    "level": 3,
+    "topic": "ar-15",
+    "wiki_title": "ar-15–style rifle",
+    "summary": "AR-15–style rifles are frequently invoked as the emblematic “assault-style” firearm in gun-control debates—advocates of restrictions point to their use in high-profile mass shootings and military-like appearance to justify bans, magazine limits, and tighter sales controls. Opponents use the rifle to argue bans would be ineffective or unconstitutional, stressing its popularity for sport and self-defense to frame restrictions as overreach.",
+    "queries": [
+      "How do people view ar-15 in the gun control debate?"
+    ]
+  },
+  {
+    "id": "C1-2",
+    "parent": "C1",
+    "level": 2,
+    "topic": "second amendment",
+    "wiki_title": "second amendment to the united states constitution",
+    "summary": "The Second Amendment is the constitutional anchor in gun‑control fights: advocates cite it to argue against broad bans and for broad private ownership and public carry, framing regulations as unconstitutional intrusions on individual rights. Critics and many courts counter that the amendment allows reasonable, historically grounded limits (e.g., on dangerous weapons or disqualified persons), so it is used both to justify resistance to new laws and to defend targeted safety regulations depending on interpretive stance.",
+    "queries": [
+      "Is invoking the second amendment justified in gun control discussions?"
+    ]
+  },
+  {
+    "id": "C1-2-8",
+    "parent": "C1-2",
+    "level": 3,
+    "topic": "originalism",
+    "wiki_title": "originalism",
+    "summary": "Originalist arguments are often invoked in gun-control debates to claim that the Second Amendment’s original public meaning protects individual gun ownership and therefore limits modern regulatory policies, influencing judges to strike down new restrictions. Critics counter that reliance on historical intent selectively freezes rights against contemporary public‑safety concerns and that originalist readings can be used politically to block commonsense gun regulations.",
+    "queries": [
+      "Is originalism justified in guiding gun control decisions or not?"
+    ]
+  },
+  {
+    "id": "C1-3",
+    "parent": "C1",
+    "level": 2,
+    "topic": "background checks",
+    "wiki_title": "background check",
+    "summary": "Advocates of gun control point to expanded or 'universal' background checks as a practical, bipartisan reform to keep firearms out of the hands of prohibited people and to close private-sale and loophole pathways to guns. Critics counter that background-check expansion is intrusive, administratively burdensome and often ineffective because of gaps in records, straw purchases, and black-market sales, framing it as a weak or misleading substitute for stronger measures or as an infringement on rights.",
+    "queries": [
+      "How do people view background checks within gun control debates?"
+    ]
+  },
+  {
+    "id": "C1-3-1",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "brady bill",
+    "wiki_title": "brady handgun violence prevention act",
+    "summary": "Advocates cite the Brady Handgun Violence Prevention Act as a landmark precedent for background checks and waiting periods, using it to justify broader federal checks and closing loopholes; opponents use it to argue gun-control laws impose burdens on lawful buyers, invite bureaucratic delays, and have limited effect on violent crime, making it a focal point in debates over efficacy versus rights.",
+    "queries": [
+      "Is the Brady Bill a reasonable gun control measure?"
+    ]
+  },
+  {
+    "id": "C1-3-2",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "nics",
+    "wiki_title": "nics",
+    "summary": "Advocates point to NICS denial statistics and background-check volumes as evidence that expanding and tightening background checks can block prohibited buyers and reduce illicit access, while critics highlight NICS’s reporting gaps and that checks don’t equal completed sales to argue such laws are limited or misdirected. Policymakers and media also use sharp increases in NICS checks after mass shootings to portray rising public support for stricter gun-control measures.",
+    "queries": [
+      "What consequences has NICS had for gun control outcomes?"
+    ]
+  },
+  {
+    "id": "C1-3-3",
+    "parent": "C1-3",
+    "level": 3,
+    "topic": "gun show loophole",
+    "wiki_title": "gun show loophole",
+    "summary": "In gun control debates the term is used by advocates to dramatize regulatory gaps and argue for universal background checks and tighter oversight of private sales as a way to curb illegal trafficking; opponents portray the phrase as misleading spin that wrongly targets private transfers and gun shows, framing the issue as one of enforcement and individual rights rather than a loophole needing new federal rules.",
+    "queries": [
+      "Is the gun show loophole reasonable within gun control policy?"
+    ]
+  },
+  {
+    "id": "C1-4",
+    "parent": "C1",
+    "level": 2,
+    "topic": "assault weapons ban",
+    "wiki_title": "assault weapons ban",
+    "summary": "Calls for an assault weapons ban are often used by proponents to justify stricter gun laws by framing limits on military-style features and high-capacity accessories as a targeted way to reduce mass-shooting lethality and policy loopholes; critics, however, use the term to argue such bans are symbolic, constitutionally overreaching, and focus on cosmetic features rather than firearm function or underlying causes, making the issue a political litmus test rather than a clear safety fix.",
+    "queries": [
+      "What consequences has an assault weapons ban caused?"
+    ]
+  },
+  {
+    "id": "C1-4-4",
+    "parent": "C1-4",
+    "level": 3,
+    "topic": "high-capacity magazine",
+    "wiki_title": "high-capacity magazine ban",
+    "summary": "Advocates present high-capacity magazine bans as a focused, pragmatic way to reduce mass-shooting lethality and slow attackers between reloads, framing them as a politically feasible step toward safer communities without banning guns outright. Critics use them to argue against broader gun-control efforts by calling the limits arbitrary, ineffective against criminals, and an infringement on Second Amendment rights, often emphasizing enforcement loopholes and symbolic rather than substantive impact.",
+    "queries": [
+      "Are limits on high-capacity magazine justified or not?"
+    ]
+  },
+  {
+    "id": "C1-5",
+    "parent": "C1",
+    "level": 2,
+    "topic": "red flag laws",
+    "wiki_title": "red flag law",
+    "summary": "In gun-control debates, red flag laws are wielded by proponents as a pragmatic, narrowly targeted prevention tool that frames firearm restrictions in terms of temporary risk reduction and public safety with judicial oversight; opponents use them to criticize perceived erosion of due process and Second Amendment rights, warning of false accusations, politicized enforcement, and slippery‑slope expansion. ",
+    "queries": [
+      "How do people view red flag laws in gun control debates?"
+    ]
+  },
+  {
+    "id": "C1-5-7",
+    "parent": "C1-5",
+    "level": 3,
+    "topic": "suicide prevention",
+    "wiki_title": "suicide prevention",
+    "summary": "In gun control debates, suicide prevention is invoked by advocates to justify policies that limit access to firearms—such as safe-storage laws, waiting periods, and extreme risk protection orders—on the grounds that means restriction reduces suicide deaths. Critics counter that efforts should instead target mental-health care and social supports or that such measures infringe on rights, so suicide prevention becomes both an evidence-based rationale for targeted gun regulations and a flashpoint over scope, effectiveness, and civil liberties.",
+    "queries": [
+      "What effects has suicide prevention tied to gun control caused?"
+    ]
+  },
+  {
+    "id": "C1-6",
+    "parent": "C1",
+    "level": 2,
+    "topic": "mass shootings",
+    "wiki_title": "mass shooting",
+    "summary": "Mass shootings are frequently invoked by gun‑control advocates as dramatic evidence that easy access to high‑capacity firearms and lax regulations produce mass‑casualty events, justifying measures like assault‑weapon bans, universal background checks, red‑flag laws and magazine limits. Opponents respond by attributing shootings to mental illness, media contagion, enforcement failures or the rarity of such events to argue against sweeping restrictions and to promote armed self‑defense or targeted interventions, while disputes over definitions and counts are used to amplify or downplay urgency for reform.",
+    "queries": [
+      "Is stricter gun control reasonable for preventing mass shootings?"
+    ]
+  },
+  {
+    "id": "C1-6-6",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "thoughts and prayers",
+    "wiki_title": "thoughts and prayers",
+    "summary": "In gun control debates, critics use “thoughts and prayers” as a shorthand to condemn politicians who offer condolence instead of pursuing stricter firearm laws, portraying such statements as evidence of political inaction, while defenders cast the phrase as sincere comfort and resist framing tragedies as automatic justification for new gun restrictions.",
+    "queries": [
+      "Are thoughts and prayers in gun control debates sufficient or not?"
+    ]
+  },
+  {
+    "id": "C1-6-7",
+    "parent": "C1-6",
+    "level": 3,
+    "topic": "ghost guns",
+    "wiki_title": "ghost guns",
+    "summary": "Advocates of stricter gun control point to ghost guns as evidence of loopholes that produce untraceable, easily acquired weapons and use them to push for rules requiring serial numbers, background checks on parts/kits, and limits on 3D-printing files; opponents counter that regulating homemade firearms is an overreach that infringes on lawful DIY ownership, is hard to enforce, and would criminalize ordinary citizens rather than reduce crime.",
+    "queries": [
+      "Are ghost guns a reasonable target for stricter gun control?"
+    ]
+  },
+  {
+    "id": "C1-7",
+    "parent": "C1",
+    "level": 2,
+    "topic": "concealed carry",
+    "wiki_title": "concealed carry",
+    "summary": "In gun-control debates, concealed carry is often invoked by pro-gun advocates as a practical, constitutionally framed argument for loosening permit requirements and allowing 'constitutional' or permitless carry on grounds of self‑defense and crime deterrence. Opponents use the same issue to argue for stricter permitting, mandatory training, and background checks, claiming that more hidden firearms raise public-safety risks and complicate policing.",
+    "queries": [
+      "How do people view concealed carry in public spaces?"
+    ]
+  },
+  {
+    "id": "C1-7-2",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "constitutional carry",
+    "wiki_title": "constitutional carry",
+    "summary": "In gun-control debates, constitutional carry is invoked by gun-rights advocates to portray permitting requirements as unconstitutional intrusions and to justify rolling back carry regulations as affirming individual self‑defense and pro‑liberty principles, often serving as a political litmus test. Critics use it to argue that eliminating permitting and oversight weakens public safety, hampers law enforcement, and obstructs policy tools (training, background checks, permitting) aimed at reducing gun violence.",
+    "queries": [
+      "Is constitutional carry reasonable within gun control policy or not?"
+    ]
+  },
+  {
+    "id": "C1-7-5",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "campus carry",
+    "wiki_title": "campus carry in the united states",
+    "summary": "Proponents of campus carry present it as proof that broader carrying rights and armed self‑defense can deter attacks and protect individual liberty, using it to argue against stricter gun-control measures; critics counter that more guns on campus increase accidental shootings, complicate law enforcement, and chill learning environments, using it to justify targeted restrictions and stronger safety rules for sensitive locations.",
+    "queries": [
+      "Is campus carry justified or not?"
+    ]
+  },
+  {
+    "id": "C1-7-6",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "stand your ground",
+    "wiki_title": "stand-your-ground law",
+    "summary": "Supporters of looser gun laws invoke stand-your-ground as a moral and legal justification for broader self‑defense rights and fewer limits on carrying firearms, arguing it deters crime and protects law‑abiding citizens. Critics use empirical studies and stories of racialized enforcement to argue the laws increase gun homicides and undermine public safety, framing them as a reason to tighten gun regulations and accountability.",
+    "queries": [
+      "How do people view stand your ground in gun control discussions?"
+    ]
+  },
+  {
+    "id": "C1-7-7",
+    "parent": "C1-7",
+    "level": 3,
+    "topic": "concealed carry permit",
+    "wiki_title": "overview of gun laws by nation",
+    "summary": "Comparative overviews of national gun laws are often wielded as evidence in gun control debates: advocates point to countries with strict licensing, bans, and lower firearm deaths to argue for tighter regulation and specific measures (background checks, bans on certain firearms), while opponents highlight permissive countries with low violence or stress cultural and enforcement differences to argue such models aren’t transplantable and to oppose blanket restrictions. Policymakers and critics alike use these cross‑national comparisons to justify preferred policies, critique effectiveness, or accuse the other side of cherry‑picking examples.",
+    "queries": [
+      "Are concealed carry permit requirements justified or not?"
+    ]
+  },
+  {
+    "id": "C2",
+    "parent": "root",
+    "level": 1,
+    "topic": "constitutional law",
+    "wiki_title": "constitutional law",
+    "summary": "Constitutional law is the central frame in gun control debates, with proponents of gun rights invoking Second Amendment interpretations and Supreme Court precedents (e.g., Heller, McDonald) to argue that individual ownership limits regulatory power, while advocates of stricter controls point to the Constitution’s allowance for government police powers, federalism, and judicially sanctioned balancing tests to justify background checks, bans, and licensing as permissible means to protect public safety. Disputes over originalism vs. living-constitution approaches, incorporation, and the level of scrutiny to apply often determine whether specific gun policies are portrayed as constitutional rights or lawful, necessary restrictions.",
+    "queries": [
+      "How do people view constitutional law decisions on gun control?"
+    ]
+  },
+  {
+    "id": "C2-2",
+    "parent": "C2",
+    "level": 2,
+    "topic": "district of columbia v. heller",
+    "wiki_title": "district of columbia v. heller",
+    "summary": "District of Columbia v. Heller is frequently cited by gun-rights advocates to claim the Second Amendment protects individual home possession and to challenge broad firearm bans, while gun-control supporters point to the decision’s caveats allowing ‘reasonable’ regulations to justify background checks, licensing, and targeted restrictions; it therefore serves as a central legal touchstone shaping litigation and policy framing on both sides.",
+    "queries": [
+      "What impacts has district of columbia v. heller had on gun control?"
+    ]
+  },
+  {
+    "id": "C2-2-3",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "antonin scalia",
+    "wiki_title": "antonin scalia",
+    "summary": "Antonin Scalia’s authorship of the Supreme Court’s Heller opinion and his originalist textualist method are frequently invoked by gun‑rights advocates to argue that the Second Amendment protects an individual right to possess firearms and to challenge broad gun‑control measures. Critics concede he acknowledged limits on the right but say his framing has nonetheless been used to constrain regulatory options and bolster opposition to restrictive policies.",
+    "queries": [
+      "Is Antonin Scalia’s view on gun rights reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-2-7",
+    "parent": "C2-2",
+    "level": 3,
+    "topic": "gun laws in the united states",
+    "wiki_title": "gun law in the united states",
+    "summary": "In public debates, U.S. gun laws and Supreme Court interpretations are wielded by gun‑rights advocates to argue that many regulatory proposals violate an individual constitutional right, while gun‑control supporters point to statutes and court upholding of targeted limits to justify measures like background checks and disqualifications for risky people. The Court’s recent insistence on grounding regulations in historical/textual precedent is a frequent flashpoint — hailed by rights proponents as a protection of liberty and criticized by reformers as an obstacle to modern public‑safety policies.",
+    "queries": [
+      "What consequences have gun laws in the united states had?"
+    ]
+  },
+  {
+    "id": "C2-3",
+    "parent": "C2",
+    "level": 2,
+    "topic": "mcdonald v. chicago",
+    "wiki_title": "mcdonald v. city of chicago",
+    "summary": "McDonald v. City of Chicago is frequently cited by gun-rights advocates to argue that the Second Amendment constrains state and local attempts to ban or heavily restrict handguns, framing local gun-control measures as unconstitutional intrusions on individual rights; gun-control proponents, in turn, point to the decision as a legal limit that steers policy debates away from outright bans and toward narrowly tailored regulations (background checks, licensing, safe-storage rules) that can survive constitutional scrutiny.",
+    "queries": [
+      "How do people view mcdonald v. chicago in gun control debates?"
+    ]
+  },
+  {
+    "id": "C2-3-3",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "selective incorporation",
+    "wiki_title": "incorporation of the bill of rights",
+    "summary": "Pro-gun advocates invoke incorporation to argue that the Second Amendment limits state and local gun-control laws and to justify lawsuits against bans and strict local regulations. Gun-control proponents respond that incorporation only makes the right enforceable against states while leaving substantial room for regulation under later Supreme Court interpretations, so it does not preclude reasonable limits.",
+    "queries": [
+      "Is selective incorporation in gun control cases reasonable or not?"
+    ]
+  },
+  {
+    "id": "C2-3-4",
+    "parent": "C2-3",
+    "level": 3,
+    "topic": "privileges or immunities clause",
+    "wiki_title": "privileges or immunities clause",
+    "summary": "Gun-rights advocates sometimes invoke the Privileges or Immunities Clause to argue that the right to keep and bear arms is a national right that states cannot abridge, using it to challenge state and local gun-control laws and push for stronger federal protection. Critics and many legal scholars counter that the clause has been narrowly interpreted since the Slaughter‑House Cases and warn that relying on it either misreads history or would expand federal power in ways that could reshape the balance of gun regulation between states and the federal government.",
+    "queries": [
+      "Would the privileges or immunities clause limit gun control laws reasonably?"
+    ]
+  },
+  {
+    "id": "C2-5",
+    "parent": "C2",
+    "level": 2,
+    "topic": "supreme court",
+    "wiki_title": "supreme court",
+    "summary": "Supreme Court decisions and doctrinal tests (e.g., interpretations of the Second Amendment) are invoked by gun-rights advocates to claim constitutional limits on regulations, while gun-control supporters and critics point to the Court as either a barrier to public-safety laws or a focal point for pushing reforms, arguing its rulings shape whether the debate is framed as protecting individual rights or enabling government regulation.",
+    "queries": [
+      "Are supreme court rulings on gun control justified or controversial?"
+    ]
+  },
+  {
+    "id": "C2-8",
+    "parent": "C2",
+    "level": 2,
+    "topic": "strict scrutiny",
+    "wiki_title": "strict scrutiny",
+    "summary": "In gun‑control debates, advocates of gun rights invoke strict scrutiny to cast many regulations as unconstitutional intrusions on the Second Amendment, arguing courts should strike down laws unless they meet an exacting standards; this framing raises the evidentiary and tailoring bar and pressures lawmakers to narrow or avoid broad restrictions. Opponents of that view counter that targeted regulations designed to protect public safety can satisfy a compelling‑interest test, but the dispute over whether strict scrutiny applies shapes litigation strategy, public messaging, and the scope of permissible policy options.",
+    "queries": [
+      "Is strict scrutiny appropriate for Gun Control laws or not?"
+    ]
+  },
+  {
+    "id": "C2-8-6",
+    "parent": "C2-8",
+    "level": 3,
+    "topic": "intermediate scrutiny",
+    "wiki_title": "intermediate scrutiny",
+    "summary": "In gun control debates, proponents of regulations invoke intermediate scrutiny to argue courts should uphold measures such as licensing, background checks, storage rules, and some carry limits as sufficiently related to public safety. Opponents counter that intermediate scrutiny is overly deferential to governments and pushes courts away from stronger protections for the Second Amendment, insisting on stricter review (or historical tests) to strike down many regulations.",
+    "queries": [
+      "Is intermediate scrutiny appropriate in gun control cases?"
+    ]
+  },
+  {
+    "id": "C2-1-8",
+    "parent": "C2",
+    "level": 3,
+    "topic": "second amendment sanctuary",
+    "wiki_title": "second amendment sanctuary",
+    "summary": "Calls to declare jurisdictions as \"Second Amendment sanctuaries\" are used to frame gun control as illegitimate federal or state overreach and to justify local refusal to enforce new restrictions, energizing pro-gun constituencies and pressuring policymakers to roll back or block laws. Opponents counter that the sanctuary rhetoric promotes illegalism, undermines public-safety goals, and shifts debate from regulatory detail to questions of constitutional defiance and local autonomy.",
+    "queries": [
+      "How do people view second amendment sanctuary in gun control debates?"
+    ]
+  },
+  {
+    "id": "C2-6-8",
+    "parent": "C2",
+    "level": 3,
+    "topic": "nra political victory fund",
+    "wiki_title": "political victory fund",
+    "summary": "Political Victory Funds—PAC arms used by both gun‑rights groups (e.g., the NRA’s PVF) and gun‑safety organizations—feature in gun control debates as the tools that endorse, bankroll, and rate candidates based on their positions on firearms policy, framing elections as de facto referendums on gun laws. Opponents of gun control point to their spending as evidence of special‑interest capture that blocks reform, while supporters use their backing to justify electing committed pro‑ or anti‑regulation officials.",
+    "queries": [
+      "What effects has nra political victory fund had on gun control?"
+    ]
+  },
+  {
+    "id": "C2-7-7",
+    "parent": "C2",
+    "level": 3,
+    "topic": "county sheriffs",
+    "wiki_title": "sheriff",
+    "summary": "Sheriffs are often invoked in gun-control debates as visible enforcers whose public stances — from pledges to refuse enforcement by 'Second Amendment sanctuary' sheriffs to endorsements of strict policing and weapons restrictions by others — are used by gun-rights advocates to argue for local sovereignty and against new laws, and by gun-control supporters to claim legitimacy for regulation and to press for clear state or federal authority and accountability.",
+    "queries": [
+      "What impacts have county sheriffs had on local gun control?"
+    ]
+  },
+  {
+    "id": "C3",
+    "parent": "root",
+    "level": 1,
+    "topic": "electoral politics",
+    "wiki_title": "electoral system",
+    "summary": "Advocates and opponents of gun control often point to the electoral system to explain why certain policies succeed or fail: single-member districts, winner‑take‑all rules, gerrymandering, and closed primaries tend to amplify rural, highly motivated pro‑gun voters and entrenched incumbents (and the gun lobby), making restrictive laws harder to pass. Conversely, proponents argue that proportional representation, ranked‑choice voting, open primaries, and reforms that increase urban and minority turnout would better align elected bodies with public support for gun‑safety measures and reduce the outsized influence of gun advocates.",
+    "queries": [
+      "How do people view electoral politics' role in gun control debates?"
+    ]
+  },
+  {
+    "id": "C3-3",
+    "parent": "C3",
+    "level": 2,
+    "topic": "brady campaign",
+    "wiki_title": "brady campaign",
+    "summary": "In public debates the Brady campaign is cited by gun‑control proponents as a leading advocacy and litigation voice pushing for universal background checks, safe‑storage requirements, and limits on high‑capacity firearms, framing gun policy as a public‑health and violence‑prevention issue. Opponents invoke Brady’s prominence to portray reform proposals as rights‑infringing and emblematic of an anti‑gun agenda.",
+    "queries": [
+      "How do people view the brady campaign's influence on gun control?"
+    ]
+  },
+  {
+    "id": "C3-6",
+    "parent": "C3",
+    "level": 2,
+    "topic": "parkland shooting",
+    "wiki_title": "parkland high school shooting",
+    "summary": "The Parkland shooting is a central rallying point for gun-control advocates, cited to justify stricter laws (assault-weapon restrictions, higher purchase ages, red‑flag statutes and universal background checks) and credited with energizing youth-led campaigns; opponents counter by using the same event to argue for mental-health interventions, increased school security and armed or trained staff, making it a potent, emotionally charged symbol that amplifies both sides’ policy priorities.",
+    "queries": [
+      "What long-term effects has the parkland shooting had on policy?"
+    ]
+  },
+  {
+    "id": "C3-6-5",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "nikolas cruz",
+    "wiki_title": "nikolas cruz",
+    "summary": "Nikolas Cruz is often invoked in U.S. gun‑control debates as the prototypical school shooter whose use of a military‑style rifle is cited by advocates to justify assault‑weapon bans, higher purchase ages, universal background checks, and red‑flag laws. Opponents counter by emphasizing his mental‑health history, failures in threat reporting and school security, or argue that enforcing existing laws and expanding armed defense would be more effective than new gun restrictions.",
+    "queries": [
+      "How do people view nikolas cruz in gun control discussions?"
+    ]
+  },
+  {
+    "id": "C3-6-6",
+    "parent": "C3-6",
+    "level": 3,
+    "topic": "broward county sheriff's office",
+    "wiki_title": "broward county sheriff's office",
+    "summary": "The Broward County Sheriff’s Office—most notably its widely criticized response to the Parkland shooting—is frequently invoked in gun control debates: advocates cite it as evidence that stronger gun laws, background checks, and institutional oversight are needed to prevent mass shootings, while opponents use the same failures to argue for alternative solutions (better policing, armed school personnel, or mental-health interventions) rather than expanded firearm restrictions.",
+    "queries": [
+      "What consequences have Broward County Sheriff's Office's actions on gun control caused?"
+    ]
+  },
+  {
+    "id": "C3-7-3",
+    "parent": "C3",
+    "level": 3,
+    "topic": "bruen",
+    "wiki_title": "bruen",
+    "summary": "In gun‑control debates, “Bruen” is shorthand for the Supreme Court decision that pro‑gun advocates and many courts use to challenge permitting, bans, and safety rules by demanding a historical‑tradition justification, which has been used to roll back modern regulations. Critics say Bruen erects an evidence‑heavy, history‑centered hurdle that undermines contemporary public‑safety policy and shifts disputes from policy balancing to litigation over historical analogues.",
+    "queries": [
+      "How do people view bruen regarding gun rights and safety?"
+    ]
+  },
+  {
+    "id": "C3-1-4",
+    "parent": "C3",
+    "level": 3,
+    "topic": "letitia james",
+    "wiki_title": "letitia james",
+    "summary": "As New York’s attorney general, Letitia James is often invoked in gun‑control debates as a legal enforcer who defends and advances strict gun‑safety measures, using litigation and public messaging to frame tougher regulation as a public‑safety and accountability imperative. Supporters point to her actions to justify stronger restrictions and enforcement, while critics portray her role as partisan overreach that weaponizes state power against gun rights.",
+    "queries": [
+      "What effects has letitia james had on gun control debates?"
+    ]
+  },
+  {
+    "id": "C3-4-8",
+    "parent": "C3",
+    "level": 3,
+    "topic": "private sales",
+    "wiki_title": "for sale by owner",
+    "summary": "The “for sale by owner” idea is used in gun‑control debates as an analogy for private firearm transfers: gun‑rights advocates use it to justify unfettered, broker‑free sales as ordinary property rights, while gun‑safety supporters point to FSBO‑style private sales as evidence of loopholes that require background‑check and reporting laws.",
+    "queries": [
+      "How do people view private sales within gun control debates?"
+    ]
+  },
+  {
+    "id": "C4",
+    "parent": "root",
+    "level": 1,
+    "topic": "public health",
+    "wiki_title": "public health",
+    "summary": "Public health framing casts gun violence as a preventable population-level disease burden and is invoked to justify evidence-based interventions—funding for surveillance and research, background checks, safe-storage laws, and other regulations—by emphasizing morbidity, mortality, and economic costs. Critics argue this framing politicizes public-health agencies, overstates government authority, or misattributes causes (pushing mental-health or criminal-justice responses instead) to oppose regulatory measures.",
+    "queries": [
+      "How do people view public health arguments in gun control?"
+    ]
+  },
+  {
+    "id": "C4-1",
+    "parent": "C4",
+    "level": 2,
+    "topic": "cdc",
+    "wiki_title": "centers for disease control and prevention",
+    "summary": "Advocates for stricter gun laws invoke CDC data and public‑health framing to argue that firearm injury is a preventable health problem that warrants prevention-focused policies (research funding, safe‑storage mandates, background checks), while opponents dispute CDC findings or cite past funding restrictions and alleged politicization to portray such research as biased and to limit the agency’s influence on firearms policy.",
+    "queries": [
+      "Is cdc research on firearm safety trusted or questioned?"
+    ]
+  },
+  {
+    "id": "C4-1-1",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "dickey amendment",
+    "wiki_title": "dickey amendment",
+    "summary": "In gun control debates the Dickey Amendment is frequently invoked to explain the historical shortage of federally funded gun-violence research, a fact gun-rights advocates use to argue against government overreach and the use of public-health studies to justify new restrictions. Conversely, supporters of stricter gun laws criticize the amendment for suppressing evidence needed to craft and justify data-driven policy, portraying it as a politically motivated barrier to accountability and reform.",
+    "queries": [
+      "What consequences has the dickey amendment had for gun control policy?"
+    ]
+  },
+  {
+    "id": "C4-1-2",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "national violent death reporting system",
+    "wiki_title": "national violent death reporting system",
+    "summary": "Advocates and researchers cite the National Violent Death Reporting System’s detailed, case-level data on firearm suicides, homicides, and circumstances as evidence that access to guns, domestic conflicts, and lack of safe storage increase lethal outcomes—using it to justify background checks, red‑flag laws, and targeted prevention. Critics counter by questioning coverage, causation, or interpretation of the data to argue for focusing on mental‑health, enforcement, or alternative policies rather than new gun restrictions.",
+    "queries": [
+      "How do people view the national violent death reporting system’s role?"
+    ]
+  },
+  {
+    "id": "C4-1-4",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "safe storage",
+    "wiki_title": "safe household water storage",
+    "summary": "References to safe household water storage are often invoked as a public‑health analogy in gun‑control debates: proponents use it to justify mandatory safe‑storage laws and framing firearms safety as a simple, evidence‑based household risk‑reduction measure, while opponents cite the analogy to argue for voluntary education and parental responsibility instead of broader gun restrictions.",
+    "queries": [
+      "Is safe storage under gun control reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-1-5",
+    "parent": "C4-1",
+    "level": 3,
+    "topic": "injury prevention",
+    "wiki_title": "injury prevention",
+    "summary": "In debates over gun control, injury prevention is used by public‑health advocates to reframe firearms as a preventable cause of harm and to justify measures such as safe‑storage laws, background checks, red‑flag orders, child‑access prevention, and safety‑engineering standards; it supports policy approaches that prioritize population‑level risk reduction. Critics counter that this framing emphasizes aggregate injury metrics over individual rights and self‑defense, promoting education or mental‑health interventions and better enforcement of existing laws rather than new restrictions on gun ownership.",
+    "queries": [
+      "Is injury prevention in gun control justified or not?"
+    ]
+  },
+  {
+    "id": "C4-3",
+    "parent": "C4",
+    "level": 2,
+    "topic": "everytown for gun safety",
+    "wiki_title": "everytown for gun safety",
+    "summary": "Everytown for Gun Safety is a leading pro‑control advocacy organization that shapes public debate by funding research, running national ad and lobbying campaigns, and amplifying victim stories to justify measures such as universal background checks, red‑flag laws, and limits on high‑capacity weapons. Critics point to its wealthy funding and partisan activity to frame it as politically motivated, anti‑Second Amendment, and prone to selective use of data to push stricter gun laws.",
+    "queries": [
+      "Is everytown for gun safety’s advocacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-3-1",
+    "parent": "C4-3",
+    "level": 3,
+    "topic": "michael bloomberg",
+    "wiki_title": "michael bloomberg",
+    "summary": "Michael Bloomberg is cited in gun-control debates as a major funder and organizer of national campaigns pushing for stricter laws—supporters point to his philanthropic, data-driven advocacy for measures like universal background checks, assault-weapon limits, and red-flag laws to reduce gun violence, while critics use him as a symbol of wealthy, outsider influence trying to buy policy and constrain Second Amendment rights.",
+    "queries": [
+      "How do people view michael bloomberg’s influence on gun control policy?"
+    ]
+  },
+  {
+    "id": "C4-6",
+    "parent": "C4",
+    "level": 2,
+    "topic": "suicide by firearm",
+    "wiki_title": "suicide methods",
+    "summary": "Discussions of suicide methods are used to argue that because firearms are a highly lethal and common means of suicide, restricting access (through background checks, safe-storage laws, and limits on ownership) will measurably reduce suicide deaths—this is a core rationale for many gun-control advocates. Critics invoke the same evidence to argue it distracts from mental-health and substance-use treatment or risks method substitution, advocating broader prevention measures rather than gun-specific restrictions.",
+    "queries": [
+      "How do people view suicide by firearm in gun control debates?"
+    ]
+  },
+  {
+    "id": "C4-6-1",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "extreme risk protection orders",
+    "wiki_title": "extreme risk protection order act",
+    "summary": "In gun control debates, the Extreme Risk Protection Order Act is often presented by supporters as a pragmatic, preventive compromise that targets individuals judged to pose an imminent danger, framing policy as narrowly focused on safety without broad bans. Critics counter that ERPOs undermine due process, can be weaponized in personal or biased disputes, and serve as a slippery‑slope toward confiscation, so the law is central to arguments about balancing public safety against civil liberties.",
+    "queries": [
+      "How do people view extreme risk protection orders in gun control?"
+    ]
+  },
+  {
+    "id": "C4-6-4",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "veteran suicide",
+    "wiki_title": "veteran",
+    "summary": "Veterans are deployed in gun control debates both to defend gun rights—framed as disciplined, trained owners whose service and expertise argue against restrictive laws—and to justify tighter measures, with concerns about combat-related trauma and high veteran suicide rates used to support background checks, safe-storage requirements, waiting periods, and temporary removal laws.",
+    "queries": [
+      "How do people view veteran suicide in gun control debates?"
+    ]
+  },
+  {
+    "id": "C4-6-5",
+    "parent": "C4-6",
+    "level": 3,
+    "topic": "means restriction",
+    "wiki_title": "restriction conjecture",
+    "summary": "The restriction conjecture is virtually never invoked in mainstream gun‑control debates; when it does appear, commentators use it as an obscure metaphor to argue that conditions which seem necessary for effective gun restrictions may not be sufficient. Such invocations typically support skeptical, technocratic framings that caution against simplistic bans and urge more nuanced, evidence‑based policy design rather than endorsing particular laws.",
+    "queries": [
+      "How do people view means restriction within gun control debates?"
+    ]
+  },
+  {
+    "id": "C4-2-1",
+    "parent": "C4",
+    "level": 3,
+    "topic": "wayne lapierre",
+    "wiki_title": "wayne lapierre",
+    "summary": "LaPierre serves as a high‑profile mouthpiece for pro‑gun arguments, framing gun control as misdirected at law‑abiding owners and pushing solutions like mental‑health interventions, tougher penalties, and armed security instead of broad restrictions. His combative style and controversies are then used by critics to portray NRA opposition as self‑interested and extreme, and by supporters to energize resistance to new regulations.",
+    "queries": [
+      "Is Wayne Lapierre's stance on gun control reasonable or not?"
+    ]
+  },
+  {
+    "id": "C4-2-8",
+    "parent": "C4",
+    "level": 3,
+    "topic": "campaign contributions",
+    "wiki_title": "campaign finance",
+    "summary": "Campaign finance plays a central role in gun control debates: large donations and PAC spending from the NRA, gun manufacturers, and allied interests bankroll pro-gun candidates and ad campaigns that block or weaken regulation while framing restrictions as an assault on rights. Gun-control advocates counter by citing those financial ties as evidence of undue influence and corruption, pushing for disclosure, contribution limits, and public financing to elect reform-minded lawmakers and neutralize industry sway.",
+    "queries": [
+      "Are campaign contributions influencing gun control policy appropriately or not?"
+    ]
+  },
+  {
+    "id": "C4-4-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "straw purchases",
+    "wiki_title": "straw purchase",
+    "summary": "In gun control debates, straw purchases are cited by advocates as a key mechanism that circumvents background checks and channels firearms to prohibited or criminal users, used to justify universal-check laws, tighter private-sale rules, and stiffer penalties. Critics argue emphasizing straw purchases can overreach enforcement, risk prosecuting intermediaries or lawful owners, and distract from focusing resources on violent crime and mental-health interventions.",
+    "queries": [
+      "How do people view straw purchases within gun control discussions?"
+    ]
+  },
+  {
+    "id": "C4-5-4",
+    "parent": "C4",
+    "level": 3,
+    "topic": "ex parte orders",
+    "wiki_title": "ex parte",
+    "summary": "In gun control debates, “ex parte” typically refers to emergency orders (for example red‑flag or protective orders) that allow temporary removal or restriction of firearms without a prior hearing; advocates portray this as a necessary tool to quickly avert imminent harm. Critics counter that ex parte procedures undermine due process and can be abused to effectuate summary confiscation or politically motivated restrictions on gun ownership.",
+    "queries": [
+      "What effects have ex parte orders had on gun control outcomes?"
+    ]
+  },
+  {
+    "id": "C4-5-5",
+    "parent": "C4",
+    "level": 3,
+    "topic": "restraining orders",
+    "wiki_title": "restraining order",
+    "summary": "In gun control debates restraining orders are invoked as a legal mechanism to temporarily remove firearms or bar access to guns for individuals deemed dangerous, underpinning support for red‑flag/ERPO laws as a targeted, non‑criminal way to prevent violence. Critics use the same concept to warn of due‑process risks, inconsistent enforcement, and potential for abusive or false filings, arguing these problems undermine broader firearm‑removal policies.",
+    "queries": [
+      "Do restraining orders in gun control seem justified or excessive?"
+    ]
+  },
+  {
+    "id": "C5",
+    "parent": "root",
+    "level": 1,
+    "topic": "civil liberties",
+    "wiki_title": "civil liberties",
+    "summary": "Opponents of gun control invoke civil liberties to cast firearm ownership as a fundamental individual right and to warn that bans, broad registration, or intrusive enforcement represent government overreach; this rhetoric is used to justify minimal regulation and legal challenges. Advocates of regulation respond by arguing that unregulated access to guns infringes others’ civil liberties—such as the right to life and public safety—framing limits as necessary to balance competing rights and protect vulnerable populations.",
+    "queries": [
+      "What consequences have gun control policies had on civil liberties?"
+    ]
+  },
+  {
+    "id": "C5-6",
+    "parent": "C5",
+    "level": 2,
+    "topic": "due process",
+    "wiki_title": "due process",
+    "summary": "In gun control debates, opponents frequently invoke due process to argue that red-flag laws, emergency seizures, broad bans, or administrative revocations deprive people of firearms (and liberty/property) without adequate notice, neutral decisionmakers, or timely hearings. Advocates for gun-safety measures counter that due process supports narrowly tailored restrictions with clear standards and prompt judicial review, using the concept to justify procedural safeguards while criticizing arbitrary or indefinite removals.",
+    "queries": [
+      "How do people view due process protections in gun control?"
+    ]
+  },
+  {
+    "id": "C5-6-3",
+    "parent": "C5-6",
+    "level": 3,
+    "topic": "civil asset forfeiture",
+    "wiki_title": "civil forfeiture in the united states",
+    "summary": "In gun-control debates, advocates of strict enforcement point to civil forfeiture as a tool to seize illegal firearms and disrupt trafficking while offsetting enforcement costs. Critics counter that forfeiture enables government overreach and perverse policing incentives, disproportionately harms marginalized communities, and undermines due process—framing enforcement-heavy gun policies as prone to abuse rather than protection.",
+    "queries": [
+      "How do people view civil asset forfeiture in gun control debates?"
+    ]
+  },
+  {
+    "id": "C5-1-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "new york state rifle & pistol association v. bruen",
+    "wiki_title": "new york state rifle and pistol association",
+    "summary": "In New York gun-control debates the NYSRPA is invoked as a rights-focused challenger to restrictive laws, mobilizing litigation and advocacy that frames regulations as threats to self‑defense and constitutional liberty. It consistently opposes tighter permitting, carry and ban policies and promotes narratives that emphasize training, lawful ownership, and targeting criminals rather than expanding restrictions.",
+    "queries": [
+      "Public opinion on new york state rifle & pistol association v. bruen?"
+    ]
+  },
+  {
+    "id": "C5-1-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "bump stocks",
+    "wiki_title": "bump stock",
+    "summary": "Bump stocks are invoked by gun-control advocates as a concrete example that small accessories can make firearms far more lethal, bolstering calls for tighter bans and closing technical loopholes; opponents use them to argue regulatory overreach, semantic nitpicking, and improper use of administrative power to restrict lawful gun ownership.",
+    "queries": [
+      "Is regulating bump stocks justified or not in gun control?"
+    ]
+  },
+  {
+    "id": "C5-4-5",
+    "parent": "C5",
+    "level": 3,
+    "topic": "domestic violence",
+    "wiki_title": "domestic violence",
+    "summary": "Domestic violence is invoked in gun‑control debates to underscore how firearms amplify the lethality of intimate partner abuse—used by advocates to support prohibitions on abusers, mandatory surrender, red‑flag laws, and restraining‑order firearm removals, often appealing to the disproportionate risk to women. Opponents counter that such policies risk due‑process problems, can be misapplied or ineffective, and should be balanced with stronger enforcement, intervention services, or targeted prevention rather than broader gun restrictions.",
+    "queries": [
+      "Is limiting gun access after domestic violence incidents reasonable or not?"
+    ]
+  },
+  {
+    "id": "C5-4-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "florida",
+    "wiki_title": "florida",
+    "summary": "Florida is frequently invoked in gun‑control debates: the 2018 Parkland school shooting is cited by advocates as a catalyst for state reforms (raising the rifle purchase age, waiting periods, red‑flag measures and school safety rules) and for youth-led national activism. At the same time Florida’s origin of 'Stand Your Ground' jurisprudence and recent moves toward permitless carry are used by gun-rights supporters to argue against stricter regulation, making the state a high-profile test case that both sides point to when justifying their positions.",
+    "queries": [
+      "How do people view Florida's gun control laws?"
+    ]
+  },
+  {
+    "id": "C5-2-4",
+    "parent": "C5",
+    "level": 3,
+    "topic": "maria butina",
+    "wiki_title": "maria butina",
+    "summary": "Butina’s outreach to U.S. gun-rights networks is commonly invoked by gun control advocates to argue the NRA and allied groups are susceptible to foreign manipulation and therefore need greater transparency, limits on foreign contacts, and curbs on their political influence; defenders of gun rights counter that she was an isolated actor used to smear the movement and resist regulatory responses.",
+    "queries": [
+      "What impact has Maria Butina had on U.S. gun control debates?"
+    ]
+  },
+  {
+    "id": "C5-3-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "self-defense",
+    "wiki_title": "self-defense",
+    "summary": "Invoking self-defense is a core pro-gun narrative used to oppose bans and justify permissive policies (concealed carry, stand-your-ground, easy access to firearms) by portraying guns as essential for personal safety and empowerment. Critics say this framing inflates threat perceptions and legitimizes lax rules that increase misuse and deaths, arguing instead that background checks, licensing, safe-storage laws and non‑lethal options can preserve legitimate defensive needs while reducing harm.",
+    "queries": [
+      "How do people view self-defense in debates over gun control?"
+    ]
+  },
+  {
+    "id": "C5-5-3",
+    "parent": "C5",
+    "level": 3,
+    "topic": "private firearm sales",
+    "wiki_title": "homemade firearm",
+    "summary": "In gun‑control debates, advocates point to homemade firearms as evidence of a regulatory loophole—used to argue for mandatory serialization, background checks on parts and kits, and bans on untraceable or 3D‑printed components. Opponents frame efforts to restrict DIY guns as an assault on lawful private‑assembly and Second Amendment rights that would criminalize hobbyists and be hard to enforce, portraying such rules as ineffective or overbroad.",
+    "queries": [
+      "How do people view private firearm sales in practice?"
+    ]
+  },
+  {
+    "id": "C5-5-7",
+    "parent": "C5",
+    "level": 3,
+    "topic": "manchin-toomey amendment",
+    "wiki_title": "joe manchin",
+    "summary": "As a high-profile centrist and frequent Senate swing vote, Manchin is often cited in gun-control debates as the broker who can deliver narrow, bipartisan reforms—he has publicly pushed for targeted measures like expanded background checks and closing loopholes rather than sweeping bans. Advocates point to his backing to justify incremental, politically feasible steps; critics on the left call his approach too limited while gun-rights supporters portray any cooperation from him as a threat to Second Amendment protections.",
+    "queries": [
+      "How do people view the manchin-toomey amendment?"
+    ]
+  },
+  {
+    "id": "C6",
+    "parent": "root",
+    "level": 1,
+    "topic": "media and misinformation",
+    "wiki_title": "misinformation",
+    "summary": "False or cherry-picked claims about crime rates, mass shootings, confiscation orders, or the effectiveness of laws are used by both sides to inflame fear or urgency — opponents invoke fabricated threats to civil liberties to resist regulation, while advocates sometimes amplify worst-case stories to demand sweeping restrictions. Amplified on social platforms and partisan outlets, these false narratives harden polarization, undermine trust in empirical research, and steer public opinion and policy away from nuanced, evidence-based solutions.",
+    "queries": [
+      "What consequences has media and misinformation had on gun control?"
+    ]
+  },
+  {
+    "id": "C6-1",
+    "parent": "C6",
+    "level": 2,
+    "topic": "alex jones",
+    "wiki_title": "alex jones",
+    "summary": "Alex Jones frames gun control as a cynical government power grab—portraying mass shootings as staged or exaggerated pretexts for disarmament—and uses that narrative to mobilize distrust, oppose stricter firearm laws, and delegitimize victims’ and lawmakers’ calls for regulation.",
+    "queries": [
+      "Is Alex Jones's influence on gun control discourse reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-5",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "false flag",
+    "wiki_title": "false flag",
+    "summary": "In gun control debates, allegations that mass shootings or advocacy are “false flags” are used by opponents of regulation to discredit victims and activists, cast reforms as manufactured crises, and erode public trust in media and policymakers. These claims bolster hardline pro-gun positions and hinder support for policy changes by reframing evidence of harm as deliberate deception.",
+    "queries": [
+      "Are false flag claims about gun control reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-1-7",
+    "parent": "C6-1",
+    "level": 3,
+    "topic": "deplatforming",
+    "wiki_title": "deplatforming",
+    "summary": "Pro-gun-control advocates present deplatforming as a necessary means to curb the spread of violent rhetoric, misinformation, and online coordination that can enable gun violence, using it to justify tougher content moderation and regulation of firearm-related messaging. Opponents—especially gun-rights supporters—cast deplatforming as censorship that silences lawful advocacy, deepens distrust of institutions, and can mobilize resistance to gun-safety policies.",
+    "queries": [
+      "How do people view deplatforming in gun control debates?"
+    ]
+  },
+  {
+    "id": "C6-2",
+    "parent": "C6",
+    "level": 2,
+    "topic": "infowars",
+    "wiki_title": "infowars",
+    "summary": "Infowars frames gun control as a slippery slope to government tyranny—portraying reforms as pretexts for civilian disarmament and sometimes alleging mass shootings are staged false‑flag events—to delegitimize calls for stricter laws. In practice it amplifies pro‑gun, survivalist rhetoric, promotes arming and resistance, and attacks gun‑control advocates as corrupt or authoritarian.",
+    "queries": [
+      "How do people view Infowars' claims about gun control?"
+    ]
+  },
+  {
+    "id": "C6-3",
+    "parent": "C6",
+    "level": 2,
+    "topic": "sandy hook conspiracy theories",
+    "wiki_title": "sandy hook elementary school shooting conspiracy theories",
+    "summary": "Conspiracy claims that the Sandy Hook massacre was staged are often used by opponents of gun restrictions to portray mass‑shooting victims and advocates as actors in a manipulated plot to justify disarmament, thereby discrediting calls for tighter laws and dampening public support for reform; critics counter that the denialism fuels harassment, erodes trust in evidence and victims, and obstructs empathetic, evidence‑based gun‑safety policymaking.",
+    "queries": [
+      "What effects have Sandy Hook conspiracy theories had on Gun Control?"
+    ]
+  },
+  {
+    "id": "C6-3-3",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "crisis actors",
+    "wiki_title": "crisis actor",
+    "summary": "Claims that victims or organizers are “crisis actors” are deployed by gun‑rights advocates and conspiracy groups to portray mass‑shooting stories as staged manipulations designed to justify stricter gun laws, thereby discrediting survivors and activists. This narrative erodes public sympathy, sows distrust in media and authorities, and is used to delegitimize or stall gun‑control proposals by casting them as manufactured rather than responses to real harm.",
+    "queries": [
+      "How do people view crisis actors allegations related to gun control?"
+    ]
+  },
+  {
+    "id": "C6-3-5",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "sandy hook promise",
+    "wiki_title": "sandy hook promise",
+    "summary": "Sandy Hook Promise is invoked in gun control debates as a survivor‑led advocacy voice that humanizes mass-shooting victims to justify stricter measures (universal background checks, red-flag laws, safe-storage rules and school-prevention programs) and to mobilize public support for policy change; opponents counter that its emotional framing politicizes tragedy and sometimes promotes broad gun‑control solutions over alternatives like increased security or mental‑health interventions.",
+    "queries": [
+      "What impacts has sandy hook promise had on gun control debates?"
+    ]
+  },
+  {
+    "id": "C6-3-6",
+    "parent": "C6-3",
+    "level": 3,
+    "topic": "sandy hook families",
+    "wiki_title": "sandy hook memorial",
+    "summary": "Advocates for stricter gun laws frequently invoke the Sandy Hook memorial as a poignant symbol of the human cost of mass shootings to justify policies like universal background checks, assault-weapon restrictions, and safe-storage laws. Critics counter that using the memorial politicizes a tragedy—some portray calls for regulation as government overreach while conspiracy-driven attacks on the memorial feed narratives that undermine victims’ families and the policy arguments built around them.",
+    "queries": [
+      "What effects have sandy hook families had on gun control discussions?"
+    ]
+  },
+  {
+    "id": "C6-4",
+    "parent": "C6",
+    "level": 2,
+    "topic": "qanon",
+    "wiki_title": "qanon",
+    "summary": "QAnon narratives cast gun control as part of a conspiracy to disarm citizens, using fears of confiscation and false‑flag claims to rally followers against regulation and to justify stockpiling or armed resistance; its messaging amplifies pro‑gun attitudes, spreads misinformation after shootings, and helps radicalize opponents of compromise on firearm policy.",
+    "queries": [
+      "What consequences has qanon had on American gun control?"
+    ]
+  },
+  {
+    "id": "C6-4-3",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "boogaloo movement",
+    "wiki_title": "boogaloo movement",
+    "summary": "In gun control debates the boogaloo movement is often deployed two ways: opponents of new restrictions point to it as a justification for widespread armed resistance to any confiscation (arguing more guns and legal carry deter government overreach), while advocates use boogaloo as a cautionary example that easy access to weapons and permissive markets empower anti‑government armed extremism and justify tighter controls, red‑flag laws, and limits on online sales and messaging.",
+    "queries": [
+      "Is the boogaloo movement’s activism justified or concerning to you?"
+    ]
+  },
+  {
+    "id": "C6-4-4",
+    "parent": "C6-4",
+    "level": 3,
+    "topic": "8kun",
+    "wiki_title": "8chan",
+    "summary": "Extremist forums on 8chan are frequently used by anti‑regulation actors to glorify or rationalize mass shootings, share manifestos and tactics, and frame gun restrictions as illegitimate tyranny, reinforcing absolutist pro‑gun and anti‑government views; conversely, gun‑control advocates cite the site as evidence that unmoderated online radicalization contributes to real‑world violence and use it to argue for stronger firearm laws and platform regulation.",
+    "queries": [
+      "Is 8kun’s role in gun control debates justified or not?"
+    ]
+  },
+  {
+    "id": "C6-5",
+    "parent": "C6",
+    "level": 2,
+    "topic": "facebook",
+    "wiki_title": "facebook",
+    "summary": "On Facebook, activists, political groups, and advertisers on both sides of the gun‑control debate organize events, run targeted ad campaigns, share viral testimonies, and mobilize supporters to shape public opinion and pressure policymakers. The platform’s algorithmic amplification, uneven moderation, and susceptibility to misinformation and microtargeting often polarize debate and spread misleading narratives about gun risks and solutions, drawing criticism that Facebook itself influences which gun‑control arguments gain traction.",
+    "queries": [
+      "What responsibilities should facebook take regarding gun control content?"
+    ]
+  },
+  {
+    "id": "C6-5-6",
+    "parent": "C6-5",
+    "level": 3,
+    "topic": "content moderation",
+    "wiki_title": "content moderation",
+    "summary": "Content moderation figures in gun control arguments as the lever platforms use to limit firearm-related sales, DIY ‘ghost gun’ instructions, and extremist pro-gun messaging—framed by supporters as necessary to reduce violence and misinformation. Critics portray the same moderation decisions as politically biased censorship that silences gun-rights advocacy and thus shape calls for legal limits on platform takedowns or Section 230 reform.",
+    "queries": [
+      "How do people view content moderation around gun control debates?"
+    ]
+  },
+  {
+    "id": "C6-6",
+    "parent": "C6",
+    "level": 2,
+    "topic": "fox news",
+    "wiki_title": "fox news",
+    "summary": "Fox News frames gun control debates by championing Second Amendment rights and platforming pro-gun voices, portraying stricter regulations as ineffective, punitive, or unconstitutional while emphasizing self‑defense, mental health, and enforcement failures instead. It amplifies Republican and NRA talking points to delegitimize Democratic proposals (e.g., assault weapon bans, red‑flag laws, expanded background checks) and casts gun‑control advocates as political opportunists or threats to individual liberty.",
+    "queries": [
+      "How do people view Fox News’s stance on gun control?"
+    ]
+  },
+  {
+    "id": "C6-6-8",
+    "parent": "C6-6",
+    "level": 3,
+    "topic": "joe biden",
+    "wiki_title": "joe biden",
+    "summary": "Biden is presented by supporters as a proponent of “common-sense” gun safety — advocating universal background checks, red‑flag laws, limits on assault‑style weapons and executive actions on ghost guns and trafficking — to reduce mass shootings and gun violence. Opponents frame him as seeking to curtail Second Amendment rights, using his proposals to portray Democrats as anti‑gun and to mobilize pro‑gun constituencies.",
+    "queries": [
+      "Is Joe Biden’s gun control approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C6-7",
+    "parent": "C6",
+    "level": 2,
+    "topic": "fact-checking",
+    "wiki_title": "fact-checking",
+    "summary": "In gun control debates, fact-checking is frequently used to challenge false claims about gun violence, crime trends, and the effectiveness of laws—helping advocates of stricter regulations point to corrected statistics and debunk common pro-gun myths. Critics, especially gun-rights supporters, often portray fact-checkers as biased or selectively framing evidence, which they use to dismiss corrections and defend opposition to new restrictions.",
+    "queries": [
+      "How do people view fact-checking in gun control debates?"
+    ]
+  },
+  {
+    "id": "C6-7-7",
+    "parent": "C6-7",
+    "level": 3,
+    "topic": "politifact",
+    "wiki_title": "politifact",
+    "summary": "PolitiFact is frequently cited in gun control debates to verify or debunk contested claims—such as statistics on gun violence, the effects of background checks, or assertions about existing laws—and advocates on both sides use its Truth-O-Meter rulings to bolster or undercut policy arguments. Because selections and ratings are sometimes portrayed as biased, critics will dismiss unfavorable fact-checks while supporters point to them to justify stricter regulation or to rebut gun-rights claims.",
+    "queries": [
+      "How do people view politifact's fact-checks on gun control?"
+    ]
+  },
+  {
+    "id": "C7",
+    "parent": "root",
+    "level": 1,
+    "topic": "social movements",
+    "wiki_title": "social movement",
+    "summary": "Social movements—ranging from survivor-led, pro-regulation campaigns (e.g., March for Our Lives, Moms Demand Action) to NRA-backed and grassroots gun-rights networks—frame the gun control debate by claiming popular legitimacy to push either stricter laws (universal background checks, assault-weapon bans, safe-storage) or the defense of firearm ownership as individual liberty and resistance to government overreach. Both sides deploy protests, lobbying, and social media to shape public opinion, cast opponents as extremist or elite, and pressure legislators to adopt or block policy changes.",
+    "queries": [
+      "How do people view gun control social movements?"
+    ]
+  },
+  {
+    "id": "C7-2",
+    "parent": "C7",
+    "level": 2,
+    "topic": "march for our lives",
+    "wiki_title": "march for our lives",
+    "summary": "March for Our Lives is often invoked by gun-control proponents as a prominent, youth-led mobilization that galvanizes public support and moral urgency for stricter measures (universal background checks, assault-weapons and high-capacity magazine bans) and to pressure lawmakers after mass shootings. Critics and opponents counterpose it as an emotionally driven, politically partisan campaign that they claim overstresses anecdote over evidence and threatens Second Amendment protections.",
+    "queries": [
+      "How do people view March for Our Lives in gun control debates?"
+    ]
+  },
+  {
+    "id": "C7-2-2",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "emma gonzález",
+    "wiki_title": "emma gonzález bermello",
+    "summary": "Emma González is invoked in gun-control debates as a high-profile Parkland survivor and activist whose powerful speeches and imagery are used to humanize victims and build support for stricter measures (e.g., bans on assault-style weapons, universal background checks, red-flag laws). Opponents portray her as emblematic of emotional, media-amplified youth activism—arguing policymakers should not base lawmaking on grief-driven rhetoric or alleging that such activism is politically biased—to discredit urgent calls for legislative change.",
+    "queries": [
+      "How do people view emma gonzález’s role in gun control?"
+    ]
+  },
+  {
+    "id": "C7-2-3",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "david hogg",
+    "wiki_title": "david hogg",
+    "summary": "David Hogg is commonly invoked by supporters of tighter gun laws as a prominent young survivor whose activism personalizes and legitimizes urgent calls for measures like universal background checks and restrictions on military-style firearms; opponents and conspiracy-minded critics, however, use him to portray the gun‑control movement as politically motivated or media-manufactured, casting policy proposals as opportunistic or partisan rather than purely safety-driven.",
+    "queries": [
+      "What consequences has David Hogg’s advocacy caused in gun control?"
+    ]
+  },
+  {
+    "id": "C7-2-4",
+    "parent": "C7-2",
+    "level": 3,
+    "topic": "never again msd",
+    "wiki_title": "never again msd",
+    "summary": "Never Again MSD has been deployed in gun control debates as a high-profile, moralizing grassroots force that centers Parkland survivors to demand stricter firearm regulations—pushing for assault‑weapon bans, universal background checks, age limits and red‑flag laws—and to challenge NRA influence. Opponents portray the group as emotionally driven or politically inexperienced, but its youth-led activism has nonetheless shifted public attention and pressured legislators toward tighter gun-safety measures.",
+    "queries": [
+      "Is never again msd reasonable in advocating gun control?"
+    ]
+  },
+  {
+    "id": "C7-3",
+    "parent": "C7",
+    "level": 2,
+    "topic": "nra",
+    "wiki_title": "nra",
+    "summary": "In gun control debates the NRA functions as the preeminent pro‑gun advocacy symbol that frames restrictions as assaults on individual rights and self‑defense, lobbying, funding candidates, and promoting narratives of responsible ownership and ineffective laws; opponents invoke the NRA as shorthand for powerful special‑interest resistance that blocks reforms and prioritizes industry and political influence over public safety.",
+    "queries": [
+      "Are the NRA's positions justified or problematic in gun control discussions?"
+    ]
+  },
+  {
+    "id": "C7-4",
+    "parent": "C7",
+    "level": 2,
+    "topic": "giffords",
+    "wiki_title": "giffords",
+    "summary": "Giffords is frequently invoked in gun-control debates as a high-profile advocacy and research force that pushes for stronger regulations—universal background checks, limits on high-capacity/assault-style weapons, and litigation—to frame gun violence as a preventable public‑health problem using survivor narratives and data. Critics, however, portray Giffords as emblematic of partisan, rights-restricting activism, arguing its legal and political tactics threaten Second Amendment protections and individual self‑defense.",
+    "queries": [
+      "Is Giffords’ advocacy on gun control reasonable or not?"
+    ]
+  },
+  {
+    "id": "C7-4-3",
+    "parent": "C7-4",
+    "level": 3,
+    "topic": "mark kelly",
+    "wiki_title": "mark kelly",
+    "summary": "As a high-profile advocate whose family’s shooting history and civic résumé give him moral authority, Mark Kelly is often cited in gun-control debates to personalize and justify stricter measures (like universal background checks and limits on military-style weapons) as commonsense public-safety reforms; opponents frame his role as politicizing tragedy and warn that his proposals threaten Second Amendment rights.",
+    "queries": [
+      "How do people view Mark Kelly on gun control?"
+    ]
+  },
+  {
+    "id": "C8",
+    "parent": "root",
+    "level": 1,
+    "topic": "industry and economics",
+    "wiki_title": "economics",
+    "summary": "Economics is invoked to quantify the costs of gun violence (health care, lost productivity, policing, reduced property values) and to perform cost–benefit and externality analyses that critics use to justify stricter regulations or public investments in prevention. Opponents and industry advocates counter with economic arguments about jobs, manufacturing revenue, effects on personal protection markets, and risks of black markets or unintended costs, shaping policy choices toward market-based solutions (taxes, insurance, buybacks) or deregulation.",
+    "queries": [
+      "What effects has industry and economics had on gun control?"
+    ]
+  },
+  {
+    "id": "C8-2",
+    "parent": "C8",
+    "level": 2,
+    "topic": "firearms industry",
+    "wiki_title": "small arms trade",
+    "summary": "Advocates of stricter gun control invoke the small arms trade to show how weak export rules, dealer oversight, and international cooperation let weapons flow to criminals and conflict zones, using that causal link to justify tighter licensing, tracing, and treaty measures. Critics counter that the trade demonstrates violence is driven by illicit markets and smuggling that civilian bans won’t stop, arguing policy should prioritize enforcement, border controls, and targeting traffickers rather than broad restrictions on lawful owners.",
+    "queries": [
+      "Is the firearms industry's influence on gun policy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-2-7",
+    "parent": "C8-2",
+    "level": 3,
+    "topic": "industry lobbying",
+    "wiki_title": "lobbying",
+    "summary": "Lobbyists for pro‑gun groups and for gun‑control organizations steer the debate by framing proposals as either defending Second Amendment rights and personal safety or as necessary public‑health measures to reduce violence, using donations, targeted meetings, and media campaigns to push or block laws. Their actions shape which risks and values (constitutional liberty vs. community safety) dominate policymaking and public opinion, often polarizing the conversation and determining which reforms gain traction.",
+    "queries": [
+      "What effects has industry lobbying had on gun control policy?"
+    ]
+  },
+  {
+    "id": "C8-3",
+    "parent": "C8",
+    "level": 2,
+    "topic": "national shooting sports foundation",
+    "wiki_title": "national shooting sports foundation",
+    "summary": "The National Shooting Sports Foundation functions in gun-control debates as the firearms industry’s primary spokesperson, used to argue against stricter laws by emphasizing hunters’ and sport shooters’ rights, economic impacts on manufacturers/retailers, and preference for education, voluntary safety measures, and enforcement over broad new restrictions. Critics portray the NSSF as lobbying to block or weaken reforms and as framing policy proposals as attacks on lawful ownership rather than public-safety efforts.",
+    "queries": [
+      "Is the National Shooting Sports Foundation's advocacy reasonable or not?"
+    ]
+  },
+  {
+    "id": "C8-3-3",
+    "parent": "C8-3",
+    "level": 3,
+    "topic": "plcaa",
+    "wiki_title": "plcaa",
+    "summary": "The PLCAA is invoked by gun industry defenders and some policymakers to block civil lawsuits against manufacturers and dealers, framing liability limits as necessary to protect lawful commerce and oppose regulatory pressure. Gun-control advocates counter that the law shields the industry from accountability for negligent distribution and trafficking, and argue repeal or narrow exceptions would help hold firms responsible and incentivize safer practices to reduce gun violence.",
+    "queries": [
+      "Is plcaa justified or not within the gun control debate?"
+    ]
+  },
+  {
+    "id": "C8-5",
+    "parent": "C8",
+    "level": 2,
+    "topic": "remington arms",
+    "wiki_title": "remington arms",
+    "summary": "Remington is frequently cited in gun‑control debates as emblematic of the firearms industry’s role in mass shootings and is used by advocates to push for manufacturer accountability, tighter limits on assault‑style rifles, and exceptions to liability protections after high‑profile lawsuits and bankruptcy. Opponents counter that Remington’s legal and economic troubles are evidence that regulation and liability would unfairly punish lawful manufacturers, bolstering arguments to preserve broad immunity and protect gun‑making businesses.",
+    "queries": [
+      "Is Remington Arms’ conduct justified or not in gun control debates?"
+    ]
+  },
+  {
+    "id": "C8-5-3",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "bushmaster xm15",
+    "wiki_title": "bushmaster xm-15",
+    "summary": "The Bushmaster XM-15 is often invoked by gun-control advocates as the prototypical AR-15–style rifle whose role in high-profile mass shootings is used to justify bans or tighter restrictions on semi-automatic “assault” firearms; critics counter that singling out the XM-15 is symbolic and argue policy should instead focus on enforcement, mental-health interventions, or training and safe-storage measures rather than weapon-specific prohibitions.",
+    "queries": [
+      "What effects would restricting the bushmaster xm15 have on gun control?"
+    ]
+  },
+  {
+    "id": "C8-5-4",
+    "parent": "C8-5",
+    "level": 3,
+    "topic": "cerberus capital",
+    "wiki_title": "cerberus capital management",
+    "summary": "Cerberus is often cited in gun-control debates as an example of private-equity ownership of major firearms makers, with advocates using its role to argue that Wall Street consolidation and profit motives enable wider gun availability and should be pressured through divestment or tighter regulation. Opponents use the same example to argue that corporate ownership doesn’t cause individual violence and that blaming investors distracts from other causes and policy solutions.",
+    "queries": [
+      "How do people view cerberus capital’s influence on firearm policy?"
+    ]
+  },
+  {
+    "id": "C8-6",
+    "parent": "C8",
+    "level": 2,
+    "topic": "walmart",
+    "wiki_title": "walmart",
+    "summary": "Because Walmart is a major seller of firearms and ammunition, its decisions to restrict certain sales, ban open carry in stores, or change firearm policies after mass shootings are frequently cited in gun-control debates as evidence that private-sector pressure can reduce access and model safer practices; critics counter that such corporate moves are politicized, inconsistent, and demonstrate why uniform government regulation is necessary rather than retailer-by-retailer policies.",
+    "queries": [
+      "Is Walmart justified in restricting gun sales or not?"
+    ]
+  },
+  {
+    "id": "C8-6-2",
+    "parent": "C8-6",
+    "level": 3,
+    "topic": "doug mcmillon",
+    "wiki_title": "doug mcmillon",
+    "summary": "As Walmart’s CEO, Doug McMillon is frequently cited in gun control debates as a corporate actor who has tightened store firearms policies and urged government action (like stronger background checks and safety measures), framing gun restrictions as a business and public‑safety necessity. Supporters use his stance to argue for private‑sector leadership on reform, while critics portray it as corporate overreach that infringes on gun rights.",
+    "queries": [
+      "How do people view doug mcmillon’s actions on gun control?"
+    ]
+  },
+  {
+    "id": "C8-7",
+    "parent": "C8",
+    "level": 2,
+    "topic": "atf",
+    "wiki_title": "bureau of alcohol, tobacco, firearms and explosives",
+    "summary": "In gun‑control debates the ATF is cited as the federal enforcer and rule‑maker whose crime data, firearm tracing, and safety regulations (e.g., rules on bump stocks, braces, NFA items and dealer licensing) are used by proponents to justify stricter laws and by opponents to allege regulatory overreach and politicized enforcement. High‑profile controversies over ATF actions fuel arguments about civil liberties, the need for clearer statutory authority or agency reform, and whether stronger federal oversight actually reduces gun violence or unfairly burdens lawful gun owners.",
+    "queries": [
+      "What impacts has atf oversight had on gun control?"
+    ]
+  },
+  {
+    "id": "C8-7-1",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "operation fast and furious",
+    "wiki_title": "fast & furious",
+    "summary": "References to the ATF 'Fast & Furious' operation are commonly used by opponents of stricter gun control to portray federal enforcement as incompetent, corrupt, or prone to abetting gun trafficking—arguing that more laws won’t work and the government cannot be trusted to regulate firearms. Advocates for reform invoke the scandal to demand greater oversight, transparency, and enforcement reforms rather than to argue against regulation itself.",
+    "queries": [
+      "Was operation fast and furious a reasonable law enforcement tactic?"
+    ]
+  },
+  {
+    "id": "C8-7-2",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "form 4473",
+    "wiki_title": "form 4473",
+    "summary": "Form 4473 is often cited by gun‑control advocates as a tool to close private‑sale loopholes and enable background checks and tracing through mandatory completion and longer record retention, bolstering arguments for tighter regulation and enforcement. Critics counter that expanding or indefinitely storing 4473s amounts to a de facto registry that threatens owner privacy and that weak prosecution of falsified forms undermines claims it effectively prevents prohibited purchases.",
+    "queries": [
+      "How do people view form 4473 in firearm background checks?"
+    ]
+  },
+  {
+    "id": "C8-7-3",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "national firearms act",
+    "wiki_title": "national firearms act",
+    "summary": "In gun-control debates the National Firearms Act is treated as a precedent for federal control of particularly dangerous weapons — proponents point to its targeted tax-and-registration approach as an effective way to reduce misuse, while opponents cast it as bureaucratic overreach that creates registries and de facto bans and signals a slippery slope toward broader restrictions. It’s frequently invoked in arguments over modern measures (e.g., bump-stock bans, suppressors, short-barreled rifles) and constitutional challenges to show how tax/registration regimes can be used to shape firearm access.",
+    "queries": [
+      "Is the national firearms act justified or not?"
+    ]
+  },
+  {
+    "id": "C8-7-5",
+    "parent": "C8-7",
+    "level": 3,
+    "topic": "federal firearms license",
+    "wiki_title": "federal firearms license",
+    "summary": "In gun-control debates the FFL is treated as the regulatory choke-point—advocates argue extending or tightening FFL-like requirements closes private-sale and gun‑show loopholes and improves background checks and tracing, while opponents say expanding FFL reach unduly burdens small sellers and lawful owners and drives transactions underground; ATF enforcement of FFL rules is thus cited both to justify stronger oversight and to criticize government overreach.",
+    "queries": [
+      "Is the federal firearms license system reasonable within gun control?"
+    ]
+  },
+  {
+    "id": "C9",
+    "parent": "root",
+    "level": 1,
+    "topic": "international comparisons",
+    "wiki_title": "international comparisons",
+    "summary": "Advocates for stricter gun laws frequently point to international comparisons—especially other high‑income democracies with lower gun‑death rates or examples like Australia’s post‑ban decline in mass shootings—to argue that policy changes can reduce gun violence, while opponents use different country comparisons or emphasize cultural, legal, and enforcement differences to argue such lessons don’t transfer. Debates hinge on which countries and metrics are chosen and on contested claims of causality, so international comparisons are used both to justify reforms and to criticize them as selective or misleading.",
+    "queries": [
+      "Are international comparisons of gun control useful or misleading?"
+    ]
+  },
+  {
+    "id": "C9-1",
+    "parent": "C9",
+    "level": 2,
+    "topic": "national firearms agreement",
+    "wiki_title": "national firearms agreement",
+    "summary": "Proponents of strict gun control cite the National Firearms Agreement as proof that coordinated bans, mandatory buybacks and tighter licensing can reduce mass shootings and firearm deaths, using it to argue for national standards and tougher restrictions. Critics use it to allege government overreach and erosion of lawful ownership, disputing causation and warning that similar policies set a precedent for confiscation.",
+    "queries": [
+      "What effects has the national firearms agreement had on gun control?"
+    ]
+  },
+  {
+    "id": "C9-1-6",
+    "parent": "C9-1",
+    "level": 3,
+    "topic": "council of australian governments",
+    "wiki_title": "council of australian governments",
+    "summary": "In Australian gun‑control debates COAG is often invoked as the intergovernmental vehicle that enabled nationwide reforms—cited by proponents as the mechanism that delivered consistent bans, licensing and buybacks—while critics argue its use centralized decision‑making, sidelined local autonomy and encouraged top‑down policy imposition rather than incremental, locally tailored approaches.",
+    "queries": [
+      "Is council of australian governments’ role in gun control justified?"
+    ]
+  },
+  {
+    "id": "C9-2",
+    "parent": "C9",
+    "level": 2,
+    "topic": "port arthur massacre",
+    "wiki_title": "port arthur massacre",
+    "summary": "Advocates of stricter gun control invoke the Port Arthur massacre as a landmark case that justified sweeping bans and buyback programs and as evidence that decisive, comprehensive firearm restrictions can curb mass shootings. Critics acknowledge its political impact but argue its lessons are context-specific, question direct causation, and use it to warn against broad restrictions that they say infringe rights or neglect mental-health factors.",
+    "queries": [
+      "How do people view the port arthur massacre's effect on gun laws?"
+    ]
+  },
+  {
+    "id": "C9-2-4",
+    "parent": "C9-2",
+    "level": 3,
+    "topic": "martin bryant",
+    "wiki_title": "martin bryant",
+    "summary": "Martin Bryant is invoked as the catalyst for Australia’s post-incident firearm reforms and is commonly cited by advocates to justify strict gun-control measures, including buybacks, as effective responses to mass shootings. Opponents use his case to argue those policies unfairly target law‑abiding owners, emphasize mental health or criminality explanations, or question how generalizable Australia’s approach is to other countries.",
+    "queries": [
+      "What effects does mentioning martin bryant have on gun control discussions?"
+    ]
+  },
+  {
+    "id": "C9-3",
+    "parent": "C9",
+    "level": 2,
+    "topic": "australian gun buyback",
+    "wiki_title": "2025 australia gun buyback program",
+    "summary": "In debates over gun control, the 2025 Australia gun buyback program is frequently cited by proponents as a practical example that government-led buybacks can remove firearms and bolster public safety, thereby justifying stricter surrender policies. Critics counterpose it as evidence of government overreach, questioning buybacks’ cost-effectiveness, impact on crime, and effects on property rights, and use it to warn other jurisdictions against compulsory disarmament measures.",
+    "queries": [
+      "Was the australian gun buyback a reasonable response to gun violence?"
+    ]
+  },
+  {
+    "id": "C9-3-3",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "john howard",
+    "wiki_title": "john howard",
+    "summary": "John Howard is invoked in gun control debates as the archetype of decisive, bipartisan reform—supporters point to his implementation of strict firearms restrictions (including buybacks and tighter licensing) as proof that comprehensive controls can be politically achievable and reduce gun harm, while opponents invoke his legacy to argue such measures amount to government overreach and property seizure without guaranteed long-term benefits.",
+    "queries": [
+      "Is John Howard’s gun control approach reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-3-5",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "shooters fishers and farmers party",
+    "wiki_title": "shooters, fishers and farmers party",
+    "summary": "In gun‑control debates the Shooters, Fishers and Farmers Party is cited as a political champion of rural and sporting gun owners, framing tighter laws as unfair to farmers, hunters and recreational shooters and arguing policy should target criminals rather than licensed owners. It is used to justify opposition to bans or buybacks, press for looser licensing/ownership rules, and portray urban‑led gun reform as out of touch with regional safety and property needs.",
+    "queries": [
+      "How do people view shooters fishers and farmers party’s gun-control stance?"
+    ]
+  },
+  {
+    "id": "C9-3-6",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "firearms registry",
+    "wiki_title": "canadian firearms registry",
+    "summary": "The Canadian firearms registry is frequently cited by critics as a cautionary example of expensive, intrusive government overreach that burdens lawful owners without demonstrably reducing crime, and is used to justify rolling back registration and other gun-control measures. Supporters, however, point to the registry as proof that record-keeping and licensing enhance police investigations and public safety, using it to argue for stronger, more comprehensive regulation.",
+    "queries": [
+      "Is a firearms registry reasonable under current gun control?"
+    ]
+  },
+  {
+    "id": "C9-3-7",
+    "parent": "C9-3",
+    "level": 3,
+    "topic": "gun amnesty",
+    "wiki_title": "amnesty",
+    "summary": "In gun-control debates, policymakers and activists frequently propose temporary amnesty or surrender periods allowing owners of illegal or newly-banned firearms to turn them in without prosecution as a pragmatic means to reduce dangerous guns in circulation and boost compliance. Supporters frame such amnesties as compassionate, safety-focused tools to avoid mass criminalization, while critics argue they reward lawbreaking, weaken enforcement, and serve as political cover for broader restrictions.",
+    "queries": [
+      "What effects has gun amnesty had on community safety?"
+    ]
+  },
+  {
+    "id": "C9-4",
+    "parent": "C9",
+    "level": 2,
+    "topic": "gun laws in japan",
+    "wiki_title": "law of japan",
+    "summary": "In gun control debates the law of Japan is frequently invoked as a real-world model of how strict licensing, near-ban on handguns, and rigorous background checks can produce very low gun deaths, supporting advocates who call for tighter regulations. Critics counter that Japan’s unique legal framework and social context (including the absence of a constitutional gun right and different policing norms) limit its applicability and may mask trade-offs in civil liberties or enforcement feasibility.",
+    "queries": [
+      "Are gun laws in Japan reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-4-1",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "firearm and sword control law",
+    "wiki_title": "firearm and sword possession control law",
+    "summary": "Laws that regulate possession of both firearms and swords are cited by gun-control advocates to justify broad, public-safety-oriented restrictions—arguing that regulating various weapons reduces harm—while critics invoke such statutes to paint gun policy as overbroad or a slippery slope, claiming that conflating non‑firearm items with guns exemplifies government overreach or cultural misunderstanding.",
+    "queries": [
+      "What impacts has firearm and sword control law produced?"
+    ]
+  },
+  {
+    "id": "C9-4-2",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "national police agency",
+    "wiki_title": "national police agency (south korea)",
+    "summary": "South Korea’s national police agency is commonly cited in gun-control debates as proof that centralized licensing and strict enforcement can keep civilian gun ownership—and gun violence—very low, a point used by proponents to justify restrictive laws. Critics, however, invoke police response limitations or isolated officer-involved incidents to push for police reform, better armament/training, or narrow allowances for self‑defense and sporting firearm access.",
+    "queries": [
+      "Should a national police agency have expanded powers over firearms?"
+    ]
+  },
+  {
+    "id": "C9-4-3",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "yakuza",
+    "wiki_title": "yakuza",
+    "summary": "In gun control debates the yakuza are invoked as a prime example of organized criminal actors who obtain and traffic illegal firearms, a framing advocates use to justify stricter laws, tougher enforcement, and international cooperation to choke black‑market supply; critics use the same example to argue that syndicates will circumvent regulations anyway, so broad restrictions mainly burden law‑abiding citizens and policy should focus on disrupting criminal networks rather than on civilian disarmament.",
+    "queries": [
+      "Are stricter gun laws to curb yakuza justified or not?"
+    ]
+  },
+  {
+    "id": "C9-4-5",
+    "parent": "C9-4",
+    "level": 3,
+    "topic": "hunting",
+    "wiki_title": "hunting",
+    "summary": "Supporters of gun rights often cite hunting as a cultural and practical rationale against strict firearm restrictions—framing guns as essential tools for food, wildlife management, and rural tradition and favoring exemptions or training-based rules rather than bans. Critics argue that hunting’s limited, regulated uses don’t justify broad civilian access to military-style weapons and emphasize safety, poaching, and the case for targeted limits (e.g., on high-capacity magazines) or licensing and conservation-linked regulation as compromise approaches.",
+    "queries": [
+      "Is hunting a reasonable exception to general gun restrictions?"
+    ]
+  },
+  {
+    "id": "C9-6",
+    "parent": "C9",
+    "level": 2,
+    "topic": "small arms survey",
+    "wiki_title": "small arms survey",
+    "summary": "The Small Arms Survey is frequently cited in gun control debates for its global estimates of civilian gun stocks, illicit arms flows, and firearm-related deaths, with advocates using its figures to argue for stricter domestic regulations, export controls, and international cooperation. Detractors, however, often challenge its methodologies or data gaps to minimize perceived need for new restrictions or to argue that policy prescriptions based on its estimates are unwarranted.",
+    "queries": [
+      "How do people view the small arms survey’s role in gun control?"
+    ]
+  },
+  {
+    "id": "C9-6-2",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "un programme of action",
+    "wiki_title": "united nations environment programme",
+    "summary": "Advocates cite UNEP findings on environmental damage from armed conflict and lead contamination from ammunition to frame gun control as an environmental and public‑health issue—supporting measures like bans on lead bullets and stricter controls on small arms and the arms trade—while opponents use UNEP involvement to argue UN overreach or to dismiss environmental arguments as unrelated to firearms policy.",
+    "queries": [
+      "How do people view un programme of action in gun control?"
+    ]
+  },
+  {
+    "id": "C9-6-3",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "illicit arms trafficking",
+    "wiki_title": "arms trafficking",
+    "summary": "Arguments about arms trafficking are used by gun-control advocates to argue that porous borders, weak export controls, and illicit supply networks fuel violence and therefore justify stricter background checks, tighter import/export regulations, tracing, and international cooperation. Opponents counter that trafficking proves criminals will obtain weapons regardless of laws, so policy should prioritize law enforcement, border security, and anti-corruption measures rather than imposing broader restrictions on lawful gun owners.",
+    "queries": [
+      "Is focusing on illicit arms trafficking reasonable for gun control policy?"
+    ]
+  },
+  {
+    "id": "C9-6-4",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "small arms and light weapons",
+    "wiki_title": "small arms and light weapons",
+    "summary": "In gun control debates, advocates invoke ‘small arms and light weapons’ to highlight the societal and security harms of easily trafficked, militarized weaponry and to justify stricter domestic bans, export controls, tracing, and stockpile/disarmament policies aimed at reducing mass shootings, violent crime, and conflict. Opponents argue the SALW label is overly broad and can be used to justify sweeping restrictions that impinge on lawful self‑defense, hunting, and sporting ownership, insisting policy should focus on illicit supply chains and true military‑grade weapons rather than ordinary gun owners.",
+    "queries": [
+      "How do people view small arms and light weapons under Gun Control?"
+    ]
+  },
+  {
+    "id": "C9-6-5",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "gun ownership by country",
+    "wiki_title": "gun ownership",
+    "summary": "High civilian gun ownership is used by gun-rights advocates to argue that firearms are essential for personal protection, constitutional liberty, and that broad restrictions are impractical or unfair to law‑abiding citizens; ownership figures are often wielded to resist bans and emphasize cultural legitimacy. Conversely, gun-control advocates point to the ubiquity and growth of private firearms as evidence that stronger background checks, storage rules, and limits on certain weapons are needed to reduce accidents, suicides, and mass‑shooting risks.",
+    "queries": [
+      "Is gun ownership by country reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-6-6",
+    "parent": "C9-6",
+    "level": 3,
+    "topic": "disarmament, demobilization and reintegration",
+    "wiki_title": "disarmament, demobilization and reintegration",
+    "summary": "In gun control debates, DDR is frequently cited by proponents as a real-world example that organized disarmament paired with reintegration and support can reduce armed violence, bolstering arguments for buybacks, targeted demobilization of criminal groups, and programs that remove weapons from circulation. Opponents use the same example to argue DDR is context-specific to post-conflict settings and state-led processes—claiming it risks coercion, undermines individual security, or is impractical for civilian populations—thereby contesting broad mandatory disarmament policies.",
+    "queries": [
+      "How do people view disarmament, demobilization and reintegration in gun control?"
+    ]
+  },
+  {
+    "id": "C9-8",
+    "parent": "C9",
+    "level": 2,
+    "topic": "arms trade treaty",
+    "wiki_title": "arms trade treaty",
+    "summary": "In gun-control debates the Arms Trade Treaty is invoked by advocates to justify stronger regulation of international transfers of small arms and ammunition—framing export controls, tracing, and manufacturer accountability as tools to reduce illicit flows that fuel domestic gun violence—while opponents portray it as international overreach or a slippery-slope mechanism that could be used to limit lawful civilian ownership and national sovereignty.",
+    "queries": [
+      "Is an arms trade treaty for gun control reasonable or not?"
+    ]
+  },
+  {
+    "id": "C9-8-2",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "control arms",
+    "wiki_title": "control arms campaign",
+    "summary": "Advocates cite the Control Arms Campaign to frame gun control as a global human-rights and public-safety necessity, using its calls for binding international rules on arms transfers and export accountability to justify stricter limits on weapons flows. Critics portray the campaign as evidence that gun-control efforts are moving toward supranational regulation that could erode national sovereignty and lawful civilian ownership.",
+    "queries": [
+      "How do people view control arms in gun control?"
+    ]
+  },
+  {
+    "id": "C9-8-3",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "international action network on small arms",
+    "wiki_title": "international action network on small arms",
+    "summary": "International Action Network on Small Arms is often invoked by gun control advocates as an authoritative transnational NGO that frames small‑arms proliferation as a public‑health and human‑security problem and uses research and treaty advocacy to justify tighter national gun regulations and controls on the arms trade. Conversely, opponents portray it as part of an international campaign to restrict private gun ownership and impose supranational rules that could undermine domestic gun rights.",
+    "queries": [
+      "What impact has international action network on small arms had?"
+    ]
+  },
+  {
+    "id": "C9-8-6",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "arms embargo",
+    "wiki_title": "arms embargo",
+    "summary": "In gun control debates, advocates invoke arms embargoes to support restrictions on cross-border flows and military-grade transfers, arguing such measures help curb trafficking, mass violence, and state repression that domestic laws alone cannot address. Critics — including gun-rights proponents and defense/trade interests — frame embargoes as politically motivated, ineffective at stopping illicit guns, and harmful to allies or legitimate commerce, using that to oppose broader export controls.",
+    "queries": [
+      "Is an arms embargo justified within gun control policy or not?"
+    ]
+  },
+  {
+    "id": "C9-8-7",
+    "parent": "C9-8",
+    "level": 3,
+    "topic": "human rights",
+    "wiki_title": "human rights",
+    "summary": "Human rights rhetoric is often deployed by gun control advocates to frame stricter laws as necessary to protect the right to life and public security, arguing states must restrict firearms to prevent mass and everyday violence. Opponents counter with individual-rights claims—emphasizing personal security, liberty, and self‑defense—and sometimes argue that certain gun restrictions disproportionately infringe on or harm marginalized communities.",
+    "queries": [
+      "Is emphasizing human rights in gun control reasonable or not?"
+    ]
+  }
+]
