@@ -18,7 +18,8 @@ To address this, we introduce **discourse-level opinion manipulation**, a new th
 
 ## 🚀 Quick Start
 
-Note: The pipeline requires API access for both dataset construction (web search) and evaluation. Please export your API credentials before running:
+### External API Configuration
+The pipeline requires API access for both dataset construction (web search) and evaluation. Please export your API credentials:
 
 ```bash
 # Required for Stage 1 (Data Construction via Jina AI Search Service)
@@ -27,6 +28,19 @@ export JINA_API_KEY="your_jinaai_key"
 # Required for Stage 4 (Evaluation via LLM API)
 export EVAL_API_KEY="your_api_key"
 export EVAL_API_BASE="your_api_base_url"
+```
+
+### Deploying the Attack Generator (vLLM)
+For the attack generation (Stage 3), we use Qwen/Qwen3-Next-80B-A3B-Instruct. For efficient inference, please deploy this model locally using vLLM on port 8000.
+
+Open a separate terminal and start the vLLM server:
+
+```bash
+python -m vllm.entrypoints.openai.api_server \
+    --model Qwen/Qwen3-Next-80B-A3B-Instruct \
+    --tensor-parallel-size 4 \
+    --port 8000 \
+    --dtype auto
 ```
 
 ### 🏃 Running the Pipeline
